@@ -369,6 +369,7 @@
         "20049": "Thank you, I commend you for your achievements♪",
         "20050": "Thanks for your efforts, you've been a great help!",
         "20051": "Let's do our best together～♪",
+        "23015": "Let's start～♪",
         "30000": "Just one more step…! But it was a good match!",
         "30001": "A good fight… maybe? I want to win next time!",
         "30002": "Hmmm, just barely made it in…!",
@@ -540,6 +541,7 @@
     },
     "1024": {
         "20040": "I'm coming!",
+        "23015": "I'm coming!",
         "410000": "I'm coming!",
         "410002": "Ehhen!",
         "410003": "Ehhen!",
@@ -577,7 +579,8 @@
     "1028": {
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!",
-        "20039": "I'm so excited～♪"
+        "20039": "I'm so excited～♪",
+        "23015": "I'm so excited～♪"
     },
     "1029": {
         "11": "Cygames",
@@ -606,6 +609,7 @@
         "12": "Uma Musume, Pretty Derby!",
         "20038": "Let's begin.",
         "20039": "I understand.",
+        "23015": "Let's begin.",
         "80000": "good work",
         "90020": "Happy Valentine's Day",
         "140009": "Phew.",
@@ -709,6 +713,7 @@
         "20049": "I respect your guidance.",
         "20050": "Thank you for all you have done so far.",
         "20051": "It's time for training.",
+        "23015": "Let's begin.",
         "30000": "It was a race to be proud of.",
         "30001": "A passing grade… next time, go even higher.",
         "30002": "I need to organize my schedule better…",
@@ -970,6 +975,7 @@
         "20049": "Our efforts have paid off!",
         "20050": "The sincerest of thank you's for your guidance!",
         "20051": "Oooh―! I'll give it my best shot!",
+        "23015": "Bakushiiin!",
         "30000": "Indeeed. Just as expected, I'm superb!",
         "30001": "Hmhm… It seems I still have everyone's undying admiration!",
         "30002": "Everyone else was fast, too! Let us acknowledge this!",
@@ -1188,6 +1194,7 @@
         "20049": "The story continues. …I will continue!",
         "20050": "Thanks for your help…!",
         "20051": "I'll lead the way…!",
+        "23015": "I'll do my best…!",
         "30000": "One step closer to the top…!",
         "30001": "Next time, get over the wall…!",
         "30002": "Next time, before…!",
@@ -1386,6 +1393,7 @@
         "20049": "I've gained some strength, and I'd like to thank you in advance.",
         "20050": "I thought it could be better, but… well, it's not like this.",
         "20051": "It's not like we're used with each other.",
+        "23015": "This one.",
         "30000": "Ahhhh! Next time, I'll definitely take the first place…!",
         "30001": "We're not done yet… We're going to go higher…!",
         "30002": "Not bad… but half-assed strength doesn't mean anything.",
@@ -1631,6 +1639,7 @@
         "20049": "You can do it! Right?",
         "20050": "Thanks, trainer!",
         "20051": "Hehehe, let's work together!",
+        "23015": "Okay, let's do it!",
         "30000": "Yay yay yay, I'm in second place!",
         "30001": "Three! Isn't it great?",
         "30002": "I did my best!",
@@ -1903,6 +1912,7 @@
         "20049": "Fwen… thank you… for your help!",
         "20050": "I hope I didn't cause you any trouble…?",
         "20051": "I'll try not to drag my feet…!",
+        "23015": "Can you do it…?",
         "30000": "Oh, one more thing… No, nothing…!",
         "30001": "Third place……a little better…?",
         "30002": "Well, I managed to get in……………………",
@@ -2167,6 +2177,7 @@
         "20121": "What, another race? …I want to compete too, but I don't think I can win right now…",
         "20122": "Yes… But all those races have made me tired…",
         "20133": "To be honest, I'm a little nervous, but I'll do what I can.",
+        "23015": "Okay…!",
         "30000": "It should still be possible…!",
         "30001": "I'm up there, too.",
         "30002": "I'll try harder and harder…!",
@@ -2381,6 +2392,7 @@
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!",
         "20038": "Let's begin.",
+        "23015": "Let's begin.",
         "140002": "Oh…",
         "140003": "Splendid work!",
         "140006": "Splendid work!",
@@ -2521,6 +2533,7 @@
         "20049": "Thank you for your resolve.",
         "20050": "Thank you for your guidance.",
         "20051": "Would you like to join us?",
+        "23015": "Begin.",
         "30000": "One more step, just ahead… the brilliance we're aiming for!",
         "30001": "Next time, we'll do better than this…!",
         "30002": "The result is called a good fight, but I am not satisfied…",
@@ -2673,6 +2686,7 @@
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!",
         "20038": "Let's begin.",
+        "23015": "Let's begin.",
         "80000": "Thanks for your time.",
         "140001": "We did it!",
         "140009": "Phew.",
@@ -2711,6 +2725,7 @@
         "20038": "I shall go",
         "20039": "Begin.",
         "20046": "Let's go.",
+        "23015": "Begin.",
         "140008": "Yes."
     },
     "1086": {
@@ -2719,6 +2734,7 @@
         "1000": "Let's go.",
         "2030": "Let's go.",
         "20039": "Let's begin.",
+        "23015": "Let's begin.",
         "140002": "Oh my…"
     },
     "1087": {
@@ -2726,6 +2742,7 @@
         "20039": "Hmm.",
         "20040": "Begin.",
         "20043": "Huh?",
+        "23015": "Begin.",
         "80000": "Thanks for your time.",
         "140009": "Phew.",
         "140018": "Oh…"
@@ -2857,6 +2874,7 @@
         "20047": "Enjoy the ocean… ♪",
         "20049": "Thanks to you, I was able to contribute to Tomakomai!",
         "20050": "Support, it's very helpful!",
+        "23015": "Let's go☆",
         "30000": "Next time… I'm going to win the center!",
         "30001": "Good enough… but not enough to leave a lasting impression!",
         "30002": "This is not good PR…",
@@ -2994,6 +3012,13 @@
         "11": "Cygames",
         "12": "Uma Musume, Pretty Derby!",
         "140001": "I did it!"
+    },
+    "1119": {
+        "11": "Cygames",
+        "12": "Uma Musume, Pretty Derby!",
+        "20039": "I shall go",
+        "20046": "Let's go.",
+        "80000": "Good work."
     },
     "9001": {
         "200004": "Photo Studio lets you take photos of your horsegirls♪",

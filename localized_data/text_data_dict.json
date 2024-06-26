@@ -583,6 +583,7 @@
         "108801": "[Emerald Journey]",
         "108901": "[Grand Itinéraire]",
         "109101": "[Voyage Étincelant]",
+        "109401": "[Ruler's Battle Cry]",
         "109801": "[Yin-yang Bagua ☆ Lucky Costume]",
         "109901": "[Star・Light・Ship]",
         "110201": "[Ritmo Della Terra]",
@@ -697,6 +698,7 @@
         "1109": "Rhein Kraft",
         "1115": "Orfevre",
         "1116": "Gentildonna",
+        "1119": "Dream Journey",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
@@ -937,7 +939,8 @@
         "1108": "Miho Dorm",
         "1109": "Ritto Dorm",
         "1115": "Ritto Dorm",
-        "1116": "Ritto Dorm"
+        "1116": "Ritto Dorm",
+        "1119": "Ritto Dorm"
     },
     "9": {
         "1001": "Slight decrease (Nervous before races)",
@@ -1710,6 +1713,9 @@
         "30247": "Rate up for select support cards!",
         "30248": "Guaranteed ★3 horsegirl from these 8!",
         "30251": "Rate up on selected SSR support cards!",
+        "30252": "Get 90 extra pieces with the ★3 banner horsegirl!",
+        "30253": "Rate up for select support cards!",
+        "30254": "Guaranteed ★3 horsegirl from these 8!",
         "50001": "One time only! Paid Jewels exclusive gacha!",
         "50002": "One time only! Paid Jewels exclusive gacha!",
         "50003": "One time only! Paid Jewels exclusive gacha!",
@@ -1778,7 +1784,8 @@
         "50084": "One time only! Paid Jewels exclusive gacha!",
         "50089": "One time only! Paid Jewels exclusive gacha!",
         "50090": "One time only! Paid Jewels exclusive gacha!",
-        "50091": "One-time! Limited to SSR wisdom cards!"
+        "50091": "One-time! Limited to SSR wisdom cards!",
+        "50096": "One-time! Limited to SSR speed cards!"
     },
     "16": {
         "1001": "Umapyoi Densetsu",
@@ -3023,6 +3030,7 @@
         "30247": "Pick Up Support Card Gacha",
         "30248": "Twinkle Collection Pretty Derby Gacha",
         "30251": "Secret Pickup Support Card Gacha",
+        "30254": "Twinkle Collection Pretty Derby Gacha",
         "50001": "Guaranteed ★3 Start Dash Gacha",
         "50002": "Guaranteed SSR Start Dash Gacha",
         "50003": "Guaranteed ★3 Half Anniversary Gacha",
@@ -3088,7 +3096,9 @@
         "50071": "Live Event DAY 1 Guaranteed ★3 Gacha",
         "50072": "Live Event DAY 2 Guaranteed ★3 Gacha",
         "50085": "Live Event DAY 1 Guaranteed ★3 Gacha",
-        "50086": "Live Event DAY 2 Guaranteed ★3 Gacha"
+        "50086": "Live Event DAY 2 Guaranteed ★3 Gacha",
+        "50092": "Guaranteed 2023 ★3 Gacha",
+        "50093": "Guaranteed 2022 SSR Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5255,7 +5265,9 @@
         "1201701": "Tokyo Yushun (Japan Derby) (HARD)",
         "1201702": "Tokyo Yushun (Japan Derby) (HARD)",
         "1201801": "Yasuda Kinen (HARD)",
-        "1201802": "Yasuda Kinen (HARD)"
+        "1201802": "Yasuda Kinen (HARD)",
+        "1201901": "Takarazuka Kinen (HARD)",
+        "1201902": "Takarazuka Kinen (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -7357,7 +7369,9 @@
         "1201701": "Japan Derby (HARD)",
         "1201702": "Japan Derby (HARD)",
         "1201801": "Yasuda Kinen (HARD)",
-        "1201802": "Yasuda Kinen (HARD)"
+        "1201802": "Yasuda Kinen (HARD)",
+        "1201901": "Takarazuka Kinen (HARD)",
+        "1201902": "Takarazuka Kinen (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -8681,6 +8695,7 @@
         "12016": "Tenno Sho (Spring)",
         "12017": "Japan Derby",
         "12018": "Yasuda Kinen",
+        "12019": "Takarazuka Kinen",
         "13001": "League of Heroes Main Stage",
         "13002": "League of Heroes Extra Stage",
         "13003": "League of Heroes Main Stage",
@@ -9543,6 +9558,7 @@
         "12016": "Legend Race",
         "12017": "Legend Race",
         "12018": "Legend Race",
+        "12019": "Legend Race",
         "15001": "Scout Race",
         "15002": "Scout Race",
         "15003": "Scout Race",
@@ -9876,7 +9892,8 @@
         "1201302": "VS Mihono Bourbon",
         "1201402": "VS King Halo",
         "1201502": "VS Seiun Sky",
-        "1201602": "VS TM Opera O"
+        "1201602": "VS TM Opera O",
+        "1201902": "VS Gold Ship"
     },
     "38": {
         "1001": "February S",
@@ -10060,6 +10077,7 @@
         "11003": "Trial Coin Shop",
         "11004": "Trial Coin Shop",
         "11005": "Trial Coin Shop",
+        "11006": "Trial Coin Shop",
         "12000": "1st Anniv. \\nSpecial",
         "12001": "1st Anniv. \\nSpecial",
         "12002": "1st Anniv. \\nSpecial",
@@ -11333,6 +11351,9 @@
         "109101111": "Heavenly Little Sister",
         "109101211": "High Society Mentality!",
         "109301211": "Spark of Life",
+        "109401111": "Fangs of Ferocity",
+        "109401211": "Demon of Tokyo",
+        "109401221": "Unparalleled Bomber Runner",
         "109801111": "Copano-style Rising Fortunes!",
         "109801211": "Surging Ley Lines",
         "109901111": "Feast of Tomakomai",
@@ -11461,6 +11482,7 @@
         "100891": "Around the middle of the race, if you're near the front but not leading, your speed will increase and your stamina will slightly recover; bonus stamina recovery in races of at least 2400 m",
         "100911": "If you entered the Final Straight in the middle of the pack, then when there's 300 m remaining in the race, your speed will increase; it will increase greatly if you didn't panic (kakari) during the race",
         "100931": "During the first half of the Final Leg, if you're in a good position, you will get a speed boost; the effect is stronger in Short and Mile races",
+        "100941": "If you're in the middle of the pack halfway through the race, your speed will increase; it will increase greatly in Medium races",
         "100981": "In the second half of the Middle Leg, your speed and acceleration will increase depending on the amount of green skills you've activated",
         "100991": "Dirt・If you were blocked from the side on any Middle Leg corner, then if you're in a good position during the Last Spurt, your acceleration will increase",
         "101001": "With 300 meters remaining in the race, if you're in a good position, your speed will increase; if it's a dirt race and you're close to the lead, you will also immediately accelerate",
@@ -12519,6 +12541,9 @@
         "109101211": "Betweener・At a random point in the second half of the race, if you're around the middle of the pack, your speed will increase and your acceleration will increase slightly",
         "109301111": "Leader・At a random point on the Final Corner, if you're in the first half of the pack, your speed will increase; in Short races, you will also get a slight speed boost",
         "109301211": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase",
+        "109401111": "Betweener・Medium・If you're not in the front during the second half of the Middle Leg, your speed will increase; the effect is slightly stronger if your base Power is at least 1200",
+        "109401211": "Medium・In Tokyo races during the first half of the Final Leg, your speed will increase and your acceleration will slightly increase",
+        "109401221": "Medium・During the first half of the Final Leg, your speed will greatly increase",
         "109801111": "Dirt・If you're in the first half of the pack during the second half of the Middle Leg, your speed will greatly increase",
         "109801211": "Dirt・If your Power stat is at least 1000, gain 80 Speed stat; if your Power stat is at least 1200, gain 100 Speed stat instead",
         "109901111": "Leader・If you're in the first half of the pack during the second half of the Opening Leg, your speed will increase and your stamina will recover",
@@ -12539,7 +12564,8 @@
         "110801111": "During a random Middle Leg corner, your speed will increase",
         "110801211": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg (or the Final Corner of the Nakayama Racecourse), your acceleration will increase; then, during the Last Straight, your speed will slightly increase",
         "110901111": "Mile・If you're in the first half of the pack during the second half of the Middle Leg, your speed will greatly increase",
-        "110901211": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase"
+        "110901211": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase",
+        "111901111": "Your Speed and Power stats are increased by 80 on clockwise tracks"
     },
     "49": {
         "1": "50 Jewels",
@@ -15346,6 +15372,7 @@
         "320004": "Receive an Excellent grade in the Trainer's Proficiency Exam",
         "320005": "Receive an Excellent grade in the Trainer's Proficiency Exam",
         "320006": "Receive an Excellent grade in the Trainer's Proficiency Exam",
+        "320007": "Receive an Excellent grade in the Trainer's Proficiency Exam",
         "330101": "Obtain all the individual rewards in Umadol Project",
         "330201": "See the Good ending of Demon Golshi-chan Mode",
         "401101": "Achieve legendary results in the Capricorn Hai",
@@ -20103,6 +20130,27 @@
         "2002919": "[Limited] Enter Legend Race 6 times",
         "2002920": "[Limited] Enter Legend Race 9 times",
         "2002921": "[Limited] Enter Legend Race 12 times",
+        "2003001": "[Daily] Enter Legend Race 1 time",
+        "2003002": "[Daily] Enter Legend Race 2 times",
+        "2003003": "[Daily] Enter Legend Race 3 times",
+        "2003004": "[Daily] Enter Legend Race 1 time",
+        "2003005": "[Daily] Enter Legend Race 2 times",
+        "2003006": "[Daily] Enter Legend Race 3 times",
+        "2003007": "[Daily] Enter Legend Race 1 time",
+        "2003008": "[Daily] Enter Legend Race 2 times",
+        "2003009": "[Daily] Enter Legend Race 3 times",
+        "2003010": "[Daily] Enter Legend Race 1 time",
+        "2003011": "[Daily] Enter Legend Race 2 times",
+        "2003012": "[Daily] Enter Legend Race 3 times",
+        "2003013": "[Daily] Enter Legend Race 1 time",
+        "2003014": "[Daily] Enter Legend Race 2 times",
+        "2003015": "[Daily] Enter Legend Race 3 times",
+        "2003016": "[Daily] Enter Legend Race 1 time",
+        "2003017": "[Daily] Enter Legend Race 2 times",
+        "2003018": "[Daily] Enter Legend Race 3 times",
+        "2003019": "[Limited] Enter Legend Race 6 times",
+        "2003020": "[Limited] Enter Legend Race 9 times",
+        "2003021": "[Limited] Enter Legend Race 12 times",
         "2100010": "[Daily] Enter Taurus Cup",
         "2100011": "[Daily] Enter Taurus Cup",
         "2100012": "[Daily] Enter Taurus Cup",
@@ -20385,6 +20433,23 @@
         "2200163": "[Daily] Let's login",
         "2200165": "[Daily] Let's login",
         "2200167": "[Daily] Let's login",
+        "2200171": "Receive 5 Passing grades in the Trainer's Exam",
+        "2200174": "Receive 5 Good grades in the Trainer's Exam",
+        "2200177": "Receive 5 Excellent grades in the Trainer's Exam",
+        "2200178": "[Daily] Let's login",
+        "2200180": "[Daily] Let's login",
+        "2200182": "[Daily] Let's login",
+        "2200184": "[Daily] Let's login",
+        "2200186": "[Daily] Let's login",
+        "2200188": "[Daily] Let's login",
+        "2200190": "[Daily] Let's login",
+        "2200192": "[Daily] Let's login",
+        "2200194": "[Daily] Let's login",
+        "2200196": "[Daily] Let's login",
+        "2200198": "[Daily] Let's login",
+        "2200200": "[Daily] Let's login",
+        "2200202": "[Daily] Let's login",
+        "2200204": "[Daily] Let's login",
         "2300001": "[Daily] Race against Grass Wonder (HARD)",
         "2300002": "[Daily] Race against King Halo (HARD)",
         "2300003": "[Daily] Race against Seiun Sky (HARD)",
@@ -21195,20 +21260,20 @@
         "4": "Nice day for a drive!",
         "5": "The Prince of Splendor",
         "6": "Oguri's Lunch",
-        "7": "You know what I'm\\ntalking about!",
-        "8": "At an age where one\\nwants to be cool",
+        "7": "You know what I'm talking about!",
+        "8": "At an age where one wants to be cool",
         "9": "Secret notebook",
         "10": "The gate is too narrow!?",
         "11": "Shall we have tea?",
         "12": "With all one's might.",
         "13": "I'm restricting calories!",
         "14": "Salsa vida is the soul!",
-        "15": "And of course, the\\ncurtain call.",
+        "15": "And of course, the curtain call.",
         "16": "Fortitude",
         "17": "Daily Training",
         "18": "Inspire the Empress!",
         "19": "Making progress.",
-        "20": "I'm not slacking off,\\nI'm on a mission.",
+        "20": "I'm not slacking off, I'm on a mission.",
         "21": "Kansai spirit",
         "22": "Great discovery!",
         "23": "Top-heavy",
@@ -21217,24 +21282,24 @@
         "26": "Cyborg horsegirl…?",
         "27": "Longing for cuteness",
         "28": "I'm still growing!",
-        "29": "Language of the\\nSnow Country",
-        "30": "A child who brings\\nmisfortune?",
+        "29": "Language of the Snow Country",
+        "30": "A child who brings misfortune?",
         "31": "Good shopper",
         "32": "You should try it.",
         "33": "That star…",
         "34": "Watch out for fire",
         "35": "One minute to go.",
-        "36": "Glucose is being\\nreplenished.",
+        "36": "Glucose is being replenished.",
         "37": "Meticulous planning",
         "38": "#KawaiiCurrenchan",
         "39": "With my role model…",
         "40": "She's an active model.",
         "41": "Go with the flow!",
-        "42": "That's what we're\\ngoing for!",
+        "42": "That's what we're going for!",
         "43": "I bit my tongue…",
         "44": "Become my fami～liar♪",
         "45": "I want to be spoiled.",
-        "46": "One step at a time on the\\nroad to Umadol!",
+        "46": "One step at a time on the road to Umadol!",
         "47": "There are so many!",
         "48": "The back you want to push",
         "49": "Have-not policy",
@@ -21246,7 +21311,7 @@
         "55": "You and me both.",
         "56": "Bungled and ruined.",
         "57": "Because I wanted to go.",
-        "58": "Today is the day, tomorrow\\nis the day.",
+        "58": "Today is the day, tomorrow is the day.",
         "59": "Entirely oblivious.",
         "60": "I'm not a nee-chan.",
         "61": "King never gives up.",
@@ -21260,7 +21325,7 @@
         "69": "Chiyonoean proverb",
         "70": "Clarification",
         "71": "It's a noble…",
-        "72": "Life is but an exercise\\nin discipline",
+        "72": "Life is but an exercise in discipline",
         "73": "Like a jellyfish",
         "74": "Unsung Heroine",
         "75": "Love is infinite",
@@ -22121,6 +22186,7 @@
         "10106": "[Tracen Academy]",
         "10107": "[Tracen Academy]",
         "10108": "[Tracen Academy]",
+        "10109": "[Tracen Academy]",
         "10113": "[Tracen Academy]",
         "10114": "[Tracen Academy]",
         "10117": "[Tracen Academy]",
@@ -22448,6 +22514,7 @@
         "10106": "Neo Universe",
         "10107": "Hishi Miracle",
         "10108": "Dantsu Flame",
+        "10109": "Chairwoman Akikawa",
         "10113": "Gentildonna",
         "10114": "Rhein Kraft",
         "10117": "No Reason",
@@ -22726,7 +22793,9 @@
         "30203": "Jungle Pocket",
         "30204": "Seiun Sky",
         "30205": "Verxina",
-        "30206": "Vivlos"
+        "30206": "Vivlos",
+        "30207": "Chairwoman Akikawa",
+        "30208": "Nishino Flower"
     },
     "78": {
         "10001": "Special Week",
@@ -22836,6 +22905,7 @@
         "10106": "Neo Universe",
         "10107": "Hishi Miracle",
         "10108": "Dantsu Flame",
+        "10109": "Chairwoman Akikawa",
         "10113": "Gentildonna",
         "10114": "Rhein Kraft",
         "10117": "No Reason",
@@ -23114,7 +23184,9 @@
         "30203": "Jungle Pocket",
         "30204": "Seiun Sky",
         "30205": "Verxina",
-        "30206": "Vivlos"
+        "30206": "Vivlos",
+        "30207": "Chairwoman Akikawa",
+        "30208": "Nishino Flower"
     },
     "88": {
         "10041": "Hello, my name is Nishino Flower. I \\nwant to become a nice, sisterly \\nhorse girl so that everyone can \\nrely on me…!",
@@ -24001,7 +24073,8 @@
         "110601": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl.",
         "110701": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl.",
         "110801": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl.",
-        "110901": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl."
+        "110901": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl.",
+        "111901": "Used to obtain horsegirls and develop their talents.\\nA special piece with the crystallized wishes of a horsegirl."
     },
     "119": {
         "1": "Establishing! The URA Finals!!",
@@ -26979,7 +27052,8 @@
         "30203": "Power bonus when Bond over 80",
         "30204": "Power bonus when Bond over 80",
         "30205": "Speed bonus when Bond over 80",
-        "30206": "Speed and Skill Pt bonus \\nwhen Bond over 80"
+        "30206": "Speed and Skill Pt bonus \\nwhen Bond over 80",
+        "30208": "Training bonus increases with \\nsum of support card Bonds"
     },
     "159": {
         "1001": "Betweener",
@@ -27143,7 +27217,8 @@
         "1108": "Middle School",
         "1109": "Middle School",
         "1115": "High School",
-        "1116": "High School"
+        "1116": "High School",
+        "1119": "High School"
     },
     "163": {
         "1044": "Sweep Tosho is my \\npre-transformation name! I am \\nSweepy the Magical Girl! Now this \\nis sorcery! Aaah!! (Bonk)",
@@ -27464,7 +27539,8 @@
         "1106": "Both: 22.0cm",
         "1107": "Both: 25.0cm",
         "1108": "Both: 24.5cm",
-        "1109": "Left: 23.5cm \\nRight: 23.0cm"
+        "1109": "Left: 23.5cm \\nRight: 23.0cm",
+        "1119": "Both: 22.5cm"
     },
     "169": {
         "1029": "Reliefed their daughter \\nretains her dialect after \\ngoing to the city",
@@ -27620,12 +27696,13 @@
         "1109": "Rhein Kraft",
         "1115": "Orfevre",
         "1116": "Gentildonna",
+        "1119": "Dream Journey",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
         "2004": "Montjeu",
         "9001": "Hayakawa Tazuna",
-        "9002": "Akikawa Yayoi",
+        "9002": "Chairwoman Akikawa",
         "9003": "Otonashi Etsuko",
         "9004": "Kiryuuin Aoi",
         "9005": "Anshinzawa Sasami",
@@ -29255,6 +29332,7 @@
         "501107900": "Intro",
         "501108900": "Intro",
         "501109900": "Intro",
+        "501119900": "Intro",
         "830017003": "This Is My 'Umadol' Way ☆"
     },
     "182": {
@@ -29363,12 +29441,12 @@
         "1109": "Rhein Kraft",
         "1115": "Orfevre",
         "1116": "Gentildonna",
+        "1119": "Dream Journey",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
         "2004": "Montjeu",
         "9001": "<i>Hayakawa Tazuna</i>",
-        "9002": "<i>Akikawa Yayoi</i>",
         "9003": "<i>Otonashi Etsuko</i>",
         "9004": "<i>Kiryuuin Aoi</i>",
         "9005": "<i>Anshinzawa Sasami</i>",
@@ -29706,7 +29784,13 @@
         "656": "Affection gain up",
         "657": "Affection gain up",
         "658": "Free Retries UP",
-        "659": "Increased Attempts"
+        "659": "Increased Attempts",
+        "668": "Increased Rewards",
+        "669": "Half TP Consumption",
+        "670": "Free Retries UP",
+        "671": "Additional factor rerolls",
+        "672": "Half price rentals",
+        "673": "Rental Amount UP"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -29903,7 +29987,10 @@
         "656": "Increased friendship gained \\nfrom training.",
         "657": "Increased friendship gained \\nfrom Stadium.",
         "658": "Free retries doubled.",
-        "659": "Get 3 extra tickets each day."
+        "659": "Get 3 extra tickets each day.",
+        "668": "Items obtained in training doubled.",
+        "669": "Training costs half the TP.",
+        "670": "Free retries doubled."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -31668,7 +31755,13 @@
         "42": "Some events in the main scenario change. \\nWill become a L'Arc member through special \\nevents even if not in your support cards.",
         "43": "Some events in the main scenario change. \\nWill become a L'Arc member through special \\nevents even if not in your support cards.",
         "44": "Some events in the main scenario change. \\nWill become a L'Arc member through special \\nevents even if not in your support cards.",
-        "50": "Will help with training as the scenario progresses"
+        "50": "Will help with training as the scenario progresses",
+        "61": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
+        "62": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
+        "63": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
+        "64": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
+        "65": "Will change some of the scenario events \\nCan become a team member through special events \\neven if not part of your support deck",
+        "66": "Will help with training as the scenario progresses"
     },
     "199": {
         "21": "Will improve some events",
@@ -31690,7 +31783,12 @@
         "52": "Will improve some events",
         "53": "Will improve some events",
         "54": "Will improve some events",
-        "55": "Will improve some events"
+        "55": "Will improve some events",
+        "61": "Will improve some events",
+        "62": "Will improve some events",
+        "63": "Will improve some events",
+        "64": "Will improve some events",
+        "65": "Will improve some events"
     },
     "200": {
         "11": "Will improve some events",
@@ -31713,7 +31811,13 @@
         "42": "Will improve some events",
         "43": "Will improve some events",
         "44": "Will improve some events",
-        "50": "Will improve some events"
+        "50": "Will improve some events",
+        "61": "Will improve some events",
+        "62": "Will improve some events",
+        "63": "Will improve some events",
+        "64": "Will improve some events",
+        "65": "Will improve some events",
+        "66": "Will improve some events"
     },
     "206": {
         "1": "Taurus Cup",
@@ -34282,6 +34386,9 @@
         "10280103": "Eat a dream-filled chanko in the \\n'お夜食ちゃんこの効能' event",
         "10280104": "Reach ≥800 Power",
         "10280105": "Learn 3 Speed-increasing skills",
+        "10280106": "Learn 3 Speed-increasing skills",
+        "10280107": "Learn 2 Leader skills",
+        "10280108": "Reach ≥600 Guts",
         "10290101": "Win Oka Sho",
         "10290102": "Reach ≥800 Speed",
         "10290103": "Win Oaks",
@@ -34974,7 +35081,11 @@
         "11090105": "Reach ≥800 Power",
         "11090106": "Reach ≥600 Guts",
         "11090107": "Win 4 GⅠ races",
-        "11090108": "Learn 4 Leader skills"
+        "11090108": "Learn 4 Leader skills",
+        "11190102": "Learn 2 ability-displaying skills",
+        "11190103": "Reach ≥800 Power",
+        "11190104": "Reach ≥800 Wisdom",
+        "11190105": "Win 4 GⅠ races"
     },
     "293": {
         "1": "Training effect",
@@ -35457,6 +35568,10 @@
     },
     "329": {
         "5": "Training bonus"
+    },
+    "333": {
+        "2": "Training bonus",
+        "201": "Energy"
     },
     "351": {
         "1": "Make Debut",
