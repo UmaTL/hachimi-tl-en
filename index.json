@@ -4944,14 +4944,54 @@
       "size": 4065
     },
     {
+      "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_btn_trainingmenu_ssmatch00.json",
+      "hash": "f8b6ce0b35eb1cd2f5b4f7748b8aed30276da74f1083d07e901401a6d69ac0b4",
+      "size": 2380
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/arc/pf_fl_singlemode_arc_header_turncounter00.json",
+      "hash": "79e5c5eb74ac624e414da0224872366093b50630c116b9db227f48241a7f74f1",
+      "size": 2159
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_header_turncounter00.json",
+      "hash": "6931054019edb2a9ea4eb166abad76839cc4735bce4a11b6ca3a7d9e167a86f7",
+      "size": 2273
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/free/pf_fl_singlemode_free_header_turncounter00.json",
+      "hash": "89689ab9bbe3c5f8b170b3e09844dc34a7f9612afc51a2adaeab5a6d71ee778e",
+      "size": 762
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_header_turncounter00.json",
+      "hash": "2efbf62ff71da59536aa4961062c73e0925ad7cc6f1600a8794695e4e295a137",
+      "size": 2157
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter00.json",
+      "hash": "130a9cf3e1e1b65b01136d2793d42b5e9a890e0e57a442a9b8a88e540a145e11",
+      "size": 762
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_header_turncounter00.json",
+      "hash": "55c9b273f5dbd17622d935084172cf7c3176e6fe004c8ef76600b61b50632726",
+      "size": 2161
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/teamrace/pf_fl_singlemode_teamrace_header_turncounter00.json",
+      "hash": "a4caf258be2425d516b12e7fa8172c1bde5c145d2dd9e69f2d5230721f16a9f1",
+      "size": 2159
+    },
+    {
       "path": "character_system_text_dict.json",
-      "hash": "5188eb21960348e1398cfeb84018385d50d8345d8f078b4dbddb9db9fad5a417",
-      "size": 215982
+      "hash": "aca4408d529697258dbe8aecdc207a0861e55255e438c0e85639bd1b7b0d0da3",
+      "size": 216024
     },
     {
       "path": "config.json",
-      "hash": "fbea34fb3dd5ec9e3118adb6b5c0b9bc8cd54565dbd10b46d4d0fa7c15df99a1",
-      "size": 637
+      "hash": "2043c558c82aa2744c2ffe6cbd11c940d05f217cc3e64ce8f532b4e48428832d",
+      "size": 929
     },
     {
       "path": "hashed_dict.json",
@@ -4960,8 +5000,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "216508cb625a378b858f1e8b8f1c74652dd67b1472edbc7208fdb185be207126",
-      "size": 35678
+      "hash": "aa11dde6010432a7216aded5aacf0715ce5bc5340957d05edcef53c857aad6c6",
+      "size": 82992
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -4975,8 +5015,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "7227dc09bbaf85e75400572d711ce8337ca10f954b6c0bc03d325cca895c144e",
-      "size": 2084942
+      "hash": "7a23a8d95ff9532c1e176730b0600f2c68e49fd1b841533dc1dca4027793c434",
+      "size": 2091672
     }
   ]
 }
