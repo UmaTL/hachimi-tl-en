@@ -16,4 +16,5 @@ This is the English translation repository for Hachimi.
     - Nephiro
     - watatomo
     - ...and others
+- [KevinVG207/Uma-Carotene-TL](https://github.com/KevinVG207/Uma-Carotene-TL)
 - [GameTora](https://gametora.com/umamusume): gertas (et al.)

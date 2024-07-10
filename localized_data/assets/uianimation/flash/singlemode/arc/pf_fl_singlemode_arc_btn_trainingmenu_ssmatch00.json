@@ -1,0 +1,76 @@
+{
+    "windows": {
+        "bundle_name": "W6KHSDLE57ESSVI36DRKTKVEBIBJBZ7H"
+    },
+    "android": {
+        "bundle_name": "FABBC2JAPYY2QOXIN4BNUWLAPBMR66E5"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "11": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 16.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.16,
+                            "y": 1.16,
+                            "z": 1.0
+                        }
+                    },
+                    "1": {
+                        "position_offset": {
+                            "x": 16.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.16,
+                            "y": 1.16,
+                            "z": 1.0
+                        }
+                    },
+                    "2": {
+                        "position_offset": {
+                            "x": 16.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.16,
+                            "y": 1.16,
+                            "z": 1.0
+                        }
+                    },
+                    "3": {
+                        "position_offset": {
+                            "x": 16.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.16,
+                            "y": 1.16,
+                            "z": 1.0
+                        }
+                    },
+                    "4": {
+                        "position_offset": {
+                            "x": 16.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "scale": {
+                            "x": 1.16,
+                            "y": 1.16,
+                            "z": 1.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

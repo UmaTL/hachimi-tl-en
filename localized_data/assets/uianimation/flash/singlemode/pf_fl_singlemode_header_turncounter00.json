@@ -1,0 +1,33 @@
+{
+    "windows": {
+        "bundle_name": "SA7QIFECUBG2KM7XR5FKAYLKD2DRHN5Q"
+    },
+    "android": {
+        "bundle_name": "PVE7KLD3BXWALRKVYF64DBNZ5JOS76DQ"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "text": "End"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "left"
+                    }
+                }
+            },
+            "8": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Turns"
+                    }
+                }
+            }
+        }
+    }
+}
