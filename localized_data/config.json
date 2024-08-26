@@ -11,7 +11,9 @@
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
     "ordinal_types": ["$st", "$nd", "$rd", "$th"],
     "months": ["Jan.", "Feb.", "Mar.", "Apr.", "May.", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."],
-    "text_wrapper": 1,
+    "month_text_format": "$(half) $(month)",
+
+    "use_text_wrapper": true,
     "line_width_multiplier": 1.75,
 
     "story_line_count_offset": 1,
