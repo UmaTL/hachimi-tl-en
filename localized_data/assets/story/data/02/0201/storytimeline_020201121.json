@@ -1,38 +1,40 @@
 {
     "text_block_list": [
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san. ……sorry for taking so long. About my next race――"
+            "text": "Trainer-san. ……sorry for taking so long. \nAbout my next race――",
+            "name": "Rhein Kraft"
         },
         {
+            "text": "My goal is to take first place in the 『NHK Mile Cup』! \nI look forward to your guidance!!",
             "name": "Rhein Kraft",
-            "text": "My goal is to take first place in the 『NHK Mile Cup』! I look forward to your guidance!!",
             "choice_data_list": [
                 "Kraft……! I see, you decided!",
                 "Kraft……! I see, you decided!"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Yes. I thought there was something that I could show them, that these legs could leave behind."
+            "text": "Yes. I thought there was something that I could show them, \nthat these legs could leave behind.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Since Trainer-san and everyone else believes in my speed…… I will definitely win the title of 『Generation's Fastest』!"
+            "text": "Since Trainer-san and everyone else believes in my speed…… \nI will definitely win the title of 『Generation's Fastest』!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah. ……『Strong Uma Musume are Strong』. You'll prove that in your own way, in a way that only you can!"
+            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "name": "<username>"
         },
         {
-            "text": "Yeah. ……『Strong Uma Musume are Strong』. You'll prove that in your own way, in a way that only you can!"
+            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "name": "<username>"
         },
         {
+            "text": "……I see. So you've decided too. \n……Alright, now that we've decided that, time's running out!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Something that nobody has achieved before. Obtaining the \nunorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \nWe need to make sure to train and prepare properly!",
             "name": "King Halo",
-            "text": "……I see. So you've decided too. ……Alright, now that we've decided that, time's running out!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Something that nobody has achieved before. Obtaining the unorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. We need to make sure to train and prepare properly!",
             "choice_data_list": [
                 "Right!",
                 "Right!"
@@ -42,181 +44,187 @@
             "text": "And with that said――!"
         },
         {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Uwaah~, so we're doing training camp here, huh!? Ufufu, being completely surrounded by the forest like this, I'll be able to sleep reeeeally well~."
+            "text": "Uwaah~, so we're doing training camp here, huh!? \nUfufu, being completely surrounded by the forest \nlike this, I'll be able to sleep reeeeally well~.",
+            "name": "Antenna-haired Uma Musume"
         },
         {
-            "name": "Single Knot Uma Musume",
-            "text": "Idiot! You're an idiot! We're here for training camp, you know!? Especially for those two in the Classic class! They need to really train up after all!"
+            "text": "Idiot! You're an idiot! We're here for training camp, \nyou know!? Especially for those two in the Classic \nclass! They need to really train up after all!",
+            "name": "Single Knot Uma Musume"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san, King-san, thank you for the wonderful suggestion! I'm going to put my luggage away and get changed, okay? Let's get started soon!"
+            "text": "Trainer-san, King-san, thank you for the wonderful \nsuggestion! I'm going to put my luggage away and \nget changed, okay? Let's get started soon!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "And so, surrounded by forests, mountains, and nature, the days of intense training began……!"
+            "text": "And so, surrounded by forests, mountains, \nand nature, the days of intense training began……!"
         },
         {
-            "text": "Kraft! There's a steep hill nearby. It might be a good place to work on dashing. Want to go check it out later?"
+            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "name": "<username>"
         },
         {
-            "text": "Kraft! There's a steep hill nearby. It might be a good place to work on dashing. Want to go check it out later?"
+            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "name": "<username>"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Waaah……! Thank you very much! Please add it to the menu!"
+            "text": "Waaah……! Thank you very much! \nPlease add it to the menu!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "And, Cesario. In preparation for the 『Oaks』 we're going to focusing on stamina training."
+            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "name": "<username>"
         },
         {
-            "text": "And, Cesario. In preparation for the 『Oaks』 we're going to focusing on stamina training."
+            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "name": "<username>"
         },
         {
-            "name": "Cesario",
-            "text": "I understand. By all means, thank you for your consideration."
+            "text": "I understand. \nBy all means, thank you for your consideration.",
+            "name": "Cesario"
         },
         {
-            "name": "Single Knot Uma Musume",
-            "text": "Uhii-, the classic crew has it rough……!! But, seeing them work so hard nearby, gets me motivated!"
+            "text": "Uhii-, the classic crew has it rough……!! \nBut, seeing them work so hard nearby, gets me motivated!",
+            "name": "Single Knot Uma Musume"
         },
         {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Well, I guess it makes you think you should work hard too…… Nnnnnnaa~~, I guess we should do another lap, huh!?"
+            "text": "Well, I guess it makes you think you should work hard too…… \nNnnnnnaa~~, I guess we should do another lap, huh!?",
+            "name": "Antenna-haired Uma Musume"
         },
         {
-            "name": "King Halo",
-            "text": "Fufuu……isn't this fine? Looks like this training camp will be worthwhile!"
+            "text": "Fufuu……isn't this fine? \nLooks like this training camp will be worthwhile!",
+            "name": "King Halo"
         },
         {
-            "text": "We worked hard from early in the morning until sunset. The Classic class was working hard to prepare for this once-in-a-lifetime event, so they wouldn't have any regrets."
+            "text": "We worked hard from early in the morning until sunset. \nThe Classic class was working hard to prepare for this \nonce-in-a-lifetime event, so they wouldn't have any regrets."
         },
         {
             "text": "And then, after all that hard training――"
         },
         {
+            "text": "Fuuuu……the fire for this grill has also been lit. It's ready to \nbe used so go ahead and arrange the vegetables as you like.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Amazing~……You really are reliable and \nefficient when your switch is on, Cesario……!",
+            "name": "Single Knot Uma Musume"
+        },
+        {
+            "text": "Yeah, yeah……but, Cesario, are you properly eating too? \nYou don't have to keep looking after all of us you know~.",
+            "name": "Antenna-haired Uma Musume"
+        },
+        {
+            "text": "They're right, Cesario-san. \nNutrition is quite important for building up your body after all!",
+            "name": "King Halo"
+        },
+        {
+            "text": "That's right! That big carrot wrapped in foil that we \ngrilled is almost ready isn't it? I'll go get it!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Fufu, thank you. But, I'll go cut it, so do you want to \nsplit it? Kraft, you'd probably burn yourself after all.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Ehh!? Aren't you treating me too much like a kid!? C'mon-……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "name": "<username>"
+        },
+        {
+            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "name": "<username>"
+        },
+        {
+            "text": "Oh, how thoughtful!",
+            "name": "King Halo"
+        },
+        {
+            "text": "Trainer……are you gonna be okay? \nIt'd be bad if you cut yourself, should I peel them instead?",
             "name": "Cesario",
-            "text": "Fuuuu……the fire for this grill has also been lit. It's ready to be used so go ahead and arrange the vegetables as you like."
-        },
-        {
-            "name": "Single Knot Uma Musume",
-            "text": "Amazing~……You really are reliable and efficient when your switch is on, Cesario……!"
-        },
-        {
-            "name": "Antenna-haired Uma Musume",
-            "text": "Yeah, yeah……but, Cesario, are you properly eating too? You don't have to keep looking after all of us you know~."
-        },
-        {
-            "name": "King Halo",
-            "text": "They're right, Cesario-san. Nutrition is quite important for building up your body after all!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "That's right! That big carrot wrapped in foil that we grilled is almost ready isn't it? I'll go get it!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Fufu, thank you. But, I'll go cut it, so do you want to split it? Kraft, you'd probably burn yourself after all."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Ehh!? Aren't you treating me too much like a kid!? C'mon-……!"
-        },
-        {
-            "text": "Heeey, everyone! I bought a bunch of apples for dessert. Think it's about time I started peeling them?"
-        },
-        {
-            "text": "Heeey, everyone! I bought a bunch of apples for dessert. Think it's about time I started peeling them?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Oh, how thoughtful!"
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer……are you gonna be okay? It'd be bad if you cut yourself, should I peel them instead?",
             "choice_data_list": [
                 "Huh? Now I'm treated like a kid too!?",
                 "Huh? Now I'm treated like a kid too!?"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Ahahaha! Trainer-san, you're just like me now, huh?"
+            "text": "Ahahaha! \nTrainer-san, you're just like me now, huh?",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "The team's cheerful laughter filled the air. After exhausting themselves with intense training, it was time to replenish those lost nutrients――"
+            "text": "The team's cheerful laughter filled the air. \nAfter exhausting themselves with intense training, \nit was time to replenish those lost nutrients――"
         },
         {
-            "text": "And then tomorrow, they'd resume their intense training, aiming for victory. And that's how they spent the rest of training camp――"
+            "text": "And then tomorrow, they'd resume their intense \ntraining, aiming for victory. And that's how \nthey spent the rest of training camp――"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Haaa, I'm exhausted today too~……! I guess the training camp is coming to an end soon, huh?"
+            "text": "Haaa, I'm exhausted today too~……! \nI guess the training camp is coming to an end soon, huh?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Yeah……but I do feel like I've made good progress towards the 『Oaks』. It feels like my stamina has improved quite a lot."
+            "text": "Yeah……but I do feel like I've made good progress towards the \n『Oaks』. It feels like my stamina has improved quite a lot.",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Me too! Since I've been working on improving my dash strength, I feel like my starts are getting much smoother and I'm able to pull ahead easier."
+            "text": "Me too! Since I've been working on improving my \ndash strength, I feel like my starts are getting \nmuch smoother and I'm able to pull ahead easier.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Yeah――It's good. I feel the difference. I think I'm all set, in regards to winning at the 『NHK Mile C』!"
+            "text": "Yeah――It's good. I feel the difference. I think I'm \nall set, in regards to winning at the 『NHK Mile C』!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……I wonder if there's anyone watching me. If I'll be able to…… leave something behind. ……I want to leave something behind."
+            "text": "……I wonder if there's anyone watching me. If I'll be able to…… \nleave something behind. ……I want to leave something behind.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "――Hey, you know how they say 『It kind of feels like fate』?"
+            "text": "――Hey, you know how they say 『It kind of feels like fate』?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Yeah……do you think it's something unique to Uma Musume? But, I know what you mean. I can't really put it in words though……kind of like how I feel with Spe-san."
+            "text": "Yeah……do you think it's something unique to Uma Musume? \nBut, I know what you mean. I can't really put it in \nwords though……kind of like how I feel with Spe-san.",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Right! Kind of like some mysterious force pulling on you……or leading you. Like when you're with them, you feel this warm light in your chest."
+            "text": "Right! Kind of like some mysterious force pulling \non you……or leading you. Like when you're with \nthem, you feel this warm light in your chest.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "To become that 『Something』 for someone. That's what I want too."
+            "text": "To become that 『Something』 for someone. That's what I want too.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "To have someone feel that kind of fate with you……huh. You're right, that dream you've always been talking about is a bit like that."
+            "text": "To have someone feel that kind of fate with \nyou……huh. You're right, that dream you've \nalways been talking about is a bit like that.",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Yeah! If my running can make someone feel some kind of fate…… if my aspiration becomes that link for someone, it would be nice."
+            "text": "Yeah! If my running can make someone feel some kind of fate……\nif my aspiration becomes that link for someone, it would be nice.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……Cesario. I'm going to win the 『NHK Mile C』"
+            "text": "……Cesario. \nI'm going to win the 『NHK Mile C』",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "……Yeah. Someone will definitely be watching you."
+            "text": "……Yeah. \nSomeone will definitely be watching you.",
+            "name": "Cesario"
         },
         {
-            "name": "Cesario",
-            "text": "……Alright, we have an early morning tomorrow so we should get to bed. Let's get a good rest and work hard again tomorrow, Kraft."
+            "text": "……Alright, we have an early morning tomorrow so we should get to \nbed. Let's get a good rest and work hard again tomorrow, Kraft.",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Yeah. Good night, Cesario!"
+            "text": "Yeah. Good night, Cesario!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(I'll keep doing my best, and run. So I can leave something behind. ……I'll definitely leave something behind)"
+            "text": "(I'll keep doing my best, and run. So I can leave something \nbehind. ……I'll definitely leave something behind)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(My heritage, without a doubt)"
+            "text": "(My heritage, without a doubt)",
+            "name": "Rhein Kraft"
         }
     ]
 }

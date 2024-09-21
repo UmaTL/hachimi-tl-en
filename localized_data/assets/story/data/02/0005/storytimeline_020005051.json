@@ -4,266 +4,289 @@
             "text": "Sometime a few days after the [Japan Derby] had finished-"
         },
         {
-            "text": "Spe, Training's over you know."
+            "text": "Spe, Training's over you know.",
+            "name": "<username>"
         },
         {
-            "text": "Spe, Training's over you know."
+            "text": "Spe, Training's over you know.",
+            "name": "<username>"
         },
         {
+            "text": "Fue…?! Uwaaa, so it's already over?!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Lately, Special Week's concentration is broken pretty easily. \nThe cause seems to be what her gaze has fallen on just now-"
+        },
+        {
+            "text": "Haa… Haa… just one more lap!",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "As I thought, you're worried about Silence Suzuka, aren't you?",
+            "name": "<username>"
+        },
+        {
+            "text": "As I thought, you're worried about Silence Suzuka, aren't you?",
+            "name": "<username>"
+        },
+        {
+            "text": "Yes, when Suzuka-san is focusing on races and doing her best, \nI think she's awesome… But lately…",
             "name": "Special Week",
-            "text": "Fue…?! Uwaaa, so it's already over?!"
-        },
-        {
-            "text": "Lately, Special Week's concentration is broken pretty easily. The cause seems to be what her gaze has fallen on just now-"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa… Haa… just one more lap!"
-        },
-        {
-            "text": "As I thought, you're worried about Silence Suzuka, aren't you?"
-        },
-        {
-            "text": "As I thought, you're worried about Silence Suzuka, aren't you?"
-        },
-        {
-            "name": "Special Week",
-            "text": "Yes, when Suzuka-san is focusing on races and doing her best, I think she's awesome… But lately…",
             "choice_data_list": [
-                "Looks like she's worried about something…"
+                "<size=38>Looks like she's worried about something…</size>"
             ]
         },
         {
-            "name": "Special Week",
-            "text": "Eh…? You think so too, Trainer-san…?"
+            "text": "Eh…? You think so too, Trainer-san…?",
+            "name": "Special Week"
         },
         {
-            "text": "Lately when I watch her races, for some reason she looks like she's kind of uncomfortable. It doesn't look like she's enjoying it."
+            "text": "Lately when I watch her races, for some reason \nshe looks like she's kind of uncomfortable. It \ndoesn't look like she's enjoying it.",
+            "name": "<username>"
         },
         {
-            "text": "Lately when I watch her races, for some reason she looks like she's kind of uncomfortable. It doesn't look like she's enjoying it."
+            "text": "Lately when I watch her races, for some reason \nshe looks like she's kind of uncomfortable. It \ndoesn't look like she's enjoying it.",
+            "name": "<username>"
         },
         {
-            "name": "Special Week",
-            "text": "…Um! Can I stay here a bit longer? I want to accompany Suzuka-san while she's training!"
+            "text": "…Um! Can I stay here a bit longer? \nI want to accompany Suzuka-san while she's training!",
+            "name": "Special Week"
         },
         {
-            "text": "Meddling in the affairs of another team's Uma Musume is probably none of my business. But even I have times where I honestly can't just sit idly by-"
+            "text": "Meddling in the affairs of another team's Uma Musume \nis probably none of my business. But even I have times \nwhere I honestly can't just sit idly by-"
         },
         {
-            "text": "Meddling in the affairs of another team's Uma Musume is probably none of my business. But even I have times where I honestly can't just sit idly by-"
+            "text": "Meddling in the affairs of another team's Uma Musume \nis probably none of my business. But even I have times \nwhere I honestly can't just sit idly by-"
         },
         {
-            "text": "In that case, I'll go with you. Let's go talk to her."
+            "text": "In that case, I'll go with you. Let's go talk to her.",
+            "name": "<username>"
         },
         {
-            "text": "In that case, I'll go with you. Let's go talk to her."
+            "text": "In that case, I'll go with you. Let's go talk to her.",
+            "name": "<username>"
         },
         {
-            "name": "Special Week",
-            "text": "Fuuu~! Thank you very much for the pace training!"
+            "text": "Fuuu~! \nThank you very much for the pace training!",
+            "name": "Special Week"
         },
         {
-            "text": "Sorry for suddenly having you join us."
+            "text": "Sorry for suddenly having you join us.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "No, it was worthwhile for me too."
+            "text": "No, it was worthwhile for me too.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "Unfortunately, I'm on a different team than Suzuka-san, but if we stay behind like this we can still train together… ehehe!"
+            "text": "Unfortunately, I'm on a different team than Suzuka-san, but if \nwe stay behind like this we can still train together… ehehe!",
+            "name": "Special Week"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…"
+            "text": "…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "Um, Suzuka-san… Do you remember when we first met? How, without thinking, I suddenly called out to you."
+            "text": "Um, Suzuka-san… Do you remember when we first met? \nHow, without thinking, I suddenly called out to you.",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "At that time, after coming here alone from Hokkaido I wondered if things would go well. I was really worried."
+            "text": "At that time, after coming here alone from Hokkaido I wondered if \nthings would go well. I was really worried.",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "But when I saw Suzuka-san running with such joy, all those worries were blown away! I began to think my time at the academy would definitely be fun!"
+            "text": "But when I saw Suzuka-san running with such joy, all those \nworries were blown away! I began to think my time at the academy \nwould definitely be fun!",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "But the Suzuka-san here now seems different from before…"
+            "text": "But the Suzuka-san here now seems different from before…",
+            "name": "Special Week"
         },
         {
-            "text": "During your Debut, you were definitely like that. Running to the goal from out in front, you looked like you were having fun."
+            "text": "During your Debut, you were definitely like that. Running to the \ngoal from out in front, you looked like you were having fun.",
+            "name": "<username>"
         },
         {
-            "text": "During your Debut, you were definitely like that. Running to the goal from out in front, you looked like you were having fun."
+            "text": "During your Debut, you were definitely like that. Running to the \ngoal from out in front, you looked like you were having fun.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…I don't really know, now. There's no doubt I'm chasing my dreams with all my might."
+            "text": "…I don't really know, now. \nThere's no doubt I'm chasing my dreams with all my might.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Even then, no matter how much I chase and chase, my dream keeps feeling like it's getting farther and farther away…"
+            "text": "Even then, no matter how much I chase and chase, my dream keeps \nfeeling like it's getting farther and farther away…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ever since I was small, I've loved running. The only things I would hear were my footsteps, and the wind whipping by."
+            "text": "Ever since I was small, I've loved running. The only things I \nwould hear were my footsteps, and the wind whipping by.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I couldn't forget your words at that time, even now I'm pursuing them…"
+            "text": "I couldn't forget your words at that \ntime, even now I'm pursuing them…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Special Week-san, you said I looked like I was having fun running… but it's actually the opposite."
+            "text": "Special Week-san, you said I looked like I was having fun \nrunning… but it's actually the opposite.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Special Week-san is always straight-forwardly chasing her dream, so pure, and radiant… but, I…"
+            "text": "Special Week-san is always straight-forwardly chasing her dream, \nso pure, and radiant… but, I…",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "In the course of piling up your efforts, falling in to a stoic state is a common occurence."
+            "text": "In the course of piling up your efforts, falling \nin to a stoic state is a common occurence."
         },
         {
-            "text": "But that's just evidence of how earnest she is. If her feelings are that strong, then there has to be plenty of other ways-",
+            "text": "But that's just evidence of how earnest she is. If her feelings \nare that strong, then there has to be plenty of other ways-",
             "choice_data_list": [
-                "Wouldn't it be fine to just run as you desire?",
-                "Wouldn't it be fine to just run as you desire?"
+                "<size=37>Wouldn't it be fine to just run as you desire?</size>",
+                "<size=37>Wouldn't it be fine to just run as you desire?</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "As I… desire?"
+            "text": "As I… desire?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Saying something like this is probably unfitting for a trainer but, forget about winning and all that other hard stuff for once. And just run."
+            "text": "Saying something like this is probably unfitting \nfor a trainer but, forget about winning and all that \nother hard stuff for once. And just run.",
+            "name": "<username>"
         },
         {
-            "text": "Saying something like this is probably unfitting for a trainer but, forget about winning and all that other hard stuff for once. And just run."
+            "text": "Saying something like this is probably unfitting \nfor a trainer but, forget about winning and all that \nother hard stuff for once. And just run.",
+            "name": "<username>"
         },
         {
-            "text": "Don't think about pacing. If you get worn out midway, don't worry about it. Anyways, just run the way you want, try running as you desire."
+            "text": "Don't think about pacing. If you get worn out midway, \ndon't worry about it. Anyways, just run the way \nyou want, try running as you desire.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Run the way I want… the way I desire…"
+            "text": "Run the way I want… the way I desire…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "Suzuka-san! Let's run one more lap! Let's forget all that complicated stuff and just run like 'whooooosh'!"
+            "text": "Suzuka-san! Let's run one more lap! Let's forget all that \ncomplicated stuff and just run like 'whooooosh'!",
+            "name": "Special Week"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Understood. I'll give it a try."
+            "text": "…Understood. I'll give it a try.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "(The wind feels nice, the sound of my own horseshoes is soothing… there's no unnecessary noise, and there's no obstructions in my way)"
+            "text": "(The wind feels nice, the sound of my own horseshoes is \nsoothing… there's no unnecessary noise, and there's no \nobstructions in my way)",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "(I'm just running but, when compared to a race, this is…)"
+            "text": "(I'm just running but, when compared to a race, this is…)",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "(Much more beautiful \"scenery\"-)"
+            "text": "(Much more beautiful \"scenery\"-)",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "Hyaaaa~!? Suzuka-san, you're so fast!"
+            "text": "Hyaaaa~!? Suzuka-san, you're so fast!",
+            "name": "Special Week"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "More, of this \"scenery\"…!"
+            "text": "More, of this \"scenery\"…!",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "Ueeeehhh~?! You're accelerating again?!"
+            "text": "Ueeeehhh~?! You're accelerating again?!",
+            "name": "Special Week"
         },
         {
-            "text": "Good work, you two. Running as you desired, how was it?"
+            "text": "Good work, you two. \nRunning as you desired, how was it?",
+            "name": "<username>"
         },
         {
-            "name": "Special Week",
-            "text": "L-Look at us… we're both… so… worn-out…"
+            "text": "L-Look at us… we're both… \nso… worn-out…",
+            "name": "Special Week"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…it's true that we're both worn-out… but…"
+            "text": "…it's true that we're both worn-out… but…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…I felt like I saw it, the thing I've been chasing this whole time. The \"scenery\" I've always wanted to see."
+            "text": "…I felt like I saw it, the thing I've been chasing this whole \ntime. The \"scenery\" I've always wanted to see.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Looks like you really do love running, don't you?"
+            "text": "Looks like you really do love running, don't you?",
+            "name": "<username>"
         },
         {
-            "text": "Looks like you really do love running, don't you?"
+            "text": "Looks like you really do love running, don't you?",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Eh…?"
+            "text": "Eh…?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "When you were frantically running, you saw the thing you were chasing, right?"
+            "text": "When you were frantically running, you saw \nthe thing you were chasing, right?",
+            "name": "<username>"
         },
         {
-            "text": "When you were frantically running, you saw the thing you were chasing, right?"
+            "text": "When you were frantically running, you saw \nthe thing you were chasing, right?",
+            "name": "<username>"
         },
         {
-            "text": "Just racing to win won't lead you to your dream. Racing for the sake of having fun running will definitely lead you there."
+            "text": "Just racing to win won't lead you to your dream. Racing for the \nsake of having fun running will definitely lead you there.",
+            "name": "<username>"
         },
         {
-            "text": "Just racing to win won't lead you to your dream. Racing for the sake of having fun running will definitely lead you there."
+            "text": "Just racing to win won't lead you to your dream. Racing for the \nsake of having fun running will definitely lead you there.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
             "text": "Having fun while running, will lead to my dream…",
+            "name": "Silence Suzuka",
             "choice_data_list": [
                 "Run to your hearts content, Suzuka!",
                 "Run to your hearts content, Suzuka!"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Fufuu… okay!"
+            "text": "Fufuu… okay!",
+            "name": "Silence Suzuka"
         },
         {
             "text": "A few days after that-"
         },
         {
-            "name": "Gold Ship",
-            "text": "Allllright! Let's do our best aiming to be \"Japan's #1 Uma Musume\" again today, Spe! First off, let's head to the bamboo grove and hunt for bamboo shoots!"
+            "text": "Allllright! Let's do our best aiming to be \"Japan's #1 Uma \nMusume\" again today, Spe! First off, let's head to the bamboo \ngrove and hunt for bamboo shoots!",
+            "name": "Gold Ship"
         },
         {
-            "name": "Special Week",
-            "text": "That's definitely not training!"
+            "text": "That's definitely not training!",
+            "name": "Special Week"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Excuse me."
+            "text": "…Excuse me.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Special Week",
-            "text": "H-huh? Suzuka-san?"
+            "text": "H-huh? Suzuka-san?",
+            "name": "Special Week"
         },
         {
-            "text": "What's up? If I'm not mistaken, your team is about to start their training session…"
+            "text": "What's up? If I'm not mistaken, \nyour team is about to start their training session…",
+            "name": "<username>"
         },
         {
-            "text": "What's up? If I'm not mistaken, your team is about to start their training session…"
+            "text": "What's up? If I'm not mistaken, \nyour team is about to start their training session…",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…"
+            "text": "…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I came to request a transfer to this team."
+            "text": "I came to request a transfer to this team.",
+            "name": "Silence Suzuka"
         }
     ]
 }

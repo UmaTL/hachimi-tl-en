@@ -1,225 +1,227 @@
 {
     "text_block_list": [
         {
-            "text": "Symboli Rudolf will be racing in the Twinkle Series this weekend. So…"
+            "text": "Symboli Rudolf will be racing in the Twinkle \nSeries this weekend. So…"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Huh? Prez's race?"
+            "text": "Huh? Prez's race?",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Normally I'd love to go, but… Mmm…"
+            "text": "Normally I'd love to go, but… Mmm…",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Oh, but… that's right…"
+            "text": "Oh, but… that's right…",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Prez'll win, just like she always does, right? So she'll be showered with praise again…"
+            "text": "Prez'll win, just like she always does, right? \nSo she'll be showered with praise again…",
+            "name": "Tokai Teio"
         },
         {
+            "text": "Maybe… seeing that one more time will help me \nshake off whatever's been bothering me.",
             "name": "Tokai Teio",
-            "text": "Maybe… seeing that one more time will help me shake off whatever's been bothering me.",
             "choice_data_list": [
                 "Why don't we go and find out?"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Alright, I'll go!"
+            "text": "Alright, I'll go!",
+            "name": "Tokai Teio"
         },
         {
             "text": "And so the day of Symboli Rudolf's race came."
         },
-        {},
         {
-            "name": "Commentator",
-            "text": "Symboli Rudolf is leading! She's so quick, so fast!! A three, no four length lead!!"
+            "text": ""
         },
         {
-            "name": "Commentator",
-            "text": "Symboli Rudolf wins!! What overwhelming strength! This is how an \"Emperor\" races!!"
+            "text": "Symboli Rudolf is leading! She's so quick, so \nfast!! A three, no four length lead!!",
+            "name": "Commentator"
         },
         {
-            "name": "Crowd",
-            "text": "Emperor! Emperor! Emperor!!"
+            "text": "Symboli Rudolf wins!! What overwhelming \nstrength! This is how an \"Emperor\" races!!",
+            "name": "Commentator"
         },
         {
-            "name": "Tokai Teio",
+            "text": "Emperor! Emperor! Emperor!!",
+            "name": "Crowd"
+        },
+        {
             "text": "………",
+            "name": "Tokai Teio",
             "choice_data_list": [
                 "How was that?"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Prez was as great as ever… She's so strong, so fast, and the coolest Uma Musume."
+            "text": "Prez was as great as ever… She's so strong, so \nfast, and the coolest Uma Musume.",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "But…"
+            "text": "But…",
+            "name": "Tokai Teio"
         },
         {
+            "text": "There's something I need to talk to her about. \nWill you come too?",
             "name": "Tokai Teio",
-            "text": "There's something I need to talk to her about. Will you come too?",
             "choice_data_list": [
                 "Of course. Let's go."
             ]
         },
         {
+            "text": "I'm coming in!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Oh, if it isn't Teio… and I see you're here as \nwell, Trainer-kun.",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "How surprising. I would never have expected the \nexcitable, impulsive Teio to actually knock \nbefore entering.",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Yeah… Actually, there's something \nI need to talk to you about.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Hmm… Okay, what is it?",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Prez… You're my idol. You're the most amazing \nand coolest Uma Musume out there. I want to be \njust like you one day.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "It made me happy hearing everyone praise you.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "And whenever I saw you smile back to your fans \nit would make me so excited.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "But… All of that is gone now…",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Oh? What do you mean by that, Teio?",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Seeing everyone cheer for you after you beat me…",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "It… it really made my chest hurt…",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Made your chest hurt…?",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Yeah. It hurt so bad that I couldn't stop \nthinking about it… So I tried to run and run to \nget rid of it, but it wouldn't go away.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "It's strange, isn't it? But after \nseeing your race today I think I finally \nunderstand what happened.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "I… I want to become the best Uma Musume in the \nworld. That's why I run.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "So I can't let anyone else be called amazing. \nNo, I won't let anyone else be called amazing!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Not even you, Prez! I'll show everyone \nthat I'm the greatest.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "…!",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "I want to be just like you, Prez. That hasn't \nchanged. You're my number one idol!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "But… that isn't it… I want to become so great \nthat even you'd cheer me on and call me amazing!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "And that's why I came to talk to you! Prez, this \nis my declaration of war!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Say it clearly, Teio.",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Okay. One day I'll surpass your title of \n\"Emperor\" and become a Monarch in my own right.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "So you better be prepared, Prez!!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Heh…",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "From the bleachers down to the turf… You've \nfinally reached the same stage as I. I'm very \nhappy for you, Teio.",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "That being said, I have no intention of giving \nup the title of \"strongest\". I hope you \nunderstand just how difficult the road ahead is.",
+            "name": "Symboli Rudolf"
+        },
+        {
+            "text": "Of course!!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "As Tokai Teio nodded gleefully, Symboli Rudolf \nhappily smiled back ."
+        },
+        {
+            "text": "Woah, I actually managed to say it!! Ehehe, my \nheart is still racing though.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Thank you for coming with me. Also, umm… thanks \nfor everything you've done!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "And… I'll be relying on you \neven more from now on!",
             "name": "Tokai Teio",
-            "text": "I'm coming in!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Oh, if it isn't Teio… and I see you're here as well, Trainer-kun."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "How surprising. I would never have expected the excitable, impulsive Teio to actually knock before entering."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yeah… Actually, there's something I need to talk to you about."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmm… Okay, what is it?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Prez… You're my idol. You're the most amazing and coolest Uma Musume out there. I want to be just like you one day."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "It made me happy hearing everyone praise you."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And whenever I saw you smile back to your fans it would make me so excited."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "But… All of that is gone now…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Oh? What do you mean by that, Teio?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Seeing everyone cheer for you after you beat me…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "It… it really made my chest hurt…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Made your chest hurt…?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yeah. It hurt so bad that I couldn't stop thinking about it… So I tried to run and run to get rid of it, but it wouldn't go away."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "It's strange, isn't it? But after seeing your race today I think I finally understand what happened."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I… I want to become the best Uma Musume in the world. That's why I run."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "So I can't let anyone else be called amazing. No, I won't let anyone else be called amazing!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Not even you, Prez! I'll show everyone that I'm the greatest."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "…!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I want to be just like you, Prez. That hasn't changed. You're my number one idol!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "But… that isn't it… I want to become so great that even you'd cheer me on and call me amazing!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And that's why I came to talk to you! Prez, this is my declaration of war!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Say it clearly, Teio."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Okay. One day I'll surpass your title of \"Emperor\" and become a Monarch in my own right."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "So you better be prepared, Prez!!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Heh…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "From the bleachers down to the turf… You've finally reached the same stage as I. I'm very happy for you, Teio."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "That being said, I have no intention of giving up the title of \"strongest\". I hope you understand just how difficult the road ahead is."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Of course!!"
-        },
-        {
-            "text": "As Tokai Teio nodded gleefully, Symboli Rudolf happily smiled back ."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Woah, I actually managed to say it!! Ehehe, my heart is still racing though."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Thank you for coming with me. Also, umm… thanks for everything you've done!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And… I'll be relying on you even more from now on!",
             "choice_data_list": [
                 "From now on? Does that mean…"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Geez, you're so dense! If you keep that up, I won't let you be my trainer anymore."
+            "text": "Geez, you're so dense! If you keep that up, I \nwon't let you be my trainer anymore.",
+            "name": "Tokai Teio"
         },
         {
+            "text": "Our target is the strongest Uma Musume in the \nworld after all. So get it together, Trainer!!",
             "name": "Tokai Teio",
-            "text": "Our target is the strongest Uma Musume in the world after all. So get it together, Trainer!!",
             "choice_data_list": [
                 "Okay! Let's do this together!"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Alrighty! I'm so happy, I did my declaration and I got a trainer to boot!!"
+            "text": "Alrighty! I'm so happy, I did my declaration and \nI got a trainer to boot!!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "This is the start of the legend of the Unbeaten Tokai Teio!"
+            "text": "This is the start of the legend \nof the Unbeaten Tokai Teio!",
+            "name": "Tokai Teio"
         }
     ]
 }

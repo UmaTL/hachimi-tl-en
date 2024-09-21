@@ -1,0 +1,99 @@
+{
+    "windows": {
+        "bundle_name": "ZGGFDJAMLY5QMDAUFURYVHTOBUD6UWYU"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": -3.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Left"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Turns",
+                        "position_offset": {
+                            "x": 3.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "End"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "SWBC race\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
+                    },
+                    "1": {
+                        "text": "WBC race\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
+                    },
+                    "2": {
+                        "text": "GUR race\nafter turn",
+                        "position_offset": {
+                            "x": 0.02500000037252903,
+                            "y": 1.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 8.0,
+                            "y": -0.02500000037252903,
+                            "z": 0.0
+                        }
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Left"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "GUR Race"
+                    }
+                }
+            }
+        }
+    }
+}

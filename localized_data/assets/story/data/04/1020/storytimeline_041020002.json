@@ -1,227 +1,228 @@
 {
     "text_block_list": [
         {
-            "text": "A few days have passed since I became Seiun Sky's trainer. However…"
+            "text": "A few days have passed since I \nbecame Seiun Sky's trainer. However…"
         },
         {
+            "text": "Trainer-san, Trainer-san, have you heard! There's gonna be a \nnice tide coming in today! And you know what that means, right? \nThis is the perfect day to go fishing!",
             "name": "Seiun Sky",
-            "text": "Trainer-san, Trainer-san, have you heard! There's gonna be a nice tide coming in today! And you know what that means, right? This is the perfect day to go fishing!",
             "choice_data_list": [
                 "Fishing? What about training…?"
             ]
         },
         {
-            "name": "Seiun Sky",
-            "text": "Are you seriously asking me about that? Hmm, well, I'll pass."
+            "text": "Are you seriously asking me about that? \nHmm, well, I'll pass.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Cause Sei-chan feels like working on her wrist snap rather than her footwork today. So how about we train tomorrow instead?"
+            "text": "Cause Sei-chan feels like working on her wrist snap rather than \nher footwork today. So how about we train tomorrow instead?",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Wowie, we talked about \"Cat Paradise: Nyancardia Project\" for so long! We were so absorbed in our conversation that we both lost track of time."
+            "text": "Wowie, we talked about \"Cat Paradise: Nyancardia \nProject\" for so long! We were so absorbed in our \nconversation that we both lost track of time.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Hmm? You seem like you want to say \"but I wanted to discuss training…\" Was it my imagination…? Yup, it must've been!"
+            "text": "Hmm? You seem like you want to say \"but I wanted to discuss \ntraining…\" Was it my imagination…? Yup, it must've been!",
+            "name": "Seiun Sky"
         },
         {
-            "text": "Eh? You came here looking for Sei-chan? Well that's really unfortunate… She just left a little while ago."
+            "text": "Eh? You came here looking for Sei-chan? Well that's really \nunfortunate… She just left a little while ago.",
+            "name": "スカイのクラスメイト"
         },
         {
             "text": "…"
         },
         {
-            "text": "Despite being put in charge of Seiun Sky, I have yet to actually train with her."
+            "text": "Despite being put in charge of Seiun Sky, \nI have yet to actually train with her."
         },
         {
             "text": "Does she have no drive to improve and win races…?"
         },
         {
-            "text": "If that's the case, why am I even here? I walked around the academy as I pondered this question."
+            "text": "If that's the case, why am I even here? \nI walked around the academy as I pondered this question."
         },
         {
+            "text": "Hmph. So it seems that the rumors about a rookie \ntrainer being manipulated were true.",
             "name": "King Halo",
-            "text": "Hmph. So it seems that the rumors about a rookie trainer being manipulated were true.",
             "choice_data_list": [
                 "You're Seiun Sky's classmate…",
                 "You're Seiun Sky's classmate…"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "Remembering me in that manner is quite irritating, so make sure to correct it! I am King Halo, the elite Uma Musume. I shall also grant you the right to address me with \"sama!\""
+            "text": "Remembering me in that manner is quite irritating, so make sure \nto correct it! I am King Halo, the elite Uma Musume. I shall \nalso grant you the right to address me with \"sama!\"",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Anyways… Haa… From the looks of it, it really does seem like she's manipulating you."
+            "text": "Anyways… Haa… From the looks of it, \nit really does seem like she's manipulating you.",
+            "name": "King Halo"
         },
         {
+            "text": "I was hoping to get some valuable information on Sky-san from \nyou to develop a strategy, but… this was a complete waste! As \nit stands, it'll happen all over again… Ah, jeez!",
             "name": "King Halo",
-            "text": "I was hoping to get some valuable information on Sky-san from you to develop a strategy, but… this was a complete waste! As it stands, it'll happen all over again… Ah, jeez!",
             "choice_data_list": [
                 "Is Seiun Sky really that fast?",
                 "Is Seiun Sky really that fast?"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "Haa!? When it comes to speed, she's…"
+            "text": "Haa!? When it comes to speed, she's…",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Hmph…! Instead of asking me about these things, why not see for yourself!?"
+            "text": "Hmph…! \nInstead of asking me about these things, \nwhy not see for yourself!?",
+            "name": "King Halo"
         },
         {
-            "text": "The next day, I asked if I could sit in on Seiun Sky's class. And what I saw was…"
+            "text": "The next day, I asked if I could sit in on \nSeiun Sky's class. And what I saw was…"
         },
         {
-            "name": "Seiun Sky",
-            "text": "So the mock race is finally here, huh?"
+            "text": "So the mock race is finally here, huh?",
+            "name": "Seiun Sky"
         },
         {
-            "name": "King Halo",
-            "text": "Don't talk about this race in that manner! After all, today will be the day that you finally realize just how great I am! Ohohoho!"
+            "text": "Don't talk about this race in that manner! After \nall, today will be the day that you finally \nrealize just how great I am! Ohohoho!",
+            "name": "King Halo"
         },
         {
-            "name": "Seiun Sky",
-            "text": "But I already know how great you are though? You really are an elite Uma Musume. King, you're really amazing."
+            "text": "But I already know how great you are though? You really \nare an elite Uma Musume. King, you're really amazing.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "King Halo",
-            "text": "It doesn't feel like you mean what you're saying!!"
+            "text": "It doesn't feel like you mean what you're saying!!",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Hmph, today will be the last day that you take that attitude with me! Because today… Today I will thoroughly mark you, and defeat you!!"
+            "text": "Hmph, today will be the last day that you take \nthat attitude with me! Because today… Today I \nwill thoroughly mark you, and defeat you!!",
+            "name": "King Halo"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Thoroughly mark me, huh? Oh no… How scary."
+            "text": "Thoroughly mark me, huh? \nOh no… How scary.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Special Week",
-            "text": "Sei-chan and King-chan are getting fired up… But I'm not planning on losing either…!"
+            "text": "Sei-chan and King-chan are getting fired up… \nBut I'm not planning on losing either…!",
+            "name": "Special Week"
         },
         {
-            "name": "Horsegirl A",
-            "text": "Eh, I wonder if Sky-san is someone we should be wary of… Have you heard any rumors about her that have stood out?"
+            "text": "Eh, I wonder if Sky-san is someone we should be wary of… \nHave you heard any rumors about her that have stood out?",
+            "name": "Horsegirl A"
         },
         {
-            "name": "Horsegirl B",
-            "text": "Rumors that stood out? Well I've been hearing a pretty bad one lately. Apparently, she skips out on training everyday."
+            "text": "Rumors that stood out? Well I've been hearing a pretty bad \none lately. Apparently, she skips out on training everyday.",
+            "name": "Horsegirl B"
         },
         {
             "text": "(Thunk!!)"
         },
         {
-            "text": "Thus the mock race began. The first one to take the lead was…"
+            "text": "Thus the mock race began. \nThe first one to take the lead was…"
         },
         {
-            "name": "King Halo",
-            "text": "Haa… Haa… Eh!?"
+            "text": "Haa… Haa… Eh!?",
+            "name": "King Halo"
         },
         {
-            "name": "Horsegirl A",
-            "text": "Huh? King-san is in the lead!? Wasn't Sky-san a \"front runner\" type that takes the lead as quickly as possible…?"
+            "text": "Huh? King-san is in the lead!? Wasn't Sky-san a \"front runner\" \ntype that takes the lead as quickly as possible…?",
+            "name": "Horsegirl A"
         },
         {
-            "name": "Horsegirl B",
-            "text": "Maybe she's lost a lot of her physical strength and can't make it to the front of the pack since she's been skipping out on training… or something? I've heard that that happens a lot."
+            "text": "Maybe she's lost a lot of her physical strength and can't make \nit to the front of the pack since she's been skipping out on \ntraining… or something? I've heard that that happens a lot.",
+            "name": "Horsegirl B"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Haa… Haa… Ugh, my legs…!"
+            "text": "Haa… Haa… Ugh, my legs…!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "King Halo",
-            "text": "Hmph, I heard that you've been slacking off lately, but I didn't realize just how far gone you truly were! I was an idiot for being overly cautious of you."
+            "text": "Hmph, I heard that you've been slacking off lately, but I didn't \nrealize just how far gone you truly were! I was an idiot for \nbeing overly cautious of you.",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "This will be fine. I did not expect it, but adapting to these types of situations is what makes me an elite Uma Musume As long as I continue to extend this lead…!"
+            "text": "This will be fine. I did not expect it, but adapting to these \ntypes of situations is what makes me an elite Uma Musume As \nlong as I continue to extend this lead…!",
+            "name": "King Halo"
         },
         {
-            "text": "Due to Seiun Sky's late start, King Halo gave up on her mark and took a huge lead instead. The race continued in this manner until…"
+            "text": "Due to Seiun Sky's late start, King Halo gave \nup on her mark and took a huge lead instead. \nThe race continued in this manner until…"
         },
         {
-            "text": "During the final stretch, King Halo's pace started to gradually decline…!"
+            "text": "During the final stretch, King Halo's \npace started to gradually decline…!"
         },
         {
-            "name": "King Halo",
-            "text": "Nghh…! My stamina is…!"
+            "text": "Nghh…! My stamina is…!",
+            "name": "King Halo"
         },
         {
-            "name": "Seiun Sky",
-            "text": "To be fair, you're better as a \"stalker\", King. It would've been a real problem had you stayed behind me, marked me, and overtook me in the final stretch."
+            "text": "To be fair, you're better as a \"stalker\", King. It would've been \na real problem had you stayed behind me, marked me, and overtook \nme in the final stretch.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "But this was exactly the opening I was waiting for…!"
+            "text": "But this was exactly the opening I was waiting for…!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "King Halo",
-            "text": "Wai- Huh!? Sky-san!?"
+            "text": "Wai- Huh!? Sky-san!?",
+            "name": "King Halo"
         },
         {
-            "name": "Horsegirl A",
-            "text": "Eh, Sky-san took the lead!? You're joking! When did that even happen!?"
+            "text": "Eh, Sky-san took the lead!? \nYou're joking! When did that even happen!?",
+            "name": "Horsegirl A"
         },
         {
-            "name": "Horsegirl B",
-            "text": "But she seemed like she was rusty from lack of training… Wait, don't tell me… Was this her plan all along!?"
+            "text": "But she seemed like she was rusty from lack of training… Wait, \ndon't tell me… Was this her plan all along!?",
+            "name": "Horsegirl B"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Great, they fell for it! Now all I need to do is…"
+            "text": "Great, they fell for it! Now all I need to do is…",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Special Week",
-            "text": "This… This match isn't over yet!!"
+            "text": "This… This match isn't over yet!!",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "Haaaa!!"
+            "text": "Haaaa!!",
+            "name": "Special Week"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Huh…!?"
+            "text": "Huh…!?",
+            "name": "Seiun Sky"
         },
         {
-            "text": "Special Week ended up coming in 1st, with Seiun Sky a very close 2nd."
+            "text": "Special Week ended up coming in 1st, \nwith Seiun Sky a very close 2nd."
         },
         {
-            "name": "Seiun Sky",
-            "text": "She closed in on me and dropped me to 2nd, huh? Spe-chan's explosive power is really something…"
+            "text": "She closed in on me and dropped me to 2nd, huh? Spe-chan's \nexplosive power is really something…",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
             "text": "…",
+            "name": "Seiun Sky",
             "choice_data_list": [
                 "You did great out there too",
                 "You did great out there too"
             ]
         },
         {
-            "name": "Seiun Sky",
-            "text": "But I came in 2nd."
+            "text": "But I came in 2nd.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "My tricks, my preparations, they weren't enough to get me the win."
+            "text": "My tricks, my preparations, \nthey weren't enough to get me the win.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Wait wha!? Trainer-san!? You were here? Since when? You can't just do that, if you're here you've gotta properly tell me!"
+            "text": "Wait wha!? Trainer-san!? You were here? Since when? You can't \njust do that, if you're here you've gotta properly tell me!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Don't tell me. Since we haven't been seeing each other at training, have you gotten lonely? Ahh, being this popular's really tough!"
+            "text": "Don't tell me. Since we haven't been seeing each \nother at training, have you gotten lonely? Ahh, \nbeing this popular's really tough!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "But you'll have to wait on getting an autograph. I'm exhausted, so I'm going to take a nap. Toodaloo."
+            "text": "But you'll have to wait on getting an autograph. \nI'm exhausted, so I'm going to take a nap. Toodaloo.",
+            "name": "Seiun Sky"
         },
         {
             "text": "After saying that, Seiun Sky quickly left the track…"

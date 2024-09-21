@@ -1,0 +1,240 @@
+{
+    "text_block_list": [
+        {
+            "text": "――Breaking away from the pack is an adventure."
+        },
+        {
+            "text": "Cutting through the air, not looking over your shoulder. \nYet, you feel the immense pressure from behind radiate over you."
+        },
+        {
+            "text": "Relaxing is not an option, lest those behind will catch up. \nOn the other hand, speeding up drains your stamina."
+        },
+        {
+            "text": "With fear comes risk... A gamble where the odds \nare against you. The only option for success is \ngoing all in! Hang on, now..."
+        },
+        {
+            "text": "Controlling the pace and the direction of the race. The ruler \nof the race. That's what it means to use the runner strategy."
+        },
+        {
+            "text": "Hmm? So that's your training plan for leaders? Pretty \ndetailed for a beginner. Even planning out the second leg.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "You even included some G1s, not bad! And you want to \ntake a record during... An overseas expedition...?",
+            "name": "Veteran Trainer B",
+            "choice_data_list": [
+                "Yes, that's part of the plan!"
+            ]
+        },
+        {
+            "text": "Hah ha ha! You're full of surprises eh, newbie? Overcoming \neverything, as long as you have motivation? Come, now.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "I think you should get your head out of the clouds. \nYou should act a bit more seriously. You're an adult. \nWhat you're going for is like a child's dream.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "After taking notes on what she told me, I headed outside. \nI came across some kids near the river. I guess school ended."
+        },
+        {
+            "text": "I'm gonna be a pro baseballer!",
+            "name": "Boy with a backpack"
+        },
+        {
+            "text": "Well, I'm gonna be a pop idol! \nI want to be sparkling just like them!",
+            "name": "Girl with a backpack",
+            "choice_data_list": [
+                "\"A child's dream...\" eh?"
+            ]
+        },
+        {
+            "text": "――And I, I'm gonna build a castle!",
+            "name": "Horsegirl"
+        },
+        {
+            "text": "You think my childlike dream is to laugh at, too?",
+            "name": "Horsegirl",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Hahaha! A castle? That's impossible!",
+            "name": "Boy with a backpack"
+        },
+        {
+            "text": "<i>What?</i> Look kid, nothing is impossible for me, \nthe great adventure hunter: Tap Dance City!",
+            "name": "Umamusume"
+        },
+        {
+            "text": "You'd better believe I'm not building any old castle! It's \ngonna be <i>gigantic!</i> Big enough for me and my mates \nto dance from night till the sun comes up!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Party all night, every night until we collapse! \nA place where you'll be greeted by sonorous singing!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Of course, I'll need money! I'll race and race and race \nmy butt off and make enough to fulfil my dream!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Aaand... next! <i>It's your turn now!</i> \nYou there! What is your dream?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Uhh...?"
+            ]
+        },
+        {
+            "text": "<i>Huh?</i> For laughing at those kids' dreams, I expected \nyou to have one far greater than them.",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "I-I wasn't laughing..."
+            ]
+        },
+        {
+            "text": "Don't think I didn't catch you acting like those \nkids' dreams were like jokes to you.",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "L-Look, that was about myself..."
+            ]
+        },
+        {
+            "text": "――I froze up completely, with my notebook \nclenched to my chest.",
+            "choice_data_list": [
+                "I have a childish dream...",
+                "I have a childish dream..."
+            ]
+        },
+        {
+            "text": "Given your lack of experience, let me tell you a bit about \nthe world of horse racing. Reaching the Open class \nis a lot tougher than you might realize.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Don't you think your goals are a bit of a stretch? \nNot only mastering the G1 class, but even a record \nand going overseas, too...?",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "My seniors tell me my dreams are unrealistic. It's laughable \nfor an adult like me to even say it out loud..."
+        },
+        {
+            "text": "... Tell me anyway! \nI really, really, really wanna know!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "What? No, I couldn't..."
+            ]
+        },
+        {
+            "text": "Don't be so shy! An epic tale is something \nto be shared, am I wrong?",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "You can't even tell <i>me</i>? \n――Is it that pathetic?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "...Not at all!"
+            ]
+        },
+        {
+            "text": "My sudden outburst shocked even myself. Although... \nI'm starting to feel a wave of regret sweep over me.",
+            "choice_data_list": [
+                "<size=42>(Why didn't I say anything back then...)</size>",
+                "<size=42>(Why didn't I say anything back then...)</size>"
+            ]
+        },
+        {
+            "text": "Reaching the Open class is a lot tougher \nthan you might realize.",
+            "name": "Veteran Trainer A",
+            "choice_data_list": [
+                "(I am aware.)"
+            ]
+        },
+        {
+            "text": "Don't you think your goals are a bit of a stretch? \nNot only mastering the G1 class, but even a record \nand going overseas, too...?",
+            "name": "Veteran Trainer A",
+            "choice_data_list": [
+                "(Yes, but I still want to try!)"
+            ]
+        },
+        {
+            "text": "The more I think back, the more pathetic and frustrated I feel... \nIt's <i>my</i> dream, and yet... I couldn't say anything to her."
+        },
+        {
+            "text": "...You treasure that dream of yours?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "...Yes. It's something I truly value.",
+                "...Yes. It's something I truly value."
+            ]
+        },
+        {
+            "text": "...My frustration reached its breaking point. \nI close my eyes and take a deep breath.",
+            "choice_data_list": [
+                "<size=36>I want to train the world's greatest horsegirl!</size>",
+                "<size=36>I want to train the world's greatest horsegirl!</size>"
+            ]
+        },
+        {
+            "text": "...Really?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "What do you think?",
+                "What do you think?"
+            ]
+        },
+        {
+            "text": "Ha ha ha! Well...",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "It's wonderful!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Today is a \"Selection Race.\" Trainers gather at the racecourse \nand look for a horsegirl to be scouted. And there..."
+        },
+        {
+            "text": "It's showtime! \nMy selection race has finally arrived!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "(...It's the girl from the riverside!)"
+            ]
+        },
+        {
+            "text": "...Are you sure about using up your energy before the race \neven begins? It's medium-length. You'll need the stamina.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Shakur! Coolheaded and giving advice as always. \nYou're a lovely classmate!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "...Shaddup.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Haha! How unfriendly! ...Hmm?",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "I remember you! \nYou're that \"world's greatest\" guy!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "So you remember, too.",
+                "So you remember, too."
+            ]
+        },
+        {
+            "text": "<i>Naturally.</i> I would never forget you! \n...Ah! I see, you're here to watch me race with your own eyes!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "You wanna see if I'm fit to be \n\"the world's greatest horsegirl.\"",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "――And thus began Tap Dance City's selection race."
+        }
+    ]
+}

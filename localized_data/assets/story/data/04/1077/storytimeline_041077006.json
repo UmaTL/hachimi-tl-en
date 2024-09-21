@@ -1,266 +1,266 @@
 {
     "text_block_list": [
         {
-            "text": "On a day off while taking a walk, I bumped in to Narita Top Road. She seemed excited about something."
+            "text": "On a day off while taking a walk, I bumped in to \nNarita Top Road. She seemed excited about something."
         },
         {
+            "text": "Looks like the time to get from the dorm to the \nstation is fine! Looks like there will be plenty \nof time. ――Right, let's head to the station.",
             "name": "Narita Top Road",
-            "text": "Looks like the time to get from the dorm to the station is fine! Looks like there will be plenty of time. ――Right, let's head to the station.",
             "choice_data_list": [
                 "Heading somewhere?"
             ]
         },
         {
+            "text": "Trainer-san! Yeah, I was planning on going to the amusement park! \n……Though today is just a trial run.",
             "name": "Narita Top Road",
-            "text": "Trainer-san! Yeah, I was planning on going to the amusement park! ……Though today is just a trial run.",
             "choice_data_list": [
-                "A trial run for the amusement park……?"
+                "<size=42>A trial run for the amusement park……?</size>"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Next time, I was planning on going with some friends, and I was put in charge of this. So I was thinking of getting a preview and preparing for it!"
+            "text": "Next time, I was planning on going with some friends, \nand I was put in charge of this. So I was thinking \nof getting a preview and preparing for it!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "She said it matter-of-factly……but it was probably rough to do this alone. That said, if I told her I wanted to help, she'd probably decline――",
+            "text": "She said it matter-of-factly……but it was probably \nrough to do this alone. That said, if I told her \nI wanted to help, she'd probably decline――",
             "choice_data_list": [
-                "Sounds fun. Mind if I tag along today?",
-                "Sounds fun. Mind if I tag along today?"
+                "<size=43>Sounds fun. Mind if I tag along today?</size>",
+                "<size=43>Sounds fun. Mind if I tag along today?</size>"
             ]
         },
         {
+            "text": "With Trainer-san? ……Ah, sorta like a change of pace? \nBut, if you go with me, you won't be able to see much――",
             "name": "Narita Top Road",
-            "text": "With Trainer-san? ……Ah, sorta like a change of pace? But, if you go with me, you won't be able to see much――",
             "choice_data_list": [
                 "But it'll be more fun!",
                 "But it'll be more fun!"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Fufuu, you're right! If I looked around with Trainer-san I could spend the whole day having fun! Let's go together!"
+            "text": "Fufuu, you're right! If I looked around with Trainer-san \nI could spend the whole day having fun! Let's go together!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Well then, what I wanted to check out today was…… the schedule for the attractions and how crowded it would be. I'll use that to plan for the day itself."
+            "text": "Well then, what I wanted to check out today was…… \nthe schedule for the attractions and how crowded it \nwould be. I'll use that to plan for the day itself.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Everyone's looking forward to the parade, so we'll definitely have to check that out. I'll have to create a course that takes the parade in to account."
+            "text": "Everyone's looking forward to the parade, so we'll \ndefinitely have to check that out. I'll have to \ncreate a course that takes the parade in to account.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "……Okaaay, the parade times are……the first one is at 11:30. Which means we won't be able to line up for other attractions, huh……"
+            "text": "……Okaaay, the parade times are……the first one is at 11:30. Which \nmeans we won't be able to line up for other attractions, huh……",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "So maybe souvenirs first……but, then we have to carry them around.",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "How about having an early lunch?"
             ]
         },
         {
-            "text": "The parade ended just around lunch time. Around that time, the restaurants would start to get crowded and the lines for the popular attractions might die down."
+            "text": "The parade ended just around lunch time. Around that \ntime, the restaurants would start to get crowded and \nthe lines for the popular attractions might die down."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Ah, I see……! By doing that, we can avoid the crowds for lunch and the attractions! Looks like it'll be easier to get on the popular attractions, too!"
+            "text": "Ah, I see……! By doing that, we can avoid the crowds \nfor lunch and the attractions! Looks like it'll \nbe easier to get on the popular attractions, too!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Then, next up……we need to find a restaurant for lunch, right!? I'll need to keep a few of the places in mind!"
+            "text": "Then, next up……we need to find a restaurant for lunch, right!? \nI'll need to keep a few of the places in mind!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "This shop looks good! You can see the parade course \nfrom the window, so you can see how crowded it will be!",
             "name": "Narita Top Road",
-            "text": "This shop looks good! You can see the parade course from the window, so you can see how crowded it will be!",
             "choice_data_list": [
                 "A seat near the exit might be best"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "You're right, if possible I want to see if we can request seats. Now, let's order something and see how long it takes!"
+            "text": "You're right, if possible I want to see if we can request seats. \nNow, let's order something and see how long it takes!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Mmm~, it's tasty……! But, that was unexpected. To think I'd have trouble deciding after looking at the menu!"
+            "text": "Mmm~, it's tasty……! But, that was unexpected. \nTo think I'd have trouble deciding after looking at the menu!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "I was still having a hard time deciding, even \nafter Trainer-san had already ordered. Looks \nlike I need to consider how long it'll take to decide.",
             "name": "Narita Top Road",
-            "text": "I was still having a hard time deciding, even after Trainer-san had already ordered. Looks like I need to consider how long it'll take to decide.",
             "choice_data_list": [
                 "Want a bite?"
             ]
         },
         {
-            "text": "I hadn't touched it yet, so I took my knife and cut a piece off, putting it on her plate."
+            "text": "I hadn't touched it yet, so I took my knife \nand cut a piece off, putting it on her plate."
         },
         {
-            "name": "Narita Top Road",
-            "text": "! Thanks alot! I see, sharing……! If we did that, then we wouldn't have to worry over what to order. Fufu, it sounds like a lot of fun!"
+            "text": "! Thanks alot! I see, sharing……! If we did that, then we wouldn't \nhave to worry over what to order. Fufu, it sounds like a lot of fun!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "Alright, looks like we've found a good spot! \nThere's nothing blocking the view here!",
             "name": "Narita Top Road",
-            "text": "Alright, looks like we've found a good spot! There's nothing blocking the view here!",
             "choice_data_list": [
-                "There might be more space over there"
+                "<size=43>There might be more space over there</size>"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "That's true……looks like there's plenty of space over there. That might be a good spot too……――Ah! The parade's here!"
+            "text": "That's true……looks like there's plenty of space over there. \nThat might be a good spot too……――Ah! The parade's here!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Waaa! At the front is the Carrot Queen! Her outfit's really cute! The float looks really grand too……!"
+            "text": "Waaa! At the front is the Carrot Queen! \nHer outfit's really cute! The float looks really grand too……!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "The dancers and the music are really sparkly too…… \nAh, looks like you can participate in the dance too!",
             "name": "Narita Top Road",
-            "text": "The dancers and the music are really sparkly too…… Ah, looks like you can participate in the dance too!",
             "choice_data_list": [
                 "Let's try it out!"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Yeah!"
+            "text": "Yeah!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "'Round and 'round and 'round……fufuu! Seeing Trainer-san dancing is pretty unusual! Fufufu!"
+            "text": "'Round and 'round and 'round……fufuu! \nSeeing Trainer-san dancing is pretty unusual! Fufufu!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "We enjoyed the parade to its fullest. Right after that, we went to the most popular attraction in the park, the Jet Coaster."
+            "text": "We enjoyed the parade to its fullest. Right after that, we went \nto the most popular attraction in the park, the Jet Coaster."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Even the Jet Coaster is crowded during lunch since it's so popular, huh. ――Yeah, I guess that means after the parade is the Big Thunder Mountain!"
+            "text": "Even the Jet Coaster is crowded during lunch since \nit's so popular, huh. ――Yeah, I guess that means \nafter the parade is the Big Thunder Mountain!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "One of my classmates said that it's easy to get 『Motion Sick』 on it so \n……I thought it might be better to check it out beforehand!",
             "name": "Narita Top Road",
-            "text": "One of my classmates said that it's easy to get 『Motion Sick』 on it so ……I thought it might be better to check it out beforehand!",
             "choice_data_list": [
                 "Alright, let's go!"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Wa, wa, wa, wa-……! L-look at that, the people down there are waving……H-heeeey! Haha……"
+            "text": "Wa, wa, wa, wa-……! \nL-look at that, the people down there are waving……H-heeeey! Haha……",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Hii-, wai-……iyaaaaaaaaa!!"
+            "text": "Hii-, wai-……iyaaaaaaaaa!!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "……S-sorry, it wasn't supposed to be like this…… \nUgghh……",
             "name": "Narita Top Road",
-            "text": "……S-sorry, it wasn't supposed to be like this…… Ugghh……",
             "choice_data_list": [
-                "Are you okay? We can rest over at――"
+                "<size=43>Are you okay? We can rest over at――</size>"
             ]
         },
         {
-            "text": "I open the park map and try to find a place to take a break. Looks like there are some benches around the nearby pond. I supported her as we made our way there."
+            "text": "I open the park map and try to find a place to take a \nbreak. Looks like there are some benches around the \nnearby pond. I supported her as we made our way there."
         },
         {
-            "name": "Narita Top Road",
             "text": "…………Huuu……",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "Feeling better?"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Yeah, thanks to you. I'm sorry for bothering you."
+            "text": "Yeah, thanks to you. \nI'm sorry for bothering you.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "………… ……Trainer-san, um……"
+            "text": "………… \n……Trainer-san, um……",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "Are you having fun?",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
+            "text": "I mean, ever since this morning, you've spent all day \nwith me……I was thinking it would be a good change of \npace. But, you haven't really been having fun right?",
             "name": "Narita Top Road",
-            "text": "I mean, ever since this morning, you've spent all day with me……I was thinking it would be a good change of pace. But, you haven't really been having fun right?",
             "choice_data_list": [
                 "It's fun because I'm with you",
                 "It's fun because I'm with you"
             ]
         },
         {
+            "text": "But, I've just been one-sidedly having you help me. \nAm I not being a bother……?",
             "name": "Narita Top Road",
-            "text": "But, I've just been one-sidedly having you help me. Am I not being a bother……?",
             "choice_data_list": [
                 "No. ――Is it a burden for you?",
                 "No. ――Is it a burden for you?"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Not even a little bit! As the one in charge, I decided to do this myself!"
+            "text": "Not even a little bit! \nAs the one in charge, I decided to do this myself!",
+            "name": "Narita Top Road"
         },
         {
+            "text": "Because I want everyone to enjoy it to the fullest! \nThat makes it worth doing! It's something I, myself, want to do!",
             "name": "Narita Top Road",
-            "text": "Because I want everyone to enjoy it to the fullest! That makes it worth doing! It's something I, myself, want to do!",
             "choice_data_list": [
                 "It's the same for me"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "……The same?"
+            "text": "……The same?",
+            "name": "Narita Top Road"
         },
         {
-            "text": "Being able to devote yourself to someone else. And on top of that, feeling that it's worth doing. I tell Narita Top Road that I think she's amazing to be able to feel like that."
+            "text": "Being able to devote yourself to someone else. And on top \nof that, feeling that it's worth doing. I tell Narita Top Road \nthat I think she's amazing to be able to feel like that."
         },
         {
-            "text": "That's why I wanted her to see it through. I wanted her to live up to everyone's expectations. But, if it was hard for her to do it alone then――",
+            "text": "That's why I wanted her to see it through. I wanted \nher to live up to everyone's expectations. But, \nif it was hard for her to do it alone then――",
             "choice_data_list": [
                 "Don't hesitate to rely on me",
                 "Don't hesitate to rely on me"
             ]
         },
         {
-            "name": "Narita Top Road",
             "text": "……!",
+            "name": "Narita Top Road",
             "choice_data_list": [
-                "Things'll go smoother with both of us, right?",
-                "Things'll go smoother with both of us, right?"
+                "<size=37>Things'll go smoother with both of us, right?</size>",
+                "<size=37>Things'll go smoother with both of us, right?</size>"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "With both of us…………Ah."
+            "text": "With both of us…………Ah.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "(……That's right. More so than by myself. With two of us, we'll be able come up with better ideas……!)"
+            "text": "(……That's right. More so than by myself. \nWith two of us, we'll be able come up with better ideas……!)",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "(So we can make this as fun as we can for everyone. ――It's fine to borrow someone else's strength!)"
+            "text": "(So we can make this as fun as we can for everyone. \n――It's fine to borrow someone else's strength!)",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "……Then if Trainer-san is saying that."
+            "text": "……Then if Trainer-san is saying that.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "Can I ask you to continue accompanying me?",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "Gladly!"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Thank you very much! Well then, next up……let's go to the Haunted Halls!"
+            "text": "Thank you very much! \nWell then, next up……let's go to the Haunted Halls!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "I followed after Narita Top Road who had a bright and cheerful smile on her face. The time we spent brainstorming ideas was very productive."
+            "text": "I followed after Narita Top Road who had a \nbright and cheerful smile on her face. The time \nwe spent brainstorming ideas was very productive."
         }
     ]
 }

@@ -1,229 +1,242 @@
 {
     "text_block_list": [
         {
-            "text": "After school, on my way to the Training Course, I bumped in to an Uma Musume I recognized and another I didn't."
+            "text": "After school, on my way to the Training Course, I bumped in to an \nUma Musume I recognized and another I didn't."
         },
         {
+            "text": "Uwaaaaaaaaah!! Uhyaaaaaaa!!",
+            "name": "Special Week"
+        },
+        {
+            "text": "The road behind that building over there leads \nto the music room and kitchen. And this way leads \nto the building with the indoor pool.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Hokkaido is sprawling too, but to think just one school would be \nthis big! I might get lost once… or maybe 5 times.",
+            "name": "Special Week"
+        },
+        {
+            "text": "…Oh? If I recall, you're team ＜Sirius＞'s trainer.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Good afternoon. \nIt seems you already know me.",
+            "name": "<username>"
+        },
+        {
+            "text": "Trainer…?",
+            "name": "Special Week"
+        },
+        {
+            "text": "Yes, if you want to enter the Twinkle Series, \nyou're required to be a part of a team.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "And this person here is someone who's trained \nseveral G1 Uma Musume. Team ＜Sirius＞'s trainer.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Eh? So they're an important person…! \nGood afternoon, I'm Special Week!!",
+            "name": "Special Week"
+        },
+        {
+            "text": "I wouldn't say important… \nThat aside, it seems like you're both looking around campus.",
+            "name": "<username>"
+        },
+        {
+            "text": "I just recently transferred here from Hokkaido. \nSo I asked Suzuka-san to give me a tour.",
+            "name": "Special Week"
+        },
+        {
+            "text": "On top of that, to participate in races I need to join a team, \nright? Just being admitted to the academy isn't enough…",
+            "name": "Special Week"
+        },
+        {
+            "text": "In that case, I want to join the same team as Suzuka-san! \nI'd get to see Suzuka-san run from up close, no \nfrom right beside her, everyday!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Um… to join a team it's necessary to be scouted first. \nJoining the team because you want to is…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Uwaaaah! Scouted! Just like a celebrity! \nI'll do my best so I can be scouted!",
             "name": "Special Week",
-            "text": "Uwaaaaaaaaah!! Uhyaaaaaaa!!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "The road behind that building over there leads to the music room and kitchen. And this way leads to the building with the indoor pool."
-        },
-        {
-            "name": "Special Week",
-            "text": "Hokkaido is sprawling too, but to think just one school would be this big! I might get lost once… or maybe 5 times."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…Oh? If I recall, you're team <Sirius>'s trainer."
-        },
-        {
-            "text": "Good afternoon. It seems you already know me."
-        },
-        {
-            "name": "Special Week",
-            "text": "Trainer…?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yes, if you want to enter the Twinkle Series, you're required to be a part of a team."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "And this person here is someone who's trained several G1 Uma Musume. Team <Sirius>'s trainer."
-        },
-        {
-            "name": "Special Week",
-            "text": "Eh? So they're an important person…! Good afternoon, I'm Special Week!!"
-        },
-        {
-            "text": "I wouldn't say important… That aside, it seems like you're both looking around campus."
-        },
-        {
-            "name": "Special Week",
-            "text": "I just recently transferred here from Hokkaido. So I asked Suzuka-san to give me a tour."
-        },
-        {
-            "name": "Special Week",
-            "text": "On top of that, to participate in races I need to join a team, right? Just being admitted to the academy isn't enough…"
-        },
-        {
-            "name": "Special Week",
-            "text": "In that case, I want to join the same team as Suzuka-san! I'd get to see Suzuka-san run from up close, no from right beside her, everyday!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um… to join a team it's necessary to be scouted first. Joining the team because you want to is…"
-        },
-        {
-            "name": "Special Week",
-            "text": "Uwaaaah! Scouted! Just like a celebrity! I'll do my best so I can be scouted!",
             "choice_data_list": [
-                "You're, how do I say this, very energetic"
+                "<size=41>You're, how do I say this, very energetic</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Well then, we'll excuse ourselves here."
+            "text": "…Well then, we'll excuse ourselves here.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Okay, see ya."
+            "text": "Okay, see ya.",
+            "name": "<username>"
         },
         {
-            "text": "She had an overwhelming victory in her Debut, but placed 8th during [Yayoi Sho]. In regards to that, there was something I wanted to ask her, but…"
+            "text": "She had an overwhelming victory in her Debut, but placed 8th \nduring [Yayoi Sho]. In regards to that, there was something I \nwanted to ask her, but…"
         },
         {
-            "text": "But that's probably a bit impertinent."
+            "text": "But that's probably a bit impertinent.",
+            "name": "<username>"
         },
         {
-            "text": "But that's probably a bit impertinent."
+            "text": "But that's probably a bit impertinent.",
+            "name": "<username>"
         },
         {
             "text": "A few days after that, at a Selection Race-"
         },
         {
-            "text": "Yo, observing this race?"
+            "text": "Yo, observing this race?",
+            "name": "<username>"
         },
         {
-            "text": "Oh, observing this race?"
+            "text": "Oh, observing this race?",
+            "name": "<username>"
         },
         {
+            "text": "＜Sirius＞'s Trainer-san. \nYes, Special Week-san is participating.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "I was surprised when I saw the race schedule. She just \ntransferred here but is already running in a Selection Race.",
+            "name": "<username>"
+        },
+        {
+            "text": "Usually, the Uma Musume admitted to Tracen Academy takes classes \non the basics of running and challenge the Selection Race at an \nappropriate time, but-"
+        },
+        {
+            "text": "She probably entered this early so she could join \nthe same team as you as soon as possible.",
+            "name": "<username>"
+        },
+        {
+            "text": "She probably entered this early so she could join \nthe same team as you as soon as possible.",
+            "name": "<username>"
+        },
+        {
+            "text": "That may be the case… \nBut it seems like Special Week-san already has a dream in mind.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "A dream to run in the Twinkle Series, \nand become \"Japan's #1 Uma Musume\".",
             "name": "Silence Suzuka",
-            "text": "<Sirius>'s Trainer-san. Yes, Special Week-san is participating."
-        },
-        {
-            "text": "I was surprised when I saw the race schedule. She just transferred here but is already running in a Selection Race."
-        },
-        {
-            "text": "Usually, the Uma Musume admitted to Tracen Academy takes classes on the basics of running and challenge the Selection Race at an appropriate time, but-"
-        },
-        {
-            "text": "She probably entered this early so she could join the same team as you as soon as possible."
-        },
-        {
-            "text": "She probably entered this early so she could join the same team as you as soon as possible."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "That may be the case… But it seems like Special Week-san already has a dream in mind."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "A dream to run in the Twinkle Series, and become \"Japan's #1 Uma Musume\".",
             "choice_data_list": [
                 "\"Japan's #1 Uma Musume\"…?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I've just met her, but Special Week-san's straight-forward feelings reached me."
+            "text": "I've just met her, \nbut Special Week-san's straight-forward feelings reached me.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Silence Suzuka's facial expression while saying that, seemed very melancholy… Completely different from her expression during her Debut race."
+            "text": "Silence Suzuka's facial expression while saying that, \nseemed very melancholy… Completely different from \nher expression during her Debut race."
         },
         {
-            "text": "Somehow, it seems like you're speaking as if you haven't sorted out your own feelings yet."
+            "text": "Somehow, it seems like you're speaking as if you \nhaven't sorted out your own feelings yet.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Eh…?"
+            "text": "Eh…?",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "… I…"
+            "text": "… I…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Commentator",
-            "text": "Selection Race, 3rd Round. The participating Uma Musume have settled in to their gates."
+            "text": "Selection Race, 3rd Round. \nThe participating Uma Musume have settled in to their gates.",
+            "name": "Commentator"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ah… the race is starting."
+            "text": "Ah… the race is starting.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Commentator",
-            "text": "Number 6, Special Week! To make up for her late start, she enters a Long Spurt from the third corner!"
+            "text": "Number 6, Special Week! To make up for her late start, \nshe enters a Long Spurt from the third corner!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "She's catching up! And now she's taking the lead!"
+            "text": "She's catching up! \nAnd now she's taking the lead!",
+            "name": "Commentator"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Special Week-san, could it be…!"
+            "text": "Special Week-san, could it be…!",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "She's got considerable determination for victory, how could I have missed that?! And that straight-forward expression… she might do it!"
+            "text": "She's got considerable determination for victory, \nhow could I have missed that?! And that straight-forward \nexpression… she might do it!",
+            "name": "<username>"
         },
         {
-            "text": "She's got considerable determination for victory, how could I have missed that?! And that straight-forward expression… she might do it!"
+            "text": "She's got considerable determination for victory, \nhow could I have missed that?! And that straight-forward \nexpression… she might do it!",
+            "name": "<username>"
         },
         {
-            "text": "With the way Special Week is running, after moving to Tokyo to chase her dreams, she might really be able to realize her dreams… however-"
+            "text": "With the way Special Week is running, after moving \nto Tokyo to chase her dreams, she might really be \nable to realize her dreams… however-"
         },
         {
-            "name": "Commentator",
-            "text": "…Wait!? What's wrong with Special Week?! Special Week stopped and is just standing there. What's she waving at?!"
+            "text": "…Wait!? What's wrong with Special Week?! Special Week stopped \nand is just standing there. What's she waving at?!",
+            "name": "Commentator"
         },
         {
-            "name": "Special Week",
-            "text": "I did it, Suzuka-san! I got first place!"
+            "text": "I did it, Suzuka-san! \nI got first place!",
+            "name": "Special Week"
         },
         {
-            "name": "Commentator",
-            "text": "Oh no! It seems like she's mistaken where the goal was! In the meantime, everyone is passing Special Week!"
+            "text": "Oh no! It seems like she's mistaken where the goal was! \nIn the meantime, everyone is passing Special Week!",
+            "name": "Commentator"
         },
         {
-            "name": "Special Week",
-            "text": "Ehhhhhhh?!"
+            "text": "Ehhhhhhh?!",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "Um, starting today I'll be in your care, I'm Special Week! Please treat me well!"
+            "text": "Um, starting today I'll be in your care, \nI'm Special Week! Please treat me well!",
+            "name": "Special Week"
         },
         {
-            "name": "Winning Ticket",
-            "text": "Uwooooo!! A new member! Special Week, so Spe-chan! Treat me well!"
+            "text": "Uwooooo!! A new member! \nSpecial Week, so Spe-chan! Treat me well!",
+            "name": "Winning Ticket"
         },
         {
-            "name": "Special Week",
-            "text": "I really wanted to join Suzuka-san's team but, I really screwed up during the Selection Race…"
+            "text": "I really wanted to join Suzuka-san's team but, \nI really screwed up during the Selection Race…",
+            "name": "Special Week"
         },
         {
-            "name": "Special Week",
-            "text": "But! But! Trainer-san spoke to me and told me <Sirius> was a great team so I joined!"
+            "text": "But! But! Trainer-san spoke to me and told \nme ＜Sirius＞ was a great team so I joined!",
+            "name": "Special Week"
         },
         {
-            "name": "Gold Ship",
-            "text": "Hooooou… So <Sirius> was just an after thought for you."
+            "text": "Hooooou… So ＜Sirius＞ was just an after thought for you.",
+            "name": "Gold Ship"
         },
         {
-            "name": "Special Week",
-            "text": "…eh?! N-no! You're wrong! It's true that I wanted to join the same team as Suzuka-san though…"
+            "text": "…eh?! N-no! You're wrong! It's true that I wanted to join the \nsame team as Suzuka-san though…",
+            "name": "Special Week"
         },
         {
-            "name": "Gold Ship",
-            "text": "So you came here because you were out of luck!! I'm gonna make you \"Japan's Most Unfortunate Uma Musume\"!"
+            "text": "So you came here because you were out of luck!! \nI'm gonna make you \"Japan's Most Unfortunate Uma Musume\"!",
+            "name": "Gold Ship"
         },
         {
-            "name": "Special Week",
-            "text": "Ueeeeeeeeehhh!?"
+            "text": "Ueeeeeeeeehhh!?",
+            "name": "Special Week"
         },
         {
-            "name": "Gold Ship",
-            "text": "C'mon!! Don't stand there spacin' out!! If you wanna become Japan's #1 then run like hell!!"
+            "text": "C'mon!! Don't stand there spacin' out!! \nIf you wanna become Japan's #1 then run like hell!!",
+            "name": "Gold Ship"
         },
         {
-            "name": "Special Week",
-            "text": "U-understoooood!!"
+            "text": "U-understoooood!!",
+            "name": "Special Week"
         },
         {
-            "text": "She's a little rough around the edges, but like Silence Suzuka said, her pure desire to chase her dream reached me."
+            "text": "She's a little rough around the edges, but like Silence Suzuka \nsaid, her pure desire to chase her dream reached me."
         },
         {
-            "text": "Special Week is someone who makes you feel like you want to support those straight-forward dreams."
+            "text": "Special Week is someone who makes you feel like you want to \nsupport those straight-forward dreams."
         }
     ]
 }

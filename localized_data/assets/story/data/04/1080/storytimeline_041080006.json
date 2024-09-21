@@ -1,0 +1,250 @@
+{
+    "text_block_list": [
+        {
+            "text": "It's afternoon on a Saturday. I'm on my way \nback to the station after running an errand."
+        },
+        {
+            "text": "Oh, Tray-chan. \nNice coincidence. Yeah!",
+            "name": "Transcend"
+        },
+        {
+            "text": "I'm about to head to the cinema to see if there \nare any movies worth watching. Wanna join me?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Sounds good! I'm free this afternoon."
+            ]
+        },
+        {
+            "text": "I can't help but get excited when I'm at the cinema. \nI wonder if it's the smell of the butter and caramel?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=39>Haha, you may be right. So, which movie?</size>"
+            ]
+        },
+        {
+            "text": "Well... How about <i>you</i> choose, Tray-chan? \nNo need to consider my tastes, I'm fine \nwith watching anything. Go on!",
+            "name": "Transcend"
+        },
+        {
+            "text": "I take a look at the movies that are playing soon. \nThere's one that stands out...",
+            "choice_data_list": [
+                "<size=41>R... \"Revolver and Underfloor Heating\"?</size>"
+            ]
+        },
+        {
+            "text": "Two completely unrelated words. \nThe trailer suggests it's an over-the-top action movie \nfull of explosions..."
+        },
+        {
+            "text": "Haha. I figured you'd choose that one. \nI spotted it as well.",
+            "name": "Transcend"
+        },
+        {
+            "text": "I like that director. \nThey keep making unique movies.",
+            "name": "Transcend"
+        },
+        {
+            "text": "They keep coming up with interesting challenges for \nthemselves, and absolutely demolish every previous release \nwith their new ones. I love it!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Oh, it's by <i>them</i>? We gotta see that!"
+            ]
+        },
+        {
+            "text": "Sounds like you made your choice. \nLet's grab some tickets!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Hm hmm. About the seats... What do you prefer? \nSmack-dab in the middle or more on the side?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "I like to sit in the center if possible."
+            ]
+        },
+        {
+            "text": "Agreed. Sitting in the middle gives the best experience, \neven if it can be a little crowded. And to be honest, \nI already bought the tickets while you were thinking.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Ahaha, that's right! The cinema atmosphere really \nmakes you want to buy everything.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "P-Please restrain a bit..!"
+            ]
+        },
+        {
+            "text": "There's still time until it starts. How about \nwe explore every nook and cranny of this place?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Hey, let me guess if you want to buy popcorn or not. \n'Kay?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Sure. What do you think?"
+            ]
+        },
+        {
+            "text": "Hehe. My prediction: You'll buy. The movie has many \nexplosions, which means there'll be plenty of opportunities \nto munch on some popcorn.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "... Damn, you got me!"
+            ]
+        },
+        {
+            "text": "Heck yeah, my info was right! \nThat's +500 Tray-chan points for me!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Don't you think waiting for the movie to start is the best \npart of going to the cinema? It's exciting to wonder \nwhat the movie might be like.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Exactly my thoughts!"
+            ]
+        },
+        {
+            "text": "And so, after spending some time together, it was about \ntime for the movie to begin. I follow the visibly excited \nTranscend into the hall."
+        },
+        {
+            "text": "That movie exceeded my expectations! I couldn't \nhelp myself but speak my thoughts about this \nnonstop action masterpiece!",
+            "choice_data_list": [
+                "That was awesome!",
+                "That was awesome!"
+            ]
+        },
+        {
+            "text": "Oh, did the movie check all the boxes for you?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "You bet! To start, the composition—",
+                "You bet! To start, the composition—"
+            ]
+        },
+        {
+            "text": "Hmm, I get you. That director is very good at action movies. \nAnd? Any other points of interest?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=40>Don't even get me started on the script—</size>"
+            ]
+        },
+        {
+            "text": "Ahaha. That sure was a surprise right at the end. \nAnd? Keep that trademark Tray-chan review going!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=41>(Wait... Am I the only one talking here?)</size>",
+                "<size=41>(Wait... Am I the only one talking here?)</size>"
+            ]
+        },
+        {
+            "text": "With that thought in the back of my head, a sense of unease \nwashed over me. Did I incorrectly assume she felt the same \nabout the movie as me? I'm honestly a bit startled..."
+        },
+        {
+            "text": "Oh, I'm out of coffee. \nWant another one as well?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Did you... Not like the movie?"
+            ]
+        },
+        {
+            "text": "Huh?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Well... Um... \nAha, really?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Were you just playing along?"
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Transcend"
+        },
+        {
+            "text": "Oh... Gosh. \nYou saw through me, huh?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Alright then, I'll tell you what I thought of it.",
+            "name": "Transcend"
+        },
+        {
+            "text": "There wasn't the usual challenge in this one.",
+            "name": "Transcend"
+        },
+        {
+            "text": "This director has always posed a special challenge for \nthemselves with every movie. Like not having the main \ncharacter speak, or filming the entire thing on a phone.",
+            "name": "Transcend"
+        },
+        {
+            "text": "For this one, they just took all the things that worked \npreviously and crammed them together. \nIt was a big turn-off for me.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Now it finally makes sense to me. \nShe...",
+            "choice_data_list": [
+                "You couldn't get excited?",
+                "You couldn't get excited?"
+            ]
+        },
+        {
+            "text": "Yeah... That's basically it. But I did like that one scene. \nThat big gunpowder explosion of the skyscraper!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Surely that got you excited, right?",
+                "Surely that got you excited, right?"
+            ]
+        },
+        {
+            "text": "Sure, it got me excited alright! \nBut like, not <i>excited</i> excited, if you get what I mean.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Like, it was funny. I laughed a ton! But like, \nI wanted to be excited by whatever challenge \nthe director gave themselves...",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=38>And when the dead body started moving..?</size>"
+            ]
+        },
+        {
+            "text": "That was scary as heck! But not exciting... \nHey, are you bringing that up on purpose?!",
+            "name": "Transcend"
+        },
+        {
+            "text": "The thing about the photography... Oh, has the clock glitched \nout or is it really this late already? I've got so much more \nto talk about!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "You were so into it, too!"
+            ]
+        },
+        {
+            "text": "Haha. Let's call it a wrap and continue another time, 'kay? \nTime to say goodbye for now.",
+            "name": "Transcend"
+        },
+        {
+            "text": "......",
+            "name": "Transcend"
+        },
+        {
+            "text": "(...I thought I saw through them.)",
+            "name": "Transcend"
+        },
+        {
+            "text": "(I thought it'd be better if I played along. Hiding my \ntrue feelings. Surely they wouldn't notice. But...)",
+            "name": "Transcend"
+        },
+        {
+            "text": "<i>\"Did you... Not like the movie?\"</i>"
+        },
+        {
+            "text": "(I miscalculated... \nThere's still a lot more to learn about them.)",
+            "name": "Transcend"
+        },
+        {
+            "text": "... Hehe.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Oh man... That got me excited.",
+            "name": "Transcend"
+        }
+    ]
+}

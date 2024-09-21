@@ -1,54 +1,54 @@
 {
     "text_block_list": [
         {
-            "text": "It's the day of the Selection Race, where the trainers scout out the abilities of the horsegirls and form partnerships. I had just arrived at the grounds and as I looked around—"
+            "text": "It's the day of the Selection Race, where the trainers scout out \nthe abilities of the horsegirls and form partnerships. \nI had just arrived at the grounds and as I looked around—"
         },
         {
+            "text": "Hey, hey, hey! You're the trainer from the other day!! \nI'm so glad you're here!!",
             "name": "Sakura Bakushin O",
-            "text": "Hey, hey, hey! You're the trainer from the other day!! I'm so glad you're here!!",
             "choice_data_list": [
                 "How's it going?",
                 "How's it going?"
             ]
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "It's been nothing but great! Always ready, always prepared! That's what makes a class president!"
+            "text": "It's been nothing but great! Always ready, always prepared! \nThat's what makes a class president!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Now, I'll be in the next race!! Please observe my excellence! ……Don't expect anything less!!"
+            "text": "Now, I'll be in the next race!! \nPlease observe my excellence! ……Don't expect anything less!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Now excuse me! Bakushin bakushiiin!!"
+            "text": "Now excuse me! Bakushin bakushiiin!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Huh? Sakura Bakushin O is running next? I thought short distances were her forte…"
+            "text": "Huh? Sakura Bakushin O is running next? \nI thought short distances were her forte…",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "She's registered to run in the long distance. Does she have something up her sleeve…?"
+            "text": "She's registered to run in the long distance. \nDoes she have something up her sleeve…?",
+            "name": "Veteran Trainer A"
         },
         {
             "text": "That was how the race started. Sakura Bakushin O was…"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Here I go!! Bakushin bakushin!!"
+            "text": "Here I go!! Bakushin bakushin!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Commentator",
-            "text": "Sakura Bakushin O makes a quick start!! She's pulling away from the rest of the field!!"
+            "text": "Sakura Bakushin O makes a quick start!! \nShe's pulling away from the rest of the field!!",
+            "name": "Commentator"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I'm not done yet! Bakushin bakushin bakushiiiiin!!!!"
+            "text": "I'm not done yet! \nBakushin bakushin bakushiiiiin!!!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Commentator",
-            "text": "Bakushin O leads! Bakushin O leads!! What fearsome acceleration! She's got lightning in her legs!"
+            "text": "Bakushin O leads! Bakushin O leads!! \nWhat fearsome acceleration! She's got lightning in her legs!",
+            "name": "Commentator"
         },
         {
             "text": "(Woooooaaaaaaah!!)",
@@ -57,178 +57,178 @@
             ]
         },
         {
-            "text": "The race had barely started, and the audience already erupted. But her performance was so amazing that my mind had already just accepted this bizarre scene."
+            "text": "The race had barely started, and the audience already erupted. \nBut her performance was so amazing that my mind had already just \naccepted this bizarre scene."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Hey, isn't she going too early!? If she goes that hard from the start of… no, but…!"
+            "text": "Hey, isn't she going too early!? \nIf she goes that hard from the start of… no, but…!",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "What amazing speed…! I've never seen such a fast start before…!!"
+            "text": "What amazing speed…! \nI've never seen such a fast start before…!!",
+            "name": "Veteran Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "If she keeps going like this, maybe…!"
+            "text": "If she keeps going like this, maybe…!",
+            "name": "Veteran Trainer A"
         },
         {
             "text": "…It wasn't long before excited voices surrounded me."
         },
         {
-            "name": "Commentator",
-            "text": "They've reached the fourth corner! Each horsegirl is waiting for the right moment to strike—"
+            "text": "They've reached the fourth corner! \nEach horsegirl is waiting for the right moment to strike—",
+            "name": "Commentator"
         },
         {
+            "text": "Bakushin… Bakushiiiin…",
+            "name": "Sakura Bakushin O"
+        },
+        {
+            "text": "S-Sakura Bakushin O is dropping back!? \nWhere has her momentum gone!?",
+            "name": "Commentator"
+        },
+        {
+            "text": "I'm out… of… energy…",
+            "name": "Sakura Bakushin O"
+        },
+        {
+            "text": "Ahhh…",
+            "name": "Trainers"
+        },
+        {
+            "text": "Soon, Sakura Bakushin O slipped down the rankings and \neventually finished in 12th place…"
+        },
+        {
+            "text": "Gahh, 12th place…! \nThe disappointment…!",
             "name": "Sakura Bakushin O",
-            "text": "Bakushin… Bakushiiiin…"
-        },
-        {
-            "name": "Commentator",
-            "text": "S-Sakura Bakushin O is dropping back!? Where has her momentum gone!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm out… of… energy…"
-        },
-        {
-            "name": "Trainers",
-            "text": "Ahhh…"
-        },
-        {
-            "text": "Soon, Sakura Bakushin O slipped down the rankings and eventually finished in 12th place…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Gahh, 12th place…! The disappointment…!",
             "choice_data_list": [
                 "Your start was great, too bad.",
                 "You started great, it's a shame."
             ]
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "No… everyone was fast this time!"
+            "text": "No… everyone was fast this time!",
+            "name": "Sakura Bakushin O"
         },
         {
+            "text": "Honestly acknowledging competitors is \nwhat makes a class president!! \nWah, so noble, I could be a princess!!",
             "name": "Sakura Bakushin O",
-            "text": "Honestly acknowledging competitors is what makes a class president!! Wah, so noble, I could be a princess!!",
             "choice_data_list": [
                 "You say yourself…",
                 "You say yourself…"
             ]
         },
         {
-            "name": "Average Trainer A",
-            "text": "Oh, there you are. Hey, Sakura Bakushin O! Can I talk to you for a moment?"
+            "text": "Oh, there you are. Hey, Sakura Bakushin O! \nCan I talk to you for a moment?",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "By talk you must mean scout, right? Of course, of course, I've been waiting!"
+            "text": "By talk you must mean scout, right? \nOf course, of course, I've been waiting!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Oh, I… see. Thank you for agreeing. Shame about the result, but your pace was amazing! I'd love to recruit you."
+            "text": "Oh, I… see. Thank you for agreeing. \nShame about the result, but your pace was amazing! \nI'd love to recruit you.",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Average Trainer A",
-            "text": "I will make you a top sprinter!! You can be world class in short distance!!"
+            "text": "I will make you a top sprinter!! \nYou can be world class in short distance!!",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed! Yessir! Let's take on the sprinter's—"
+            "text": "Indeed! Yessir! \nLet's take on the sprinter's—",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Hmm? Sprinter?"
+            "text": "Hmm? Sprinter?",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Yeah… did I say something funny? Based on the race you just ran, you have a clear aptitude for short distances, right?"
+            "text": "Yeah… did I say something funny? Based on the race you just ran, \nyou have a clear aptitude for short distances, right?",
+            "name": "Average Trainer A"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I see, I see. So that's what you were thinking."
+            "text": "I see, I see. So that's what you were thinking.",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Then I'll have to decline! Thank you for reaching out to me! The way back's over there!"
+            "text": "Then I'll have to decline! \nThank you for reaching out to me! The way back's over there!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Wha!? Ah, hey…!!"
+            "text": "Wha!? Ah, hey…!!",
+            "name": "Average Trainer A"
         },
         {
-            "text": "Looking quite confused, the trainer who had reached out to her wandered away, swept up in Sakura Bakushin O's momentum."
+            "text": "Looking quite confused, the trainer who had reached out to her \nwandered away, swept up in Sakura Bakushin O's momentum."
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Phew, what a shame!! But with every farewell comes a new encounter!"
+            "text": "Phew, what a shame!! \nBut with every farewell comes a new encounter!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Speaking of — you've been standing there watching me for a while now! Don't you have something to say to me!?"
+            "text": "Speaking of — you've been standing there watching me \nfor a while now! Don't you have something to say to me!?",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
             "text": "Or… were you planning to recruit me as a \"sprinter\" too?",
+            "name": "Sakura Bakushin O",
             "choice_data_list": [
                 "Uhh…"
             ]
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "If you can't resolutely give me a \"NO\", then — as much as it pains me — I must decline!"
+            "text": "If you can't resolutely give me a \"NO\", then — as much as it \npains me — I must decline!",
+            "name": "Sakura Bakushin O"
         },
         {
+            "text": "I'm sorry! I juuuust can't seem to \nlimit myself to short distances!",
             "name": "Sakura Bakushin O",
-            "text": "I'm sorry! I juuuust can't seem to limit myself to short distances!",
             "choice_data_list": [
                 "Why are you so particular about that?",
                 "Why are you so particular about this?"
             ]
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "That's because I am the class president!!!!"
+            "text": "That's because I am the class president!!!!",
+            "name": "Sakura Bakushin O"
         },
         {
+            "text": "Here's a question for you! Name a G1 race \nthat is not a sprint race. Go on!",
             "name": "Sakura Bakushin O",
-            "text": "Here's a question for you! Name a G1 race that is not a sprint race. Go on!",
             "choice_data_list": [
-                "Japan Derby, Tenno Sho, Arima Kinen…"
+                "<size=42>Japan Derby, Tenno Sho, Arima Kinen…</size>"
             ]
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Yes, exactly! …You understand, don't you?"
+            "text": "Yes, exactly! …You understand, don't you?",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "There are soooo many! So many more than just short distance races I need to win!!"
+            "text": "There are soooo many! \nSo many more than just short distance races I need to win!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Didn't I tell you the other day? I am the class president, and the class president is me!"
+            "text": "Didn't I tell you the other day? \nI am the class president, and the class president is me!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "I'm going to be everyone's role model!"
+            "text": "I'm going to be everyone's role model!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "What do you think of when you hear the phrase \"exemplary horsegirl\"?"
+            "text": "What do you think of when you hear the \nphrase \"exemplary horsegirl\"?",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "Sprinters? Milers? Stayers? —No, exemplary is being all of these!"
+            "text": "Sprinters? Milers? Stayers? \n—No, exemplary is being all of these!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "And that's why! I'm a class president!!"
+            "text": "And that's why! I'm a class president!!",
+            "name": "Sakura Bakushin O"
         },
         {
-            "name": "Sakura Bakushin O",
-            "text": "So, my apologies. I'll leave you to it!! Bakushin bakushiiin!!"
+            "text": "So, my apologies. I'll leave you to it!! \nBakushin bakushiiin!!",
+            "name": "Sakura Bakushin O"
         },
         {
             "text": "I was rejected before even opening my mouth…"

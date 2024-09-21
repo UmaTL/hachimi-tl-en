@@ -1,250 +1,250 @@
 {
     "text_block_list": [
         {
-            "text": "A day off. For Inari One's training, I was out gathering some necessary materials―"
+            "text": "A day off. For Inari One's training, I was out gathering some \nnecessary materials―"
         },
         {
+            "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
             "name": "Inari One",
-            "text": "Boss, what a coincidence! What's up, out shoppin' alone?",
             "choice_data_list": [
                 "Inari, you too?"
             ]
         },
         {
+            "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
             "name": "Inari One",
-            "text": "Boss, what a coincidence! What's up, out shoppin' alone?",
             "choice_data_list": [
                 "Inari, you too?"
             ]
         },
         {
-            "name": "Inari One",
-            "text": "Nah, the followers are gonna be comin' here to visit soon, so I'm goin' around to the shops. Was thinkin' I could guide them around."
+            "text": "Nah, the followers are gonna be comin' here to visit soon, so I'm \ngoin' around to the shops. Was thinkin' I could guide them around.",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "But, there's too many fancy stores around! I really wanna make a decision, but there are way too many options!"
+            "text": "But, there's too many fancy stores around! I really wanna make a \ndecision, but there are way too many options!",
+            "name": "Inari One"
         },
         {
+            "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
             "name": "Inari One",
-            "text": "……That's it! Can't go wrong with Boss' sense! If you've got any recommendations, can ya tell me?!",
             "choice_data_list": [
                 "I'll guide you"
             ]
         },
         {
+            "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
             "name": "Inari One",
-            "text": "……That's it! Can't go wrong with Boss' sense! If you've got any recommendations, can ya tell me?!",
             "choice_data_list": [
                 "I'll guide you"
             ]
         },
         {
-            "name": "Inari One",
-            "text": "Oh, thanks! I'm leavin' it to you, Boss!"
+            "text": "Oh, thanks! I'm leavin' it to you, Boss!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Oh, thanks! I'm leavin' it to you, Boss!"
+            "text": "Oh, thanks! I'm leavin' it to you, Boss!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "What the heck's with this flashy parfait!? It even has a really colorful flower on top of it……Ha～! So this is what they call a flourish!"
+            "text": "What the heck's with this flashy parfait!? It \neven has a really colorful flower on top of it……Ha～! \nSo this is what they call a flourish!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Oooh!? Everyone's walkin' around in their swimsuits, huh!? And over there, they're dancin'……how nice, it's almost like a festival!"
+            "text": "Oooh!? Everyone's walkin' around in their swimsuits, \nhuh!? And over there, they're dancin'……how nice, \nit's almost like a festival!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Oh, billiards, right!? I've seen it before! How 'bout it, let's have a one round match!"
+            "text": "Oh, billiards, right!? I've seen it before! \nHow 'bout it, let's have a one round match!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "There's a bunch of stylish stuff here too, huh. ……Oh, what's that over there?"
+            "text": "There's a bunch of stylish stuff here too, huh. \n……Oh, what's that over there?",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "I'm gonna go take a quick look over there!"
+            "text": "I'm gonna go take a quick look over there!",
+            "name": "Inari One"
         },
         {
-            "text": "Inari One was always worrying about everyone else. While looking at anything that caught her interest, she headed deeper in to the store."
+            "text": "Inari One was always worrying about everyone else. \nWhile looking at anything that caught her interest, \nshe headed deeper in to the store."
         },
         {
-            "text": "Since it seems like her 『followers』 were coming this time, it was a chance to relax, so hopefully she would take it easy."
+            "text": "Since it seems like her 『followers』 were coming this time, it was \na chance to relax, so hopefully she would take it easy."
         },
         {
             "text": "Until Inari One returned, I stayed nearby waiting―"
         },
         {
-            "name": "Male Customer",
-            "text": "Like I said, when I got home and opened it, it was broken! It should be fine to exchange it, right?"
+            "text": "Like I said, when I got home and opened it, it was broken! \nIt should be fine to exchange it, right?",
+            "name": "Male Customer"
         },
         {
-            "name": "General Store Clerk",
-            "text": "However, if there were no problems when it was wrapped up, well……then perhaps it bumped in to something along the way?"
+            "text": "However, if there were no problems when it was wrapped up, \nwell……then perhaps it bumped in to something along the way?",
+            "name": "General Store Clerk"
         },
         {
-            "text": "At the register, a customer and clerk were arguing. The customer seemed to gradually be getting heated, it seemed like he might get physical with the clerk.",
+            "text": "At the register, a customer and clerk were arguing. The customer \nseemed to gradually be getting heated, it seemed like he might \nget physical with the clerk.",
             "choice_data_list": [
                 "(Inari isn't nearby……)"
             ]
         },
         {
-            "text": "Even if I stepped in, there was the worry that I might get dragged in to it. I approached and called out to try and calm things down.",
+            "text": "Even if I stepped in, there was the worry that \nI might get dragged in to it. I approached and \ncalled out to try and calm things down.",
             "choice_data_list": [
-                "Um, how about we calm down and talk this out?"
+                "<size=34>Um, how about we calm down and talk this out?</size>"
             ]
         },
         {
-            "name": "Male Customer",
-            "text": "Huh!? Who are you!? Don't get involved! Or what? Are you going to――"
+            "text": "Huh!? Who are you!? Don't get involved! \nOr what? Are you going to――",
+            "name": "Male Customer"
         },
         {
+            "text": "Hey there, mister! \nIt's good that you're so hot-blooded!",
+            "name": "Inari One"
+        },
+        {
+            "text": "……at the moment things might have reached a tipping point, \na small-sized figure entered."
+        },
+        {
+            "text": "I heard it all. But, it can't be helped that there \nwould be complaints. How 'bout putting it down \nin black and white with a one match battle!",
+            "name": "Inari One"
+        },
+        {
+            "text": "If it's a fight, there'll be no hard feelin's \nafterwards! Alright, let's get this started! \nShould it be a race, or how about――",
+            "name": "Inari One"
+        },
+        {
+            "text": "……Huh? W-what the heck are you saying……?",
+            "name": "Male Customer"
+        },
+        {
+            "text": "What, there's no need to worry! If ya need a ref, just leave it \nto this Inari-sama! I'll decide it fairly with a bang!",
+            "name": "Inari One"
+        },
+        {
+            "text": "……I-it's not like I want to settle this with a fight…… Ah-……yeah, \nit just that……I got a little heated……",
+            "name": "Male Customer"
+        },
+        {
+            "text": "Aw man, so thinkin' you wanted to fight was just a \nmisunderstandin' on my part! Sorry about that, mister! Forgive me.",
+            "name": "Inari One"
+        },
+        {
+            "text": "After being taken aback, the male customer took \na look at Inari One's smiling face, he took a deep \nbreath. ……Seems like things have calmed down."
+        },
+        {
+            "text": "……No, it's my fault. It was a present for my girlfriend, \nso I just lost it for a bit.",
+            "name": "Male Customer"
+        },
+        {
+            "text": "Shopkeeper, and you too……I apologize. \nYou too…… um, thanks for stopping me.",
+            "name": "Male Customer"
+        },
+        {
+            "text": "Hey, Boss! To step in like that, \nyou've got quite the guts, huh?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Hey, Boss! To step in like that, \nyou've got quite the guts, huh?",
+            "name": "Inari One"
+        },
+        {
+            "text": "Ya could have just pretended to see nothin', \nthat's pretty impressive!",
             "name": "Inari One",
-            "text": "Hey there, mister! It's good that you're so hot-blooded!"
-        },
-        {
-            "text": "……at the moment things might have reached a tipping point, a small-sized figure entered."
-        },
-        {
-            "name": "Inari One",
-            "text": "I heard it all. But, it can't be helped that there would be complaints. How 'bout putting it down in black and white with a one match battle!"
-        },
-        {
-            "name": "Inari One",
-            "text": "If it's a fight, there'll be no hard feelin's afterwards! Alright, let's get this started! Should it be a race, or how about――"
-        },
-        {
-            "name": "Male Customer",
-            "text": "……Huh? W-what the heck are you saying……?"
-        },
-        {
-            "name": "Inari One",
-            "text": "What, there's no need to worry! If ya need a ref, just leave it to this Inari-sama! I'll decide it fairly with a bang!"
-        },
-        {
-            "name": "Male Customer",
-            "text": "……I-it's not like I want to settle this with a fight…… Ah-……yeah, it just that……I got a little heated……"
-        },
-        {
-            "name": "Inari One",
-            "text": "Aw man, so thinkin' you wanted to fight was just a misunderstandin' on my part! Sorry about that, mister! Forgive me."
-        },
-        {
-            "text": "After being taken aback, the male customer took a look at Inari One's smiling face, he took a deep breath. ……Seems like things have calmed down."
-        },
-        {
-            "name": "Male Customer",
-            "text": "……No, it's my fault. It was a present for my girlfriend, so I just lost it for a bit."
-        },
-        {
-            "name": "Male Customer",
-            "text": "Shopkeeper, and you too……I apologize. You too…… um, thanks for stopping me."
-        },
-        {
-            "name": "Inari One",
-            "text": "Hey, Boss! To step in like that, you've got quite the guts, huh?"
-        },
-        {
-            "name": "Inari One",
-            "text": "Hey, Boss! To step in like that, you've got quite the guts, huh?"
-        },
-        {
-            "name": "Inari One",
-            "text": "Ya could have just pretended to see nothin', that's pretty impressive!",
             "choice_data_list": [
                 "Inari was cool too"
             ]
         },
         {
+            "text": "What the heck, that's kind of embarrassin'! \nHehee, but it's not so bad if you're the one sayin' it.",
+            "name": "Inari One"
+        },
+        {
+            "text": "At that time, if Inari One hadn't stepped in, \nthings could have gotten out of hand."
+        },
+        {
+            "text": "However, it was good that the male customer was able to calm down \nwith just that, if he had gone off the rails……"
+        },
+        {
+            "text": "Hm? What's wrong? You've got such a serious look on your face. \nIs there somethin' stuck on my face?",
             "name": "Inari One",
-            "text": "What the heck, that's kind of embarrassin'! Hehee, but it's not so bad if you're the one sayin' it."
-        },
-        {
-            "text": "At that time, if Inari One hadn't stepped in, things could have gotten out of hand."
-        },
-        {
-            "text": "However, it was good that the male customer was able to calm down with just that, if he had gone off the rails……"
-        },
-        {
-            "name": "Inari One",
-            "text": "Hm? What's wrong? You've got such a serious look on your face. Is there somethin' stuck on my face?",
             "choice_data_list": [
                 "Let's avoid dangerous things"
             ]
         },
         {
-            "text": "Originally, it was me who stepped in in the first place, however, I'd rather avoid doing anything that might put Inari One in danger."
+            "text": "Originally, it was me who stepped in in the first \nplace, however, I'd rather avoid doing anything \nthat might put Inari One in danger."
         },
         {
-            "name": "Inari One",
-            "text": "Hehee, just when I thought you were makin' such a grave face……"
+            "text": "Hehee, just when I thought you were makin' such a grave face……",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "What the heck are ya sayin', ya moron!! That's my line!"
+            "text": "What the heck are ya sayin', ya moron!! \nThat's my line!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Geez, you're too kind, Boss. Ya can't just go shoulderin' everythin' yourself!"
+            "text": "Geez, you're too kind, Boss. \nYa can't just go shoulderin' everythin' yourself!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Geez, you're too kind, Boss. Ya can't just go shoulderin' everythin' yourself!"
+            "text": "Geez, you're too kind, Boss. \nYa can't just go shoulderin' everythin' yourself!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Just like this time, if it had turned in to a fight……that's what ya mean right? But ya see, it's much better than seein' ya get hurt."
+            "text": "Just like this time, if it had turned in to a \nfight……that's what ya mean right? But ya see, \nit's much better than seein' ya get hurt.",
+            "name": "Inari One"
         },
         {
+            "text": "After all, when it comes to power, an Uma Musume like me is stronger. \nSo ya can just leave it all to me!",
             "name": "Inari One",
-            "text": "After all, when it comes to power, an Uma Musume like me is stronger. So ya can just leave it all to me!",
             "choice_data_list": [
                 "But……"
             ]
         },
         {
-            "name": "Inari One",
-            "text": "When you were lost that time, I was the one that guided ya. And today, you were the one that guided me to a bunch of shops."
+            "text": "When you were lost that time, I was the one that guided ya. \nAnd today, you were the one that guided me to a bunch of shops.",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "I'll say it again. Clear out those things ya call ears, and listen well. There's no reason for ya to shoulder it all yourself!"
+            "text": "I'll say it again. Clear out those things ya call ears, and \nlisten well. There's no reason for ya to shoulder it all yourself!",
+            "name": "Inari One"
         },
         {
+            "text": "Sometimes, ya should just leave it to someone that can handle it. \nThe right person for the right job, right?",
             "name": "Inari One",
-            "text": "Sometimes, ya should just leave it to someone that can handle it. The right person for the right job, right?",
             "choice_data_list": [
                 "That's true but……"
             ]
         },
         {
-            "name": "Inari One",
-            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun to start settin', let's head back!"
+            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun \nto start settin', let's head back!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun to start settin', let's head back!"
+            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun \nto start settin', let's head back!",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "(Boss is always serious and earnest, this Inari-sama, can see that, ya know?)"
+            "text": "(Boss is always serious and earnest, \nthis Inari-sama, can see that, ya know?)",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "(Boss is always serious and earnest, this Inari-sama, can see that, ya know?)"
+            "text": "(Boss is always serious and earnest, \nthis Inari-sama, can see that, ya know?)",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "(And because of that, that you'll easily push yourself too hard! Hehee, I need to keep an eye on ya, otherwise I'll be the one worryin'!)"
+            "text": "(And because of that, that you'll easily push \nyourself too hard! Hehee, I need to keep an eye \non ya, otherwise I'll be the one worryin'!)",
+            "name": "Inari One"
         },
         {
-            "name": "Inari One",
-            "text": "Alright, I'll tell the followers all about today! 『Inari-sama's trainer was today's guide』 or somethin'!"
+            "text": "Alright, I'll tell the followers all about today! \n『Inari-sama's trainer was today's guide』 or somethin'!",
+            "name": "Inari One"
         },
         {
-            "text": "Once again hitting me on the back, Inari One had a hearty smile on her face."
+            "text": "Once again hitting me on the back, \nInari One had a hearty smile on her face."
         }
     ]
 }

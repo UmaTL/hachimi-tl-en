@@ -1,215 +1,215 @@
 {
     "text_block_list": [
         {
-            "text": "It's been a bit since I came knocking on the gates of Tracen Academy. Today, finally, my new lifestyle begins……!"
+            "text": "It's been a bit since I came knocking on the gates of Tracen \nAcademy. Today, finally, my new lifestyle begins……!"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Nice to meet you, Trainer <username>. I'm the Chief Trainer of the team that you've joined."
+            "text": "Nice to meet you, Trainer <username>. \nI'm the Chief Trainer of the team that you've joined.",
+            "name": "Chief Trainer"
         },
         {
+            "text": "As you can see, I've gotten quite old. The time I'll have to \nspend teaching you might be short but…… sub-trainer, I look \nforward to working with you.",
             "name": "Chief Trainer",
-            "text": "As you can see, I've gotten quite old. The time I'll have to spend teaching you might be short but…… sub-trainer, I look forward to working with you.",
             "choice_data_list": [
-                "Yes! I look forward to working with you!"
+                "<size=41>Yes! I look forward to working with you!</size>"
             ]
         },
         {
-            "name": "Chief Trainer",
-            "text": "Fufufu, good answer. I have high hopes for you, so work hard, okay? After all, I did spend quite a bit of time observing you before I chose you."
+            "text": "Fufufu, good answer. I have high hopes for you, so \nwork hard, okay? After all, I did spend quite a bit \nof time observing you before I chose you.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Alright, let's get to it―― shall we go meet those all-important Uma Musume?"
+            "text": "Alright, let's get to it―― \nshall we go meet those all-important Uma Musume?",
+            "name": "Chief Trainer"
         },
         {
-            "text": "Newcomers to the academy will often become a sub-trainer underneath a veteran, helping their team, until they've gained enough experience to lead their own."
+            "text": "Newcomers to the academy will often become a sub-trainer \nunderneath a veteran, helping their team, until they've gained \nenough experience to lead their own."
         },
         {
-            "text": "This time, I was the sub to a true veteran, Chief Trainer. The Uma Musume we're responsible for is――"
+            "text": "This time, I was the sub to a true veteran, Chief Trainer. \nThe Uma Musume we're responsible for is――"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Haa, haa…… I've finished the menu, Trainer. I'm ready for the next assignment, please."
+            "text": "Haa, haa…… I've finished the menu, Trainer. \nI'm ready for the next assignment, please.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Good work, Bell-chan. Next up is parallel running but…… do you have a moment before we start? ――He's the one we talked about before, the sub-trainer."
+            "text": "Good work, Bell-chan. Next up is parallel running but…… do you \nhave a moment before we start? ――He's the one we talked about \nbefore, the sub-trainer.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Good work, Bell-chan. Next up is parallel running but…… do you have a moment before we start? ――She's the one we talked about before, the sub-trainer."
+            "text": "Good work, Bell-chan. Next up is parallel running but…… do you \nhave a moment before we start? ――She's the one we talked about \nbefore, the sub-trainer.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……Hello."
+            "text": "……Hello.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Ah…… right. Umm, pleased to meet you."
+            "text": "Ah…… right. Umm, pleased to meet you.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Sub-trainer, once again, her name is Bell-chan…… Mejiro Dober. An important, precious Uma Musume of my team."
+            "text": "Sub-trainer, once again, her name is Bell-chan…… Mejiro Dober. \nAn important, precious Uma Musume of my team.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Sub-trainer, once again, her name is Bell-chan…… Mejiro Dober. An important, precious Uma Musume of my team."
+            "text": "Sub-trainer, once again, her name is Bell-chan…… Mejiro Dober. \nAn important, precious Uma Musume of my team.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "For me, she'll probably be the last Uma Musume that I train. As you can see, I've become quite the old lady."
+            "text": "For me, she'll probably be the last Uma Musume that I train. \nAs you can see, I've become quite the old lady.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Trainer……"
+            "text": "Trainer……",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Oh, I'm sorry, it's fine Bell-chan! I'm still quite healthy, so don't make such a lonely face."
+            "text": "Oh, I'm sorry, it's fine Bell-chan! \nI'm still quite healthy, so don't make such a lonely face.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Air Groove",
-            "text": "――Excuse me. I've come to help with parallel running training, are we ready to start?"
+            "text": "――Excuse me. I've come to help with parallel running training, \nare we ready to start?",
+            "name": "Air Groove"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Yes, of course! Thanks for coming, Air Groove-san. Bell-chan, are you ready?"
+            "text": "Yes, of course! Thanks for coming, Air Groove-san. \nBell-chan, are you ready?",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Yes……! Senpai, I look forward to running with you!"
+            "text": "Yes……! Senpai, I look forward \nto running with you!",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "And so, parallel training for Mejiro Dober and Air Groove began."
+            "text": "And so, parallel training for Mejiro Dober \nand Air Groove began."
         },
         {
-            "text": "Her training partner had earned the nickname \"Empress\". Someone who, like her mother, had the strength to win the G1 『Oaks』."
+            "text": "Her training partner had earned the nickname \"Empress\". Someone \nwho, like her mother, had the strength to win the G1 『Oaks』."
         },
         {
-            "text": "Mejiro Dober on the other hand, was someone who hadn't debuted yet. But it seemed like she was able to keep up――!"
+            "text": "Mejiro Dober on the other hand, was someone who hadn't debuted \nyet. But it seemed like she was able to keep up――!"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Haa, haa, haa…… Haaaaaaaaaa!!"
+            "text": "Haa, haa, haa…… Haaaaaaaaaa!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Air Groove",
             "text": "……! Fu, not bad……!!",
+            "name": "Air Groove",
             "choice_data_list": [
                 "(That acceleration just now……!)"
             ]
         },
         {
-            "text": "Using her whole body, built up from physical training, she was able to show such wonderful speed. I could feel the innate talent. However, that's not all――"
+            "text": "Using her whole body, built up from physical training, she was \nable to show such wonderful speed. I could feel the innate \ntalent. However, that's not all――"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Not yet, not yeeeeet!! ――Aaaaaaaaaaah!!"
+            "text": "Not yet, not yeeeeet!! \n――Aaaaaaaaaaah!!",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "To the end, never giving up, pushing further and further forward with the determination to win. That strong will left a striking impression……!",
+            "text": "To the end, never giving up, pushing further and \nfurther forward with the determination to win. That \nstrong will left a striking impression……!",
             "choice_data_list": [
                 "(Mejiro Dober…… is amazing……!)",
                 "(Mejiro Dober…… is amazing……!)"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Haaa, Haaa, Haaa…… thank you…… very much……!"
+            "text": "Haaa, Haaa, Haaa…… thank you…… very much……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Air Groove",
-            "text": "No problem. Looks like…… you've gotten stronger, Dober. That was some magnificent speed."
+            "text": "No problem. Looks like…… you've gotten stronger, Dober. \nThat was some magnificent speed.",
+            "name": "Air Groove"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "No, that's not true…… my position taking and drive timing, are still lacking. In the end, I wasn't able to pull ahead of senpai even once…"
+            "text": "No, that's not true…… my position taking and drive \ntiming, are still lacking. In the end, I wasn't \nable to pull ahead of senpai even once…",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Air Groove",
-            "text": "Haha, I won't let you pull ahead that easily. But, I could definitely feel you pulling up behind me…… You've got yourself a good trainer, don't you?"
+            "text": "Haha, I won't let you pull ahead that easily. But, I could \ndefinitely feel you pulling up behind me…… You've got yourself \na good trainer, don't you?",
+            "name": "Air Groove"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Yes……!"
+            "text": "Yes……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I'm still far, far too weak… but if it looks like I've gotten even a little bit stronger, that's all because of Trainer."
+            "text": "I'm still far, far too weak… but if it looks like I've gotten \neven a little bit stronger, that's all because of Trainer.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
             "text": "Yes, yes! Bell-can, that was a really good run, wasn't it?",
+            "name": "Chief Trainer",
             "choice_data_list": [
                 "It was……!!"
             ]
         },
         {
-            "name": "Chief Trainer",
-            "text": "Oh my! Fufu, your eyes are sparkling. ……That's right, I knew you were the kind of trainer that would look that way."
+            "text": "Oh my! Fufu, your eyes are sparkling. ……That's right, I knew \nyou were the kind of trainer that would look that way.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "……She's amazing isn't she? Bell-chan. Her mind and body, both are overflowing with possibilities."
+            "text": "……She's amazing isn't she? Bell-chan. \nHer mind and body, both are overflowing with possibilities.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "That girl's wonderful future, I want to keep watching over her but――"
+            "text": "That girl's wonderful future, I want \nto keep watching over her but――",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Um, Trainer! I'm not tired yet so, before cooldown, can I run a bit more with senpai outside the school?"
+            "text": "Um, Trainer! I'm not tired yet so, before cooldown, \ncan I run a bit more with senpai outside the school?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Well well, Bell-chan, lately you've been really fired up! Let's see, if it's just one lap that should be fine. Go at a light pace, okay?"
+            "text": "Well well, Bell-chan, lately you've been really \nfired up! Let's see, if it's just one lap that \nshould be fine. Go at a light pace, okay?",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Okay, thank you very much. I'll be off!"
+            "text": "Okay, thank you very much. I'll be off!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Chief Trainer",
             "text": "……alright, shall we get to the clean up work then?",
+            "name": "Chief Trainer",
             "choice_data_list": [
                 "Yes"
             ]
         },
         {
-            "text": "That day, I couldn't stop thinking about Mejiro Dober's amazing running while I was helping Chief Trainer……"
+            "text": "That day, I couldn't stop thinking about Mejiro Dober's \namazing running while I was helping Chief Trainer……"
         },
         {
-            "name": "Air Groove",
-            "text": "Hm…… wait, Dober."
+            "text": "Hm…… wait, Dober.",
+            "name": "Air Groove"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Huh……? Oh――"
+            "text": "Huh……? \nOh――",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Reporters",
-            "text": "Ryan-san! Ryan-san! Mejiro Ryan-san, please look this way!"
+            "text": "Ryan-san! Ryan-san! \nMejiro Ryan-san, please look this way!",
+            "name": "Reporters"
         },
         {
-            "name": "Otonashi Etsuko",
-            "text": "The other day, you had a particularly splendid performance, Mejiro Ryan-san! A large number of fans have high expectations for next time, what are your thoughts?"
+            "text": "The other day, you had a particularly splendid performance, \nMejiro Ryan-san! A large number of fans have high expectations \nfor next time, what are your thoughts?",
+            "name": "Otonashi Etsuko"
         },
         {
-            "name": "Mejiro Ryan",
-            "text": "Um……! I'm really happy they're rooting for me! In order to meet their expectations, I'll be training vigorously again!"
+            "text": "Um……! I'm really happy they're rooting for me! In order to \nmeet their expectations, I'll be training vigorously again!",
+            "name": "Mejiro Ryan"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "…………"
+            "text": "…………",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Air Groove",
-            "text": "――Let's circle around back. Come on, Dober."
+            "text": "――Let's circle around back. Come on, Dober.",
+            "name": "Air Groove"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Okay…… senpai."
+            "text": "Okay…… senpai.",
+            "name": "Mejiro Dober"
         }
     ]
 }

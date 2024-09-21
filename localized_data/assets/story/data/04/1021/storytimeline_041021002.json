@@ -1,220 +1,220 @@
 {
     "text_block_list": [
         {
-            "text": "It's been a few days since Tamamo Cross' Selection Race, but I can't help thinking back about that last exchange we had…"
+            "text": "It's been a few days since Tamamo Cross' Selection Race, but I \ncan't help thinking back about that last exchange we had…"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…Yer, a rookie trainer ain't ya? Ya got no experience or even results to yer name, how 'bout resolve?"
+            "text": "…Yer, a rookie trainer ain't ya? Ya got no experience or even \nresults to yer name, how 'bout resolve?",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Believin' in my victory, trainin' me, and winnin' G1s! The resolve ta be th' best in Japan! Do ya really have tha' kinda resolve?!"
+            "text": "Believin' in my victory, trainin' me, and winnin' \nG1s! The resolve ta be th' best in Japan! Do \nya really have tha' kinda resolve?!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "…believing in her chances at victory, and having that much resolve. At that time, I couldn't comprehend that strength.",
+            "text": "…believing in her chances at victory, and having that much \nresolve. At that time, I couldn't comprehend that strength.",
             "choice_data_list": [
-                "(I want to speak with her properly next time…!)"
+                "<size=35>(I want to speak with her properly next time…!)</size>"
             ]
         },
         {
-            "text": "I made up my mind and started searching for Tamamo Cross. I looked all around the academy until I finally made it to the Training Course-"
+            "text": "I made up my mind and started searching for Tamamo \nCross. I looked all around the academy until I \nfinally made it to the Training Course-"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Haa… haa… haa…!"
+            "text": "Haa… haa… haa…!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "I found Tamamo Cross alone, running deperately, as if she was possessed."
+            "text": "I found Tamamo Cross alone, running deperately, \nas if she was possessed."
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Haa… ku, Aaaaaaaaaaah!!"
+            "text": "Haa… ku, Aaaaaaaaaaah!!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
             "text": "Haaa… haa… haa… Damnit… This ain't like me…!",
+            "name": "Tamamo Cross",
             "choice_data_list": [
                 "Tamamo Cross!"
             ]
         },
         {
-            "name": "Tamamo Cross",
             "text": "Ah, yer-",
+            "name": "Tamamo Cross",
             "choice_data_list": [
                 "About before, I wanted to talk-"
             ]
         },
         {
-            "name": "Tamamo Cross",
             "text": "-I'm sorry about before!",
+            "name": "Tamamo Cross",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
+            "text": "Ya went out of yer way and chased after me, tried ta talk to me, \nand I jus' flipped out on ya. Fer that… I'm sorry!",
             "name": "Tamamo Cross",
-            "text": "Ya went out of yer way and chased after me, tried ta talk to me, and I jus' flipped out on ya. Fer that… I'm sorry!",
             "choice_data_list": [
                 "…you were just that angry, right?",
                 "…you were just that angry, right?"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…I just couldn't take no more. \"As it is, you can't win\", is probably what they think of me… cuz of my half-assed run."
+            "text": "…I just couldn't take no more. \"As it is, you can't win\", is \nprobably what they think of me… cuz of my half-assed run.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "-cuz of my height, most people one-sidedly underestimate me."
+            "text": "-cuz of my height, most people one-sidedly underestimate me.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "[That physique is a disadvantage] [Best in Japan is reckless] [Set a more realistic goal], things like that."
+            "text": "[That physique is a disadvantage] [Best in Japan is reckless] \n[Set a more realistic goal], things like that.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Tha's why, I wanted ta prove it at th' Selection Race. That I'mma… Uma Musume that can \"Win like hell\"."
+            "text": "Tha's why, I wanted ta prove it at th' Selection Race. \nThat I'mma… Uma Musume that can \"Win like hell\".",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "But… as ya saw earlier. With some lame runnin' I lost, again… I was restricted."
+            "text": "But… as ya saw earlier. With some lame runnin' \nI lost, again… I was restricted.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Th' reason I came a knockin' on th' gates of this academy, was cuz I had a dream that I had ta fulfill in th' Twinkle Series."
+            "text": "Th' reason I came a knockin' on th' gates of this academy, was \ncuz I had a dream that I had ta fulfill in th' Twinkle Series.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "To do that, just runnin' ain't enough. Winnin', and winnin' like hell! Witha roar o' wind and light, loud enough ta overturn th' heavens."
+            "text": "To do that, just runnin' ain't enough. Winnin', \nand winnin' like hell! Witha roar o' wind and light, \nloud enough ta overturn th' heavens.",
+            "name": "Tamamo Cross"
         },
         {
+            "text": "…Sorry. I wanna practice a bit more. \nNext time, I'll win th' Selection Race fer sure. That's why-",
             "name": "Tamamo Cross",
-            "text": "…Sorry. I wanna practice a bit more. Next time, I'll win th' Selection Race fer sure. That's why-",
             "choice_data_list": [
-                "If it's you, you'll win the Selection Race.",
-                "If it's you, you'll win the Selection Race."
+                "<size=41>If it's you, you'll win the Selection Race.</size>",
+                "<size=41>If it's you, you'll win the Selection Race.</size>"
             ]
         },
         {
+            "text": "…th' heck are ya sayin'? \nI don't need yer pity, if that's what yer doin'.",
             "name": "Tamamo Cross",
-            "text": "…th' heck are ya sayin'? I don't need yer pity, if that's what yer doin'.",
             "choice_data_list": [
                 "It's not pity"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Y-ya saw my last race didn't ya?! With tha' lame run… I just got marked as an also-ran!"
+            "text": "Y-ya saw my last race didn't ya?! \nWith tha' lame run… I just got marked as an also-ran!",
+            "name": "Tamamo Cross"
         },
         {
+            "text": "I talked a big game, but in th' end, it was jus' talk… \nEven now, I've got… no inkling of what I ought to be doin'…",
             "name": "Tamamo Cross",
-            "text": "I talked a big game, but in th' end, it was jus' talk… Even now, I've got… no inkling of what I ought to be doin'…",
             "choice_data_list": [
                 "Your desire to win, is second to none",
                 "Your desire to win, is second to none"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…!"
+            "text": "…!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "She was more frustrated than anyone, but also had the strongest desire to win. That quality was much more necessary than being blessed with a good physique."
+            "text": "She was more frustrated than anyone, but also had the strongest \ndesire to win. That quality was much more necessary than being \nblessed with a good physique."
         },
         {
             "text": "-Especially if your goal is to win and become Japan's best."
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…what? Jus' by seein' me run once, and chattin' with me a bit, how can ya be so sure…?"
+            "text": "…what? Jus' by seein' me run once, and chattin' \nwith me a bit, how can ya be so sure…?",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Yer… a weird guy."
+            "text": "Yer… a weird guy.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…Hey, let's move somewhere else. It's startin' ta get cold, and we stand out like a sore thumb just chattin' away here. Sound good?"
+            "text": "…Hey, let's move somewhere else. It's startin' \nta get cold, and we stand out like a sore thumb \njust chattin' away here. Sound good?",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "It felt like Tamamo Cross' mood had lightened a bit. I nodded, and we changed locations."
+            "text": "It felt like Tamamo Cross' mood had lightened a bit. \nI nodded, and we changed locations."
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Just now, ya said that someone like me could win, right?"
+            "text": "Just now, ya said that someone like me could win, right?",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
             "text": "If yer willin' to say that much… then prove that I can win.",
+            "name": "Tamamo Cross",
             "choice_data_list": [
                 "By that you mean-"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Honestly, on my own, I feel like I'm at my wit's end. But I wanna win! No matter what…!"
+            "text": "Honestly, on my own, I feel like I'm at my wit's end. \nBut I wanna win! No matter what…!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Tha's why, right now… I'll take my chances with ya."
+            "text": "Tha's why, right now… I'll take my chances with ya.",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "I'll see if ya can live up ta yer words, to yer resolve. In exchange, I'll show ya that I'm an Uma Musume tha' can really win."
+            "text": "I'll see if ya can live up ta yer words, to \nyer resolve. In exchange, I'll show ya that \nI'm an Uma Musume tha' can really win.",
+            "name": "Tamamo Cross"
         },
         {
+            "text": "It'll be one of those \"provisional contracts\", I'll be troublin' \nya until the next Selection Race… I'll show ya-",
             "name": "Tamamo Cross",
-            "text": "It'll be one of those \"provisional contracts\", I'll be troublin' ya until the next Selection Race… I'll show ya-",
             "choice_data_list": [
                 "I look forward to working with you!"
             ]
         },
         {
+            "text": "-what I can- wait! So fast! Ya didn't let me finish! Have ya \nnever heard about this thing called th' tempo of a conversation?!",
             "name": "Tamamo Cross",
-            "text": "-what I can- wait! So fast! Ya didn't let me finish! Have ya never heard about this thing called th' tempo of a conversation?!",
             "choice_data_list": [
                 "I was just overjoyed, so…"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Frank, ain't ya?! It's embarassin'!"
+            "text": "Frank, ain't ya?! It's embarassin'!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "But, well… thanks! It kinda happened fast, but, I'll be relyin' on ya startin' tomorrow!"
+            "text": "But, well… thanks! It kinda happened fast, but, \nI'll be relyin' on ya startin' tomorrow!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "And so, following Tamamo Cross' suggestion, we formed a \"provisional contract\" for her Selection Race revenge match."
+            "text": "And so, following Tamamo Cross' suggestion, we formed a \n\"provisional contract\" for her Selection Race revenge match."
         },
         {
             "text": "The next day, Tamamo Cross' first training day-"
         },
         {
+            "text": "-Well then, what's up first? \nShow me what ya got for me.",
             "name": "Tamamo Cross",
-            "text": "-Well then, what's up first? Show me what ya got for me.",
             "choice_data_list": [
                 "Here's the upcoming menu"
             ]
         },
         {
-            "text": "I desperately spent last night making a training menu tailored for her in preparation for her Selection Race, which I showed her."
+            "text": "I desperately spent last night making a training \nmenu tailored for her in preparation for her \nSelection Race, which I showed her."
         },
         {
+            "text": "This…… is a lot of stuff. And it's so detailed…… You didn't make \nall of this yesterday, did you?",
             "name": "Tamamo Cross",
-            "text": "This…… is a lot of stuff. And it's so detailed…… You didn't make all of this yesterday, did you?",
             "choice_data_list": [
-                "I was happy to sign a tentative contract."
+                "<size=41>I was happy to sign a tentative contract.</size>"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Frank, ain't ya?! Yer so direct, it's makin' me worry!!"
+            "text": "Frank, ain't ya?! Yer so direct, it's makin' me worry!!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "But, it's gettin' me fired up. I can tell yer serious too. -Alright, let's get going! No slackin'! "
+            "text": "But, it's gettin' me fired up. I can tell yer serious too. \n-Alright, let's get going! No slackin'! ",
+            "name": "Tamamo Cross"
         }
     ]
 }

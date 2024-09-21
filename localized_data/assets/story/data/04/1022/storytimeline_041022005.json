@@ -1,165 +1,165 @@
 {
     "text_block_list": [
         {
-            "text": "It's been several weeks since I've become Fine Motion's trainer. She's training hard with her friends and having fun today too."
+            "text": "It's been several weeks since I've become Fine Motion's trainer. \nShe's training hard with her friends and having fun today too."
         },
         {
-            "name": "Fine's Friend",
-            "text": "-See ya later, Fine! Good work today with training!"
+            "text": "-See ya later, Fine! \nGood work today with training!",
+            "name": "Fine's Friend"
         },
         {
-            "name": "Fine Motion",
             "text": "Good work! Let's work hard tomorrow, too!",
+            "name": "Fine Motion",
             "choice_data_list": [
-                "You worked hard today too, didn't you?",
-                "You worked hard today too, didn't you?"
+                "<size=42>You worked hard today too, didn't you?</size>",
+                "<size=42>You worked hard today too, didn't you?</size>"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufu. It's been so fun I barely noticed that I was getting tired. Somehow, everyday has felt like a dream come true."
+            "text": "Fufu. It's been so fun I barely noticed that I was getting tired. \nSomehow, everyday has felt like a dream come true.",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
-            "text": "…well then. It's unfortunate, but shall we call it a day? We should head back to the trainers' office and have a meeting!"
+            "text": "…well then. It's unfortunate, but shall we call it a day? \nWe should head back to the trainers' office and have a meeting!",
+            "name": "Fine Motion"
         },
         {
-            "text": "But… this day that I thought would end just like normal. At the very end, a little incident was waiting for us."
+            "text": "But… this day that I thought would end just like normal. \nAt the very end, a little incident was waiting for us."
         },
         {
-            "name": "Fine Motion",
-            "text": "-Huh? What's this?!"
+            "text": "-Huh? What's this?!",
+            "name": "Fine Motion"
         },
         {
-            "text": "When we returned to the trainers' office we discovered, the shelf in the corner had collapsed and everything on it had been scattered all over the place.",
+            "text": "When we returned to the trainers' office we discovered, the shelf \nin the corner had collapsed and everything on it had been \nscattered all over the place.",
             "choice_data_list": [
                 "What happened…?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "… Hm, hm. A locked room with nobody in it. But in spite of that, there's a collapsed shelf and messy floor-"
+            "text": "… Hm, hm. A locked room with nobody in it. \nBut in spite of that, there's a collapsed shelf and messy floor-",
+            "name": "Fine Motion"
         },
         {
+            "text": "Aaah! -Awesome! \nTrainer, is this by any chance, a \"mystery\"?!",
             "name": "Fine Motion",
-            "text": "Aaah! -Awesome! Trainer, is this by any chance, a \"mystery\"?!",
             "choice_data_list": [
                 "I suppose… it could be?",
                 "I suppose… it could be?"
             ]
         },
         {
+            "text": "Fufufu, in that case, this incident… \nLooks like a job for Great Detective Fine!",
             "name": "Fine Motion",
-            "text": "Fufufu, in that case, this incident… Looks like a job for Great Detective Fine!",
             "choice_data_list": [
-                "When did you become a Great Detective…?"
+                "<size=38>When did you become a Great Detective…?</size>"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Ahem, ahem. Well then, first let's do an on-site inspection. After all, \"observation\" was important for outstanding detectives of the past."
+            "text": "Ahem, ahem. Well then, first let's do an on-site inspection. \nAfter all, \"observation\" was important for outstanding \ndetectives of the past.",
+            "name": "Fine Motion"
         },
         {
+            "text": "Oh! Look here, Assistant-kun! Right here there are some \nfootprints! Perhaps these are the culprit's!?",
             "name": "Fine Motion",
-            "text": "Oh! Look here, Assistant-kun! Right here there are some footprints! Perhaps these are the culprit's!?",
             "choice_data_list": [
                 "…Aren't these really small?",
                 "…Aren't these really small?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufufu, my noodle-colored brain cells have made it clear! Definitely, if we follow these, we'll find our answer-"
+            "text": "Fufufu, my noodle-colored brain cells have made it clear! \nDefinitely, if we follow these, we'll find our answer-",
+            "name": "Fine Motion"
         },
         {
-            "name": "Cat",
-            "text": "…nya?"
+            "text": "…nya?",
+            "name": "Cat"
         },
         {
-            "name": "Fine Motion",
-            "text": "…nya?"
+            "text": "…nya?",
+            "name": "Fine Motion"
         },
         {
-            "text": "When we followed the footprints… There, under a desk, staring at us with vigilant eyes was a single cat."
+            "text": "When we followed the footprints… There, under a desk, staring \nat us with vigilant eyes was a single cat."
         },
         {
-            "name": "Fine Motion",
-            "text": "I see… with this, all the questions have been answered!"
+            "text": "I see… with this, all the questions have been answered!",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
             "text": "The culprit is… you!",
+            "name": "Fine Motion",
             "choice_data_list": [
                 "That seems to be the case…",
                 "That seems to be the case…"
             ]
         },
         {
-            "name": "Cat",
-            "text": "HISS!"
+            "text": "HISS!",
+            "name": "Cat"
         },
         {
-            "name": "Fine Motion",
-            "text": "It's okay, no need to be scared. Come here."
+            "text": "It's okay, no need to be scared. Come here.",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
             "text": "Oh? You've got a collar on, don't you?",
+            "name": "Fine Motion",
             "choice_data_list": [
                 "So it belongs to someone?",
                 "So it belongs to someone?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Looks that way. Maybe it got lost and found its way in here?"
+            "text": "Looks that way. \nMaybe it got lost and found its way in here?",
+            "name": "Fine Motion"
         },
         {
-            "name": "Cat",
-            "text": "Nyau…"
+            "text": "Nyau…",
+            "name": "Cat"
         },
         {
+            "text": "Good kitty. It's okay. \nLet's get you home, okay?",
             "name": "Fine Motion",
-            "text": "Good kitty. It's okay. Let's get you home, okay?",
             "choice_data_list": [
-                "I guess we're looking for its owner now",
-                "I guess we're looking for its owner now"
+                "<size=42>I guess we're looking for its owner now</size>",
+                "<size=42>I guess we're looking for its owner now</size>"
             ]
         },
         {
+            "text": "Yep! With that, this case will be closed! \nLet's go and gather information!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "And so, first we asked the nearby students. \nFurther, we even used Fine Motion's Ramen Info Network to search-"
+        },
+        {
+            "text": "I can't thank you enough! \nI thought I wouldn't ever be able to see her again…!",
+            "name": "Owner"
+        },
+        {
+            "text": "I'm glad I could be of help. \nWell then, good day to the both of you.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Well then! Case Closed! \nAssistant-kun, previously Trainer, good work!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "-Fufuu, that was fun. \nThat was a wonderful surprise, wasn't it?",
             "name": "Fine Motion",
-            "text": "Yep! With that, this case will be closed! Let's go and gather information!"
-        },
-        {
-            "text": "And so, first we asked the nearby students. Further, we even used Fine Motion's Ramen Info Network to search-"
-        },
-        {
-            "name": "Owner",
-            "text": "I can't thank you enough! I thought I wouldn't ever be able to see her again…!"
-        },
-        {
-            "name": "Fine Motion",
-            "text": "I'm glad I could be of help. Well then, good day to the both of you."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Well then! Case Closed! Assistant-kun, previously Trainer, good work!"
-        },
-        {
-            "name": "Fine Motion",
-            "text": "-Fufuu, that was fun. That was a wonderful surprise, wasn't it?",
             "choice_data_list": [
                 "This is Fine",
                 "This is Fine"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Right? Yep, yep, amid a normal day suddenly something happens …a special incident, huh?"
+            "text": "Right? Yep, yep, amid a normal day suddenly something happens \n…a special incident, huh?",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
-            "text": "-Fufuu, we may have come across something wonderful."
+            "text": "-Fufuu, we may have come across something wonderful.",
+            "name": "Fine Motion"
         }
     ]
 }

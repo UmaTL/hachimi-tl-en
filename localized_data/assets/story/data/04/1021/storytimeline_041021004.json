@@ -1,107 +1,107 @@
 {
     "text_block_list": [
         {
-            "text": "After training on a day with the Selection Race looming. I called out to Tamamo Cross since I wanted to talk to her about something…"
+            "text": "After training on a day with the Selection Race \nlooming. I called out to Tamamo Cross since I \nwanted to talk to her about something…"
         },
         {
+            "text": "I'm done with my cooldown now. \nAnd… what did ya wanna talk about?",
             "name": "Tamamo Cross",
-            "text": "I'm done with my cooldown now. And… what did ya wanna talk about?",
             "choice_data_list": [
-                "My last bit of advice for the Selection Race",
-                "My last bit of advice for the Selection Race"
+                "<size=38>My last bit of advice for the Selection Race</size>",
+                "<size=38>My last bit of advice for the Selection Race</size>"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Last bit of… advice? Whadaya mean by that? Don't tell me, ya started ta think I can't win-"
+            "text": "Last bit of… advice? Whadaya mean by that? \nDon't tell me, ya started ta think I can't win-",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "I shook my head, denying her words. It's the exact opposite. If it's Tamamo Cross, I believe she can win, so in that way, it's the last.",
+            "text": "I shook my head, denying her words. It's the exact \nopposite. If it's Tamamo Cross, I believe she \ncan win, so in that way, it's the last.",
             "choice_data_list": [
-                "On the day of the race, make sure to have fun"
+                "<size=36>On the day of the race, make sure to have fun</size>"
             ]
         },
         {
+            "text": "W-… what the heck are ya sayin'?! It's a serious competition! \nThere's no way I've got th' leeway ta just have fun!!",
             "name": "Tamamo Cross",
-            "text": "W-… what the heck are ya sayin'?! It's a serious competition! There's no way I've got th' leeway ta just have fun!!",
             "choice_data_list": [
                 "That's not true!"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Wha-"
+            "text": "Wha-",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "The reason that Tamamo Cross can't exert her full power, I explained to her my thoughts on why that might be…"
+            "text": "The reason that Tamamo Cross can't exert her full power, \nI explained to her my thoughts on why that might be…"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Haaa… haaa… haaa…!! Gonna win…! For sure, gotta win…!"
+            "text": "Haaa… haaa… haaa…!! \nGonna win…! For sure, gotta win…!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! It ain't good if I can't win! But even then-"
+            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "Tamamo Cross' feelings, of wanting to win for the sake of her family are strong… maybe too strong."
+            "text": "Tamamo Cross' feelings, of wanting to win for the sake of her \nfamily are strong… maybe too strong."
         },
         {
-            "text": "That's the main reason her motivation is so strong. Maybe that desire to grow stronger has narrowed her field of view."
+            "text": "That's the main reason her motivation is so strong. Maybe that \ndesire to grow stronger has narrowed her field of view."
         },
         {
-            "text": "But those feelings are an irreplaceable, precious thing. Therefore, I told her this. Embrace those feelings and-",
+            "text": "But those feelings are an irreplaceable, precious thing. \nTherefore, I told her this. Embrace those feelings and-",
             "choice_data_list": [
                 "Become \"White Lightning\"!",
                 "Become \"White Lightning\"!"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…!"
+            "text": "…!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "The feelings towards her family, and the joy of running. With both of those, Tamamo Cross will definitely win. That's the answer I came to."
+            "text": "The feelings towards her family, and the joy of \nrunning. With both of those, Tamamo Cross will \ndefinitely win. That's the answer I came to."
         },
         {
+            "text": "…I did say that. Faster an' havin' more fun \nthan anyone, White Lightning… but… havin' \nfun while runnin'… can I really win…?",
             "name": "Tamamo Cross",
-            "text": "…I did say that. Faster an' havin' more fun than anyone, White Lightning… but… havin' fun while runnin'… can I really win…?",
             "choice_data_list": [
                 "Who decided you couldn't win?",
                 "Who decided you couldn't win?"
             ]
         },
         {
+            "text": "—",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "…Hahaa. I've been a real blockhead, haven't I? \nI jus' now, fiiinally realized it after ya said that…",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "The one holdin' me back… was me, this whole \ntime. Thinkin' this wasn't a place ta be havin' \nfun, thinkin' only 'bout winnin'…",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "But that ain't me. \nTh' real \"White Lightning\"-",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "Uoooooooooooooo!! \nMy runnin'! Howzzat?!",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "Neene, you're so cool~!",
+            "name": "Tamamo's Younger Siblings"
+        },
+        {
+            "text": "Tama, yer really making it look like yer havin' fun! \n-Yo, \"White Lightning\"! Japan's best!",
+            "name": "Tamamo's Younger Siblings"
+        },
+        {
+            "text": "…That last bit 'a advice, I got it. Ya better be lookin' \nforward ta th' Selection Race. Me too… I'll be havin' a blast!",
             "name": "Tamamo Cross",
-            "text": "—"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "…Hahaa. I've been a real blockhead, haven't I? I jus' now, fiiinally realized it after ya said that…"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "The one holdin' me back… was me, this whole time. Thinkin' this wasn't a place ta be havin' fun, thinkin' only 'bout winnin'…"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "But that ain't me. Th' real \"White Lightning\"-"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Uoooooooooooooo!! My runnin'! Howzzat?!"
-        },
-        {
-            "name": "Tamamo's Younger Siblings",
-            "text": "Neene, you're so cool~!"
-        },
-        {
-            "name": "Tamamo's Younger Siblings",
-            "text": "Tama, yer really making it look like yer havin' fun! -Yo, \"White Lightning\"! Japan's best!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "…That last bit 'a advice, I got it. Ya better be lookin' forward ta th' Selection Race. Me too… I'll be havin' a blast!",
             "choice_data_list": [
                 "Yeah!",
                 "Yeah!"
@@ -111,101 +111,101 @@
             "text": "And so, the day of the Selection Race arrived-"
         },
         {
-            "name": "Commentator",
-            "text": "-We're approaching the final corner and there hasn't been a change to the situation! Will the girls in the back make it in time?!"
+            "text": "-We're approaching the final corner and there \nhasn't been a change to the situation! Will \nthe girls in the back make it in time?!",
+            "name": "Commentator"
         },
         {
+            "text": "(-Th' sound 'a th' wind. Th' feel 'a th' ground. Th' beatin' 'a \nmy heart. It's a familiar feelin', an' it's been a while)",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "(I spent all that time thinkin' 'bout nothin' but winnin'- \nI'd forgotten how good it feels ta just run…!)",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "(This feelin' jus' won't stop! I still got plenty ta spare…! \nJus' watch me…! From here on, I'll show ya what I can do!)",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "-Uooooooooooo!!!!",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "Tamamo Cross is catching up! Coming up from behind it's Tamamo \nCross! In one big surge Tamamo Cross pulls ahead!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Tamamo Cross is out in front! Tamamo Cross! After putting on such \ntremendous pressure, she magnificently grasps victory!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Hell ya!! This is th' real me!! \nThe \"White Lightning\", Tamamo Cross!!",
+            "name": "Tamamo Cross"
+        },
+        {
+            "text": "…looks like she had much more to spare this time around. \nI seem to have misjudged her potential.",
+            "name": "Average Trainer A"
+        },
+        {
+            "text": "That powerful drive at the end… I thought she \nwouldn't have enough power in that small body, \nbut she's not to be taken lightly…",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "-I did it, I did it I diiiiiid it! \nDid ya see tha' run?!",
             "name": "Tamamo Cross",
-            "text": "(-Th' sound 'a th' wind. Th' feel 'a th' ground. Th' beatin' 'a my heart. It's a familiar feelin', an' it's been a while)"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "(I spent all that time thinkin' 'bout nothin' but winnin'- I'd forgotten how good it feels ta just run…!)"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "(This feelin' jus' won't stop! I still got plenty ta spare…! Jus' watch me…! From here on, I'll show ya what I can do!)"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "-Uooooooooooo!!!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Tamamo Cross is catching up! Coming up from behind it's Tamamo Cross! In one big surge Tamamo Cross pulls ahead!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Tamamo Cross is out in front! Tamamo Cross! After putting on such tremendous pressure, she magnificently grasps victory!!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Hell ya!! This is th' real me!! The \"White Lightning\", Tamamo Cross!!"
-        },
-        {
-            "name": "Average Trainer A",
-            "text": "…looks like she had much more to spare this time around. I seem to have misjudged her potential."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "That powerful drive at the end… I thought she wouldn't have enough power in that small body, but she's not to be taken lightly…"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "-I did it, I did it I diiiiiid it! Did ya see tha' run?!",
             "choice_data_list": [
                 "Yo, \"White Lightning\"!"
             ]
         },
         {
+            "text": "Got tha' right! 'sall thanks ta you! \nReally… really, thank ya! ",
             "name": "Tamamo Cross",
-            "text": "Got tha' right! 'sall thanks ta you! Really… really, thank ya! ",
             "choice_data_list": [
                 "It's because you worked so hard",
                 "It's because you worked so hard"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Hehe-"
+            "text": "Hehe-",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…well, ya see. Now tha' th' Selection Race is over, our provisional contract is done, so I guess tha' makes me a free agent…"
+            "text": "…well, ya see. Now tha' th' Selection Race \nis over, our provisional contract is done, so \nI guess tha' makes me a free agent…",
+            "name": "Tamamo Cross"
         },
         {
+            "text": "…so. If someone \nreally wanted ta scout me, I'd-",
             "name": "Tamamo Cross",
-            "text": "…so. If someone really wanted ta scout me, I'd-",
             "choice_data_list": [
                 "Once again, please let me scout you!",
                 "Once again, please let me scout you!"
             ]
         },
         {
+            "text": "-probably -Hey, C'mon!! I was still talkin' here! \nShouldn't ya wait yer turn?! Why th' heck are ya so eager?!",
             "name": "Tamamo Cross",
-            "text": "-probably -Hey, C'mon!! I was still talkin' here! Shouldn't ya wait yer turn?! Why th' heck are ya so eager?!",
             "choice_data_list": [
                 "I just really wanted a real contract!"
             ]
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Frank, ain't ya!!!!?"
+            "text": "Frank, ain't ya!!!!?",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "…pu. Fufuu, hahahahaa! DAAAAA HAA HAA HAA!!"
+            "text": "…pu. Fufuu, hahahahaa! \nDAAAAA HAA HAA HAA!!",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "What th' heck, this is so dumb! I look like an idiot gettin' so nervous like tha'! Geez-"
+            "text": "What th' heck, this is so dumb! \nI look like an idiot gettin' so nervous like tha'! Geez-",
+            "name": "Tamamo Cross"
         },
         {
-            "name": "Tamamo Cross",
-            "text": "Once more… I'll be relyin' on ya again from now on. —Trainer!"
+            "text": "Once more… I'll be relyin' on ya again from now on. \n—Trainer!",
+            "name": "Tamamo Cross"
         },
         {
-            "text": "I grasped the hand she held out and we shook firmly. The days spent with Tamamo Cross, start now-!"
+            "text": "I grasped the hand she held out and we shook firmly. \nThe days spent with Tamamo Cross, start now-!"
         }
     ]
 }

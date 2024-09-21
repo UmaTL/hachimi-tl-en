@@ -1,235 +1,235 @@
 {
     "text_block_list": [
         {
-            "text": "A day off. While wandering around the shopping district, I suddenly smelled something nice. A sweets shop. Seems like it's freshly baked cookies.",
+            "text": "A day off. While wandering around the shopping \ndistrict, I suddenly smelled something nice. A \nsweets shop. Seems like it's freshly baked cookies.",
             "choice_data_list": [
                 "The color is nice and it looks good!"
             ]
         },
         {
-            "name": "Sweets Store Clerk",
-            "text": "Thanks! Well~, this morning's batch turned out well! It might be twice as crisp as usual!"
+            "text": "Thanks! Well~, this morning's batch turned out well! \nIt might be twice as crisp as usual!",
+            "name": "Sweets Store Clerk"
         },
         {
-            "text": "Smiles just came naturally when you came across something good. That's all it took for the world to seem brighter."
+            "text": "Smiles just came naturally when you came across something good. \nThat's all it took for the world to seem brighter."
         },
         {
-            "text": "It was refreshing, a comfortable feeling. If she was here, I'm sure she'd say――"
+            "text": "It was refreshing, a comfortable feeling. \nIf she was here, I'm sure she'd say――"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Mmmm~, Marvelous☆ It smells good!"
+            "text": "Mmmm~, Marvelous☆ It smells good!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Ohー, huh, it's Trainer!!"
+            "text": "Ohー, huh, it's Trainer!!",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "After eating 2 servings of cookies, we walked around the shopping district."
+            "text": "After eating 2 servings of cookies, \nwe walked around the shopping district."
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Those cookies! They were very Marvelous, weren't they?☆ I met up with Trainer so today's already been Marvelous★"
+            "text": "Those cookies! They were very Marvelous, weren't they?☆ \nI met up with Trainer so today's already been Marvelous★",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "That's right! Trainer, let's go search for Marvelous together! We'll go search the world for a new Marvelous☆★☆"
+            "text": "That's right! Trainer, let's go search for Marvelous together! \nWe'll go search the world for a new Marvelous☆★☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "Searching for Marvelous, huh. It sounds interesting. That brilliant world that she sees――I want to get a feel for that \"Marvelous\" world.",
+            "text": "Searching for Marvelous, huh. It sounds interesting. \nThat brilliant world that she sees――I want to get \na feel for that \"Marvelous\" world.",
             "choice_data_list": [
                 "I'll take you up on that offer"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Alrightーー! Rather than being alone, being together is more Marvelous☆"
+            "text": "Alrightーー! \nRather than being alone, being together is more Marvelous☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Ooh~! Look at the bonsai in that garden~☆"
+            "text": "Ooh~! Look at the bonsai in that garden~☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "There was a wonderful bonsai in the garden. While seeking Marvelous, I ended up staring at the bonsai――"
+            "text": "There was a wonderful bonsai in the garden. \nWhile seeking Marvelous, I ended up staring at the bonsai――"
         },
         {
+            "text": "What are you doing, do you have some business with me?",
+            "name": "Old Man A"
+        },
+        {
+            "text": "Yeah! I was just thinking this bonsai is Marvelous☆ \nEspecially the shape of the trunk, it's very Marvelous★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "…………",
+            "name": "Old Man A"
+        },
+        {
+            "text": "The old man's expression became serious. This could be bad. \nI was going to apologize for peeking in without permission but――"
+        },
+        {
+            "text": "Girly, you really do get it, huh……!",
+            "name": "Old Man A"
+        },
+        {
+            "text": "It's all about that trunk! It took 20 years to get like that! \nI used a wire to arrange it in to that shape.",
             "name": "Old Man A",
-            "text": "What are you doing, do you have some business with me?"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "Yeah! I was just thinking this bonsai is Marvelous☆ Especially the shape of the trunk, it's very Marvelous★"
-        },
-        {
-            "name": "Old Man A",
-            "text": "…………"
-        },
-        {
-            "text": "The old man's expression became serious. This could be bad. I was going to apologize for peeking in without permission but――"
-        },
-        {
-            "name": "Old Man A",
-            "text": "Girly, you really do get it, huh……!"
-        },
-        {
-            "name": "Old Man A",
-            "text": "It's all about that trunk! It took 20 years to get like that! I used a wire to arrange it in to that shape.",
             "choice_data_list": [
-                "20 years! That's alot of time and effort!"
+                "<size=42>20 years! That's alot of time and effort!</size>"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Yeah, yeah! That's really Marvelous☆ You've been taking really good care of it, huh!?"
+            "text": "Yeah, yeah! That's really Marvelous☆ \nYou've been taking really good care of it, huh!?",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "I'll bet that bonsai grew so beautifully in response to your feelings!"
+            "text": "I'll bet that bonsai grew so beautifully \nin response to your feelings!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "So, that makes this a miraculous Marvelous☆ Seeing something so miraculous makes us really happy and Maaarvelous★"
+            "text": "So, that makes this a miraculous Marvelous☆ Seeing something \nso miraculous makes us really happy and Maaarvelous★",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Old Man A",
-            "text": "Aaah…… it's been a while since I've felt like this…… No matter how old you get, being praised makes you feel happy."
+            "text": "Aaah…… it's been a while since I've felt like this…… \nNo matter how old you get, being praised makes you feel happy.",
+            "name": "Old Man A"
         },
         {
-            "text": "The old man spoke so happily. No matter who she talked to, they became brighter. That's Marvelous! As expected!"
+            "text": "The old man spoke so happily. No matter who she talked to, \nthey became brighter. That's Marvelous! As expected!"
         },
         {
-            "text": "We headed to the park to take a break. Marvelous Sunday spotted a girl sitting alone and immediately went over to her."
+            "text": "We headed to the park to take a break. Marvelous Sunday spotted \na girl sitting alone and immediately went over to her."
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Hey hey, are you waiting for someone? Your friends?"
+            "text": "Hey hey, are you waiting for someone? Your friends?",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Girl A",
-            "text": "No…… I……just moved here, so I haven't made any friends yet……"
+            "text": "No…… I……just moved here, \nso I haven't made any friends yet……",
+            "name": "Girl A"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "I see! In that case, from now on, I'll be your friend! Let's play! Is there something you're good at?"
+            "text": "I see! In that case, from now on, I'll be your friend! \nLet's play! Is there something you're good at?",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Girl A",
-            "text": "Eh……hide and seek……I guess. Because I'm good at finding people……"
+            "text": "Eh……hide and seek……I guess. \nBecause I'm good at finding people……",
+            "name": "Girl A"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Marvelous☆ So you're good at finding people huh?★ Then let's start playing hide and seek!"
+            "text": "Marvelous☆ So you're good at finding people huh?★ \nThen let's start playing hide and seek!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Girl A",
-            "text": "O-okay! Then, tell me when both of you are hidden!"
+            "text": "O-okay! Then, tell me when both of you are hidden!",
+            "name": "Girl A"
         },
         {
             "text": "So we hid and began playing hide and seek with the girl……"
         },
         {
-            "name": "Girl A",
-            "text": "Ah, Onee-chan, I found you! And you're underneath there, aren't you!?"
+            "text": "Ah, Onee-chan, I found you! \nAnd you're underneath there, aren't you!?",
+            "name": "Girl A"
         },
         {
-            "name": "Girl A",
-            "text": "Ah, Onee-chan, I found you! And you're underneath there, aren't you!?"
+            "text": "Ah, Onee-chan, I found you! \nAnd you're underneath there, aren't you!?",
+            "name": "Girl A"
         },
         {
+            "text": "Marvelous☆ You found us already~! \nYou're really good at hide and seek, huh!",
             "name": "Marvelous Sunday",
-            "text": "Marvelous☆ You found us already~! You're really good at hide and seek, huh!",
             "choice_data_list": [
                 "Hide and seek genius!",
                 "Hide and seek genius!"
             ]
         },
         {
-            "name": "Girl A",
-            "text": "Eh, you think so? But, maybe not that good……ehehe."
+            "text": "Eh, you think so? But, maybe not that good……ehehe.",
+            "name": "Girl A"
         },
         {
-            "name": "Girl B",
-            "text": "Hey, you're good at hide and seek!? Can I join in too?"
+            "text": "Hey, you're good at hide and seek!? \nCan I join in too?",
+            "name": "Girl B"
         },
         {
-            "name": "Boy A",
-            "text": "Me too, me too! If you're that good, I want to try too!"
+            "text": "Me too, me too! If you're that good, I want to try too!",
+            "name": "Boy A"
         },
         {
+            "text": "Yeah, yeah, Marvelous☆ \nPlaying together with everyone will definitely be more fun★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "You really are good, huh! \nBut, tomorrow I won't lose!",
+            "name": "Boy A"
+        },
+        {
+            "text": "I won't either! See you!",
+            "name": "Girl A"
+        },
+        {
+            "text": "To think you'd make so many friends in just one day! \nYou really are Maaaaaarvelous☆",
             "name": "Marvelous Sunday",
-            "text": "Yeah, yeah, Marvelous☆ Playing together with everyone will definitely be more fun★"
-        },
-        {
-            "name": "Boy A",
-            "text": "You really are good, huh! But, tomorrow I won't lose!"
-        },
-        {
-            "name": "Girl A",
-            "text": "I won't either! See you!"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "To think you'd make so many friends in just one day! You really are Maaaaaarvelous☆",
             "choice_data_list": [
                 "A genius at making friends too?"
             ]
         },
         {
-            "name": "Girl A",
-            "text": "No. It's thanks to Onee-chan and you! Um, thanks……let's play again!"
+            "text": "No. It's thanks to Onee-chan and you! \nUm, thanks……let's play again!",
+            "name": "Girl A"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Yeah! Next time, let's play with even more people! Then it'll be even more Marvelous☆"
+            "text": "Yeah! Next time, let's play with even more people! \nThen it'll be even more Marvelous☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Haaa~~~! It was all sparkly, lucky, and happy! As I thought, the world is overflowing with Marvelous☆"
+            "text": "Haaa~~~! It was all sparkly, lucky, and happy! \nAs I thought, the world is overflowing with Marvelous☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "She was the one that was Marvelous. Because she was there, her surroundings would naturally shine. Today's events reaffirmed that.",
+            "text": "She was the one that was Marvelous. Because \nshe was there, her surroundings would naturally \nshine. Today's events reaffirmed that.",
             "choice_data_list": [
                 "I think it's because of you",
                 "I think it's because of you"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Ahahaa! Thank you! I'm happy that you'd say that! But, I think you could say that about Trainer too!"
+            "text": "Ahahaa! Thank you! I'm happy that you'd say that! \nBut, I think you could say that about Trainer too!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "That old man, that little girl, and the sweets store clerk too! Each and every one of them, was Marvelous like I've never seen before!"
+            "text": "That old man, that little girl, and the sweets \nstore clerk too! Each and every one of them, \nwas Marvelous like I've never seen before!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "That old man looked really happy after what Trainer said! That girl seemed more confident in herself too!"
+            "text": "That old man looked really happy after what Trainer said! \nThat girl seemed more confident in herself too!",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "With my Marvelous together with Trainer's Marvelous☆ By combining both of them, we get an even more Marvelous★"
+            "text": "With my Marvelous together with Trainer's Marvelous☆ \nBy combining both of them, we get an even more Marvelous★",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "That's why today, was even more Marvelous! The first time I've seen such a shiny, sparkly Marvelous☆★☆"
+            "text": "That's why today, was even more Marvelous! \nThe first time I've seen such a shiny, sparkly Marvelous☆★☆",
+            "name": "Marvelous Sunday"
         },
         {
+            "text": "I could feel that the world was overflowing with Marvelous―― \nYeah, it was really Marvelous☆ Ahahaa!!",
             "name": "Marvelous Sunday",
-            "text": "I could feel that the world was overflowing with Marvelous―― Yeah, it was really Marvelous☆ Ahahaa!!",
             "choice_data_list": [
                 "I'm Marvelous?",
                 "I'm Marvelous?"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Yeah! I'm Marvelous after all, so obviously Trainer would be Marvelous too☆★☆"
+            "text": "Yeah! I'm Marvelous after all, \nso obviously Trainer would be Marvelous too☆★☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "Ah, so it's this. This is……the world that she's seeing. I felt like I now knew why she was chasing after Marvelous."
+            "text": "Ah, so it's this. This is……the world that she's seeing. \nI felt like I now knew why she was chasing after Marvelous."
         },
         {
-            "text": "It's a good feeling. For her――no, for the Marvelous of the world! I'll continue to support her!"
+            "text": "It's a good feeling. For her――no, for the Marvelous of the world! \nI'll continue to support her!"
         }
     ]
 }

@@ -1,183 +1,183 @@
 {
     "text_block_list": [
         {
-            "text": "I'd been Air Shakur's trainer for a while. Things were going well, but there was one thing bothering me—"
+            "text": "I'd been Air Shakur's trainer for a while. \nThings were going well, but there was one thing bothering me――"
         },
         {
+            "text": "What do you want...?",
             "name": "Air Shakur",
-            "text": "What do you want…?",
             "choice_data_list": [
-                "Uh… Want to get something to eat after \ntraining?",
-                "Uh… Want to get something to eat after \ntraining?"
+                "<size=33>Uh... Want to get something to eat after training?</size>",
+                "<size=29>Um... Do you want to get something to eat after training?</size>"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…What?"
+            "text": "...What?",
+            "name": "Air Shakur"
         },
         {
             "text": "That one thing was the distance between us."
         },
         {
-            "text": "Her standing was shaky enough as it was. So I wanted to do anything I could to support her throughout the Twinkle Series."
+            "text": "Her standing was shaky enough as it was. So I wanted to do \nanything I could to support her throughout the Twinkle Series."
         },
         {
-            "text": "It was absolutely essential for us to trust each other. It wouldn't happen overnight, so I had to lay the groundwork for building a good rapport."
+            "text": "It was absolutely essential for us to trust each other. \nIt wouldn't happen overnight, so I had to lay the groundwork for \nbuilding a good rapport."
         },
         {
-            "text": "So, with everything I learned about her, putting all the pieces together, I figured out some stuff that might pique her interest! Or so I thought——"
+            "text": "So, with everything I learned about her, putting all the pieces \ntogether, I figured out some stuff that might pique her interest! \nOr so I thought――"
         },
         {
-            "name": "Air Shakur",
-            "text": "Huh? An outdoor concert? Hard pass."
+            "text": "Huh? An outdoor concert?\nHard pass.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Hah? You built your own PC? You? Huh. ………So?"
+            "text": "Hah? You built your own PC? <i>You?</i> \nHuh.<i> </i>..........So?",
+            "name": "Air Shakur"
         },
         {
-            "text": "But it wasn't easy when she wanted to keep everything all professional.",
+            "text": "But it wasn't easy when she wanted to keep everything all \nprofessional.",
             "choice_data_list": [
-                "…I won't give up here!"
+                "...I won't give up here!"
             ]
         },
         {
+            "text": "Now you're on “Let's go somewhere together”?\nWhat've you been tryna pull?",
             "name": "Air Shakur",
-            "text": "Now you're on \"Let's go somewhere together\"? What've you been tryna pull?",
             "choice_data_list": [
                 "I want us to build a rapport.",
                 "I want us to build a rapport."
             ]
         },
         {
+            "text": "Don't bother. Look, I just needed you to fill the 『Trainer』 blank \nto debut, it was a arbitrary――",
             "name": "Air Shakur",
-            "text": "Don't bother. Look, I just needed you to fill the 『Trainer』 blank to debut, it was a arbitrary——",
             "choice_data_list": [
                 "You're free to pick the spot.",
                 "You're free to pick the spot."
             ]
         },
         {
-            "text": "\"We don't have to talk. I just want to be a bit more dependable to you, even if it's for something small.\". I tried my best to get that across."
+            "text": "“We don't have to talk. I just want to be a bit more dependable to \nyou, even if it's for something small.”. I tried my best to get that \nacross."
         },
         {
-            "text": "\"We don't have to talk. I just want to be a bit more dependable to you, even if it's for something small.\". I tried my best to get that across."
+            "text": "“We don't have to talk. I just want to be a bit more dependable to \nyou, even if it's for something small.”. I tried my best to get that \nacross."
         },
         {
-            "name": "Air Shakur",
-            "text": "…………Ugh."
+            "text": "................Ugh.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "All right, fine. I get it. Talking you down'd be a waste of time. …You said I could pick, yeah?"
+            "text": "All right, fine. I get it. Talking you down'd be a waste of time. \n...You said I could pick, yeah?",
+            "name": "Air Shakur"
         },
         {
-            "text": "Plans made, the next day came. It turns out she took me to——",
+            "text": "Plans made, the next day came. It turns out she took me to――",
             "choice_data_list": [
-                "The net cafe…!!"
+                "The net cafe...!!"
             ]
         },
         {
-            "text": "To top it off, she'd reserved separate, single-person booths. We weren't even next to each other. But, I did in fact say she was free to pick the spot, so I had no recourse."
+            "text": "To top it off, she'd reserved separate, single-person booths. \nWe weren't even next to each other. But, I did in fact say she was \nfree to pick the spot, so I had no recourse."
         },
         {
-            "text": "Well, given that I didn't know when she'd agree to go out again, this was the best shot I had. With that in mind——"
+            "text": "Well, given that I didn't know when she'd agree to go out again, \nthis was the best shot I had. With that in mind――"
         },
         {
+            "text": "What. \nSay something stupid and I'll kick your ass out.",
             "name": "Air Shakur",
-            "text": "What. Say something stupid and I'll kick your ass out.",
             "choice_data_list": [
                 "You hungry at all?",
                 "Are you hungry?"
             ]
         },
         {
+            "text": "...\nNo, I'm not. That was stupider than I thought.",
             "name": "Air Shakur",
-            "text": "… No, I'm not. That was stupider than I thought.",
             "choice_data_list": [
-                "But, we're coming up on lunch time, so…"
+                "<size=40>But, we're coming up on lunch time, so...</size>"
             ]
         },
         {
+            "text": ".......",
             "name": "Air Shakur",
-            "text": "…………",
             "choice_data_list": [
-                "W-well, at least get something to drink…"
+                "<size=40>W-well, at least get something to drink...</size>"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "<i>SHUT UUUUP!</i>"
+            "text": "<i>SHUT UUUUP!</i>",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Look, if you want to \"build a rapport\" or whatever…! <i>Stay the hell! Out of my way!</i>"
+            "text": "Look, if you want to \"build a rapport\" or whatever...! \n<i>Stay the hell! Out of my way!</i>",
+            "name": "Air Shakur"
         },
         {
-            "name": "Net Cafe Staff A",
-            "text": "Excuse me, dear customer, do you have a moment?"
+            "text": "Excuse me, dear customer, do you have a moment?",
+            "name": "Net Cafe Staff A"
         },
         {
-            "name": "Air Shakur",
-            "text": "HUH!? ……Oh."
+            "text": "HUH!? .....Oh.",
+            "name": "Air Shakur"
         },
         {
+            "text": "...\nTch, now it's tough to go back.",
             "name": "Air Shakur",
-            "text": "… Tch, now it's tough to go back.",
             "choice_data_list": [
-                "Sorry…"
+                "Sorry..."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Look, plenty of trainers keep it professional with their Umamusume. And more than a few of them are swimming in major trophies."
+            "text": "...Look, plenty of trainers keep it professional with their \nUmamusume. And more than a few of them are swimming in \nmajor trophies.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "There's no way you <i>don't</i> know that. So there can only be one reason you're doing all this annoying crap."
+            "text": "There's no way you <i>don't</i> know that. \nSo there can only be one reason you're doing all this annoying \ncrap.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "You've deluded yourself into thinking getting all friendly would be for<i> my</i> benefit. That I'm such a pitiful, antisocial loner, you just <i>have</i> to help me."
+            "text": "You've deluded yourself into thinking getting all friendly would \nbe for <i>my</i> benefit. That I'm such a pitiful, antisocial loner, you \njust <i>have</i> to help me.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "…something along those lines, I'd bet. You ain't the first."
+            "text": "...something along those lines, I'd bet. \nYou ain't the first.",
+            "name": "Air Shakur"
         },
         {
+            "text": "The only partner I need is my PC. If you get that, don't try to \ndrag me out with you again.",
             "name": "Air Shakur",
-            "text": "The only partner I need is my PC. If you get that, don't try to drag me out with you again.",
             "choice_data_list": [
-                "…I can't make any promises."
+                "...I can't make any promises."
             ]
         },
         {
-            "text": "It was true that Shakur could make it as a loner. In all likelihood, she had the mental toughness and analytical ability to get by herself just fine.",
+            "text": "It was true that Shakur could make it as a loner. \nIn all likelihood, she had the mental toughness and analytical \nability to get by herself just fine.",
             "choice_data_list": [
-                "(But flipping that on its head——)"
+                "(But flipping that on its head――)"
             ]
         },
         {
-            "text": "If something <i>unlikely</i> happened—— if she met an obstacle she could not overcome alone— If she found herself in a position where she needed help, there would be nothing she could do.",
+            "text": "If something <i>unlikely</i> happened―― if she met an obstacle she \ncould not overcome alone― If she found herself in a position \nwhere she needed help, there would be nothing she could do.",
             "choice_data_list": [
                 "I won't give up just like that."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…The hell?"
+            "text": "...The hell?",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Illogical as ever. It'd be easier for you to give up, with all the effort you waste yapping."
+            "text": "Illogical as ever. \nIt'd be easier for you to give up, with all the effort you waste \nyapping.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "………"
+            "text": ".........",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "…You do you."
+            "text": "...You do you.",
+            "name": "Air Shakur"
         }
     ]
 }

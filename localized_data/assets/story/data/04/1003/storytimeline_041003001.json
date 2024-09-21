@@ -1,213 +1,216 @@
 {
     "text_block_list": [
         {
-            "text": "The day before the Selection Race was to be held I decided to go for a walk in a nearby park."
+            "text": "The day before the Selection Race was to be \nheld I decided to go for a walk in a nearby park."
         },
         {
+            "text": "Woah woah woah! \nMove! Move outta the way!!",
             "name": "Tokai Teio",
-            "text": "Woah woah woah! Move! Move outta the way!!",
             "choice_data_list": [
                 "!?"
             ]
         },
         {
+            "text": "Whoo!!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "*Jump!*"
+        },
+        {
+            "text": "I looked over and saw Tokai Teio running towards \nme, but at the last second she jumped over me in \na beautiful manner. Then…"
+        },
+        {
+            "text": "And safe!! Now then… here's your hat!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "It seems like that little girl's hat got stuck \nup a tree and Tokai Teio went and got it for her…"
+        },
+        {
+            "text": "Waah! Thank you so much, Miss! That jump was \nsuper cool too!!",
+            "name": "Girl A"
+        },
+        {
+            "text": "No no no. Don't call me \"Miss\" call me the \n\"Unbeatable Teio-sama\"♪",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Unbeatable…? I don't really \nget it, but it sounds cool!",
+            "name": "Girl A"
+        },
+        {
+            "text": "Wahahaha!! Feel free to praise me more!!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Oh, that's right… Hey you! Sorry \nfor scaring you like that.",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "I couldn't hit the brakes and ended up jumping \nover you! You're not hurt anywhere, are you?",
             "name": "Tokai Teio",
-            "text": "Whoo!!"
-        },
-        {},
-        {
-            "text": "I looked over and saw Tokai Teio running towards me, but at the last second she jumped over me in a beautiful manner. Then…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And safe!! Now then… here's your hat!"
-        },
-        {
-            "text": "It seems like that little girl's hat got stuck up a tree and Tokai Teio went and got it for her…"
-        },
-        {
-            "name": "Girl A",
-            "text": "Waah! Thank you so much, Miss! That jump was super cool too!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "No no no. Don't call me \"Miss\" call me the \"Unbeatable Teio-sama\"♪"
-        },
-        {
-            "name": "Girl A",
-            "text": "Unbeatable…? I don't really get it, but it sounds cool!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Wahahaha!! Feel free to praise me more!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Oh, that's right… Hey you! Sorry for scaring you like that."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I couldn't hit the brakes and ended up jumping over you! You're not hurt anywhere, are you?",
             "choice_data_list": [
-                "More importantly, are you okay? That landing must've…",
-                "More importantly, are you okay? That landing must've…"
+                "<size=29>More importantly, are you okay? That landing must've…</size>",
+                "<size=29>More importantly, are you okay? That landing must've…</size>"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Aha! That was nothing for someone like me! See? I feel perfect!"
+            "text": "Aha! That was nothing for someone like me! See? \nI feel perfect!",
+            "name": "Tokai Teio"
         },
         {
-            "text": "Even though she jumped so high, Tokai Teio seemed completely fine."
+            "text": "Even though she jumped so high, Tokai Teio \nseemed completely fine."
         },
         {
-            "text": "It seems like she's truly blessed with an amazing physique, as evidenced by that amazing leap she had!"
+            "text": "It seems like she's truly blessed \nwith an amazing physique, as evidenced \nby that amazing leap she had!"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Were you surprised? I bet you were! Hehe♪"
+            "text": "Were you surprised? I bet you were! Hehe♪",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Wait, I'm busy right now! I was in the middle of running. So see ya later!"
+            "text": "Wait, I'm busy right now! I was in the middle of \nrunning. So see ya later!",
+            "name": "Tokai Teio"
         },
         {
             "text": "After saying that, Tokai Teio nimbly ran off."
         },
         {
-            "text": "For the rest of the day, I couldn't get her out of my mind. Then came the Selection Race…"
+            "text": "For the rest of the day, I couldn't get her out \nof my mind. Then came the Selection Race…"
         },
         {
+            "text": "",
             "name": "Tokai Teio"
         },
         {
-            "name": "Crowd",
-            "text": "You're doing great, Teio!! Continue this pace and overtake the rest of 'em!!"
+            "text": "You're doing great, Teio!! Continue this pace \nand overtake the rest of 'em!!",
+            "name": "Crowd"
         },
         {
-            "name": "Commentator",
-            "text": "Tokai Teio is steadily increasing her position! She's pushing gracefully into the lead!"
+            "text": "Tokai Teio is steadily increasing her position! \nShe's pushing gracefully into the lead!",
+            "name": "Commentator"
         },
         {
+            "text": "Hehe… The winner's gonna be me!!",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Tokai Teio is extending her lead!! \nNo one can catch up with her as she \nproceeds forward with ease!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "She's four lengths ahead of 2nd place, and \nshe's the winner!! The winner of this Selection \nRace is Tokai Teio! This was a beautiful \ndisplay of her strength!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Phew! Everyone! How'd you like that race!?",
+            "name": "Tokai Teio"
+        },
+        {
+            "text": "Teio, you're the best!!",
+            "name": "Spectator A"
+        },
+        {
+            "text": "You looked amazing out there!!",
+            "name": "Spectator B"
+        },
+        {
+            "text": "Aha, thanks! But hey, of course I of all people \nwas able to do it!!",
             "name": "Tokai Teio",
-            "text": "Hehe… The winner's gonna be me!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Tokai Teio is extending her lead!! No one can catch up with her as she proceeds forward with ease!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "She's four lengths ahead of 2nd place, and she's the winner!! The winner of this Selection Race is Tokai Teio! This was a beautiful display of her strength!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Phew! Everyone! How'd you like that race!?"
-        },
-        {
-            "name": "Spectator A",
-            "text": "Teio, you're the best!!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "You looked amazing out there!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Aha, thanks! But hey, of course I of all people was able to do it!!",
             "choice_data_list": [
                 "You're an amazing racer!"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Eh? Who're… Ah! You were at the park yesterday! Hmm… why're you here?"
+            "text": "Eh? Who're… Ah! You were at the park yesterday! \nHmm… why're you here?",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Ah, I get it! You're a trainer, aren't you!? Now that I take a closer look, you've got a badge and everything!!"
+            "text": "Ah, I get it! You're a trainer, aren't you!? Now \nthat I take a closer look, you've got a badge \nand everything!!",
+            "name": "Tokai Teio"
         },
         {
+            "text": "So the reason you're coming to talk to me is… \nYou're trying to scout me, aren't you!?",
             "name": "Tokai Teio",
-            "text": "So the reason you're coming to talk to me is… You're trying to scout me, aren't you!?",
             "choice_data_list": [
                 "I'd love to be your trainer!",
                 "I'd love to be your trainer!"
             ]
         },
         {
-            "name": "Tokai Teio",
-            "text": "Ehehe, what should I do? The thing is, even before this race a lot of trainers reached out to me."
+            "text": "Ehehe, what should I do? The thing \nis, even before this race a lot of \ntrainers reached out to me.",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "Ah! There she is, Tokai Teio!! Your racing ability was truly spectacular! Please allow me to scout you!!"
+            "text": "Ah! There she is, Tokai Teio!! Your \nracing ability was truly spectacular! \nPlease allow me to scout you!!",
+            "name": "Rookie Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Teio, join me! I'm sure that if we work together you'll not only be able to win GI races, but also the Triple Crown!"
+            "text": "Teio, join me! I'm sure that if we work together \nyou'll not only be able to win GI races, but \nalso the Triple Crown!",
+            "name": "Veteran Trainer A"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Oh no, they keep increasing!! Umm, if this many people approach me I won't be able to decide…"
+            "text": "Oh no, they keep increasing!! Umm, if this many \npeople approach me I won't be able to decide…",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Well regardless of who I choose, I'll be the one running so nothing's really gonna change."
+            "text": "Well regardless of who I choose, I'll be the one \nrunning so nothing's really gonna change.",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Guess whoever beats me at rock-paper-scissors gets to be my trainer!"
+            "text": "Guess whoever beats me at rock-paper-scissors \ngets to be my trainer!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Come on now, Teio. An Uma Musume and her trainer must work together in perfect harmony…"
+            "text": "Come on now, Teio. An Uma Musume and her trainer \nmust work together in perfect harmony…",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Ahh, Prez!! Preeezz!!"
+            "text": "Ahh, Prez!! Preeezz!!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "You came to watch my race, didn't you!? Hehehe, how did I do!? I won again ya know?!"
+            "text": "You came to watch my race, didn't you!? Hehehe, \nhow did I do!? I won again ya know?!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Haa… Yes, I did come to watch. You did amazingly, as usual."
+            "text": "Haa… Yes, I did come to watch. You did \namazingly, as usual.",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Yaay!! Ehehe, Prez praised me♪ Everyone, did you hear that!?"
+            "text": "Yaay!! Ehehe, Prez praised me♪ \nEveryone, did you hear that!?",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "Eh? Ah, yeah… But more importantly than that, I would like to…"
+            "text": "Eh? Ah, yeah… But more importantly \nthan that, I would like to…",
+            "name": "Rookie Trainer A"
         },
         {
-            "name": "Tokai Teio",
-            "text": "What did you just say!? What do you mean by \"that!?\" Hey you, do you not understand just how amazing Prez really is!?"
+            "text": "What did you just say!? What do you mean by \n\"that!?\" Hey you, do you not understand just how \namazing Prez really is!?",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "She's the president of Tracen Academy, you know!? She's also super fast, super strong, and super cool! She's the greatest Uma Musume in the world, and my idol!!"
+            "text": "She's the president of Tracen Academy, you \nknow!? She's also super fast, super strong, and \nsuper cool! She's the greatest Uma Musume in the \nworld, and my idol!!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "One day I'm gonna be as great as her, then she'll praise me a whole bunch♪"
+            "text": "One day I'm gonna be as great as her, then \nshe'll praise me a whole bunch♪",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "And that means that if you really wanna scout me, you've gotta truly understand just how great Prez is!"
+            "text": "And that means that if you really wanna \nscout me, you've gotta truly understand \njust how great Prez is!",
+            "name": "Tokai Teio"
         },
         {
-            "name": "Tokai Teio",
-            "text": "Speaking of… Did you all see her debut race!? Prez was so amazing, starting from the first corner she…!"
+            "text": "Speaking of… Did you all see her debut \nrace!? Prez was so amazing, starting \nfrom the first corner she…!",
+            "name": "Tokai Teio"
         },
         {
-            "text": "All of the trainers that came to speak with Tokai Teio ended up getting lectured on the legendary history of \"Prez…\""
+            "text": "All of the trainers that came to speak with \nTokai Teio ended up getting lectured on the \nlegendary history of \"Prez…\""
         },
         {
-            "text": "In the end, no one was able to talk to her about scouting…"
+            "text": "In the end, no one was able to \ntalk to her about scouting…"
         }
     ]
 }

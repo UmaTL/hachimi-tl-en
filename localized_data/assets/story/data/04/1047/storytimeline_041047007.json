@@ -1,241 +1,241 @@
 {
     "text_block_list": [
         {
-            "text": "Summer training camp would be over soon. Even in the sweltering weather, Zenno Rob Roy was working hard, but――"
+            "text": "Summer training camp would be over soon. Even in the sweltering \nweather, Zenno Rob Roy was working hard, but――"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Huu."
+            "text": "……Huu.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "She let out a deep sigh. She must be tired from the consecutive days of training. If that's the case――",
+            "text": "She let out a deep sigh. She must be tired from the consecutive \ndays of training. If that's the case――",
             "choice_data_list": [
                 "Let's take the afternoon off"
             ]
         },
         {
+            "text": "Ah, I'm sorry! It's because I'm sighing, isn't it…… \nUm, I'm fine. There's no problem with training――",
             "name": "Zenno Rob Roy",
-            "text": "Ah, I'm sorry! It's because I'm sighing, isn't it…… Um, I'm fine. There's no problem with training――",
             "choice_data_list": [
                 "Take a look at this"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Ah…… my times have gotten this bad……"
+            "text": "Ah…… my times have gotten this bad……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "Even just running was causing her times to slow. Her steps were misaligned, and it was starting to become a concern."
+            "text": "Even just running was causing her times to slow. Her steps were \nmisaligned, and it was starting to become a concern."
         },
         {
+            "text": "B-but, I'm not really tired. \nIn terms of stamina, I have plenty left――",
             "name": "Zenno Rob Roy",
-            "text": "B-but, I'm not really tired. In terms of stamina, I have plenty left――",
             "choice_data_list": [
                 "Even heroes need to rest"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san……"
+            "text": "Trainer-san……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Okay, I understand. You're saying I need a mental break……"
+            "text": "……Okay, I understand. \nYou're saying I need a mental break……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "That said, it's true that the training amount shouldn't be a problem stamina-wise. Does she have a lot of built up mental fatigue?"
+            "text": "That said, it's true that the training amount \nshouldn't be a problem stamina-wise. Does she \nhave a lot of built up mental fatigue?"
         },
         {
-            "text": "Now that I think about it, the locals mentioned a great spot to see the fireworks from.",
+            "text": "Now that I think about it, the locals \nmentioned a great spot to see the fireworks from.",
             "choice_data_list": [
                 "……would she want to go see them?"
             ]
         },
         {
-            "text": "The fireworks wouldn't be until night time. Maybe I should scope the place out first."
+            "text": "The fireworks wouldn't be until night time. \nMaybe I should scope the place out first."
         },
         {
+            "text": "……I wonder where Trainer-san went. \nThey're not in their room, either……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(I wanted to tell them I'd work hard during training tomorrow. \n……since I was having trouble concentrating today)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(……Am I pushing my ideals on to them? \nEven during training, that was the thought occupying my mind)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(They're considerate, and passionate about work. I know that. \nThey're already a wonderful person…… just the way they are)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(I wonder if…… I said something unnecessary. If they're pushing \nthemself too hard to change, what should I do……?)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "They're not here either……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Ah, you're the girl they're responsible for \nright? They left their phone in the cafeteria \nso I haven't been able to contact them.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "Eh?",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Some people said they went in to the mountains but……that can't be \nright. There's no reason to go there after all.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "……t-towards the mountains? It's night time though. \nThen…… it can't be, but does that mean that right now――",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "『Haa, haa…… if I can just cross this rope bridge, \nthen…… I can return to Zenno Rob Roy's side……!』",
+            "name": "Trainer-san"
+        },
+        {
+            "text": "『……! Ugh, it's collapsing……! Aaaaaaahhhh……!』",
+            "name": "Trainer-san"
+        },
+        {
+            "text": "T-Trainer-san……! Aaah…… what should I do……!?",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Oh, sorry. They probably just ended up falling asleep somewhere. \nThey're always working late trying to keep up with you.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "I wonder if that manga I lent them has gotten them fired up? \nIt was really interesting after all.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "M-manga? \nDo you mean…… those thick, technical-looking books?",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Right, right! Well, I said they're manga but, there's a lot of \ntraining and medical related topics. Seems like it was made in to \na manga to make it easier to understand.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "……Training and medical……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "That reminds me, they started going to the gym. \nBefore starting a new training regimen, they mentioned that \nthey wanted to test it themself first.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "Really, when it comes to you, they go all out.",
+            "name": "Trainer's Colleague"
+        },
+        {
+            "text": "!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Haaa, haa…… not here either. \n…… Trainer-san……!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "……I-it's fine. It's fine. \nTrainer-san is an adult, and they've got it together……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(And they promised. That we'd finish that story together. \nThat's why, that's why――)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(That's right. This isn't forcing my ideals on them. \nIt's definitely not. ……After all――)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "This is what they call trust……!!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Trainer-san, Trainer-san! \nPlease answer me, Trainer-san!",
             "name": "Zenno Rob Roy",
-            "text": "……I wonder where Trainer-san went. They're not in their room, either……"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(I wanted to tell them I'd work hard during training tomorrow. ……since I was having trouble concentrating today)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(……Am I pushing my ideals on to them? Even during training, that was the thought occupying my mind)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(They're considerate, and passionate about work. I know that. They're already a wonderful person…… just the way they are)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(I wonder if…… I said something unnecessary. If they're pushing themself too hard to change, what should I do……?)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "They're not here either……"
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "Ah, you're the girl they're responsible for right? They left their phone in the cafeteria so I haven't been able to contact them."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Eh?"
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "Some people said they went in to the mountains but……that can't be right. There's no reason to go there after all."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……t-towards the mountains? It's night time though. Then…… it can't be, but does that mean that right now――"
-        },
-        {
-            "name": "Trainer-san",
-            "text": "『Haa, haa…… if I can just cross this rope bridge, then…… I can return to Zenno Rob Roy's side……!』"
-        },
-        {
-            "name": "Trainer-san",
-            "text": "『……! Ugh, it's collapsing……! Aaaaaaahhhh……!』"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "T-Trainer-san……! Aaah…… what should I do……!?"
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "Oh, sorry. They probably just ended up falling asleep somewhere. They're always working late trying to keep up with you."
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "I wonder if that manga I lent them has gotten them fired up? It was really interesting after all."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "M-manga? Do you mean…… those thick, technical-looking books?"
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "Right, right! Well, I said they're manga but, there's a lot of training and medical related topics. Seems like it was made in to a manga to make it easier to understand."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……Training and medical……"
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "That reminds me, they started going to the gym. Before starting a new training regimen, they mentioned that they wanted to test it themself first."
-        },
-        {
-            "name": "Trainer's Colleague",
-            "text": "Really, when it comes to you, they go all out."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Haaa, haa…… not here either. …… Trainer-san……!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……I-it's fine. It's fine. Trainer-san is an adult, and they've got it together……"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(And they promised. That we'd finish that story together. That's why, that's why――)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(That's right. This isn't forcing my ideals on them. It's definitely not. ……After all――)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "This is what they call trust……!!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san, Trainer-san! Please answer me, Trainer-san!",
             "choice_data_list": [
                 "……Rob Roy?"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "! Trainer-san!!"
+            "text": "! Trainer-san!!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "I'm glad, so this is where you were……!"
+            "text": "I'm glad, so this is where you were……!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "Zenno Rob Roy appeared in front of me, her face full of worry. ……I guess I got tired after walking and fell asleep.",
+            "text": "Zenno Rob Roy appeared in front of me, her face full of worry. \n……I guess I got tired after walking and fell asleep.",
             "choice_data_list": [
                 "Sorry for worrying you"
             ]
         },
         {
-            "text": "I came all the way out here to make her happy…… but it seems like all I did was trouble her.",
+            "text": "I came all the way out here to make her happy…… \nbut it seems like all I did was trouble her.",
             "choice_data_list": [
-                "I guess I'm still far away from your ideal――",
-                "I guess I'm still far away from your ideal――"
+                "<size=38>I guess I'm still far away from your ideal――</size>",
+                "<size=38>I guess I'm still far away from your ideal――</size>"
             ]
         },
         {
+            "text": "……You're wrong! Trainer-san, you're fine the \nway you are! Just because of something I said――",
             "name": "Zenno Rob Roy",
-            "text": "……You're wrong! Trainer-san, you're fine the way you are! Just because of something I said――",
             "choice_data_list": [
                 "Being your ideal is one of my dreams",
                 "Being your ideal is one of my dreams"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Eh……Eeeh, eh!?"
+            "text": "Eh……Eeeh, eh!?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(B-becoming my ideal……huh!? I-isn't that…… w-wait…… c-calm down……!)"
+            "text": "(B-becoming my ideal……huh!? \nI-isn't that…… w-wait…… c-calm down……!)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Haa-…… Huu-…… U-ummmm…… well, Trainer-san…… why did you come all the way out here?"
+            "text": "……Haa-…… Huu-…… U-ummmm…… well, \nTrainer-san…… why did you come all the way out here?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "I didn't really know what to say, but I should be honest after worrying her like that. I wanted her to cheer up after seeing the scenery. And so――",
+            "text": "I didn't really know what to say, but I should \nbe honest after worrying her like that. I wanted her to \ncheer up after seeing the scenery. And so――",
             "choice_data_list": [
-                "Rob Roy, I just wanted to make you happy……"
+                "<size=36>Rob Roy, I just wanted to make you happy……</size>"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Because of me――"
+            "text": "……Because of me――",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "At that moment, before Zenno Rob Roy could finish, the fireworks started. Enveloped in that sound, Zenno Rob Roy spoke again."
+            "text": "At that moment, before Zenno Rob Roy could finish, the fireworks \nstarted. Enveloped in that sound, Zenno Rob Roy spoke again."
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……No. For…… my sake. Right. That's how…… Trainer-san is."
+            "text": "……No. For…… my sake. Right. \nThat's how…… Trainer-san is.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "Eventually, the fireworks died down. There was only the gentle sound of the waves, and Zenno Rob Roy was softly smiling."
+            "text": "Eventually, the fireworks died down. There was only the \ngentle sound of the waves, and Zenno Rob Roy was softly smiling."
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san is already my ideal. Kind, hard working, and――"
+            "text": "Trainer-san is already my ideal. \nKind, hard working, and――",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……someone irreplaceable for a hero…… a warm presence, someone they want to cherish."
+            "text": "……someone irreplaceable for a hero…… \na warm presence, someone they want to cherish.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "The last fireworks went off. Zenno Rob Roy looked up at the sky, her face colored by the vivid light."
+            "text": "The last fireworks went off. Zenno Rob Roy looked up \nat the sky, her face colored by the vivid light."
         }
     ]
 }

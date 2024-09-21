@@ -1,240 +1,240 @@
 {
     "text_block_list": [
         {
-            "name": "Average Trainer",
-            "text": "——All right, Air Shakur. Try running the way I just laid out."
+            "text": "――All right, Air Shakur.\nTry running the way I just laid out.",
+            "name": "Mid-Rank Trainer"
         },
         {
-            "text": "The day after I met Air Shakur, when I went to check out the course, there she was, getting instructions from another trainer.",
+            "text": "The day after I met Air Shakur, when I went to check out the \ncourse, there she was, getting instructions from another trainer.",
             "choice_data_list": [
                 "(Wonder how she'll run.)"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Well, here goes."
+            "text": "...Well, here goes.",
+            "name": "Air Shakur"
         },
         {
+            "text": "...Rrraahh!!",
             "name": "Air Shakur",
-            "text": "…Rrraahh!!",
             "choice_data_list": [
-                "(Whoa… She's intense!)"
+                "(Whoa... She's intense!)"
             ]
         },
         {
-            "name": "Umamusume A",
-            "text": "Hyaa…!? T-that scared me…! Let's go run somewhere further away…"
+            "text": "Hyaa...!? T-that scared me...!\nLet's go run somewhere further away...",
+            "name": "Umamusume A"
         },
         {
-            "text": "Air Shakur's running was wilder than I imagined. Wild, but not barbaric. Her form seemed incredibly refined, as if she'd eliminated all excess movements."
+            "text": "Air Shakur's running was wilder than I imagined. Wild, but not \nbarbaric. Her form seemed incredibly refined, as if she'd \neliminated all excess movements."
         },
         {
+            "text": "Haa... Ha... HA! \nHAHAHA!!",
             "name": "Air Shakur",
-            "text": "Haa… Ha… HA! HAHAHA!!",
             "choice_data_list": [
-                "(Wow…)"
+                "(Wow...)"
             ]
         },
         {
-            "text": "She attacked the straight like the last leg of a real race, steadily pushing forward… I was drawn in by her striking display of ability, but…"
+            "text": "She attacked the straight like the last leg of a real race, steadily \npushing forward... I was drawn in by her striking display of \nability, but..."
         },
         {
-            "name": "Average Trainer",
-            "text": "Whoa, whoa…! Wait a second. That wasn't even close to what I said!",
+            "text": "Whoa, whoa...! Wait a second.\nThat wasn't even close to what I said!",
+            "name": "Mid-Rank Trainer",
             "choice_data_list": [
-                "(……!?)"
+                "(...!?)"
             ]
         },
         {
-            "name": "Average Trainer",
-            "text": "My exact words were to \"run like you're using a leader strategy\". Why'd you hang back all the way till the fourth corner?"
+            "text": "My exact words were to “run like you're using a leader strategy”. \nWhy'd you hang back all the way till the fourth corner?",
+            "name": "Mid-Rank Trainer"
         },
         {
-            "name": "Average Trainer",
-            "text": "I'm trying to get a good picture of your strengths. But I need you to work with me here!"
+            "text": "I'm trying to get a good picture of your strengths.\nBut I need you to work with me here!",
+            "name": "Mid-Rank Trainer"
         },
         {
+            "text": "Half-assed.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Huh?",
+            "name": "Mid-Rank Trainer"
+        },
+        {
+            "text": "If you want to know my strengths, how's collecting data on a \nleader strat gonna help? \nCites your sources. Break that logic down for me.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "'Sides, when it comes to my own data, I've already got it all up \nhere, verified and validated. I'm just gonna ignore you if you're \ngonna tell me to do all these extraneous tests.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "But your data isn't necessarily all correct, right?\nAs a trainer, my experience and insight are――",
+            "name": "Mid-Rank Trainer"
+        },
+        {
+            "text": "Aah, just forget it. You're just like the rest, <i>too</i>. \nNo more supervised training. See ya.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Huh!? What are you talking about?\nWe just started!",
+            "name": "Mid-Rank Trainer"
+        },
+        {
+            "text": "No more means no more. If you really wanna waste any more of \nmy precious time... You know what I'mma do, don't you? <b>HUH!?</b>",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Eek...! Wh-What's wrong with you? \nYou're beyond understanding!",
+            "name": "Mid-Rank Trainer"
+        },
+        {
+            "text": "...Hey, you see that just now? \nHow on earth are you supposed to train a girl like that?",
+            "name": "Trainer A"
+        },
+        {
+            "text": "No, no, there's no way...\nYou can't get through to someone like that――",
+            "name": "Trainer B"
+        },
+        {
+            "text": "Hey. Shut up over there.\nY'know I can hea――",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "<i>Uwwehhh～!?</i>",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "Owww, sorry.... Sorry for causing another scene...",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "Yet another spectacular fall.\nWhat happened this time?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Ah... I... I was pushing myself too much... \nI haven't been improving my times lately... so I ran harder than I \nshould've.",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "...Looks like you hit a wall. \nDon't you think you oughtta take a step back and find a better \nway than just plain-old pushing yourself?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I know you're working hard, but improvement won't just go on \nforever. Eventually you'll hit your limit. Gotta know when to cut \nyour losses to stay efficient.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Well... I'm not very smart, and slow to figure things out... \nWorking hard is the only thing I <i>can</i> do.",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "If I keep trying hard, do my best and take my problem head-on... \nEven I can break through that wall, someday... Maybe... I think...",
+            "name": "Meisho Doto"
+        },
+        {
+            "text": "...That so. You breaking that wall...\nI'd sure wanna see that happen.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "...Someday, huh.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "There's no point holding onto that hope...",
             "name": "Air Shakur",
-            "text": "Half-assed."
+            "choice_data_list": [
+                "（……！）"
+            ]
         },
         {
-            "name": "Average Trainer",
-            "text": "Huh?"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "If you want to know my strengths, how's collecting data on a leader strat gonna help? Cites your sources. Break that logic down for me."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "'Sides, when it comes to my own data, I've already got it all up here, verified and validated. I'm just gonna ignore you if you're gonna tell me to do all these extraneous tests."
-        },
-        {
-            "name": "Average Trainer",
-            "text": "But your data isn't necessarily all correct, right? As a trainer, my experience and insight are——"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Aah, just forget it. You're just like the rest, too. No more supervised training. See ya."
-        },
-        {
-            "name": "Average Trainer",
-            "text": "Huh!? What are you talking about? We just started!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "No more means no more. If you really wanna waste any more of my precious time… You know what I'mma do, don't you? <b>HUH!?</b>"
-        },
-        {
-            "name": "Average Trainer",
-            "text": "Eek…! Wh-What's wrong with you? You're beyond understanding!"
-        },
-        {
-            "name": "Trainer A",
-            "text": "…Hey, you see that just now? How on earth are you supposed to train a girl like that?"
-        },
-        {
+            "text": "Ha～... Looks like she's calmed down somehow...? \nShe was worse than usual today.",
             "name": "Trainer B",
-            "text": "No, no, there's no way… You can't get through to someone like that——"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Hey. Shut up over there. Y'know I can hea——"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "<i>Uwwehhh～!?</i>"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Owww, sorry… Sorry for causing another scene…"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "Yet another spectacular fall. What happened this time?"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Ah… I… I was pushing myself too much… I haven't been improving my times lately… so I ran harder than I should've."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…Looks like you hit a wall. Don't you think you oughtta take a step back and find a better way than just plain-old pushing yourself?"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "I know you're working hard, but improvement won't just go on forever. Eventually you'll hit your limit. Gotta know when to cut your losses to stay efficient."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Well… I'm not very smart, and slow to figure things out… Working hard is the only thing I can do."
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "If I keep trying hard, do my best and take my problem head-on… Even I can break through that wall, someday… Maybe… I think…"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…That so. You breaking that wall… I'd sure wanna see that happen."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…Someday, huh."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "There's no point holding onto that hope…",
             "choice_data_list": [
-                "(……!)"
+                "(No point...?)"
             ]
         },
         {
-            "name": "Trainer B",
-            "text": "Ha～… Looks like she's calmed down somehow…? She was worse than usual today.",
+            "text": "She probably didn't think anyone else heard her say it under her \nbreath―― But her whispered words kept ringing in my ear..."
+        },
+        {
+            "text": "While I was thinking about the way she ran that morning, I just \nso happened to stop by the course...",
             "choice_data_list": [
-                "(Nonsense? ……)"
+                "(Shakur...?)"
             ]
         },
         {
-            "text": "She probably didn't think anyone else heard her say it under her breath—— But her whispered words kept ringing in my ear…"
+            "text": "Haa... Haa... Ha!",
+            "name": "Air Shakur"
         },
         {
-            "text": "While I was thinking about the way she ran that morning, I just so happened to stop by the course…",
+            "text": "Damn it, I can't...!\nI can't, I can't, <i>I can't</i>...――",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I can't break through that “7cm”...<i>!</i> \nIt's only that much! But still,<i> I</i>...<i>!</i>",
+            "name": "Air Shakur",
             "choice_data_list": [
-                "(Shakur ……?)"
+                "（7cm……？）"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "Haa… Haa… Ha!"
+            "text": "Aah, that's quite unlike her.\nLetting her thoughts spew out like that.",
+            "name": "???"
         },
         {
-            "name": "Air Shakur",
-            "text": "Damn it, I can't…! I can't, I can't, <i>I can't…——</i>"
+            "text": "Good evening. My name is Agnes Tachyon. A friend of \nShakur-kun's... Though she very much doesn't like for me to call \nmyself that.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Air Shakur",
-            "text": "I can't break through that \"7cm\"…! It's only that much! But still, <i>I…!</i>",
-            "choice_data_list": [
-                "(7cm……?)"
-            ]
-        },
-        {
-            "name": "???",
-            "text": "Aah, that's quite unlike her. Letting her thoughts spew out like that."
-        },
-        {
+            "text": "All the telltale signs of overwork. For a pragmatic, logical person \nlike her to struggle in such an illogical fashion... It's hard to truly \nempathize with what she's experiencing.",
             "name": "Agnes Tachyon",
-            "text": "Good evening. My name is Agnes Tachyon. A friend of Shakur-kun's… Though she very much doesn't like for me to call myself that."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "All the telltale signs of overwork. For a pragmatic, logical person like her to struggle in such an illogical fashion… It's hard to truly empathize with what she's experiencing.",
             "choice_data_list": [
                 "What exactly is she struggling with?"
             ]
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "Are you able to navigate the world of zeroes and ones? If not, it may very well be beyond your understanding."
+            "text": "Are you able to navigate the world of zeroes and ones? If not, it \nmay very well be beyond your understanding.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "Shakur-kun is… a devotee of data, if you will. One who believes collecting data and repeating simulations will eventually elucidate a solution."
+            "text": "Shakur-kun is... a devotee of data, if you will. \nOne who believes collecting data and repeating simulations will \neventually elucidate a solution.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "In her eyes, all the world can be divided between True or False. Any undefined parameters——'potential', for instance, may as well not exist to her."
+            "text": "In her eyes, all the world can be divided between True or False. \nAny undefined parameters――'potential', for instance, may as \nwell not exist to her.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "Ah, here's an a way to put it… Her \"god\" is denying her a future. This god has made an absolute judgement, one she cannot hope to overcome."
+            "text": "Ah, here's an a way to put it... Her \"god\" is denying her a future. \nThis god has made an absolute judgement, one she cannot hope \nto overcome.",
+            "name": "Agnes Tachyon"
         },
         {
+            "text": "If this god's judgement were to be overcome, its divinity would \nbe called into question. A terrifying notion in and of itself. Thus \nthe faithful cannot deny god's judgement, nor even curse it.",
             "name": "Agnes Tachyon",
-            "text": "If this god's judgement were to be overcome, its divinity would be called into question. A terrifying notion in and of itself. Thus the faithful cannot deny god's judgement, nor even curse it.",
             "choice_data_list": [
-                "Still… It looks like she's trying to change \nsomething."
+                "<size=31>Still... It looks like she's trying to change something.</size>"
             ]
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "Fufu, and there's the rub. A most intruiging state of mind. If you asked her, she'd call such efforts foolish. And yet, she persists."
+            "text": "Fufu, and there's the rub. A most intruiging state of mind. \nIf you asked her, she'd call such efforts foolish. And yet, she \npersists.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "The vision Shakur-kun crafted is indeed elegant in its refinement. But I believe true potential lies in the very extraneities she so deliberately excised."
+            "text": "The vision Shakur-kun crafted is indeed elegant in its refinement. \nBut I believe true potential lies in the very extraneities she so \ndeliberately excised.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "Oh, it seems like she's about to wrap up training. You know, for all the data collection she does, she doesn't care much for being the one observed."
+            "text": "Oh, it seems like she's about to wrap up training. \nYou know, for all the data collection she does, she doesn't care \nmuch for being the one observed.",
+            "name": "Agnes Tachyon"
         },
         {
-            "name": "Agnes Tachyon",
-            "text": "So I'll be on my way now. Now then, you, the trainer oh-so curiously drawn to Shakur. What will <i>you</i> do?"
+            "text": "So I'll be on my way now. Now then, you, the trainer oh-so \ncuriously drawn to Shakur. What will <i>you</i> do?",
+            "name": "Agnes Tachyon"
         },
         {
-            "text": "…I have to go get her!"
+            "text": "...I have to go get her!"
         }
     ]
 }

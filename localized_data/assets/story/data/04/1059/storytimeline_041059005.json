@@ -1,227 +1,227 @@
 {
     "text_block_list": [
         {
-            "name": "Mejiro Dober",
-            "text": "……Something seems a little off…… the placement of the nose……? Was it a little higher……?"
+            "text": "……Something seems a little off…… the placement \nof the nose……? Was it a little higher……?",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "In a corner of the library, Mejiro Dober was lost in thought. She had a serious expression and was single-mindedly drawing something."
+            "text": "In a corner of the library, Mejiro Dober was \nlost in thought. She had a serious expression \nand was single-mindedly drawing something."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……No, I probably have to start over to fix this."
+            "text": "……No, I probably have to start over to fix this.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Guess I'll erase it for now………… Ah!"
+            "text": "Guess I'll erase it for now………… Ah!",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "She moved her hand in wide strokes as she vigorously used an eraser. When she went to brush away the bits of eraser, she accidentally knocked over the stationery on her desk."
+            "text": "She moved her hand in wide strokes as she vigorously used an \neraser. When she went to brush away the bits of eraser, she \naccidentally knocked over the stationery on her desk."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Aaaah man, I really did it now……"
+            "text": "Aaaah man, I really did it now……",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "To help her, I reached down to pick up the notebook she dropped. The page it was open to had an Anime Character drawn on it."
+            "text": "To help her, I reached down to pick up the notebook she dropped. \nThe page it was open to had an Anime Character drawn on it."
         },
         {
-            "text": "It was from a long-running anime aimed at younger kids called 『Veggie Carolyn』. Maybe she was just practicing, but there were a lot of pictures of the main character, Carolyn.",
+            "text": "It was from a long-running anime aimed at younger kids called \n『Veggie Carolyn』. Maybe she was just practicing, but there were a \nlot of pictures of the main character, Carolyn.",
             "choice_data_list": [
                 "I'll leave this on the desk",
                 "I'll leave this on the desk"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Ah…… Trainer. ……Thanks.",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "This looks a lot like 『Carolyn』",
                 "This drawing of 『Carolyn』 is cute"
             ]
         },
         {
+            "text": "Ah…… so it was Trainer. \nThanks for picking it up for me.",
             "name": "Mejiro Dober",
-            "text": "Ah…… so it was Trainer. Thanks for picking it up for me.",
             "choice_data_list": [
                 "This looks a lot like 『Carolyn』",
                 "This drawing of 『Carolyn』 is cute"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Wai-……don't look at it without permission!!"
+            "text": "Wai-……don't look at it without permission!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "No way…… y-you saw it……?"
+            "text": "No way…… y-you saw it……?",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "In a panic, I pointed out that it just happened to be on that page."
+            "text": "In a panic, I pointed out that it \njust happened to be on that page."
         },
         {
-            "text": "In a panic, I pointed out that it just happened to be on that page."
+            "text": "In a panic, I pointed out that it \njust happened to be on that page."
         },
         {
-            "name": "Mejiro Dober",
             "text": "……you probably think it looks terrible, don't you!?",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "That's not true",
                 "That's not true"
             ]
         },
         {
+            "text": "It doesn't look like her right?…… \nEven I think it doesn't.",
             "name": "Mejiro Dober",
-            "text": "It doesn't look like her right?…… Even I think it doesn't.",
             "choice_data_list": [
                 "That's not true",
                 "That's not true"
             ]
         },
         {
-            "text": "All of the characters she drew had a bright light in their eyes, as if they were hopeful for the future."
+            "text": "All of the characters she drew had a bright light in \ntheir eyes, as if they were hopeful for the future."
         },
         {
-            "text": "All of the characters she drew had a bright light in their eyes, as if they were hopeful for the future."
+            "text": "All of the characters she drew had a bright light in \ntheir eyes, as if they were hopeful for the future."
         },
         {
-            "text": "I told her their smiles were bright and full of life, and their eyelashes were quite fashionable."
+            "text": "I told her their smiles were bright and full of life, \nand their eyelashes were quite fashionable."
         },
         {
+            "text": "Is that……praise? Are you messing with me?",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Oh come on…… Isn't that too much praise? \nBut the way you can find the good points makes me happy though.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "My art style……is kind of distinct, it's very shoujo manga-like. \nI already know it doesn't look like her.",
             "name": "Mejiro Dober",
-            "text": "Is that……praise? Are you messing with me?"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Oh come on…… Isn't that too much praise? But the way you can find the good points makes me happy though."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "My art style……is kind of distinct, it's very shoujo manga-like. I already know it doesn't look like her.",
             "choice_data_list": [
                 "It's so cute though!",
                 "It's so cute though!"
             ]
         },
         {
+            "text": "My art style……is very shoujo manga-like, isn't it? The things you \npraised, they're very distinct aren't they……?",
             "name": "Mejiro Dober",
-            "text": "My art style……is very shoujo manga-like, isn't it? The things you praised, they're very distinct aren't they……?",
             "choice_data_list": [
                 "It's so cute though!",
                 "It's so cute though!"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……you don't need to say that!"
+            "text": "……you don't need to say that!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "T-that's embarrassing!"
+            "text": "T-that's embarrassing!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Uma Musume A",
-            "text": "……Please keep quiet in the Library."
+            "text": "……Please keep quiet in the Library.",
+            "name": "Uma Musume A"
         },
         {
-            "name": "Uma Musume A",
-            "text": "……Please keep quiet in the Library."
+            "text": "……Please keep quiet in the Library.",
+            "name": "Uma Musume A"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "See?…… They got mad at us. Let's leave, Trainer. It's almost time for training, isn't it?"
+            "text": "See?…… They got mad at us. Let's leave, Trainer. \nIt's almost time for training, isn't it?",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "On the way to the trainers' room, I asked her a question that had been bothering me.",
+            "text": "On the way to the trainers' room, I asked \nher a question that had been bothering me.",
             "choice_data_list": [
                 "Do you like 『Veggie Carolyn』?",
                 "Do you like 『Veggie Carolyn』?"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Not particularly…… I watched it when I was little.",
+            "name": "Mejiro Dober",
             "choice_data_list": [
-                "You were drawing it as practice though?",
-                "Weren't you drawing it as practice though?"
+                "<size=41>You were drawing it as practice though?</size>",
+                "<size=38>Weren't you drawing it as practice though?</size>"
             ]
         },
         {
+            "text": "I wouldn't say I liked it……but when I was little I watched it \noften. Since you recognized the characters, it was probably the \nsame for you, right?",
             "name": "Mejiro Dober",
-            "text": "I wouldn't say I liked it……but when I was little I watched it often. Since you recognized the characters, it was probably the same for you, right?",
             "choice_data_list": [
-                "You were drawing it as practice though?",
-                "Weren't you drawing it as practice though?"
+                "<size=41>You were drawing it as practice though?</size>",
+                "<size=38>Weren't you drawing it as practice though?</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I just happened to come across it. ……and I like drawing."
+            "text": "I just happened to come across it. \n……and I like drawing.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I'm used to drawing her. When it comes to drawing her, I'd say I like it…… I wouldn't say I was practicing drawing her though."
+            "text": "I'm used to drawing her. When it comes to drawing her, I'd say I \nlike it…… I wouldn't say I was practicing drawing her though.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "That it happened to be that anime is a coincidence!"
+            "text": "That it happened to be that anime is a coincidence!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I just happened to see the anime again recently, so it left an impression."
+            "text": "I just happened to see the anime again \nrecently, so it left an impression.",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "Mejiro Dober said all that, but her expression when she was drawing was serious……almost desperate."
+            "text": "Mejiro Dober said all that, but her expression \nwhen she was drawing was serious……almost desperate."
         },
         {
-            "text": "Mejiro Dober said all that, but her expression when she was drawing was serious……almost desperate."
+            "text": "Mejiro Dober said all that, but her expression \nwhen she was drawing was serious……almost desperate."
         },
         {
-            "text": "Her expression almost made it seem like she had to draw, even though I was sure she was just doing it for practice……"
+            "text": "Her expression almost made it seem like she had to draw, \neven though I was sure she was just doing it for practice……"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "But, things can't keep going on like this…… it'll just turn in to a repeat of that last mock race, even I understand that."
+            "text": "But, things can't keep going on like this…… it'll just turn \nin to a repeat of that last mock race, even I understand that.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "But, things can't keep going on like this…… it'll just turn in to a repeat of that last mock race, even I understand that."
+            "text": "But, things can't keep going on like this…… it'll just turn \nin to a repeat of that last mock race, even I understand that.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……That's why, speaking with you, is a kind of mental training! As the sub-trainer, hearing me out is part of your obligations, right?"
+            "text": "……That's why, speaking with you, is a kind of \nmental training! As the sub-trainer, hearing \nme out is part of your obligations, right?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "That's why…… even if it's a little bit at a time. Just like this, speaking to someone I'm not familiar with, might help me mentally…… can you help me with that?"
+            "text": "That's why…… even if it's a little bit at a time. Just like \nthis, speaking to someone I'm not familiar with, might help me \nmentally…… can you help me with that?",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "Because of her fear of strangers, it probably made it difficult for her to confide in others.",
+            "text": "Because of her fear of strangers, it probably \nmade it difficult for her to confide in others.",
             "choice_data_list": [
-                "If something's troubling you, I'll help out",
-                "If something's troubling you, I'll help out"
+                "<size=40>If something's troubling you, I'll help out</size>",
+                "<size=40>If something's troubling you, I'll help out</size>"
             ]
         },
         {
-            "text": "Because of her fear of strangers, it probably made it difficult for her to confide in others.",
+            "text": "Because of her fear of strangers, it probably \nmade it difficult for her to confide in others.",
             "choice_data_list": [
-                "If something's troubling you, I'll help out",
-                "If something's troubling you, I'll help out"
+                "<size=40>If something's troubling you, I'll help out</size>",
+                "<size=40>If something's troubling you, I'll help out</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Eh……? ……Ah……Okay. I'll keep that in mind, just in case……"
+            "text": "Eh……? ……Ah……Okay. \nI'll keep that in mind, just in case……",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Eh……? Ah…… thank you. Yeah, well, if I'm ever troubled……in that case I'll ask you."
+            "text": "Eh……? Ah…… thank you. Yeah, well, if I'm \never troubled……in that case I'll ask you.",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "However, even if only a few words were exchanged, I got the feeling that we both understood what the other was thinking, like we were used to it―"
+            "text": "However, even if only a few words were exchanged, \nI got the feeling that we both understood what the \nother was thinking, like we were used to it―"
         },
         {
-            "text": "However, even if only a few words were exchanged, I got the feeling that we both understood what the other was thinking, like we were used to it―"
+            "text": "However, even if only a few words were exchanged, \nI got the feeling that we both understood what the \nother was thinking, like we were used to it―"
         }
     ]
 }

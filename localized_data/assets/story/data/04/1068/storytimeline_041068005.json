@@ -1,146 +1,146 @@
 {
     "text_block_list": [
         {
-            "name": "Kitasan Black",
-            "text": "Ehh, you're gonna carry that much by yourself? It's for the science room, right? Leave it to me, I'll help out!"
+            "text": "Ehh, you're gonna carry that much by \nyourself? It's for the science room, right? \nLeave it to me, I'll help out!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Thanks for always cleaning up this place! I'll go throw this trash away now!"
+            "text": "Thanks for always cleaning up this place! \nI'll go throw this trash away now!",
+            "name": "Kitasan Black"
         },
         {
+            "text": "Fuuu! Good work out there! \nToday's run felt really good, and it was fun.",
             "name": "Kitasan Black",
-            "text": "Fuuu! Good work out there! Today's run felt really good, and it was fun.",
             "choice_data_list": [
                 "Good work!"
             ]
         },
         {
-            "text": "As usual, Kitasan Black was helping people as if it was natural. On top of that, it wasn't causing any issues with her training."
+            "text": "As usual, Kitasan Black was helping people as \nif it was natural. On top of that, it wasn't \ncausing any issues with her training."
         },
         {
-            "name": "Kitasan Black",
-            "text": "Oh, that's right! There was something I wanted to ask Trainer-san… about the timing of when to drive in, um-"
+            "text": "Oh, that's right! There was something I \nwanted to ask Trainer-san… about the \ntiming of when to drive in, um-",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "I see! So the way you pivot is important. Stay aware of the balance between your pivot foot and lower body, your center of gravity… I see, I see."
+            "text": "I see! So the way you pivot is important. Stay aware of the \nbalance between your pivot foot and lower body, your center of \ngravity… I see, I see.",
+            "name": "Kitasan Black"
         },
         {
+            "text": "Um, is it okay if I go run a bit more? \nTrainer-san, I want to test out what you \njust taught me as soon as possible.",
             "name": "Kitasan Black",
-            "text": "Um, is it okay if I go run a bit more? Trainer-san, I want to test out what you just taught me as soon as possible.",
             "choice_data_list": [
                 "Alright, but only for a little bit"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "Thank you very much! Allllright! I'm gonna reduce my time～!"
+            "text": "Thank you very much! \nAllllright! I'm gonna reduce my time～!",
+            "name": "Kitasan Black"
         },
         {
-            "text": "The profile of Kitasan Black as she was running was beautiful and intense, it was captivating."
+            "text": "The profile of Kitasan Black as she \nwas running was beautiful and intense, \nit was captivating."
         },
         {
-            "text": "Always proceeding forward, Kitasan Black was overflowing with ambition. Her presence helped raise the morale of those around her-",
+            "text": "Always proceeding forward, Kitasan Black was \noverflowing with ambition. Her presence \nhelped raise the morale of those around her-",
             "choice_data_list": [
-                "(Kitasan's working hard, I \nhave to respond in kind!)",
-                "(Kitasan's working hard, I \nhave to respond in kind!)"
+                "<size=32>(Kitasan's working hard, I \nhave to respond in kind!)</size>",
+                "<size=32>(Kitasan's working hard, I \nhave to respond in kind!)</size>"
             ]
         },
         {
-            "text": "I rubbed my tired eyes, and lightly slapped my own cheeks. It was my duty to sincerely work hard for her sake, so I needed to keep myself motivated."
+            "text": "I rubbed my tired eyes, and lightly slapped my own cheeks. It \nwas my duty to sincerely work hard for her sake, so I needed to \nkeep myself motivated."
         },
         {
-            "name": "Kitasan Black",
-            "text": "And so, you see, Dad?! Trainer-san is amazing!"
+            "text": "And so, you see, Dad?! \nTrainer-san is amazing!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "The training is tough but, even I can feel that it's really making me stronger-"
+            "text": "The training is tough but, even I can \nfeel that it's really making me stronger-",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Whenever I have doubts, he clears them up, and he's always adjusting the training menu based on what happens during the day!"
+            "text": "Whenever I have doubts, he clears them up, \nand he's always adjusting the training menu \nbased on what happens during the day!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Yeah, that's right. I'm always really really worried and sometimes I can't even come up with a proper answer but…"
+            "text": "Yeah, that's right. I'm always really really \nworried and sometimes I can't even come up \nwith a proper answer but…",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Hmmm, it's not working! The more I try to ignore it, the more I end up focusing too much on who's behind me."
+            "text": "Hmmm, it's not working! The more I try to \nignore it, the more I end up focusing too \nmuch on who's behind me.",
+            "name": "Kitasan Black"
         },
         {
+            "text": "But even if I could, only focusing \non what's ahead makes me uneasy…",
             "name": "Kitasan Black",
-            "text": "But even if I could, only focusing on what's ahead makes me uneasy…",
             "choice_data_list": [
                 "Uneasy about what?"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "Ah, well… something like whether or not they're making their move. Or if they're coming up really quickly behind me, or something."
+            "text": "Ah, well… something like whether or not they're \nmaking their move. Or if they're coming up really \nquickly behind me, or something.",
+            "name": "Kitasan Black"
         },
         {
+            "text": "In those cases, I should probably just face them \nhead-to-head, right? But, if I'm too focused on \nthem, I won't be able to run properly…",
             "name": "Kitasan Black",
-            "text": "In those cases, I should probably just face them head-to-head, right? But, if I'm too focused on them, I won't be able to run properly…",
             "choice_data_list": [
-                "Kitasan, what's your running style again?"
+                "<size=40>Kitasan, what's your running style again?</size>"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "My running style?…is \"Escape\". Running and running, making sure to stay in front."
+            "text": "My running style?…is \"Escape\". Running and \nrunning, making sure to stay in front.",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Staying strong until the end, no matter who comes up behind me, going fast enough to make sure nobody can pass me."
+            "text": "Staying strong until the end, no matter who \ncomes up behind me, going fast enough to \nmake sure nobody can pass me.",
+            "name": "Kitasan Black"
         },
         {
+            "text": "Pulling away from those following, \nand reaching the goal first… \nthat's the way I run!",
             "name": "Kitasan Black",
-            "text": "Pulling away from those following, and reaching the goal first… that's the way I run!",
             "choice_data_list": [
-                "Even with that, you focus \non the ones behind you?"
+                "<size=32>Even with that, you focus \non the ones behind you?</size>"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "…-Ah."
+            "text": "…-Ah.",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Trainer-san, always seems to have the answer to what's bothering me but, that's not all either."
+            "text": "Trainer-san, always seems to have \nthe answer to what's bothering me \nbut, that's not all either.",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "The times he says we should think about things together, even if I can't think of any answers, he'll give me advice."
+            "text": "The times he says we should think about \nthings together, even if I can't think of \nany answers, he'll give me advice.",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "I want to be someone cool like that. Being able to analyze anything so effortlessly, someone like that-"
+            "text": "I want to be someone cool like that. Being \nable to analyze anything so effortlessly, \nsomeone like that-",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan's Father",
-            "text": "\"――――\""
+            "text": "\"――――\"",
+            "name": "Kitasan's Father"
         },
         {
-            "name": "Kitasan Black",
-            "text": "…eh?"
+            "text": "…eh?",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "… Well, that's…"
+            "text": "… \nWell, that's…",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "…"
+            "text": "…",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "I see, that's right. …it should have been so obvious, though."
+            "text": "I see, that's right. \n…it should have been so obvious, though.",
+            "name": "Kitasan Black"
         },
         {
-            "text": "At her father's words, Kitasan Black must have realized something. With the way she clenched her fists, it seems she had come to a decision."
+            "text": "At her father's words, Kitasan Black must have realized \nsomething. With the way she clenched her fists, it seems she \nhad come to a decision."
         }
     ]
 }

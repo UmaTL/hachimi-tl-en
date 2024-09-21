@@ -1,82 +1,84 @@
 {
     "text_block_list": [
         {
-            "text": "I waited for Seiun Sky prior to the start of training, but…"
+            "text": "I waited for Seiun Sky \nprior to the start of training, but…"
         },
-        {},
+        {
+            "text": ""
+        },
         {
             "text": "Since there was a huge racing event coming to Tracen Academy soon, the racetrack was filled with Uma Musume wanting to train."
         },
         {
-            "text": "With how crowded it is she's probably thinking \"if I can't give it my all, what's the point?\" And because of that she'll probably ditch"
+            "text": "With how crowded it is she's probably thinking \n\"if I can't give it my all, what's the point?\" \nAnd because of that she'll probably ditch"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Trainer-san, hello!!"
+            "text": "Trainer-san, hello!!",
+            "name": "Seiun Sky"
         },
         {
+            "text": "Today's a great day for training, doncha think!? \nI'm really itching to race right now!",
             "name": "Seiun Sky",
-            "text": "Today's a great day for training, doncha think!? I'm really itching to race right now!",
             "choice_data_list": [
                 "Did you eat something bad?",
                 "Did you eat something bad?"
             ]
         },
         {
+            "text": "Woah, that's how you react when the Uma Musume \nyou're training arrives? How depressing. I \nthought you'd be glad to see me.",
             "name": "Seiun Sky",
-            "text": "Woah, that's how you react when the Uma Musume you're training arrives? How depressing. I thought you'd be glad to see me.",
             "choice_data_list": [
                 "I just figured you'd ditch."
             ]
         },
         {
-            "name": "Seiun Sky",
-            "text": "No no, my next race is coming up soon, so I wouldn't dream of skipping out on training."
+            "text": "No no, my next race is coming up soon, \nso I wouldn't dream of skipping out on training.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Plus I'm feeling great today! I can't just sit around, I just wanna run!"
+            "text": "Plus I'm feeling great today! \nI can't just sit around, I just wanna run!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "So I'm gonna do just that! Oh, by the way…"
+            "text": "So I'm gonna do just that! \nOh, by the way…",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Trainer-san, you'll be keeping a close eye on me, won't you? I'm looking forward to being rewarded for all of my hard work after this…"
+            "text": "Trainer-san, you'll be keeping a close eye on \nme, won't you? I'm looking forward to being \nrewarded for all of my hard work after this…",
+            "name": "Seiun Sky"
         },
         {
-            "text": "Just like she said, Seiun Sky ran with great form in an aggressive manner. Then…"
+            "text": "Just like she said, Seiun Sky ran with \ngreat form in an aggressive manner. Then…"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Hey hey, got a minute?"
+            "text": "Hey hey, got a minute?",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "The course is packed today, and there's not much room to run, so would you mind if I ran alongside you?"
+            "text": "The course is packed today, and there's not much room to run, so would you mind if I ran alongside you?",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Horsegirl A",
-            "text": "Yes, that's fine. Securing a spot on the track today's really tough, huh?"
+            "text": "Yes, that's fine. Securing a spot \non the track today's really tough, huh?",
+            "name": "Horsegirl A"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Hmm, who should I train with next… Oh!"
+            "text": "Hmm, who should I train with next… Oh!",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Excuse me. Until a separate spot opens up, would you mind if I ran with you?"
+            "text": "Excuse me. Until a separate spot opens up, \nwould you mind if I ran with you?",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Horsegirl B",
-            "text": "Guess that's fine. Let's go for a run then."
+            "text": "Guess that's fine. \nLet's go for a run then.",
+            "name": "Horsegirl B"
         },
         {
-            "text": "It's rare for Seiun Sky to show off her abilities, so seeing her call out and train with others was stunning."
+            "text": "It's rare for Seiun Sky to show off her \nabilities, so seeing her call out and train with \nothers was stunning."
         },
         {
-            "text": "Looking closely, all the girls she raced with were favored to win in the upcoming race."
+            "text": "Looking closely, all the girls she raced with \nwere favored to win in the upcoming race."
         },
         {
             "text": "Then that means… she's doing this to gather information on her rivals? If so…",
@@ -86,53 +88,53 @@
             ]
         },
         {
-            "text": "Since Seiun Sky's been putting in so much effort, I should give it my all as well."
+            "text": "Since Seiun Sky's been putting in so much \neffort, I should give it my all as well."
         },
         {
-            "name": "Seiun Sky",
-            "text": "Haa… How was today's training? Don't you think I did a great job despite how crowded it was?"
+            "text": "Haa… How was today's training? Don't you think I \ndid a great job despite how crowded it was?",
+            "name": "Seiun Sky"
         },
         {
+            "text": "Don't you think I deserve a \nreward for my hard work today?",
             "name": "Seiun Sky",
-            "text": "Don't you think I deserve a reward for my hard work today?",
             "choice_data_list": [
                 "You did amazing, here's your reward.",
                 "You did amazing, here's your reward."
             ]
         },
         {
-            "name": "Seiun Sky",
-            "text": "Oh, what's this data? Hmm…"
+            "text": "Oh, what's this data? Hmm…",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "The first girl that I raced against has a habit of getting overzealous and pushing too hard to get ahead…"
+            "text": "The first girl that I raced against has a habit of \ngetting overzealous and pushing too hard to get ahead…",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "The second girl I raced against seemed to struggle when she was directly behind me…"
+            "text": "The second girl I raced against seemed to \nstruggle when she was directly behind me…",
+            "name": "Seiun Sky"
         },
         {
+            "text": "Oh… I get it now. You were preparing \nthis \"reward\" for me while I was training.",
             "name": "Seiun Sky",
-            "text": "Oh… I get it now. You were preparing this \"reward\" for me while I was training.",
             "choice_data_list": [
                 "Are you happy with it?"
             ]
         },
         {
-            "name": "Seiun Sky",
-            "text": "Yup, this is perfect. I knew it, you know me so well."
+            "text": "Yup, this is perfect. \nI knew it, you know me so well.",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "Thanks to this wonderful \"reward\", Sei-chan's bond level has increased by one. Pirorirori～n♪"
+            "text": "Thanks to this wonderful \"reward\", Sei-chan's bond level has increased by one. Pirorirori～n♪",
+            "name": "Seiun Sky"
         },
         {
-            "name": "Seiun Sky",
-            "text": "If things stay like this, we might just catch something big in the upcoming race… Just kidding."
+            "text": "If things stay like this, we might just catch \nsomething big in the upcoming race… Just kidding.",
+            "name": "Seiun Sky"
         },
         {
-            "text": "She seems happy with the data I gave her. After all, she looked back at it multiple times."
+            "text": "She seems happy with the data I gave her. After \nall, she looked back at it multiple times."
         }
     ]
 }

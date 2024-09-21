@@ -1,221 +1,221 @@
 {
     "text_block_list": [
         {
-            "text": "Several days after the Selection Race. There was a question that had been on my mind the whole time. ……maybe that's why I found myself heading to that river bank again."
+            "text": "Several days after the Selection Race. There was a question that \nhad been on my mind the whole time. ……maybe that's why I found \nmyself heading to that river bank again."
         },
         {
-            "text": "I saw Yaeno Muteki here the day before the race, but the Yaeno Muteki I saw the day of the race――",
+            "text": "I saw Yaeno Muteki here the day before the race, but the Yaeno \nMuteki I saw the day of the race――",
             "choice_data_list": [
                 "(Why was she so different……？)"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "――――Haa!!"
+            "text": "――――Haa!!",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……！ You are――"
+            "text": "……！ You are――",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……in the spectator seats at the Selection Race, I saw that you happened to be there. While it's a bit late, thank you for taking the trouble to attend."
+            "text": "……in the spectator seats at the Selection Race, I saw that you \nhappened to be there. While it's a bit late, thank you for taking \nthe trouble to attend.",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "However…… even though you took the trouble to come see me, \nI showed you such a disappointing run…… I am ashamed……",
             "name": "Yaeno Muteki",
-            "text": "However…… even though you took the trouble to come see me, I showed you such a disappointing run…… I am ashamed……",
             "choice_data_list": [
-                "……you were completely different during the race",
-                "……you were completely different during the race"
+                "<size=33>……you were completely different during the race</size>",
+                "<size=33>……you were completely different during the race</size>"
             ]
         },
         {
-            "name": "Yaeno Muteki",
             "text": "……！",
+            "name": "Yaeno Muteki",
             "choice_data_list": [
                 "Which is the real you?",
                 "Which is the real you?"
             ]
         },
         {
+            "text": "…………you have a very discerning eye, it seems.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "If I had to answer that question, then the real me―― \nwas most likely the one you saw during the race.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Unable to control that 『Ardent Flame』 within myself, letting it \nrage while running…… that immaturity, is my foundation.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Shut up, shut up！ Because…… because it pisses me off！！ \nIt makes me sick！！ Just like that, my vision turns red……！！",
+            "name": "Young Yaeno Muteki"
+        },
+        {
+            "text": "……when I was young, I often behaved violently, letting my \nemotions and desires run wild like a beast. Solving everything I \ndidn't like using power, like some kind of brigand.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Without knowing what I should do, being controlled by my inner \nfuror, injuring those around me, ignoring others……",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "It's fine, I'll just beat everyone！！ All those weaklings, \nbeating all of them, and then…… alone by myself……",
+            "name": "Young Yaeno Muteki"
+        },
+        {
+            "text": "『Weaklings』 is it? Hmmm. \n……if that is the case, then as long as I am here, you shall never be alone.",
+            "name": "Yaeno Muteki's Grandfather"
+        },
+        {
+            "text": "Ah…… G-…… Grandpa……",
+            "name": "Young Yaeno Muteki"
+        },
+        {
+            "text": "Come along, it's long past time you came to the dojo, Yaeno. \n……it's time to train with Grandpa.",
+            "name": "Yaeno Muteki's Grandfather"
+        },
+        {
+            "text": "For that exceedingly immature me, the one who persistently \nimparted upon me―― was the head of the 『Kongou \nYaegaki Ryuu』, my grandfather.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "My grandfather said this. That inner fury―― if you continue to \nallow this 『Ardent Flame』 to rage, you will naturally continue to \nsuffer the consequences.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to \ntemper that wild tendency. By doing this, you may eventually \nreach the state of 『Tranquil Water』.",
             "name": "Yaeno Muteki",
-            "text": "…………you have a very discerning eye, it seems."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "If I had to answer that question, then the real me―― was most likely the one you saw during the race."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "Unable to control that 『Ardent Flame』 within myself, letting it rage while running…… that immaturity, is my foundation."
-        },
-        {
-            "name": "Young Yaeno Muteki",
-            "text": "Shut up, shut up！ Because…… because it pisses me off！！ It makes me sick！！ Just like that, my vision turns red……！！"
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "……when I was young, I often behaved violently, letting my emotions and desires run wild like a beast. Solving everything I didn't like using power, like some kind of brigand."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "Without knowing what I should do, being controlled by my inner furor, injuring those around me, ignoring others……"
-        },
-        {
-            "name": "Young Yaeno Muteki",
-            "text": "It's fine, I'll just beat everyone！！ All those weaklings, beating all of them, and then…… alone by myself……"
-        },
-        {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "『Weaklings』 is it? Hmmm. ……if that is the case, then as long as I am here, you shall never be alone."
-        },
-        {
-            "name": "Young Yaeno Muteki",
-            "text": "Ah…… G-…… Grandpa……"
-        },
-        {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "Come along, it's long past time you came to the dojo, Yaeno. ……it's time to train with Grandpa."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "For that exceedingly immature me, the one who persistently imparted upon me―― was the head of the 『Kongou Yaegaki Ryuu』, my grandfather."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "My grandfather said this. That inner fury―― if you continue to allow this 『Ardent Flame』 to rage, you will naturally continue to suffer the consequences."
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to temper that wild tendency. By doing this, you may eventually reach the state of 『Tranquil Water』.",
             "choice_data_list": [
                 "And were you able to calm down？",
                 "And were you able to calm down？"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Yes. Due to the days of training with my exemplary grandfather, even if just a little, I've learned to keep myself in check, and obtained some measure of harmony."
+            "text": "Yes. Due to the days of training with my exemplary grandfather, \neven if just a little, I've learned to keep myself in check, and \nobtained some measure of harmony.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "However, even this 『Tranquil Water』, was unable to quell the 『Ardent Flame』 within me……"
+            "text": "However, even this 『Tranquil Water』, \nwas unable to quell the 『Ardent Flame』 within me……",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Perhaps fearing I would once again fall in to madness and injure another, one day, my grandfather inquired of me―"
+            "text": "Perhaps fearing I would once again fall in to madness and injure \nanother, one day, my grandfather inquired of me―",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "On that path, without bringing harm to others, rather reveling jointly in contention. On that path, this fury becomes a ray of light. ――What would that path be？"
+            "text": "On that path, without bringing harm to others, rather reveling \njointly in contention. On that path, this fury becomes a ray of \nlight. ――What would that path be？",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……I shall ask this of you as well. The answer to my grandfather's question, would you happen to know？"
+            "text": "……I shall ask this of you as well. The answer to my grandfather's \nquestion, would you happen to know？",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "……there was one thing that came to mind. Something where the goal is not to injure, but to compete and enjoy oneself. That's――",
+            "text": "……there was one thing that came to mind. Something where the goal \nis not to injure, but to compete and enjoy oneself. That's――",
             "choice_data_list": [
                 "A 『Race』……！",
                 "A 『Race』……！"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "――As I thought, you're quite discerning."
+            "text": "――As I thought, you're quite discerning.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Coming to know of races, granted me some measure of contentment as I had found my path."
+            "text": "Coming to know of races, granted me some measure of contentment \nas I had found my path.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Using martial arts to temper this fury, harnessing this fury during races. These violent emotions within me now had an outlet, they could be channeled――"
+            "text": "Using martial arts to temper this fury, harnessing this fury \nduring races. These violent emotions within me now had an outlet, \nthey could be channeled――",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "And thus…… I realized. On this path, if I could obtain splendid results, I could take pride in myself…… and properly repay him."
+            "text": "And thus…… I realized. On this path, if I could obtain splendid \nresults, I could take pride in myself…… and properly repay him.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Even if I'm immature…… even though I've done nothing but cause my grandfather trouble, and worry. That I could still show him that I can hold my chest out in pride……"
+            "text": "Even if I'm immature…… even though I've done nothing but cause my \ngrandfather trouble, and worry. That I could still show him that \nI can hold my chest out in pride……",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "However……――！"
+            "text": "However……――！",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "Even on this path！ Even in the race, I've been made aware that I \ncan still be overcome by these emotions……！！",
             "name": "Yaeno Muteki",
-            "text": "Even on this path！ Even in the race, I've been made aware that I can still be overcome by these emotions……！！",
             "choice_data_list": [
                 "Yaeno Muteki……"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "I need to be straightened out！ These overflowing emotions, continue to disturb the immature 『Ardent Flame』 within me！"
+            "text": "I need to be straightened out！ These overflowing emotions, \ncontinue to disturb the immature 『Ardent Flame』 within me！",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "If I… can't handle at least that much…… if I continue staying this immature, no matter how long passes…… I won't be able to repay him……！！"
+            "text": "If I… can't handle at least that much…… if I continue \nstaying this immature, no matter how long passes…… \nI won't be able to repay him……！！",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "I need to continue training…… My training, was insufficient……"
+            "text": "I need to continue training…… \nMy training, was insufficient……",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "Being unable to control herself, while carrying that anguish―― Even with that, Yaeno Muteki was earnestly trying to overcome this hurdle."
+            "text": "Being unable to control herself, while carrying \nthat anguish―― Even with that, Yaeno Muteki was \nearnestly trying to overcome this hurdle."
         },
         {
-            "text": "While standing there in front of her, these words naturally came out―",
+            "text": "While standing there in front of her, \nthese words naturally came out―",
             "choice_data_list": [
                 "Will you let me help you？",
                 "Will you let me help you？"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Eh――"
+            "text": "Eh――",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "…………for what reason？ From the perspective of a trainer, \nmy current self is nothing but an illーtempered Uma Musume, there is \nno merit in being concerned with me.",
             "name": "Yaeno Muteki",
-            "text": "…………for what reason？ From the perspective of a trainer, my current self is nothing but an illーtempered Uma Musume, there is no merit in being concerned with me.",
             "choice_data_list": [
                 "Merit has nothing to do with this"
             ]
         },
         {
-            "text": "To show her that that was not the reason―― I continued to look straight in to her eyes.",
+            "text": "To show her that that was not the reason―― \nI continued to look straight in to her eyes.",
             "choice_data_list": [
                 "I want to cheer you on",
                 "I want to cheer you on"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……――"
+            "text": "……――",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "…………you're quite sincere, aren't you? Your words, and those eyes…… so straight-forward, as if you believe you can't be mistaken."
+            "text": "…………you're quite sincere, aren't you? Your words, \nand those eyes…… so straight-forward, as if \nyou believe you can't be mistaken.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……truthfully, I'm fully aware that I'm at a complete loss. That's why…… I would also like to request your help."
+            "text": "……truthfully, I'm fully aware that I'm at a complete loss. \nThat's why…… I would also like to request your help.",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "In order to help me find a way to control this 『Ardent Flame』…… \nwould I be able to request your assistance?",
             "name": "Yaeno Muteki",
-            "text": "In order to help me find a way to control this 『Ardent Flame』…… would I be able to request your assistance?",
             "choice_data_list": [
                 "Of course！"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……you have my gratitude."
+            "text": "……you have my gratitude.",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "Yaeno Muteki has a large hurdle in front of her. A way to overcome it…… from now on, together with her, we'd try to find a way!"
+            "text": "Yaeno Muteki has a large hurdle in front of \nher. A way to overcome it…… from now on, together \nwith her, we'd try to find a way!"
         }
     ]
 }

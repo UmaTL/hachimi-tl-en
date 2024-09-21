@@ -1,133 +1,133 @@
 {
     "text_block_list": [
         {
-            "text": "It had been a few days since I had become a Pro Trainer at Tracen Academy. Today, too, I hadn't found an Uma Musume to be in charge of."
+            "text": "It had been a few days since I had become a \nPro Trainer at Tracen Academy. Today, too, \nI hadn't found an Uma Musume to be in charge of."
         },
         {
+            "text": "If you slouch like that, won't it make the other party uneasy? \nIt's fine if you have more self-confidence.",
             "name": "Sensei",
-            "text": "If you slouch like that, won't it make the other party uneasy? It's fine if you have more self-confidence.",
             "choice_data_list": [
                 "Sensei……"
             ]
         },
         {
-            "text": "The former trainer who has been mentoring me since I started aiming to be a Pro Trainer, tried consoling me."
+            "text": "The former trainer who has been mentoring me since I \nstarted aiming to be a Pro Trainer, tried consoling me."
         },
         {
-            "name": "Sensei",
-            "text": "You've been saying it for a long time, that you want to help an Uma Musume aim for their dream, right? That's why I've had such high expetations of you."
+            "text": "You've been saying it for a long time, that you want \nto help an Uma Musume aim for their dream, right? \nThat's why I've had such high expetations of you.",
+            "name": "Sensei"
         },
         {
-            "text": "……even seeing me in such a pathetic state, Sensei still said he had such expectations of me. There was not even a glimmer of doubt in his eyes.",
+            "text": "……even seeing me in such a pathetic state, \nSensei still said he had such expectations of me. \nThere was not even a glimmer of doubt in his eyes.",
             "choice_data_list": [
                 "Expectations, huh……"
             ]
         },
         {
-            "name": "???",
-            "text": "If you're fine with me, then I'd be glad to!"
+            "text": "If you're fine with me, then I'd be glad to!",
+            "name": "???"
         },
         {
-            "name": "Kouhai Uma Musume",
-            "text": "Thanks alot, Top Ro-senpai! I really admire senpai's straight- forward running……I'm sorry for asking something unreasonable!"
+            "text": "Thanks alot, Top Ro-senpai! I really admire senpai's straight-\nforward running……I'm sorry for asking something unreasonable!",
+            "name": "Kouhai Uma Musume"
         },
         {
+            "text": "It's fine! I'm not sure if there's really anything you can learn \nfrom my running……but I'll show you as many times as you want.",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "If you have any questions, I'll answer them afterwards, okay? \nThere's no need to hold back. Well then, let's get to it――",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Haaa- haa haa haa haa haa!",
+            "name": "T M Opera O"
+        },
+        {
+            "text": "It seems the Goddess of Fate has bound us together. \nCome now, let us take to the stage!",
+            "name": "T M Opera O"
+        },
+        {
+            "text": "Even without the curtain rising, an etude resounds! \nIs that not so, Ayabe-san!?",
+            "name": "T M Opera O"
+        },
+        {
+            "text": "……I have no idea what you're talking about. \nStop trying to get me involved.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Opera O-chan and Ayabe-san! Looks like both \nof you are training too. What a coincidence!",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Eeh, eeh……that means we'll get to see all 3 of you run!? \nThank you very much! I'm looking forward to it.",
+            "name": "Kouhai Uma Musume"
+        },
+        {
+            "text": "Like I said, don't――",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "An outstanding proposal!!!!!",
+            "name": "T M Opera O"
+        },
+        {
+            "text": "Wai-……",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Fufuu. Since we have the chance, let's do some parallel running! \nThey'll definitely be able to learn more, I think.",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "But……if we're doing this, I won't lose!",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "At those words, the look in T M Opera O \nand Admire Vega's eyes changed."
+        },
+        {
+            "text": "Excuse me, the Trainer-san over there! \nWould you mind handling the starting signal!?",
             "name": "Narita Top Road",
-            "text": "It's fine! I'm not sure if there's really anything you can learn from my running……but I'll show you as many times as you want."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "If you have any questions, I'll answer them afterwards, okay? There's no need to hold back. Well then, let's get to it――"
-        },
-        {
-            "name": "T M Opera O",
-            "text": "Haaa- haa haa haa haa haa!"
-        },
-        {
-            "name": "T M Opera O",
-            "text": "It seems the Goddess of Fate has bound us together. Come now, let us take to the stage!"
-        },
-        {
-            "name": "T M Opera O",
-            "text": "Even without the curtain rising, an etude resounds! Is that not so, Ayabe-san!?"
-        },
-        {
-            "name": "Admire Vega",
-            "text": "……I have no idea what you're talking about. Stop trying to get me involved."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Opera O-chan and Ayabe-san! Looks like both of you are training too. What a coincidence!"
-        },
-        {
-            "name": "Kouhai Uma Musume",
-            "text": "Eeh, eeh……that means we'll get to see all 3 of you run!? Thank you very much! I'm looking forward to it."
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Like I said, don't――"
-        },
-        {
-            "name": "T M Opera O",
-            "text": "An outstanding proposal!!!!!"
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Wai-……"
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Fufuu. Since we have the chance, let's do some parallel running! They'll definitely be able to learn more, I think."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "But……if we're doing this, I won't lose!"
-        },
-        {
-            "text": "At those words, the look in T M Opera O and Admire Vega's eyes changed."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Excuse me, the Trainer-san over there! Would you mind handling the starting signal!?",
             "choice_data_list": [
                 "Eh? Ahh, okay……"
             ]
         },
         {
-            "text": "These 3 were all Uma Musume at the academy that were the center of many rumors. Narita Top Road and Admire Vega, especially, were getting alot of attention.",
+            "text": "These 3 were all Uma Musume at the academy that were \nthe center of many rumors. Narita Top Road and Admire \nVega, especially, were getting alot of attention.",
             "choice_data_list": [
                 "――Start!"
             ]
         },
         {
-            "text": "At the same time as the starting signal, there were the sounds of strong kicks in the turf."
+            "text": "At the same time as the starting signal, \nthere were the sounds of strong kicks in the turf."
         },
         {
-            "name": "Narita Top Road",
-            "text": "The ground is in good condition……! With this, there should be no problems!!"
+            "text": "The ground is in good condition……! \nWith this, there should be no problems!!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Haaaaa……!"
+            "text": "Haaaaa……!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "T M Opera O",
-            "text": "The moment we shine brightest, is something I know……! Let it ring out, a song, a prelude from the ensemble!"
+            "text": "The moment we shine brightest, is something I know……! \nLet it ring out, a song, a prelude from the ensemble!",
+            "name": "T M Opera O"
         },
         {
-            "name": "Admire Vega",
-            "text": "……Haa……! Move……out of the way……!"
+            "text": "……Haa……! \nMove……out of the way……!",
+            "name": "Admire Vega"
         },
         {
-            "name": "Narita Top Road",
-            "text": "! Opera O-chan, Ayabe-san……! ……I'm still……not done yet……!"
+            "text": "! Opera O-chan, Ayabe-san……! \n……I'm still……not done yet……!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "All 3",
-            "text": "Haaaaaaaaaaa!!"
+            "text": "Haaaaaaaaaaa!!",
+            "name": "All 3"
         },
         {
-            "text": "T M Opera O and Admire Vega both ran splendidly. Both of them had their own unique appeal."
+            "text": "T M Opera O and Admire Vega both ran splendidly. \nBoth of them had their own unique appeal."
         },
         {
             "text": "However, the one that really caught my eye was――"
@@ -136,88 +136,88 @@
             "text": "Narita Top Road……!"
         },
         {
-            "text": "She had a strong form with a long stride. It was a running style that relied on her speed."
+            "text": "She had a strong form with a long stride. \nIt was a running style that relied on her speed."
         },
         {
-            "text": "I didn't feel any hesitation in her running that sought to take the lead. It was almost like she was screaming that the path ahead, her future, was shining brightly――"
+            "text": "I didn't feel any hesitation in her running that sought \nto take the lead. It was almost like she was screaming \nthat the path ahead, her future, was shining brightly――"
         },
         {
-            "text": "……it was exciting. Countless possible training menus came to mind, as if my heart was telling me to move forward."
+            "text": "……it was exciting. Countless possible training menus came \nto mind, as if my heart was telling me to move forward."
         },
         {
-            "name": "Narita Top Road",
-            "text": "Huuu-……what a good feeling! Fufuu, it was an unexpected chance for parallel running, but it was fun~!"
+            "text": "Huuu-……what a good feeling! Fufuu, it was an unexpected \nchance for parallel running, but it was fun~!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "The kouhai were really fired up too~. Next time, so I can show them an even more amazing run, I need to keep training!"
+            "text": "The kouhai were really fired up too~. Next time, so I can \nshow them an even more amazing run, I need to keep training!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "――Ah, Trainer-san. Thank you for handling the starting signal earlier!"
+            "text": "――Ah, Trainer-san.  \nThank you for handling the starting signal earlier!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "It was difficult to change yourself so suddenly. I still couldn't proudly call myself a Pro Trainer, yet."
+            "text": "It was difficult to change yourself so suddenly. \nI still couldn't proudly call myself a Pro Trainer, yet."
         },
         {
-            "text": "But, I should be sincere and tell her straight-forwardly, just like her run.",
+            "text": "But, I should be sincere and tell her \nstraight-forwardly, just like her run.",
             "choice_data_list": [
                 "I'm looking to scout an Uma Musume",
                 "I'm looking to scout an Uma Musume"
             ]
         },
         {
+            "text": "Ah, so that's why! \nThen, does that mean you're a new trainer?",
             "name": "Narita Top Road",
-            "text": "Ah, so that's why! Then, does that mean you're a new trainer?",
             "choice_data_list": [
                 "Yeah, I am",
                 "Yeah, I am"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Oooh-! It's pretty nerve-wracking at the start, huh……! When I first came to Tracen Academy, I was really nervous too!"
+            "text": "Oooh-! It's pretty nerve-wracking at the start, huh……! \nWhen I first came to Tracen Academy, I was really nervous too!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "When I was growing up, the coach that was taking care of me, talked alot about Tracen Academy, so when I got in it was really……really amazing!"
+            "text": "When I was growing up, the coach that was taking \ncare of me, talked alot about Tracen Academy, \nso when I got in it was really……really amazing!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Ah! Um, is there anything I can help with? If there's someone you want to talk to, I can go get them."
+            "text": "Ah! Um, is there anything I can help with? \nIf there's someone you want to talk to, I can go get them.",
+            "name": "Narita Top Road"
         },
         {
-            "text": "In that case, there was something I wanted to ask her. I took a deep breath and stood straight.",
+            "text": "In that case, there was something I wanted to ask her. \nI took a deep breath and stood straight.",
             "choice_data_list": [
                 "Is there a dream you're aiming for?",
                 "Is there a dream you're aiming for?"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Eh? My dream, is it? Now that I think about it, this might be the first time I've put it in to words."
+            "text": "Eh? My dream, is it? Now that I think about it, \nthis might be the first time I've put it in to words.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "I want to――live up to everyone's expectations!",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "Everyone's expectations……"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Yeah! My family and friends, kouhai…… everyone that's cheering for me. And also――"
+            "text": "Yeah! My family and friends, kouhai…… \neveryone that's cheering for me. And also――",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "If there are Uma Musume that view me as a rival, then I want to be able to run in a way that won't disappoint them."
+            "text": "If there are Uma Musume that view me as a rival, then I \nwant to be able to run in a way that won't disappoint them.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "I want to be able to live up to those expectations!"
+            "text": "I want to be able to live up to those expectations!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "It wasn't an unusual answer. However, I wonder why. Compared to anyone before, it strongly――resounded within me."
+            "text": "It wasn't an unusual answer. However, I wonder why. \nCompared to anyone before, it strongly――resounded within me."
         },
         {
             "text": "I took another deep breath, looking directly at Narita Top Road.",
@@ -227,16 +227,16 @@
             ]
         },
         {
-            "name": "Narita Top Road",
             "text": "Eh……does that mean……",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "I want to be your trainer",
                 "I want to be your trainer"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "A-are you okay with that!? Wah, I'm looking forward to it!"
+            "text": "A-are you okay with that!? \nWah, I'm looking forward to it!",
+            "name": "Narita Top Road"
         },
         {
             "text": "Would I be rejected again? But, I had still wanted to say it――"
@@ -248,11 +248,11 @@
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Eh?"
+            "text": "Eh?",
+            "name": "Narita Top Road"
         },
         {
-            "text": "We ended up just staring at each other, an awkward silence between us……"
+            "text": "We ended up just staring at each other, \nan awkward silence between us……"
         }
     ]
 }

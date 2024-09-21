@@ -1,0 +1,162 @@
+{
+    "text_block_list": [
+        {
+            "text": "It's been a few days since Tap Dance City and I \nstarted chasing our dreams――",
+            "choice_data_list": [
+                "<size=38>(Oh? There's a sketchbook on the ground.)</size>",
+                "<size=38>(Oh? There's a sketchbook on the ground.)</size>"
+            ]
+        },
+        {
+            "text": "I pick it up and take a look inside. It's full of \nillustrations and comics about races. \nAnd they look really good, too."
+        },
+        {
+            "text": "――<i>Fantastic!</i>",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Whoa!"
+            ]
+        },
+        {
+            "text": "You can really tell she's putting her heart and soul into the last spurt! \nTheir hooves are ripping up the turf and the audience is losing their \nvoices from cheering so hard for the battle on the final straight!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "It's awesome, I can really feel the sense of wonder and adventure! \nHey, did you draw this, Trainer?!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "<size=42>N-No... Someone must have dropped it.</size>",
+                "<size=42>N-No... Someone must have dropped it.</size>"
+            ]
+        },
+        {
+            "text": "Then it must be from a student! Wow, who knew \nthere was someone here who could draw like this?!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "...Let's go find her, Trainer! We'll uncover \nthe mystery of the legend who created this!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "You mean, return it to its owner...?"
+            ]
+        },
+        {
+            "text": "Hmm... \"Returning it to its owner\" is lacking in impact. \nYou gotta spice up the phrasing a bit!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "How about... This: \n\"We're going on a journey to return her lost dreams!\"",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "――And with that, Tap Dance City and I set out \nto find the owner of the sketchbook."
+        },
+        {
+            "text": "...Although, there's no name written anywhere. \nThis might end up being a bit of a challenge――"
+        },
+        {
+            "text": "――Man, oh man. Still no trace of her.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "As expected of someone so talented! \nI'm only getting more excited to meet her!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "――I'm not... talented at all.",
+            "name": "???"
+        },
+        {
+            "text": "I look into the direction of that voice, \nand there I see a horsegirl standing there alone.",
+            "choice_data_list": [
+                "Is this sketchbook yours?",
+                "Is this sketchbook yours?"
+            ]
+        },
+        {
+            "text": "Yes... But I don't want it back. \nPlease throw it away...",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "<i>Why?</i> \nHow could you throw away something so amazing...?",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "... \nI already... threw it away myself!",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "You see, I've wanted to be a manga artist even before joining \nTracen Academy. I've continued to draw in secret ever since.",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "But... Yesterday, one of my friends saw it and laughed at me... \nThat was the last straw for me.",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "I've had to share my passion with two different dreams, \nand it's been detrimental for both... It's about time I let go \nof what remnants of my old dream I still have.",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "...Mere remnants? <i>No, no, no, no.</i> \nThat's where you're wrong. You ought to hold onto that book!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "...! What makes you think you can say that to me?!",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "I can feel it. I don't know anything about manga, \nbut I can feel your passion just by looking at it.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "This book, it's a treasure chest full of your passion for epic tales!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "...!",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "You must never throw it away. Without it, \nyou'll never be able to run again the same way.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Choosing between dreams... That's merely something \nyou made up in your head! Let yourself be guided by both!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "... Haha... \nYou make it sound so easy...",
+            "name": "Horsegirl A"
+        },
+        {
+            "text": "In the end, she took the sketchbook back from Tap Dance City."
+        },
+        {
+            "text": "And she promised to never throw it away again."
+        },
+        {
+            "text": "Look, we managed to return the lost dreams to her after all.",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "The way you described it earlier...",
+                "The way you described it earlier..."
+            ]
+        },
+        {
+            "text": "Ah, you mean the treasure chest full of your passion for epic tales? \nHaha! Well, you've got one too, Trainer.",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "text": "Your notebook in which you write down our training plans! \nIt holds our dreams. It's our adventure map!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "I just showed her why she should continue her journey. \nI showed her the joy of chasing after adventure, that's all!",
+            "name": "Tap Dance City"
+        }
+    ]
+}

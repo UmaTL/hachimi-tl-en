@@ -1,289 +1,289 @@
 {
     "text_block_list": [
         {
-            "text": "For a trainer without an Umamusume, the best course of action is to familiarize oneself with them in the meantime.",
+            "text": "For a trainer without an Umamusume, the best course of action is \nto familiarize oneself with them in the meantime.",
             "choice_data_list": [
-                "(Time to give it my all observing today too!)"
+                "<size=37>(Time to give it my all observing today, too!)</size>"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "Huff, huff, huff, huff…!"
+            "text": "Huff, huff, huff, huff...!",
+            "name": "Agnes Digital"
         },
         {
-            "text": "When I arrived at the training grounds, I saw Agnes Digital running on the dirt track."
+            "text": "When I arrived at the training grounds, I saw Agnes Digital \nrunning on the dirt track."
         },
         {
-            "text": "She pushed against the dirt with impressive strength, despite her small size. In a mere flash, she was already rushing down the final straight.",
+            "text": "She pushed against the dirt with impressive strength, despite \nher small size. \nIn a mere flash, she was already rushing down the final straight.",
             "choice_data_list": [
-                "(She looks pretty used to it… Has she \nalready debuted?)",
-                "(She looks pretty used to it… Has she \nalready debuted?)"
+                "<size=29>(She looks pretty used to it... Has she already debuted?)</size>",
+                "<size=29>(She looks pretty used to it... Has she already debuted?)</size>"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "Whew…"
+            "text": "Whew...",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Instructor",
-            "text": "Good work, Agnes Digital-san! You were on point today too! Keep it up, and you're in good shape for the Selection Race!"
+            "text": "Good work, Agnes Digital-san! You were on point today too! \nKeep it up, and you're in good shape for the Selection Race!",
+            "name": "Instructor"
         },
         {
-            "name": "Agnes Digital",
-            "text": "Huh…!? The… Selection Race…?"
+            "text": "Huh...!? \nThe... Selection Race...?",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "That's kind of… Er… Sorry, I need some time to think about it…"
+            "text": "That's kind of... Er... \nSorry, I need some time to think about it...",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "A-Anyway, I'm off to the turf track now…!"
+            "text": "A-Anyway, I'm off to the turf track now...!",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Instructor",
-            "text": "Ah… right, see you later! Don't push yourself too hard, all right?"
+            "text": "Ah... right, see you later! Don't push yourself too hard, all right?",
+            "name": "Instructor"
         },
         {
-            "name": "Instructor",
-            "text": "Training that hard on turf and dirt tracks every day? That's twice as much work as the other girls. …It's really impressive."
+            "text": "Training that hard on turf <i>and</i> dirt tracks every day? That's twice \nas much work as the other girls. ...It's really impressive.",
+            "name": "Instructor"
         },
         {
-            "text": "This time, she took off onto the turf. I was taken aback by how nimbly she ran. Even though I was so sure that she'd specialized in running on dirt——"
+            "text": "This time, she took off onto the turf. I was taken aback by how \nnimbly she ran. Even though I was so sure that she'd specialized \nin running on dirt――"
         },
         {
-            "text": "I took her time with a stopwatch, just out of curiousity, and when I saw her time, my eyes went wide."
+            "text": "I took her time with a stopwatch, just out of curiousity, and \nwhen I saw her time, my eyes went wide."
         },
         {
-            "text": "She was a great runner on dirt <i>and</i> turf. But from what I overheard, she hadn't even run in the Selection Race, much less debuted.",
+            "text": "She was a great runner on dirt <i>and</i> turf. But from what I \noverheard, she hadn't even run in the Selection Race, much less \ndebuted.",
             "choice_data_list": [
                 "(Maybe there's some kind of issue.)",
                 "(Maybe there's some kind of issue.)"
             ]
         },
         {
-            "text": "I wanted to know what was going on, so I made my way down to the track to hear it from her."
+            "text": "I wanted to know what was going on, so I made my way down to \nthe track to hear it from her."
         },
         {
-            "name": "Agnes Digital",
-            "text": "Hoo-whee～… As always, the track after Umamusume-chans finish running is just THE BEST!"
+            "text": "Hoo-whee~.... \nAs always, the track after Umamusume-chans finish running is \njust <i>THE BEST!</i>",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "If I keep this up, I'll have the best seat in the house no matter what kind of race it is! Mufufu, there's my virtuous deed for the day!"
+            "text": "If I keep this up, I'll have the best seat in the house no matter \n<i>what</i> kind of race it is! \nMufufu, there's my virtuous deed for the day!",
+            "name": "Agnes Digital"
         },
         {
+            "text": "Oh, but that was cutting it pretty close... Almost went and signed \nup for the Selection Race. I'd never be able to live that down~.",
             "name": "Agnes Digital",
-            "text": "Oh, but that was cutting it pretty close… Almost went and signed up for the Selection Race. I'd never be able to live that down～.",
             "choice_data_list": [
                 "You wouldn't?",
                 "You wouldn't?"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "I wouldn't. I'm still mad at myself for almost making such a puffed-rice-brained decisio——"
+            "text": "I wouldn't. I'm still mad at myself for almost making such a \npuffed-rice-brained decisio――",
+            "name": "Agnes Digital"
         },
         {
+            "text": "――Wait, <i>HUH!?</i> What...!? \n<i>Whom</i>...!?",
             "name": "Agnes Digital",
-            "text": "——Wait, <i>HUH!?</i> What…!? Whom…!?",
             "choice_data_list": [
                 "It's me again."
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "Oh, it's just you. The Umamusume-chan fan from the other day. Hello, hello～."
+            "text": "Oh, it's just you. The Umamusume-chan fan from the other day. \nHello, hello~.",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "So, how've you been? You been doing those virtuous deeds?"
+            "text": "So, how've you been? You been doing those virtuous deeds?",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "I'm still out here living my worshipful life. Saying grace to my faves. Giving thanks for the bounty of their <i>moe.</i> Sometimes I get so emotional I just start to cry——"
+            "text": "I'm still out here living my worshipful life. Saying grace to my \nfaves. Giving thanks for the bounty of their <i>moe</i>. Sometimes I get \nso emotional I just start to cry――",
+            "name": "Agnes Digital"
         },
         {
+            "text": "――Wait, not now!! \nDid you. Hear that first bit...!?",
             "name": "Agnes Digital",
-            "text": "——Wait, not now!! Did you. Hear that first bit…!?",
             "choice_data_list": [
                 "Yep.",
                 "Yup."
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "Ah. Knew it. So you heard me…"
+            "text": "Ah. Knew it. So you heard me...",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "It shouldn't be too hard to explain, if you can bear with me going delulu about my faves…"
+            "text": "It shouldn't be too hard to explain, if you can bear with me going \ndelulu about my faves...",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "I just can't choose between turf and dirt. Sure, part of the problem comes from my 50-50 skillset, but——"
+            "text": "I just can't choose between turf and dirt. \nSure, part of the problem comes from my 50-50 skillset, but――",
+            "name": "Agnes Digital"
         },
         {
+            "text": "The real issue's that picking one means abandoning the other. \nI reeeeaaa――lly don't want to have to do that...",
             "name": "Agnes Digital",
-            "text": "The real issue's that picking one means abandoning the other. I reeeeaaa——lly don't want to have to do that…",
             "choice_data_list": [
-                "Right…"
+                "Right..."
             ]
         },
         {
-            "text": "When it comes to Central races, the higher the grade, the more likely it'll be on turf. So the majority of Umamusume forgo dirt to get better at running on turf."
+            "text": "When it comes to Central races, the higher the grade, the more \nlikely it'll be on turf. So the majority of Umamusume forgo dirt to \nget better at running on turf."
         },
         {
-            "text": "Most Umamusume would just say \"it is what it is\", but she——",
+            "text": "Most Umamusume would just say \"it is what it is\", but she――",
             "choice_data_list": [
                 "You're real passionate about this.",
                 "You're really passionate about this."
             ]
         },
         {
+            "text": "Yes, but of course! My love for Umamusume-chan knows not \nturf nor dirt! For all they are all my faves, and pwecious all the \nsame!",
             "name": "Agnes Digital",
-            "text": "Yes, but of course! My love for Umamusume-chan knows not turf nor dirt! For all they are all my faves, and pwecious all the same!",
             "choice_data_list": [
                 "Wait, what?"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "What?"
+            "text": "What?",
+            "name": "Agnes Digital"
         },
         {
+            "text": "No, yeah. That's the thing of it! \nThey're all so pwecious I just can't choose!!",
             "name": "Agnes Digital",
-            "text": "No, yeah. That's the thing of it! They're all so pwecious I just can't choose!!",
             "choice_data_list": [
-                "Pwecious……?"
+                "Pwecious........?"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "Yes, exactly! Surely a karmic veteran like you would understand! They're all pwecious!! BUT…!!"
+            "text": "Yes, exactly! Surely a karmic veteran like you would understand! \nThey're all pwecious!! BUT...!!",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "If I go for <i>turf,</i> I can't go see Umamusume-chans on <i>dirt!</i> If I go for <i>dirt,</i> I can't go see Umamusume-chans on <i>turf!</i>"
+            "text": "If I go for <i>turf</i>, I can't go see Umamusume-chans on <i>dirt!</i> \nIf I go for <i>dirt</i>, I can't go see Umamusume-chans on <i>turf!</i>",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "Ghaahhh, how is this even a thing? All because of this, I've said no to every scouting, every Selection Race!!!"
+            "text": "Ghaahhh, how is this even a thing? All because of this, I've said \nno to every scouting, every Selection Race!!!",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "<i>E・ven・though・I</i> want to see aaaaaa——aaalll the Umamusume-chans up close, turf AND dirt!!!!"
+            "text": "<i>E・ven・though・I</i> want to see aaaaaa――aaalll the \nUmamusume-chans up close, turf AND dirt!!!!",
+            "name": "Agnes Digital"
         },
         {
-            "text": "…Somehow, I get the feeling we're having two very different conversations here."
+            "text": "...Somehow, I get the feeling we're having two very different \nconversations here."
         },
         {
-            "name": "Agnes Digital",
-            "text": "You understand this pain, don't you!? <i>Don't you</i>, Umamusume-chan-loving trainer?"
+            "text": "You understand this pain, don't you!? \n<i>Don't you</i>, Umamusume-chan-loving trainer?",
+            "name": "Agnes Digital"
         },
         {
-            "text": "She was kind of talking up a storm, so I got her to stop for a second so I could figure things out…"
+            "text": "She was kind of talking up a storm, so I got her to stop for a \nsecond so I could figure things out..."
         },
         {
-            "text": "She didn't want to give up on either dirt or turf Umamusume ——her \"faves\". But if she wanted to debut, she'd have to pick one or the other."
+            "text": "She didn't want to give up on either dirt or turf Umamusume \n――her \"faves\". \nBut if she wanted to debut, she'd have to pick one or the other."
         },
         {
-            "text": "But she couldn't make that choice, and ended up refusing everyone who tried to scout her… That's the gist of it."
+            "text": "But she couldn't make that choice, and ended up refusing \neveryone who tried to scout her... That's the gist of it."
         },
         {
-            "name": "Agnes Digital",
-            "text": "Ha… If it was more obvious which tracks I'm better at, that'd make things a whole lot easier to figure out…"
+            "text": "Ha... If it was more obvious which tracks I'm better at, that'd \nmake things a whole lot easier to figure out...",
+            "name": "Agnes Digital"
         },
         {
-            "text": "She didn't have a good reason to choose one or the other. So maybe it'd be better to actually do something instead of just thinking about it. Maybe——",
+            "text": "She didn't have a good reason to choose one or the other. \nSo maybe it'd be better to actually do something instead of \njust thinking about it. Maybe――",
             "choice_data_list": [
                 "How about we ask them?",
                 "How about we ask them?"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "…Huh? Them…?"
+            "text": "...Huh? Them...?",
+            "name": "Agnes Digital"
         },
         {
-            "text": "Looking down at the track, it just so happened that TM. Opera O, Overlord of Turf, and Smart Falcon, the Ruler of Dirt, were there.",
+            "text": "Looking down at the track, it just so happened that T.M. Opera O, \nOverlord of Turf, and Smart Falcon, the Ruler of Dirt, were there.",
             "choice_data_list": [
                 "Let's go ask those two!"
             ]
         },
         {
-            "name": "Agnes Digital",
-            "text": "……Bwuh?"
+            "text": ".....Bwuh?",
+            "name": "Agnes Digital"
         },
         {
-            "name": "Agnes Digital",
-            "text": "<i>WHHAAAAA!?</i> Ask her <i>Overlordship</i> and her <i>Umadolshipーーー!!?</i>"
+            "text": "<i>WHHAAAAA!?</i> \nAsk her<i> Overlordship </i>and her <i>Umadolshipーーー!!?</i>",
+            "name": "Agnes Digital"
         },
         {
-            "name": "TM Opera O",
-            "text": "Ah, are the two of you… …Perhaps admirers of mine?"
+            "text": "Ah, are the two of you... \n...Perhaps admirers of mine?",
+            "name": "T. M. Opera O"
         },
         {
-            "name": "TM Opera O",
-            "text": "Very well then. If you want a photoshoot, a deep cut, an interview, I shall give it all to you!",
+            "text": "Very well then. If you want a photoshoot, a deep cut, an \ninterview, I shall give it all to you!",
+            "name": "T. M. Opera O",
             "choice_data_list": [
                 "Why is it that you run on turf?",
                 "Why is it that you run on turf?"
             ]
         },
         {
-            "name": "TM Opera O",
-            "text": "Oh, quite the thinker, that question. But the answer is simple! You see—— I merely stand where the spotlight shines brightest upon me!"
+            "text": "Oh, quite the thinker, that question. But the answer is simple! \nYou see―― I merely stand where the spotlight shines brightest \nupon me!",
+            "name": "T. M. Opera O"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Hmm? You're… Digital-chan, right? Thanks so much for coming to my concert last time～!"
+            "text": "Hmm? You're... Digital-chan, right? \nThanks so much for coming to my concert last time~!",
+            "name": "Smart Falcon"
         },
         {
+            "text": "I can't believe you came to see me on the track, too♪ \nYou really wanted to see little old Falco that much?",
             "name": "Smart Falcon",
-            "text": "I can't believe you came to see me on the track, too♪ You really wanted to see little old Falco that much?",
             "choice_data_list": [
-                "We wanted to know why you run on dirt.",
-                "We wanted to know why you run on dirt."
+                "<size=41>We wanted to know why you run on dirt.</size>",
+                "<size=41>We wanted to know why you run on dirt.</size>"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "Hm? You want to know why I run on dirt? Hmm～… Because \"if only Falco can do it, she's got to do her best!\" ☆"
+            "text": "Hm? You want to know why I run on dirt? Hmm~... \nBecause \"if only Falco can do it, she's got to do her best!\" ☆",
+            "name": "Smart Falcon"
         },
         {
-            "text": "Those are the answers we got from the two of them. They didn't put it the same way, but they meant the same thing. They ran on the tracks that made them shine the brightest."
+            "text": "Those are the answers we got from the two of them. \nThey didn't put it the same way, but they meant the same thing. \nThey ran on the tracks that made them shine the brightest."
         },
         {
-            "text": "So, when it comes to Agnes Digital——",
+            "text": "So, when it comes to Agnes Digital――",
             "choice_data_list": [
                 "So what do you think now?",
                 "So what do you think now?"
             ]
         },
         {
+            "text": ".............",
             "name": "Agnes Digital",
-            "text": "…………",
             "choice_data_list": [
                 "Helloooo?"
             ]
         },
         {
+            "text": ".............",
             "name": "Agnes Digital",
-            "text": "…………",
             "choice_data_list": [
                 "You okay?"
             ]
         },
         {
+            "text": "『――and Confucius replied, the virtue of the superior as wind \nupon the grass.』",
             "name": "Agnes Digital",
-            "text": "『——and Confucius replied, the virtue of the superior as wind upon the grass.』",
             "choice_data_list": [
-                "……what?"
+                "........what?"
             ]
         },
         {
-            "text": "And with those last words, she passed right out. This was another shape of her love for Umamusume… maybe?"
+            "text": "And with those last words, she passed right out. \nThis was another shape of her love for Umamusume...maybe?"
         }
     ]
 }

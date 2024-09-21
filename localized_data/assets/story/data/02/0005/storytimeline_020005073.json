@@ -4,86 +4,92 @@
             "text": "(Knock knock knock)"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Trainer-san, pardon the intrusion."
+            "text": "Trainer-san, pardon the intrusion.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Coming in at this time, is something wrong? You're probably tired from the race, is it something urgent?"
+            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?",
+            "name": "<username>"
         },
         {
-            "text": "Coming in at this time, is something wrong? You're probably tired from the race, is it something urgent?"
+            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I don't really know if it would be considered urgent, but I just wanted to tell you as soon as possible."
+            "text": "I don't really know if it would be considered urgent, \nbut I just wanted to tell you as soon as possible.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "With today's victory, I realized something. After all this, I haven't really thanked Trainer-san properly."
+            "text": "With today's victory, I realized something. \nAfter all this, I haven't really thanked Trainer-san properly.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Thanked me…?"
+            "text": "Thanked me…?",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Even though I wasn't on your team, Trainer-san kindly listened to my worries."
+            "text": "Even though I wasn't on your team, \nTrainer-san kindly listened to my worries.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "And when I selfishly asked to transfer to your team, Trainer-san accepted."
+            "text": "And when I selfishly asked to transfer to your team, \nTrainer-san accepted.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "If it's that… on the other hand, normally, it wouldn't be strange to say I was being meddlesome with another team."
+            "text": "If it's that… on the other hand, normally, it wouldn't be \nstrange to say I was being meddlesome with another team.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Fufuu…"
+            "text": "Fufuu…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Since joining <Sirius>, by just looking at the other members I can tell what kind of person Trainer-san is."
+            "text": "Since joining ＜Sirius＞, by just looking at the other members I can tell \nwhat kind of person Trainer-san is.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "You're someone who believes in and kindly supports us."
+            "text": "You're someone who believes in and kindly supports us.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Thinking that, I wanted to properly thank you, but… do you think you can wait just a little bit longer?"
+            "text": "Thinking that, I wanted to properly thank you, but… \ndo you think you can wait just a little bit longer?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Don't talk about waiting, you don't really need to thank me…"
+            "text": "Don't talk about waiting, you don't really need to thank me…",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "No, I need to properly thank you."
+            "text": "No, I need to properly thank you.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…from now on, let's see that \"scenery\" together, how's that?"
+            "text": "…from now on, let's see that \"scenery\" together, how's that?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Saying that, the expression on Silence Suzuka's face was just as gentle, and filled with joy, as when she was running."
+            "text": "Saying that, the expression on Silence Suzuka's face was just as \ngentle, and filled with joy, as when she was running."
         },
         {
-            "text": "…If it's that kind of gratitude, then that's another story. I'll definitely accept that kind of gratitude.",
+            "text": "…If it's that kind of gratitude, then that's another story. \nI'll definitely accept that kind of gratitude.",
+            "name": "<username>",
             "choice_data_list": [
-                "Let's continue to look for that \"scenery\"!",
-                "Let's continue to look for that \"scenery\"!"
+                "<size=40>Let's continue to look for that \"scenery\"!</size>",
+                "<size=40>Let's continue to look for that \"scenery\"!</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Yes…!"
+            "text": "Yes…!",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Running as she desired, Silence Suzuka achieved her first victory as a member of <Sirius>."
+            "text": "Running as she desired, \nSilence Suzuka achieved her first victory as a member of ＜Sirius＞."
         },
         {
-            "text": "With her in good condition and high spirits, what kind of \"scenery\" will she show me from now on?"
+            "text": "With her in good condition and high spirits, \nwhat kind of \"scenery\" will she show me from now on?"
         },
         {
-            "text": "With the way she is now, I believe her dreams will continue to overflow with these joyful emotions."
+            "text": "With the way she is now, I believe her dreams will continue to \noverflow with these joyful emotions."
         }
     ]
 }

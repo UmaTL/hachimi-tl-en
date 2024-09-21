@@ -1,273 +1,273 @@
 {
     "text_block_list": [
         {
+            "text": "Haa, haa…… T-time…… \nAww, it's no different from before……!",
             "name": "Zenno Rob Roy",
-            "text": "Haa, haa…… T-time…… Aww, it's no different from before……!",
             "choice_data_list": [
-                "Let's take a break. Do you remember what I said?"
+                "<size=33>Let's take a break. Do you remember what I said?</size>"
             ]
         },
         {
+            "text": "Ah, um…… that I'm too anxious and rushing things, right? \nI'm pushing myself too much and ruining my form.",
             "name": "Zenno Rob Roy",
-            "text": "Ah, um…… that I'm too anxious and rushing things, right? I'm pushing myself too much and ruining my form.",
             "choice_data_list": [
-                "Yeah. For now, don't worry about time",
-                "Yeah. For now, don't worry about time"
+                "<size=43>Yeah. For now, don't worry about time</size>",
+                "<size=43>Yeah. For now, don't worry about time</size>"
             ]
         },
         {
-            "text": "For now, I wanted her to run calmly without rushing. Mentally and physically, I wanted to reduce the load on her training――"
+            "text": "For now, I wanted her to run calmly without rushing. Mentally and \nphysically, I wanted to reduce the load on her training――"
         },
         {
+            "text": "So I can remember my form from before my injury…… \nRight? I-I'll do my best……!",
             "name": "Zenno Rob Roy",
-            "text": "So I can remember my form from before my injury…… Right? I-I'll do my best……!",
             "choice_data_list": [
                 "Let's not rush and build up gradually!"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Yeah!"
+            "text": "……Yeah!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "The current Zenno Rob Roy couldn't really assess her own abilities. For now, if she could just start believing in herself……!"
+            "text": "The current Zenno Rob Roy couldn't really \nassess her own abilities. For now, if she \ncould just start believing in herself……!"
         },
         {
             "text": "A few days later――"
         },
         {
+            "text": "(For some reason, my body feels light……? \nEven though lately, I've just been running however I felt like……)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(……yeah, that's right. It's fine not to rush. \nTrainer-san believes in my strength after all.)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(That's why, me too…… I need to believe in myself \nat least as much as Trainer-san does……!)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "I'm fine……!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "……A few days before the Sports Festival, in the library. Zenno \nRob Roy was reviewing material related to the 『Hero Search』."
+        },
+        {
+            "text": "……There's no mistaking it. Trainer-san said she wasn't but…… \nas I thought, Kris S-san is our Hero.",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "At this time, on this course, on that date. \nNo matter how you look at this data, there's only Kris S-san……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "……This information…… I don't…… want to tell them……",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(But, I have to. At the Sports Festival, I'll compete \nagainst Kris S-san and lose…… and then I'll tell \nthem everything and put this to an end.)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(That's why, until then……)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "And so, the day of the Sports Festival arrived! \nZenno Rob Roy was――"
+        },
+        {
+            "text": "(N-no way! No way……! Why today, \nof all days, did I have a late start……!?)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "……",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "(Kris S-san's back, is getting further and further away…… \nat this rate, I won't even be able to see it anymore)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "(…… As I thought, I can't win. There was no way \nI could win. Even with all that training we did……)",
             "name": "Zenno Rob Roy",
-            "text": "(For some reason, my body feels light……? Even though lately, I've just been running however I felt like……)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(……yeah, that's right. It's fine not to rush. Trainer-san believes in my strength after all.)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(That's why, me too…… I need to believe in myself at least as much as Trainer-san does……!)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "I'm fine……!"
-        },
-        {
-            "text": "……A few days before the Sports Festival, in the library. Zenno Rob Roy was reviewing material related to the 『Hero Search』."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……There's no mistaking it. Trainer-san said she wasn't but…… as I thought, Kris S-san is our Hero."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "At this time, on this course, on that date. No matter how you look at this data, there's only Kris S-san……"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……This information…… I don't…… want to tell them……"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(But, I have to. At the Sports Festival, I'll compete against Kris S-san and lose…… and then I'll tell them everything and put this to an end.)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(That's why, until then……)"
-        },
-        {
-            "text": "And so, the day of the Sports Festival arrived! Zenno Rob Roy was――"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(N-no way! No way……! Why today, of all days, did I have a late start……!?)"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "……"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(Kris S-san's back, is getting further and further away…… at this rate, I won't even be able to see it anymore)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(…… As I thought, I can't win. There was no way I could win. Even with all that training we did……)",
             "choice_data_list": [
                 "Don't lose！！"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
             "text": "……！！",
+            "name": "Zenno Rob Roy",
             "choice_data_list": [
                 "You're the main character, Rob Roy!!",
                 "You're the main character, Rob Roy!!"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(I…… I'm the main character?)"
+            "text": "(I…… I'm the main character?)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(If I do win against Kris S-san, what will happen? Will my story start then? If it does――)"
+            "text": "(If I do win against Kris S-san, what will happen? \nWill my story start then? If it does――)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Even after the Sports Festival, and after we find our hero. Will Trainer-san still want to see the story of me being the main character?)"
+            "text": "(Even after the Sports Festival, and after we \nfind our hero. Will Trainer-san still want to \nsee the story of me being the main character?)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(I want them to……!)"
+            "text": "(I want them to……!)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Ha――aaaaa!!"
+            "text": "Ha――aaaaa!!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Announcer",
-            "text": "What's this, Zenno Rob Roy starts to pull forward here! But in the final straight, Symboli Kris S is still far ahead!"
+            "text": "What's this, Zenno Rob Roy starts to pull forward here! But in \nthe final straight, Symboli Kris S is still far ahead!",
+            "name": "Announcer"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Watch me, Trainer-san. As the only reader of my Heroic Tale……!)"
+            "text": "(Watch me, Trainer-san. \nAs the only reader of my Heroic Tale……!)",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "The main character…… is me!! \nTaaaaaaaaーーーー!!",
             "name": "Zenno Rob Roy",
-            "text": "The main character…… is me!! Taaaaaaaaーーーー!!",
             "choice_data_list": [
                 "Rob Roy, that run is……"
             ]
         },
         {
-            "text": "I finally realized. It was a strong, wild, and desperate run. But filled with pride―― just like the Hero I saw that day!"
+            "text": "I finally realized. It was a strong, wild, and desperate run. \nBut filled with pride―― just like the Hero I saw that day!"
         },
         {
+            "text": "Haa, haa, haa…… haaaaa!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "――So you've made it this far.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Symboli Kris S accelerates tremendously before \nthe goal! Faster, and faster! As expected, today's \nmain character is none other than her!",
+            "name": "Announcer"
+        },
+        {
+            "text": "And now she crosses first! \nSymboli Kris S wins handily!!",
+            "name": "Announcer"
+        },
+        {
+            "text": "There was a thunderous applause and cheering coming from the \nspectators. Of course―― it was intended for the victor."
+        },
+        {
+            "text": "(…… I lost…… I thought so. Things wouldn't be that easy. \nThat's why I need to say it. I need to give up on that.)",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "……Trainer-san! \nUm, I know who that Hero―",
             "name": "Zenno Rob Roy",
-            "text": "Haa, haa, haa…… haaaaa!"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――So you've made it this far."
-        },
-        {
-            "name": "Announcer",
-            "text": "Symboli Kris S accelerates tremendously before the goal! Faster, and faster! As expected, today's main character is none other than her!"
-        },
-        {
-            "name": "Announcer",
-            "text": "And now she crosses first! Symboli Kris S wins handily!!"
-        },
-        {
-            "text": "There was a thunderous applause and cheering coming from the spectators. Of course―― it was intended for the victor."
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "(…… I lost…… I thought so. Things wouldn't be that easy. That's why I need to say it. I need to give up on that.)"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "……Trainer-san! Um, I know who that Hero―",
             "choice_data_list": [
                 "So it was you!!",
                 "So it was you!!"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
             "text": "You were―― huh?",
+            "name": "Zenno Rob Roy",
             "choice_data_list": [
                 "The Hero was you!",
                 "The Hero was you!"
             ]
         },
         {
+            "text": "Eh? W-what do you mean by that!? \nWhy are you bring that up all of a sudden……!?",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "Rob Roy, about that race―― oh, are you preoccupied?",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Ah, Kris S-san! You came at just the right time, \nthere's something I want to ask you……!",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "――And so, on this day at around 4PM! \nYou were using the outside turf course, right……!?",
+            "name": "Zenno Rob Roy"
+        },
+        {
+            "text": "――Yes.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "With you―― we were practicing together. \nAbout the time―― I'm not sure――",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "S-see!? I saw it with my own eyes too! \nThere's no mistaking that the Hero was Kris S-san!",
             "name": "Zenno Rob Roy",
-            "text": "Eh? W-what do you mean by that!? Why are you bring that up all of a sudden……!?"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "Rob Roy, about that race―― oh, are you preoccupied?"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "Ah, Kris S-san! You came at just the right time, there's something I want to ask you……!"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "――And so, on this day at around 4PM! You were using the outside turf course, right……!?"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――Yes."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "With you―― we were practicing together. About the time―― I'm not sure――"
-        },
-        {
-            "name": "Zenno Rob Roy",
-            "text": "S-see!? I saw it with my own eyes too! There's no mistaking that the Hero was Kris S-san!",
             "choice_data_list": [
-                "Hold on, if you were practicing together……"
+                "<size=38>Hold on, if you were practicing together……</size>"
             ]
         },
         {
-            "name": "Symboli Kris S",
             "text": "――Rob Roy was there too.",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "Did you have your hair tied back?"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
             "text": "Yeah…… I think so.",
+            "name": "Zenno Rob Roy",
             "choice_data_list": [
                 "And you almost tripped and fell?"
             ]
         },
         {
+            "text": "How come you even saw that!? \nSo then…… then that means…… eeeh!?",
             "name": "Zenno Rob Roy",
-            "text": "How come you even saw that!? So then…… then that means…… eeeh!?",
             "choice_data_list": [
                 "Form a contract with me!",
                 "Form a contract with me!"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Eh――"
+            "text": "Eh――",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Eeeeeeh!?"
+            "text": "……Eeeeeeh!?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――I see, so you ARE preoccupied."
+            "text": "――I see, so you ARE preoccupied.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "I see. After that I was injured so I couldn't run much, and you couldn't tell that that Hero was me……"
+            "text": "I see. After that I was injured so I couldn't run much, \nand you couldn't tell that that Hero was me……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……that's surprising. So from the start you…… were watching me then."
+            "text": "……that's surprising. \nSo from the start you…… were watching me then.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……I said it before, right? A heroic tale becomes a heroic tale when it starts being told as a hero's story."
+            "text": "……I said it before, right? A heroic tale becomes a \nheroic tale when it starts being told as a hero's story.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "That's why, Trainer-san! I'll do my best. From now on, I'll make sure you're the one that wants to tell this story."
+            "text": "That's why, Trainer-san! I'll do my best. From now on, \nI'll make sure you're the one that wants to tell this story.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Together, we'll finish this story. 『The Heroic Tale of Zenno Rob Roy』 ……!"
+            "text": "Together, we'll finish this story. \n『The Heroic Tale of Zenno Rob Roy』 ……!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "She was smiling as she said that. And that was the prologue of this long and heroic story."
+            "text": "She was smiling as she said that. \nAnd that was the prologue of this long and heroic story."
         }
     ]
 }

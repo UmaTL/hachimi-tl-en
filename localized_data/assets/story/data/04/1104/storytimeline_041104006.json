@@ -1,250 +1,250 @@
 {
     "text_block_list": [
         {
-            "text": "――I wanted to do something about Katsuragi Ace's homesickness. With that in mind, I bought several books, including one titled 『My First Kitchen Garden』."
+            "text": "――I wanted to do something about Katsuragi Ace's homesickness. \nWith that in mind, I bought several books, including one \ntitled 『My First Kitchen Garden』."
         },
         {
-            "text": "If I can learn this properly, then I should be able to help her alleviate some of that loneliness――"
+            "text": "If I can learn this properly, then I should be able \nto help her alleviate some of that loneliness――"
         },
         {
+            "text": "Huh, is that Trainer-san? Whoa, that looks like \na really heavy bag there. Is it all books?",
             "name": "Katsuragi Ace",
-            "text": "Huh, is that Trainer-san? Whoa, that looks like a really heavy bag there. Is it all books?",
             "choice_data_list": [
-                "Yeah, just something I wanted to learn",
-                "Yeah, just something I wanted to learn"
+                "<size=43>Yeah, just something I wanted to learn</size>",
+                "<size=43>Yeah, just something I wanted to learn</size>"
             ]
         },
         {
+            "text": "You're studying on your days off too!? \n……Haa~, sounds like being a trainer is pretty rough.",
             "name": "Katsuragi Ace",
-            "text": "You're studying on your days off too!? ……Haa~, sounds like being a trainer is pretty rough.",
             "choice_data_list": [
                 "Well, it's not work-related though――"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Alright, I've made up my mind! Let's take it easy today! Trainer-san!"
+            "text": "Alright, I've made up my mind! \nLet's take it easy today! Trainer-san!",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Just the other day you were so worn out, so once in a while should be fine, right? C'mon, I'll lead the way! ――To my secret base!"
+            "text": "Just the other day you were so worn out, \nso once in a while should be fine, right? \nC'mon, I'll lead the way! ――To my secret base!",
+            "name": "Katsuragi Ace"
         },
         {
+            "text": "And, we're here! What do you think, Trainer-san? \nIt's just run-down enough to make it perfect, don't you think?",
             "name": "Katsuragi Ace",
-            "text": "And, we're here! What do you think, Trainer-san? It's just run-down enough to make it perfect, don't you think?",
             "choice_data_list": [
                 "Ace, do you come here often?",
                 "Ace, do you come here often?"
             ]
         },
         {
+            "text": "Hmmmm……it's more like, before I realize it, \nI end up here, I guess? The air reminds me \nof home, and it just some how calms me down!",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "――HaaaaAAAAA!",
+            "name": "Young Ace"
+        },
+        {
+            "text": "There, go for it, go for it! \nWaahaaha! You were really fast, huh~.",
+            "name": "Neighborly Old Man"
+        },
+        {
+            "text": "Yeah! ……Ace! If you're starting to get scared, c'mon over here! \nThis old lady's got some tea for ya.",
+            "name": "Neighborly Old Lady"
+        },
+        {
+            "text": "Wonder if that old man and woman are doing well. It'd be \nnice if the radishes they're growing are big this year too.",
             "name": "Katsuragi Ace",
-            "text": "Hmmmm……it's more like, before I realize it, I end up here, I guess? The air reminds me of home, and it just some how calms me down!"
-        },
-        {
-            "name": "Young Ace",
-            "text": "――HaaaaAAAAA!"
-        },
-        {
-            "name": "Neighborly Old Man",
-            "text": "There, go for it, go for it! Waahaaha! You were really fast, huh~."
-        },
-        {
-            "name": "Neighborly Old Lady",
-            "text": "Yeah! ……Ace! If you're starting to get scared, c'mon over here! This old lady's got some tea for ya."
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Wonder if that old man and woman are doing well. It'd be nice if the radishes they're growing are big this year too.",
             "choice_data_list": [
                 "Big radishes?"
             ]
         },
         {
+            "text": "Y'see, there was this big athletics competition \nwe had back in our district. In the Relay races, \nwe'd use 『Radishes』 instead of batons!",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "……Ahaaha! I guess it's natural you'd make \na face like that! Just so you know, afterwards \nwe'd all eat those radishes! And then――",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "You could tell by the way Katsuragi Ace talked \nabout it, she really loved her hometown, and \nthe people in her hometown really loved her."
+        },
+        {
+            "text": "Maybe that's why she felt so homesick. She probably came to \nthis place just so she could feel closer to her hometown."
+        },
+        {
+            "text": "I may not be anything like the people from her \nhometown, but I wanted to do something about \nher loneliness, even if it was just a little……"
+        },
+        {
+            "text": "Oh, sorry! Trainer-san, this was meant to \nbe a change of pace for you, but I ended up \ntalking so much……it was boring wasn't it?",
             "name": "Katsuragi Ace",
-            "text": "Y'see, there was this big athletics competition we had back in our district. In the Relay races, we'd use 『Radishes』 instead of batons!"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "……Ahaaha! I guess it's natural you'd make a face like that! Just so you know, afterwards we'd all eat those radishes! And then――"
-        },
-        {
-            "text": "You could tell by the way Katsuragi Ace talked about it, she really loved her hometown, and the people in her hometown really loved her."
-        },
-        {
-            "text": "Maybe that's why she felt so homesick. She probably came to this place just so she could feel closer to her hometown."
-        },
-        {
-            "text": "I may not be anything like the people from her hometown, but I wanted to do something about her loneliness, even if it was just a little……"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Oh, sorry! Trainer-san, this was meant to be a change of pace for you, but I ended up talking so much……it was boring wasn't it?",
             "choice_data_list": [
                 "No, it was really fun",
                 "No, it was really fun"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "In that case, I'm glad! I'm starting to get hungry, so we should probably head back! ――Hm?"
+            "text": "In that case, I'm glad! I'm starting to get hungry, \nso we should probably head back! ――Hm?",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
             "text": "『My First Kitchen Garden』? This is……",
+            "name": "Katsuragi Ace",
             "choice_data_list": [
                 "Ah……"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "So that 『Something I wanted to learn』 wasn't something to do with training, but it was about that field?"
+            "text": "So that 『Something I wanted to learn』 wasn't something \nto do with training, but it was about that field?",
+            "name": "Katsuragi Ace"
         },
         {
-            "text": "It's not like I was trying to hide it, but it still felt awkward. With a wry smile, I held the book in my hand.",
+            "text": "It's not like I was trying to hide it, but it still felt awkward. \nWith a wry smile, I held the book in my hand.",
             "choice_data_list": [
                 "I wasn't ready to give up just yet"
             ]
         },
         {
+            "text": "There was no reason for you to worry about what happened \nlast time though. You're already so busy after all……",
             "name": "Katsuragi Ace",
-            "text": "There was no reason for you to worry about what happened last time though. You're already so busy after all……",
             "choice_data_list": [
                 "I meant about you",
                 "I meant about you"
             ]
         },
         {
-            "text": "The important thing was neither the fieldwork nor fixing mistakes. It was to cheer up Katsuragi Ace, just that.",
+            "text": "The important thing was neither the fieldwork nor fixing \nmistakes. It was to cheer up Katsuragi Ace, just that.",
             "choice_data_list": [
-                "I don't want to give up on helping you",
-                "I don't want to give up on helping you"
+                "<size=43>I don't want to give up on helping you</size>",
+                "<size=43>I don't want to give up on helping you</size>"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "……！"
+            "text": "……！",
+            "name": "Katsuragi Ace"
         },
         {
-            "text": "Truthfully, there probably wasn't much I could help with. But, even just going from 0 to 1 was worth it. So――",
+            "text": "Truthfully, there probably wasn't much I could help with. \nBut, even just going from 0 to 1 was worth it. So――",
             "choice_data_list": [
                 "Let me help with the field!",
                 "Let me help with the field!"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Trainer-san…… ――Got it. That spirit, I'll accept it!"
+            "text": "Trainer-san…… \n――Got it. That spirit, I'll accept it!",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Let's do the fieldwork! It'll be really early in the morning, so I don't want to hear any complaints, got it?"
+            "text": "Let's do the fieldwork! It'll be really early in the morning, \nso I don't want to hear any complaints, got it?",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "That's right! If we're doing this, we might as well study together too! If there's anything you don't get, I'll teach ya!"
+            "text": "That's right! If we're doing this, we might as well study \ntogether too! If there's anything you don't get, I'll teach ya!",
+            "name": "Katsuragi Ace"
         },
         {
             "text": "Several days later――"
         },
         {
+            "text": "……Hmmm~, like this, there's too much leftover. \nWhen thinning these out, it's fine to go rougher!",
             "name": "Katsuragi Ace",
-            "text": "……Hmmm~, like this, there's too much leftover. When thinning these out, it's fine to go rougher!",
             "choice_data_list": [
                 "I-is that so……?",
                 "I-is that so……?"
             ]
         },
         {
+            "text": "Alright! Guess that's about it for this spot. \n……Trainer-san! How's it looking over there~?",
             "name": "Katsuragi Ace",
-            "text": "Alright! Guess that's about it for this spot. ……Trainer-san! How's it looking over there~?",
             "choice_data_list": [
                 "W-with just a bit more time……!"
             ]
         },
         {
+            "text": "Hmmm, these rows look just about ready, \nnext is the fertilizer……",
             "name": "Katsuragi Ace",
-            "text": "Hmmm, these rows look just about ready, next is the fertilizer……",
             "choice_data_list": [
                 "Ace, come look at this!",
                 "Ace, come look at this!"
             ]
         },
         {
+            "text": "Hm? ……Oooh, awesome! Did you do this entire line!? The balance \nis perfect. Trainer-san you're a pretty quick learner, huh~.",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "But――",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "You've got dirt on you here, you know? \n……And, got it.",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "Hahaa, seems like you're a little lacking here, huh~!",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "Alright! Then, let's get the rest of it all wrapped up! \nTrainer-san, I'll leave that side to you!",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "――And you see, on those leaves was another caterpillar, \nbut, this time Trainer-san got it and released \nit themself without so much as a peep~.",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "『Oh~ isn't that amazing!? Last time you told \nme they just fell all over themself, too』",
+            "name": "Ace's Mom"
+        },
+        {
+            "text": "『……But I'm glad, looks like you're doing well! Last time \nwe talked, you seemed a little off so I was worried』",
+            "name": "Ace's Mom"
+        },
+        {
+            "text": "『Guess it really is better to work the fields \ntogether with someone, huh~. I'd be really \nlonely if I was alone too, you know!』",
+            "name": "Ace's Mom"
+        },
+        {
+            "text": "Hahaa, I guess so! \nYeah……it really does seem like that.",
+            "name": "Katsuragi Ace"
+        },
+        {
+            "text": "Alright, before Trainer-san gets here, \nguess I'll do a quick check for bugs~……oh, ah.",
             "name": "Katsuragi Ace",
-            "text": "Hm? ……Oooh, awesome! Did you do this entire line!? The balance is perfect. Trainer-san you're a pretty quick learner, huh~."
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "But――"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "You've got dirt on you here, you know? ……And, got it."
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Hahaa, seems like you're a little lacking here, huh~!"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Alright! Then, let's get the rest of it all wrapped up! Trainer-san, I'll leave that side to you!"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "――And you see, on those leaves was another caterpillar, but, this time Trainer-san got it and released it themself without so much as a peep~."
-        },
-        {
-            "name": "Ace's Mom",
-            "text": "『Oh~ isn't that amazing!? Last time you told me they just fell all over themself, too』"
-        },
-        {
-            "name": "Ace's Mom",
-            "text": "『……But I'm glad, looks like you're doing well! Last time we talked, you seemed a little off so I was worried』"
-        },
-        {
-            "name": "Ace's Mom",
-            "text": "『Guess it really is better to work the fields together with someone, huh~. I'd be really lonely if I was alone too, you know!』"
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Hahaa, I guess so! Yeah……it really does seem like that."
-        },
-        {
-            "name": "Katsuragi Ace",
-            "text": "Alright, before Trainer-san gets here, guess I'll do a quick check for bugs~……oh, ah.",
             "choice_data_list": [
                 "M-morning, Ace! It's cold today, huh",
                 "M-morning, Ace! It's cold today, huh"
             ]
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "――Oh! Morning, Trainer-san! ……Ah, Hahaa! That's some wild bed head ya got there!"
+            "text": "――Oh! Morning, Trainer-san! \n……Ah, Hahaa! That's some wild bed head ya got there!",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "(Mom's right. Since I came here, I guess I was getting used to doing the work alone, but……)"
+            "text": "(Mom's right. Since I came here, I guess I was \ngetting used to doing the work alone, but……)",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "(In the dim light, just having someone respond. And having someone to wipe off the last bit of dirt on my face.)"
+            "text": "(In the dim light, just having someone respond. And \nhaving someone to wipe off the last bit of dirt on my face.)",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "(With just something like that, with just that……I――)"
+            "text": "(With just something like that, with just that……I――)",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Ace's Mom",
-            "text": "『――Well then, talk to you later. If you ever feel you're missing home, you're welcome to come back anytime』"
+            "text": "『――Well then, talk to you later. If you ever feel you're \nmissing home, you're welcome to come back anytime』",
+            "name": "Ace's Mom"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "Yeah. Thanks, Mom. ……but I'm fine, there's nothing to worry about."
+            "text": "Yeah. Thanks, Mom. \n……but I'm fine, there's nothing to worry about.",
+            "name": "Katsuragi Ace"
         },
         {
-            "name": "Katsuragi Ace",
-            "text": "――Because, I have Trainer-san with me after all."
+            "text": "――Because, I have Trainer-san with me after all.",
+            "name": "Katsuragi Ace"
         }
     ]
 }

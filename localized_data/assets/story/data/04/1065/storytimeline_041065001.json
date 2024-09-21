@@ -4,230 +4,236 @@
             "text": "What I encountered that day― could probably be called my Sun."
         },
         {
-            "text": "―Since I had become a trainer, the miserable days had continued. Even though all my colleagues already had Uma Musume they were responsible for……",
+            "text": "―Since I had become a trainer, the miserable days \nhad continued. Even though all my colleagues already \nhad Uma Musume they were responsible for……",
             "choice_data_list": [
                 "(Am I the only one falling short……?)"
             ]
         },
         {
             "text": "Are ya livin' it up～～!?",
+            "name": "？？？",
             "choice_data_list": [
                 "！？"
             ]
         },
         {
-            "text": "Huh, feelin' kinda blue!? Eh, eh, gloom and doom? Then, you just need to let loose!",
+            "text": "Huh, feelin' kinda blue!? Eh, eh, gloom and doom? \nThen, you just need to let loose!",
+            "name": "？？？",
             "choice_data_list": [
                 "Loose!?!?"
             ]
         },
         {
-            "text": "Anyway, just leave it to me～! Now, C'mon☆"
+            "text": "Anyway, just leave it to me～! \nNow, C'mon☆",
+            "name": "？？？"
         },
         {
-            "text": "Weiweiii～♪ Bwanbwanbwanbwaaaaa～n!"
+            "text": "Weiweiii～♪ \nBwanbwanbwanbwaaaaa～n!",
+            "name": "？？？"
         },
         {
-            "text": "Hee～y, you're bummin' me out here～!! Ya gotta hit me with those wicked vibes♪ Check it☆",
+            "text": "Hee～y, you're bummin' me out here～!! \nYa gotta hit me with those wicked vibes♪ Check it☆",
+            "name": "？？？",
             "choice_data_list": [
                 "(W-what's with this girl……!?)",
                 "(W-what's with this girl……!?)"
             ]
         },
         {
-            "text": "I had no idea who she was, and no clue what was going on, but she dragged me here and now was trying to get something started……!?"
+            "text": "I had no idea who she was, and no clue what was going on, but she \ndragged me here and now was trying to get something started……!?"
         },
         {
-            "name": "Gyaru-Guy",
-            "text": "Oooh～, if it ain't Daitaku Helios-chan!? What, you gonna start a Live～? We～i!"
+            "text": "Oooh～, if it ain't Daitaku Helios-chan!? \nWhat, you gonna start a Live～? We～i!",
+            "name": "Gyaru-Guy"
         },
         {
+            "text": "Wee～i☆ Rather than a Live～, more like anything goes! \nGoin' with whatever flows～",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "Yo, Helios! Make sure ya pass me the microphone! \n'Cuz this here's a part of my time zone!",
+            "name": "Rapper"
+        },
+        {
+            "text": "Heyoo～. Heard we could do some dancin'. \nMind if we cut in?",
+            "name": "Dancer"
+        },
+        {
+            "text": "'Course! Dance it out! \nI'll be on stage too～♪",
             "name": "Daitaku Helios",
-            "text": "Wee～i☆ Rather than a Live～, more like anything goes! Goin' with whatever flows～"
-        },
-        {
-            "name": "Rapper",
-            "text": "Yo, Helios! Make sure ya pass me the microphone! 'Cuz this here's a part of my time zone!"
-        },
-        {
-            "name": "Dancer",
-            "text": "Heyoo～. Heard we could do some dancin'. Mind if we cut in?"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "'Course! Dance it out! I'll be on stage too～♪",
             "choice_data_list": [
                 "Wai――"
             ]
         },
         {
-            "name": "Passerby A",
-            "text": "Hey, looks like there's some kind of event! Want to take a look? Or maybe we should go up on stage～?"
+            "text": "Hey, looks like there's some kind of event! \nWant to take a look? Or maybe we should go up on stage～?",
+            "name": "Passerby A"
         },
         {
-            "text": "Daitaku Helios― with her being at the center, more and more people that seemed like her aquaintances kept gathering. It was creating quite a stir……"
+            "text": "Daitaku Helios― with her being at the center, more and more \npeople that seemed like her aquaintances kept gathering. It was \ncreating quite a stir……"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "We～～～～i!! If you wanna raise the roof, put your hands up! And can I get a Hoo-ooh!?"
+            "text": "We～～～～i!! If you wanna raise the roof, put your hands up! \nAnd can I get a Hoo-ooh!?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Everyone",
             "text": "Hoo-ooh!",
+            "name": "Everyone",
             "choice_data_list": [
                 "(It's almost like a festival……!)"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Again, let me really hear ya! C'mon, Hoo-oooh!?"
+            "text": "Again, let me really hear ya! \nC'mon, Hoo-oooh!?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Everyone",
             "text": "Hoo-ooh!!!!",
+            "name": "Everyone",
             "choice_data_list": [
                 "Ho-Hoo-ooh……!"
             ]
         },
         {
-            "text": "I didn't really get it, but I was still getting swept up in the moment…… my body just moved naturally."
+            "text": "I didn't really get it, but I was still getting \nswept up in the moment…… my body just moved naturally."
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Yeaaaa-! Y'all rock!! We vibin' now～～～～!!"
+            "text": "Yeaaaa-! Y'all rock!! \nWe vibin' now～～～～!!",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
             "text": "Ahahaa, uhahaha～♪♪",
+            "name": "Daitaku Helios",
             "choice_data_list": [
                 "(What a dazzling smile……)"
             ]
         },
         {
-            "name": "Dancer",
-            "text": "――Helios, mad props～. That was fire～! You really are the best. See ya-, hit me up on LANE."
+            "text": "――Helios, mad props～. That was fire～! \nYou really are the best. See ya-, hit me up on LANE.",
+            "name": "Dancer"
         },
         {
+            "text": "We～i, Bye bye-……Ah. Oh! \nYou've got a good look on your face now☆ Absolute King～!",
             "name": "Daitaku Helios",
-            "text": "We～i, Bye bye-……Ah. Oh! You've got a good look on your face now☆ Absolute King～!",
             "choice_data_list": [
                 "You cheered me up……",
                 "You cheered me up……"
             ]
         },
         {
-            "text": "When I was feeling down, she went out of her way to drag me here and brighten my day. I wanted to say thank you but―"
+            "text": "When I was feeling down, she went out of her way to drag me here \nand brighten my day. I wanted to say thank you but―"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Eh, no idea what you mean, weird!"
+            "text": "Eh, no idea what you mean, weird!",
+            "name": "Daitaku Helios"
         },
         {
+            "text": "I don't really get it, but you let loose, right? \nLet's hang out again～! Ah, give me your LANE! Umasta works too!",
             "name": "Daitaku Helios",
-            "text": "I don't really get it, but you let loose, right? Let's hang out again～! Ah, give me your LANE! Umasta works too!",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
+            "text": "―Ah, so you're a trainer! I go to Tracen Academy too-☆ Is this \nfate? Classic～. I'll hit you up on LANE, see ya Trai-pippi～!",
             "name": "Daitaku Helios",
-            "text": "―Ah, so you're a trainer! I go to Tracen Academy too-☆ Is this fate? Classic～. I'll hit you up on LANE, see ya Trai-pippi～!",
             "choice_data_list": [
                 "Trai-pippi!?"
             ]
         },
         {
-            "text": "……in the end I just couldn't keep up with her energy. But still, it was a fact that I was feeling better just by having a good time.",
+            "text": "……in the end I just couldn't keep up with her \nenergy. But still, it was a fact that I was \nfeeling better just by having a good time.",
             "choice_data_list": [
                 "(I'll do my best again tomorrow!)"
             ]
         },
         {
+            "text": "―Sorry. I'm looking for a trainer that is a bit more reli-…… \numm, has more career experience! I'll be leaving now～!",
             "name": "Uma Musume A",
-            "text": "―Sorry. I'm looking for a trainer that is a bit more reli-…… umm, has more career experience! I'll be leaving now～!",
             "choice_data_list": [
                 "Ah……!"
             ]
         },
         {
-            "text": "As part of a fresh start, I had found the courage to speak to several girls that I felt had some promise but……",
+            "text": "As part of a fresh start, I had found the courage to speak \nto several girls that I felt had some promise but……",
             "choice_data_list": [
                 "(This is the 10th one……)"
             ]
         },
         {
-            "text": "I understood the girls' point of view. A trainer was an incredibly important existence to the life of an athlete…… so being cautious was expected. But―",
+            "text": "I understood the girls' point of view. A trainer was an \nincredibly important existence to the life of an athlete…… so \nbeing cautious was expected. But―",
             "choice_data_list": [
                 "But if I can't get a contract……"
             ]
         },
         {
             "text": "How about with me?",
+            "name": "？？？",
             "choice_data_list": [
                 "……Hee"
             ]
         },
         {
+            "text": "A trainer contract, right? \nI'm free, so sure☆",
             "name": "Daitaku Helios",
-            "text": "A trainer contract, right? I'm free, so sure☆",
             "choice_data_list": [
                 "……！？"
             ]
         },
         {
+            "text": "A seal right? I need that, right? \nWonder if there's an app? Lame～ can't I just put my name?",
             "name": "Daitaku Helios",
-            "text": "A seal right? I need that, right? Wonder if there's an app? Lame～ can't I just put my name?",
             "choice_data_list": [
                 "Hol-hold on a minute……!",
                 "Hol-hold on a minute……!"
             ]
         },
         {
-            "name": "Daitaku Helios",
             "text": "Hm?",
+            "name": "Daitaku Helios",
             "choice_data_list": [
                 "Are you fine deciding so quickly!?",
                 "Are you fine deciding so quickly!?"
             ]
         },
         {
+            "text": "Yeah! Feelings-wise I don't see a problem～. \nBut if you can't then we can let it go! Bye☆",
             "name": "Daitaku Helios",
-            "text": "Yeah! Feelings-wise I don't see a problem～. But if you can't then we can let it go! Bye☆",
             "choice_data_list": [
                 "!? S-stop!"
             ]
         },
         {
-            "text": "As a trainer, there was no doubt this was a chance. But, without knowing much about her, it wouldn't be good for her sake to just blindly accept.",
+            "text": "As a trainer, there was no doubt this was a chance. \nBut, without knowing much about her, it wouldn't \nbe good for her sake to just blindly accept.",
             "choice_data_list": [
                 "At least, let me see you run first―"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Sound! Okay, let's get this going then☆"
+            "text": "Sound! Okay, let's get this going then☆",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Ah, might as well make it a festival right? Mock-race themed! I'll go spread the word, let's meet up on the grounds later～!"
+            "text": "Ah, might as well make it a festival right? Mock-race themed! \nI'll go spread the word, let's meet up on the grounds later～!",
+            "name": "Daitaku Helios"
         },
         {
+            "text": "―Heyoo-. \nLet's get rollin'☆",
             "name": "Daitaku Helios",
-            "text": "―Heyoo-. Let's get rollin'☆",
             "choice_data_list": [
                 "Wait wait wait, wait a minute!!",
                 "Wait wait wait, wait a minute!!"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Hm? Bwahahaha, what's up? You're sweatin' bullets! I'm dyin' here～!"
+            "text": "Hm? Bwahahaha, what's up? \nYou're sweatin' bullets! I'm dyin' here～!",
+            "name": "Daitaku Helios"
         },
         {
-            "text": "Of course I'd be sweating. The opponents that Daitaku Helios had brought with her―"
+            "text": "Of course I'd be sweating. The opponents \nthat Daitaku Helios had brought with her―"
         },
         {
-            "text": "Were all the strong Uma Musume from this generation who had already gotten results in big races, including G1s……!"
+            "text": "Were all the strong Uma Musume from this generation who \nhad already gotten results in big races, including G1s……!"
         }
     ]
 }

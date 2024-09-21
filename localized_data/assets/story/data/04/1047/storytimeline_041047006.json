@@ -1,12 +1,12 @@
 {
     "text_block_list": [
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Haaa."
+            "text": "……Haaa.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(The more and more I think about it, the more it seems like I don't know anything about Trainer-san)"
+            "text": "(The more and more I think about it, the more it \nseems like I don't know anything about Trainer-san)",
+            "name": "Zenno Rob Roy"
         },
         {
             "text": "『I didn't think you'd just head home』"
@@ -24,172 +24,172 @@
             "text": "『Rob Roy. What's your dream?』"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san understands me…… they're trying to understand me…… but I'm only thinking about myself."
+            "text": "Trainer-san understands me…… they're trying \nto understand me…… but I'm only thinking about myself.",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Even though I'm the one with a hero's name……"
+            "text": "Even though I'm the one with a hero's name……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Ah. T-this won't do. Instead of thinking about something like this, I should do something more productive……!"
+            "text": "……Ah. T-this won't do. Instead of thinking about \nsomething like this, I should do something more productive……!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Right, I want to know more about Trainer-san. Rather than just imagining it, I want to know the real Trainer-san……)"
+            "text": "(Right, I want to know more about Trainer-san. Rather than \njust imagining it, I want to know the real Trainer-san……)",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "(But even if I say that, just asking them 『Tell me \nmore about yourself』 feels weird…… and embarrassing)",
             "name": "Zenno Rob Roy",
-            "text": "(But even if I say that, just asking them 『Tell me more about yourself』 feels weird…… and embarrassing)",
             "choice_data_list": [
                 "Huh, Rob Roy?"
             ]
         },
         {
+            "text": "Hyaah!? Ah, eh, ah, T-Trainer-san……! G-good afternoon. \nUmm…… what a coincidence, are you on a walk?",
             "name": "Zenno Rob Roy",
-            "text": "Hyaah!? Ah, eh, ah, T-Trainer-san……! G-good afternoon. Umm…… what a coincidence, are you on a walk?",
             "choice_data_list": [
-                "I was thinking of doing some shopping"
+                "<size=43>I was thinking of doing some shopping</size>"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(! C-could this be!? A chance to learn more about Trainer-san……!?)"
+            "text": "(! C-could this be!? A chance \nto learn more about Trainer-san……!?)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……M-me too. So, um…… if it's okay, c-could…… could I go together with you!?"
+            "text": "……M-me too. So, um…… if it's okay, \nc-could…… could I go together with you!?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "As expected, this bookstore's selection of books is great because it's really big……! There's lots of new releases and they keep a good stock――"
+            "text": "As expected, this bookstore's selection of books \nis great because it's really big……! There's lots \nof new releases and they keep a good stock――",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Huh? Where's Trainer-san……!? Oh no, I was so distracted by the books――……?"
+            "text": "Huh? Where's Trainer-san……!? \nOh no, I was so distracted by the books――……?",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "I had a hard time figuring out what to do. \nReally, thank you very much!",
             "name": "Unfamiliar Man",
-            "text": "I had a hard time figuring out what to do. Really, thank you very much!",
             "choice_data_list": [
                 "It's no problem"
             ]
         },
         {
-            "name": "Unfamiliar Man",
-            "text": "In that case, let's confirm it one more time. So it's that escalator over there――"
+            "text": "In that case, let's confirm it one more time. \nSo it's that escalator over there――",
+            "name": "Unfamiliar Man"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(……maybe they needed directions? Trying to find a certain shop? And when they needed help, Trainer-san stepped in……)"
+            "text": "(……maybe they needed directions? Trying to find a certain shop? \nAnd when they needed help, Trainer-san stepped in……)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Yeah, yeah. That other person seems relieved. I get it, since Trainer-san is easy to talk to!)"
+            "text": "(Yeah, yeah. That other person seems relieved. \nI get it, since Trainer-san is easy to talk to!)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Considerate, and kind…… Ehehe. So Trainer-san really is the kind of person I thought they were)"
+            "text": "(Considerate, and kind…… Ehehe. \nSo Trainer-san really is the kind of person I thought they were)",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "Sorry about earlier. \nWe got separated at the book store……",
             "name": "Zenno Rob Roy",
-            "text": "Sorry about earlier. We got separated at the book store……",
             "choice_data_list": [
                 "Don't worry about it"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……Trainer-san, you read books pretty often, don't you? You had those really thick books sitting on your desk."
+            "text": "……Trainer-san, you read books pretty often, don't you? \nYou had those really thick books sitting on your desk.",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "I've always thought it but, it seems like \nyou're doing a lot of studying, and working hard.",
             "name": "Zenno Rob Roy",
-            "text": "I've always thought it but, it seems like you're doing a lot of studying, and working hard.",
             "choice_data_list": [
                 "Really thick books?"
             ]
         },
         {
-            "text": "I tried remembering what was on my desk that would make Zenno Rob Roy say that. It's true there were some books with covers on them. Those were――",
+            "text": "I tried remembering what was on my desk that would \nmake Zenno Rob Roy say that. It's true there were \nsome books with covers on them. Those were――",
             "choice_data_list": [
                 "Those were manga I borrowed"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Eh, manga? Not technical manuals?"
+            "text": "Eh, manga? Not technical manuals?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……s-so that's what they were! I read a lot of manga too. Next time, tell me what those manga are about, okay!?"
+            "text": "……s-so that's what they were! I read a lot of manga too. \nNext time, tell me what those manga are about, okay!?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Um…… t-that's right. Earlier, that guy was talking to you, right?"
+            "text": "Um…… t-that's right. \nEarlier, that guy was talking to you, right?",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "Was he asking you where a shop was? \nTrainer-san is kind so you're easy to talk to――",
             "name": "Zenno Rob Roy",
-            "text": "Was he asking you where a shop was? Trainer-san is kind so you're easy to talk to――",
             "choice_data_list": [
                 "Oh, you mean that gym promoter?"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "G-gym promoter?"
+            "text": "G-gym promoter?",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "He told me that even though he had talked to a lot of people, none of them had even visited.",
+            "text": "He told me that even though he had talked to \na lot of people, none of them had even visited.",
             "choice_data_list": [
                 "He gave me a coupon for a free trial"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Oh…… Ohhh……! That's nice, it feels good to be able to move your body, after all!"
+            "text": "Oh…… Ohhh……! That's nice, \nit feels good to be able to move your body, after all!",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Aaah, I've done it now! To keep talking like that without confirming things first…… is rude isn't it?)"
+            "text": "(Aaah, I've done it now! To keep talking like that \nwithout confirming things first…… is rude isn't it?)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(But, it's true that Trainer-san is always working hard and is kind……)"
+            "text": "(But, it's true that Trainer-san is \nalways working hard and is kind……)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "（……But……）"
+            "text": "（……But……）",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "…………Sorry, about various things. Speaking so enthusiastically like that……"
+            "text": "…………Sorry, about various things. \nSpeaking so enthusiastically like that……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "Enthusiastically…… she probably means…… about thinking those manga were technical manuals, and thinking I was giving directions."
+            "text": "Enthusiastically…… she probably means…… about \nthinking those manga were technical manuals, \nand thinking I was giving directions."
         },
         {
-            "text": "A hard-working, kind person. It was a misunderstanding because she saw me that way――",
+            "text": "A hard-working, kind person. \nIt was a misunderstanding because she saw me that way――",
             "choice_data_list": [
                 "Thank you"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
             "text": "Eh?",
+            "name": "Zenno Rob Roy",
             "choice_data_list": [
                 "I'll work hard to be like that"
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "Trainer-san……"
+            "text": "Trainer-san……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "text": "Zenno Rob Roy seemed a little down but, I didn't think she needed to worry."
+            "text": "Zenno Rob Roy seemed a little down but, \nI didn't think she needed to worry."
         },
         {
-            "text": "If that's what being a 『Trainer』 meant to her, then I'd make that my goal."
+            "text": "If that's what being a 『Trainer』 meant to her, \nthen I'd make that my goal."
         },
         {
             "text": "And if someday, I could become like that――",
@@ -198,37 +198,37 @@
             ]
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "……! Trainer-san……"
+            "text": "……! Trainer-san……",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(So that's what they were thinking……)"
+            "text": "(So that's what they were thinking……)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(As I thought, Trainer-san is kind. ……But)"
+            "text": "(As I thought, Trainer-san is kind. \n……But)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(Right now, about Trainer-san…… doesn't that mean I'm pushing my ideals on them……?)"
+            "text": "(Right now, about Trainer-san…… \ndoesn't that mean I'm pushing my ideals on them……?)",
+            "name": "Zenno Rob Roy"
         },
         {
-            "name": "Zenno Rob Roy",
-            "text": "(I'm happy they're thinking about me. The kindness of trying to become my ideal…… is heart-warming)"
+            "text": "(I'm happy they're thinking about me. \nThe kindness of trying to become my ideal…… is heart-warming)",
+            "name": "Zenno Rob Roy"
         },
         {
+            "text": "(But…… living up to my one-sided ideals. \nI don't want Trainer-san to feel forced in to it)",
             "name": "Zenno Rob Roy",
-            "text": "(But…… living up to my one-sided ideals. I don't want Trainer-san to feel forced in to it)",
             "choice_data_list": [
                 "We should probably head back"
             ]
         },
         {
-            "text": "While gazing at the sunset, I feel that I want to do my best to get closer to that ideal――"
+            "text": "While gazing at the sunset, I feel that I want \nto do my best to get closer to that ideal――"
         },
         {
-            "text": "Zenno Rob Roy seemed to be troubled with complex emotions as she gazed down at the orange-tinted asphalt."
+            "text": "Zenno Rob Roy seemed to be troubled with complex emotions \nas she gazed down at the orange-tinted asphalt."
         }
     ]
 }

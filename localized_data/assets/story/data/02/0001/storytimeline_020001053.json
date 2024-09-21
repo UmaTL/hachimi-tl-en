@@ -1,61 +1,64 @@
 {
     "text_block_list": [
         {
-            "text": "McQueen, congratulations! That race…! It was amazing!"
+            "text": "McQueen, congratulations! \nThat race…! It was amazing!",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…"
+            "text": "…",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "McQueen…?"
+            "text": "McQueen…?",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I did it!!"
+            "text": "I did it!!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Uwaah!?"
+            "text": "Uwaah!?",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I finally won the Tennō Shō!! Now I can show this plaque to the Mejiro Family!!"
+            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I was shocked by Mejiro McQueen's display of joy."
+            "text": "I was shocked by \nMejiro McQueen's display of joy."
         },
         {
-            "text": "I guess it's because the immense amount of pressure that she had on her to win has finally been lifted."
+            "text": "I guess it's because the immense amount of pressure that she had \non her to win has finally been lifted."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I'm sorry, I may have gotten a little carried away. But I'm just so happy."
+            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "And the only reason I was able to achieve this was because of you, Trainer-san."
+            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "You devoted everything for me, and for that I am grateful."
+            "text": "You devoted everything for me, \nand for that I am grateful.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I should be thanking you. Despite being inexperienced, you still followed my orders. And in the end, you gave me the best present possible, this amazing victory."
+            "text": "I should be thanking you. Despite being inexperienced, you still \nfollowed my orders. And in the end, you gave me the best present \npossible, this amazing victory."
         },
         {
-            "text": "…But if I were to say that, she'd get upset and say “please have a bit more confidence in yourself.”",
+            "text": "…But if I were to say that, she'd get upset and say “please \nhave a bit more confidence in yourself.”",
             "choice_data_list": [
-                "Our reborn Sirius will continue to win!",
-                "Our reborn Sirius will continue to win!"
+                "<size=43>Our reborn Sirius will continue to win!</size>",
+                "<size=43>Our reborn Sirius will continue to win!</size>"
             ]
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, we'll have many more victories from now on, I'm sure of it!"
+            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Well, it's almost time for the Winning Live. I need to show my appreciation to everyone that came out to support me!"
+            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!",
+            "name": "Mejiro McQueen"
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
     "text_block_list": [
         {
-            "text": "The day after signing a contract with Mejiro Ramonu. I was so ecstatic that I had forgot to exchange contact information with her, so I went looking for her.",
+            "text": "The day after signing a contract with Mejiro Ramonu. \nI was so ecstatic that I had forgot to exchange contact \ninformation with her, so I went looking for her.",
             "choice_data_list": [
                 "(I want to discuss what comes next!)"
             ]
         },
         {
-            "text": "The dream I wanted to pursue with her just wouldn't leave my mind. That race, and that race……I tried to suppress my excitement as I went around searching――"
+            "text": "The dream I wanted to pursue with her just wouldn't \nleave my mind. That race, and that race……I tried to \nsuppress my excitement as I went around searching――"
         },
         {
-            "text": "――Or at least I tried……for some reason, I couldn't find her at all. And that continued on in to the next day……"
+            "text": "――Or at least I tried……for some reason, I couldn't find \nher at all. And that continued on in to the next day……"
         },
         {
             "text": "And the next day――"
@@ -19,195 +19,195 @@
             "text": "And the next――"
         },
         {
-            "text": "Maybe it was just a twist of fate, but I couldn't find Mejiro Ramonu at all. It was a day off, but I entered the gym thinking she was training but――as expected, she wasn't here.",
+            "text": "Maybe it was just a twist of fate, but I couldn't find Mejiro \nRamonu at all. It was a day off, but I entered the gym thinking \nshe was training but――as expected, she wasn't here.",
             "choice_data_list": [
                 "Where are you, Ramonu……!?",
                 "Where are you, Ramonu……!?"
             ]
         },
         {
-            "name": "???",
             "text": "Excuse me……are you looking for my older sister?",
+            "name": "???",
             "choice_data_list": [
                 "You're……",
                 "You're……"
             ]
         },
         {
-            "name": "Mejiro Ardan",
             "text": "I'm Mejiro Ardan. Nee-sama――……Mejiro Ramonu's little sister.",
+            "name": "Mejiro Ardan",
             "choice_data_list": [
                 "(Little sister……!)"
             ]
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "You're my older sister's trainer, right? I've heard about it from the people at home."
+            "text": "You're my older sister's trainer, right? \nI've heard about it from the people at home.",
+            "name": "Mejiro Ardan"
         },
         {
+            "text": "If you're looking for my older sister, then I might have an \nidea where she is. Around this time……I'm almost certain.",
             "name": "Mejiro Ardan",
-            "text": "If you're looking for my older sister, then I might have an idea where she is. Around this time……I'm almost certain.",
             "choice_data_list": [
                 "You'll tell me!?"
             ]
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "O-of course. ……But…… would it be alright for me to go with you?"
+            "text": "O-of course. \n……But…… would it be alright for me to go with you?",
+            "name": "Mejiro Ardan"
         },
         {
-            "text": "The place that Mejiro Ardan took me was――the race track. The entire venue was filled with excitement for today's Main Race.",
+            "text": "The place that Mejiro Ardan took me was――the race track. \nThe entire venue was filled with excitement for today's Main Race.",
             "choice_data_list": [
                 "Did Ramonu……reserve seats?"
             ]
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "No, Nee-sama always likes to pick a spot close to the turf. Most likely, right around……Ah."
+            "text": "No, Nee-sama always likes to pick a spot close to the turf. \nMost likely, right around……Ah.",
+            "name": "Mejiro Ardan"
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "……",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "(She's really focused……)"
             ]
         },
         {
-            "text": "I hesitated to speak to her since she was staring so intently out at the turf…… Then, the fanfare to signal the beginning of the race rang out."
+            "text": "I hesitated to speak to her since she was staring \nso intently out at the turf…… Then, the fanfare \nto signal the beginning of the race rang out."
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "……――"
+            "text": "……――",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "From the start, she concentrated on the race, never turning her eyes away……It was like she was completely absorbed in to the world of racing."
+            "text": "From the start, she concentrated on the race, \nnever turning her eyes away……It was like she \nwas completely absorbed in to the world of racing."
         },
         {
-            "text": "Her cheeks were flushed and her eyes were sparkling as she looked out on the turf. There was none of the intimidating aura or presence from before, it was almost like――",
+            "text": "Her cheeks were flushed and her eyes were sparkling as \nshe looked out on the turf. There was none of the intimidating \naura or presence from before, it was almost like――",
             "choice_data_list": [
                 "(――She's in love.)"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "……――"
+            "text": "……――",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "The cheers grew even louder. As the race entered the final straight, the competition grew more intense. I was drawn in instantly, before I realized it――",
+            "text": "The cheers grew even louder. As the race entered \nthe final straight, the competition grew more intense. \nI was drawn in instantly, before I realized it――",
             "choice_data_list": [
                 "Everyone, do your best……!"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "――So you like it."
+            "text": "――So you like it.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "I was soaking it all in while looking at the goal board…… Mejiro Ramonu had suddenly spoken, probably to herself.",
+            "text": "I was soaking it all in while looking at the goal board…… \nMejiro Ramonu had suddenly spoken, probably to herself.",
             "choice_data_list": [
                 "You must really like races too",
                 "You must really like races too"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "No."
+            "text": "No.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "I love them.",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Aah, after all……isn't that right? How it sets your heart aflame, so intensely……The heat. The ache. The joy……"
+            "text": "Aah, after all……isn't that right? How it sets your heart \naflame, so intensely……The heat. The ache. The joy……",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "The one thing……that drives me. Only races――My love."
+            "text": "The one thing……that drives me. \nOnly races――My love.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Preparing for those days, with a perfect arrangement……Uma Musume who pour their all in to their running. The sound of feet digging in to the ground, reverberating through the soul――"
+            "text": "Preparing for those days, with a perfect arrangement……Uma \nMusume who pour their all in to their running. The sound of \nfeet digging in to the ground, reverberating through the soul――",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "The frantic breath all around, an intensity palpable to the skin, the sound of a beating heart. The overwhelming cheers coming from across the fence. Shouting, expectations, excitement……――"
+            "text": "The frantic breath all around, an intensity palpable to the skin, \nthe sound of a beating heart. The overwhelming cheers coming \nfrom across the fence. Shouting, expectations, excitement……――",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Using only your own body to compete, seeking the glory of victory…… All of it, is absolutely irresistible."
+            "text": "Using only your own body to compete, seeking the glory \nof victory…… All of it, is absolutely irresistible.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "And what is born from that, is a gem of a race…… Offerring up such a perfect, complete victory……is proof of my love."
+            "text": "And what is born from that, is a gem of a race…… \nOfferring up such a perfect, complete victory……is proof of my love.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "In addition to that――that means the Triple Tiara, doesn't it?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "The Triple Tiara……!"
             ]
         },
         {
-            "text": "I reacted involuntarily. She was also aiming for the Triple Tiara…… It seems like my intuition at the time was not wrong."
+            "text": "I reacted involuntarily. She was also aiming for the Triple Tiara…… \nIt seems like my intuition at the time was not wrong."
         },
         {
+            "text": "…… \nAnd so……Ardan.",
+            "name": "Mejiro Ramonu"
+        },
+        {
+            "text": "Ah, yes……?",
+            "name": "Mejiro Ardan"
+        },
+        {
+            "text": "Who is this? \nYours?",
             "name": "Mejiro Ramonu",
-            "text": "…… And so……Ardan."
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Ah, yes……?"
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "Who is this? Yours?",
             "choice_data_list": [
                 "(……did she forget completely!?)"
             ]
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "N-nee-sama……they're your trainer. You formed a contract, didn't you?"
+            "text": "N-nee-sama……they're your trainer. \nYou formed a contract, didn't you?",
+            "name": "Mejiro Ardan"
         },
         {
+            "text": "……Aah. \nYou, are the preparations for a debut coming along?",
             "name": "Mejiro Ramonu",
-            "text": "……Aah. You, are the preparations for a debut coming along?",
             "choice_data_list": [
-                "Before that, there's various things……"
+                "<size=43>Before that, there's various things……</size>"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Not necessary. Just take care of the preparations, please."
+            "text": "Not necessary. \nJust take care of the preparations, please.",
+            "name": "Mejiro Ramonu"
         },
         {
+            "text": "Ah, Nee-sama……! \n……Um, Trainer-san.",
             "name": "Mejiro Ardan",
-            "text": "Ah, Nee-sama……! ……Um, Trainer-san.",
             "choice_data_list": [
                 "It's fine, thank you……"
             ]
         },
         {
-            "text": "It was quite a shock that I had been forgotten…… But like this, I understood her love of races and her dream. These were the first steps to building trust."
+            "text": "It was quite a shock that I had been forgotten…… \nBut like this, I understood her love of races and her \ndream. These were the first steps to building trust."
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "……Um. Would it be alright to ask you something? Trainer-san, what happened that led to you forming a contract with my older sister?"
+            "text": "……Um. Would it be alright to ask you something? Trainer-san, \nwhat happened that led to you forming a contract with my older sister?",
+            "name": "Mejiro Ardan"
         },
         {
-            "text": "After watching her race, I immediately went chasing after her. She told me that I was the first so she signed……that's what I explained."
+            "text": "After watching her race, I immediately went \nchasing after her. She told me that I was the \nfirst so she signed……that's what I explained."
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "……As I thought."
+            "text": "……As I thought.",
+            "name": "Mejiro Ardan"
         },
         {
-            "name": "Mejiro Ardan",
-            "text": "Truthfully……Trainer-san isn't the first one to ask. The people that formed a contract with my sister――"
+            "text": "Truthfully……Trainer-san isn't the first one to ask. \nThe people that formed a contract with my sister――",
+            "name": "Mejiro Ardan"
         }
     ]
 }

@@ -1,205 +1,205 @@
 {
     "text_block_list": [
         {
-            "text": "Shortly after I was hired at Tracen Academy, Chairman Akikawa had asked me show a transfer student around the academy."
+            "text": "Shortly after I was hired at Tracen Academy, Chairman Akikawa \nhad asked me show a transfer student around the academy."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "I appreciate your cooperation. She's the Uma Musume I invited from America――"
+            "text": "I appreciate your cooperation. \nShe's the Uma Musume I invited from America――",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――I'm Symboli Kris S."
+            "text": "――I'm Symboli Kris S.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Kris S, you can go take a look right away. Your presence will breathe new life in to this school."
+            "text": "Kris S, you can go take a look right away. \nYour presence will breathe new life in to this school.",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "Yes. Invitation, received―― I'm grateful. And my mission―― I will complete it without fail."
+            "text": "Yes. Invitation, received―― I'm grateful. \nAnd my mission―― I will complete it without fail.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Hm…… that's right. Engrave your presence and strength in to the Turf of this country. Well, then――"
+            "text": "Hm…… that's right. Engrave your presence and strength \nin to the Turf of this country. Well, then――",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――Guidance. ――I'll leave it to you."
+            "text": "――Guidance. ――I'll leave it to you.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Symboli Kris S seemed like the quiet type but…… being overseas in an unfamiliar school could be unsettling too. That's why――",
+            "text": "Symboli Kris S seemed like the quiet type but…… being overseas in \nan unfamiliar school could be unsettling too. That's why――",
             "choice_data_list": [
                 "I'll try to make the tour fun!"
             ]
         },
         {
-            "text": "For starters, the training gym, a point of pride of Tracen Academy! Undoubtedly, the number of specialized machines would be a sight to behold!"
+            "text": "For starters, the training gym, a point of pride \nof Tracen Academy! Undoubtedly, the number of specialized \nmachines would be a sight to behold!"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――Looks fulfilling."
+            "text": "――Looks fulfilling.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Next, was the cafeteria, universally loved by everyone! Just by eating something sweet, it'll fill you with happiness!"
+            "text": "Next, was the cafeteria, universally loved by everyone! \nJust by eating something sweet, it'll fill you with happiness!"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――No. Snacking――is to be avoided."
+            "text": "――No. Snacking――is to be avoided.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "For large scale events, occasionally, the outdoor stage is used……!"
+            "text": "For large scale events, occasionally, \nthe outdoor stage is used……!"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "…… ……――wide open."
+            "text": "…… ……――wide open.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "And what you've been waiting for, Tracen Academy's pride, the training course! If it's an Uma Musume that loves racing, they'll definitely love it……!"
+            "text": "And what you've been waiting for, Tracen Academy's pride, the \ntraining course! If it's an Uma Musume that loves racing, they'll \ndefinitely love it……!"
         },
         {
-            "name": "Symboli Kris S",
             "text": "Turf……――the grass, is really green.",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "(Is she enjoying it at all……?)"
             ]
         },
         {
-            "text": "No matter where I took her, Symboli Kris S remained expressionless. I was starting to feel uneasy, and that's when――"
+            "text": "No matter where I took her, Symboli Kris S remained \nexpressionless. I was starting to feel uneasy, and that's when――"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Hey, that Uma Musume…… isn't she the one from the rumors? The one invited from America."
+            "text": "Hey, that Uma Musume…… isn't she the one from the rumors? \nThe one invited from America.",
+            "name": "Veteran Trainer A"
         },
         {
-            "name": "Mid-Rank Trainer A",
-            "text": "Uwah, you're right! To think the \"Emperor\" was the one to invite her…… that must mean, she's got amazing abilities, huh?"
+            "text": "Uwah, you're right! To think the \"Emperor\" was the one to \ninvite her…… that must mean, she's got amazing abilities, huh?",
+            "name": "Mid-Rank Trainer A"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "Hey, you! If you'd like, do you want to try running? It's open now, so it's a good chance to take a look at the course."
+            "text": "Hey, you! If you'd like, do you want to try running? It's open \nnow, so it's a good chance to take a look at the course.",
+            "name": "Mid-rank Trainer A"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……？"
+            "text": "……？",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Everyone's curious, you know. What was it that the 7 crown Uma Musume Rudolf-san saw that made her decide to invite you……?"
+            "text": "Everyone's curious, you know. What was it that the 7 crown Uma \nMusume Rudolf-san saw that made her decide to invite you……?",
+            "name": "Veteran Trainer A"
         },
         {
-            "text": "All the senpai trainers spotted Symboli Kris S, and before I realized it, we were surrounded……!"
+            "text": "All the senpai trainers spotted Symboli Kris S, \nand before I realized it, we were surrounded……!"
         },
         {
-            "name": "Symboli Kris S",
             "text": "……",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "You can run if you want, I'll wait"
             ]
         },
         {
+            "text": "……――No. \nGuidance―― In progress.",
             "name": "Symboli Kris S",
-            "text": "……――No. Guidance―― In progress.",
             "choice_data_list": [
                 "Eh……？"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――――Please continue."
+            "text": "――――Please continue.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "I could only nod in response to that―― I then ask if she's really okay with that."
+            "text": "I could only nod in response to that―― \nI then ask if she's really okay with that."
         },
         {
+            "text": "――Up until now―― You've politely guided me. \n……―― I'll listen―― until the end.",
             "name": "Symboli Kris S",
-            "text": "――Up until now―― You've politely guided me. ……―― I'll listen―― until the end.",
             "choice_data_list": [
                 "G-got it……!"
             ]
         },
         {
-            "text": "And so we retreated from the gaze of my senpais. For some reason, we ended up back at the trainers' offices――",
+            "text": "And so we retreated from the gaze of my senpais. \nFor some reason, we ended up back at the trainers' offices――",
             "choice_data_list": [
                 "Was it fine to continue the tour?",
                 "Was it fine to continue the tour?"
             ]
         },
         {
-            "text": "In a place with so many veterans, if she had shown her strength, the chances of being scouted would increase significantly."
+            "text": "In a place with so many veterans, if she had shown her strength, \nthe chances of being scouted would increase significantly."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……――――Yeah."
+            "text": "……――――Yeah.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Really? When I was about to respond with that―― I noticed that Symboli Kris S' gaze had wavered for a moment.",
+            "text": "Really? When I was about to respond with that―― \nI noticed that Symboli Kris S' gaze had wavered for a moment.",
             "choice_data_list": [
                 "……？"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――……"
+            "text": "――……",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――It was…… helpful."
+            "text": "――It was…… helpful.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "The words that were eventually spoken were still apathetic. But that long pause meant she was 『Searching for the right words』."
+            "text": "The words that were eventually spoken were still apathetic. But \nthat long pause meant she was 『Searching for the right words』."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……――very much so. ――That's why, please continue."
+            "text": "……――very much so. \n――That's why, please continue.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Very. ――It was very helpful. Considering how much time she had spent considering that modifier, I believed it was not flattery.",
+            "text": "Very. ――It was very helpful. Considering how much time she had \nspent considering that modifier, I believed it was not flattery.",
             "choice_data_list": [
                 "Then, I'm glad!"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――――"
+            "text": "――――",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Was it awkwardness, or discipline, or―― was she just too kind? While feeling a sense of warmth, I continued the tour."
+            "text": "Was it awkwardness, or discipline, or―― was she just too kind? \nWhile feeling a sense of warmth, I continued the tour."
         },
         {
-            "text": "While I was taking a break after the tour was over―― Symboli Rudolf stopped by to ask about today."
+            "text": "While I was taking a break after the tour was over―― \nSymboli Rudolf stopped by to ask about today."
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "――I see. Even though it was quite sudden, you still did your best to carry it out. I can't thank you enough."
+            "text": "――I see. Even though it was quite sudden, you still did your best \nto carry it out. I can't thank you enough.",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Trainer <username>, I know it's an unreasonable request but…… If you don't mind, after this would you continue to look after her?"
+            "text": "Trainer <username>, I know it's an unreasonable request but…… \nIf you don't mind, after this would you continue to look after her?",
+            "name": "Symboli Rudolf"
         },
         {
-            "text": "――Certainly, she seemed to be a kind but awkward Uma Musume. There would probably be times where she would be misunderstood."
+            "text": "――Certainly, she seemed to be a kind but awkward Uma Musume. \nThere would probably be times where she would be misunderstood."
         },
         {
-            "name": "Symboli Rudolf",
             "text": "For better or worse, she will gather attention. That's why――",
+            "name": "Symboli Rudolf",
             "choice_data_list": [
                 "If you're fine with it, leave it to me"
             ]
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "……I appreciate it."
+            "text": "……I appreciate it.",
+            "name": "Symboli Rudolf"
         },
         {
-            "text": "Symboli Kris S. She had the abilities to be invited from overseas, and an aura that made it clear she was not ordinary―― but, probably, she was still a kind Uma Musume.",
+            "text": "Symboli Kris S. She had the abilities to be invited from \noverseas, and an aura that made it clear she was not ordinary―― \nbut, probably, she was still a kind Uma Musume.",
             "choice_data_list": [
-                "(As a newbie, it has nothing to do with me……)",
-                "(As a newbie, it has nothing to do with me……)"
+                "<size=35>(As a newbie, it has nothing to do with me……)</size>",
+                "<size=35>(As a newbie, it has nothing to do with me……)</size>"
             ]
         },
         {
-            "text": "She was attracting attention from well known veteran trainers, so the chances of me becoming her trainer were quite low."
+            "text": "She was attracting attention from well known veteran trainers, \nso the chances of me becoming her trainer were quite low."
         },
         {
             "text": "That made me feel a little down."

@@ -1,153 +1,155 @@
 {
     "text_block_list": [
         {
-            "name": "Narration",
-            "text": "In this vast universe――there exist inexplicable lifeforms. Lifeforms that we cannot perceive."
+            "text": "In this vast universe――there exist inexplicable lifeforms. \nLifeforms that we cannot perceive.",
+            "name": "Narration"
         },
         {
-            "name": "Narration",
-            "text": "『Aliens』 and multi-dimensional organisms inhabiting an 『Astral Body』. Someday, one such existence may decide to descend upon this planet."
+            "text": "『Aliens』 and multi-dimensional organisms inhabiting an 『Astral Body』. \nSomeday, one such existence may decide to descend upon this planet.",
+            "name": "Narration"
         },
         {
-            "text": "――Tracen Academy at night. I had some business to attend to…… but then I heard a sound from overhead.",
+            "text": "――Tracen Academy at night. I had some business to attend to…… \nbut then I heard a sound from overhead.",
             "choice_data_list": [
                 "Did that……come from the roof?",
                 "Did that……come from the roof?"
             ]
         },
-        {},
         {
-            "text": "If something had happened with the HVAC system, it'd be a big problem. I borrowed a key from the night staff and hurried to the roof to see what happened."
+            "text": ""
+        },
+        {
+            "text": "If something had happened with the HVAC system, \nit'd be a big problem. I borrowed a key from the night \nstaff and hurried to the roof to see what happened."
         },
         {
             "text": "And, there on the roof――"
         },
         {
-            "text": "Was a girl I didn't recognize. Those were Uma Musume ears. But……the shape seemed a little off."
+            "text": "Was a girl I didn't recognize. Those were Uma Musume ears. \nBut……the shape seemed a little off."
         },
         {
-            "text": "No matter who it was, even an Uma Musume couldn't jump to the roof of a locked school building. Just who was this girl……?"
+            "text": "No matter who it was, even an Uma Musume couldn't jump to the \nroof of a locked school building. Just who was this girl……?"
         },
         {
-            "name": "???",
             "text": "……………………",
+            "name": "???",
             "choice_data_list": [
                 "Um, excuse me……"
             ]
         },
         {
-            "text": "My voice was shaky out of fear. Would my words……even get through to her?"
+            "text": "My voice was shaky out of fear. \nWould my words……even get through to her?"
         },
         {
-            "name": "???",
-            "text": "…………\"Communication\""
+            "text": "…………\"Communication\"",
+            "name": "???"
         },
         {
-            "name": "Neo Universe",
-            "text": "\"Communication\" with Neo Universe……would you like to try it? That is, if……you're \"INTI\" it."
+            "text": "\"Communication\" with Neo Universe……would you like to try it? \nThat is, if……you're \"INTI\" it.",
+            "name": "Neo Universe"
         },
         {
-            "text": "Neo Universe……was that this girl's name? I felt like I could somewhat understand her words."
+            "text": "Neo Universe……was that this girl's name? \nI felt like I could somewhat understand her words."
         },
         {
-            "text": "Was she an Uma Musume, or some mysterious lifeform shaped like an Uma Musume……? Either way, it seemed like we were on the same wavelength. In that case……",
+            "text": "Was she an Uma Musume, or some mysterious lifeform \nshaped like an Uma Musume……? Either way, it seemed \nlike we were on the same wavelength. In that case……",
             "choice_data_list": [
                 "What are you doing here?",
                 "What are you doing here?"
             ]
         },
         {
+            "text": "\"Discontinuity\"……I was trying to repair it.",
+            "name": "Neo Universe"
+        },
+        {
+            "text": "Because the scale that rang out……was one of my 『Favorites』. \nWhen it resonates within, it puts me at 『Peace』.",
+            "name": "Neo Universe"
+        },
+        {
+            "text": "――Repair the discontinuity. I didn't know what that meant, \nand I don't know what would happen after that. But……"
+        },
+        {
+            "text": "The girl herself didn't seem to \nbe harmful to those around her."
+        },
+        {
+            "text": "Your alignment is……\"Educator\". \n『Trainer』……is what you're called?",
             "name": "Neo Universe",
-            "text": "\"Discontinuity\"……I was trying to repair it."
-        },
-        {
-            "name": "Neo Universe",
-            "text": "Because the scale that rang out……was one of my 『Favorites』. When it resonates within, it puts me at 『Peace』."
-        },
-        {
-            "text": "――Repair the discontinuity. I didn't know what that meant, and I don't know what would happen after that. But……"
-        },
-        {
-            "text": "The girl herself didn't seem to be harmful to those around her."
-        },
-        {
-            "name": "Neo Universe",
-            "text": "Your alignment is……\"Educator\". 『Trainer』……is what you're called?",
             "choice_data_list": [
                 "Yeah, I'm a trainer",
                 "Yeah, I'm a trainer"
             ]
         },
         {
-            "text": "I don't have an Uma Musume that I'm responsible for. But when I told her I was a trainer……"
+            "text": "I don't have an Uma Musume that I'm responsible for. \nBut when I told her I was a trainer……"
         },
         {
-            "name": "Neo Universe",
-            "text": "Trainer……If that is a complementary existence……then that is what I \"seek\"."
+            "text": "Trainer……If that is a complementary \nexistence……then that is what I \"seek\".",
+            "name": "Neo Universe"
         },
         {
-            "name": "Neo Universe",
-            "text": "\"Monitoring\" of a \"Campaign\"…… No, it's something beyond that……"
+            "text": "\"Monitoring\" of a \"Campaign\"…… \nNo, it's something beyond that……",
+            "name": "Neo Universe"
         },
         {
-            "name": "Neo Universe",
-            "text": "It's not simply \"Monitoring\"……『???』……"
+            "text": "It's not simply \"Monitoring\"……『???』……",
+            "name": "Neo Universe"
         },
         {
-            "text": "……It seemed like she was requesting something of me. However, she seemed unable to properly put it in to words."
+            "text": "……It seemed like she was requesting something of me. \nHowever, she seemed unable to properly put it in to words."
         },
         {
-            "text": "This girl who looked like an Uma Musume, \"Neo Universe\", just what was it she wanted?"
+            "text": "This girl who looked like an Uma Musume, \n\"Neo Universe\", just what was it she wanted?"
         },
         {
-            "name": "Neo Universe",
-            "text": "First, to \"manifest\". To be \"perceived\"……"
+            "text": "First, to \"manifest\". \nTo be \"perceived\"……",
+            "name": "Neo Universe"
         },
         {
-            "name": "Neo Universe",
-            "text": "If I can't do that, then I won't \"be on track\"……"
+            "text": "If I can't do that, then I won't \"be on track\"……",
+            "name": "Neo Universe"
         },
         {
-            "text": "Neo Universe looked up to the sky. I looked up as well, wondering what was up there. When I tried to tell her \"I don't see anything\"……"
+            "text": "Neo Universe looked up to the sky. I looked \nup as well, wondering what was up there. When \nI tried to tell her \"I don't see anything\"……"
         },
         {
-            "text": "She was……nowhere to be seen. As if she had disappeared in to a rift in space-time."
+            "text": "She was……nowhere to be seen. \nAs if she had disappeared in to a rift in space-time."
         },
         {
-            "text": "\"Neo Universe\"……had she even really existed? Or had I just been imagining things?"
+            "text": "\"Neo Universe\"……had she even really existed? \nOr had I just been imagining things?"
         },
         {
-            "text": "――Several days after that. At a mock race."
+            "text": "――Several days after that. \nAt a mock race."
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "Seems like there will be a lot of promising girls entering today."
+            "text": "Seems like there will be a lot of \npromising girls entering today.",
+            "name": "Mid-rank Trainer A"
         },
         {
-            "name": "Mid-rank Trainer B",
-            "text": "Yeah, I'm looking forward to how the race will turn out. Out of all of them……"
+            "text": "Yeah, I'm looking forward to how the \nrace will turn out. Out of all of them……",
+            "name": "Mid-rank Trainer B"
         },
         {
-            "name": "Mid-rank Trainer A",
             "text": "W-who's that……?",
+            "name": "Mid-rank Trainer A",
             "choice_data_list": [
                 "You're……!?",
                 "You're……!?"
             ]
         },
         {
-            "text": "That girl, \"Neo Universe\" had suddenly appeared at the racetrack. And then――"
+            "text": "That girl, \"Neo Universe\" had suddenly \nappeared at the racetrack. And then――"
         },
         {
-            "name": "Neo Universe",
-            "text": "I'm going to……『Compete』"
+            "text": "I'm going to……『Compete』",
+            "name": "Neo Universe"
         },
         {
-            "name": "Neo Universe",
-            "text": "Neo Universe is a……\"STDA\" ……so to acquire \"synapses\"……"
+            "text": "Neo Universe is a……\"STDA\" \n……so to acquire \"synapses\"……",
+            "name": "Neo Universe"
         },
         {
-            "text": "Everyone was stunned as she walked out on to the turf. And so, the mysterious girl unexpectedly entered the race."
+            "text": "Everyone was stunned as she walked out on to the turf. \nAnd so, the mysterious girl unexpectedly entered the race."
         }
     ]
 }

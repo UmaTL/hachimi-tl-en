@@ -1,267 +1,267 @@
 {
     "text_block_list": [
         {
-            "text": "Summer Training Camp had started. Mejiro Ramonu was stoically carrying out the training without any input from me."
+            "text": "Summer Training Camp had started. Mejiro Ramonu was stoically \ncarrying out the training without any input from me."
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "――Haa…… Haa……",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "Yeah……looking good. Continue",
                 "Yeah……looking good. Continue"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Huu――!"
+            "text": "Huu――!",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "She was doing everything perfectly, there were no issues. But, not being able to understand what she's thinking had me worried……",
+            "text": "She was doing everything perfectly, there were no issues. \nBut, not being able to understand what she's thinking had me worried……",
             "choice_data_list": [
                 "(I want to understand her……)"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Thanks for the meal. Then, back to training――"
+            "text": "Thanks for the meal. \nThen, back to training――",
+            "name": "Mejiro Ramonu"
         },
         {
+            "text": "Oh, there you are~. Hey, did you hear? \nSeems like there's going to be a festival tonight.",
             "name": "Trainer Colleague",
-            "text": "Oh, there you are~. Hey, did you hear? Seems like there's going to be a festival tonight.",
             "choice_data_list": [
                 "Really?",
                 "Really?"
             ]
         },
         {
-            "name": "Trainer Colleague",
-            "text": "Yeah! And, that thing from your hometown…… what was it called? You know, that! That tasty looking gourmet food is going to be sold――"
+            "text": "Yeah! And, that thing from your hometown…… \nwhat was it called? You know, that! That tasty \nlooking gourmet food is going to be sold――",
+            "name": "Trainer Colleague"
         },
         {
-            "text": "He was all smiles as he talked about the place. To me, it wasn't too unusual, but the night festival sounded fun."
+            "text": "He was all smiles as he talked about the place. To me, \nit wasn't too unusual, but the night festival sounded fun."
         },
         {
+            "text": "Well, keep it in mind. A bunch of the other trainers \nand their Uma Musume are going too. Things'll go \nmuch smoother that way, after all. Hahahaa.",
             "name": "Trainer Colleague",
-            "text": "Well, keep it in mind. A bunch of the other trainers and their Uma Musume are going too. Things'll go much smoother that way, after all. Hahahaa.",
             "choice_data_list": [
                 "Ohhh……A festival, he said"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "I see."
+            "text": "I see.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "I thought maybe if we went together we could interact more, but it seems she's not interested. Well, knowing her, she might change her mind later, maybe……?",
+            "text": "I thought maybe if we went together we could interact \nmore, but it seems she's not interested. Well, knowing \nher, she might change her mind later, maybe……?",
             "choice_data_list": [
                 "(If she's in a good mood, I'll ask……?)"
             ]
         },
         {
-            "text": "Or, at least that was what I was thinking, but…… In the evening, a butler from the Mejiro family came looking for her."
+            "text": "Or, at least that was what I was thinking, but…… In the evening, \na butler from the Mejiro family came looking for her."
         },
         {
-            "name": "Mejiro Family Butler",
-            "text": "――And so, I was entrusted with this invitation by the fans. The party will be held on a modest ship nearby, so they would like you to attend……"
+            "text": "――And so, I was entrusted with this invitation \nby the fans. The party will be held on a modest \nship nearby, so they would like you to attend……",
+            "name": "Mejiro Family Butler"
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "I see.",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "……!?"
             ]
         },
         {
-            "name": "Mejiro Family Butler",
-            "text": "It's being held by that businessman who sends gifts almost every month. Apparently they happened to be here attempting to escape the heat."
+            "text": "It's being held by that businessman who sends \ngifts almost every month. Apparently they happened \nto be here attempting to escape the heat.",
+            "name": "Mejiro Family Butler"
         },
         {
+            "text": "Who might that be……?",
+            "name": "Mejiro Ramonu"
+        },
+        {
+            "text": "Well, it's fine. 『I will attend』, would you mind telling them?",
+            "name": "Mejiro Ramonu"
+        },
+        {
+            "text": "The butler bowed and left. I was surprised by how \nsudden it was, but for her, I guess it was normal."
+        },
+        {
+            "text": "Seems like the night breeze is coming in \n……Notify the school, would you?",
             "name": "Mejiro Ramonu",
-            "text": "Who might that be……?"
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "Well, it's fine. 『I will attend』, would you mind telling them?"
-        },
-        {
-            "text": "The butler bowed and left. I was surprised by how sudden it was, but for her, I guess it was normal."
-        },
-        {
-            "name": "Mejiro Ramonu",
-            "text": "Seems like the night breeze is coming in ……Notify the school, would you?",
             "choice_data_list": [
                 "…………"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "……Hello?"
+            "text": "……Hello?",
+            "name": "Mejiro Ramonu"
         },
         {
+            "text": "Heeeeeey~, finished with training~? \nAbout the festival, what're you gonna do?",
             "name": "Trainer Colleague",
-            "text": "Heeeeeey~, finished with training~? About the festival, what're you gonna do?",
             "choice_data_list": [
                 "Sorry, I'll have to pass"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "…………?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "She has something to attend to"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "I didn't ask you to come with me though?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "I want to go with you",
                 "I want to go with you"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Hmmmmm. ……I see."
+            "text": "Hmmmmm. ……I see.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Trainer Colleague",
-            "text": "Okay……! Then, next time when we get a chance~~!"
+            "text": "Okay……! Then, next time when we get a chance~~!",
+            "name": "Trainer Colleague"
         },
         {
-            "text": "Then, I followed her to the venue written on the invitation. There was a luxurious cruise ship moored by the dock in the distance.",
+            "text": "Then, I followed her to the venue written on \nthe invitation. There was a luxurious cruise \nship moored by the dock in the distance.",
             "choice_data_list": [
                 "[Modest], huh……?"
             ]
         },
         {
-            "text": "In any case, this was probably fine. I wasn't invited so, I was thinking of just waiting for her nearby."
+            "text": "In any case, this was probably fine. I wasn't invited so, \nI was thinking of just waiting for her nearby."
         },
         {
-            "name": "Ramonu Fan",
-            "text": "Aaaah~~! Ramonu-san! I've been waiting for you…… Oh, that badge…… are you Ramonu-san's trainer!?"
+            "text": "Aaaah~~! Ramonu-san! I've been waiting for you…… \nOh, that badge…… are you Ramonu-san's trainer!?",
+            "name": "Ramonu Fan"
         },
         {
-            "name": "Ramonu Fan",
-            "text": "I see, since it's training camp I suppose it's normal your trainer would be with you……! I apologize for forgetting about that. Now, to the ship……!"
+            "text": "I see, since it's training camp I suppose it's normal \nyour trainer would be with you……! I apologize \nfor forgetting about that. Now, to the ship……!",
+            "name": "Ramonu Fan"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "So she says……lucky you."
+            "text": "So she says……lucky you.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "On deck, a sparkly scene spread before me. The ship headed offshore, leaving the hustle and bustle of land behind.",
+            "text": "On deck, a sparkly scene spread before me. The ship headed \noffshore, leaving the hustle and bustle of land behind.",
             "choice_data_list": [
                 "(Ugh……keep it together!)"
             ]
         },
         {
-            "text": "I had come as Mejiro Ramonu's chaperone. I'd have to behave in a proper manner. On the other hand, she acted as normal."
+            "text": "I had come as Mejiro Ramonu's chaperone. I'd have to behave \nin a proper manner. On the other hand, she acted as normal."
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "What a nice sea breeze……"
+            "text": "What a nice sea breeze……",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Celeb A",
-            "text": "Good evening, Ramonu-san. I'm honored to meet you! I always watch your races. Your spring results were wonderful……"
+            "text": "Good evening, Ramonu-san. I'm honored to meet you! \nI always watch your races. Your spring results were wonderful……",
+            "name": "Celeb A"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Thank you very much. I see you also like races."
+            "text": "Thank you very much. I see you also like races.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Celeb B",
-            "text": "Oooh, it really is Ramonu-san……! I heard you would be attending today, so I thought I just had to come and meet you."
+            "text": "Oooh, it really is Ramonu-san……! I heard you would be attending \ntoday, so I thought I just had to come and meet you.",
+            "name": "Celeb B"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Oh, I'm honored."
+            "text": "Oh, I'm honored.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "text": "She exchanged words with many people as if it was natural. I was so nervous and shy, all I could do was just smile and nod."
+            "text": "She exchanged words with many people as if it was natural. \nI was so nervous and shy, all I could do was just smile and nod."
         },
         {
-            "name": "Multiple Celebs",
-            "text": "――Ooh, lessons like that too…… ――Oh, that person from the URA……? ――I'll go see your races in the fall…… ――He's a classmate of mine……"
+            "text": "――Ooh, lessons like that too…… ――Oh, that person from the URA……? \n――I'll go see your races in the fall…… ――He's a classmate of mine……",
+            "name": "Multiple Celebs"
         },
         {
-            "name": "Celeb C",
-            "text": "――Right, right! This year I vacationed around there. I was tired of traveling abroad so I wanted to see some famous local places too."
+            "text": "――Right, right! This year I vacationed around there. I was tired \nof traveling abroad so I wanted to see some famous local places too.",
+            "name": "Celeb C"
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "Oh. That's Trainer-san's hometown, isn't it?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "…………Huh?"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "Am I wrong?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "No, that's right……you remembered!?",
                 "No, that's right……you remembered!?"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "Yes, something wrong with that?",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "!?!?"
             ]
         },
         {
+            "text": "Oooh, so that's your hometown! Well, it's quite a fine place. \nI took a bunch of photos, take a look!",
             "name": "Celeb C",
-            "text": "Oooh, so that's your hometown! Well, it's quite a fine place. I took a bunch of photos, take a look!",
             "choice_data_list": [
                 "Ah, I've been to that place too……!",
                 "Ah, I've been to that place too……!"
             ]
         },
         {
-            "text": "Before I realized it, I was joining in on the lively conversations as well. My stress disappeared and I ended up having a great time."
+            "text": "Before I realized it, I was joining in on the lively conversations \nas well. My stress disappeared and I ended up having a great time."
         },
         {
-            "text": "――Eventually, the ship returned to shore and the party ended. The walk back to training camp was quiet, as if I had woken up from a dream……",
+            "text": "――Eventually, the ship returned to shore and \nthe party ended. The walk back to training camp \nwas quiet, as if I had woken up from a dream……",
             "choice_data_list": [
                 "Thanks……for bringing that topic up"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "……Oh, I just happened to remember it."
+            "text": "……Oh, I just happened to remember it.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "Keeping the conversation going is just the basics of socializing……"
+            "text": "Keeping the conversation going is just the basics of socializing……",
+            "name": "Mejiro Ramonu"
         },
         {
+            "text": "It's not possible that……you thought I was the type \nof Uma Musume who couldn't handle that much, right?",
             "name": "Mejiro Ramonu",
-            "text": "It's not possible that……you thought I was the type of Uma Musume who couldn't handle that much, right?",
             "choice_data_list": [
                 "No, that's not it……!"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
             "text": "Hmmm……",
+            "name": "Mejiro Ramonu",
             "choice_data_list": [
                 "It helped……so I'm glad"
             ]
         },
         {
-            "text": "It felt like I was finally reflected in her eyes. Even after telling her, her expression remained unchanged.",
+            "text": "It felt like I was finally reflected in her eyes. \nEven after telling her, her expression remained unchanged.",
             "choice_data_list": [
                 "I'm really glad you remembered"
             ]
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "…………Heh."
+            "text": "…………Heh.",
+            "name": "Mejiro Ramonu"
         },
         {
-            "name": "Mejiro Ramonu",
-            "text": "You sure like to exaggerate"
+            "text": "You sure like to exaggerate",
+            "name": "Mejiro Ramonu"
         }
     ]
 }

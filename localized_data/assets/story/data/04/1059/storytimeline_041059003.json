@@ -1,261 +1,261 @@
 {
     "text_block_list": [
         {
-            "name": "Doctor",
-            "text": "Fortunately, we caught it in time and there's no more danger to your life but… considering your age as well, I can't recommend continuing as a trainer."
+            "text": "Fortunately, we caught it in time and there's no more danger to \nyour life but… considering your age as well, I can't recommend \ncontinuing as a trainer.",
+            "name": "Doctor"
         },
         {
-            "name": "Chief Trainer",
-            "text": "I see… it seems this day has finally come, hasn't it? …I'm sorry, Bell-chan."
+            "text": "I see… it seems this day has finally come, hasn't it? \n…I'm sorry, Bell-chan.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Trainer, it's not something you need to apologize for!"
+            "text": "Trainer, it's not something you need to apologize for!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I should be… I should be the one apologizing, for continuing to be as weak as I am…!"
+            "text": "I should be… I should be the one apologizing, \nfor continuing to be as weak as I am…!",
+            "name": "Mejiro Dober"
         },
         {
             "text": "In the end, Chief Trainer was forced to retire just like that."
         },
         {
-            "name": "Chief Trainer",
-            "text": "Trainer-san. From now on… please, I'll leave it to you."
+            "text": "Trainer-san. From now on… \nplease, I'll leave it to you.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "It'll be fine…… you'll be fine. Definitely, if it's you――"
+            "text": "It'll be fine…… you'll be fine. \nDefinitely, if it's you――",
+            "name": "Chief Trainer"
         },
         {
-            "text": "Two weeks after her formal resignation. The team was left to me, the sub-trainer, and it would be up to Mejiro Dober whether to stay or not."
+            "text": "Two weeks after her formal resignation. The team \nwas left to me, the sub-trainer, and it would be \nup to Mejiro Dober whether to stay or not."
         },
         {
-            "text": "For that reason, it was necessary to hear what she thought about it, but…"
+            "text": "For that reason, it was necessary to hear \nwhat she thought about it, but…"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Sorry, can we talk about this later? Right now… I want to get back to training, so for now…!"
+            "text": "Sorry, can we talk about this later? \nRight now… I want to get back to training, so for now…!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Sorry, right now, I don't have the leeway to think about that. For now, let me just focus on training…!"
+            "text": "Sorry, right now, I don't have the leeway to think about that. \nFor now, let me just focus on training…!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Even though she believed in me…… I couldn't even live up to it even once. I still haven't even won once for Trainer……!"
+            "text": "Even though she believed in me…… I couldn't even live up to it \neven once. I still haven't even won once for Trainer……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Even though she believed in me…… I couldn't even live up to it even once. I still haven't even won once for Trainer……!"
+            "text": "Even though she believed in me…… I couldn't even live up to it \neven once. I still haven't even won once for Trainer……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "There's only two weeks left! Until then, no matter what…… I absolutely, need to win a race……!!"
+            "text": "There's only two weeks left! Until then, no matter what…… \nI absolutely, need to win a race……!!",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "It's been two or three days since I took over, I've been swamped with work this whole time, and I haven't had any free time."
+            "text": "It's been two or three days since I took over, I've been swamped with \nwork this whole time, and I haven't had any free time."
         },
         {
-            "text": "But now, I've finally made some progress, eventually what came to mind was Mejiro Dober's overwhelming grief――",
+            "text": "But now, I've finally made some progress, eventually what came \nto mind was Mejiro Dober's overwhelming grief――",
             "choice_data_list": [
                 "I should go check on her……!"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Haa…… haaa……",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "Dober!!"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "……?! You……",
+            "name": "Mejiro Dober",
             "choice_data_list": [
-                "Dober, you're pushing yourself too hard",
-                "Dober, you're pushing yourself too hard"
+                "<size=41>Dober, you're pushing yourself too hard</size>",
+                "<size=41>Dober, you're pushing yourself too hard</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "……?! Ah…… Sub-trainer……",
+            "name": "Mejiro Dober",
             "choice_data_list": [
-                "Dober, you're pushing yourself too hard",
-                "Dober, you're pushing yourself too hard"
+                "<size=41>Dober, you're pushing yourself too hard</size>",
+                "<size=41>Dober, you're pushing yourself too hard</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Shut up…… leave me alone!",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "But, if you keep going――",
                 "But, if you keep going――"
             ]
         },
         {
+            "text": "……Please, just leave me alone. I told you already, \nright now just let me keep training……!",
             "name": "Mejiro Dober",
-            "text": "……Please, just leave me alone. I told you already, right now just let me keep training……!",
             "choice_data_list": [
                 "But, if you keep going――",
                 "But, if you keep going――"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I need to keep going though!! Because I'm weak!!"
+            "text": "I need to keep going though!! Because I'm weak!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I need to keep going though!! Because I'm weak!!"
+            "text": "I need to keep going though!! Because I'm weak!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I've always, always…… been weak!!"
+            "text": "I've always, always…… been weak!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "At first I thought I could win. Running as dignified as Bright, or showing everyone I can be as strong as Ryan――"
+            "text": "At first I thought I could win. Running as dignified as Bright, \nor showing everyone I can be as strong as Ryan――",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "To show everyone that I, as a Mejiro Uma Musume, am just as outstanding as them. But……!"
+            "text": "To show everyone that I, as a Mejiro Uma Musume, \nam just as outstanding as them. But……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Event Commentator",
-            "text": "――And now first place has crossed the goal! And one by one the others are finishing! Everyone, please give a big round of applause for everyone that did their best!"
+            "text": "――And now first place has crossed the goal! And one by one the \nothers are finishing! Everyone, please give a big round of \napplause for everyone that did their best!",
+            "name": "Event Commentator"
         },
         {
-            "name": "Event Commentator",
-            "text": "Ah! 8th place, Mejiro Dober-chan is rounding the final corner! She may have tripped and fallen at the start, but she hasn't given up and is doing her best!"
+            "text": "Ah! 8th place, Mejiro Dober-chan is rounding the final corner! \nShe may have tripped and fallen at the start, but she hasn't \ngiven up and is doing her best!",
+            "name": "Event Commentator"
         },
         {
-            "name": "Young Dober",
-            "text": "Haaa, haaa, haaa……!"
+            "text": "Haaa, haaa, haaa……!",
+            "name": "Young Dober"
         },
         {
-            "name": "Crowd",
-            "text": "Go on, you're doing great-! Do your best until the end-!! You're almost there～! Everyone's watching you～!"
+            "text": "Go on, you're doing great-! Do your best until the end-!! \nYou're almost there～! Everyone's watching you～!",
+            "name": "Crowd"
         },
         {
-            "name": "Young Dober",
-            "text": "Haaa, haaa…… uuuuu……!!"
+            "text": "Haaa, haaa…… uuuuu……!!",
+            "name": "Young Dober"
         },
         {
-            "name": "Young Dober",
-            "text": "Doing great……? Do your best……? It's fine……? I've never heard them say things like that to Ryan and Bright."
+            "text": "Doing great……? Do your best……? It's fine……? \nI've never heard them say things like that to Ryan and Bright.",
+            "name": "Young Dober"
         },
         {
-            "name": "Young Dober",
-            "text": "About Ryan and Bright, they're always saying things like how fast, how great they are…… but for me…… like this……!!"
+            "text": "About Ryan and Bright, they're always saying things like how \nfast, how great they are…… but for me…… like this……!!",
+            "name": "Young Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "――The result was miserable. Falling at the start, only being halfway when they reached the goal. Ever since then…… it's felt like everyone was laughing at me."
+            "text": "――The result was miserable. Falling at the start, only being \nhalfway when they reached the goal. Ever since then…… it's felt \nlike everyone was laughing at me.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Like they were saying how pathetic, how weak I was…… when I think that, my heart starts pounding strangely faster, and my hands and feet feel like they're not my own……!"
+            "text": "Like they were saying how pathetic, how weak I was…… \nwhen I think that, my heart starts pounding strangely faster, \nand my hands and feet feel like they're not my own……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Because of that, I can't even run properly……! These things that everyone can do naturally, I'm the only one that can't do them at all!"
+            "text": "Because of that, I can't even run properly……! \nThese things that everyone can do naturally, I'm \nthe only one that can't do them at all!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Together with Trainer, I thought I had gotten a little bit stronger. But, now I can't rely on her any longer……!!"
+            "text": "Together with Trainer, I thought I had gotten a little bit \nstronger. But, now I can't rely on her any longer……!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "In that case! Even with all that, That's why I have to win a race! Even if I have to push myself, I have to keep going, I have no choice but to do it, right?!"
+            "text": "In that case! Even with all that, That's why I have to win a \nrace! Even if I have to push myself, I have to keep going, I have \nno choice but to do it, right?!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
             "text": "Because I'm weak!! Even if I'm alone, I need to get stronger……!",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "……but you're not alone"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Ha……?",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "I'll support you",
                 "I'll support you"
             ]
         },
         {
+            "text": "……What? Now that you've replaced Trainer, I'll \nget stronger, are you saying it'll be fine? \nThere's no way I can suddenly believe――!",
             "name": "Mejiro Dober",
-            "text": "……What? Now that you've replaced Trainer, I'll get stronger, are you saying it'll be fine? There's no way I can suddenly believe――!",
             "choice_data_list": [
-                "Wrong, you're already a strong Uma Musume!",
-                "Wrong, you're already a strong Uma Musume!"
+                "<size=36>Wrong, you're already a strong Uma Musume!</size>",
+                "<size=36>Wrong, you're already a strong Uma Musume!</size>"
             ]
         },
         {
+            "text": "Eh, you, didn't you hear a word I just said?! \nDidn't I say I was weak?! Ever since then, I've……!!",
             "name": "Mejiro Dober",
-            "text": "Eh, you, didn't you hear a word I just said?! Didn't I say I was weak?! Ever since then, I've……!!",
             "choice_data_list": [
-                "But this whole time, you've never given up",
-                "But this whole time, you've never given up"
+                "<size=39>But this whole time, you've never given up</size>",
+                "<size=39>But this whole time, you've never given up</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Not yet, not yeeeeet!! ――Aaaaaaaaaaah!!"
+            "text": "Not yet, not yeeeeet!! \n――Aaaaaaaaaaah!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "But, things can't keep going on like this…… it'll just turn in to a repeat of that last mock race, even I understand that."
+            "text": "But, things can't keep going on like this…… it'll just turn \nin to a repeat of that last mock race, even I understand that.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "But, things can't keep going on like this…… it'll just turn in to a repeat of that last mock race, even I understand that."
+            "text": "But, things can't keep going on like this…… it'll just turn \nin to a repeat of that last mock race, even I understand that.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……That's why, speaking with you, is a kind of mental training! As the sub-trainer, hearing me out is part of your obligations, right?"
+            "text": "……That's why, speaking with you, is a kind of \nmental training! As the sub-trainer, hearing \nme out is part of your obligations, right?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "That's why…… even if it's a little bit at a time. Just like this, speaking to someone I'm not familiar with, might help me mentally…… can you help me with that?"
+            "text": "That's why…… even if it's a little bit at a time. Just like \nthis, speaking to someone I'm not familiar with, might help me \nmentally…… can you help me with that?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Even though she believed in me…… I couldn't even live up to it even once. I still haven't even won once for Trainer……!"
+            "text": "Even though she believed in me…… I couldn't even live up to it \neven once. I still haven't even won once for Trainer……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Even though she believed in me…… I couldn't even live up to it even once. I still haven't even won once for Trainer……!"
+            "text": "Even though she believed in me…… I couldn't even live up to it \neven once. I still haven't even won once for Trainer……!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "There's only 2 weeks left! Until then, no matter what…… I absolutely, need to win a race……!!"
+            "text": "There's only 2 weeks left! Until then, no matter what…… \nI absolutely, need to win a race……!!",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "Even now that's true. Mejiro Dober is continuing to fight on, even if she has to do it alone. 『Race and win』 ――always aiming for that.",
+            "text": "Even now that's true. Mejiro Dober is continuing \nto fight on, even if she has to do it alone. 『Race \nand win』 ――always aiming for that.",
             "choice_data_list": [
-                "An Uma Musume who doesn't give up, can't be weak"
+                "<size=31>An Uma Musume who doesn't give up, can't be weak</size>"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "……!!",
+            "name": "Mejiro Dober",
             "choice_data_list": [
-                "\"Mejiro Dober\" is a strong Uma Musume",
-                "\"Mejiro Dober\" is a strong Uma Musume"
+                "<size=41>\"Mejiro Dober\" is a strong Uma Musume</size>",
+                "<size=41>\"Mejiro Dober\" is a strong Uma Musume</size>"
             ]
         },
         {
+            "text": "Ah…… I'm…… \n……～!!",
             "name": "Mejiro Dober",
-            "text": "Ah…… I'm…… ……～!!",
             "choice_data_list": [
                 "Dober! I'll be waiting for you!",
                 "Dober! I'll be waiting for you!"
             ]
         },
         {
-            "text": "Mejiro Dober is a strong Uma Musume, even on her own. But still…… if she ever needs my support, I hope she'll come to me."
+            "text": "Mejiro Dober is a strong Uma Musume, even on her own. But \nstill…… if she ever needs my support, I hope she'll come to me."
         },
         {
             "text": "As she ran off, I called out like that with all I could muster."

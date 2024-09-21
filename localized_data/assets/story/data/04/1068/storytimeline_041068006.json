@@ -1,226 +1,226 @@
 {
     "text_block_list": [
         {
-            "text": "In addition to early morning training, Kitasan Black was diligent in training even during her free time."
+            "text": "In addition to early morning training, \nKitasan Black was diligent in training even during her free time."
         },
         {
+            "text": "Haa, haa… Not yet! \nTrainer-san, please let me continue like this!",
             "name": "Kitasan Black",
-            "text": "Haa, haa… Not yet! Trainer-san, please let me continue like this!",
             "choice_data_list": [
                 "It's about time to take a break"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "It's fine! I'm still full of energy. I don't want to waste Trainer-san's time, so let's keep going!"
+            "text": "It's fine! I'm still full of energy. I don't want to waste \nTrainer-san's time, so let's keep going!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "Ooooooooo…!"
+            "text": "Ooooooooo…!",
+            "name": "Kitasan Black"
         },
         {
-            "text": "With an amazing amount of spirit, Kitasan Black took off running. It was more than usual, and I could sense a hint of desperation."
+            "text": "With an amazing amount of spirit, Kitasan Black took off running. \nIt was more than usual, and I could sense a hint of desperation."
         },
         {
             "text": "[I don't want to waste Trainer-san's time]"
         },
         {
-            "text": "…Perhaps, the training menu I put together for Kitasan Black made her feel a sense of impatience from me.",
+            "text": "…Perhaps, the training menu I put together for Kitasan Black \nmade her feel a sense of impatience from me.",
             "choice_data_list": [
                 "(I can't let things continue like this…)"
             ]
         },
         {
-            "text": "I don't want her to feel rushed. I want Kitasan Black to run with peace of mind, in a way that she feels is her own-"
+            "text": "I don't want her to feel rushed. I want Kitasan Black to run \nwith peace of mind, in a way that she feels is her own-"
         },
         {
+            "text": "Eh? Tomorrow, we're going to… look at the autumn leaves? I \nthought we were going to be training, but that seems so sudden…",
             "name": "Kitasan Black",
-            "text": "Eh? Tomorrow, we're going to… look at the autumn leaves? I thought we were going to be training, but that seems so sudden…",
             "choice_data_list": [
-                "I thought it'd be a good change of pace"
+                "<size=42>I thought it'd be a good change of pace</size>"
             ]
         },
         {
+            "text": "A change of pace…",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "…Haa!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "I-I see! Trainer-san must be getting worn out…! \nThat's right, it shouldn't be surprising.",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Aaah dang it. \nI'm such an insensitive lout…!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Understood! Let's have a \nchange of pace, with all our might!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Like bam, easy-going!!! \nLeave everything to me!!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Easy-going doesn't need so much spirit though, \nbut well — for now, I made a promise to go view \nthe autumn leaves with Kitasan Black."
+        },
+        {
+            "text": "Huh? That person…",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Excuse me, are you alright? \nDo you perhaps need directions…?",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Ah… Y-yeah, I do.",
+            "name": "Lost Girl"
+        },
+        {
+            "text": "I had my friend draw me a map but, \nI'm not too familiar with this area…",
+            "name": "Lost Girl"
+        },
+        {
+            "text": "Just a second. Since this is the station, um… \nah, it's a little complicated. It's a little far so, I'll-",
             "name": "Kitasan Black",
-            "text": "A change of pace…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "…Haa!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "I-I see! Trainer-san must be getting worn out…! That's right, it shouldn't be surprising."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Aaah dang it. I'm such an insensitive lout…!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Understood! Let's have a change of pace, with all our might!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Like bam, easy-going!!! Leave everything to me!!"
-        },
-        {
-            "text": "Easy-going doesn't need so much spirit though, but well — for now, I made a promise to go view the autumn leaves with Kitasan Black."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Huh? That person…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Excuse me, are you alright? Do you perhaps need directions…?"
-        },
-        {
-            "name": "Lost Girl",
-            "text": "Ah… Y-yeah, I do."
-        },
-        {
-            "name": "Lost Girl",
-            "text": "I had my friend draw me a map but, I'm not too familiar with this area…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Just a second. Since this is the station, um… ah, it's a little complicated. It's a little far so, I'll-",
             "choice_data_list": [
                 "We'll guide you",
                 "We'll guide you"
             ]
         },
         {
+            "text": "!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Really? Thanks alot for your help!",
+            "name": "Lost Girl"
+        },
+        {
+            "text": "…",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Haa… upsy daisy… \nOh, whoa…",
+            "name": "Elder Man"
+        },
+        {
+            "text": "Wawaa, be careful…! \nYou've got a lot of luggage there, old man.",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Oh, sorry for startling you. I wanted to get \nsome souvenirs for my grandson, and ended up buying too much…",
+            "name": "Elder Man"
+        },
+        {
+            "text": "You want to put that on the overhead storage, right? \nIn that case, leave it to-",
             "name": "Kitasan Black",
-            "text": "!"
-        },
-        {
-            "name": "Lost Girl",
-            "text": "Really? Thanks alot for your help!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "…"
-        },
-        {
-            "name": "Elder Man",
-            "text": "Haa… upsy daisy… Oh, whoa…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Wawaa, be careful…! You've got a lot of luggage there, old man."
-        },
-        {
-            "name": "Elder Man",
-            "text": "Oh, sorry for startling you. I wanted to get some souvenirs for my grandson, and ended up buying too much…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "You want to put that on the overhead storage, right? In that case, leave it to-",
             "choice_data_list": [
                 "And up it goes!"
             ]
         },
         {
-            "name": "Kitasan Black",
             "text": "Ah…",
+            "name": "Kitasan Black",
             "choice_data_list": [
                 "Let me know when it's your stop"
             ]
         },
         {
-            "name": "Elder Man",
-            "text": "Yeah, that'd be helpful. Thank you kindly."
+            "text": "Yeah, that'd be helpful. Thank you kindly.",
+            "name": "Elder Man"
         },
         {
+            "text": "…",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Waa, beautiful…! They're so vivid…!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "The sound of walking on the leaves is relaxing too! \nLook, let's go take a look over there too, Trainer-san.",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "The scenery from here is awesome…! \nHuh?! There's a dango shop over there!",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Trainer-san, look at that! \nThat mountain over there-",
+            "name": "Kitasan Black"
+        },
+        {
+            "text": "Looks like the autumn leaves were a good choice. But, keeping up \nwith the ever lively Kitasan Black's pace, was quite hard-"
+        },
+        {
+            "text": "Aaaah, you're sweating alot… \nA-are you okay, Trainer-san?",
             "name": "Kitasan Black",
-            "text": "…"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Waa, beautiful…! They're so vivid…!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "The sound of walking on the leaves is relaxing too! Look, let's go take a look over there too, Trainer-san."
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "The scenery from here is awesome…! Huh?! There's a dango shop over there!"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Trainer-san, look at that! That mountain over there-"
-        },
-        {
-            "text": "Looks like the autumn leaves were a good choice. But, keeping up with the ever lively Kitasan Black's pace, was quite hard-"
-        },
-        {
-            "name": "Kitasan Black",
-            "text": "Aaaah, you're sweating alot… A-are you okay, Trainer-san?",
             "choice_data_list": [
                 "I'll be fine after a short rest"
             ]
         },
         {
+            "text": "… \n…I'm sorry!",
             "name": "Kitasan Black",
-            "text": "… …I'm sorry!",
             "choice_data_list": [
                 "? For what?"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "Because I was pulling you around everywhere, you're that exhausted…!"
+            "text": "Because I was pulling you around everywhere, \nyou're that exhausted…!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "On top of that, on the way here… well, helping people… even Trainer-san ended up helping me out."
+            "text": "On top of that, on the way here… well, helping people… \neven Trainer-san ended up helping me out.",
+            "name": "Kitasan Black"
         },
         {
-            "text": "Since she was helping people nearby, I was helping as much as possible without getting in the way. Besides-",
+            "text": "Since she was helping people nearby, I was helping as \nmuch as possible without getting in the way. Besides-",
             "choice_data_list": [
                 "I was glad I could help you"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "! Trainer-san…!"
+            "text": "! Trainer-san…!",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "…Wait, that's not it! No, well, on the other hand, that made me very happy too!"
+            "text": "…Wait, that's not it! No, well, \non the other hand, that made me very happy too!",
+            "name": "Kitasan Black"
         },
         {
+            "text": "But, it's just that I wanted Trainer-san to rest too, \nyou're probably fatigued from our normal days too, so-",
             "name": "Kitasan Black",
-            "text": "But, it's just that I wanted Trainer-san to rest too, you're probably fatigued from our normal days too, so-",
             "choice_data_list": [
-                "Guess I need to build up some stamina…"
+                "<size=40>Guess I need to build up some stamina…</size>"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "Kuuuuuuu! You have plenty, you're fine…!"
+            "text": "Kuuuuuuu! You have plenty, you're fine…!",
+            "name": "Kitasan Black"
         },
         {
+            "text": "Everyday, you're helping out with my training, \nand when I go running off campus, you're there on a bike…!",
             "name": "Kitasan Black",
-            "text": "Everyday, you're helping out with my training, and when I go running off campus, you're there on a bike…!",
             "choice_data_list": [
                 "It's normal for a trainer"
             ]
         },
         {
-            "name": "Kitasan Black",
-            "text": "T-that may be true but, saying it like it's expected, is really… uuuuuu～…"
+            "text": "T-that may be true but, saying it like \nit's expected, is really… uuuuuu～…",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "…what should I do?… every single time, it's just me… I'm the only one being supported every time…"
+            "text": "…what should I do?… every single time, it's just me… \nI'm the only one being supported every time…",
+            "name": "Kitasan Black"
         },
         {
-            "name": "Kitasan Black",
-            "text": "(Haa… Dad… supporting someone, is really hard, isn't it?)"
+            "text": "(Haa… Dad… supporting someone, is really hard, isn't it?)",
+            "name": "Kitasan Black"
         }
     ]
 }

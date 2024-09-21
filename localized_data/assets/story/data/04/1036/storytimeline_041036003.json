@@ -1,268 +1,268 @@
 {
     "text_block_list": [
         {
-            "name": "Elementary School Teacher",
-            "text": "\"——Shakur-san is a really smart kid. But she doesn't seem to understand the difference between 'right' and 'true'…\""
+            "text": "\"――Shakur-san is a really smart kid. \nBut she doesn't seem to understand the difference between \n'right' and 'true'...\"",
+            "name": "Elementary School Teacher"
         },
         {
-            "name": "Elementary School Teacher",
-            "text": "\"To be honest with you, even us teachers aren't sure how to handle her. She's isolated from the rest of the class, even getting into arguments with some of them.\""
+            "text": "\"To be honest with you, even us teachers aren't sure how to \nhandle her. She's isolated from the rest of the class, even getting \ninto arguments with some of them.\"",
+            "name": "Elementary School Teacher"
         },
         {
-            "name": "Elementary School Teacher",
-            "text": "\"We've tried our best to understand her, but… We can't get anywhere if she doesn't work with us…\""
+            "text": "\"We've tried our best to understand her, but... \nWe can't get anywhere if she doesn't work with us...\"",
+            "name": "Elementary School Teacher"
         },
         {
-            "name": "Shakur's Mother",
-            "text": "\"I'm sorry. She's always been like that… It's just the way she is, so it's fine just to leave her be and not get her riled up…\""
+            "text": "\"I'm sorry. She's always been like that... \nIt's just the way she is, so it's fine just to leave her be and not \nget her riled up...\"",
+            "name": "Shakur's Mother"
         },
         {
-            "name": "Air Shakur",
-            "text": "(——Ever since I was a kid, I was \"something incomprehensible\". For some reason, I was always the error to be corrected.)"
+            "text": "(――Ever since I was a kid, I was “something incomprehensible”. \nFor some reason, I was always the error to be corrected.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(Everything I heard was noise… We may have used the same language, but we couldn't communicate with each other. So I just gave it up.)"
+            "text": "(Everything I heard was noise... We may have used the same \nlanguage, but we couldn't communicate with each other. So I just \ngave it up.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(Then… I met my PC. It was like hearing someone else's voice for the first time. Programming was the first language I could really communicate in.)"
+            "text": "(Then... I met my PC. It was like hearing someone else's voice for \nthe first time. Programming was the first language I could <i>really</i> \ncommunicate in.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(So long as I had my partner, I could filter out the noise. And I found the optimal place to prove myself——I set my sights on Tracen Academy.)"
+            "text": "(So long as I had my partner, I could filter out the noise. And I \nfound the optimal place to prove myself――I set my sights on \nTracen Academy.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(I finished my ultimate partner, 『Parcae』, right after enrolling. The more data I fed in, the more accurate and precise its solutions got.)"
+            "text": "(I finished my ultimate partner, 『Parcae』, right after enrolling. \nThe more data I fed in, the more accurate and precise its \nsolutions got.)",
+            "name": "Air Shakur"
         },
         {
-            "text": "\"I can't understand what Air Shakur thinks as she runs. She doesn't listen to instruction, she's uncooperative, and completely conceited… but…\""
+            "text": "\"I can't understand what Air Shakur thinks as she runs. She \ndoesn't listen to instruction, she's uncooperative, and completely \nconceited... but...\""
         },
         {
-            "text": "\"I really don't want to run with Shakur-senpai… We're just too different, like we're from different worlds. Honestly, that scares me, but…\""
+            "text": "\"I really don't want to run with Shakur-senpai... We're just too \ndifferent, like we're from different worlds. Honestly, that scares \nme, but...\""
         },
         {
-            "text": "\"——'She wins', so she's amazing…\""
+            "text": "\"――'She wins'<i>,</i> so she's amazing...\""
         },
         {
-            "name": "Air Shakur",
-            "text": "(…It felt damn good. Those assholes had no choice but to shut up in the face of my victory. No more noise. So what if I aimed even higher…?)"
+            "text": "(...It felt damn good. Those assholes had no choice but to shut up \nin the face of my victory. No more noise. So what if I aimed even \nhigher...?)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(——what if I won, again, and again? If I took the title reserved for the truly strong—— the Triple Crown—— for myself…!)"
+            "text": "(――what if I won, again, and again? If I took the title reserved \nfor the truly strong―― the Triple Crown―― for myself...!)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(Once I did, I'd be…\" \". Or so I thought.)"
+            "text": "(Once I did, I'd be...\"                       \". Or so I thought.)",
+            "name": "Air Shakur"
         },
         {
-            "text": "Chasing Shakur after she finished training, I found her standing in the plaza.",
+            "text": "Chasing Shakur after she finished training, I found her standing \nin the plaza.",
             "choice_data_list": [
                 "Shakur!"
             ]
         },
         {
+            "text": "！ \nYou're... From that thing with the cop. \nThe hell do you want?",
             "name": "Air Shakur",
-            "text": "！ You're… From that thing with the cop. The hell do you want?",
             "choice_data_list": [
                 "Your running today was awesome."
             ]
         },
         {
+            "text": "Hah？\r\n...Ah... Huh？",
             "name": "Air Shakur",
-            "text": "Hah？ …Ah… Huh？",
             "choice_data_list": [
-                "I could tell just how hard you've worked…",
-                "I could tell just how hard you've worked."
+                "<size=40>I could tell just how hard you've worked.</size>",
+                "<size=40>I could tell just how hard you've worked.</size>"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Ngh. The hell? Don't just say stuff like that…"
+            "text": "...Ngh. \nThe hell? Don't just say stuff like that...",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Wait, did you really come out of your way just to say that? Yeah, yeah, thanks for that. Now scram."
+            "text": "Wait, did you really come out of your way just to say that? \nYeah, yeah, thanks for that. Now scram.",
+            "name": "Air Shakur"
         },
         {
-            "text": "It wasn't just to say that. I called out to her because… Seeing her run made me want to get to know her better. Right, I came here to say——",
+            "text": "It wasn't just to say that. I called out to her because... \nSeeing her run made me want to get to know her better. \nRight, I came here to say――",
             "choice_data_list": [
                 "I want to be your trainer!",
                 "I want to be your trainer!"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "… Huh？"
+            "text": "...\r\nHuh？",
+            "name": "Air Shakur"
         },
         {
-            "text": "It was probably too sudden to ask. But the instant the words left my mouth, it dawned on me. That I was already considering this option from the moment we first met."
+            "text": "It was probably too sudden to ask. But the instant the words left \nmy mouth, it dawned on me. That I was already considering this \noption from the moment we first met."
         },
         {
+            "text": "...Completely illogical. Oh, wait, you saying you fell in love at \nfirst sight? Sorry, but no. Not gonna hear out that kind of \nunfounded BS.",
             "name": "Air Shakur",
-            "text": "…Completely illogical. Oh, wait, you saying you fell in love at first sight? Sorry, but no. Not gonna hear out that kind of unfounded BS.",
             "choice_data_list": [
                 "Then give me a foundation.",
                 "Then give me a foundation."
             ]
         },
         {
+            "text": "...What?",
             "name": "Air Shakur",
-            "text": "…What?",
             "choice_data_list": [
-                "Tell me what you wish for. \nThe reason you run.",
-                "Tell me what you wish for. \nThe reason you run."
+                "<size=35>Tell me what you wish for. The reason you run.</size>",
+                "<size=35>Tell me what you wish for. The reason you run.</size>"
             ]
         },
         {
+            "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean stuff like my abilities, or the \nconditions necessary to reach my goals. That kind of thing.",
             "name": "Air Shakur",
-            "text": "What exactly do you think would happen if I told you? When I say 'foundation', I mean stuff like my abilities, or the conditions necessary to reach my goals. That kind of thing.",
             "choice_data_list": [
                 "If you tell me, I can help you.",
                 "If you tell me, I can help you."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…How? How could you possibly… You really think you can put more work in than I have?"
+            "text": "...How? How could you possibly... You really think you can put \nmore work in than I have?",
+            "name": "Air Shakur"
         },
         {
+            "text": "From nutritional science to sports engineering, I know every \ntheory and every data point. Tell me, what kind of 'help' could \nyou possibly offer me?",
             "name": "Air Shakur",
-            "text": "From nutritional science to sports engineering, I know every theory and every data point. Tell me, what kind of 'help' could you possibly offer me?",
             "choice_data_list": [
                 "……"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "And there it is. Can't answer, can you? Just admit it. You're really just offering help to feel good about yourself, aren't you?"
+            "text": "And there it is. Can't answer, can you? \nJust admit it. You're really just offering help to feel good about \n<i>yourself</i>, aren't you?",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Getting high off the idea of helping someone… the idea of saving someone. …Even though there's nothing anyone can do to help me."
+            "text": "Getting high off the idea of helping someone... the idea of saving \nsomeone. \n...Even though there's nothing anyone can do to help me.",
+            "name": "Air Shakur"
         },
         {
-            "text": "She unambiguously rejected me—— But the reason I was seeking was right there, between the lines… I had to press forward.",
+            "text": "She unambiguously rejected me―― But the reason I was seeking \nwas right there, between the lines... I had to press forward.",
             "choice_data_list": [
                 "I haven't done anything yet."
             ]
         },
         {
-            "name": "Air Shakur",
             "text": "Huh?",
+            "name": "Air Shakur",
             "choice_data_list": [
-                "So what makes you think there's nothing I can do?",
-                "So what makes you think there's nothing I can do?"
+                "<size=32>So what makes you think there's nothing I can do?</size>",
+                "<size=36>So why do you think there's nothing I can do?</size>"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "Nggh, get off my back. Listen…!"
+            "text": "Nggh, get off my back.\r\nListen...!",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "…Forget it. Follow me. I'll break it for you down numerically."
+            "text": "...Forget it. Follow me. \nI'll break it for you down numerically.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "——This is the solution I… The solution『Parcae』found."
+            "text": "――This is the solution I...  \nThe solution『Parcae』found.",
+            "name": "Air Shakur"
         },
         {
-            "text": "She showed me the screen of that laptop she always carried around."
+            "text": "She showed me the screen of that laptop she always carried \naround."
         },
         {
-            "text": "It was lined with complex formula upon complex formula, symbols upon symbols, leading to a single value to the right of the final equal sign——",
+            "text": "It was lined with complex formula upon complex formula, \nsymbols upon symbols, leading to a single value to the right of \nthe final equal sign――",
             "choice_data_list": [
-                "\"-7\" ……"
+                "“−7”......"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "That number's always been there, ever since I first ran the code. The answer doesn't change. What that value represents is…"
+            "text": "That number's always been there, ever since I first ran the code. \nThe answer doesn't change. What that value represents is...",
+            "name": "Air Shakur"
         },
         {
+            "text": "I'm going to lose the Japanese Derby by seven centimeters, \nand lose my shot at the Triple Crown. That's the solution.",
             "name": "Air Shakur",
-            "text": "I'm going to lose the Japanese Derby by seven centimeters, and lose my shot at the Triple Crown. That's the solution.",
             "choice_data_list": [
-                "……!"
+                "……！"
             ]
         },
         {
-            "text": "The Triple Crown… Three G1 races one can only enter in her Classic year. The \"Satsuki Sho\", the \"Japanese Derby\", and the \"Kikka Sho\"."
+            "text": "The Triple Crown... Three G1 races one can only enter in her \nClassic year. The \"Satsuki Sho\", the \"Japanese Derby\", and \nthe \"Kikka Sho\"."
         },
         {
-            "text": "These races' winners are dubbed \"Triple Crown Umamusume\", carving their names into history. Countless challengers tried and failed to join the few who could be counted on one hand."
+            "text": "These races' winners are dubbed “Triple Crown Umamusume”, \ncarving their names into history. Countless challengers have tried \nand failed to join the few who could be counted on one hand."
         },
         {
-            "name": "Air Shakur",
-            "text": "I will never take the Triple Crown. Time and again, I've rerun the numbers, but never cracked a way to overcome this result."
+            "text": "I will never take the Triple Crown. Time and again, I've rerun the \nnumbers, but never cracked a way to overcome this result.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Don't even suggest there's something wrong with the program. It's perfect. And because it's perfect… I know for a fact I'll never win."
+            "text": "Don't even suggest there's something wrong with the program. \nIt's perfect. And because it's perfect... \nI know for a fact I'll never win.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Got it now? Look how powerless you are to help. Even I can't do a damn thing about it."
+            "text": "Got it now? Look how powerless you are to help.\nEven I can't do a damn thing about it.",
+            "name": "Air Shakur"
         },
         {
-            "text": "I couldn't hope to understand the depths of her despair. But at the very least, I could understand why she was struggling so fiercely. It was simple—",
+            "text": "I couldn't hope to understand the depths of her despair. \nBut at the very least, I could understand why she was struggling \nso fiercely. It was simple―",
             "choice_data_list": [
                 "You still want to win, don't you?",
                 "You still want to win, don't you?"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Huh?"
+            "text": "...Huh?",
+            "name": "Air Shakur"
         },
         {
-            "text": "I wanted to know her wish, and there it was— To win. A simple wish shared by just about anyone…",
+            "text": "I wanted to know her wish, and there it was― \nTo win. A simple wish shared by just about anyone...",
             "choice_data_list": [
-                "If you hold on to that wish, you can change that result!"
+                "<size=30>If you hold on to that wish, you can change that result!</size>"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Ghh."
+            "text": "...Ghh.",
+            "name": "Air Shakur"
         },
         {
+            "text": "If thinking and wishing was all it took! \nI'd've done it already, dammit!",
             "name": "Air Shakur",
-            "text": "If thinking and wishing was all it took! I'd've done it already, dammit!",
             "choice_data_list": [
                 "……！"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "Struggling and fighting, over and over… Running the numbers <i>again, and again, and again, and again, and again!</i> Knowing it's all in vain!"
+            "text": "Struggling and fighting, over and over... \nRunning the numbers <i>again, and again, and again, and again, </i> \n<i>and again!</i> Knowing it's all in vain!",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Running, running, running more! Hoping one day, <i>one day…</i> All for nothing. And then a know-nothing like you…"
+            "text": "Running, running, running more! Hoping one day, <i>one day</i>... \nAll for nothing. And then a know-nothing like you...",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Just showing up out of nowhere, getting it twisted with that savior complex!! <i>What the hell… do you think you can do…?!</i>"
+            "text": "Just showing up out of nowhere, getting it twisted with that \nsavior complex!! <i>What the hell...  do you think you can do...?!</i>",
+            "name": "Air Shakur"
         },
         {
-            "text": "Her rage and sorrow were clear. Her hopeless outlook was seated deep in her life's experience, I'm sure. I had no right to invalidate it. But——",
+            "text": "Her rage and sorrow were clear. Her hopeless outlook was seated \ndeep in her life's experience, I'm sure. I had no right to invalidate \nit. But――",
             "choice_data_list": [
-                "(I haven't even tried to help her yet!)",
-                "(I haven't even tried to help her yet!)"
+                "(<i>I</i> haven't even tried to help her yet!)",
+                "(<i>I</i> haven't even tried to help her yet!)"
             ]
         },
         {
+            "text": "...Well, that's how it is. If you got it, don't try to get involved \nagain.",
             "name": "Air Shakur",
-            "text": "…Well, that's how it is. If you got it, don't try to get involved again.",
             "choice_data_list": [
-                "(…I have to get to know her better first.)"
+                "<size=41>(...I have to get to know her better first.)</size>"
             ]
         },
         {
-            "text": "Though she rejected me, though I hadn't done anything for her, I still didn't want to back down."
+            "text": "Though she rejected me, though I hadn't done anything for her, \nI still didn't want to back down."
         }
     ]
 }

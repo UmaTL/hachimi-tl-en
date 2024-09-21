@@ -4,274 +4,279 @@
             "text": "As I napped I saw a dream of the past…"
         },
         {
-            "text": "As I was heading home from an amusement park I saw a young girl crying because she had lost her mother.",
+            "text": "As I was heading home from an amusement park I \nsaw a young girl crying because she had lost her mother.",
             "choice_data_list": [
                 "I'll help you find her."
             ]
         },
         {
-            "text": "Really…!? Thank you, Onee-chan! Ehehe, you're such a nice person ♪"
+            "text": "Really…!? Thank you, Onee-chan! \nEhehe, you're such a nice person ♪",
+            "name": "ウマ娘の少女"
         },
         {
-            "text": "Really…!? Thank you, Onee-chan! Ehehe, you're such a nice person ♪"
+            "text": "Really…!? Thank you, Onee-chan! \nEhehe, you're such a nice person ♪",
+            "name": "ウマ娘の少女"
         },
         {
-            "text": "She stopped crying while we looked for her mother. And as soon as we got to the front of a castle attraction she stopped and stared at it.",
+            "text": "She stopped crying while we looked for her mother. \nAnd as soon as we got to the front of a \ncastle attraction she stopped and stared at it.",
             "choice_data_list": [
                 "Do you want to be a princess?"
             ]
         },
         {
-            "text": "She stared at it so intently that I had to ask. And when I did she smiled at me in an unexpectedly mature manner…"
+            "text": "She stared at it so intently that I had to ask. \nAnd when I did she smiled at \nme in an unexpectedly mature manner…"
         },
         {
-            "text": "Well, my dream is to become…"
+            "text": "Well, my dream is to become…",
+            "name": "ウマ娘の少女"
         },
         {
-            "text": "One morning as I stood in front of Tracen Academy, I noticed a crowd of unusually dazzling individuals."
+            "text": "One morning as I stood in front of Tracen Academy, \nI noticed a crowd of unusually dazzling individuals."
         },
         {
-            "name": "Stylish Horsegirl",
-            "text": "Hey, isn't this like the best spot!? I told you it was hella close!!"
+            "text": "Hey, isn't this like the best spot!? \nI told you it was hella close!!",
+            "name": "Stylish Horsegirl"
         },
         {
+            "text": "It was super worth getting up early to get this spot!! \nIf I'm lucky, I might get to take a selfie with her…",
             "name": "Bandwagon Horsegirl",
-            "text": "It was super worth getting up early to get this spot!! If I'm lucky, I might get to take a selfie with her…",
             "choice_data_list": [
                 "So uh… What's going on here?"
             ]
         },
         {
+            "text": "Eh!? You haven't heard, Trainer-san!? \nToday's the day that <i>the</i> famous Umastagrammer \n\"Curren\" is transferring to this academy!!",
             "name": "Stylish Horsegirl",
-            "text": "Eh!? You haven't heard, Trainer-san!? Today's the day that <i>the</i> famous Umastagrammer \"Curren\" is transferring to this academy!!",
             "choice_data_list": [
                 "Curren…?"
             ]
         },
         {
-            "name": "Bandwagon Horsegirl",
-            "text": "Hold on! You haven't heard of THE Selfie Goddess herself!? The one who despite all the competition managed to get 3 million followers on Umastagram!  You haven't heard of <i>THAT</i> Curren!?"
+            "text": "Hold on! You haven't heard of THE Selfie Goddess herself!? The \none who despite all the competition managed to get 3 million \nfollowers on Umastagram!  You haven't heard of <i>THAT</i> Curren!?",
+            "name": "Bandwagon Horsegirl"
         },
         {
-            "text": "It seems like they're excited because an idol of sorts is transferring here.  I stuck around, out of curiousity…"
+            "text": "It seems like they're excited because an idol of sorts is \ntransferring here.  I stuck around, out of curiousity…"
         },
         {
-            "text": "A limousine stopped in front of the school gates and a young girl stepped out…!"
+            "text": "A limousine stopped in front of the \nschool gates and a young girl stepped out…!"
         },
         {
-            "name": "Fans",
-            "text": "Kyaa!! Curren!!"
+            "text": "Kyaa!! Curren!!",
+            "name": "Fans"
         },
         {
-            "text": "Waa ♪ Everyone seems so happy to see me! Were you waiting for me this whole time!?"
+            "text": "Waa ♪ Everyone seems so happy to see me! \nWere you waiting for me this whole time!?",
+            "name": "Curren？"
         },
         {
-            "text": "Ehehe, I didn't expect to be welcomed like this…"
+            "text": "Ehehe, I didn't expect to be welcomed like this…",
+            "name": "Curren？"
         },
         {
-            "name": "Curren Chan",
-            "text": "Everyone, I'm so glad you're here ♪ Hehe ♪"
+            "text": "Everyone, I'm so glad you're here ♪ Hehe ♪",
+            "name": "Curren Chan"
         },
         {
-            "name": "Stylish Horsegirl",
-            "text": "You're kidding…! Curren only uses a filter on her background!?"
+            "text": "You're kidding…! \nCurren only uses a filter on her background!?",
+            "name": "Stylish Horsegirl"
         },
         {
-            "name": "Stylish Horsegirl",
-            "text": "Her aura is so bright…!! She's definitely the real deal, the real Umasta Curren…!"
+            "text": "Her aura is so bright…!! She's definitely \nthe real deal, the real Umasta Curren…!",
+            "name": "Stylish Horsegirl"
         },
         {
-            "name": "Bandwagon Horsegirl",
-            "text": "Umm… W-Would it be okay if I took a selfie with you…!? I-I'm y-your biggest fan!"
+            "text": "Umm… W-Would it be okay if I took a \nselfie with you…!? I-I'm y-your biggest fan!",
+            "name": "Bandwagon Horsegirl"
         },
         {
-            "name": "Curren Chan",
-            "text": "Of course it's okay! Hmm… I know, we'd look super cute posing like this!"
+            "text": "Of course it's okay! Hmm… \nI know, we'd look super cute posing like this!",
+            "name": "Curren Chan"
         },
         {
-            "name": "Bandwagon Horsegirl",
-            "text": "Woah, this is like a once in a lifetime shot… God, thank you for this blessing…!!"
+            "text": "Woah, this is like a once in a lifetime shot… \nGod, thank you for this blessing…!!",
+            "name": "Bandwagon Horsegirl"
         },
         {
-            "name": "Curren Chan",
-            "text": "Just getting to see everyone happy makes me super happy ♪ But don't forget, if you're gonna upload it add #CurrenChan, okay?"
+            "text": "Just getting to see everyone happy makes me super happy ♪ But \ndon't forget, if you're gonna upload it add #CurrenChan, okay?",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Everyone, feel free to take as many pictures as you'd like ☆ And make sure to send them to anyone that doesn't know who I am ♪"
+            "text": "Everyone, feel free to take as many pictures as you'd like ☆ And \nmake sure to send them to anyone that doesn't know who I am ♪",
+            "name": "Curren Chan"
         },
         {
-            "name": "Fans",
-            "text": "Okay ♪"
+            "text": "Okay ♪",
+            "name": "Fans"
         },
         {
-            "text": "Such incredible leadership… I couldn't help but stare… and that's when our eyes met."
+            "text": "Such incredible leadership… I couldn't help \nbut stare… and that's when our eyes met."
         },
         {
-            "name": "Curren Chan",
             "text": "Wait… You're…!!",
+            "name": "Curren Chan",
             "choice_data_list": [
                 "Who, me…?",
                 "Who, me…?"
             ]
         },
         {
-            "name": "Curren Chan",
-            "text": "You're that super nice person!"
+            "text": "You're that super nice person!",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
             "text": "And my… soulmate!",
+            "name": "Curren Chan",
             "choice_data_list": [
                 "Wha―"
             ]
         },
         {
+            "text": "You're a trainer at this academy, aren't you? \nI've been… looking everywhere for you!",
             "name": "Curren Chan",
-            "text": "You're a trainer at this academy, aren't you? I've been… looking everywhere for you!",
             "choice_data_list": [
                 "Wai- What!?"
             ]
         },
         {
+            "text": "I've decided! From now on… \nyou're gonna be my trainer ♪",
             "name": "Curren Chan",
-            "text": "I've decided! From now on… you're gonna be my trainer ♪",
             "choice_data_list": [
                 "Whaaaaaaa…!?"
             ]
         },
         {
-            "name": "Curren Chan",
-            "text": "Is that a no…? And here I thought you'd at least hear me out… <i>*whimpers*</i>…"
+            "text": "Is that a no…? And here I thought \nyou'd at least hear me out… <i>*whimpers*</i>…",
+            "name": "Curren Chan"
         },
         {
-            "text": "I was nearly engulfed by her cute aura… But I managed to grab hold of my senses. Signing on as someone's trainer is not something to be taken lightly.",
+            "text": "I was nearly engulfed by her cute aura… But I managed to grab \nhold of my senses. Signing on as someone's trainer is not \nsomething to be taken lightly.",
             "choice_data_list": [
                 "C-Could you come here for a second?"
             ]
         },
         {
-            "name": "Curren Chan",
-            "text": "Of course ♪"
+            "text": "Of course ♪",
+            "name": "Curren Chan"
         },
         {
-            "text": "We went a short distance from the gates as I told her about the importance of a trainer  and to not make such a decision solely on a whim.",
+            "text": "We went a short distance from the gates as I told \nher about the importance of a trainer  and to \nnot make such a decision solely on a whim.",
             "choice_data_list": [
                 "You have your own dreams, right?",
                 "You have your own dreams, right?"
             ]
         },
         {
-            "name": "Curren Chan",
-            "text": "Dreams… huh?"
+            "text": "Dreams… huh?",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Well of course I do ♪ But the real reason I came to this academy is…"
+            "text": "Well of course I do ♪ \nBut the real reason I came to this academy is…",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "To get more people to call me cute ♪ You see, I figured that if I attended Tracen Academy I'd get much more attention!"
+            "text": "To get more people to call me cute ♪ \nYou see, I figured that if I attended \nTracen Academy I'd get much more attention!",
+            "name": "Curren Chan"
         },
         {
-            "text": "Her words struck me like a hammer to the head. Is that really the reason she came here…!?"
+            "text": "Her words struck me like a hammer to the head. \nIs that really the reason she came here…!?"
         },
         {
-            "name": "Curren Chan",
-            "text": "Anyway… in order for me to shine brighter than ever, I can't have anyone but you!"
+            "text": "Anyway… in order for me to shine brighter \nthan ever, I can't have anyone but you!",
+            "name": "Curren Chan"
         },
         {
+            "text": "I'm begging you… Onee-chan!! \nPlease be my trainer ♪",
             "name": "Curren Chan",
-            "text": "I'm begging you… Onee-chan!! Please be my trainer ♪",
             "choice_data_list": [
                 "Onee-chan!?",
                 "Onee-chan!?"
             ]
         },
         {
+            "text": "I'm begging you… Onee-chan!! \nPlease be my trainer ♪",
             "name": "Curren Chan",
-            "text": "I'm begging you… Onee-chan!! Please be my trainer ♪",
             "choice_data_list": [
                 "Onee-chan!?",
                 "Onee-chan!?"
             ]
         },
         {
-            "name": "Stylish Horsegirl",
-            "text": "Is that person really gonna say no to THE Curren even though she's begging them…?"
+            "text": "Is that person really gonna say no to \nTHE Curren even though she's begging them…?",
+            "name": "Stylish Horsegirl"
         },
         {
-            "name": "Bandwagon Horsegirl",
-            "text": "I mean, if they're not training anyone they could at least hear her out, ya know?"
+            "text": "I mean, if they're not training anyone \nthey could at least hear her out, ya know?",
+            "name": "Bandwagon Horsegirl"
         },
         {
-            "text": "Her fans' piercing stares made me hesitate, and when I did…"
+            "text": "Her fans' piercing stares made \nme hesitate, and when I did…"
         },
         {
-            "name": "Curren Chan",
-            "text": "So from now on you're my trainer! I'm glad that's finally settled ♪"
+            "text": "So from now on you're my trainer! \nI'm glad that's finally settled ♪",
+            "name": "Curren Chan"
         },
         {
-            "text": "Before I knew it, I was signing on as her trainer…! What a brilliantly executed plan… She's definitely not your average person."
+            "text": "Before I knew it, I was signing on as her trainer…! \nWhat a brilliantly executed plan… \nShe's definitely not your average person."
         },
         {
-            "name": "Curren Chan",
-            "text": "Yay♪ So from now on we're gonna spend every day together!  I'm looking forward to this, Onee-chan♪"
+            "text": "Yay♪ So from now on we're gonna spend every day together!  I'm \nlooking forward to this, Onee-chan♪",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Yay♪ So from now on we're gonna spend every day together!  I'm looking forward to this, Onee-chan♪"
+            "text": "Yay♪ So from now on we're gonna spend every day together!  I'm \nlooking forward to this, Onee-chan♪",
+            "name": "Curren Chan"
         },
         {
-            "name": "Fans",
-            "text": "Curren, congratulations!!"
+            "text": "Curren, congratulations!!",
+            "name": "Fans"
         },
         {
-            "text": "There was a round of applause… But mixed in with it were voices of displeasure."
+            "text": "There was a round of applause… \nBut mixed in with it were voices of displeasure."
         },
         {
-            "name": "Serious Horsegirl",
-            "text": "What's all the fuss about…?"
+            "text": "What's all the fuss about…?",
+            "name": "Serious Horsegirl"
         },
         {
-            "name": "Race-loving Horsegirl",
-            "text": "Umastagrammer and what not… Students here are meant to be serious about racing, you know?"
+            "text": "Umastagrammer and what not… Students here \nare meant to be serious about racing, you know?",
+            "name": "Race-loving Horsegirl"
         },
         {
-            "text": "I guess standing out really does invite more criticism. And here, the best way to respond is to let your racing do the talking."
+            "text": "I guess standing out really does invite more criticism. \nAnd here, the best way to respond \nis to let your racing do the talking."
         },
         {
-            "name": "Curren Chan",
-            "text": "Onee-chan… Could it be? Are you worried about me?"
+            "text": "Onee-chan… Could it be? \nAre you worried about me?",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Onee-chan… Could it be? Are you worried about me?"
+            "text": "Onee-chan… Could it be? \nAre you worried about me?",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Hehe, don't worry. Because you see… I'm super cute♪"
+            "text": "Hehe, don't worry. \nBecause you see… I'm super cute♪",
+            "name": "Curren Chan"
         },
         {
-            "text": "The following day was a fitness exam. Curious onlookers watched as Curren Chan showed exactly what she's made of."
+            "text": "The following day was a fitness exam. Curious onlookers watched \nas Curren Chan showed exactly what she's made of."
         },
         {
-            "name": "Instructor",
-            "text": "Th-This time on a 1200 meter dirt track…!?"
+            "text": "Th-This time on a 1200 meter dirt track…!?",
+            "name": "Instructor"
         },
         {
-            "text": "The onlookers began muttering amongst themselves. Her time was absolutely unthinkable for a rookie! She seems like a natural-born sprinter."
+            "text": "The onlookers began muttering amongst themselves. \nHer time was absolutely unthinkable for a rookie! \nShe seems like a natural-born sprinter."
         },
         {
-            "name": "Curren Chan",
-            "text": "Onee-chan! Hey, how did I do? I bet I looked super cute out there ♪"
+            "text": "Onee-chan! Hey, how did I do? \nI bet I looked super cute out there ♪",
+            "name": "Curren Chan"
         },
         {
-            "name": "Curren Chan",
-            "text": "Onee-chan! Hey, how did I do? I bet I looked super cute out there ♪"
+            "text": "Onee-chan! Hey, how did I do? \nI bet I looked super cute out there ♪",
+            "name": "Curren Chan"
         },
         {
-            "text": "Curren Chan, what exactly is your aim? Well, for now I guess I'll follow her on Umastagram…"
+            "text": "Curren Chan, what exactly is your aim? \nWell, for now I guess I'll follow her on Umastagram…"
         }
     ]
 }

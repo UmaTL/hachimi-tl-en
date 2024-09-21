@@ -1,36 +1,37 @@
 {
     "text_block_list": [
         {
-            "name": "Mejiro McQueen",
-            "text": "Come on Sub-Trainer! Please, hurry up!"
+            "text": "Come on Sub-Trainer! \nPlease, hurry up!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "The main stand of the Nakayama Racecourse is packed full of people and overflowing with excitement."
+            "text": "The main stand of the Nakayama Racecourse is packed full of \npeople and overflowing with excitement."
         },
         {
-            "text": "With the front row in our sights, Mejiro McQueen and I pushed through the crowd."
+            "text": "With the front row in our sights, Mejiro \nMcQueen and I pushed through the crowd."
         },
         {
-            "text": "With the front row in our sights, Mejiro McQueen and I pushed through the crowd."
+            "text": "With the front row in our sights, Mejiro \nMcQueen and I pushed through the crowd."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "It's Oguri-san's final race, if I were to miss the moment she crosses the goal, I would regret it for the rest of my life."
+            "text": "It's Oguri-san's final race, if I were to miss the moment she \ncrosses the goal, I would regret it for the rest of my life.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Then wouldn't it be fine if we watched it from the team seat-"
+            "text": "Then wouldn't it be fine if we watched it from the team seat-",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I told you before, didn't I? Oguri-san's running figure… I want to see her gallant figure with my own two eyes!"
+            "text": "I told you before, didn't I? Oguri-san's running figure… \nI want to see her gallant figure with my own two eyes!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Commentator",
-            "text": "They're closing in on her, but she's still in the lead! Oguri is still in the lead!"
+            "text": "They're closing in on her, but she's still in the lead! \nOguri is still in the lead!",
+            "name": "Commentator"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Jeez, at this rate she'll pass the goal before we get there! Here, take my hand!"
+            "text": "Jeez, at this rate she'll pass the goal before \nwe get there! Here, take my hand!",
+            "name": "Mejiro McQueen"
         },
         {
             "text": "As she said that, she forcibly grabbed my hand."
@@ -39,60 +40,61 @@
             "text": "As she said that, she forcibly grabbed my hand."
         },
         {
-            "text": "She pulled me with such incredible force, and in an instant my view widened."
+            "text": "She pulled me with such incredible force, \nand in an instant my view widened."
         },
         {
-            "name": "Commentator",
-            "text": "Oguri leads as they cross the finish line!! Oguri finished in first place!"
+            "text": "Oguri leads as they cross the finish line!! \nOguri finished in first place!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "The Superstar Uma Musume, Oguri Cap! She finishes the Twinkle Series with a miraculous victory!"
+            "text": "The Superstar Uma Musume, Oguri Cap! She finishes the Twinkle \nSeries with a miraculous victory!",
+            "name": "Commentator"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Wow…!"
+            "text": "Wow…!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I will never forget what happened that day, because that was the day that I witnessed a miracle."
+            "text": "I will never forget what happened that day, because \nthat was the day that I witnessed a miracle."
         },
         {
-            "text": "I will never forget what happened that day, because that was the day that I witnessed a miracle."
+            "text": "I will never forget what happened that day, because \nthat was the day that I witnessed a miracle."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Amazing… that was amazing! She actually won!"
+            "text": "Amazing… that was amazing! \nShe actually won!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "This is Oguri-san showing us how an \"Ace\" runs, isn't it…?"
+            "text": "This is Oguri-san showing us \nhow an \"Ace\" runs, isn't it…?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "She accomplished this despite many people thinking that she was \"done for\" due to her losing streak, particularly when she came in 11th place in her last race."
+            "text": "She accomplished this despite many people thinking that she was \n\"done for\" due to her losing streak, particularly when she came \nin 11th place in her last race.",
+            "name": "<username>"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Oguri and I are both incredibly prideful. When they write us off, it only serves to get us more fired up!"
+            "text": "Oguri and I are both incredibly prideful. When they write us off, \nit only serves to get us more fired up!",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Ah, good work, Trainer-san."
+            "text": "Ah, good work, Trainer-san.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "The voice we heard was that of the chief trainer of our team. He was the one who taught me what it meant to be a trainer."
+            "text": "The voice we heard was that of the chief trainer of our team. He \nwas the one who taught me what it meant to be a trainer."
         },
         {
-            "text": "The voice we heard was that of the chief trainer of our team. He was the one who taught me what it meant to be a trainer."
+            "text": "The voice we heard was that of the chief trainer of our team. He \nwas the one who taught me what it meant to be a trainer."
         },
         {
-            "text": "He's a veteran, having worked as a trainer for 30 years. He plans on retiring after the Arima Kinen, but…",
+            "text": "He's a veteran, having worked as a trainer for 30 years. He plans \non retiring after the Arima Kinen, but…",
             "choice_data_list": [
-                "It really is too early for you \nto retire, Sensei."
+                "<size=36>It really is too early for you \nto retire, Sensei.</size>"
             ]
         },
         {
+            "text": "That may be true, but you and \nOguri-san showed us such a magnificent race!",
             "name": "Mejiro McQueen",
-            "text": "That may be true, but you and Oguri-san showed us such a magnificent race!",
             "choice_data_list": [
                 "Listen to the crowd's cheers"
             ]
@@ -101,81 +103,81 @@
             "text": "(Oguri! Oguri!!)"
         },
         {
-            "name": "Commentator",
-            "text": "The stadium is ablaze with \"Oguri Calls!\" It's causing the entire stadium to shake!"
+            "text": "The stadium is ablaze with \"Oguri Calls!\" It's \ncausing the entire stadium to shake!",
+            "name": "Commentator"
         },
         {
-            "text": "One could tell that the 100,000 people that were there that day were in awe of Oguri Cap's running."
+            "text": "One could tell that the 100,000 people that were there that day \nwere in awe of Oguri Cap's running."
         },
         {
-            "text": "Which in turn meant that her trainer, who had worked so hard to raise Oguri Cap, had done his job perfectly."
+            "text": "Which in turn meant that her trainer, who had worked so hard to \nraise Oguri Cap, had done his job perfectly."
         },
         {
-            "text": "This is proof that despite his age, he is still an amazing trainer…"
+            "text": "This is proof that despite his age, \nhe is still an amazing trainer…"
         },
         {
-            "name": "Chief Trainer",
-            "text": "No, I'm at the end of my rope. I gave it my all to this end, and now I'm completely burnt out."
+            "text": "No, I'm at the end of my rope. I gave it my all \nto this end, and now I'm completely burnt out.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "So, as originally planned, I'm leaving Team Sirius in your hands."
+            "text": "So, as originally planned, \nI'm leaving Team Sirius in your hands.",
+            "name": "Chief Trainer"
         },
         {
             "text": "He clasped my shoulder with immense force."
         },
         {
-            "text": "I spent two years studying hard as a sub-trainer with Sirius, a team created by the Chief Trainer."
+            "text": "I spent two years studying hard as a sub-trainer with Sirius, a \nteam created by the Chief Trainer."
         },
         {
-            "text": "I spent two years studying hard as a sub-trainer with Sirius, a team created by the Chief Trainer."
+            "text": "I spent two years studying hard as a sub-trainer with Sirius, a \nteam created by the Chief Trainer."
         },
         {
-            "text": "Whenever I wavered, whenever I was weak, he would encourage me in this manner."
+            "text": "Whenever I wavered, whenever I was weak, \nhe would encourage me in this manner."
         },
         {
             "text": "Make sure you're there to support McQueen."
         },
         {
-            "name": "Chief Trainer",
-            "text": "After winning the Kikuka-shō, she's entered the peak of her development."
+            "text": "After winning the Kikuka-shō, \nshe's entered the peak of her development.",
+            "name": "Chief Trainer"
         },
         {
+            "text": "The combination of you and McQueen will definitely draw \neveryone's attention, even in G1 races.",
             "name": "Chief Trainer",
-            "text": "The combination of you and McQueen will definitely draw everyone's attention, even in G1 races.",
             "choice_data_list": [
                 "Yes!"
             ]
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "That's right. Although, she can be unreliable at times, so it shall be me be supporting her instead."
+            "text": "That's right. Although, she can be unreliable at \ntimes, so it shall be me be supporting her instead.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "If I win the Spring Tennō Shō, I'm sure it will give her a little more confidence as well."
+            "text": "If I win the Spring Tennō Shō, I'm sure it will \ngive her a little more confidence as well.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Please look forward to it."
+            "text": "Please look forward to it.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Chief Trainer",
-            "text": "Hahaha! She's already leading her by the nose! But it looks like they're enjoying themselves."
+            "text": "Hahaha! She's already leading her by the nose! But \nit looks like they're enjoying themselves.",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Chief Trainer",
-            "text": "I can't wait to see how the team that I created evolves. I'm looking forward to seeing what you two can achieve!"
+            "text": "I can't wait to see how the team that I created evolves. \nI'm looking forward to seeing what you two can achieve!",
+            "name": "Chief Trainer"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Thank you!"
+            "text": "Thank you!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "The sky above Nakayama Racecourse began to turn a reddish hue as our voices echoed through the air."
+            "text": "The sky above Nakayama Racecourse began to turn a reddish hue as \nour voices echoed through the air."
         },
         {
-            "text": "The sky above Nakayama Racecourse began to turn a reddish hue as our voices echoed through the air."
+            "text": "The sky above Nakayama Racecourse began to turn a reddish hue as \nour voices echoed through the air."
         }
     ]
 }

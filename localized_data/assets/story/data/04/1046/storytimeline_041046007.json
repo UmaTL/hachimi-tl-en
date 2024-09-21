@@ -1,202 +1,202 @@
 {
     "text_block_list": [
         {
-            "name": "Smart Falcon",
-            "text": "I wonder which flavor of shaved ice I should get～♪ It's summer after all, so maybe pineapple? Kiwi flavor sounds interesting too～"
+            "text": "I wonder which flavor of shaved ice I should get～♪ It's summer \nafter all, so maybe pineapple? Kiwi flavor sounds interesting too～",
+            "name": "Smart Falcon"
         },
         {
+            "text": "Awww, they all sound good! Trainer-san, \nI'm going to go take a closer look at the menu!",
             "name": "Smart Falcon",
-            "text": "Awww, they all sound good! Trainer-san, I'm going to go take a closer look at the menu!",
             "choice_data_list": [
                 "Have fun"
             ]
         },
         {
-            "text": "I was at summer training camp with Smart Falcon. Today we were taking a break, and we had been making good progress on the training menu, but―"
+            "text": "I was at summer training camp with Smart Falcon. \nToday we were taking a break, and we had been making \ngood progress on the training menu, but―"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "Haa～…… it's finally summer training camp but, dirt, dirt, dirt…… I'm allllways surrounded by dirt……"
+            "text": "Haa～…… it's finally summer training camp but, \ndirt, dirt, dirt…… I'm allllways surrounded by dirt……",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "text": "I heard a big sigh. When I turned to look, I saw an Uma Musume by herself, poking at the dirt. I felt like I had seen her before……"
+            "text": "I heard a big sigh. When I turned to look, I saw an Uma Musume by \nherself, poking at the dirt. I felt like I had seen her before……"
         },
         {
+            "text": "Trainer-san, I'm back☆ I decided on going \nwith the electrifying Hawaiian Blue flavor today♪",
+            "name": "Smart Falcon"
+        },
+        {
+            "text": "――But then Smart Falcon had returned, \nand we went to buy some shaved ice."
+        },
+        {
+            "text": "Huuu～……! Looking good, huh!? \nMaybe it was because of that tasty shaved ice――",
+            "name": "Smart Falcon"
+        },
+        {
+            "text": "……Hm? What's going on? \nLooks like there's a lot of people gathering over there.",
             "name": "Smart Falcon",
-            "text": "Trainer-san, I'm back☆ I decided on going with the electrifying Hawaiian Blue flavor today♪"
-        },
-        {
-            "text": "――But then Smart Falcon had returned, and we went to buy some shaved ice."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Huuu～……! Looking good, huh!? Maybe it was because of that tasty shaved ice――"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "……Hm? What's going on? Looks like there's a lot of people gathering over there.",
             "choice_data_list": [
                 "I wonder if something happened",
                 "I wonder if something happened"
             ]
         },
         {
-            "text": "To figure out what happened, I went with Smart Falcon to where people were gathering. When we did―"
+            "text": "To figure out what happened, I went with Smart Falcon \nto where people were gathering. When we did―"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "What should I do, what should I do……!?"
+            "text": "What should I do, what should I do……!?",
+            "name": "Rookie Trainer A"
         },
         {
-            "text": "One trainer was panicking, and just like us, several other trainers and Uma Musume had gathered together due to his panicked voice."
+            "text": "One trainer was panicking, and just like us, \nseveral other trainers and Uma Musume had gathered \ntogether due to his panicked voice."
         },
         {
-            "name": "Smart Falcon",
-            "text": "……I wonder what happened."
+            "text": "……I wonder what happened.",
+            "name": "Smart Falcon"
         },
         {
-            "text": "As she said, we didn't know the situation. I decided to ask the trainers gathered there.",
+            "text": "As she said, we didn't know the situation. \nI decided to ask the trainers gathered there.",
             "choice_data_list": [
                 "Did something happen?"
             ]
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "I-it's a disaster……! The girl I'm responsible for hasn't returned, even though it's long past the end of her break time……!"
+            "text": "I-it's a disaster……! The girl I'm responsible for hasn't \nreturned, even though it's long past the end of her break time……!",
+            "name": "Rookie Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "On top of that, it seems like he can't get in touch with her either. It's going to be getting dark soon, too. She might get lost……"
+            "text": "On top of that, it seems like he can't get in \ntouch with her either. It's going to be getting \ndark soon, too. She might get lost……",
+            "name": "Veteran Trainer A"
         },
         {
+            "text": "No way……! Then we need to find her quickly! \nRight, Trainer-san!?",
             "name": "Smart Falcon",
-            "text": "No way……! Then we need to find her quickly! Right, Trainer-san!?",
             "choice_data_list": [
                 "Yeah, we want to help find her",
                 "Yeah, we want to help find her"
             ]
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "Good call, standing around here won't solve anything. Let's split up and search. Do you have any idea where she might head to?"
+            "text": "Good call, standing around here won't solve anything. Let's split \nup and search. Do you have any idea where she might head to?",
+            "name": "Veteran Trainer A"
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "Yeah! Thank you……! Umm, maybe―"
+            "text": "Yeah! Thank you……! Umm, maybe―",
+            "name": "Rookie Trainer A"
         },
         {
-            "text": "Everyone was assigned a location to check, and the search began in earnest. The place assigned to us was―"
+            "text": "Everyone was assigned a location to check, and the search began \nin earnest. The place assigned to us was―"
         },
         {
+            "text": "The opposite end of the beach, huh. \nThere aren't many people here though……",
             "name": "Smart Falcon",
-            "text": "The opposite end of the beach, huh. There aren't many people here though……",
             "choice_data_list": [
                 "That doesn't mean she isn't here",
                 "That doesn't mean she isn't here"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "Yeah, it happens pretty often. You just wanted to take a walk and ended up straying too far."
+            "text": "Yeah, it happens pretty often. \nYou just wanted to take a walk and ended up straying too far.",
+            "name": "Smart Falcon"
         },
         {
+            "text": "Alllright! Since this is our spot, we just need to go all out and \nsearch! Falco will go take a look way over there. Since I'm good \nat running in the sand-!",
             "name": "Smart Falcon",
-            "text": "Alllright! Since this is our spot, we just need to go all out and search! Falco will go take a look way over there. Since I'm good at running in the sand-!",
             "choice_data_list": [
                 "Ah…… wait a second!",
                 "Ah…… wait a second!"
             ]
         },
         {
-            "text": "Smart Falcon was overflowing with motivation, and she had already run so far away before I could stop her."
+            "text": "Smart Falcon was overflowing with motivation, \nand she had already run so far away before I could stop her."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Haa…… Haa…… Haa……!"
+            "text": "Haa…… Haa…… Haa……!",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "(Is she over here? Or maybe over there? Uuu……I ran off before thinking about it and now I have no idea)"
+            "text": "(Is she over here? Or maybe over there? \nUuu……I ran off before thinking about it and now I have no idea)",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "(But, since I decided to do it, I need to do my best……! Full Throttle☆Full Power! Falco, Ooo!)"
+            "text": "(But, since I decided to do it, I need to do my best……! \nFull Throttle☆Full Power! Falco, Ooo!)",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "Eh, Falco-san……? Why's she running out here……?"
+            "text": "Eh, Falco-san……? \nWhy's she running out here……?",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "text": "After that, I had been walking around for quite a while, and I couldn't find the missing girl or Smart Falcon."
+            "text": "After that, I had been walking around for quite a while, \nand I couldn't find the missing girl or Smart Falcon."
         },
         {
+            "text": "How's it looking over here……!? \nI've looked all around the beach, but still haven't found her……",
             "name": "Rookie Trainer A",
-            "text": "How's it looking over here……!? I've looked all around the beach, but still haven't found her……",
             "choice_data_list": [
                 "Unfortunately, same here……"
             ]
         },
         {
-            "name": "Rookie Trainer A",
-            "text": "I see…… Damnit, where should I look next……!?"
+            "text": "I see…… \nDamnit, where should I look next……!?",
+            "name": "Rookie Trainer A"
         },
         {
-            "text": "Time continued to pass as we still had no clues. We needed to find her before the sun went down. When I started thinking that―"
+            "text": "Time continued to pass as we still had no clues. We needed to \nfind her before the sun went down. When I started thinking that―"
         },
         {
-            "name": "Smart Falcon",
             "text": "Sorry・For・The・Waitーーーーーー!!",
+            "name": "Smart Falcon",
             "choice_data_list": [
                 "――Eh!?"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "Coming back straight to your heart☆Even if she runs, make sure to catch her♪ It's the strongest Umadol, Smart Falcon☆"
+            "text": "Coming back straight to your heart☆Even if she runs, make sure to \ncatch her♪ It's the strongest Umadol, Smart Falcon☆",
+            "name": "Smart Falcon"
         },
         {
-            "text": "She must have run quite a bit because she was covered in dirt when she came back. ……Behind her, was probably the girl we were looking for.",
+            "text": "She must have run quite a bit because she was \ncovered in dirt when she came back. ……Behind her, \nwas probably the girl we were looking for.",
             "choice_data_list": [
                 "Falcon……!!"
             ]
         },
         {
+            "text": "Oh come on, Trainer-san, \nnot calling me 『Falco』 right there is a no-no☆",
             "name": "Smart Falcon",
-            "text": "Oh come on, Trainer-san, not calling me 『Falco』 right there is a no-no☆",
             "choice_data_list": [
                 "I'm glad you're okay……"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "Ehehe…… sorry about that, I didn't mean to worry you. I just thought 『Go full power!』 and ran off without really thinking about it."
+            "text": "Ehehe…… sorry about that, I didn't mean to worry \nyou. I just thought 『Go full power!』 and ran \noff without really thinking about it.",
+            "name": "Smart Falcon"
         },
         {
-            "text": "It seems like the missing girl had gotten really lost. The only reason we found her was because of Falco."
+            "text": "It seems like the missing girl had gotten really lost. \nThe only reason we found her was because of Falco."
         },
         {
-            "name": "Smart Falcon",
-            "text": "I just finished changing clothes and it's already night, huh…… I was hoping to get in just a little bit more training though."
+            "text": "I just finished changing clothes and it's already night, huh…… \nI was hoping to get in just a little bit more training though.",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "Falco-san…… hey!"
+            "text": "Falco-san…… hey!",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Waaah, what, what!? ―Oh, huh? You're……"
+            "text": "Waaah, what, what!? \n―Oh, huh? You're……",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "We swung those flags together a while ago……! My aptitude is dirt too…… this whole time I had a hard time accepting that, my own aptitude I mean."
+            "text": "We swung those flags together a while ago……! My \naptitude is dirt too…… this whole time I had a hard \ntime accepting that, my own aptitude I mean.",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "But, after watching Falco-san today…… it was the first time I thought 『This isn't so bad』! Watching Falco-san run through the sand, you were sparkling……!"
+            "text": "But, after watching Falco-san today…… it was the first time I \nthought 『This isn't so bad』! Watching Falco-san run through the \nsand, you were sparkling……!",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "name": "Smart Falcon",
-            "text": "…………"
+            "text": "…………",
+            "name": "Smart Falcon"
         },
         {
             "text": "She gave her thanks to Smart Falcon and then ran off.",
@@ -206,38 +206,38 @@
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "………… ……her eyes were sparkling, weren't they?"
+            "text": "………… \n……her eyes were sparkling, weren't they?",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "To think she'd look at Falco with eyes like that…… ―Ehehe, do you think I've gained a fan?"
+            "text": "To think she'd look at Falco with eyes like that…… \n―Ehehe, do you think I've gained a fan?",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "The people doing the performing were all working hard and shining, and the people watching were basking in that, I think!"
+            "text": "The people doing the performing were all working hard and \nshining, and the people watching were basking in that, I think!",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "It's a reaaaaally wonderful thing, don't you think!? Falco too, it would be great if I could shine like that for someone too♪"
+            "text": "It's a reaaaaally wonderful thing, don't you think!? Falco too, \nit would be great if I could shine like that for someone too♪",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "As long as you give it your all, it really doesn't matter what you do, huh? ……Alllright! Then, to celebrate the birth of Fan#2♪"
+            "text": "As long as you give it your all, it really doesn't matter what \nyou do, huh? ……Alllright! Then, to celebrate the birth of Fan#2♪",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "The unveiling of a new incredibly lovely, cute smile♪ It's the strongest Umadol～, Smart Falcon☆"
+            "text": "The unveiling of a new incredibly lovely, cute smile♪ \nIt's the strongest Umadol～, Smart Falcon☆",
+            "name": "Smart Falcon"
         },
         {
-            "text": "Whenever she decides on something, she works hard on it. She was really reliable, and outstanding―",
+            "text": "Whenever she decides on something, she works hard on it. \nShe was really reliable, and outstanding―",
             "choice_data_list": [
                 "You're so cool!!"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "――C'mon, Trainer-san! You're supposed to say 『Cute』, aren't you!? Okay, one more time! I want a do over～～!"
+            "text": "――C'mon, Trainer-san! You're supposed to say 『Cute』, aren't you!? \nOkay, one more time! I want a do over～～!",
+            "name": "Smart Falcon"
         }
     ]
 }

@@ -1,42 +1,42 @@
 {
     "text_block_list": [
         {
-            "name": "Classmate Uma Musume",
-            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad~! Of all times, it had to be my turn to take the trash out……!"
+            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad~! \nOf all times, it had to be my turn to take the trash out……!",
+            "name": "Classmate Uma Musume"
         },
         {
+            "text": "Wah! ……Whoa. What's wrong? \nYou look really worried.",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Class Rep Top Road! Sorry, I was in a hurry…… \nEarlier, the teacher called for me since I have an interview soon……",
+            "name": "Classmate Uma Musume"
+        },
+        {
+            "text": "Ah, in that case, I'll throw the trash away! \nGo ahead and head to the teacher!",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Eh!? ……Really? Then……can I ask you to do it? \nI'll definitely make it up to you later!",
+            "name": "Classmate Uma Musume"
+        },
+        {
+            "text": "Ahaha, you don't need to thank me. Something like this'll \nbe over in an instant! Do your best in the interview!",
             "name": "Narita Top Road",
-            "text": "Wah! ……Whoa. What's wrong? You look really worried."
-        },
-        {
-            "name": "Classmate Uma Musume",
-            "text": "Class Rep Top Road! Sorry, I was in a hurry…… Earlier, the teacher called for me since I have an interview soon……"
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Ah, in that case, I'll throw the trash away! Go ahead and head to the teacher!"
-        },
-        {
-            "name": "Classmate Uma Musume",
-            "text": "Eh!? ……Really? Then……can I ask you to do it? I'll definitely make it up to you later!"
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Ahaha, you don't need to thank me. Something like this'll be over in an instant! Do your best in the interview!",
             "choice_data_list": [
                 "(She's being relied on again, huh)",
                 "(She's being relied on again, huh)"
             ]
         },
         {
-            "text": "While I was working, I overheard the conversation outside my window. And it made me smile.",
+            "text": "While I was working, I overheard the conversation \noutside my window. And it made me smile.",
             "choice_data_list": [
                 "(I'll work hard too!)",
                 "(I'll work hard too!)"
             ]
         },
         {
-            "text": "I turned back to the paperwork that I was working on. When I finished, I headed out on to the grounds."
+            "text": "I turned back to the paperwork that I was working on. \nWhen I finished, I headed out on to the grounds."
         },
         {
             "text": "However, when I passed by the garbage area――",
@@ -45,121 +45,121 @@
             ]
         },
         {
-            "text": "Narita Top Road was standing there. There were several crows gathered around the bird net that prevented them from getting to the garbage."
+            "text": "Narita Top Road was standing there. There were \nseveral crows gathered around the bird net \nthat prevented them from getting to the garbage."
         },
         {
+            "text": "…………Don't look at them, ignore them. \nApproach quietly……and then just leave……!",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Caaaaw.",
+            "name": "Crow"
+        },
+        {
+            "text": "Uwaaah!!",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "…………Uuuuh………… …………",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "……Huuuuuーーー…………it's fine, it's fine……",
+            "name": "Narita Top Road"
+        },
+        {
+            "text": "Caaaaaaaaw.",
+            "name": "Crow"
+        },
+        {
+            "text": "Hiiii!! \n……~~~~~~",
             "name": "Narita Top Road",
-            "text": "…………Don't look at them, ignore them. Approach quietly……and then just leave……!"
-        },
-        {
-            "name": "Crow",
-            "text": "Caaaaw."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Uwaaah!!"
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "…………Uuuuh………… …………"
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "……Huuuuuーーー…………it's fine, it's fine……"
-        },
-        {
-            "name": "Crow",
-            "text": "Caaaaaaaaw."
-        },
-        {
-            "name": "Narita Top Road",
-            "text": "Hiiii!! ……~~~~~~",
             "choice_data_list": [
                 "Are you……bad with crows?",
                 "Are you……bad with crows?"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Ah, T-Trainer-san……"
+            "text": "Ah, T-Trainer-san……",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Um, well yeah……when I was a kid, one of them scared me…… Even now, I still get reminded of that time……"
+            "text": "Um, well yeah……when I was a kid, one of them scared me…… \nEven now, I still get reminded of that time……",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "……But when it comes to crows, I can't help it though……",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "――I'll do it for you then"
             ]
         },
         {
-            "name": "Narita Top Road",
             "text": "Eh? You don't need to, I'd feel bad!",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "I'm fine with crows. Let me do it.",
                 "I'm fine with crows. Let me do it."
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "……You really helped me out. Really, thank you for that."
+            "text": "……You really helped me out. \nReally, thank you for that.",
+            "name": "Narita Top Road"
         },
         {
+            "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
             "name": "Narita Top Road",
-            "text": "Aaah~, I'm pathetic! If you hadn't come, I'd probably still……really, really, thanks alot!",
             "choice_data_list": [
                 "This isn't a big deal though……"
             ]
         },
         {
-            "text": "While it was praiseworthy that she was doing something that was left to her and trying to deal with something she was bad with, seeing how she was earlier……",
+            "text": "While it was praiseworthy that she was doing something \nthat was left to her and trying to deal with something \nshe was bad with, seeing how she was earlier……",
             "choice_data_list": [
                 "Couldn't you ask someone else?"
             ]
         },
         {
+            "text": "……Well, it was a task I had accepted. \nI thought I needed to see it through to the end.",
             "name": "Narita Top Road",
-            "text": "……Well, it was a task I had accepted. I thought I needed to see it through to the end.",
             "choice_data_list": [
-                "But the crows were unexpected, right?",
-                "But the crows were unexpected, right?"
+                "<size=43>But the crows were unexpected, right?</size>",
+                "<size=43>But the crows were unexpected, right?</size>"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Well, yeah……even so, I couldn't just leave the trash somewhere else."
+            "text": "Well, yeah……even so, \nI couldn't just leave the trash somewhere else.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "And besides, the girl who left it to me, I think she believed that I'd see it through to the end."
+            "text": "And besides, the girl who left it to me, \nI think she believed that I'd see it through to the end.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "――In which case, I wanted to live up to those expectations."
+            "text": "――In which case, I wanted to live up to those expectations.",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "No matter how difficult or troublesome. I think that's the duty of someone who's being relied upon!"
+            "text": "No matter how difficult or troublesome. \nI think that's the duty of someone who's being relied upon!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
-            "text": "Living up to expectations makes it all worthwhile!"
+            "text": "Living up to expectations makes it all worthwhile!",
+            "name": "Narita Top Road"
         },
         {
-            "name": "Narita Top Road",
             "text": "……though, I guess it's not very convincing when you had to come help me.",
+            "name": "Narita Top Road",
             "choice_data_list": [
                 "No, I think it's a great mindset"
             ]
         },
         {
-            "name": "Narita Top Road",
-            "text": "Thanks alot. So I'm not just all talk, I'll do my best!"
+            "text": "Thanks alot. \nSo I'm not just all talk, I'll do my best!",
+            "name": "Narita Top Road"
         },
         {
-            "text": "She had a strong sense of responsibility and desire to improve. While that was a good thing―― I did wish she'd rely on others a little more."
+            "text": "She had a strong sense of responsibility and \ndesire to improve. While that was a good thing―― \nI did wish she'd rely on others a little more."
         }
     ]
 }

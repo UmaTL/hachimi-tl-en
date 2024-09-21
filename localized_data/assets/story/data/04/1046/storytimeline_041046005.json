@@ -1,58 +1,58 @@
 {
     "text_block_list": [
         {
-            "name": "Smart Falcon",
-            "text": "―Trainer-san! Listen to this!"
+            "text": "―Trainer-san! Listen to this!",
+            "name": "Smart Falcon"
         },
         {
-            "text": "One day, while walking around the school grounds, Smart Falcon ran up to me with a smile on her face."
+            "text": "One day, while walking around the school grounds, \nSmart Falcon ran up to me with a smile on her face."
         },
         {
+            "text": "You see, this time, during the Sports Competition, \nFalco is going to be part of the Cheer Dance group☆",
             "name": "Smart Falcon",
-            "text": "You see, this time, during the Sports Competition, Falco is going to be part of the Cheer Dance group☆",
             "choice_data_list": [
                 "When you say Sports Competition……"
             ]
         },
         {
-            "text": "The 『Inter-disciplinary Sports Comeptition』. A race that's held twice a year at Tracen Academy, it's a big event that always brings in lots of spectators."
+            "text": "The 『Inter-disciplinary Sports Comeptition』. A race that's held \ntwice a year at Tracen Academy, it's a big event that always \nbrings in lots of spectators."
         },
         {
-            "name": "Smart Falcon",
-            "text": "――Right! The one where lots of spectators from outside the school attend, that Sports Compeition!"
+            "text": "――Right! The one where lots of spectators from \noutside the school attend, that Sports Compeition!",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
-            "text": "If I can dance in front of lots of spectators, I wonder if they'll become Falco's fans～, Ehehe♪"
+            "text": "If I can dance in front of lots of spectators, \nI wonder if they'll become Falco's fans～, Ehehe♪",
+            "name": "Smart Falcon"
         },
         {
             "text": "But, when I found her again as the day was ending……"
         },
         {
+            "text": "Go- Go-, Fight O-…… \nLet's Go-, Fight O-……",
             "name": "Smart Falcon",
-            "text": "Go- Go-, Fight O-…… Let's Go-, Fight O-……",
             "choice_data_list": [
                 "(Did something happen……?)",
                 "(Did something happen……?)"
             ]
         },
         {
-            "text": "I was going to call out to her but, then I noticed she was talking to another Uma Musume."
+            "text": "I was going to call out to her but, \nthen I noticed she was talking to another Uma Musume."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Haaa～…… it would have been nice to join the Cheer Dance, huh?"
+            "text": "Haaa～…… it would have been nice to join the Cheer Dance, huh?",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "Yeah…… never thought I would end up as a Flag-bearer though……"
+            "text": "Yeah…… never thought I would \nend up as a Flag-bearer though……",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "name": "Dirt Aptitude Uma Musume",
-            "text": "I have dirt aptitude, and flag-bearer aptitude…… I always get told that. If I want to get attention, then this won't work……"
+            "text": "I have dirt aptitude, and flag-bearer aptitude…… I always get \ntold that. If I want to get attention, then this won't work……",
+            "name": "Dirt Aptitude Uma Musume"
         },
         {
-            "text": "……It seems like rather than being Dancers in the Cheer Squad, they were selected as flag-bearers.",
+            "text": "……It seems like rather than being Dancers in the Cheer Squad, \nthey were selected as flag-bearers.",
             "choice_data_list": [
                 "(What should I say to them……)"
             ]
@@ -61,63 +61,63 @@
             "text": "While I was trying to think of words of encouragement―"
         },
         {
+            "text": "……but, since it's already been decided, we just have to do our \nbest. For now, let's keep on practicing!",
+            "name": "Smart Falcon"
+        },
+        {
+            "text": "So just like this…… and this! \nAnd then…… like this, and this!",
+            "name": "Smart Falcon"
+        },
+        {
+            "text": "The flag fluttered in the evening sky. Despite how heavy the pole \nlooked, the flag was swung about quite nimbly. I could understand \nwhy they were chosen."
+        },
+        {
+            "text": "After their flag-waving practice had ended, \nI decide to talk to her when she was alone."
+        },
+        {
+            "text": "Huuu～, that took a lot of strength…… \nI'm so tired……",
             "name": "Smart Falcon",
-            "text": "……but, since it's already been decided, we just have to do our best. For now, let's keep on practicing!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "So just like this…… and this! And then…… like this, and this!"
-        },
-        {
-            "text": "The flag fluttered in the evening sky. Despite how heavy the pole looked, the flag was swung about quite nimbly. I could understand why they were chosen."
-        },
-        {
-            "text": "After their flag-waving practice had ended, I decide to talk to her when she was alone."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Huuu～, that took a lot of strength…… I'm so tired……",
             "choice_data_list": [
                 "You swung it pretty well",
                 "You swung it pretty well"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "―Waaah! Trainer-san!?"
+            "text": "―Waaah! Trainer-san!?",
+            "name": "Smart Falcon"
         },
         {
+            "text": "Uuu～…… I really wanted to show off the sparkly \nand cute dancing of Falco though～……",
             "name": "Smart Falcon",
-            "text": "Uuu～…… I really wanted to show off the sparkly and cute dancing of Falco though～……",
             "choice_data_list": [
-                "But, this might be a valuable experience"
+                "<size=41>But, this might be a valuable experience</size>"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "……you think so? Even though it's a flag, do you think they might still think 『It's wonderful』?"
+            "text": "……you think so? Even though it's a flag, \ndo you think they might still think 『It's wonderful』?",
+            "name": "Smart Falcon"
         },
         {
-            "text": "―And so, with a little bit of anxiety, the Inter-disciplinary Sports Competition began."
+            "text": "―And so, with a little bit of anxiety, \nthe Inter-disciplinary Sports Competition began."
         },
         {
-            "name": "Smart Falcon",
-            "text": "Go- Go-! Fight O-! Let's Go-! Fight O-!"
+            "text": "Go- Go-! Fight O-! \nLet's Go-! Fight O-!",
+            "name": "Smart Falcon"
         },
         {
-            "text": "Smart Falcon stood next to the breathtaking dancers while waving her flag. When she moved to the center, she didn't let the opportunity pass―"
+            "text": "Smart Falcon stood next to the breathtaking dancers \nwhile waving her flag. When she moved to the center, \nshe didn't let the opportunity pass―"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Go- Go-!! Fight Oーーー!!!! Let's Go-!! Fight Oーーーー!!!!"
+            "text": "Go- Go-!! Fight Oーーー!!!! \nLet's Go-!! Fight Oーーーー!!!!",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Spectator A",
-            "text": "That flag girl is amazing……! She looks so enthusiastic!"
+            "text": "That flag girl is amazing……! \nShe looks so enthusiastic!",
+            "name": "Spectator A"
         },
         {
+            "text": "Yeah, she's waving that flag so energetically……! \nIt's almost like she's become one with that flag……!",
             "name": "Spectator B",
-            "text": "Yeah, she's waving that flag so energetically……! It's almost like she's become one with that flag……!",
             "choice_data_list": [
                 "(Alright, looking good……!)",
                 "(Alright, looking good……!)"
@@ -127,31 +127,31 @@
             "text": "……is what I thought, but―"
         },
         {
-            "name": "Spectator B",
-            "text": "Ooooh-! The dancers are awesome too! Look at that pyramid they're making, normally you can't do something like that!"
+            "text": "Ooooh-! The dancers are awesome too! Look at that pyramid \nthey're making, normally you can't do something like that!",
+            "name": "Spectator B"
         },
         {
-            "name": "Spectator A",
-            "text": "Waaa, you're right～! Everyone's got such bright smiles! So cool and so cute, I don't think I can take my eyes off them～♪"
+            "text": "Waaa, you're right～! Everyone's got such bright smiles! \nSo cool and so cute, I don't think I can take my eyes off them～♪",
+            "name": "Spectator A"
         },
         {
-            "name": "Smart Falcon",
-            "text": "Haa～…… 『The way you waved that flag was amazing, and it made the dancers stand out!』 was what someone told me……"
+            "text": "Haa～…… 『The way you waved that flag was amazing, \nand it made the dancers stand out!』 was what someone told me……",
+            "name": "Smart Falcon"
         },
         {
-            "name": "Smart Falcon",
             "text": "……as expected, it looks like the dancers won out.",
+            "name": "Smart Falcon",
             "choice_data_list": [
                 "But they could tell you worked hard!",
                 "But they could tell you worked hard!"
             ]
         },
         {
-            "name": "Smart Falcon",
-            "text": "But but, they won't remember my face! The only thing I'll make them remember is the flag～～……!!"
+            "text": "But but, they won't remember my face! \nThe only thing I'll make them remember is the flag～～……!!",
+            "name": "Smart Falcon"
         },
         {
-            "text": "Even if she works hard, results won't show up immediately. The path to Top Umadol would probably be a long one……"
+            "text": "Even if she works hard, results won't show up immediately. \nThe path to Top Umadol would probably be a long one……"
         }
     ]
 }

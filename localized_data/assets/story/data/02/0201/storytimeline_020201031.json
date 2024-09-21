@@ -1,384 +1,425 @@
 {
     "text_block_list": [
         {
-            "text": "『It can't be anyone else but me』, you say…… but, why do you think that about me……?"
+            "text": "『It can't be anyone else but me』, you say…… \nbut, why do you think that about me……?",
+            "name": "<username>"
         },
         {
-            "text": "『It can't be anyone else but me』, you say…… but, why do you think that about me……?"
+            "text": "『It can't be anyone else but me』, you say…… \nbut, why do you think that about me……?",
+            "name": "<username>"
         },
         {
+            "text": "……The truth is, we already knew about you before we enrolled here.",
+            "name": "Cesario"
+        },
+        {
+            "text": "……that you were following in the footsteps of your \n『Famous』 father by becoming the trainer of Team <Ascella>.",
             "name": "Cesario",
-            "text": "……The truth is, we already knew about you before we enrolled here."
-        },
-        {
-            "name": "Cesario",
-            "text": "……that you were following in the footsteps of your 『Famous』 father by becoming the trainer of Team <Ascella>.",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "text": "(Honestly――I wasn't surprised that they knew. After all, it was quite the news story at the time.)"
+            "text": "(Honestly――I wasn't surprised that they knew. \nAfter all, it was quite the news story at the time.)",
+            "name": "<username>"
         },
         {
-            "text": "As someone who possessed a keen intuition in regards to Uma Musume, able to guide them skillfully, my father became 『Famous』 as someone who raised many strong Uma Musume."
+            "text": "As someone who possessed a keen intuition in regards to \nUma Musume, able to guide them skillfully, my father became \n『Famous』 as someone who raised many strong Uma Musume.",
+            "name": "<username>"
         },
         {
-            "text": "He became a leading trainer at a young age. He has now decided to retire and going forward…… I will be taking over his team, <Ascella>."
+            "text": "He became a leading trainer at a young age. \nHe has now decided to retire and going forward…… \nI will be taking over his team, <Ascella>.",
+            "name": "<username>"
         },
         {
-            "text": "He became a leading trainer at a young age. He has now decided to retire and going forward…… I will be taking over his team, <Ascella>."
+            "text": "He became a leading trainer at a young age. \nHe has now decided to retire and going forward…… \nI will be taking over his team, <Ascella>.",
+            "name": "<username>"
         },
         {
-            "text": "Obviously, it attracted alot of attention. After that, I formed a contract with King Halo, whose mother was also famous. It had earned us the nickname 『Second Generation Duo』."
+            "text": "Obviously, it attracted alot of attention. After that, I \nformed a contract with King Halo, whose mother was also \nfamous. It had earned us the nickname 『Second Generation Duo』.",
+            "name": "<username>"
         },
         {
-            "name": "Reporter A",
-            "text": "On remaining undefeated and winning your first major race, congratulations! After this, are your plans to enter the Classic Triple Crown rotation!?"
+            "text": "On remaining undefeated and winning your first \nmajor race, congratulations! After this, are your \nplans to enter the Classic Triple Crown rotation!?",
+            "name": "Reporter A"
         },
         {
-            "name": "King Halo",
-            "text": "Yes, of course! The 『Satsuki Sho』『Japan Derby』 and 『Kikka Sho』, I will, without fail win the Triple Crown races――"
+            "text": "Yes, of course! The 『Satsuki Sho』『Japan Derby』 and 『Kikka Sho』, \nI will, without fail win the Triple Crown races――",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Without fail, I will show you results befitting of being called first rate. Please, look forward to it!"
+            "text": "Without fail, I will show you results befitting of \nbeing called first rate. Please, look forward to it!",
+            "name": "King Halo"
         },
         {
-            "name": "Reporter B",
-            "text": "For next year's Classic Triple Crown, Special Week, who is being led by the New Age 『Genius』 trainer, has also announced their participation!"
+            "text": "For next year's Classic Triple Crown, Special Week, \nwho is being led by the New Age 『Genius』 trainer, \nhas also announced their participation!",
+            "name": "Reporter B"
         },
         {
-            "name": "Reporter B",
-            "text": "Many people seem to think that Team <Ascella> and the 『Genius』 team are rivals, are you confident that you can win!?"
+            "text": "Many people seem to think that Team <Ascella> and the 『Genius』 \nteam are rivals, are you confident that you can win!?",
+            "name": "Reporter B"
         },
         {
-            "text": "This is not a battle between trainers, it is a battle between Uma Musume, and I'd like you to keep that in mind, however――"
+            "text": "This is not a battle between trainers, it is a battle between \nUma Musume, and I'd like you to keep that in mind, however――",
+            "name": "<username>"
         },
         {
-            "text": "Of course I have confidence. ……that is a reflection of the trust I put in King Halo, a first rate Uma Musume."
+            "text": "Of course I have confidence. ……that is a reflection of \nthe trust I put in King Halo, a first rate Uma Musume.",
+            "name": "<username>"
         },
         {
-            "name": "Reporter B",
-            "text": "As expected……! We're looking forward to the continued success of the 『Second Generation Duo』, following in the footsteps of their renowned parents."
+            "text": "As expected……! We're looking forward to the continued \nsuccess of the 『Second Generation Duo』, following in \nthe footsteps of their renowned parents.",
+            "name": "Reporter B"
         },
         {
-            "text": "But……"
+            "text": "But……",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
             "text": "……it's finally the 『Japan Derby』 isn't it……?",
+            "name": "King Halo",
             "choice_data_list": [
                 "Y-yeah……",
                 "Y-yeah……"
             ]
         },
         {
-            "text": "(Not good……King looks really uneasy……I wanted to give her some advice so she could be more confident and positive……but……!)"
+            "text": "(Not good……King looks really uneasy……I wanted to give her some \nadvice so she could be more confident and positive……but……!)",
+            "name": "<username>"
         },
         {
-            "text": "(Not good……King looks really uneasy……I wanted to give her some advice so she could be more confident and positive……but……!)"
+            "text": "(Not good……King looks really uneasy……I wanted to give her some \nadvice so she could be more confident and positive……but……!)",
+            "name": "<username>"
         },
         {
-            "text": "(Honestly……I'm not sure what to tell her! At Satsuki, Seiun Sky got us good, so I want her to be cautious of the front but――)"
+            "text": "(Honestly……I'm not sure what to tell her! \nAt Satsuki, Seiun Sky got us good, so I want \nher to be cautious of the front but――)",
+            "name": "<username>"
         },
         {
-            "text": "(Honestly……I'm not sure what to tell her! At Satsuki, Seiun Sky got us good, so I want her to be cautious of the front but――)"
+            "text": "(Honestly……I'm not sure what to tell her! \nAt Satsuki, Seiun Sky got us good, so I want \nher to be cautious of the front but――)",
+            "name": "<username>"
         },
         {
-            "text": "(There's also Special Week from behind too! If she focused too much on the front, she'd exhaust herself before the end and it would be all over……!)"
+            "text": "(There's also Special Week from behind too! If she \nfocused too much on the front, she'd exhaust herself \nbefore the end and it would be all over……!)",
+            "name": "<username>"
         },
         {
-            "text": "(So then what should I do? What should I say? What position should she take, who should she mark, how should she run……!?)"
+            "text": "(So then what should I do? What should I say? What position \nshould she take, who should she mark, how should she run……!?)",
+            "name": "<username>"
         },
         {
-            "text": "(So then what should I do? What should I say? What position should she take, who should she mark, how should she run……!?)"
+            "text": "(So then what should I do? What should I say? What position \nshould she take, who should she mark, how should she run……!?)",
+            "name": "<username>"
         },
         {
-            "text": "(Damnit, damnit, damnit! Why can't I think of anything!? Even though I'm……!)"
+            "text": "(Damnit, damnit, damnit! Why can't I \nthink of anything!? Even though I'm……!)",
+            "name": "<username>"
         },
         {
-            "text": "(Damnit, damnit, damnit! Why can't I think of anything!? Even though I'm……!)"
+            "text": "(Damnit, damnit, damnit! Why can't I \nthink of anything!? Even though I'm……!)",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
-            "text": "W-wait……what's wrong? Don't make a face like that right before……Hey――!"
+            "text": "W-wait……what's wrong? \nDon't make a face like that right before……Hey――!",
+            "name": "King Halo"
         },
         {
+            "text": "――Excuse me. \nKing Halo-san, it's time. Please make your way to the paddock.",
             "name": "Race Official",
-            "text": "――Excuse me. King Halo-san, it's time. Please make your way to the paddock.",
             "choice_data_list": [
                 "!!"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "Ah…… ……I need to get going……"
+            "text": "Ah…… \n……I need to get going……",
+            "name": "King Halo"
         },
         {
-            "text": "(I'm out of time……! I wasn't……able to say anything……!!)"
+            "text": "(I'm out of time……! I wasn't……able to say anything……!!)",
+            "name": "<username>"
         },
         {
-            "text": "(I'm out of time……! I wasn't……able to say anything……!!)"
+            "text": "(I'm out of time……! I wasn't……able to say anything……!!)",
+            "name": "<username>"
         },
         {
-            "name": "Live Announcer",
-            "text": "Now, the 『Japan Derby』 finally――starts!! 18 Uma Musume run for their dreams, for that crown!"
+            "text": "Now, the 『Japan Derby』 finally――starts!! \n18 Uma Musume run for their dreams, for that crown!",
+            "name": "Live Announcer"
         },
         {
-            "name": "King Halo",
-            "text": "(I need to win, I need to win, I need to win! I need to win, I…… ……!?)"
+            "text": "(I need to win, I need to win, I need to win! \nI need to win, I…… ……!?)",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
             "text": "Aaaaaaaaah!!",
+            "name": "King Halo",
             "choice_data_list": [
                 "King!? Out front……!?"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "(Ah……eh……? Front? W-what am I doing here……?)"
+            "text": "(Ah……eh……? Front? \nW-what am I doing here……?)",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "(No way……my mind……just went blank……!?)"
+            "text": "(No way……my mind……just went blank……!?)",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "……!! Haaa, haaa, haaa, haaa――!!"
+            "text": "……!! \nHaaa, haaa, haaa, haaa――!!",
+            "name": "King Halo"
         },
         {
-            "name": "Live Announcer",
-            "text": "It's Special Week! It's Special Week! She pulls far away from them all, Special Week crosses the goal!!"
+            "text": "It's Special Week! It's Special Week! She pulls far \naway from them all, Special Week crosses the goal!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "The prestige of the 『Japan Derby』! In this 『Japan Derby』, Special Week has claimed victory!!"
+            "text": "The prestige of the 『Japan Derby』! \nIn this 『Japan Derby』, Special Week has claimed victory!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "――She was the second favorite, but King Halo was defeated back in to 14th place! It's the first time she's run as an escape since her debut, but the results were unfortunate!"
+            "text": "――She was the second favorite, but King Halo was defeated \nback in to 14th place! It's the first time she's run as an \nescape since her debut, but the results were unfortunate!",
+            "name": "Live Announcer"
         },
         {
-            "name": "King Halo",
-            "text": "Haa……Haaaa……~~~!!"
+            "text": "Haa……Haaaa……~~~!!",
+            "name": "King Halo"
         },
         {
-            "name": "Spectator A",
-            "text": "Hey, hey, hey! What is the 『Second Generation Duo』 doing!? They just got crushed by that 『Genius Trainer』's team!"
+            "text": "Hey, hey, hey! What is the 『Second Generation Duo』 doing!? \nThey just got crushed by that 『Genius Trainer』's team!",
+            "name": "Spectator A"
         },
         {
-            "name": "Spectator B",
-            "text": "And……why did she run as an escape? Did she panic? Or was it her trainer's orders? Either way, it wasn't great."
+            "text": "And……why did she run as an escape? Did she panic? \nOr was it her trainer's orders? Either way, it wasn't great.",
+            "name": "Spectator B"
         },
         {
-            "name": "Spectator A",
-            "text": "In the end, second gen was just second rate, huh."
+            "text": "In the end, second gen was just second rate, huh.",
+            "name": "Spectator A"
         },
         {
-            "text": "(After that, we lost two more major races, including the 『Kikka Sho』. Her classic year ended with us not living up to expectations――)"
+            "text": "(After that, we lost two more major races, \nincluding the 『Kikka Sho』. Her classic year \nended with us not living up to expectations――)",
+            "name": "<username>"
         },
         {
-            "text": "(After that, we lost two more major races, including the 『Kikka Sho』. Her classic year ended with us not living up to expectations――)"
+            "text": "(After that, we lost two more major races, \nincluding the 『Kikka Sho』. Her classic year \nended with us not living up to expectations――)",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
-            "text": "……Looks like there's no articles about Team <Ascella> today either. Well, even if there were, all the latest articles have been disparaging us though."
+            "text": "……Looks like there's no articles about Team <Ascella> \ntoday either. Well, even if there were, all the \nlatest articles have been disparaging us though.",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "……I suppose that just means the world has finally lost interest in the Unreliable Second Gen Duo……"
+            "text": "……I suppose that just means the world has finally \nlost interest in the Unreliable Second Gen Duo……",
+            "name": "King Halo"
         },
         {
-            "text": "(I was pathetic. I just wanted to disappear. Due to my incompetence, King's once-in-a-lifetime Classic year……)",
+            "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
+            "name": "<username>",
             "choice_data_list": [
                 "(……Even then――!)"
             ]
         },
         {
-            "text": "(I was pathetic. I just wanted to disappear. Due to my incompetence, King's once-in-a-lifetime Classic year……)",
+            "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
+            "name": "<username>",
             "choice_data_list": [
                 "(……Even then――!)"
             ]
         },
         {
-            "text": "(Don't just apologize. Don't let go. ……Don't run from it! I am King Halo's trainer!)",
+            "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
+            "name": "<username>",
             "choice_data_list": [
-                "(Which means, there's still more to do!)",
-                "(Which means, there's still more to do!)"
+                "<size=42>(Which means, there's still more to do!)</size>",
+                "<size=42>(Which means, there's still more to do!)</size>"
             ]
         },
         {
-            "text": "(Don't just apologize. Don't let go. ……Don't run from it! I am King Halo's trainer!)",
+            "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
+            "name": "<username>",
             "choice_data_list": [
-                "(Which means, there's still more to do!)",
-                "(Which means, there's still more to do!)"
+                "<size=42>(Which means, there's still more to do!)</size>",
+                "<size=42>(Which means, there's still more to do!)</size>"
             ]
         },
         {
-            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? I want to utilize your best weapon, your speed."
+            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? \nI want to utilize your best weapon, your speed.",
+            "name": "<username>"
         },
         {
-            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? I want to utilize your best weapon, your speed."
+            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? \nI want to utilize your best weapon, your speed.",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
-            "text": "By next…… You mean――"
+            "text": "By next…… You mean――",
+            "name": "King Halo"
         },
         {
-            "text": "I know it hurts. Honestly it must feel awful. ……But you, even then, you aren't an Uma Musume who will give up so easily, right?"
+            "text": "I know it hurts. Honestly it must feel awful. \n……But you, even then, you aren't an Uma Musume \nwho will give up so easily, right?",
+            "name": "<username>"
         },
         {
-            "text": "I know it hurts. Honestly it must feel awful. ……But you, even then, you aren't an Uma Musume who will give up so easily, right?"
+            "text": "I know it hurts. Honestly it must feel awful. \n……But you, even then, you aren't an Uma Musume \nwho will give up so easily, right?",
+            "name": "<username>"
         },
         {
-            "text": "Even if someone looks at you with disappointment, even if they tell you it's impossible. Never, not until the day you can hold your head up high as a 『First Rate Uma Musume』!"
+            "text": "Even if someone looks at you with disappointment, even if \nthey tell you it's impossible. Never, not until the day you \ncan hold your head up high as a 『First Rate Uma Musume』!",
+            "name": "<username>"
         },
         {
-            "text": "Even if someone looks at you with disappointment, even if they tell you it's impossible. Never, not until the day you can hold your head up high as a 『First Rate Uma Musume』!"
+            "text": "Even if someone looks at you with disappointment, even if \nthey tell you it's impossible. Never, not until the day you \ncan hold your head up high as a 『First Rate Uma Musume』!",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
-            "text": "……~~~, isn't that obvious!? The thought of giving up, of it ending like this, I hate it!!"
+            "text": "……~~~, isn't that obvious!? \nThe thought of giving up, of it ending like this, I hate it!!",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "So start preparing, Trainer! We're having a meeting about the next race! Just for you――I'll give you the privilege of supporting King's new path!"
+            "text": "So start preparing, Trainer! We're having a meeting \nabout the next race! Just for you――I'll give you the \nprivilege of supporting King's new path!",
+            "name": "King Halo"
         },
         {
-            "text": "From then on, we continued on. Even when they pointed and laughed at us, we kept running forward."
+            "text": "From then on, we continued on. Even when they \npointed and laughed at us, we kept running forward.",
+            "name": "<username>"
         },
         {
-            "text": "『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 『Mile CS』『Sprinter's S』『February S』……"
+            "text": "『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 \n『Mile CS』『Sprinter's S』『February S』……",
+            "name": "<username>"
         },
         {
-            "text": "We lost, tried again, and lost again. Just hanging on desperately. On the grandest stage. G1 Races. Everything for the sake of winning there.",
+            "text": "We lost, tried again, and lost again. Just hanging \non desperately. On the grandest stage. G1 Races. \nEverything for the sake of winning there.",
+            "name": "<username>",
             "choice_data_list": [
                 "And then……finally――"
             ]
         },
         {
-            "name": "Live Announcer",
-            "text": "She comes flying from the outside, King Halo! It's King Halo! King Halo breezes past them all!!"
+            "text": "She comes flying from the outside, King Halo! \nIt's King Halo! King Halo breezes past them all!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "First place is King Halo! Overcoming 10 defeats, now, at the 『Takamatsunomiya Kinen』 King Halo obtains her first G1 victory!!"
+            "text": "First place is King Halo! Overcoming 10 defeats, now, at the \n『Takamatsunomiya Kinen』 King Halo obtains her first G1 victory!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "King Halo",
-            "text": "Uu……Uwaaaaaaaaaaah!!"
+            "text": "Uu……Uwaaaaaaaaaaah!!",
+            "name": "King Halo"
         },
         {
-            "text": "(King Halo lets out a yell. That brilliance is just proof that she's a first rate Uma Musume. There was nobody who could doubt that now!)"
+            "text": "(King Halo lets out a yell. That brilliance is \njust proof that she's a first rate Uma Musume. \nThere was nobody who could doubt that now!)",
+            "name": "<username>"
         },
         {
-            "name": "King Halo",
-            "text": "――……I'm thankful for the many words of congratulations. To be honest, it hasn't been an easy road but……"
+            "text": "――……I'm thankful for the many words of congratulations. \nTo be honest, it hasn't been an easy road but……",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "To be able to continue running, without giving up……! Has made……me incredibly happy……!"
+            "text": "To be able to continue running, without giving up……! \nHas made……me incredibly happy……!",
+            "name": "King Halo"
         },
         {
-            "text": "(Afterwards……when we watched the broadcast, King and I both argued 『No, you were crying harder』)"
+            "text": "(Afterwards……when we watched the broadcast, King \nand I both argued 『No, you were crying harder』)",
+            "name": "<username>"
         },
         {
+            "text": "――……it was powerful, and moved me. \nDuring that press conference, both of you……looked so strong.",
             "name": "Cesario",
-            "text": "――……it was powerful, and moved me. During that press conference, both of you……looked so strong.",
             "choice_data_list": [
                 "……Eh?"
             ]
         },
         {
+            "text": "Fufuu. ……Actually, both of us were watching \nthat press conference on the street billboards! \nAnd we happened to be next to each other!",
             "name": "Rhein Kraft",
-            "text": "Fufuu. ……Actually, both of us were watching that press conference on the street billboards! And we happened to be next to each other!",
             "choice_data_list": [
                 "Y-……You were!?",
                 "Y-……You were!?"
             ]
         },
         {
+            "text": "That's where me and Cesario had both decided. That someday, \nwe'd definitely join King-san and Trainer-san's team.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "To never give up on your dream until the very \nend. No matter how painful, or frustrating, \nto keep running until you've taken hold of it.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "To stay on that journey together. Working together \nto carve open a path. Seeing the two of you like \nthat……I admired you from the bottom of my heart.",
+            "name": "Cesario"
+        },
+        {
+            "text": "……that's why Kraft and I chose Team <Ascella>. \nThere is no better team for us, is what we believe.",
+            "name": "Cesario"
+        },
+        {
+            "text": "That if Trainer-san is with us, then we can keep going, \nnever giving up. Until we take hold of our dreams, no \nmatter how painful it is, we can keep running……!",
             "name": "Rhein Kraft",
-            "text": "That's where me and Cesario had both decided. That someday, we'd definitely join King-san and Trainer-san's team."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "To never give up on your dream until the very end. No matter how painful, or frustrating, to keep running until you've taken hold of it."
-        },
-        {
-            "name": "Cesario",
-            "text": "To stay on that journey together. Working together to carve open a path. Seeing the two of you like that……I admired you from the bottom of my heart."
-        },
-        {
-            "name": "Cesario",
-            "text": "……that's why Kraft and I chose Team <Ascella>. There is no better team for us, is what we believe."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "That if Trainer-san is with us, then we can keep going, never giving up. Until we take hold of our dreams, no matter how painful it is, we can keep running……!",
             "choice_data_list": [
                 "Kraft…… Cesario……"
             ]
         },
         {
+            "text": "……geez, I was wondering what you were talking about. \nAnd you, you should be more proud of yourself too.",
             "name": "King Halo",
-            "text": "……geez, I was wondering what you were talking about. And you, you should be more proud of yourself too.",
             "choice_data_list": [
                 "King――"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "……even though we were thrown off the path we were expected to take, that we had prepared for!"
+            "text": "……even though we were thrown off the path we \nwere expected to take, that we had prepared for!",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Even if we weren't able to leave the results expected of the children of a famous Uma Musume and a famous trainer."
+            "text": "Even if we weren't able to leave the results expected of the \nchildren of a famous Uma Musume and a famous trainer.",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "Even if we weren't able to leave the results expected of the children of a famous Uma Musume and a famous trainer."
+            "text": "Even if we weren't able to leave the results expected of the \nchildren of a famous Uma Musume and a famous trainer.",
+            "name": "King Halo"
         },
         {
-            "name": "King Halo",
-            "text": "That we were able to do something so like us――that only we could do, being able to obtain a first rate result. Just who else do you think this was thanks to?"
+            "text": "That we were able to do something so like us――that only \nwe could do, being able to obtain a first rate result. \nJust who else do you think this was thanks to?",
+            "name": "King Halo"
         },
         {
+            "text": "The reason I was able to hold my head high and keep running…… \njust who was it that stuck by my side and made it possible?",
             "name": "King Halo",
-            "text": "The reason I was able to hold my head high and keep running…… just who was it that stuck by my side and made it possible?",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "text": "――I'm pathetic. I gave King Halo a bitter smile, and turned back to Rhein Kraft and Cesario."
+            "text": "――I'm pathetic. I gave King Halo a bitter smile, \nand turned back to Rhein Kraft and Cesario."
         },
         {
-            "text": "Kraft, Cesario. ……I'm really thankful that you chose Team <Ascella>."
+            "text": "Kraft, Cesario. \n……I'm really thankful that you chose Team <Ascella>.",
+            "name": "<username>"
         },
         {
-            "text": "I'm not as great as my dad. I may only have inherited his stubbornness. But still――",
+            "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
+            "name": "<username>",
             "choice_data_list": [
                 "I'll support you until the end",
                 "I'll support you until the end"
             ]
         },
         {
-            "text": "I'm not as great as my dad. I may only have inherited his stubbornness. But still――",
+            "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
+            "name": "<username>",
             "choice_data_list": [
                 "I'll support you until the end",
                 "I'll support you until the end"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san……!!"
+            "text": "Trainer-san……!!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Thank you very much. ……Once again, I'm looking forward to it!"
+            "text": "Thank you very much. \n……Once again, I'm looking forward to it!",
+            "name": "Cesario"
         }
     ]
 }

@@ -1,220 +1,220 @@
 {
     "text_block_list": [
         {
-            "name": "Copano Rickey",
-            "text": "Morning, Trainer! Since it was getting kind of old, I bought a new flower to replace the one you had there!"
+            "text": "Morning, Trainer! Since it was getting kind of old, \nI bought a new flower to replace the one you had there!",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Over on your desk, that's my dad's promotional good luck handkerchief! Feng Shui-wise it's nice, and it's made of good materials so it's a present! And―"
+            "text": "Over on your desk, that's my dad's promotional good luck \nhandkerchief! Feng Shui-wise it's nice, and it's made of good \nmaterials so it's a present! And―",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Since the window's closed, let's open it! Ventilation is fundamental to Feng Shui! With this, it'll be a fortuitous omen☆ Well then, see you at training～!"
+            "text": "Since the window's closed, let's open it! Ventilation is \nfundamental to Feng Shui! With this, it'll be a fortuitous omen☆ \nWell then, see you at training～!",
+            "name": "Copano Rickey"
         },
         {
-            "text": "Thanks to her taking the initiative, the trainers' room seemed brighter and because of that work seemed to go more smoothly. Although―",
+            "text": "Thanks to her taking the initiative, the trainers' \nroom seemed brighter and because of that work \nseemed to go more smoothly. Although―",
             "choice_data_list": [
                 "(I've only been receiving things……)"
             ]
         },
         {
-            "text": "Normally, the trainer's role is to support the Uma Musume. I started spending the days thinking of ways to repay her―"
+            "text": "Normally, the trainer's role is to support the Uma Musume. I \nstarted spending the days thinking of ways to repay her―"
         },
         {
             "text": "Then one day"
         },
         {
+            "text": "Huh? It's Trainer～! What a coincidence! ……Oh, that's right! Are \nyou free right now? There's a place I want to take you!",
             "name": "Copano Rickey",
-            "text": "Huh? It's Trainer～! What a coincidence! ……Oh, that's right! Are you free right now? There's a place I want to take you!",
             "choice_data_list": [
                 "Eh!?"
             ]
         },
         {
-            "text": "I didn't particularly have any plans so, I followed along with Copano Rickey―"
+            "text": "I didn't particularly have any plans so, \nI followed along with Copano Rickey―"
         },
         {
-            "name": "Copano Rickey",
-            "text": "And so, we're here at the zoo! Ehehe, getting out and getting the qi flowing is a great way to increase your luck!"
+            "text": "And so, we're here at the zoo! Ehehe, getting out and getting the \nqi flowing is a great way to increase your luck!",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "And the most important part, is heading in a favorable direction! This zoo is in a favorable direction for your luck and I've always wanted to bring you here. Oh……"
+            "text": "And the most important part, is heading in a favorable direction! \nThis zoo is in a favorable direction for your luck and I've \nalways wanted to bring you here. Oh……",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "……crying? Sorry Trainer, I'm going to go take a look!"
+            "text": "……crying? Sorry Trainer, I'm going to go take a look!",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Timid Girl",
-            "text": "―……where is everyone……? Uhuu, uwaaan……!"
+            "text": "―……where is everyone……? Uhuu, uwaaan……!",
+            "name": "Timid Girl"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Are you okay? What's wrong?"
+            "text": "Are you okay? What's wrong?",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Timid Girl",
-            "text": "Uu……Uuwaaaaan! Everyone's gone……!"
+            "text": "Uu……Uuwaaaaan! Everyone's gone……!",
+            "name": "Timid Girl"
         },
         {
-            "name": "Copano Rickey",
-            "text": "I see, so you got separated from your family, huh…… But it seems like the area around here isn't very good. It's so damp."
+            "text": "I see, so you got separated from your family, huh…… But it seems \nlike the area around here isn't very good. It's so damp.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "For now, do you wanna come with Big Sis to the lost kids center?! I'll take you to a more wonderful place!"
+            "text": "For now, do you wanna come with Big Sis to the lost kids center?! \nI'll take you to a more wonderful place!",
+            "name": "Copano Rickey"
         },
         {
             "text": "And when Copano Rickey tried to take the girl's hand―"
         },
         {
-            "name": "？？？",
-            "text": "Ah, there she is～!"
+            "text": "Ah, there she is～!",
+            "name": "？？？"
         },
         {
+            "text": "Sorry, I let go of your hand……! Mom and the others are looking \nfor you over there, let's go! Um…… thank you very much!",
+            "name": "Girl's Older Sister"
+        },
+        {
+            "text": "No, I was just staying here together with her! \nI'm glad you found her, be careful on the way back!",
+            "name": "Copano Rickey"
+        },
+        {
+            "text": "Oh, that's right! When heading back, try taking \nthat big path in the middle! It's a lucky path \nso you should be able to return safely!",
+            "name": "Copano Rickey"
+        },
+        {
+            "text": "……lucky path? Um…… Miss, are you a weir-…… an occult person?",
+            "name": "Girl's Older Sister"
+        },
+        {
+            "text": "I wouldn't say it's occult though…… Hmmm, but well, it's \nsometimes misunderstood, I guess? Why's that?",
+            "name": "Copano Rickey"
+        },
+        {
+            "text": "But……at school, they told us that if someone says weird things to \nyou, they're trying to take you and that we should be careful―Ah!",
+            "name": "Girl's Older Sister"
+        },
+        {
+            "text": "N-now that I think about it, miss, \nyou said you would 『Take her to a more wonderful place!』……!",
+            "name": "Girl's Older Sister"
+        },
+        {
+            "text": "Oh that. In this area, in regards to Feng Shui, \nthe qi tends to stagnate. When a place is kind \nof damp, doesn't it kind of lower your spirit?",
+            "name": "Copano Rickey"
+        },
+        {
+            "text": "A corner where many things collide, it's called the cautionary \nboundary of the 8 trigrams, I was just thinking that it would be \nbetter if this girl was in a luckier place―",
+            "name": "Copano Rickey"
+        },
+        {
+            "text": "……Collide……trigrams……? I've never heard those words before. \nI-it's true……!! Moooooooooooom～～～!!",
             "name": "Girl's Older Sister",
-            "text": "Sorry, I let go of your hand……! Mom and the others are looking for you over there, let's go! Um…… thank you very much!"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "No, I was just staying here together with her! I'm glad you found her, be careful on the way back!"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Oh, that's right! When heading back, try taking that big path in the middle! It's a lucky path so you should be able to return safely!"
-        },
-        {
-            "name": "Girl's Older Sister",
-            "text": "……lucky path? Um…… Miss, are you a weir-…… an occult person?"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "I wouldn't say it's occult though…… Hmmm, but well, it's sometimes misunderstood, I guess? Why's that?"
-        },
-        {
-            "name": "Girl's Older Sister",
-            "text": "But……at school, they told us that if someone says weird things to you, they're trying to take you and that we should be careful―Ah!"
-        },
-        {
-            "name": "Girl's Older Sister",
-            "text": "N-now that I think about it, miss, you said you would 『Take her to a more wonderful place!』……!"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Oh that. In this area, in regards to Feng Shui, the qi tends to stagnate. When a place is kind of damp, doesn't it kind of lower your spirit?"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "A corner where many things collide, it's called the cautionary boundary of the 8 trigrams, I was just thinking that it would be better if this girl was in a luckier place―"
-        },
-        {
-            "name": "Girl's Older Sister",
-            "text": "……Collide……trigrams……? I've never heard those words before. I-it's true……!! Moooooooooooom～～～!!",
             "choice_data_list": [
                 "W-wait!"
             ]
         },
         {
-            "text": "I calm the child down, and as we were walking to the lost kids center, explain that Copano Rickey is a student at the academy and not a strange person."
+            "text": "I calm the child down, and as we were walking to the lost kids \ncenter, explain that Copano Rickey is a student at the academy \nand not a strange person."
         },
         {
-            "name": "Girl's Older Sister",
-            "text": "I-I-I'm sorry, I'm sorry! For surprising you like that, um, um…… I'm sorry～!"
+            "text": "I-I-I'm sorry, I'm sorry! For surprising \nyou like that, um, um…… I'm sorry～!",
+            "name": "Girl's Older Sister"
         },
         {
-            "text": "While things ended safely, I wondered if this incident had her feeling down. That's what I was thinking but……it seems I was slightly off though."
+            "text": "While things ended safely, I wondered if this incident had her \nfeeling down. That's what I was thinking but……it seems I was \nslightly off though."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Huuu-, I guess I messed up! I was saved thanks to Trainer! I guess Feng Shui can seem kind of scary from the perspective of a child."
+            "text": "Huuu-, I guess I messed up! I was saved thanks \nto Trainer! I guess Feng Shui can seem kind \nof scary from the perspective of a child.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "I guess it would have been better to calm down and explain it better to that girl. Sometimes I get told 『Rickey, you come on too strong』. Yeah, I need to reflect on that!"
+            "text": "I guess it would have been better to calm down and explain it \nbetter to that girl. Sometimes I get told 『Rickey, you come on \ntoo strong』. Yeah, I need to reflect on that!",
+            "name": "Copano Rickey"
         },
         {
-            "text": "She was pretty talkative normally. She could reflect on things, and quickly handle her own mental care but…… her expression seemed kind of distant.",
+            "text": "She was pretty talkative normally. She could reflect on things, \nand quickly handle her own mental care but…… her expression \nseemed kind of distant.",
             "choice_data_list": [
                 "……Are you okay?"
             ]
         },
         {
+            "text": "Eh? Yeah! Of course. I'll try not to make the \nsame mistake again, and I'll think of a way to \nphrase it so that it doesn't scare them!",
             "name": "Copano Rickey",
-            "text": "Eh? Yeah! Of course. I'll try not to make the same mistake again, and I'll think of a way to phrase it so that it doesn't scare them!",
             "choice_data_list": [
                 "That's not what I mean"
             ]
         },
         {
-            "text": "I knew Copano Rickey was capable of improving the perception of Feng Shui. She could make plans, put them in to motion, and properly prevent the disruption of qi."
+            "text": "I knew Copano Rickey was capable of improving the perception of \nFeng Shui. She could make plans, put them in to motion, and \nproperly prevent the disruption of qi."
         },
         {
-            "text": "But that's exactly why, we need to get a handle on any of those negative emotions she's feeling. I could sense her desperation――and I told her that."
+            "text": "But that's exactly why, we need to get a handle on any of those \nnegative emotions she's feeling. I could sense her \ndesperation――and I told her that."
         },
         {
-            "name": "Copano Rickey",
-            "text": "……Eh……?"
+            "text": "……Eh……?",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "…………Ah. I see……that could be. Well……a long time ago, papa told me something like that."
+            "text": "…………Ah. I see……that could be. Well……a long time ago, papa told me \nsomething like that.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "You try to 『Solve things with Feng Shui』 too much. Your own feelings……especially when you're feeling vulnerable, you tend to avoid facing those feelings."
+            "text": "You try to 『Solve things with Feng Shui』 too much. Your own \nfeelings……especially when you're feeling vulnerable, you tend to \navoid facing those feelings.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "I tend to fall back on Feng Shui unconsciously, so fully suppressing that is not good. I understand that but……ahaha, maybe I'm going too far."
+            "text": "I tend to fall back on Feng Shui unconsciously, \nso fully suppressing that is not good. I understand \nthat but……ahaha, maybe I'm going too far.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "Umm, well……what should I do? Solving things without using Feng Shui, how do I do that again?"
+            "text": "Umm, well……what should I do? \nSolving things without using Feng Shui, how do I do that again?",
+            "name": "Copano Rickey"
         },
         {
-            "text": "Copano Rickey is at a loss. Perhaps, right now what she deseperately needs, is simply to just come face to face with those feelings.",
+            "text": "Copano Rickey is at a loss. Perhaps, right now \nwhat she deseperately needs, is simply to just \ncome face to face with those feelings.",
             "choice_data_list": [
                 "At that time, how did you feel?"
             ]
         },
         {
+            "text": "Eh? How did I feel……? Well, let's see, when that girl let out a \nscream, my chest tightened, and my head went blank……",
             "name": "Copano Rickey",
-            "text": "Eh? How did I feel……? Well, let's see, when that girl let out a scream, my chest tightened, and my head went blank……",
             "choice_data_list": [
                 "『Sad at being misunderstood』?"
             ]
         },
         {
-            "name": "Copano Rickey",
-            "text": "……『Sad』……that might be true! But, being misunderstood happens all the time, so it wasn't all that shocking."
+            "text": "……『Sad』……that might be true! But, being misunderstood \nhappens all the time, so it wasn't all that shocking.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
             "text": "It's just……I wonder if I could have done better……",
+            "name": "Copano Rickey",
             "choice_data_list": [
                 "Then, 『I wish I explained it better』?"
             ]
         },
         {
-            "name": "Copano Rickey",
-            "text": "……Yeah, that's it! I usually don't speak out but, so they can become lucky, I need to explain properly……!"
+            "text": "……Yeah, that's it! I usually don't speak out but, so they can \nbecome lucky, I need to explain properly……!",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "…………Yeah, that's what I thought. ……that's what I was thinking."
+            "text": "…………Yeah, that's what I thought. \n……that's what I was thinking.",
+            "name": "Copano Rickey"
         },
         {
-            "text": "Copano Rickey was looking at me, at some point her cheerful, soft expression had returned."
+            "text": "Copano Rickey was looking at me, at some point \nher cheerful, soft expression had returned."
         },
         {
-            "name": "Copano Rickey",
-            "text": "Yeah, I'm fine now! It feels like a weight has been lifted off my shoulders. ……I must have been holding those feelings in."
+            "text": "Yeah, I'm fine now! It feels like a weight has been lifted off my \nshoulders. ……I must have been holding those feelings in.",
+            "name": "Copano Rickey"
         },
         {
-            "name": "Copano Rickey",
-            "text": "It was helpful. ……Thank you, Trainer!"
+            "text": "It was helpful. ……Thank you, Trainer!",
+            "name": "Copano Rickey"
         }
     ]
 }

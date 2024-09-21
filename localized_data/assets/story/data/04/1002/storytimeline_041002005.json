@@ -1,57 +1,57 @@
 {
     "text_block_list": [
         {
-            "text": "During lunch break, I was walking in the school hallways when I spotted a familiar face in one of the classrooms."
+            "text": "During lunch break, I was walking in the school hallways when I \nspotted a familiar face in one of the classrooms."
         },
         {
-            "name": "Silence Suzuka",
             "text": "The 7 of hearts, if I remember was to the right of this…",
+            "name": "Silence Suzuka",
             "choice_data_list": [
                 "What are you doing?",
                 "What are you doing?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ah, Trainer-san. I'm playing Memory."
+            "text": "Ah, Trainer-san. I'm playing Memory.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "So far, I've been doing well and if this keeps up I'll get all the cards… huh…?"
+            "text": "So far, I've been doing well and if this keeps \nup I'll get all the cards… huh…?",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
             "text": "Aaaah! I forgot where everything was…",
+            "name": "Silence Suzuka",
             "choice_data_list": [
                 "I'm sorry I bothered you…",
                 "I'm sorry I bothered you…"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…No, don't worry. I'll just have to start over."
+            "text": "…No, don't worry. I'll just have to start over.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Saying that, Silence Suzuka quietly rearranged the cards by herself."
+            "text": "Saying that, Silence Suzuka quietly \nrearranged the cards by herself."
         },
         {
-            "name": "Silence Suzuka",
             "text": "…Alright. This time, for sure.",
+            "name": "Silence Suzuka",
             "choice_data_list": [
-                "By any chance, are you playing by yourself?",
-                "By any chance, are you playing by yourself?"
+                "<size=37>By any chance, are you playing by yourself?</size>",
+                "<size=37>By any chance, are you playing by yourself?</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Eh? Yeah, that's right… It's fun, you know? Playing Memory solo."
+            "text": "Eh? Yeah, that's right… It's fun, \nyou know? Playing Memory solo.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I limit the number of times I can fail so it has just the right amount of tension."
+            "text": "I limit the number of times I can fail so \nit has just the right amount of tension.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Imposing her own rules and stoicly playing, is very Silence Suzuka-like."
+            "text": "Imposing her own rules and stoicly playing, \nis very Silence Suzuka-like."
         },
         {
             "text": "But, since there's two of us…",
@@ -60,56 +60,56 @@
             ]
         },
         {
+            "text": "A match… is it? That's… um…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Ah… sorry. I was… just a little confused…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Um, understood. For now… let's give \nit a shot. Please go easy on me.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "And that's how I started a game of \nMemory with Silence Suzuka. But-"
+        },
+        {
+            "text": "Ah… it wasn't here. Okay, it's your turn, Trainer-san.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Only a few cards remained. Using my memory, \none by one, I flipped them."
+        },
+        {
+            "text": "Ah…!?",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Eh… there too…?! No…! Aaah, even that one…?!",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Out of the corner of my eye, I watched Silence Suzuka's every \nreaction as I flipped card after card in one go."
+        },
+        {
+            "text": "Aaah… one after another, the cards I wanted…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Deducing the cards at the end of the game and taking them all in \none go is the most satisfying part though…",
             "name": "Silence Suzuka",
-            "text": "A match… is it? That's… um…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah… sorry. I was… just a little confused…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, understood. For now… let's give it a shot. Please go easy on me."
-        },
-        {
-            "text": "And that's how I started a game of Memory with Silence Suzuka. But-"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah… it wasn't here. Okay, it's your turn, Trainer-san."
-        },
-        {
-            "text": "Only a few cards remained. Using my memory, one by one, I flipped them."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah…!?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Eh… there too…?! No…! Aaah, even that one…?!"
-        },
-        {
-            "text": "Out of the corner of my eye, I watched Silence Suzuka's every reaction as I flipped card after card in one go."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Aaah… one after another, the cards I wanted…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Deducing the cards at the end of the game and taking them all in one go is the most satisfying part though…",
             "choice_data_list": [
                 "Is that why you were playing alone?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Yes."
+            "text": "…Yes.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ah, please don't worry. I was the one that accepted Trainer-san's invitation, after all."
+            "text": "Ah, please don't worry. I was the one that accepted \nTrainer-san's invitation, after all.",
+            "name": "Silence Suzuka"
         },
         {
             "text": "Oops. Looks like I've ruined her fun…",
@@ -118,19 +118,19 @@
             ]
         },
         {
+            "text": "Is something the matter, Trainer-san? \nI'm going to set them up again.",
             "name": "Silence Suzuka",
-            "text": "Is something the matter, Trainer-san? I'm going to set them up again.",
             "choice_data_list": [
-                "Ah, you're still going to play with me?",
-                "Ah, you're still going to play with me?"
+                "<size=43>Ah, you're still going to play with me?</size>",
+                "<size=43>Ah, you're still going to play with me?</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Yeah…Next time I'll win."
+            "text": "Yeah…Next time I'll win.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "After that, we continued playing Memory until Silence Suzuka was satisfied with her victories."
+            "text": "After that, we continued playing Memory until Silence \nSuzuka was satisfied with her victories."
         }
     ]
 }

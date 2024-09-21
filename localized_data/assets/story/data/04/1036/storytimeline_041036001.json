@@ -1,249 +1,249 @@
 {
     "text_block_list": [
         {
-            "text": "『Parcae』 \"understands\". It analyzes its input to find a path to the right solution. Precise and unwavering, it works toward its intended purpose."
+            "text": "『Parcae』 “understands”. It analyzes its input to find a path to \nthe right solution. Precise and unwavering, it works toward its \nintended purpose."
         },
         {
-            "text": "Given valid input, its solution is absolute. A single, immutable answer, a well-defined calculation with no room for guesswork."
+            "text": "Given valid input, its solution is absolute. A single, immutable \nanswer, a well-defined calculation with no room for guesswork."
         },
         {
-            "text": "Ergo—— 『Parcae』 does not \"understand\". In the world of zeroes and ones, there is no code for overcoming despair."
+            "text": "Ergo―― 『Parcae』 does not “understand”. \nIn the world of zeroes and ones, there is no code for overcoming \ndespair."
         },
         {
-            "text": "That day, I was observing Umamusume who hadn't debuted yet, looking for someone to train."
+            "text": "That day, I was observing Umamusume who hadn't debuted yet, \nlooking for someone to train."
         },
         {
-            "name": "Meisho Doto",
-            "text": "Opera O-san and Top Road-san sure are amazing… …I don't know if I can catch up to them, but…!"
+            "text": "Opera O-san and Top Road-san sure are amazing... \n...I don't know if I can catch up to them, but...!",
+            "name": "Meisho Doto"
         },
         {
-            "text": "Tracen Academy really lived up to its reputation. Every Umamusume I saw was top-class. Lost in my excitement, I suddenly noticed beside me——"
+            "text": "Tracen Academy really lived up to its reputation. \nEvery Umamusume I saw was top-class. Lost in my excitement, I \nsuddenly noticed beside me――"
         },
         {
-            "name": "???",
-            "text": "——……"
+            "text": "――......",
+            "name": "???"
         },
         {
-            "text": "There was a girl intently watching the Umamusume run, occasionally typing something in her laptop.",
+            "text": "There was a girl intently watching the Umamusume run, \noccasionally typing something in her laptop.",
             "choice_data_list": [
-                "(Sure looks serious… Though——)"
+                "(Sure looks serious... Though――)"
             ]
         },
         {
-            "text": "No, she wasn't just watching… Her gaze burned straight through it all. As if searching for something beyond the runners, beyond her laptop's screen——"
+            "text": "No, she wasn't just watching... Her gaze burned straight through \nit all. As if searching for something beyond the runners, beyond \nher laptop's screen――"
         },
         {
+            "text": "...Tch!",
             "name": "???",
-            "text": "…Tch!",
             "choice_data_list": [
                 "！？"
             ]
         },
         {
+            "text": "............",
             "name": "???",
-            "text": "…………",
             "choice_data_list": [
-                "(It was pretty rude of me to stare…)"
+                "(It was pretty rude of me to stare...)"
             ]
         },
         {
-            "name": "Horsegirl A",
-            "text": "Hey, you see that just now? Air Shakur-senpai's as scary as they say, glaring at an adult like that."
+            "text": "Hey, you see that just now? Air Shakur-senpai's as scary as they \nsay, glaring at an adult like that.",
+            "name": "Umamusume A"
         },
         {
-            "name": "Horsegirl B",
-            "text": "But, she's like, smart, right? Not too long ago a teacher was complaining, like, \"she's intelligent and great at running, but that attitude…\""
+            "text": "But, she's like, smart, right? Not too long ago a teacher was \ncomplaining, like, “she's intelligent and great at running, but that \nattitude...”",
+            "name": "Umamusume B"
         },
         {
-            "name": "Horsegirl B",
-            "text": "She pretty much only ever barely makes curfew. Guess you'd call her a delinquent, or something? She always looks so ticked off, too… Wonder what goes on in her head."
+            "text": "She pretty much only ever barely makes curfew. Guess you'd call \nher a delinquent, or something? She always looks so ticked off, \ntoo... Wonder what goes on in her head.",
+            "name": "Umamusume B"
         },
         {
-            "text": "Air Shakur—— it seemed like the other girls were afraid of her. That unique personality, especially that focus in her eyes, made her hard to forget."
+            "text": "Air Shakur―― it seemed like the other girls were afraid of her. \nThat unique personality, especially that focus in her eyes, made \nher hard to forget."
         },
         {
-            "name": "???",
-            "text": "Look, man, I've been saying, I'm not up to anything…"
+            "text": "Look, man, I've been saying, I'm not up to anything...",
+            "name": "???"
         },
         {
-            "text": "That night, on my way back to school grounds… I saw an Umamusume being held up by the police.",
+            "text": "That night, on my way back to school grounds... \nI saw an Umamusume being held up by the police.",
             "choice_data_list": [
-                "(Those ears… Is that who I think it is?)"
+                "<size=42>(Those ears... Is that who I think it is?)</size>"
             ]
         },
         {
+            "text": "You're stubborn as hell, doing this every time.\n'Sides, it's still too early to take me in for- ...Oh.",
             "name": "???",
-            "text": "You're stubborn as hell, doing this every time. 'Sides, it's still too early to take me in for- …Oh.",
             "choice_data_list": [
                 "Air Shakur!"
             ]
         },
         {
+            "text": "Hmm? Do you know her?",
             "name": "Policeman",
-            "text": "Hmm? Do you…… know this girl?",
             "choice_data_list": [
                 "She's a student of ours."
             ]
         },
         {
-            "name": "Policeman",
-            "text": "Thank goodness, you're with the school… I should let you know, too. She's been loitering around way too late recently…"
+            "text": "Thank goodness, you're with the school... \nI should let you know, too. She's been loitering around way too \nlate recently...",
+            "name": "Policeman"
         },
         {
-            "name": "Air Shakur",
-            "text": "\"Let you know\"? Give me a break. Prolly just think I'm up to no good."
+            "text": "“Let you know”? Give me a break.\nProlly just think I'm up to no good.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Policeman",
-            "text": "It's not that! What if something happens to you while you're holed up in that net cafe? I'm just concerned for your safety, why don't you get that?!"
+            "text": "It's not that! What if something happens to you while you're \nholed up in that net cafe? I'm just concerned for your safety, \nwhy don't you get that?!",
+            "name": "Policeman"
         },
         {
-            "text": "It looked like they were just going to keep talking past each other, so…",
+            "text": "It looked like they were just going to keep talking past each \nother, so...",
             "choice_data_list": [
                 "I told her to wait for me.",
                 "I told her to wait for me."
             ]
         },
         {
-            "name": "Air Shakur",
             "text": "Huh?",
+            "name": "Air Shakur",
             "choice_data_list": [
                 "Sorry for the concern, officer."
             ]
         },
         {
-            "name": "Policeman",
-            "text": "…Then it's fine. Though you shouldn't leave a minor alone like that. And you, if you were with a teacher, have the good grace to say so up front next time."
+            "text": "...Then it's fine. Though you shouldn't leave a minor alone like \nthat. And you, if you were with a teacher, have the good grace to \nsay so up front next time.",
+            "name": "Policeman"
         },
         {
-            "text": "I managed to bring Air Shakur, free from police custody, back to the dorms. She didn't say a thing on the way back, but…",
+            "text": "I managed to bring Air Shakur, free from police custody, back to \nthe dorms. She didn't say a thing on the way back, but...",
             "choice_data_list": [
                 "Don't stay out too late, OK?",
                 "Don't stay out too late, OK?"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "You're just gonna let me go like that? Me, the notorious delinquent, staying out all night right up 'till curfew? Most people'd be suspicious."
+            "text": "You're just gonna let me go like that? Me, the notorious \ndelinquent, staying out all night right up 'till curfew? Most \npeople'd be suspicious.",
+            "name": "Air Shakur"
         },
         {
+            "text": "Oh, maybe you just wanted to stop me before I dragged you into \ndeep shit? Yeah, now that, I can understand.",
             "name": "Air Shakur",
-            "text": "Oh, maybe you just wanted to stop me before I dragged you into deep shit? Yeah, now that, I can understand.",
             "choice_data_list": [
-                "You were doing something important, \nright?",
-                "You were doing something important, \nright?"
+                "<size=37>You were doing something important, right?</size>",
+                "<size=37>You were doing something important, right?</size>"
             ]
         },
         {
+            "text": "...Huh?",
             "name": "Air Shakur",
-            "text": "…Huh?",
             "choice_data_list": [
-                "You take things seriously… I think.",
-                "You take things seriously… I think."
+                "You take things seriously... I think.",
+                "You take things seriously... I think."
             ]
         },
         {
-            "text": "I thought back to her burning gaze that morning. I could never suspect a girl who was contemplating something so intensely."
+            "text": "I thought back to her burning gaze that morning. \nI could never suspect a girl who was contemplating something so \nintensely."
         },
         {
-            "text": "Plus, to do that something important of hers, it only made sense that she'd need a comfortable place to focus."
+            "text": "Plus, to do that something important of hers, it only made sense \nthat she'd need a comfortable place to focus."
         },
         {
+            "text": "You're not gonna ask questions 'cuz you think I “take things \nseriously”? You're acting on unsourced assumptions \n...Same as that cop.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "In the end people only see what they wanna see. Human desires \ncorrupt their judgements. ...And it drives them crazy. You can't \ntrust crazy. ...That's what makes my \"partner\" a real one.",
             "name": "Air Shakur",
-            "text": "You're not gonna ask questions 'cuz you think I \"take things seriously\"? You're acting on unsourced assumptions. …Same as that cop."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "In the end people only see what they wanna see. Human desires corrupt their judgements. …And it drives them crazy. You can't trust crazy. …That's what makes my \"partner\" a real one.",
             "choice_data_list": [
                 "Partner?"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…gh. …I mean my PC. It's more than just some box of metal. It can answer any question you throw at it. It's a complete intelligence in itself."
+            "text": "...gh. ...I mean my PC. It's more than just some box of metal. It \ncan answer any question you throw at it. It's a complete \nintelligence in itself.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "It can take its enormous dataset to optimize training, devise a strategy to win any mock race… It can find the solution for any problem you throw at it."
+            "text": "It can take its enormous dataset to optimize training, devise a \nstrategy to win any mock race... It can find the solution for any \nproblem you throw at it.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Give it valid input, and it'll find the right answer, guaranteed. Just one answer, every indeterminate nuance accounted for and excised."
+            "text": "Give it valid input, and it'll find the right answer, guaranteed. \nJust one answer, every indeterminate nuance accounted for and \nexcised.",
+            "name": "Air Shakur"
         },
         {
+            "text": "If it looks like there's something it can't answer, that's on the \nuser. But I'm different. So it <i>always </i>gives me that one answer.",
             "name": "Air Shakur",
-            "text": "If it looks like there's something it can't answer, that's on the user. But I'm different. So it always gives me that one answer.",
             "choice_data_list": [
                 "You really trust that partner of yours.",
                 "You really trust that partner of yours."
             ]
         },
         {
+            "text": "...Well, no shit. I'm the one who made it.",
             "name": "Air Shakur",
-            "text": "…Well, no shit. I'm the one who made it.",
             "choice_data_list": [
-                "You're… pretty awesome.",
-                "You're… pretty awesome."
+                "You're... pretty awesome.",
+                "You're... pretty awesome."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Oh."
+            "text": "...Oh.",
+            "name": "Air Shakur"
         },
         {
+            "text": "...Gross.",
             "name": "Air Shakur",
-            "text": "…Gross.",
             "choice_data_list": [
                 "！？"
             ]
         },
         {
-            "text": "Seemed like I upset her again… Turning over our conversation in my mind, I headed back to my room."
+            "text": "Seemed like I upset her again... \nTurning over our conversation in my mind, I headed back to my \nroom."
         },
         {
-            "name": "Meisho Doto",
-            "text": "Ah! Shakur-san, welcome back! I, uh, er, I…!"
+            "text": "Ah! Shakur-san, welcome back! \nI, uh, er, I...!",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Air Shakur",
-            "text": "…I was just sorting out some data. Easier to focus out there than in here."
+            "text": "...I was just sorting out some data.\nEasier to focus out there than in here.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Wait, we've been over this. Don't stay up for my sake. If I go out, it's not your—— …Never mind. Go to bed. Gotta be up early tomorrow, yeah?"
+            "text": "Wait, we've been over this. Don't stay up for my sake. If I go out, \nit's not your―― ...Never mind. Go to bed. Gotta be up early \ntomorrow, yeah?",
+            "name": "Air Shakur"
         },
         {
-            "name": "Meisho Doto",
-            "text": "Right～… Oh, that reminds me… Shakur-san, you found a trainer for tomorrow, didn't you…?"
+            "text": "Right～... Oh, that reminds me... Shakur-san, you found a trainer \nfor tomorrow, didn't you...?",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Air Shakur",
-            "text": "Yeah, said he wanted to see what I could do. I'll play along, but I bet it'll end up with \"the usual result\". Don't need to run a simulation to know that."
+            "text": "Yeah, said he wanted to see what I could do. I'll play along, but I \nbet it'll end up with \"the usual result\". \nDon't need to run a simulation to know that.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Ain't your problem, anyway. Lights out."
+            "text": "Ain't your problem, anyway.\nLights out.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "——Knew it, same answer as always. Hey, 『Parcae』…"
+            "text": "――Knew it, same answer as always. \nHey, 『Parcae』...",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(『Parcae』—— The partner I developed from the ground up, OS to user program, in anticipation of joining the Twinkle Series.)"
+            "text": "(『Parcae』―― The partner I developed from the ground up, \nOS to user program, in anticipation of joining the Twinkle \nSeries.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(The optimal debut race 『Parcae』 scheduled is coming up. Physically speaking, I meet the all the parameters, as expected, but…)"
+            "text": "(The optimal debut race 『Parcae』 scheduled is coming up. \nPhysically speaking, I meet the all the parameters, as expected, \nbut...)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(\"That\" value hasn't changed. Of course it hasn't. Code doesn't lie. That solution is immutable.)"
+            "text": "(“That” value hasn't changed. Of course it hasn't. Code doesn't \nlie. That solution is immutable.)",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "(So why am I still searching? Still struggling? Still thinking? Why…)"
+            "text": "(So why am I still searching? Still struggling? Still thinking? \nWhy...)",
+            "name": "Air Shakur"
         }
     ]
 }

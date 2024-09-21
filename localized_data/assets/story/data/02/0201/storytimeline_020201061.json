@@ -1,348 +1,358 @@
 {
     "text_block_list": [
         {
-            "text": "Rhein Kraft's 『Fillies' Review』 was approaching. In preparation for the race, I was analyzing her opponents, however――",
+            "text": "Rhein Kraft's 『Fillies' Review』 was approaching. In preparation \nfor the race, I was analyzing her opponents, however――",
             "choice_data_list": [
-                "(Quite a few formidable opponents……)",
-                "(Quite a few formidable opponents……)"
+                "<size=42>(Quite a few formidable opponents……)</size>",
+                "<size=42>(Quite a few formidable opponents……)</size>"
             ]
         },
         {
-            "text": "(Particularly 『Daring Heart』 and 『Air Messiah』……these two. She would have to keep both in mind for the Fillies' Review)"
+            "text": "(Particularly 『Daring Heart』 and 『Air Messiah』……these two. \nShe would have to keep both in mind for the Fillies' Review)",
+            "name": "<username>"
         },
         {
-            "text": "(Daring Heart had finished 5th in the Hanshin JF, however, lately she'd been growing stronger consistently. There was a high possibility she'd show her true potential this time.)"
+            "text": "(Daring Heart had finished 5th in the Hanshin JF, however, \nlately she'd been growing stronger consistently. There was a \nhigh possibility she'd show her true potential this time.)",
+            "name": "<username>"
         },
         {
-            "text": "(Air Messiah was currently at two wins and one second place finish out of three races……It was almost certain she'd have a solid run as well)",
+            "text": "(Air Messiah was currently at two wins and one \nsecond place finish out of three races……It was \nalmost certain she'd have a solid run as well)",
+            "name": "<username>",
             "choice_data_list": [
                 "(But……――)"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Let's see, 『Kanchiku Sho』 from a different angle……Found it! Cesario's run……I need to observe it more closely……!"
+            "text": "Let's see, 『Kanchiku Sho』 from a different angle……Found it! \nCesario's run……I need to observe it more closely……!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "(As I thought……Kraft is focusing only on Cesario. She wasn't concentrating on the upcoming 『Fillies' Review』 at all……)",
+            "text": "(As I thought……Kraft is focusing only on Cesario. She wasn't \nconcentrating on the upcoming 『Fillies' Review』 at all……)",
+            "name": "<username>",
             "choice_data_list": [
                 "……Hey, Kraft.",
                 "……Hey, Kraft."
             ]
         },
         {
-            "text": "You've been researching Cesario pretty heavily, but she's not going to be running in the 『Fillies' Review』 ……You know that, right?"
+            "text": "You've been researching Cesario pretty heavily, but she's not going \nto be running in the 『Fillies' Review』 ……You know that, right?",
+            "name": "<username>"
         },
         {
-            "text": "You've been researching Cesario pretty heavily, but she's not going to be running in the 『Fillies' Review』 ……You know that, right?"
+            "text": "You've been researching Cesario pretty heavily, but she's not going \nto be running in the 『Fillies' Review』 ……You know that, right?",
+            "name": "<username>"
         },
         {
+            "text": "Eh, um……Yeah! \nI know……that already……",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "……Then, can you tell me who you \nshould be marking in the next race?",
+            "name": "<username>"
+        },
+        {
+            "text": "……Then, can you tell me who you \nshould be marking in the next race?",
+            "name": "<username>"
+        },
+        {
+            "text": "Uh……well, that's…… \n…………",
             "name": "Rhein Kraft",
-            "text": "Eh, um……Yeah! I know……that already……"
-        },
-        {
-            "text": "……Then, can you tell me who you should be marking in the next race?"
-        },
-        {
-            "text": "……Then, can you tell me who you should be marking in the next race?"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Uh……well, that's…… …………",
             "choice_data_list": [
                 "……Kraft. Take a break tomorrow",
                 "……Kraft. Take a break tomorrow"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Eh!? A-a break!? At this time……!?"
+            "text": "Eh!? A-a break!? At this time……!?",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "Yeah. For the current you, there's something you need to do first. ――You need to see with your own eyes what your next opponents are capable of.",
+            "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of.",
+            "name": "<username>",
             "choice_data_list": [
                 "Got it, Kraft?",
                 "Got it, Kraft?"
             ]
         },
         {
-            "text": "Yeah. For the current you, there's something you need to do first. ――You need to see with your own eyes what your next opponents are capable of.",
+            "text": "Yeah. For the current you, there's something you \nneed to do first. ――You need to see with your own \neyes what your next opponents are capable of.",
+            "name": "<username>",
             "choice_data_list": [
                 "Got it, Kraft?",
                 "Got it, Kraft?"
             ]
         },
         {
+            "text": "Y-……Yes. I understand……",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(So, I'm the only one taking a break…… \nAnd, while I'm doing this, Cesario is――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(……wait, no no no! I'm thinking about her again! \nI need to put Cesario aside for now~……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Let's see, according to the documents that Trainer-san \ngave me……the first one I should focus on is――",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Daring Heart-san…… \n――!?",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "No waaaa~y! Heart, your race uniform looks \nreeeeeeally~~ good on you! It's the best!",
+            "name": "Heart's Friend A"
+        },
+        {
+            "text": "Thanks♪ It makes me really happy that so many people came to \nsee me! It's almost like this is an unveiling party, fufufuu!",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "Of course they'd come~, they've been waiting for this! \nYour sense and style are out of this world~ ……I can't \nwait to see you win while wearing that!",
+            "name": "Heart's Friend B"
+        },
+        {
+            "text": "Yeah, of course! Look forward to it♪ Then, maybe I should go for \na little run to get used to it. Everyone, will you tag along?",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "Okay~!!",
+            "name": "Heart's Friends"
+        },
+        {
+            "text": "Haa, haa, haa―― \n3, 2, 1……――fire!! Haaaaaaaaaaaaaa!!",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "Wah, it's Heart! Amazing……that girl's always surrounded by \nher friends but, when she can run like that, it makes sense……!",
+            "name": "Heart's Friend C"
+        },
+        {
+            "text": "I know~. An exchange student from an Elite family……normally \njust that would make her stand out, but she has the talent too!",
+            "name": "Heart's Friend D"
+        },
+        {
+            "text": "Has it? Isn't it more like she's getting better? \nCompared to before, isn't her body way more toned now!?",
+            "name": "Heart's Friend A"
+        },
+        {
+            "text": "Definitely~! In the next race, seems like \nshe'll show us an even more amazing run……! \nShe's like our Queen! Heart, you're so cool~~~!!",
+            "name": "Heart's Friend B"
+        },
+        {
+            "text": "(Daring Heart-san……if I recall, in the 『Hanshin JF』 \nshe ran together as one of my opponents, but――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Like those girls around her said, without a doubt, \nshe's much stronger than back then! A powerful leader \nstyle runner……that's my next opponent――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Hi, Rhein Kraft! Did you come here to see me?",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "H-Heart-san! Um, no, well~…… \nthis is definitely not reconnaissance……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "I welcome reconnaissance though! If you'd like, \nhow about a closer look? And, if there's anything \nyou want to ask, just tell me. I'll answer it all♪",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "Even then, I don't intend to lose against \nyou in the 『Fillies' Review』 though.",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "I'll dominate that race. I won't let you take my position. \nCompared to the 『Hanshin JF』, you should think of me as \na different person. I've become stronger, you know?",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "As the same Leader-type, let's battle it out head-to-head. \nAnd then, I'll be the one to win, Rhein Kraft.",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "――Now, shake my hand, OK? \nLooking forward to the real thing!",
+            "name": "Daring Heart"
+        },
+        {
+            "text": "(This girl. ……She has the ability, \nher aura……and her heart are strong……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Then, Air Messiah-san! In your previous run in \nthe 『Elfin Stakes』, you were able to take a good \nposition and magnificently pull ahead, so――",
+            "name": "Reporter A"
+        },
+        {
+            "text": "It seems that your morale and ability are \nboth high! In regards to the 『Triple Tiara』, \nwould you say that you are fully prepared now!?",
+            "name": "Reporter A"
+        },
+        {
+            "text": "I believe that preparation includes following a \nprocedure and performing it flawlessly. But also, \nunexpected situations will still occur during races.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "First, in regards to the upcoming 『Oka Sho』, \non the same Hanshin racecourse during the \n『Fillies' Review』, I plan on obtaining a solid result――",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "I hope to improve myself, and develop an unshakable foundation.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "(That's……Air Messiah-san……! \nThat's right, if I recall, her mother is――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "I see, thank you very much! It has been said that \nyour sincere and steady disposition ressembles \nthat of your mother during her career, however――",
+            "name": "Reporter A"
+        },
+        {
+            "text": "During the Triple Tiara rotation, your mother reached \ntop three in each race, though with the unfortunate \nresult of never placing first. In regards to that――",
+            "name": "Reporter A"
+        },
+        {
+            "text": "Yes, but that's precisely why.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "As her daughter, I will win. Without fail. ……to everyone \ngathered here today, at that time, please speak about this――",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "Not my mother's regret――but about the \nsplendor and glory she left behind.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "(Air Messiah-san……she's so calm and feels like an \nintellectual……but, definitely, that girl is also――)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Rhein Kraft-san. ……I apologize for the late introduction. \nThank you for attending my press conference.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "Ah……no! Rather than attending, \nit's more like I just snuck in, but well……!",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "No, do not mind it. I have no intention of hiding anything. \n……the 『Fillies' Review』 is quickly approaching.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "I've heard of your success. However, I have no intention \nof falling behind. ……I look forward to our match.",
+            "name": "Air Messiah"
+        },
+        {
+            "text": "(This girl……she's composed, but passionate……! \nI can almost see the fire burning in her eyes……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "(Messiah-san, and Heart-san……I didn't know anything \nabout them. I didn't realize! Their strength, or how \nintimidating they were at all……!)",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "The next day――Rhein Kraft showed up for training \nwith a completely different look on her face!"
+        },
+        {
+            "text": "――Thank you for giving me the opportunity, Trainer-san! \nI got a proper look at both of them.",
             "name": "Rhein Kraft",
-            "text": "Y-……Yes. I understand……"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(So, I'm the only one taking a break…… And, while I'm doing this, Cesario is――)"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(……wait, no no no! I'm thinking about her again! I need to put Cesario aside for now~……!)"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Let's see, according to the documents that Trainer-san gave me……the first one I should focus on is――"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Daring Heart-san…… ――!?"
-        },
-        {
-            "name": "Heart's Friend A",
-            "text": "No waaaa~y! Heart, your race uniform looks reeeeeeally~~ good on you! It's the best!"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Thanks♪ It makes me really happy that so many people came to see me! It's almost like this is an unveiling party, fufufuu!"
-        },
-        {
-            "name": "Heart's Friend B",
-            "text": "Of course they'd come~, they've been waiting for this! Your sense and style are out of this world~ ……I can't wait to see you win while wearing that!"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Yeah, of course! Look forward to it♪ Then, maybe I should go for a little run to get used to it. Everyone, will you tag along?"
-        },
-        {
-            "name": "Heart's Friends",
-            "text": "Okay~!!"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Haa, haa, haa―― 3, 2, 1……――fire!! Haaaaaaaaaaaaaa!!"
-        },
-        {
-            "name": "Heart's Friend C",
-            "text": "Wah, it's Heart! Amazing……that girl's always surrounded by her friends but, when she can run like that, it makes sense……!"
-        },
-        {
-            "name": "Heart's Friend D",
-            "text": "I know~. An exchange student from an Elite family……normally just that would make her stand out, but she has the talent too!"
-        },
-        {
-            "name": "Heart's Friend A",
-            "text": "Has it? Isn't it more like she's getting better? Compared to before, isn't her body way more toned now!?"
-        },
-        {
-            "name": "Heart's Friend B",
-            "text": "Definitely~! In the next race, seems like she'll show us an even more amazing run……! She's like our Queen! Heart, you're so cool~~~!!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Daring Heart-san……if I recall, in the 『Hanshin JF』 she ran together as one of my opponents, but――)"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Like those girls around her said, without a doubt, she's much stronger than back then! A powerful leader style runner……that's my next opponent――)"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Hi, Rhein Kraft! Did you come here to see me?"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "H-Heart-san! Um, no, well~…… this is definitely not reconnaissance……!"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "I welcome reconnaissance though! If you'd like, how about a closer look? And, if there's anything you want to ask, just tell me. I'll answer it all♪"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "Even then, I don't intend to lose against you in the 『Fillies' Review』 though."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "……!"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "I'll dominate that race. I won't let you take my position. Compared to the 『Hanshin JF』, you should think of me as a different person. I've become stronger, you know?"
-        },
-        {
-            "name": "Daring Heart",
-            "text": "As the same Leader-type, let's battle it out head-to-head. And then, I'll be the one to win, Rhein Kraft."
-        },
-        {
-            "name": "Daring Heart",
-            "text": "――Now, shake my hand, OK? Looking forward to the real thing!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(This girl. ……She has the ability, her aura……and her heart are strong……!)"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Then, Air Messiah-san! In your previous run in the 『Elfin Stakes』, you were able to take a good position and magnificently pull ahead, so――"
-        },
-        {
-            "name": "Reporter A",
-            "text": "It seems that your morale and ability are both high! In regards to the 『Triple Tiara』, would you say that you are fully prepared now!?"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "I believe that preparation includes following a procedure and performing it flawlessly. But also, unexpected situations will still occur during races."
-        },
-        {
-            "name": "Air Messiah",
-            "text": "First, in regards to the upcoming 『Oka Sho』, on the same Hanshin racecourse during the 『Fillies' Review』, I plan on obtaining a solid result――"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "I hope to improve myself, and develop an unshakable foundation."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(That's……Air Messiah-san……! That's right, if I recall, her mother is――)"
-        },
-        {
-            "name": "Reporter A",
-            "text": "I see, thank you very much! It has been said that your sincere and steady disposition ressembles that of your mother during her career, however――"
-        },
-        {
-            "name": "Reporter A",
-            "text": "During the Triple Tiara rotation, your mother reached top three in each race, though with the unfortunate result of never placing first. In regards to that――"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "Yes, but that's precisely why."
-        },
-        {
-            "name": "Air Messiah",
-            "text": "As her daughter, I will win. Without fail. ……to everyone gathered here today, at that time, please speak about this――"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "Not my mother's regret――but about the splendor and glory she left behind."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Air Messiah-san……she's so calm and feels like an intellectual……but, definitely, that girl is also――)"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "Rhein Kraft-san. ……I apologize for the late introduction. Thank you for attending my press conference."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Ah……no! Rather than attending, it's more like I just snuck in, but well……!"
-        },
-        {
-            "name": "Air Messiah",
-            "text": "No, do not mind it. I have no intention of hiding anything. ……the 『Fillies' Review』 is quickly approaching."
-        },
-        {
-            "name": "Air Messiah",
-            "text": "I've heard of your success. However, I have no intention of falling behind. ……I look forward to our match."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(This girl……she's composed, but passionate……! I can almost see the fire burning in her eyes……!)"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "(Messiah-san, and Heart-san……I didn't know anything about them. I didn't realize! Their strength, or how intimidating they were at all……!)"
-        },
-        {
-            "text": "The next day――Rhein Kraft showed up for training with a completely different look on her face!"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "――Thank you for giving me the opportunity, Trainer-san! I got a proper look at both of them.",
             "choice_data_list": [
                 "Good. ……how were they?"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Heart-san's running is somewhat similar to mine. And she……has self-confidence backed by a strong heart."
+            "text": "Heart-san's running is somewhat similar to mine. \nAnd she……has self-confidence backed by a strong heart.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "In a battle for position, I don't think she'll ever back down. If I had run without being aware of it, I would have been caught up in my opponent's pace."
+            "text": "In a battle for position, I don't think she'll ever \nback down. If I had run without being aware of it, \nI would have been caught up in my opponent's pace.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "And then Messiah-san……I had watched some of her old race footage, however, when it comes to the last stretch, she's stronger. I can't win against her in that regard."
+            "text": "And then Messiah-san……I had watched some of her old race \nfootage, however, when it comes to the last stretch, she's \nstronger. I can't win against her in that regard.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "If I had run without being conscious of that…… then definitely at the end she would out pace me."
+            "text": "If I had run without being conscious of that…… \nthen definitely at the end she would out pace me.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……This was no time for me to be focusing on other things. There are so many things that I need to do……!"
+            "text": "……This was no time for me to be focusing on other things. \nThere are so many things that I need to do……!",
+            "name": "Rhein Kraft"
         },
         {
+            "text": "Trainer-san!! So that I can win against those two―― \nplease train me so that I can win the 『Fillies' Review』!",
             "name": "Rhein Kraft",
-            "text": "Trainer-san!! So that I can win against those two―― please train me so that I can win the 『Fillies' Review』!",
             "choice_data_list": [
                 "Yeah……! Alright, let's do it!",
                 "Yeah……! Alright, let's do it!"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……Yaaaaaa!!"
+            "text": "……Yaaaaaa!!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "And so, Rhein Kraft began spending the days training for the 『Fillies' Review』. Then――!"
+            "text": "And so, Rhein Kraft began spending the days \ntraining for the 『Fillies' Review』. Then――!"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "…………Alright. Heart-san! Messiah-san!"
+            "text": "…………Alright. \nHeart-san! Messiah-san!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Looking forward to the 『Fillies' Review』. I won't lose."
+            "text": "Looking forward to the 『Fillies' Review』. \nI won't lose.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "I will win against you. Today, that's why I'm running……!"
+            "text": "I will win against you. \nToday, that's why I'm running……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Air Messiah",
-            "text": "……she's leveled quite a bit. It felt like her eyes were piercing right through me……I could feel the pressure."
+            "text": "……she's leveled quite a bit. It felt like her eyes were \npiercing right through me……I could feel the pressure.",
+            "name": "Air Messiah"
         },
         {
-            "name": "Daring Heart",
-            "text": "So nice! Isn't that fine? ――That's how it should be, Rhein Kraft!"
+            "text": "So nice! Isn't that fine? \n――That's how it should be, Rhein Kraft!",
+            "name": "Daring Heart"
         },
         {
-            "name": "Live Announcer",
-            "text": "――And now we're entering the straight! Daring Heart suddenly pulls ahead from 5th! Air Messiah chases after her!"
+            "text": "――And now we're entering the straight! Daring Heart suddenly \npulls ahead from 5th! Air Messiah chases after her!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "But――It's Rhein Kraft, it's Rhein Kraft! The favorite, Rhein Kraft, also pushes forward!!"
+            "text": "But――It's Rhein Kraft, it's Rhein Kraft! \nThe favorite, Rhein Kraft, also pushes forward!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "Daring Heart and Air Messiah chase! It's a showdown! It's a truly close battle!!"
+            "text": "Daring Heart and Air Messiah chase! \nIt's a showdown! It's a truly close battle!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "All Three",
-            "text": "Haaaaaaaaaa!"
+            "text": "Haaaaaaaaaa!",
+            "name": "All Three"
         },
         {
-            "name": "Live Announcer",
-            "text": "Goal!! It was close, it was an incredibly close 1st place for Rhein Kraft! Rhein Kraft wins the 『Fillies' Review』!!"
+            "text": "Goal!! It was close, it was an incredibly close 1st place \nfor Rhein Kraft! Rhein Kraft wins the 『Fillies' Review』!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(They were strong! Heart-san, and Messiah-san too, really……! But, I managed to win! I did it!!)"
+            "text": "(They were strong! Heart-san, and Messiah-san too, \nreally……! But, I managed to win! I did it!!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……~~~~!! I did it……!!! I did it, I did it, I did it……!!"
+            "text": "……~~~~!! I did it……!!! \nI did it, I did it, I did it……!!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "And so, Rhein Kraft obtained a splendid victory at the 『Fillies' Review』, building a great deal of momentum towards her next goal, the 『Oka Sho』……"
+            "text": "And so, Rhein Kraft obtained a splendid victory \nat the 『Fillies' Review』, building a great deal \nof momentum towards her next goal, the 『Oka Sho』……"
         }
     ]
 }

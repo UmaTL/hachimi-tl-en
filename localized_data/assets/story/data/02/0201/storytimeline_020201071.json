@@ -1,203 +1,225 @@
 {
     "text_block_list": [
         {
-            "text": "It was the week after Rhein Kraft had won the 『Fillies' Review』. This time, it was Cesario's turn to run the 『Flower C』."
+            "text": "It was the week after Rhein Kraft had won the 『Fillies' Review』. \nThis time, it was Cesario's turn to run the 『Flower C』."
         },
         {
-            "text": "(This is her first attempt at a major and she was overwhelmingly the favorite……I was worried the pressure might be a little much for her, but――)"
+            "text": "(This is her first attempt at a major and she \nwas overwhelmingly the favorite……I was worried \nthe pressure might be a little much for her, but――)",
+            "name": "<username>"
         },
         {
-            "name": "Cesario",
-            "text": "Fuu――!!"
+            "text": "Fuu――!!",
+            "name": "Cesario"
         },
         {
-            "name": "Live Announcer",
-            "text": "And it's Cesario! Cesario pulls out in front! A lead of 2 lengths, now 3 lengths! Cesario is out front!!"
+            "text": "And it's Cesario! Cesario pulls out in front! \nA lead of 2 lengths, now 3 lengths! Cesario is out front!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Live Announcer",
-            "text": "――Goal!! First place is Cesario!! On the last straight, she showed us the difference in strength!!"
+            "text": "――Goal!! First place is Cesario!! On the last straight, \nshe showed us the difference in strength!!",
+            "name": "Live Announcer"
         },
         {
-            "name": "Single Knot Uma Musume",
-            "text": "Uwaah~! Seriously!? Isn't that a record time too!? Amazing~~……!!"
+            "text": "Uwaah~! Seriously!? Isn't that a record time too!? \nAmazing~~……!!",
+            "name": "Single Knot Uma Musume"
         },
         {
-            "name": "King Halo",
-            "text": "Hold on……this is……just too incredible. Cesario-san……that girl, just how far will she――"
+            "text": "Hold on……this is……just too incredible. \nCesario-san……that girl, just how far will she――",
+            "name": "King Halo"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "…………"
+            "text": "…………",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(How far……? Just how far will Cesario go……? Just how much……will I have to do――!?)"
+            "text": "(How far……? Just how far will Cesario go……? \nJust how much……will I have to do――!?)",
+            "name": "Rhein Kraft"
         },
         {
+            "text": "――And now you're watching a special VTR…… \nfor the 『Oka Sho』, as expected, aren't Rhein \nKraft and Cesario the focus of attention!?",
+            "name": "MC"
+        },
+        {
+            "text": "That's true. Within the Tiara rotation, \nthe abilities of those two are a cut above, without a doubt.",
+            "name": "Commentator A"
+        },
+        {
+            "text": "Will it be Rhein Kraft's powerful leader strength, \nor Cesario's sharp closing leg! We can expect a \nheated first time showdown at the 『Oka Sho』.",
+            "name": "Commentator B"
+        },
+        {
+            "text": "And then there's something that both of them have in common! \nThey are both members of the same team, <Ascella>, and so――!",
+            "name": "MC"
+        },
+        {
+            "text": "Today, we have <Ascella>'s trainer here with us! \nTrainer-san, for the upcoming 『Oka Sho』 what \nkind of advice have you given them!?",
             "name": "MC",
-            "text": "――And now you're watching a special VTR…… for the 『Oka Sho』, as expected, aren't Rhein Kraft and Cesario the focus of attention!?"
-        },
-        {
-            "name": "Commentator A",
-            "text": "That's true. Within the Tiara rotation, the abilities of those two are a cut above, without a doubt."
-        },
-        {
-            "name": "Commentator B",
-            "text": "Will it be Rhein Kraft's powerful leader strength, or Cesario's sharp closing leg! We can expect a heated first time showdown at the 『Oka Sho』."
-        },
-        {
-            "name": "MC",
-            "text": "And then there's something that both of them have in common! They are both members of the same team, <Ascella>, and so――!"
-        },
-        {
-            "name": "MC",
-            "text": "Today, we have <Ascella>'s trainer here with us! Trainer-san, for the upcoming 『Oka Sho』 what kind of advice have you given them!?",
             "choice_data_list": [
                 "……Well, that's――"
             ]
         },
         {
-            "text": "I was already at a loss for words. It was obviously because I was both Rhein Kraft's and Cesario's trainer."
+            "text": "I was already at a loss for words. It was obviously \nbecause I was both Rhein Kraft's and Cesario's trainer."
         },
         {
-            "text": "Creating a training menu geared towards victory at the 『Oka Sho』. This was an important duty as their trainer. However――"
+            "text": "Creating a training menu geared towards victory at the 『Oka Sho』. \nThis was an important duty as their trainer. However――"
         },
         {
-            "text": "For Rhein Kraft, the main point of her menu would end up being 『Countermeasures against Cesario』."
+            "text": "For Rhein Kraft, the main point of her menu would \nend up being 『Countermeasures against Cesario』."
         },
         {
-            "text": "Similarly, for Cesario, it would end up being 『Countermeasures against Rhein Kraft』.",
+            "text": "Similarly, for Cesario, it would end up \nbeing 『Countermeasures against Rhein Kraft』.",
             "choice_data_list": [
-                "(I had to overcome……that 『Contradiction』)"
+                "<size=36>(I had to overcome……that 『Contradiction』)</size>"
             ]
         },
         {
-            "text": "……Of course, I instructed to the best of my ability. For both Rhein Kraft and Cesario."
+            "text": "……Of course, I instructed to the best of my ability. \nFor both Rhein Kraft and Cesario.",
+            "name": "<username>"
         },
         {
-            "text": "I'd be glad if either of them won, but…… I also want both of them to win. Which is why I intended to provide equal guidance to both."
+            "text": "I'd be glad if either of them won, but…… \nI also want both of them to win. Which is why \nI intended to provide equal guidance to both.",
+            "name": "<username>"
         },
         {
             "text": "――that's how I ended up answering……"
         },
         {
             "text": "……………………………………………………",
+            "name": "<username>",
             "choice_data_list": [
                 "(I……I messed up……!!)"
             ]
         },
         {
+            "text": "Haa, haa, haa, haa…… \n……Haa……!!",
             "name": "Rhein Kraft",
-            "text": "Haa, haa, haa, haa…… ……Haa……!!",
             "choice_data_list": [
                 "(Kraft……keeps staying longer……)"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Haa……no!! Like this, I'll still get overtaken……! Cesario will……catch me……!"
+            "text": "Haa……no!! Like this, I'll still get overtaken……! \nCesario will……catch me……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "The 『Oka Sho』 is so soon…… What should I do……? Like this, I'll……!"
+            "text": "The 『Oka Sho』 is so soon…… \nWhat should I do……? Like this, I'll……!",
+            "name": "Rhein Kraft"
         },
         {
             "text": "At that time. Rhein Kraft looked so desperate that I――",
             "choice_data_list": [
-                "……Kraft, believe in your own strength",
-                "……Kraft, believe in your own strength"
+                "<size=43>……Kraft, believe in your own strength</size>",
+                "<size=43>……Kraft, believe in your own strength</size>"
             ]
         },
         {
-            "text": "Taking a solid lead using your power and then breaking away is your strongest point. Even at the 『Oka Sho』 you need to be conscious of using the best of your abilities."
+            "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
+            "name": "<username>"
         },
         {
-            "text": "Taking a solid lead using your power and then breaking away is your strongest point. Even at the 『Oka Sho』 you need to be conscious of using the best of your abilities."
+            "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
+            "name": "<username>"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san……but, that's……!"
+            "text": "Trainer-san……but, that's……!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "Believe in the skills you've honed until now, Kraft. Also…… you can try accelerating a little earlier than in the previous race.",
+            "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
+            "name": "<username>",
             "choice_data_list": [
                 "Most likely with these members――"
             ]
         },
         {
-            "text": "Believe in the skills you've honed until now, Kraft. Also…… you can try accelerating a little earlier than in the previous race.",
+            "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
+            "name": "<username>",
             "choice_data_list": [
                 "Most likely with these members――"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "These members……? Um, what do you mean?"
+            "text": "These members……? Um, what do you mean?",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "……No, maybe that was unnecessary. Don't worry about it. Anyways, try pushing forward a little sooner than usual."
+            "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
+            "name": "<username>"
         },
         {
-            "text": "……No, maybe that was unnecessary. Don't worry about it. Anyways, try pushing forward a little sooner than usual."
+            "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
+            "name": "<username>"
         },
         {
-            "text": "You're strong at maintaining a high pace……the advantage of 『Maintaining Pace』. If you pull ahead early, you'll definitely be able to hold on until the end.",
+            "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
+            "name": "<username>",
             "choice_data_list": [
                 "You'll be fine. I believe in you",
                 "You'll be fine. I believe in you"
             ]
         },
         {
-            "text": "You're strong at maintaining a high pace……the advantage of 『Maintaining Pace』. If you pull ahead early, you'll definitely be able to hold on until the end.",
+            "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
+            "name": "<username>",
             "choice_data_list": [
                 "You'll be fine. I believe in you",
                 "You'll be fine. I believe in you"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "My strength…… ……Okay. I understand! Thank you very much!!"
+            "text": "My strength…… \n……Okay. I understand! Thank you very much!!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "………………………………"
+            "text": "………………………………",
+            "name": "<username>"
         },
         {
-            "text": "(For the Oka Sho……based on the members, there's a high probability of everyone jostling for position. It wasn't a good idea to be stuck in the crowd for too long.)"
+            "text": "(For the Oka Sho……based on the members, there's a high \nprobability of everyone jostling for position. It wasn't \na good idea to be stuck in the crowd for too long.)",
+            "name": "<username>"
         },
         {
-            "text": "(So……it would be more advantageous for Kraft to pull ahead earlier. ……that much was true.)"
+            "text": "(So……it would be more advantageous for Kraft \nto pull ahead earlier. ……that much was true.)",
+            "name": "<username>"
         },
         {
-            "text": "(But then, shouldn't I tell Cesario to be careful not to get surrounded since she'd be running more towards the back?)",
+            "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
+            "name": "<username>",
             "choice_data_list": [
                 "(……But then, for Cesario――)"
             ]
         },
         {
-            "text": "(But then, shouldn't I tell Cesario to be careful not to get surrounded since she'd be running more towards the back?)",
+            "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
+            "name": "<username>",
             "choice_data_list": [
                 "(……But then, for Cesario――)"
             ]
         },
         {
-            "text": "(It might be unnecessary. Whether or not it would be a problem depends on how the race develops. Since she has overwhelming strength, it might be better to focus on her own running)"
+            "text": "(It might be unnecessary. Whether or not it would be a problem \ndepends on how the race develops. Since she has overwhelming \nstrength, it might be better to focus on her own running)",
+            "name": "<username>"
         },
         {
-            "text": "(Don't get distracted by your surroundings, concentrate on maintaining form and focus only on your own running. That would be best for Cesario――)",
+            "text": "(Don't get distracted by your surroundings, \nconcentrate on maintaining form and focus only \non your own running. That would be best for Cesario――)",
+            "name": "<username>",
             "choice_data_list": [
                 "(……no, but is that true?)",
                 "(……no, but is that true?)"
             ]
         },
         {
-            "text": "I might……be acting like I want Kraft to win more……"
+            "text": "I might……be acting like I want Kraft to win more……",
+            "name": "<username>"
         },
         {
-            "text": "I might……be acting like I want Kraft to win more……"
+            "text": "I might……be acting like I want Kraft to win more……",
+            "name": "<username>"
         },
         {
-            "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks…… at 2400m, honestly, it would probably be difficult……)",
+            "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks……\nat 2400m, honestly, it would probably be difficult……)",
+            "name": "<username>",
             "choice_data_list": [
                 "No, I can't! As a trainer――"
             ]
@@ -209,155 +231,165 @@
             ]
         },
         {
-            "text": "That scared me……a LANE from Rhein Kraft? Not in the Team <Ascella> group chat, but a DM……?"
+            "text": "That scared me……a LANE from Rhein Kraft? \nNot in the Team <Ascella> group chat, but a DM……?",
+            "name": "<username>"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "『Trainer-san, good evening! I'm sorry for the sudden contact, but I want to ask you for a favor』"
+            "text": "『Trainer-san, good evening! I'm sorry for the sudden \ncontact, but I want to ask you for a favor』",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "『Saturday, tomorrow at 11AM, can you come with me to the riverbed for independent training?』"
+            "text": "『Saturday, tomorrow at 11AM, can you come with \nme to the riverbed for independent training?』",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want to dig in…… Alright, for now I'll reply that it's OK……wait, huh?"
+            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
+            "name": "<username>"
         },
         {
-            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want to dig in…… Alright, for now I'll reply that it's OK……wait, huh?"
+            "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
+            "name": "<username>"
         },
         {
+            "text": "『Trainer, I'd like some advice regarding extra training. \nSaturday, at 11AM, can you accompany me to the riverbed?』",
             "name": "Cesario",
-            "text": "『Trainer, I'd like some advice regarding extra training. Saturday, at 11AM, can you accompany me to the riverbed?』",
             "choice_data_list": [
                 "…………Cesario too!?"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "『I want to run more this weekend, no matter what!』"
+            "text": "『I want to run more this weekend, no matter what!』",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "『I cannot afford to lose the Oka Sho』"
+            "text": "『I cannot afford to lose the Oka Sho』",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san! Let's do some individual training!"
+            "text": "Trainer-san! Let's do some individual training!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Trainer, let's do some individual training."
+            "text": "Trainer, let's do some individual training.",
+            "name": "Cesario"
         },
         {
-            "name": "Kraft&Cesario",
             "text": "Please!",
+            "name": "Kraft&Cesario",
             "choice_data_list": [
                 "Uuuuuuuu……!!"
             ]
         },
         {
-            "name": "Kraft&Cesario",
             "text": "Trainer(-san)!!",
+            "name": "Kraft&Cesario",
             "choice_data_list": [
                 "Uwaah!?"
             ]
         },
         {
-            "text": "……wait, huh!? That voice……came from outside!?"
+            "text": "……wait, huh!? \nThat voice……came from outside!?",
+            "name": "<username>"
         },
         {
+            "text": "Sorry for coming in uninvited. \n……Trainer, you look pale? Are you okay?",
             "name": "Cesario",
-            "text": "Sorry for coming in uninvited. ……Trainer, you look pale? Are you okay?",
             "choice_data_list": [
                 "Y-yeah~, no, ummmmm……"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Fuu……Fufufuu, Ahahahaha! It's fine now right, Cesario……!? One-two!"
+            "text": "Fuu……Fufufuu, Ahahahaha! \nIt's fine now right, Cesario……!? One-two!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Kraft&Cesario",
             "text": "Prank successful~!",
+            "name": "Kraft&Cesario",
             "choice_data_list": [
                 "………………eh?"
             ]
         },
         {
-            "name": "Cesario",
-            "text": "Seems like we caused you quite a bit of trouble, huh? Sorry, Trainer. The earlier LANE messages were a joke that Kraft and I thought up."
+            "text": "Seems like we caused you quite a bit of trouble, huh? \nSorry, Trainer. The earlier LANE messages were a \njoke that Kraft and I thought up.",
+            "name": "Cesario"
         },
         {
+            "text": "Lately, Trainer-san, it looks like you've always \nbeen deep in thought……earlier today when I was training, \nit almost seemed like your eyes were spinning.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "But, that's why, even if it was a bit forceful, we wanted to \ntell you. ……Trainer-san, we both understand your feelings.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "You've put a lot of thought and heart in to it, haven't you? \nYou've been trying to keep the training even between Kraft and me.",
+            "name": "Cesario"
+        },
+        {
+            "text": "Isn't that something unbelievable!? To ensure that either \none of us wins, and since we're both on the same team, to \nbe able to give both of us equal guidance on how to win.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "It must have been hard to bear…… \nThank you very much.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "Trainer. For now, can you just believe in us……? \nUntil the 『Oka Sho』 can you leave the training to us?",
+            "name": "Cesario"
+        },
+        {
+            "text": "Of course, if we're really troubled we'll ask \nfor help though! However, how should I say it…… \nfor now, we just want you to watch over us.",
+            "name": "Rhein Kraft"
+        },
+        {
+            "text": "We'll train with all our strength, and we'll win. \nAt the 『Oka Sho』――for sure!",
             "name": "Rhein Kraft",
-            "text": "Lately, Trainer-san, it looks like you've always been deep in thought……earlier today when I was training, it almost seemed like your eyes were spinning."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "But, that's why, even if it was a bit forceful, we wanted to tell you. ……Trainer-san, we both understand your feelings."
-        },
-        {
-            "name": "Cesario",
-            "text": "You've put a lot of thought and heart in to it, haven't you? You've been trying to keep the training even between Kraft and me."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Isn't that something unbelievable!? To ensure that either one of us wins, and since we're both on the same team, to be able to give both of us equal guidance on how to win."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "It must have been hard to bear…… Thank you very much."
-        },
-        {
-            "name": "Cesario",
-            "text": "Trainer. For now, can you just believe in us……? Until the 『Oka Sho』 can you leave the training to us?"
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "Of course, if we're really troubled we'll ask for help though! However, how should I say it…… for now, we just want you to watch over us."
-        },
-        {
-            "name": "Rhein Kraft",
-            "text": "We'll train with all our strength, and we'll win. At the 『Oka Sho』――for sure!",
             "choice_data_list": [
                 "Kraft, Cesario……"
             ]
         },
         {
-            "text": "――Ahh, damnit!!"
+            "text": "――Ahh, damnit!!",
+            "name": "<username>"
         },
         {
-            "text": "――Ahh, geez!"
+            "text": "――Ahh, geez!",
+            "name": "<username>"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Eh, eh!? T-Trainer-san!?"
+            "text": "Eh, eh!? T-Trainer-san!?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Oh……! Your cheeks are turning bright red! We should get some ice!"
+            "text": "Oh……! Your cheeks are turning bright red! \nWe should get some ice!",
+            "name": "Cesario"
         },
         {
-            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide it and had to have you two do that for me……"
+            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
+            "name": "<username>"
         },
         {
-            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide it and had to have you two do that for me……"
+            "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
+            "name": "<username>"
         },
         {
-            "text": "……I'm sure this won't be the last time. But, I'm your trainer. I can't have you do everything……will you let me help you?"
+            "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
+            "name": "<username>"
         },
         {
-            "text": "……I'm sure this won't be the last time. But, I'm your trainer. I can't have you do everything……will you let me help you?"
+            "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
+            "name": "<username>"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Trainer-san……! Fufuu. ……As I thought, you really are someone that won't give up!"
+            "text": "Trainer-san……! Fufuu. \n……As I thought, you really are someone that won't give up!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Yes, please do. ……I look forward to working with you, Trainer."
+            "text": "Yes, please do. ……I look forward to working with you, Trainer.",
+            "name": "Cesario"
         },
         {
-            "text": "They both gave me a clear response. I was greatly encouraged by their growth……"
+            "text": "They both gave me a clear response. \nI was greatly encouraged by their growth……"
         }
     ]
 }

@@ -1,337 +1,370 @@
 {
     "text_block_list": [
         {
-            "text": "(…huh? Why am I looking at the ceiling…?)"
+            "text": "(…huh? Why am I looking at the ceiling…?)",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Have you come to your senses, Trainer-san?"
+            "text": "Have you come to your senses, Trainer-san?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "McQueen…? This is… the school infirmary…?"
+            "text": "McQueen…? This is… the school infirmary…?",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Lately, I knew you were staying late working on something, but I never thought you'd keep going until you collapsed."
+            "text": "Lately, I knew you were staying late working on something, \nbut I never thought you'd keep going until you collapsed.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I must have been pushing myself way too hard, it sounds like I collapsed."
+            "text": "I must have been pushing myself way too \nhard, it sounds like I collapsed."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Luckily, nothing too serious seems to have happened. …So, why have you been exerting yourself to the point where you would collapse?"
+            "text": "Luckily, nothing too serious seems to have happened. \n…So, why have you been exerting yourself to \nthe point where you would collapse?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "That's… There was just something I needed to investigate to help Suzuka win…"
+            "text": "That's… There was just something \nI needed to investigate to help Suzuka win…",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "To help Suzuka win?"
+            "text": "To help Suzuka win?",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Considering Suzuka-san's current condition, there doesn't seem to be anything that should cause that much worry… is that really the reason?"
+            "text": "Considering Suzuka-san's current condition, there \ndoesn't seem to be anything that should cause that \nmuch worry… is that really the reason?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "To help her win isn't a lie, but it's not the whole truth either. She saw through that half-hearted answer almost immediately."
+            "text": "To help her win isn't a lie, but it's not the whole truth either. \nShe saw through that half-hearted answer almost immediately."
         },
         {
-            "text": "After causing you to worry that much, I guess I can't stay quiet…"
+            "text": "After causing you to worry that much, \nI guess I can't stay quiet…",
+            "name": "<username>"
         },
         {
-            "text": "After causing you to worry that much, I guess I can't stay quiet…"
+            "text": "After causing you to worry that much, \nI guess I can't stay quiet…",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "The risks of Suzuka-san's running style…"
+            "text": "The risks of Suzuka-san's running style…",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Suzuka's running-style is truly dream-like. Even I can hardly control how excited I am to see her next race."
+            "text": "Suzuka's running-style is truly dream-like. Even I can hardly \ncontrol how excited I am to see her next race.",
+            "name": "<username>"
         },
         {
-            "text": "But, I can't help wondering. What lies ahead for Suzuka… with that overwhelming running style."
+            "text": "But, I can't help wondering. What lies ahead for Suzuka… \nwith that overwhelming running style.",
+            "name": "<username>"
         },
         {
-            "text": "But, I can't help wondering. What lies ahead for Suzuka… with that overwhelming running style."
+            "text": "But, I can't help wondering. What lies ahead for Suzuka… \nwith that overwhelming running style.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…what might happen to her in the worst case. That's what you want to say, isn't it?"
+            "text": "…what might happen to her in the worst case. \nThat's what you want to say, isn't it?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Of course. I absolutely refuse to let anything like that happen. But, I can't figure out… what I can do right now…"
+            "text": "Of course. I absolutely refuse to let anything like that happen. \nBut, I can't figure out… what I can do right now…",
+            "name": "<username>"
         },
         {
-            "text": "Of course. I absolutely refuse to let anything like that happen. But, I can't figure out… what I can do right now…"
+            "text": "Of course. I absolutely refuse to let anything like that happen. \nBut, I can't figure out… what I can do right now…",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…"
+            "text": "…",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "How about this for a start? Take a moment… and just relax."
+            "text": "How about this for a start? Take a moment… and just relax.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "McQueen…"
+            "text": "McQueen…",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san, I don't believe that that worst case will happen."
+            "text": "Trainer-san, I don't believe that that worst case will happen.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san, have you ever heard this before? Uma Musume bear many \"feelings\" as they run."
+            "text": "Trainer-san, have you ever heard this before? \nUma Musume bear many \"feelings\" as they run.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I think Agnes Tachyon said something like that. Uma Musume bear \"feelings\" as they run, she said."
+            "text": "I think Agnes Tachyon said something like that. \nUma Musume bear \"feelings\" as they run, she said.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "In the process of fulfilling their dreams, Uma Musume will often feel that they are approaching their limits. Sometimes physically, and sometimes mentally."
+            "text": "In the process of fulfilling their dreams, Uma Musume will often \nfeel that they are approaching their limits. Sometimes \nphysically, and sometimes mentally.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Anymore than this is impossible, anymore than this is my limit. Even I've felt that many times. It's probably the same for everyone else in <Sirius> too."
+            "text": "Anymore than this is impossible, anymore than this is my limit. \nEven I've felt that many times. It's probably the same for \neveryone else in ＜Sirius＞ too.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "However, overcoming that is what it means to be an \"Uma Musume\". Once you've overcome it once, it no longer remains a limit."
+            "text": "However, overcoming that is what it means to be an \"Uma Musume\". \nOnce you've overcome it once, it no longer remains a limit.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Those who believe in us, and together with us, chase our dreams. As long as we have those \"feelings\", \"Uma Musume\" can do anything."
+            "text": "Those who believe in us, and together with us, \nchase our dreams. As long as we have those \"feelings\", \n\"Uma Musume\" can do anything.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "After all, aren't you the one that proved that to us?"
+            "text": "After all, aren't you the one that proved that to us?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "I did…?"
+            "text": "I did…?",
+            "name": "<username>"
         },
         {
-            "text": "I did…?"
+            "text": "I did…?",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "When we were on the verge of breaking, who was it that supported us? When we were chasing after our dreams, who was it that saw them together with us?"
+            "text": "When we were on the verge of breaking, who was it that supported \nus? When we were chasing after our dreams, who was it that saw \nthem together with us?",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san was always there by our side, that's why we were able to make it to where we are now."
+            "text": "Trainer-san was always there by our side, that's why \nwe were able to make it to where we are now.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "You granted us dreams that we could never have envisioned before."
+            "text": "You granted us dreams that we could never have envisioned before.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "To devote so much to just one team member, I'm truly thankful."
+            "text": "To devote so much to just one team member, \nI'm truly thankful.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Even with that, I'll show you that I can continue running while bearing everyone's expectations! As the team's \"Ace\"!"
+            "text": "Even with that, I'll show you that I can continue running while \nbearing everyone's expectations! As the team's \"Ace\"!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Rice Shower",
-            "text": "Even Rice… wants to win!"
+            "text": "Even Rice… wants to win!",
+            "name": "Rice Shower"
         },
         {
-            "name": "Rice Shower",
-            "text": "That's why, for the sake of everyone's smiling faces, I'll do my best in today's race, too."
+            "text": "That's why, for the sake of everyone's smiling faces, \nI'll do my best in today's race, too.",
+            "name": "Rice Shower"
         },
         {
-            "name": "Winning Ticket",
-            "text": "I want to win! It's been my dream ever since I was small! I'm scared, but there's no way I'm going to give up!! UWAAAAAAHH—!!"
+            "text": "I want to win! It's been my dream ever since I was small! I'm \nscared, but there's no way I'm going to give up!! UWAAAAAAHH—!!",
+            "name": "Winning Ticket"
         },
         {
-            "name": "Winning Ticket",
-            "text": "Of course! From now on, let's continue running together, all 3 of us! Alright! Let's aim for what comes after the Derby~!!"
+            "text": "Of course! From now on, let's continue running together, all 3 of \nus! Alright! Let's aim for what comes after the Derby~!!",
+            "name": "Winning Ticket"
         },
         {
-            "name": "Narita Brian",
-            "text": "With this much support, and the desire for victory - these feelings won't waver!"
+            "text": "With this much support, and the desire for \nvictory - these feelings won't waver!",
+            "name": "Narita Brian"
         },
         {
-            "name": "Narita Brian",
-            "text": "However, I don't intend to be satisfied with just this. With this longing to run, I will continue to move forward."
+            "text": "However, I don't intend to be satisfied with just this. \nWith this longing to run, I will continue to move forward.",
+            "name": "Narita Brian"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Even if Suzuka-san's path leads her to her limits, everything will certainly be fine. Without fail, she will overcome."
+            "text": "Even if Suzuka-san's path leads her to her limits, everything \nwill certainly be fine. Without fail, she will overcome.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "After all, Trainer-san you've entrusted such strong \"feelings\", to Suzuka-san."
+            "text": "After all, Trainer-san you've entrusted such strong \"feelings\", \nto Suzuka-san.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Mejiro McQueen and the other members. No matter how many times they reached their limits, every time, they eventually overcome and grasp their dreams."
+            "text": "Mejiro McQueen and the other members. No matter how many times \nthey reached their limits, every time, they eventually overcome \nand grasp their dreams."
         },
         {
-            "text": "That's how I've lived as a trainer. Believing in, supporting, and gently giving them the push forward they need."
+            "text": "That's how I've lived as a trainer. Believing in, supporting, and \ngently giving them the push forward they need."
         },
         {
-            "text": "That's how I've lived as a trainer. Believing in, supporting, and gently giving them the push forward they need."
+            "text": "That's how I've lived as a trainer. Believing in, supporting, and \ngently giving them the push forward they need."
         },
         {
-            "text": "In that case, the one thing I should be doing for Silence Suzuka, isn't increasing the number of anxieties she has, I need to-",
+            "text": "In that case, the one thing I should be doing for Silence Suzuka, \nisn't increasing the number of anxieties she has, I need to-",
             "choice_data_list": [
-                "Look at the \"scenery\" that Suzuka is showing me!",
-                "Look at the \"scenery\" that Suzuka is showing me!"
+                "<size=33>Look at the \"scenery\" that Suzuka is showing me!</size>",
+                "<size=33>Look at the \"scenery\" that Suzuka is showing me!</size>"
             ]
         },
         {
-            "text": "In that case, the one thing I should be doing for Silence Suzuka, isn't increasing the number of anxieties she has, I need to-",
+            "text": "In that case, the one thing I should be doing for Silence Suzuka, \nisn't increasing the number of anxieties she has, I need to-",
             "choice_data_list": [
-                "Look at the \"scenery\" that Suzuka is showing me!",
-                "Look at the \"scenery\" that Suzuka is showing me!"
+                "<size=33>Look at the \"scenery\" that Suzuka is showing me!</size>",
+                "<size=33>Look at the \"scenery\" that Suzuka is showing me!</size>"
             ]
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "If it's Suzuka-san, she's probably still running on the course. Please, go give her that gentle push."
+            "text": "If it's Suzuka-san, she's probably still running on the course. \nPlease, go give her that gentle push.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Silence Suzuka came to this team, believing in me. And then for the sake of seeing that \"scenery\" together, she ran."
+            "text": "Silence Suzuka came to this team, believing in me. And then for \nthe sake of seeing that \"scenery\" together, she ran."
         },
         {
-            "text": "Silence Suzuka came to this team, believing in me. And then for the sake of seeing that \"scenery\" together, she ran."
+            "text": "Silence Suzuka came to this team, believing in me. And then for \nthe sake of seeing that \"scenery\" together, she ran."
         },
         {
-            "text": "Even with that, I spent so much time continuing to worry about her not being able to run, that I lost sight of that \"scenery\"-"
+            "text": "Even with that, I spent so much time continuing to worry about \nher not being able to run, that I lost sight of that \"scenery\"-"
         },
         {
-            "text": "Even with that, I spent so much time continuing to worry about her not being able to run, that I lost sight of that \"scenery\"-"
+            "text": "Even with that, I spent so much time continuing to worry about \nher not being able to run, that I lost sight of that \"scenery\"-"
         },
         {
-            "text": "Suzuka…!!"
+            "text": "Suzuka…!!",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Trainer-san…?"
+            "text": "Trainer-san…?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Suzuka, I have something I need to apologize for."
+            "text": "Suzuka, I have something I need to apologize for.",
+            "name": "<username>"
         },
         {
-            "text": "Suzuka, I have something I need to apologize for."
+            "text": "Suzuka, I have something I need to apologize for.",
+            "name": "<username>"
         },
         {
-            "text": "This whole time I've been teaching you how to run and train. …But, I didn't tell you the most important thing."
+            "text": "This whole time I've been teaching you how to run and train. \n…But, I didn't tell you the most important thing.",
+            "name": "<username>"
         },
         {
-            "text": "This whole time I've been teaching you how to run and train. …But, I didn't tell you the most important thing."
+            "text": "This whole time I've been teaching you how to run and train. \n…But, I didn't tell you the most important thing.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "The most important thing… is it?"
+            "text": "The most important thing… is it?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Just seeing you fulfilled was more than enough. Just seeing you like that, greatly expanded my hopes and expectations."
+            "text": "Just seeing you fulfilled was more than enough. Just seeing you \nlike that, greatly expanded my hopes and expectations.",
+            "name": "<username>"
         },
         {
-            "text": "Just seeing you fulfilled was more than enough. Just seeing you like that, greatly expanded my hopes and expectations."
+            "text": "Just seeing you fulfilled was more than enough. Just seeing you \nlike that, greatly expanded my hopes and expectations.",
+            "name": "<username>"
         },
         {
-            "text": "But, at the same time my worries grew. I started thinking that your body couldn't endure that running style…"
+            "text": "But, at the same time my worries grew. I started thinking that \nyour body couldn't endure that running style…",
+            "name": "<username>"
         },
         {
-            "text": "But, at the same time my worries grew. I started thinking that your body couldn't endure that running style…"
+            "text": "But, at the same time my worries grew. I started thinking that \nyour body couldn't endure that running style…",
+            "name": "<username>"
         },
         {
-            "text": "The more I watched you run, the more the worst case started looking like the most likely case."
+            "text": "The more I watched you run, the more the worst case started \nlooking like the most likely case.",
+            "name": "<username>"
         },
         {
-            "text": "The more I watched you run, the more the worst case started looking like the most likely case."
+            "text": "The more I watched you run, the more the worst case started \nlooking like the most likely case.",
+            "name": "<username>"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "That's the reason Trainer-san was uneasy… You were worried about me…"
+            "text": "That's the reason Trainer-san was uneasy… \nYou were worried about me…",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "But that's the same as not believing in you. I started believing you wouldn't be able to continue running."
+            "text": "But that's the same as not believing in you. \nI started believing you wouldn't be able to continue running.",
+            "name": "<username>"
         },
         {
-            "text": "But that's the same as not believing in you. I started believing you wouldn't be able to continue running."
+            "text": "But that's the same as not believing in you. \nI started believing you wouldn't be able to continue running.",
+            "name": "<username>"
         },
         {
-            "text": "Suzuka… I want to go with you wherever you go. I want to see that \"scenery\" we promised to see together!"
+            "text": "Suzuka… I want to go with you wherever you go. \nI want to see that \"scenery\" we promised to see together!",
+            "name": "<username>"
         },
         {
-            "text": "Suzuka… I want to go with you wherever you go. I want to see that \"scenery\" we promised to see together!"
+            "text": "Suzuka… I want to go with you wherever you go. \nI want to see that \"scenery\" we promised to see together!",
+            "name": "<username>"
         },
         {
-            "text": "That's why, I believe in you! The only thing I need to do as a trainer, is believe in you! That's why-",
+            "text": "That's why, I believe in you! The only thing I need to do as a \ntrainer, is believe in you! That's why-",
+            "name": "<username>",
             "choice_data_list": [
                 "Run to your heart's content, Suzuka!!",
                 "Run to your heart's content, Suzuka!!"
             ]
         },
         {
-            "text": "That's why, I believe in you! The only thing I need to do as a trainer, is believe in you! That's why-",
+            "text": "That's why, I believe in you! The only thing I need to do as a \ntrainer, is believe in you! That's why-",
+            "name": "<username>",
             "choice_data_list": [
                 "Run to your heart's content, Suzuka!!",
                 "Run to your heart's content, Suzuka!!"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Trainer-san…"
+            "text": "Trainer-san…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…understood. I'll run to my heart's content. From now on, I'll continue to run in front to the goal, and take hold of my dream."
+            "text": "…understood. I'll run to my heart's content. From now on, I'll \ncontinue to run in front to the goal, and take hold of my dream.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Because I believe in Trainer-san too."
+            "text": "Because I believe in Trainer-san too.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Thinking about it calmly, we both said some embarassing things just now- but those words blew away all those worries."
+            "text": "Thinking about it calmly, we both said some embarassing things \njust now- but those words blew away all those worries."
         },
         {
-            "text": "Can you promise me one more thing? Continue running in front to the goal, and after that, without fail-",
+            "text": "Can you promise me one more thing? Continue running in front to \nthe goal, and after that, without fail-",
+            "name": "<username>",
             "choice_data_list": [
                 "Without fail, return to my side.",
                 "Without fail, return to my side."
             ]
         },
         {
-            "text": "Can you promise me one more thing? Continue running in front to the goal, and after that, without fail-",
+            "text": "Can you promise me one more thing? Continue running in front to \nthe goal, and after that, without fail-",
+            "name": "<username>",
             "choice_data_list": [
                 "Without fail, return to my side.",
                 "Without fail, return to my side."
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Of course. I've received Trainer-san's \"feelings\", after all."
+            "text": "…Of course. \nI've received Trainer-san's \"feelings\", after all.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I promise, that I'll definitely return."
+            "text": "I promise, that I'll definitely return.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Commentator",
-            "text": "They round the final corner, entering the final straight! In the lead is Silence Suzuka! But the others are closing in!!"
+            "text": "They round the final corner, entering the final straight! \nIn the lead is Silence Suzuka! But the others are closing in!!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "Air Groove, from the outside! Air Groove closes the gap!! Will the lead change here?!"
+            "text": "Air Groove, from the outside! Air Groove closes the gap!! \nWill the lead change here?!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "But she won't give up the lead! Silence Suzuka, it's Silence Suzuka! Entering the last straight her pace doesn't falter!"
+            "text": "But she won't give up the lead! Silence Suzuka, it's Silence \nSuzuka! Entering the last straight her pace doesn't falter!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "Silence Suzuka, now - crosses the goal!! With her \"Escape and Follow Through\", she's splendidly put her hands on this grand prix trophy!!"
+            "text": "Silence Suzuka, now - crosses the goal!! With her \n\"Escape and Follow Through\", she's splendidly put \nher hands on this grand prix trophy!!",
+            "name": "Commentator"
         },
         {
             "text": "Those we call \"Uma Musume\", run bearing our \"feelings\" with them-"
         },
         {
-            "text": "Without a doubt, in today's race, it felt like I was there running beside Silence Suzuka."
+            "text": "Without a doubt, in today's race, \nit felt like I was there running beside Silence Suzuka."
         }
     ]
 }

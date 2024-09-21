@@ -1,161 +1,161 @@
 {
     "text_block_list": [
         {
-            "text": "A day off. Accompanying Fine Motion as her guardian, the two of us headed to the mountain behind the school."
+            "text": "A day off. Accompanying Fine Motion as her guardian, the two of \nus headed to the mountain behind the school."
         },
         {
-            "name": "Fine Motion",
-            "text": "Fuu… haa! Yeah, the forest air is refreshing, isn't it? The smell reminds me of the morning dew in my garden."
+            "text": "Fuu… haa! Yeah, the forest air is refreshing, isn't it? \nThe smell reminds me of the morning dew in my garden.",
+            "name": "Fine Motion"
         },
         {
+            "text": "\"…well then, Trainer-sama. Sorry to impose upon you but, in \nregards to Her Highness, you have my sincere thanks.\"",
             "name": "SP Commander (phone)",
-            "text": "\"…well then, Trainer-sama. Sorry to impose upon you but, in regards to Her Highness, you have my sincere thanks.\"",
             "choice_data_list": [
                 "Please leave it to me."
             ]
         },
         {
+            "text": "Fufufu, thank you, Trainer. It's precisely because I'm with you \nthat I was able to have some free time and come here.",
             "name": "Fine Motion",
-            "text": "Fufufu, thank you, Trainer. It's precisely because I'm with you that I was able to have some free time and come here.",
             "choice_data_list": [
                 "By the way, where are we headed?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Oh! That's a great question, isn't it? Fufufu, you see, today-"
+            "text": "Oh! That's a great question, isn't it? \nFufufu, you see, today-",
+            "name": "Fine Motion"
         },
         {
+            "text": "…there isn't really a destination! It's just \nthat I thought it would be lovely to take a walk \nwith you surrounded by nature like this.",
             "name": "Fine Motion",
-            "text": "…there isn't really a destination! It's just that I thought it would be lovely to take a walk with you surrounded by nature like this.",
             "choice_data_list": [
                 "Is that how it is?",
                 "Is that how it is?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Well, but… you see? You never know, something special might happen, perhaps."
+            "text": "Well, but… you see? \nYou never know, something special might happen, perhaps.",
+            "name": "Fine Motion"
         },
         {
-            "text": "She definitely seems to be hiding something, but let's leave that aside for now. Let's just keep walking together with Fine Motion, mindlessly-"
+            "text": "She definitely seems to be hiding something, but \nlet's leave that aside for now. Let's just keep \nwalking together with Fine Motion, mindlessly-"
         },
         {
+            "text": "-Fuu, thanks for the meal. Yep, the quality of this Deluxe Cold \nNoodle Bentou is quite good, if I do say so myself.",
             "name": "Fine Motion",
-            "text": "-Fuu, thanks for the meal. Yep, the quality of this Deluxe Cold Noodle Bentou is quite good, if I do say so myself.",
             "choice_data_list": [
                 "We've walked pretty far…",
                 "We've walked pretty far…"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "That's true. All we can hear are the sound of this small river, birds, and insects… it's like we're in a strange new world."
+            "text": "That's true. All we can hear are the sound of this small river, \nbirds, and insects… it's like we're in a strange new world.",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
-            "text": "…it kind of reminds me of a story from my childhood. The scene where the hero and the kidnapped princess escape through the forest…"
+            "text": "…it kind of reminds me of a story from my childhood. \nThe scene where the hero and the kidnapped princess \nescape through the forest…",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
-            "text": "And then, the fearsome dragon comes to take back the princess, suddenly attacking. They were deep in the forest, just like us."
+            "text": "And then, the fearsome dragon comes to take back the princess, \nsuddenly attacking. They were deep in the forest, just like us.",
+            "name": "Fine Motion"
         },
         {
+            "text": "…Fufu. It almost feels like, a dragon \ncould appear at any moment.",
             "name": "Fine Motion",
-            "text": "…Fufu. It almost feels like, a dragon could appear at any moment.",
             "choice_data_list": [
                 "There's no way…"
             ]
         },
         {
+            "text": "But- if it did? If something like that really did happen… \nWould you… protect me?",
             "name": "Fine Motion",
-            "text": "But- if it did? If something like that really did happen… Would you… protect me?",
             "choice_data_list": [
                 "If that really happened, yes",
                 "If that really happened, yes"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Really?! That makes me happy! Aa, somehow that makes me kind of wish a dragon would appear-"
+            "text": "Really?! That makes me happy! \nAa, somehow that makes me kind of wish a dragon would appear-",
+            "name": "Fine Motion"
         },
         {
-            "name": "???",
             "text": "(ROOOOOOOOAR…!)",
+            "name": "???",
             "choice_data_list": [
                 "W-what?!",
                 "W-what?!"
             ]
         },
         {
+            "text": "-Ah! Trainer, look! \nFrom the river…!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "ROOOOOOOOOAR!!!!",
+            "name": "Dragon"
+        },
+        {
+            "text": "What appeared from the water was… something that \nlooked like an old drawing of a Tyrannosaurus with \ntwo wings sitting awkwardly on its back-"
+        },
+        {
+            "text": "-It's a dragon! \nOh no, it's coming right for us!",
             "name": "Fine Motion",
-            "text": "-Ah! Trainer, look! From the river…!"
-        },
-        {
-            "name": "Dragon",
-            "text": "ROOOOOOOOOAR!!!!"
-        },
-        {
-            "text": "What appeared from the water was… something that looked like an old drawing of a Tyrannosaurus with two wings sitting awkwardly on its back-"
-        },
-        {
-            "name": "Fine Motion",
-            "text": "-It's a dragon! Oh no, it's coming right for us!",
             "choice_data_list": [
                 "E-…ehhh?"
             ]
         },
         {
-            "text": "It might have been my imagination, but its movements seemed unnatural or forced… It was even standing there posing with its arms in the shape of a cross…"
+            "text": "It might have been my imagination, but its movements seemed \nunnatural or forced… It was even standing there posing with \nits arms in the shape of a cross…"
         },
         {
-            "name": "Fine Motion",
-            "text": "Aaah! At this rate… just like this… It'll turn us in to tasty treats!!"
+            "text": "Aaah! At this rate… just like this… \nIt'll turn us in to tasty treats!!",
+            "name": "Fine Motion"
         },
         {
+            "text": "Uu, won't someone become our hero and \ndefeat this fearsome dragon…?",
             "name": "Fine Motion",
-            "text": "Uu, won't someone become our hero and defeat this fearsome dragon…?",
             "choice_data_list": [
                 "…I guess I have no choice!"
             ]
         },
         {
-            "name": "Dragon",
-            "text": "ROOOOAR!!!"
+            "text": "ROOOOAR!!!",
+            "name": "Dragon"
         },
         {
-            "name": "Fine Motion",
-            "text": "Do your best, Hero! The glory of victory is in your hands!"
+            "text": "Do your best, Hero! \nThe glory of victory is in your hands!",
+            "name": "Fine Motion"
         },
         {
-            "text": "And so… our not-so-violent scuffle to see who could outlast the other began. After 5 to 10 minutes-"
+            "text": "And so… our not-so-violent scuffle to see who could outlast the \nother began. After 5 to 10 minutes-"
         },
         {
-            "name": "Dragon",
-            "text": "Guaaaaa…!! You got me…!!"
+            "text": "Guaaaaa…!! You got me…!!",
+            "name": "Dragon"
         },
         {
-            "name": "Fine Motion",
-            "text": "Splendid! It was an amazing fight, Trainer!"
+            "text": "Splendid! It was an amazing fight, Trainer!",
+            "name": "Fine Motion"
         },
         {
-            "text": "But, at that moment. The defeated dragon stood again, and abruptly took off its head… wait, took off its head!?"
+            "text": "But, at that moment. The defeated dragon stood again, and \nabruptly took off its head… wait, took off its head!?"
         },
         {
-            "name": "SP Commander",
             "text": "Fufufu… Congratulations.",
+            "name": "SP Commander",
             "choice_data_list": [
                 "…what the…?",
                 "…what the…?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufu… 1, 2-!"
+            "text": "Fufu… 1, 2-!",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine & Commander",
-            "text": "You got punk'd!"
+            "text": "You got punk'd!",
+            "name": "Fine & Commander"
         },
         {
             "text": "…well, I suspected as much.",
@@ -164,111 +164,114 @@
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufufu… a little while ago, remember how we returned that lost cat to its owner?"
+            "text": "Fufufu… a little while ago, \nremember how we returned that lost cat to its owner?",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
-            "text": "At that time, remember how wonderful it was? So I tried preparing something similar for today!"
+            "text": "At that time, remember how wonderful it was? \nSo I tried preparing something similar for today!",
+            "name": "Fine Motion"
         },
         {
-            "name": "Fine Motion",
             "text": "…what did you think of our surprise prank?",
+            "name": "Fine Motion",
             "choice_data_list": [
-                "I suppose I was surprised… but it was fun."
+                "<size=39>I suppose I was surprised… but it was fun.</size>"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "That's good! That makes rehearsing it at school worth it!"
+            "text": "That's good! That makes rehearsing it at school worth it!",
+            "name": "Fine Motion"
         },
         {
+            "text": "On top of that, you kept your promise, didn't you? \nWhen the dragon appeared, you protected me.",
             "name": "Fine Motion",
-            "text": "On top of that, you kept your promise, didn't you? When the dragon appeared, you protected me.",
             "choice_data_list": [
                 "I guess so.",
                 "I guess so."
             ]
         },
         {
+            "text": "…Fufu. Thanks.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "After that, the 3 of us continued walking… \nWe headed back after we enjoyed the view from the summit."
+        },
+        {
+            "text": "-Oh! Welcome, little lady. \nDo you want the usual?",
+            "name": "Extreme Noodle Shopkeeper"
+        },
+        {
+            "text": "Yeah, if you don't mind.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Fuu… it kind of feels like we're home. \nGood work today, both of you.",
             "name": "Fine Motion",
-            "text": "…Fufu. Thanks."
-        },
-        {
-            "text": "After that, the 3 of us continued walking… We headed back after we enjoyed the view from the summit."
-        },
-        {
-            "text": "-Oh! Welcome, little lady. Do you want the usual?"
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Yeah, if you don't mind."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "Fuu… it kind of feels like we're home. Good work today, both of you.",
             "choice_data_list": [
                 "Well yeah, there was a battle…",
                 "Well yeah, there was a battle…"
             ]
         },
         {
-            "name": "SP Commander",
-            "text": "Fu… I'm used to this. In the past, Her Highness awarded me a hand-made medal for my dragon act."
+            "text": "Fu… I'm used to this. In the past, Her Highness awarded me a \nhand-made medal for my dragon act.",
+            "name": "SP Commander"
         },
         {
-            "name": "Fine Motion",
-            "text": "Fufu, that's a nostalgic topic. If I remember correctly, the \"Worked Hard At Being A Dragon Award\". I think I made it from flowers, branches, and clovers…"
+            "text": "Fufu, that's a nostalgic topic. If I remember correctly, the \n\"Worked Hard At Being A Dragon Award\". I think I made it from \nflowers, branches, and clovers…",
+            "name": "Fine Motion"
         },
         {
+            "text": "That's right. In that case I should prepare something for \nTrainer. How does the \"Dragon Slayer Cross\" sound?",
             "name": "Fine Motion",
-            "text": "That's right. In that case I should prepare something for Trainer. How does the \"Dragon Slayer Cross\" sound?",
             "choice_data_list": [
                 "S-sounds Fine.",
                 "S-sounds Fine."
             ]
         },
         {
-            "name": "SP Commander",
-            "text": "Congratulations. But it's still nothing compared to the glory of my \"Enthusiastic Witch Performance\" and \"Holy Castle Role\" medals…"
+            "text": "Congratulations. But it's still nothing compared \nto the glory of my \"Enthusiastic Witch Performance\" \nand \"Holy Castle Role\" medals…",
+            "name": "SP Commander"
         },
         {
-            "text": "-Order up. 3 lightly salted, large size."
+            "text": "-Order up. 3 lightly salted, large size.",
+            "name": "Extreme Noodle Shopkeeper"
         },
         {
+            "text": "…Huh?! I don't think I ordered corn \nand bamboo shoot as toppings…",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Isn't this \"The Usual\" for you? \nIt's on the house today, so just enjoy.",
+            "name": "Extreme Noodle Shopkeeper"
+        },
+        {
+            "text": "! Thank you very much! \nThen, with pleasure.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "…\"The usual,\" huh? Not special, just the usual.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "-Fufu. At some point, eating ramen and talking with my friends \nlike this just became \"the usual,\" didn't it?",
             "name": "Fine Motion",
-            "text": "…Huh?! I don't think I ordered corn and bamboo shoot as toppings…"
-        },
-        {
-            "text": "Isn't this \"The Usual\" for you? It's on the house today, so just enjoy."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "! Thank you very much! Then, with pleasure."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "…\"The usual,\" huh? Not special, just the usual."
-        },
-        {
-            "name": "Fine Motion",
-            "text": "-Fufu. At some point, eating ramen and talking with my friends like this just became \"the usual,\" didn't it?",
             "choice_data_list": [
                 "That's true.",
                 "That's true."
             ]
         },
         {
-            "name": "Fine Motion",
             "text": "…For me, it's possible that-",
+            "name": "Fine Motion",
             "choice_data_list": [
                 "What's wrong?",
                 "What's wrong?"
             ]
         },
         {
-            "name": "Fine Motion",
-            "text": "No, nothing. -Today was a really fun day, wasn't it?"
+            "text": "No, nothing. \n-Today was a really fun day, wasn't it?",
+            "name": "Fine Motion"
         }
     ]
 }

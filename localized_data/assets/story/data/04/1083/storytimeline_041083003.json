@@ -1,246 +1,246 @@
 {
     "text_block_list": [
         {
-            "text": "On that day as well, Symboli Kris S' 『Trainer Selection』 was continuing as planned, but――",
+            "text": "On that day as well, Symboli Kris S' 『Trainer Selection』 was \ncontinuing as planned, but――",
             "choice_data_list": [
                 "Eh, you're…… withdrawing?"
             ]
         },
         {
-            "name": "Mid-Rank Trainer A",
-            "text": "『Yeah, some work came up suddenly. So, if you wanted to watch, there won't be anything today』"
+            "text": "『Yeah, some work came up suddenly. So, if you wanted to watch, \nthere won't be anything today』",
+            "name": "Mid-Rank Trainer A"
         },
         {
-            "name": "Mid-Rank Trainer A",
-            "text": "[……Well, I've kinda lost confidence in being able to work with her though…… anyways, just letting you know!]"
+            "text": "[……Well, I've kinda lost confidence in being able to work with \nher though…… anyways, just letting you know!]",
+            "name": "Mid-Rank Trainer A"
         },
         {
-            "text": "He had already let Symboli Kris S know but…… I was kind of worried, so I went to see her."
+            "text": "He had already let Symboli Kris S know but…… \nI was kind of worried, so I went to see her."
         },
         {
+            "text": "――I was planning…… on training―― myself anyways. \n――So, no problem.",
             "name": "Symboli Kris S",
-            "text": "――I was planning…… on training―― myself anyways. ――So, no problem.",
             "choice_data_list": [
                 "If you'd like, I could help"
             ]
         },
         {
-            "text": "If things stayed like this, I was worried that Symboli Kris S would become isolated. I wondered if there was any way I could help her――"
+            "text": "If things stayed like this, I was worried that \nSymboli Kris S would become isolated. I wondered \nif there was any way I could help her――"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――……Yes."
+            "text": "――……Yes.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "And so, I was going to supervise Symboli Kris S' training for just the day, but――"
+            "text": "And so, I was going to supervise Symboli \nKris S' training for just the day, but――"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――……"
+            "text": "――……",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
             "text": "――Next, lunges. ――Any objections?",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "S-sounds fine! But――"
             ]
         },
         {
-            "text": "Symboli Kris S seemed to have designed the training menu to not cross a line that would put too much strain on her body."
+            "text": "Symboli Kris S seemed to have designed the training menu to not \ncross a line that would put too much strain on her body."
         },
         {
-            "text": "Because of this line―― she wasn't able to follow the menu that the trainers provided her."
+            "text": "Because of this line―― she wasn't able to follow the menu that \nthe trainers provided her."
         },
         {
-            "text": "It wasn't that she wanted to slack off or had reached her limit. It was probably because she wanted to avoid overworking herself at all costs.",
+            "text": "It wasn't that she wanted to slack off or had reached \nher limit. It was probably because she wanted to \navoid overworking herself at all costs.",
             "choice_data_list": [
-                "Why are you regulating this so strictly?"
+                "<size=42>Why are you regulating this so strictly?</size>"
             ]
         },
         {
+            "text": "…… ……――",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "There was a long silence, but I knew she was just searching for \nthe right words. So―― I waited."
+        },
+        {
+            "text": "――――Back when…… I was in…… America.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "(――My body was weak. \nAnd, more than now…… I was bad at speaking)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Oh, are you okay? Are you tired?",
+            "name": "Hometown Coach"
+        },
+        {
+            "text": "(I wanted to run more―― if I rest, I can run more. \nEven though I thought that, I couldn't say it)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Kris S-san, you tire easily don't you? \nIt's fine, why don't we call it a day?",
+            "name": "Hometown Coach"
+        },
+        {
+            "text": "(Because of that, I couldn't get better at running. \nFor no other reason than I couldn't say it)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "――Pardon me. I'm from the Symboli family in Japan…… \nthat girl, would it be alright if I took a look at her?",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "――My mentor…… for the sake of raising the level of racing in \nJapan―― He came to scout…… promising Uma Musume, he said.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "In my case―― I probably…… wasn't promising. \nBut, he taught me ――Lots of things.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Even with a weak body―― training, was possible. ――If there were \nresults, people would come―― to evaluate them, he said.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "(To prevent strain on my body, training was strictly \nmanaged. Break time, meal time, play time too.)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Yeah, you're working hard, huh. If you keep it up…… \neven if it's a little at a time, your physique will improve.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "(I eventually asked him, why are you letting me work hard…… \neven if I'm not saying I want to run, why are you having me run?)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "……Because, even though the training is strict, you \ncontinue on. Your results say more than hearing \nthe 『Reasons』 of someone who's done nothing.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "If you can't speak, then that's fine. \nSay it with your results.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "――That's fine, he said. \nThat's why―― I started to think it's fine.",
             "name": "Symboli Kris S",
-            "text": "…… ……――"
-        },
-        {
-            "text": "There was a long silence, but I knew she was just searching for the right words. So―― I waited."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――――Back when…… I was in…… America."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(――My body was weak. And, more than now…… I was bad at speaking)"
-        },
-        {
-            "name": "Hometown Coach",
-            "text": "Oh, are you okay? Are you tired?"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(I wanted to run more―― if I rest, I can run more. Even though I thought that, I couldn't say it)"
-        },
-        {
-            "name": "Hometown Coach",
-            "text": "Kris S-san, you tire easily don't you? It's fine, why don't we call it a day?"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(Because of that, I couldn't get better at running. For no other reason than I couldn't say it)"
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "――Pardon me. I'm from the Symboli family in Japan…… that girl, would it be alright if I took a look at her?"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――My mentor…… for the sake of raising the level of racing in Japan―― He came to scout…… promising Uma Musume, he said."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "In my case―― I probably…… wasn't promising. But, he taught me ――Lots of things."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "Even with a weak body―― training, was possible. ――If there were results, people would come―― to evaluate them, he said."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(To prevent strain on my body, training was strictly managed. Break time, meal time, play time too.)"
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "Yeah, you're working hard, huh. If you keep it up…… even if it's a little at a time, your physique will improve."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(I eventually asked him, why are you letting me work hard…… even if I'm not saying I want to run, why are you having me run?)"
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "……Because, even though the training is strict, you continue on. Your results say more than hearing the 『Reasons』 of someone who's done nothing."
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "If you can't speak, then that's fine. Say it with your results."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――That's fine, he said. That's why―― I started to think it's fine.",
             "choice_data_list": [
                 "He accepted you as you were",
                 "He accepted you as you were"
             ]
         },
         {
+            "text": "……That's why, when my mentor―― said he would \nreturn to his country. I was able―― to finally \nsay…… that I didn't want him to go.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Sorry. I know you don't want me to leave―― \nBut, if I stop here, I won't be able to fulfill my mission.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "(I asked what that mission was. \nWhat mission is it that my mentor would prioritize so much?)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "Kris S, my mission…… \nis to revolutionize Japan's racing world.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "(His eyes were bright, and straight-forward)",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "As they are now, Japan's Uma Musume can't compete \nwith the world. But, I will change that. Starting \nwith what they call common sense.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "For that reason…… I'm inviting World level Uma Musume \nfrom all over the world. That was my main motive.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "That's right―― It's not what I had originally \nplanned but, I plan on mentioning you too.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "――An Uma Musume like you, will revolutionize the racing \nworld in Japan. One day, I believe that will happen.",
+            "name": "Kris S' Mentor"
+        },
+        {
+            "text": "――I will―",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "-become my mentor's results―― that's what I think.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "For that reason―― I continued to train. \n――After I kept getting results…… Rudolf appeared.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "After hearing about me from my mentor―― she \nhad always been watching. ――To change Japan, \nshe wanted me to run…… and invited me.",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "――Together with that gratitude―― all of it, for those 『Results』. \nTo be unbreakable, strong, building up a strong body――",
+            "name": "Symboli Kris S"
+        },
+        {
+            "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission.",
             "name": "Symboli Kris S",
-            "text": "……That's why, when my mentor―― said he would return to his country. I was able―― to finally say…… that I didn't want him to go."
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "Sorry. I know you don't want me to leave―― But, if I stop here, I won't be able to fulfill my mission."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(I asked what that mission was. What mission is it that my mentor would prioritize so much?)"
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "Kris S, my mission…… is to revolutionize Japan's racing world."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "(His eyes were bright, and straight-forward)"
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "As they are now, Japan's Uma Musume can't compete with the world. But, I will change that. Starting with what they call common sense."
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "For that reason…… I'm inviting World level Uma Musume from all over the world. That was my main motive."
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "That's right―― It's not what I had originally planned but, I plan on mentioning you too."
-        },
-        {
-            "name": "Kris S' Mentor",
-            "text": "――An Uma Musume like you, will revolutionize the racing world in Japan. One day, I believe that will happen."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――I will―"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "-become my mentor's results―― that's what I think."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "For that reason―― I continued to train. ――After I kept getting results…… Rudolf appeared."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "After hearing about me from my mentor―― she had always been watching. ――To change Japan, she wanted me to run…… and invited me."
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "――Together with that gratitude―― all of it, for those 『Results』. To be unbreakable, strong, building up a strong body――"
-        },
-        {
-            "name": "Symboli Kris S",
-            "text": "In this country, Japan―― to become an Uma Musume that could cause a revolution. ――That's my mission.",
             "choice_data_list": [
-                "……You're shouldering something amazing",
-                "……You're shouldering something amazing"
+                "<size=39>……You're shouldering something amazing</size>",
+                "<size=39>……You're shouldering something amazing</size>"
             ]
         },
         {
-            "text": "『Changing the racing world in Japan』 ――An arduous, fantastical mission like that, she's saying she'll definitely fulfill it."
+            "text": "『Changing the racing world in Japan』 ――An arduous, fantastical \nmission like that, she's saying she'll definitely fulfill it."
         },
         {
-            "text": "That's why she must have worked so hard to not strain her body in this important time before her debut.",
+            "text": "That's why she must have worked so hard to not strain \nher body in this important time before her debut.",
             "choice_data_list": [
                 "Thanks for telling me."
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――I'm the one ……that's grateful."
+            "text": "――I'm the one ……that's grateful.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――You came here ――watched and listened. I still haven't―― shown you any results. ……That's why."
+            "text": "――You came here ――watched and listened. \nI still haven't―― shown you any results. ……That's why.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "But was that true? Symboli Kris S seemed so focused on returning that gratitude, almost to the point of neglecting everything else."
+            "text": "But was that true? Symboli Kris S seemed so focused on returning \nthat gratitude, almost to the point of neglecting everything else."
         },
         {
-            "text": "After all, she was standing here because she had persevered through everything. The truth is――",
+            "text": "After all, she was standing here because she \nhad persevered through everything. The truth is――",
             "choice_data_list": [
-                "――I think your results are commendable"
+                "<size=40>――I think your results are commendable</size>"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……！"
+            "text": "……！",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――Is that so? …………Results――huh."
+            "text": "――Is that so? \n…………Results――huh.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Dignified but expressionless, certainly, it was hard to guess what she was thinking. However――"
+            "text": "Dignified but expressionless, certainly, \nit was hard to guess what she was thinking. However――"
         },
         {
-            "text": "If you face her with sincerity, she will return it. Hidden behind that veil was genuineness.",
+            "text": "If you face her with sincerity, she will return it. \nHidden behind that veil was genuineness.",
             "choice_data_list": [
                 "(I want to see eye to eye with her)"
             ]
         },
         {
-            "text": "If I'm lacking, then I want to change that. I had a strong desire to become a trainer that could support her."
+            "text": "If I'm lacking, then I want to change that. \nI had a strong desire to become a trainer that could support her."
         }
     ]
 }

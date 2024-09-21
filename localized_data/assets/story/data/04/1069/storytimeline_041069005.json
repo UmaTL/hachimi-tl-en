@@ -1,171 +1,171 @@
 {
     "text_block_list": [
         {
-            "text": "Some time after I became Sakura Chiyono O's trainer, on a day off-"
+            "text": "Some time after I became Sakura Chiyono \nO's trainer, on a day off-"
         },
         {
+            "text": "Ah, Trainer-san! \nGood afternoon.",
             "name": "Sakura Chiyono O",
-            "text": "Ah, Trainer-san! Good afternoon.",
             "choice_data_list": [
                 "Good Afternoon… self-training?"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Yeah! In preparation for the Derby, I need to train my body up a bit more!"
+            "text": "Yeah! In preparation for the Derby, \nI need to train my body up a bit more!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "Maruzen-san is… the person I look up to is, entrusting their \ndreams to me. That's why I definitely… have to fulfill it…!",
             "name": "Sakura Chiyono O",
-            "text": "Maruzen-san is… the person I look up to is, entrusting their dreams to me. That's why I definitely… have to fulfill it…!",
             "choice_data_list": [
                 "I'll do my best to support you!",
                 "I'll do my best to support you!"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Ehehe… Thank you very much!"
+            "text": "Ehehe… Thank you very much!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Well then, I'm going for another run, okay? \"Peach and chestnuts 3 years, persimmons 8, Japan Derby and a very strong faith\"!"
+            "text": "Well then, I'm going for another run, okay? \"Peach and chestnuts \n3 years, persimmons 8, Japan Derby and a very strong faith\"!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "text": "Even now, I still don't understand the true meaning of her proverbs, but Sakura Chiyono O definitely had a strong conviction."
+            "text": "Even now, I still don't understand the true \nmeaning of her proverbs, but Sakura Chiyono \nO definitely had a strong conviction."
         },
         {
-            "text": "For the sake of her dreams, I need to become her support- No, I want to become her support. I started feeling like that."
+            "text": "For the sake of her dreams, I need to become her support- \nNo, I want to become her support. I started feeling like that."
         },
         {
-            "text": "After that, after finishing my errand, I once again passed by the riverside when-"
+            "text": "After that, after finishing my errand, \nI once again passed by the riverside when-"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Face each other~… Ready your spirit!!"
+            "text": "Face each other~… Ready your spirit!!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
             "text": "Still in! You're still in!",
+            "name": "Sakura Chiyono O",
             "choice_data_list": [
                 "(This is… sumo?)"
             ]
         },
         {
-            "name": "Sumo-loving horsegirl A",
-            "text": "Haaaaaa!"
+            "text": "Haaaaaa!",
+            "name": "Sumo-loving horsegirl A"
         },
         {
+            "text": "Eh?! Uwaaa?!",
+            "name": "Sumo-loving horsegirl B"
+        },
+        {
+            "text": "An underarm throw, beautifully executed~. \nWonderful!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Waaaaaah! You were staggering \nso I thought it was my chance!",
+            "name": "Sumo-loving horsegirl B"
+        },
+        {
+            "text": "Yeah, there are times when that's a feint. If the opponent is \ncoming low, you should be vigilant about your legs!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "I see… \nThanks, Chiyo-chan!",
             "name": "Sumo-loving horsegirl B",
-            "text": "Eh?! Uwaaa?!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "An underarm throw, beautifully executed~. Wonderful!"
-        },
-        {
-            "name": "Sumo-loving horsegirl B",
-            "text": "Waaaaaah! You were staggering so I thought it was my chance!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Yeah, there are times when that's a feint. If the opponent is coming low, you should be vigilant about your legs!"
-        },
-        {
-            "name": "Sumo-loving horsegirl B",
-            "text": "I see… Thanks, Chiyo-chan!",
             "choice_data_list": [
                 "You know alot about Sumo",
                 "You know alot about Sumo"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Eh?! Trainer-san?!"
+            "text": "Eh?! \nTrainer-san?!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "My dad's a Rikishi. That's why, \nsince I was little I've seen alot of matches.",
             "name": "Sakura Chiyono O",
-            "text": "My dad's a Rikishi. That's why, since I was little I've seen alot of matches.",
             "choice_data_list": [
                 "Did you want to try Sumo?"
             ]
         },
         {
+            "text": "No no, I'm satisfied just by watching…!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "But, those two… they're from the neighborhood association's \nSumo club, and they're serious about engaging in Sumo-",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "A Sumo advisor? \nYou mean me?",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Just once is fine! We want to get even stronger…!",
+            "name": "Sumo-loving horsegirl A"
+        },
+        {
+            "text": "Even… stronger…",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "I lost agaaaain~. \nIt seems like being short is really a bad thing, huh…?",
+            "name": "Sumo-loving horsegirl B"
+        },
+        {
+            "text": "That's not true! With a small body, you can make smaller \nand more precise movements. If I remember correctly, \nwith the tactics my dad taught me- ",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Chiyo-chan! \nI won a practice match! It's my first victory…!",
+            "name": "Sumo-loving horsegirl A"
+        },
+        {
+            "text": "Really, thank you!! \nIt's all thanks to Chiyo-chan!!",
+            "name": "Sumo-loving horsegirl B"
+        },
+        {
+            "text": "It's because both of you worked so hard…! \nReally, congratulations!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "At first, it was just going to be that one time though. \nBut, seeing those two, it made me want to support them more.",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Straight-forward and hard-working… seeing that brings me \ncourage. It makes me think I need to work hard in races too.",
             "name": "Sakura Chiyono O",
-            "text": "No no, I'm satisfied just by watching…!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "But, those two… they're from the neighborhood association's Sumo club, and they're serious about engaging in Sumo-"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "A Sumo advisor? You mean me?"
-        },
-        {
-            "name": "Sumo-loving horsegirl A",
-            "text": "Just once is fine! We want to get even stronger…!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Even… stronger…"
-        },
-        {
-            "name": "Sumo-loving horsegirl B",
-            "text": "I lost agaaaain~. It seems like being short is really a bad thing, huh…?"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "That's not true! With a small body, you can make smaller and more precise movements. If I remember correctly, with the tactics my dad taught me- "
-        },
-        {
-            "name": "Sumo-loving horsegirl A",
-            "text": "Chiyo-chan! I won a practice match! It's my first victory…!"
-        },
-        {
-            "name": "Sumo-loving horsegirl B",
-            "text": "Really, thank you!! It's all thanks to Chiyo-chan!!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "It's because both of you worked so hard…! Really, congratulations!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "At first, it was just going to be that one time though. But, seeing those two, it made me want to support them more."
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Straight-forward and hard-working… seeing that brings me courage. It makes me think I need to work hard in races too.",
             "choice_data_list": [
-                "Watching you makes me think the same",
-                "Watching you makes me think the same"
+                "<size=42>Watching you makes me think the same</size>",
+                "<size=42>Watching you makes me think the same</size>"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
             "text": "Eh? I do…?",
+            "name": "Sakura Chiyono O",
             "choice_data_list": [
-                "Seeing you work hard, always brings me courage"
+                "<size=34>Seeing you work hard, always brings me courage</size>"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "N-no, no way, that's praising me too much! I'm just, doing what I need to do…!"
+            "text": "N-no, no way, that's praising me too much! \nI'm just, doing what I need to do…!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "I'm just average, so I need to make up for it with quantity, or something like that-"
+            "text": "I'm just average, so I need to make up for it with quantity, \nor something like that-",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "But! If that's what gives Trainer-san strength then… I'll work even harder!"
+            "text": "But! If that's what gives Trainer-san strength then… \nI'll work even harder!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Maruzen-san and my dream… and then, from now on for Trainer-san too!"
+            "text": "Maruzen-san and my dream… \nand then, from now on for Trainer-san too!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "text": "Seeing Sakura Chiyono O enthusiastic about a new goal, once again encouraged me."
+            "text": "Seeing Sakura Chiyono O enthusiastic about a new goal, \nonce again encouraged me."
         }
     ]
 }

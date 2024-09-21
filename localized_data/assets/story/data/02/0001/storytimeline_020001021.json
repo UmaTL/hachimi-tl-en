@@ -1,204 +1,219 @@
 {
     "text_block_list": [
         {
-            "text": "The morning after the emotional Arima Kinen, Team Sirius embarks on a new chapter…"
+            "text": "The morning after the emotional Arima Kinen, \nTeam Sirius embarks on a new chapter…"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "What do you mean the team is going to be disbanded!?"
+            "text": "What do you mean the team is going to be disbanded!?",
+            "name": "Mejiro McQueen"
         },
         {
             "text": "It started with a scream from Mejiro McQueen."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "The truth of the matter is, all of the other members have transferred to different teams. McQueen-san, you're the only one left on this team."
+            "text": "The truth of the matter is, all of the other members have \ntransferred to different teams. McQueen-san, you're the only \none left on this team.",
+            "name": "Hayakawa Tazuna"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "This team unfortunately doesn't have the minimum required number of members anymore."
+            "text": "This team unfortunately doesn't have the minimum \nrequired number of members anymore.",
+            "name": "Hayakawa Tazuna"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "So unless more members join, this team will have to be disbanded."
+            "text": "So unless more members join, \nthis team will have to be disbanded.",
+            "name": "Hayakawa Tazuna"
         },
         {
+            "text": "I can't believe that, in one night, our team became a shell of \nits former self! You are all so heartless!",
             "name": "Mejiro McQueen",
-            "text": "I can't believe that, in one night, our team became a shell of its former self! You are all so heartless!",
             "choice_data_list": [
                 "Hey, first let's try to calm down",
                 "Hey, first let's try to calm down"
             ]
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "How can you be so calm?"
+            "text": "How can you be so calm?",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Despite the fact that the team you inherited may be disbanded!"
+            "text": "Despite the fact that the team \nyou inherited may be disbanded!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Tazuna-san, will our team be disbanded immediately?"
+            "text": "Tazuna-san, will our team be disbanded immediately?",
+            "name": "<username>"
         },
         {
+            "text": "No, since this is the first time something like this has \nhappened, we wouldn't suddenly force you to disband…",
+            "name": "Hayakawa Tazuna"
+        },
+        {
+            "text": "That being said, this is only a temporary postponement. I don't \nknow how much time you have, but I'll be speaking with the \nschool's management about it.",
             "name": "Hayakawa Tazuna",
-            "text": "No, since this is the first time something like this has happened, we wouldn't suddenly force you to disband…"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "That being said, this is only a temporary postponement. I don't know how much time you have, but I'll be speaking with the school's management about it.",
             "choice_data_list": [
-                "So, regardless, we need to hurry, huh?"
+                "<size=42>So, regardless, we need to hurry, huh?</size>"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "That's correct. I know it must be hard to be put in this kind of situation immediately after inheriting the team…"
+            "text": "That's correct. I know it must be hard to be put in this kind of \nsituation immediately after inheriting the team…",
+            "name": "Hayakawa Tazuna"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Hmph! You'll see! I'll find more team members in no time!"
+            "text": "Hmph! You'll see! I'll find more \nteam members in no time!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I'm an Uma Musume of the Mejiro family. Taking care of something like this will be a piece of cake!"
+            "text": "I'm an Uma Musume of the Mejiro family. Taking care of something \nlike this will be a piece of cake!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "We're currently recruiting new members! Let's work hard together!"
+            "text": "We're currently recruiting new members! \nLet's work hard together!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Even those that have yet to win races are welcome! Our team is like a second family!"
+            "text": "Even those that have yet to win races are welcome! \nOur team is like a second family!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Freshly harvested carrots at a bargain price! They're quite cheap!"
+            "text": "Freshly harvested carrots at a bargain price! \nThey're quite cheap!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "And if you act now, you can become a member of Team Sirius as a bonus! Hey, you over there! Are you interested!?"
+            "text": "And if you act now, you can become \na member of Team Sirius as a bonus! \nHey, you over there! Are you interested!?",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Why is it that, despite someone such as I doing the recruiting, not a single person has shown any interest!?"
+            "text": "Why is it that, despite someone such as I doing the recruiting, \nnot a single person has shown any interest!?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "To be fair, I don't think people would want to join a team with an inexperienced trainer. Especially when almost all of that team's members left at once."
+            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once.",
+            "name": "<username>"
         },
         {
-            "text": "To be fair, I don't think people would want to join a team with an inexperienced trainer. Especially when almost all of that team's members left at once."
+            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Why are you standing there and analyzing this so calmly!? Have a sense of urgency!"
+            "text": "Why are you standing there and analyzing this \nso calmly!? Have a sense of urgency!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Trust me, I'm worried too."
+            "text": "Trust me, I'm worried too.",
+            "name": "<username>"
         },
         {
-            "text": "Trust me, I'm worried too."
+            "text": "Trust me, I'm worried too.",
+            "name": "<username>"
         },
         {
-            "text": "He believed in me and entrusted this team to me. I can't betray his expectations."
+            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations."
         },
         {
-            "text": "He believed in me and entrusted this team to me. I can't betray his expectations."
+            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations."
         },
         {
-            "text": "That being said, if we continue to recruit while Team Sirius is in such a sorry state, I don't think we'll be able to get any new members to join."
+            "text": "That being said, if we continue to recruit while Team \nSirius is in such a sorry state, I don't think we'll \nbe able to get any new members to join."
         },
         {
-            "text": "We have to think of a new strategy that'll entice Uma Musume to join our team…"
+            "text": "We have to think of a new strategy that'll \nentice Uma Musume to join our team…"
         },
         {
-            "text": "Well anyways, I think we should call it a day here and begin our training."
+            "text": "Well anyways, I think we should call \nit a day here and begin our training.",
+            "name": "<username>"
         },
         {
-            "text": "Well anyways, I think we should call it a day here and begin our training."
+            "text": "Well anyways, I think we should call \nit a day here and begin our training.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…You're right."
+            "text": "…You're right.",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I've been prioritizing the wrong things by focusing on recruitment. I'll go get ready!"
+            "text": "I've been prioritizing the wrong things by focusing \non recruitment. I'll go get ready!",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Our next race is happening at the end of April. It will be the Spring Tennō Shō, a 3200 meter long distance race."
+            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race."
         },
         {
-            "text": "Our next race is happening at the end of April. It will be the Spring Tennō Shō, a 3200 meter long distance race."
+            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race."
         },
         {
-            "text": "Since this race will be an incredible test of endurance, I recommended that she work on her form."
+            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form."
         },
         {
-            "text": "Since this race will be an incredible test of endurance, I recommended that she work on her form."
+            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form."
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Hah… Ha… Ueh…"
+            "text": "Hah… Ha… Ueh…",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "At the end of the corner, make sure to be conscious of which foot you're kicking off with. You should be kicking off harder with your left foot, rather than your right."
+            "text": "At the end of the corner, make sure to be conscious of which foot \nyou're kicking off with. You should be kicking off harder with \nyour left foot, rather than your right.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Okay, understood."
+            "text": "Okay, understood.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "Okay, do 3 more laps around the track, then we can call it a day."
+            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day.",
+            "name": "<username>"
         },
         {
-            "text": "Okay, do 3 more laps around the track, then we can call it a day."
+            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…Only 3 more laps?"
+            "text": "…Only 3 more laps?",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "You're still working on your form, so I'm worried that it might be putting a heavy strain on your body and mind. We need to make sure you aren't pushing yourself too hard."
+            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard.",
+            "name": "<username>"
         },
         {
-            "text": "You're still working on your form, so I'm worried that it might be putting a heavy strain on your body and mind. We need to make sure you aren't pushing yourself too hard."
+            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "…I see. I didn't think about that."
+            "text": "…I see. I didn't think about that.",
+            "name": "Mejiro McQueen"
         },
         {
-            "text": "If you're unsatisfied, please let me know. I wouldn't want to push anything onto you after all."
+            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all.",
+            "name": "<username>"
         },
         {
-            "text": "If you're unsatisfied, please let me know. I wouldn't want to push anything onto you after all."
+            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all.",
+            "name": "<username>"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "No, what you said makes sense. So I have no complaints."
+            "text": "No, what you said makes sense. \nSo I have no complaints.",
+            "name": "Mejiro McQueen"
         },
         {
             "text": "With that, she went back to the track."
         },
         {
-            "text": "As I watched her, she seemed to be a little bit upset with only doing 3 laps."
+            "text": "As I watched her, she seemed to be a \nlittle bit upset with only doing 3 laps."
         },
         {
-            "text": "I guess she really wasn't convinced, huh?"
+            "text": "I guess she really wasn't convinced, huh?",
+            "name": "<username>"
         },
         {
-            "text": "When compared to Sensei's training, mine is probably lacking somewhere… Or maybe her and I have yet to build a trusting relationship…"
+            "text": "When compared to Sensei's training, mine is probably \nlacking somewhere… Or maybe her and I have yet \nto build a trusting relationship…"
         },
         {
-            "text": "My ability to manage a team is still lacking, and it would be great if we could find more members.",
+            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
             "choice_data_list": [
                 "But we'll definitely get through this!"
             ]
         },
         {
-            "text": "My ability to manage a team is still lacking, and it would be great if we could find more members.",
+            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
             "choice_data_list": [
                 "But we'll definitely get through this!"
             ]

@@ -1,224 +1,224 @@
 {
     "text_block_list": [
         {
-            "text": "Today is a day off, the perfect time to head to the local shopping mall for some grocery shopping. Except..."
+            "text": "Today is a day off, the perfect time to head to the local \nshopping mall for some grocery shopping. Except..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "......"
+            "text": "......",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I found Mihono Bourbon standing motionless in front of the arcade inside the mall.",
+            "text": "I found Mihono Bourbon standing motionless \nin front of the arcade inside the mall.",
             "choice_data_list": [
                 "What are you up to, Bourbon?",
                 "What are you up to, Bourbon?"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I went to investigate the arcade in an attempt to improve my social skills. But I'm hesitant to enter..."
+            "text": "I went to investigate the arcade in an attempt to \nimprove my social skills. But I'm hesitant to enter...",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I asked her for more details, and she explained that she wanted to master a social skill known as 'small talk' at this arcade, which is popular among her classmates."
+            "text": "I asked her for more details, and she explained that she \nwanted to master a social skill known as 'small talk' at \nthis arcade, which is popular among her classmates."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Seeing the size of those arcade machines triggered my risk management system. There is a high risk of the machines breaking if I were to touch them."
+            "text": "Seeing the size of those arcade machines triggered my \nrisk management system. There is a high risk of the \nmachines breaking if I were to touch them.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "So she's afraid of breaking the machines. In that case..."
+            "text": "So she's afraid of breaking the machines. \nIn that case..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I appreciate your help with my observation."
+            "text": "I appreciate your help with my observation.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I decided to help her out by playing the games for her, so she could observe in peace.",
+            "text": "I decided to help her out by playing the games for her, \nso she could observe in peace.",
             "choice_data_list": [
                 "Let's just enjoy ourselves today!"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. Starting 'enjoy ourselves' procedure."
+            "text": "Order accepted. Starting 'enjoy ourselves' procedure.",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "And thus started her observation."
         },
         {
-            "name": "Rock Paper Scissors Machine",
-            "text": "Rock, paper, scissors! You lose!"
+            "text": "Rock, paper, scissors! \nYou lose!",
+            "name": "Rock Paper Scissors Machine"
         },
         {
+            "text": "1 win, 9 losses. I detect a sudden negative change in your \nmood, Master. Sweet foods have a relaxing effect. \nHow about getting some ice cream?",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Ding-ding-ding! You win the jackpot!",
+            "name": "Slot Machine"
+        },
+        {
+            "text": "I detect a huge output of coins from the machine. \nDid it break?",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "16,000 points! Hooray, you sent the monster flying!",
+            "name": "Boxing Machine"
+        },
+        {
+            "text": "Determining Master's punching strength as 16,000. \nI am trying to log the value, but what unit of \nmeasurement is this?",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Even though she was still a bit disconnected, \nshe was still satisfied at the end of the day."
+        },
+        {
+            "text": "Yet, I couldn't call it a day without having <i>her</i> \ntry at least one game."
+        },
+        {
+            "text": "You want me to use the claw machine with you? \nSadly, I will not touch it. It might break if I do.",
             "name": "Mihono Bourbon",
-            "text": "1 win, 9 losses. I detect a sudden negative change in your mood, Master. Sweet foods have a relaxing effect. How about getting some ice cream?"
-        },
-        {
-            "name": "Slot Machine",
-            "text": "Ding-ding-ding! You win the jackpot!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I detect a huge output of coins from the machine. Did it break?"
-        },
-        {
-            "name": "Boxing Machine",
-            "text": "16,000 points! Hooray, you sent the monster flying!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Determining Master's punching strength as 16,000. I am trying to log the value, but what unit of measurement is this?"
-        },
-        {
-            "text": "Even though she was still a bit disconnected, she was still satisfied at the end of the day."
-        },
-        {
-            "text": "Yet, I couldn't call it a day without having <i>her</i> try at least one game."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "You want me to use the claw machine with you? Sadly, I will not touch it. It might break if I do.",
             "choice_data_list": [
                 "<i>I</i> will use the buttons.",
                 "<i>I</i> will use the buttons."
             ]
         },
         {
-            "text": "I told her to look at the claw from the side of the machine and give me instructions. She gave me an understanding nod."
+            "text": "I told her to look at the claw from the side of the \nmachine and give me instructions. She gave me \nan understanding nod."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. I will help you with accurate measurements."
+            "text": "Order accepted. I will help you \nwith accurate measurements.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "With that, I chose to play 3 times for 500 yen. My target is a small bunny plush that seems easy to get."
+            "text": "With that, I chose to play 3 times for 500 yen. \nMy target is a small bunny plush that seems easy to get."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Please move the claw 22 centimeters across. According to my calculations, there should be a 98% chance of success."
+            "text": "Please move the claw 22 centimeters across. \nAccording to my calculations, there should be \na 98% chance of success.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "Just as planned, the claw lowered and gripped the bunny around its neck. But then..."
+            "text": "Just as planned, the claw lowered and gripped \nthe bunny around its neck. But then..."
         },
         {
             "text": "*thump*"
         },
         {
-            "text": "As the claw raised up, the bunny slipped through its grasp and fell right back down."
+            "text": "As the claw raised up, the bunny slipped through \nits grasp and fell right back down."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Observed the claw's lack of strength. Recalculating..."
+            "text": "Observed the claw's lack of strength. Recalculating...",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Switching to strategy 'push the bunny'. With this strategy, the winning chance is 91%."
+            "text": "Switching to strategy 'push the bunny'. \nWith this strategy, the winning chance is 91%.",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "*bump*"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I overestimated the claw's ability to push. Recalculating..."
+            "text": "I overestimated the claw's ability to push. \nRecalculating...",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "According to my new strategy, the chance is 75%..."
+            "text": "According to my new strategy, the chance is 75%...",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "*slip*"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...... Determined that this is a near-impossible mission..."
+            "text": "...... \nDetermined that this is a near-impossible mission...",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "We tried many things but in the end, we could not get the bunny out..."
+            "text": "We tried many things but in the end, \nwe could not get the bunny out..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "My apologies, Master. My calculations were off because I could not fully understand the claw's strength."
+            "text": "My apologies, Master. My calculations were off because \nI could not fully understand the claw's strength.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "But I'm certain that there is a 70% chance of success, were we to try again..."
+            "text": "But I'm certain that there is a 70% chance \nof success, were we to try again...",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I'm surprised she wants to keep going. Maybe she's more into it than I thought.",
+            "text": "I'm surprised she wants to keep going. \nMaybe she's more into it than I thought.",
             "choice_data_list": [
                 "Sure, let's try one more time!"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. I will make sure we get that bunny with all that I have."
+            "text": "Order accepted. I will make sure we get that bunny \nwith all that I have.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Stop now. Move 14 centimeters forward. Use the arm to push the bunny towards the chute."
+            "text": "Stop now. Move 14 centimeters forward. \nUse the arm to push the bunny towards the chute.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I do as she says and the bunny is pushed towards the edge of the chute. It slowly tilts over, towards the chute..."
+            "text": "I do as she says and the bunny is pushed towards the \nedge of the chute. It slowly tilts over, towards the chute..."
         },
         {
-            "text": "I watch it tilt with my breath held... Actually, Mihono Bourbon is holding her breath as well."
+            "text": "I watch it tilt with my breath held... \nActually, Mihono Bourbon is holding her breath as well."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...!!"
+            "text": "...!!",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Go!"
+            "text": "Go!",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "The bunny falls over into the chute."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Thank you for your help today. Experiencing the arcade first-hand has taught me a lot and resulted in some valuable insights."
+            "text": "Thank you for your help today. Experiencing the arcade \nfirst-hand has taught me a lot and resulted in some \nvaluable insights.",
+            "name": "Mihono Bourbon"
         },
         {
+            "text": "The feeling of excitement in my chest, and how my \nfacial muscles relaxed on their own... I added these \nsensations to the topic of 'small talk' in my database.",
             "name": "Mihono Bourbon",
-            "text": "The feeling of excitement in my chest, and how my facial muscles relaxed on their own... I added these sensations to the topic of 'small talk' in my database.",
             "choice_data_list": [
                 "I'm glad you enjoyed yourself."
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "\"Enjoyed myself?\""
+            "text": "\"Enjoyed myself?\"",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I explained to her that the sensations she felt are called 'fun' and how that caused her to enjoy herself."
+            "text": "I explained to her that the sensations she felt are called \n'fun' and how that caused her to enjoy herself."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "That's what 'fun' is..."
+            "text": "That's what 'fun' is...",
+            "name": "Mihono Bourbon"
         },
         {
+            "text": "I do not understand how using the claw machine \ncaused these feelings of 'fun' when it was \nvery counterproductive.",
             "name": "Mihono Bourbon",
-            "text": "I do not understand how using the claw machine caused these feelings of 'fun' when it was very counterproductive.",
             "choice_data_list": [
-                "<size=40>You call it counterproductive...</size>"
+                "You call it counterproductive..."
             ]
         },
         {
-            "text": "I had to choose my words in such a way that she would understand.",
+            "text": "I had to choose my words in such a way \nthat she would understand.",
             "choice_data_list": [
-                "<size=36>The goal of using the machine is to have fun.</size>"
+                "<size=37>The goal of using the machine is to have fun.</size>"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...... I see. Status changed to 'shocked.'"
+            "text": "...... \nI see. Status changed to 'shocked.'",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "New values inserted. <i>Even if something seems useless at first glance, it may not be the case in the end.</i>"
+            "text": "New values inserted. <i>Even if something seems useless \nat first glance, it may not be the case in the end.</i>",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "As she speaks, she lightly strokes the bunny plush we won today."
+            "text": "As she speaks, she lightly strokes \nthe bunny plush we won today."
         }
     ]
 }

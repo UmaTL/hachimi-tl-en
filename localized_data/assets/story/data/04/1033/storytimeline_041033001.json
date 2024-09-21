@@ -1,160 +1,160 @@
 {
     "text_block_list": [
         {
-            "name": "Admire Vega",
-            "text": "<i>Running is my way of praying…</i>"
+            "text": "<i>Running is my way of praying…</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "Hah… hah… haa. Egh… gekh."
+            "text": "Hah… hah… haa. \nEgh… gekh.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>I'm struggling to breathe. That I know. When that happens, I should… take deep breaths.</i>"
+            "text": "<i>I'm struggling to breathe. That I know. \nWhen that happens, I should… take deep breaths.</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "……"
+            "text": "……",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>Pollux, a gently twinkling red star.</i> <i>It is one of the twenty-one first-magnitude stars which makes up the Winter Hexagon.</i>"
+            "text": "<i>Pollux, a gently twinkling red star.</i> <i>It \nis one of the twenty-one first-magnitude stars \nwhich makes up the Winter Hexagon.</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>I'm sure you're looking up at it too tonight… over there…</i>"
+            "text": "<i>I'm sure you're looking up \nat it too tonight… over there…</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "I have to go…"
+            "text": "I have to go…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>I pray. Instead of clasping my hands together, I pray by kicking at the earth below me.</i> <i>I pray that the brilliant and wonderful things present at the end of this path that I follow…</i>"
+            "text": "<i>I pray. Instead of clasping my hands together, I \npray by kicking at the earth below me.</i> <i>I pray \nthat the brilliant and wonderful things present \nat the end of this path that I follow…</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>will someday reach you…</i>"
+            "text": "<i>will someday reach you…</i>",
+            "name": "Admire Vega"
         },
         {
-            "text": "The \"Selection Race\" would soon be upon us, a race where trainers can assess the abilities of up-and-coming Uma Musume."
+            "text": "The \"Selection Race\" would soon be upon us, a race where \ntrainers can assess the abilities of up-and-coming Uma Musume."
         },
         {
-            "text": "When I arrived at the racecourse I noticed numerous other trainers there looking to observe the Uma Musume there today.",
+            "text": "When I arrived at the racecourse I noticed numerous other \ntrainers there looking to observe the Uma Musume there today.",
             "choice_data_list": [
                 "<i>Let's see, today's runners are…</i>"
             ]
         },
         {
-            "name": "Average Trainer A",
-            "text": "Woah! Her ability in the final stretch is amazing!"
+            "text": "Woah! Her ability in the final stretch is amazing!",
+            "name": "Average Trainer A"
         },
         {
+            "text": "She's also quite adept at determining when she needs to spurt in \nthe final stretch. Admire Vega, as I watch your race I only grow \nmore and more excited about you.",
             "name": "Veteran Trainer A",
-            "text": "She's also quite adept at determining when she needs to spurt in the final stretch. Admire Vega, as I watch your race I only grow more and more excited about you.",
             "choice_data_list": [
                 "<i>Admire Vega!</i>"
             ]
         },
         {
-            "text": "I heard the name of one of the racers that I had been interested in, so I hastily looked over towards the race course."
+            "text": "I heard the name of one of the racers that I had been \ninterested in, so I hastily looked over towards the race course."
         },
         {
-            "name": "Meisho Doto",
-            "text": "Thank you for running with me!"
+            "text": "Thank you for running with me!",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Admire Vega",
-            "text": "Thank you as well. Are you done…?"
+            "text": "Thank you as well. \nAre you done…?",
+            "name": "Admire Vega"
         },
         {
-            "name": "Meisho Doto",
-            "text": "Y-Yes, I have a dinner arrangement with Urara-san and her friends. Umm, err, well… if you want, you can come too, Ayabe-san."
+            "text": "Y-Yes, I have a dinner arrangement with Urara-san \nand her friends. Umm, err, well… if you \nwant, you can come too, Ayabe-san.",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Admire Vega",
-            "text": "No. I'm going to… run a bit longer."
+            "text": "No. I'm going to… run a bit longer.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Meisho Doto",
-            "text": "Ah! Umm… Please don't push yourself too hard…!"
+            "text": "Ah! Umm… Please don't push yourself too hard…!",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Admire Vega",
-            "text": "Hah, haa, haaa―!"
+            "text": "Hah, haa, haaa―!",
+            "name": "Admire Vega"
         },
         {
-            "text": "As more and more of the girls finished up their training, she continues to train stoically and alone, indifferently rejecting the invitations of her friends."
+            "text": "As more and more of the girls finished up their training, she \ncontinues to train stoically and alone, indifferently rejecting \nthe invitations of her friends."
         },
         {
-            "name": "Admire Vega",
             "text": "Haaaah…!!",
+            "name": "Admire Vega",
             "choice_data_list": [
-                "As reported, she's \ngot amazing acceleration!</i>",
-                "As reported, she's \ngot amazing acceleration!</i>"
+                "<size=36>As reported, she's \ngot amazing acceleration!</i></size>",
+                "<size=36>As reported, she's \ngot amazing acceleration!</i></size>"
             ]
         },
         {
-            "text": "I could sense the talent that her legs possessed and it sent a shiver down my spine."
+            "text": "I could sense the talent that her legs \npossessed and it sent a shiver down my spine."
         },
         {
-            "text": "Admire Vega: an Uma Musume with amazing ability and incredible potential…",
+            "text": "Admire Vega: an Uma Musume with \namazing ability and incredible potential…",
             "choice_data_list": [
                 "<i>What kind of Uma Musume is she?</i>",
                 "<i>What kind of Uma Musume is she?</i>"
             ]
         },
         {
-            "text": "Afterwards, I went back to my office and began doing research on Admire Vega. I was so absorbed in my research that before I knew it it was the dead of night."
+            "text": "Afterwards, I went back to my office and began doing research on \nAdmire Vega. I was so absorbed in my research that before I knew \nit it was the dead of night."
         },
         {
-            "text": "Guess it's time I headed back to the trainer's dormitories. As I stepped outside I noticed something…",
+            "text": "Guess it's time I headed back to the trainer's dormitories. As I \nstepped outside I noticed something…",
             "choice_data_list": [
-                "Hmm? A shadowy figure \non the racecourse?"
+                "<size=37>Hmm? A shadowy figure \non the racecourse?</size>"
             ]
         },
         {
+            "text": "―Feeh. \n…Haa, haah…!",
             "name": "Admire Vega",
-            "text": "―Feeh. …Haa, haah…!",
             "choice_data_list": [
                 "<i>She's still going!?</i>",
                 "<i>She's still going!?</i>"
             ]
         },
         {
-            "text": "Alone, she continued to train at the racecourse. As one might expect, she looked completely exhausted."
+            "text": "Alone, she continued to train at the racecourse. \nAs one might expect, she looked completely exhausted."
         },
         {
-            "name": "Admire Vega",
-            "text": "I can't… give up… now…!"
+            "text": "I can't… give up… now…!",
+            "name": "Admire Vega"
         },
         {
-            "text": "Without slowing her pace she continued to move her legs. It was like…",
+            "text": "Without slowing her pace she \ncontinued to move her legs. It was like…",
             "choice_data_list": [
                 "Something was forcing her forward…"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "Haah haaah… Ugh…"
+            "text": "Haah haaah… Ugh…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "…………………………"
+            "text": "…………………………",
+            "name": "Admire Vega"
         },
         {
-            "text": "All of a sudden she stopped, looking completely exhausted. In the silence, where the echoes of her footsteps finally stopped she stood there, her eyes filled with the reflection of the stars."
+            "text": "All of a sudden she stopped, looking completely exhausted. In the \nsilence, where the echoes of her footsteps finally stopped she \nstood there, her eyes filled with the reflection of the stars."
         },
         {
-            "text": "The stars. Not only the stars, but the sky filled with said stars… As if overwhelmed by the sheer beauty of what she saw, she stood there entranced…",
+            "text": "The stars. Not only the stars, but the sky filled with said \nstars… As if overwhelmed by the sheer beauty of what she saw, \nshe stood there entranced…",
             "choice_data_list": [
                 "Is everything okay?",
                 "Is everything okay?"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "Eh?",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Ah!"
             ]
@@ -163,37 +163,37 @@
             "text": "Even I was unsure why I responded in that manner…"
         },
         {
-            "name": "Admire Vega",
             "text": "I'm fine… I do this all of the time.",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Always this late at night!?"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "Usually.",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Isn't it rough on you…?",
                 "Isn't it rough on you…?"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "No. This is necessary for me to win…"
+            "text": "No. This is necessary for me to win…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "I win. I run, then win more. That is all."
+            "text": "I win. I run, then win more. That is all.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "If you'd like to discuss being my trainer, wait until after the Selection Race. Bye."
+            "text": "If you'd like to discuss being my trainer, \nwait until after the Selection Race. Bye.",
+            "name": "Admire Vega"
         },
         {
-            "text": "At that moment, the lights used for night training suddenly went out. Drowned in the starlight, as if melting into the night, she walked away."
+            "text": "At that moment, the lights used for night training \nsuddenly went out. Drowned in the starlight, as \nif melting into the night, she walked away."
         },
         {
-            "text": "As if driving herself into the ground, the great resolve that Admire Vega carried would stay with me forever."
+            "text": "As if driving herself into the ground, the great resolve \nthat Admire Vega carried would stay with me forever."
         }
     ]
 }

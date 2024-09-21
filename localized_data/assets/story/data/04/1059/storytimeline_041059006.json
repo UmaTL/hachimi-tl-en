@@ -1,174 +1,174 @@
 {
     "text_block_list": [
         {
-            "text": "I was at the movie theater on a day off when I happened to see Mejiro Dober in the lobby.",
+            "text": "I was at the movie theater on a day off when I \nhappened to see Mejiro Dober in the lobby.",
             "choice_data_list": [
                 "Dober! What a coincidence!",
                 "Dober! What a coincidence!"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "!? ……Y-you're mistaking me for someone else!",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "No, you're Dober, right? It's me!",
                 "No, you're Dober, right? It's me!"
             ]
         },
         {
+            "text": "……Oh, so it was you. \nDon't suddenly sneak up behind me! You surprised me!",
             "name": "Mejiro Dober",
-            "text": "……Oh, so it was you. Don't suddenly sneak up behind me! You surprised me!",
             "choice_data_list": [
                 "Even then, you didn't have to run……",
                 "Even then, you didn't have to run……"
             ]
         },
         {
+            "text": "Oh, so it was Trainer…… geez, don't surprise me like that. Most \npeople will get scared if you sneak up behind them like that.",
             "name": "Mejiro Dober",
-            "text": "Oh, so it was Trainer…… geez, don't surprise me like that. Most people will get scared if you sneak up behind them like that.",
             "choice_data_list": [
                 "Even then, you didn't have to run……",
                 "Even then, you didn't have to run……"
             ]
         },
         {
+            "text": "That's……!",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "That's……!",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "……Now that you mention it, you found out about it \nearlier, huh? In that case, then there's no point……",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Ah, Trainer already found out, huh? \nYou saw that illustration.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Actually, I was thinking of seeing this movie.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Actually, I was thinking of seeing this movie.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "While saying that, Mejiro Dober showed me her \nsmartphone and an online ticket booking webpage."
+        },
+        {
+            "text": "She had booked a ticket for 『Veggie Carolyn the Movie: Summer \nBreak and the Uninhabited Island!』. It was the anime she was \npracticing her drawing with before."
+        },
+        {
+            "text": "Originally, I planned on seeing it together with Ryan, \nbut she suddenly wasn't able to come…… so I'm here alone.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "But, there are more kids here than I thought…… \nI'm standing out a lot, right? And it feels kind of awkward……",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Kawakami told me the 『Pretty Fight』 movie was half adults and \nhalf kids, so I thought this would be the same…… it seems like \nthe overwhelming majority here are kids, though.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "There are almost no students, I'm really standing out, aren't I?",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "……Maybe I should just come back the next time Ryan is free……",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "……But the number of ticket purchase bonuses is limited. \nThere might not be any next time……",
             "name": "Mejiro Dober",
-            "text": "That's……!"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "That's……!"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "……Now that you mention it, you found out about it earlier, huh? In that case, then there's no point……"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Ah, Trainer already found out, huh? You saw that illustration."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Actually, I was thinking of seeing this movie."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Actually, I was thinking of seeing this movie."
-        },
-        {
-            "text": "While saying that, Mejiro Dober showed me her smartphone and an online ticket booking webpage."
-        },
-        {
-            "text": "She had booked a ticket for 『Veggie Carolyn the Movie: Summer Break and the Uninhabited Island!』. It was the anime she was practicing her drawing with before."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Originally, I planned on seeing it together with Ryan, but she suddenly wasn't able to come…… so I'm here alone."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "But, there are more kids here than I thought…… I'm standing out a lot, right? And it feels kind of awkward……"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Kawakami told me the 『Pretty Fight』 movie was half adults and half kids, so I thought this would be the same…… it seems like the overwhelming majority here are kids, though."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "There are almost no students, I'm really standing out, aren't I?"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "……Maybe I should just come back the next time Ryan is free……"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "……But the number of ticket purchase bonuses is limited. There might not be any next time……",
             "choice_data_list": [
                 "Can I watch it with you?",
                 "Can I watch it with you?"
             ]
         },
         {
+            "text": "Eh……? But, didn't you come here because you \nhad a movie you wanted to watch? You're not \neven interested in 『Veggie Carolyn』, right?",
             "name": "Mejiro Dober",
-            "text": "Eh……? But, didn't you come here because you had a movie you wanted to watch? You're not even interested in 『Veggie Carolyn』, right?",
             "choice_data_list": [
-                "I'm interested because Dober wants to see it!",
-                "I'm interested because Dober wants to see it!"
+                "<size=36>I'm interested because Dober wants to see it!</size>",
+                "<size=36>I'm interested because Dober wants to see it!</size>"
             ]
         },
         {
+            "text": "Eh……? But, didn't you come here because you had a movie you \nwanted to watch? You don't have to force yourself to join me.",
             "name": "Mejiro Dober",
-            "text": "Eh……? But, didn't you come here because you had a movie you wanted to watch? You don't have to force yourself to join me.",
             "choice_data_list": [
-                "I'm interested because Dober wants to see it!",
-                "I'm interested because Dober wants to see it!"
+                "<size=36>I'm interested because Dober wants to see it!</size>",
+                "<size=36>I'm interested because Dober wants to see it!</size>"
             ]
         },
         {
+            "text": "What's with that………… if it's boring, \nit's not my fault, okay? Do what you want.",
             "name": "Mejiro Dober",
-            "text": "What's with that………… if it's boring, it's not my fault, okay? Do what you want.",
-            "choice_data_list": [
-                "It's decided then!",
-                "Of course!"
-            ]
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Really, that's just the way you are…… But, if Trainer is fine with it, I want to watch it together. Is that okay?",
             "choice_data_list": [
                 "It's decided then!",
                 "Of course!"
             ]
         },
         {
-            "name": "Loudspeaker Announcement",
-            "text": "『Screening for 『Veggie Carolyn the Movie: Summer Break and the Uninhabited Island!』 will begin shortly for theater two』"
-        },
-        {
-            "name": "Loudspeaker Announcement",
-            "text": "『Screening for 『Veggie Carolyn the Movie: Summer Break and the Uninhabited Island!』 will begin shortly for theater two』"
-        },
-        {
+            "text": "Really, that's just the way you are…… But, if Trainer \nis fine with it, I want to watch it together. Is that okay?",
             "name": "Mejiro Dober",
-            "text": "Ah……looks like they're letting people in. Alright…… let's go, Trainer."
+            "choice_data_list": [
+                "It's decided then!",
+                "Of course!"
+            ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Ah……looks like they're letting people in. Alright…… let's go, Trainer."
+            "text": "『Screening for 『Veggie Carolyn the Movie: Summer Break and the \nUninhabited Island!』 will begin shortly for theater two』",
+            "name": "Loudspeaker Announcement"
         },
         {
-            "text": "At the entrance, each person was handed a sticker as an admission bonus. On a laminated sheet, several characters were lined up.",
+            "text": "『Screening for 『Veggie Carolyn the Movie: Summer Break and the \nUninhabited Island!』 will begin shortly for theater two』",
+            "name": "Loudspeaker Announcement"
+        },
+        {
+            "text": "Ah……looks like they're letting people in. \nAlright…… let's go, Trainer.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "Ah……looks like they're letting people in. \nAlright…… let's go, Trainer.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "At the entrance, each person was handed a sticker as an admission \nbonus. On a laminated sheet, several characters were lined up.",
             "choice_data_list": [
                 "Do you want my sticker?",
                 "Do you want my sticker?"
             ]
         },
         {
-            "text": "At the entrance, each person was handed a sticker as an admission bonus. On a laminated sheet, several characters were lined up.",
+            "text": "At the entrance, each person was handed a sticker as an admission \nbonus. On a laminated sheet, several characters were lined up.",
             "choice_data_list": [
                 "Do you want my sticker?",
                 "Do you want my sticker?"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Are you sure……? T-thank you…… I was planning on seeing it a second time to get another one though."
+            "text": "Are you sure……? T-thank you…… I was planning on seeing it a \nsecond time to get another one though.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Are you sure……? Actually, I wanted to get two stickers. I would have had to watch it again, so that helps. Thank you, Trainer."
+            "text": "Are you sure……? Actually, I wanted to get two stickers. I would \nhave had to watch it again, so that helps. Thank you, Trainer.",
+            "name": "Mejiro Dober"
         },
         {
+            "text": "Looks like Trainer's is white. \n……then, it'd be unfortunate if mine isn't your favorite color……",
             "name": "Mejiro Dober",
-            "text": "Looks like Trainer's is white. ……then, it'd be unfortunate if mine isn't your favorite color……",
             "choice_data_list": [
                 "They're the same, aren't they?"
             ]
         },
         {
+            "text": "Looks like Trainer's is white. \n……then, it'd be unfortunate if mine isn't your favorite color……",
             "name": "Mejiro Dober",
-            "text": "Looks like Trainer's is white. ……then, it'd be unfortunate if mine isn't your favorite color……",
             "choice_data_list": [
                 "They're the same, aren't they?"
             ]
@@ -177,181 +177,181 @@
             "text": "All the stickers are the same. The only difference is the color."
         },
         {
-            "name": "Mejiro Dober",
-            "text": "That's true but, wouldn't you want one that's your favorite color?"
+            "text": "That's true but, wouldn't you want one that's your favorite color?",
+            "name": "Mejiro Dober"
         },
         {
+            "text": "Especially with kids, aren't they really picky \nwhen it comes to that? It could even lead to \nfights, and even my parents thought that.",
             "name": "Mejiro Dober",
-            "text": "Especially with kids, aren't they really picky when it comes to that? It could even lead to fights, and even my parents thought that.",
             "choice_data_list": [
                 "Did you get in to fights over colors?"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Well I……didn't really. At those times, Ryan would usually step in and help settle things."
+            "text": "Well I……didn't really. At those times, \nRyan would usually step in and help settle things.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "No, I didn't. At those times, Ryan would usually step in and trade hers so we would get our favorite colors."
+            "text": "No, I didn't. At those times, Ryan would usually step \nin and trade hers so we would get our favorite colors.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Wait, why are we talking about me now!?"
+            "text": "Wait, why are we talking about me now!?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Wait, why are we talking about me now!?"
+            "text": "Wait, why are we talking about me now!?",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "I wonder if I can trade mine for a green one. Maybe I should ask someone here――"
+            "text": "I wonder if I can trade mine for a green \none. Maybe I should ask someone here――",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Theater Staff",
-            "text": "I'm sorry, we didn't let anyone choose the color. And we're unable to exchange it for another……I apologize."
+            "text": "I'm sorry, we didn't let anyone choose the color. \nAnd we're unable to exchange it for another……I apologize.",
+            "name": "Theater Staff"
         },
         {
-            "name": "Girl's Mom",
-            "text": "They said they can't change it. Let's just make do with this, okay? Alright? Look, it's still a sticker of Carolyn, right?"
+            "text": "They said they can't change it. Let's just make do with this, \nokay? Alright? Look, it's still a sticker of Carolyn, right?",
+            "name": "Girl's Mom"
         },
         {
-            "name": "Girl",
-            "text": "Don't want it! I don't want green!!"
+            "text": "Don't want it! I don't want green!!",
+            "name": "Girl"
         },
         {
-            "text": "It seems like the girl's sticker was green. I noticed that the girl was wearing red overalls, similar to Carolyn's outfit.",
+            "text": "It seems like the girl's sticker was green. I noticed that the \ngirl was wearing red overalls, similar to Carolyn's outfit.",
             "choice_data_list": [
                 "What color is your sticker, Dober?"
             ]
         },
         {
-            "name": "Mejiro Dober",
             "text": "Eh? It's red……",
+            "name": "Mejiro Dober",
             "choice_data_list": [
                 "I'll go trade it for that girl's"
             ]
         },
         {
+            "text": "Oh……I see, that girl said her sticker was green, didn't she? \nBut, there's no guarantee that she wants a red one right?",
             "name": "Mejiro Dober",
-            "text": "Oh……I see, that girl said her sticker was green, didn't she? But, there's no guarantee that she wants a red one right?",
             "choice_data_list": [
                 "She probably wants red!"
             ]
         },
         {
-            "text": "I took the red sticker from Dober, who was still skeptical, and then went to the girl crying because she had a green sticker."
+            "text": "I took the red sticker from Dober, who was still skeptical, \nand then went to the girl crying because she had a green sticker."
         },
         {
-            "text": "I took the red sticker from Dober, who was still skeptical, and then went to the girl crying because she had a green sticker."
+            "text": "I took the red sticker from Dober, who was still skeptical, \nand then went to the girl crying because she had a green sticker."
         },
         {
+            "text": "You really were able to trade it…… \nhow did you know the color that girl wanted was red?",
             "name": "Mejiro Dober",
-            "text": "You really were able to trade it…… how did you know the color that girl wanted was red?",
             "choice_data_list": [
                 "She was wearing red overalls",
                 "She was wearing red overalls"
             ]
         },
         {
+            "text": "You really were able to trade it…… \nTrainer, how did you know the color that girl wanted was red?",
             "name": "Mejiro Dober",
-            "text": "You really were able to trade it…… Trainer, how did you know the color that girl wanted was red?",
             "choice_data_list": [
                 "She was wearing red overalls",
                 "She was wearing red overalls"
             ]
         },
         {
-            "text": "The main character, Carolyn, also wore red overalls. Because of that, I guessed that she wanted red."
+            "text": "The main character, Carolyn, also wore red overalls. \nBecause of that, I guessed that she wanted red."
         },
         {
-            "text": "The main character, Carolyn, also wore red overalls. Because of that, I guessed that she wanted red."
+            "text": "The main character, Carolyn, also wore red overalls. \nBecause of that, I guessed that she wanted red."
         },
         {
+            "text": "I see……I guess as a trainer it's \nnormal for you to be that observant.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "As a trainer, I guess your powers of observation \nare no joke, huh? As expected.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "By the way……since you just went to trade that sticker, won't \nothers think you're some kind of 『Veggie Carolyn』 super fan?",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "By the way……since you just went to trade that sticker, won't \nothers think you're some kind of 『Veggie Carolyn』 super fan?",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "……I guess you ended up standing out more than me.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "……I guess you ended up standing out more than me.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "――The movie was more interesting than expected, huh?",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "It was a little surprising that they made that new character the \nmain focus though. So that's the character that those kids were \ntalking about, huh……",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "…………I have a brother and sister that are much younger than me.",
+            "name": "Mejiro Dober"
+        },
+        {
+            "text": "It seems like they both really like 『Veggie Carolyn』. \nI wanted to properly know what happened so I wanted to see it.",
             "name": "Mejiro Dober",
-            "text": "I see……I guess as a trainer it's normal for you to be that observant."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "As a trainer, I guess your powers of observation are no joke, huh? As expected."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "By the way……since you just went to trade that sticker, won't others think you're some kind of 『Veggie Carolyn』 super fan?"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "By the way……since you just went to trade that sticker, won't others think you're some kind of 『Veggie Carolyn』 super fan?"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "……I guess you ended up standing out more than me."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "……I guess you ended up standing out more than me."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "――The movie was more interesting than expected, huh?"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "It was a little surprising that they made that new character the main focus though. So that's the character that those kids were talking about, huh……"
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "…………I have a brother and sister that are much younger than me."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "It seems like they both really like 『Veggie Carolyn』. I wanted to properly know what happened so I wanted to see it.",
             "choice_data_list": [
                 "You're giving them the stickers then",
                 "You're giving them the stickers then"
             ]
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Yeah. I'm glad I was able to get both of their favorite colors. If I was alone, I wouldn't have been able to trade with another person."
+            "text": "Yeah. I'm glad I was able to get both of their \nfavorite colors. If I was alone, I wouldn't have \nbeen able to trade with another person.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "So……-it helped that you came with me."
+            "text": "So……-it helped that you came with me.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Trainer, you being here with me helped a lot."
+            "text": "Trainer, you being here with me helped a lot.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Before I realized it, I completely forgot that there were others around. Even though I was so conscious of it before……"
+            "text": "Before I realized it, I completely forgot that there were \nothers around. Even though I was so conscious of it before……",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Before I realized it, I completely forgot that there were others around. Even though I was so conscious of it before……"
+            "text": "Before I realized it, I completely forgot that there were \nothers around. Even though I was so conscious of it before……",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……I guess you could say it was reassuring……"
+            "text": "……I guess you could say it was reassuring……",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Because you were with me, it was really reassuring."
+            "text": "Because you were with me, it was really reassuring.",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "Well, that's how it was!!"
+            "text": "Well, that's how it was!!",
+            "name": "Mejiro Dober"
         },
         {
-            "name": "Mejiro Dober",
-            "text": "……Thank you, Trainer."
+            "text": "……Thank you, Trainer.",
+            "name": "Mejiro Dober"
         },
         {
-            "text": "Saying that, Dober quickened her pace, her hair swaying and glistening in the evening light."
+            "text": "Saying that, Dober quickened her pace, her hair \nswaying and glistening in the evening light."
         },
         {
-            "text": "Saying that, Mejiro Dober shyly turned away, her hair dyed in the evening sun."
+            "text": "Saying that, Mejiro Dober shyly turned away, \nher hair dyed in the evening sun."
         }
     ]
 }

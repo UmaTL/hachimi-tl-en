@@ -1,255 +1,261 @@
 {
     "text_block_list": [
         {
-            "text": "New Year's had passed. Cesario had challenged the 『Kanchiku Sho』――and she had won!"
+            "text": "New Year's had passed. Cesario had \nchallenged the 『Kanchiku Sho』――and she had won!"
         },
         {
-            "text": "(Alright……! She's won in a race with several Triple Crown participants, and it was even a medium distance 2000m race. With this……!)"
+            "text": "(Alright……! She's won in a race with several \nTriple Crown participants, and it was even a \nmedium distance 2000m race. With this……!)",
+            "name": "<username>"
         },
         {
-            "text": "Congratulations on winning the 『Kanchiku Sho』, Cesario. As I thought, it seems like your strength is more towards slightly longer distances."
+            "text": "Congratulations on winning the 『Kanchiku Sho』, \nCesario. As I thought, it seems like your strength \nis more towards slightly longer distances.",
+            "name": "<username>"
         },
         {
-            "text": "Congratulations on winning the 『Kanchiku Sho』, Cesario. As I thought, it seems like your strength is more towards slightly longer distances."
+            "text": "Congratulations on winning the 『Kanchiku Sho』, \nCesario. As I thought, it seems like your strength \nis more towards slightly longer distances.",
+            "name": "<username>"
         },
         {
-            "text": "I want you to enter another major race in preparation for your main goal of the 『Oka Sho』. So let's have you run in the 1800m 『Flower Cup』 next!"
+            "text": "I want you to enter another major race in preparation \nfor your main goal of the 『Oka Sho』. So let's \nhave you run in the 1800m 『Flower Cup』 next!",
+            "name": "<username>"
         },
         {
-            "text": "And then Kraft. You can show more of your abilities in shorter races. So let's have you run in the 1400m 『Fillies' Review』.",
+            "text": "And then Kraft. You can show more of your abilities in shorter \nraces. So let's have you run in the 1400m 『Fillies' Review』.",
+            "name": "<username>",
             "choice_data_list": [
                 "Let's work to our next goals!"
             ]
         },
         {
-            "text": "And then Kraft. You can show more of your abilities in shorter races. So let's have you run in the 1400m 『Fillies' Review』.",
+            "text": "And then Kraft. You can show more of your abilities in shorter \nraces. So let's have you run in the 1400m 『Fillies' Review』.",
+            "name": "<username>",
             "choice_data_list": [
                 "Let's work to our next goals!"
             ]
         },
         {
-            "name": "Kraft & Cesario",
-            "text": "Yes!!"
+            "text": "Yes!!",
+            "name": "Kraft & Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(After the Fillies' Review, the 『Oka Sho』 is the month after……And that's the first time…… I'll face Cesario in an official race)"
+            "text": "(After the Fillies' Review, the 『Oka Sho』 \nis the month after……And that's the first time…… \nI'll face Cesario in an official race)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(The first time, with all my strength! That I'll be able to battle against Cesario……! I'm looking forward to it……I don't think I can wait……!)"
+            "text": "(The first time, with all my strength! That I'll \nbe able to battle against Cesario……! I'm looking \nforward to it……I don't think I can wait……!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Allllright! I need to put my all in to training―― Wait, huh? ……Over there, that's……"
+            "text": "Allllright! I need to put my all in to training―― \nWait, huh? ……Over there, that's……",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Special Week",
-            "text": "Haa, haa, haa…… Okay……――Haaaaaaaaa!!"
+            "text": "Haa, haa, haa…… \nOkay……――Haaaaaaaaa!!",
+            "name": "Special Week"
         },
         {
-            "name": "Cesario",
-            "text": "!! ――Aaaaaaahh!!"
+            "text": "!! ――Aaaaaaahh!!",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Cesario!? Amazing……against Special Week-san……a senpai from the Golden Generation, she can keep up……!?)"
+            "text": "(Cesario!? Amazing……against Special Week-san……a senpai \nfrom the Golden Generation, she can keep up……!?)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Special Week",
-            "text": "Not yet, not yet……! Yaaaaaaaaaーーーー!!"
+            "text": "Not yet, not yet……! \nYaaaaaaaaaーーーー!!",
+            "name": "Special Week"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Spe-san……! How sharp……so that's the finishing strength of the Uma Musume called the \"Supreme Command of Japan\"……! ……But――)"
+            "text": "(Spe-san……! How sharp……so that's the finishing strength of the \nUma Musume called the \"Supreme Command of Japan\"……! ……But――)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Cesario",
-            "text": "Haa, haa, haa――! Haaaaaaaaaaa!!"
+            "text": "Haa, haa, haa――! \nHaaaaaaaaaaa!!",
+            "name": "Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Against that strength! Against that speed, she's still hanging in……! She's evolving! By chasing Spe-san and learning more and more――)"
+            "text": "(Against that strength! Against that speed, \nshe's still hanging in……! She's evolving! \nBy chasing Spe-san and learning more and more――)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Can I……as a leader, can I out run that? Against……a finish like that――"
+            "text": "Can I……as a leader, can I out run that? \nAgainst……a finish like that――",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Not good! 『Looking forward to it』? Now's not the time to be thinking naively about that……I need to get more serious!)"
+            "text": "(Not good! 『Looking forward to it』? Now's not the time to be \nthinking naively about that……I need to get more serious!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Against a last spurt like that…… I need to do something to fight back……!)"
+            "text": "(Against a last spurt like that…… \nI need to do something to fight back……!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……Then, I need to find an Uma Musume with overwhelming finishing strength too――……that's right, in that case!!"
+            "text": "……Then, I need to find an Uma Musume with overwhelming \nfinishing strength too――……that's right, in that case!!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "???",
-            "text": "Hmm, hmm, hmmmmm~……♪ So busy, so busy. Let's see, the next materials I need now are~……"
+            "text": "Hmm, hmm, hmmmmm~……♪ So busy, so busy. \nLet's see, the next materials I need now are~……",
+            "name": "???"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Ah, I found you……! Um, excuse me!! ――Sweep Tosho-san!!"
+            "text": "Ah, I found you……! \nUm, excuse me!! ――Sweep Tosho-san!!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "I know it's a bit sudden! W-will you……! Will you do some parallel running with me!?"
+            "text": "I know it's a bit sudden! W-will you……! \nWill you do some parallel running with me!?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Ha? What are you saying all of a sudden? No way!"
+            "text": "Ha? What are you saying all of a sudden? No way!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "So quick!? U-um, can you think about it a little bit……? I really want to……I need to get stronger……!"
+            "text": "So quick!? U-um, can you think about it a little bit……? \nI really want to……I need to get stronger……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "No waaay. It sounds annoying. And, right now I'm really busy."
+            "text": "No waaay. It sounds annoying. \nAnd, right now I'm really busy.",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Au……I-is that so? Uuu……no……no even then, can you please reconsider?"
+            "text": "Au……I-is that so? \nUuu……no……no even then, can you please reconsider?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Hey, are you even listening to me!? I said no way, didn't I!? Nooo waaay!!"
+            "text": "Hey, are you even listening to me!? \nI said no way, didn't I!? Nooo waaay!!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "But, but! Can't you do something!? Please, Sweep-saaaaa~~~n!!"
+            "text": "But, but! Can't you do something!? \nPlease, Sweep-saaaaa~~~n!!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "No means nooooo! You're so persistent! What's wrong with you～～～～!?"
+            "text": "No means nooooo! You're so persistent! \nWhat's wrong with you～～～～!?",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "――Now, put the small blue flowers here, and the bulbs in that box over there in to a bottle. Right now!"
+            "text": "――Now, put the small blue flowers here, and the bulbs \nin that box over there in to a bottle. Right now!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Okay! ……Um, and so, after I finish helping with this……!"
+            "text": "Okay! ……Um, and so, \nafter I finish helping with this……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "I get it. All I have to do is run for you right!? Geez-…… you're really stubborn, you know. Just saying no is more exhausting!"
+            "text": "I get it. All I have to do is run for you right!? Geez-…… \nyou're really stubborn, you know. Just saying no is more exhausting!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Ahaha, actually, I get told that alot……sorry~. So, these flowers……and bulbs……!"
+            "text": "Ahaha, actually, I get told that alot……sorry~. \nSo, these flowers……and bulbs……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Okay, all done! ……is all this, preparation for a new large-scale magic?"
+            "text": "Okay, all done! ……is all this, \npreparation for a new large-scale magic?",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Hm? Well, it does kind of give off that feeling…… Oh, so you, know about something like this?"
+            "text": "Hm? Well, it does kind of give off that feeling…… \nOh, so you, know about something like this?",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Of course……! Sweep Tosho-san. ……you're an Uma Musume who's shown us what 『Race Magic』 is."
+            "text": "Of course……! Sweep Tosho-san. \n……you're an Uma Musume who's shown us what 『Race Magic』 is.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Last year……before challenging the Triple Tiara rotation, you said something like this: 『This boring world, I'll change it』."
+            "text": "Last year……before challenging the Triple Tiara rotation, you \nsaid something like this: 『This boring world, I'll change it』.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『Triple Crown Uma Musume are stronger than Triple Tiara Uma Musume, is what you're saying~?]"
+            "text": "『Triple Crown Uma Musume are stronger than Triple \nTiara Uma Musume, is what you're saying~?]",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『When they compete together in Senior class races, the Tiara girls have always lost. That's what it seems like when you think about it rationally?』"
+            "text": "『When they compete together in Senior class races, \nthe Tiara girls have always lost. That's what it seems \nlike when you think about it rationally?』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『What's with that, it's so booooooring! That's something an idiot would conclude!』"
+            "text": "『What's with that, it's so booooooring! \nThat's something an idiot would conclude!』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『In that case, I'll show all of you! First, I'll start by competing in the Triple Tiara rotation――』"
+            "text": "『In that case, I'll show all of you! First, I'll \nstart by competing in the Triple Tiara rotation――』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『And then, in the Senior Class! And even in a Grand Prix, the Takarazuka Kinen! I'll compete against the Triple Crown girls, and win!』"
+            "text": "『And then, in the Senior Class! And even in a \nGrand Prix, the Takarazuka Kinen! I'll compete \nagainst the Triple Crown girls, and win!』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『And then, for idiots like you, I'll even cast my magic. Races aren't a boring place like that!』"
+            "text": "『And then, for idiots like you, I'll even cast my \nmagic. Races aren't a boring place like that!』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "『It doesn't matter if it's the Triple Crown or the Triple Tiara! Strong Uma Musume are strong! I'll show all of you!』"
+            "text": "『It doesn't matter if it's the Triple Crown or the Triple Tiara! \nStrong Uma Musume are strong! I'll show all of you!』",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "That press conference……I've watched it so many times. Again, and again……each and every time, it resonated in my heart."
+            "text": "That press conference……I've watched it so many times. Again, \nand again……each and every time, it resonated in my heart.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "『Triple Crown or Triple Tiara, doesn't matter』 『A strong Uma Musume is strong』……! I believe that too. I want to prove that too. That's why……!"
+            "text": "『Triple Crown or Triple Tiara, doesn't matter』 \n『A strong Uma Musume is strong』……! I believe \nthat too. I want to prove that too. That's why……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Please! I need to continue evolving now. For the 『Oka Sho』……so I can beat my rival……!"
+            "text": "Please! I need to continue evolving now. \nFor the 『Oka Sho』……so I can beat my rival……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Hmmm? ……so you're not just persistent, you're a kind of interesting girl too."
+            "text": "Hmmm? ……so you're not just persistent, \nyou're a kind of interesting girl too.",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "So, you're saying that you've fallen under my spell? ……In that case, having you stay weak would be troubling!"
+            "text": "So, you're saying that you've fallen under my spell? \n……In that case, having you stay weak would be troubling!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "I guess it can't be helped. I suppose it's fine to start some parallel running!"
+            "text": "I guess it can't be helped. \nI suppose it's fine to start some parallel running!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Kraft & Sweep",
-            "text": "Haaaaaaaaaa! Yaaaaaーーーー!"
+            "text": "Haaaaaaaaaa! \nYaaaaaーーーー!",
+            "name": "Kraft & Sweep"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Kuu……! No……she's going to pass me……!!)"
+            "text": "(Kuu……! No……she's going to pass me……!!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Fuuu……! Well what do you know? You're pretty good! Your start is on point, and you hung in there quite well at the end."
+            "text": "Fuuu……! Well what do you know? You're pretty good! Your start \nis on point, and you hung in there quite well at the end.",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "T-thank you very much. But, in the end you were still able to pass me……"
+            "text": "T-thank you very much. \nBut, in the end you were still able to pass me……",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Sweep Tosho",
-            "text": "Mu. Now you've said it……Against Sweepy, that's expected! And besides, I debuted a year earlier than you!"
+            "text": "Mu. Now you've said it……Against Sweepy, that's expected! \nAnd besides, I debuted a year earlier than you!",
+            "name": "Sweep Tosho"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "That may be true but……! That won't be enough. If I can't keep up with someone that's able to finish like you then……!"
+            "text": "That may be true but……! That won't be enough. If I can't \nkeep up with someone that's able to finish like you then……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Spe & Cesario",
-            "text": "Haaaaaa……!!"
+            "text": "Haaaaaa……!!",
+            "name": "Spe & Cesario"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(Against that finish……against that sharpness! If I stay like this……honestly, no matter how far in front I go, I don't think it'll be enough……!)"
+            "text": "(Against that finish……against that sharpness! \nIf I stay like this……honestly, no matter how far \nin front I go, I don't think it'll be enough……!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "(I can't imagine it!! I can't imagine winning against Cesario……!)"
+            "text": "(I can't imagine it!! \nI can't imagine winning against Cesario……!)",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Once more……please, Sweep-san. Like this, I don't think it'll be enough……!"
+            "text": "Once more……please, Sweep-san. \nLike this, I don't think it'll be enough……!",
+            "name": "Rhein Kraft"
         }
     ]
 }

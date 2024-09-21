@@ -1,90 +1,90 @@
 {
     "text_block_list": [
         {
-            "text": "I ended up not being able to speak to Admire Vega after the race.",
+            "text": "I ended up not being able to \nspeak to Admire Vega after the race.",
             "choice_data_list": [
                 "<i>I can't just leave her alone!</i>"
             ]
         },
         {
-            "text": "I don't know what's driving her to race, nor what's causing her to worry so much, or what kind of baggage she has. But…",
+            "text": "I don't know what's driving her to race, nor what's causing \nher to worry so much, or what kind of baggage she has. But…",
             "choice_data_list": [
-                "If I don't try to find out, \nthings will never get going."
+                "<size=31>If I don't try to find out, \nthings will never get going.</size>"
             ]
         },
         {
-            "text": "But first I needed to find her, so I began walking around the campus looking for her. That's when I saw the girl she raced with the other day, Meisho Doto."
+            "text": "But first I needed to find her, so I began walking around the \ncampus looking for her. That's when I saw the girl she raced with \nthe other day, Meisho Doto."
         },
         {
-            "name": "Meisho Doto",
-            "text": "Ah, are you asking me if I've seen Ayabe-san…? Umm, err…! If I had to say whether I saw her or not, I-I'd have to say that I have, but…"
+            "text": "Ah, are you asking me if I've seen Ayabe-san…? \nUmm, err…! If I had to say whether I saw her \nor not, I-I'd have to say that I have, but…",
+            "name": "Meisho Doto"
         },
         {
+            "text": "Haa Ha Ha Ha! If we were ephemeral stars, we may reach \nthat far away summit! Yet to reach that impenetrable \npeak, one would need to devote thy body!",
             "name": "TM Opera O",
-            "text": "Haa Ha Ha Ha! If we were ephemeral stars, we may reach that far away summit! Yet to reach that impenetrable peak, one would need to devote thy body!",
             "choice_data_list": [
-                "Are you saying she's in the mountains…?"
+                "<size=40>Are you saying she's in the mountains…?</size>"
             ]
         },
         {
-            "name": "TM Opera O",
-            "text": "If one were to put this plainly, that would be correct! And to explain it even more plainly, \"she went there to conduct some trail running!\""
+            "text": "If one were to put this plainly, that would be \ncorrect! And to explain it even more plainly, \"she \nwent there to conduct some trail running!\"",
+            "name": "TM Opera O"
         },
         {
-            "name": "Meisho Doto",
-            "text": "I, uhh…! S-Sorry, but I have something to s-say… I-If you knew where she was, you'd already be heading there, right…?"
+            "text": "I, uhh…! S-Sorry, but I have something to s-say… I-If you \nknew where she was, you'd already be heading there, right…?",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Meisho Doto",
-            "text": "A-Ayabe-san is very stoic and trains at a super high level… And I know this time is no different, but…"
+            "text": "A-Ayabe-san is very stoic and trains at a super high level… \nAnd I know this time is no different, but…",
+            "name": "Meisho Doto"
         },
         {
+            "text": "It is very d-dangerous…! I think the path \nmight be too treacherous for a human…!",
             "name": "Meisho Doto",
-            "text": "It is very d-dangerous…! I think the path might be too treacherous for a human…!",
             "choice_data_list": [
-                "Thank you for worrying about \nme, but I want to do this."
+                "<size=29>Thank you for worrying about \nme, but I want to do this.</size>"
             ]
         },
         {
-            "name": "TM Opera O",
-            "text": "Worry not, Doto. The chimes of fate are already ringing in her brain. Attempting to stop her would be futile."
+            "text": "Worry not, Doto. The chimes of fate are already \nringing in her brain. Attempting to stop her would be futile.",
+            "name": "TM Opera O"
         },
         {
-            "name": "TM Opera O",
-            "text": "Worry not, Doto. The chimes of fate are already ringing in her brain. Attempting to stop her would be futile."
+            "text": "Worry not, Doto. The chimes of fate are already \nringing in her brain. Attempting to stop her would be futile.",
+            "name": "TM Opera O"
         },
         {
-            "text": "While laughing loudly, she told me more about where Admire Vega had gone.",
+            "text": "While laughing loudly, she told me \nmore about where Admire Vega had gone.",
             "choice_data_list": [
-                "You're a life-saver! See you both soon!"
+                "<size=42>You're a life-saver! See you both soon!</size>"
             ]
         },
         {
-            "name": "Meisho Doto",
-            "text": "Awa… Sh-she's already leaving…"
+            "text": "Awa… Sh-she's already leaving…",
+            "name": "Meisho Doto"
         },
         {
-            "name": "Meisho Doto",
-            "text": "After the Selection Race, Ayabe-san said she wanted to be \"alone\" for a while… Is it really okay for that trainer to go…?"
+            "text": "After the Selection Race, Ayabe-san said she wanted to be \"alone\" \nfor a while… Is it really okay for that trainer to go…?",
+            "name": "Meisho Doto"
         },
         {
-            "name": "TM Opera O",
-            "text": "Some lean against the door. Some knock on the door. And some simply kick the door down… so this will be perfectly fine!"
+            "text": "Some lean against the door. Some knock on the door. And some \nsimply kick the door down… so this will be perfectly fine!",
+            "name": "TM Opera O"
         },
         {
-            "name": "Admire Vega",
             "text": "You came to talk to me…?",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Yeah!",
                 "Yeah!"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "Well I have nothing to say to you. Nor do I plan on being scouted by you. Bye."
+            "text": "Well I have nothing to say to you. \nNor do I plan on being scouted by you. Bye.",
+            "name": "Admire Vega"
         },
         {
-            "text": "She quickly left me in the dust, but… I came here filled with resolve. I can't simply return now!",
+            "text": "She quickly left me in the dust, but… I came \nhere filled with resolve. I can't simply return now!",
             "choice_data_list": [
                 "<i>Let's go…!</i>",
                 "<i>Let's go…!</i>"
@@ -94,27 +94,27 @@
             "text": "However…"
         },
         {
-            "name": "Admire Vega",
             "text": "Hah… haa… haa…",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "<i>*Wheeze…!*</i>"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "Hah… haa… haa…",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "<i>*Wheeze…!*</i>"
             ]
         },
         {
-            "text": "As Meisho Doto had warned me, the path was incredibly steep and the gap between Admire Vega and I was only widening…!"
+            "text": "As Meisho Doto had warned me, the path was incredibly steep \nand the gap between Admire Vega and I was only widening…!"
         },
         {
             "text": "Moreover…"
         },
         {
-            "text": "I was starting to lose sight of her as the sun was setting, but I continued to desperately run along the steep path.",
+            "text": "I was starting to lose sight of her as the sun was setting, \nbut I continued to desperately run along the steep path.",
             "choice_data_list": [
                 "I can't even see my fe- Uwaah!"
             ]
@@ -126,81 +126,81 @@
             "text": "――――――――"
         },
         {
-            "text": "My consciousness began returning to me, little by little. As I slowly opened my eyes, I noticed the starry sky above me."
+            "text": "My consciousness began returning to me, little by little. As I \nslowly opened my eyes, I noticed the starry sky above me."
         },
         {
             "text": "A sea of stars so vast that I could almost dive into…"
         },
         {
-            "name": "Admire Vega",
             "text": "Are you hurt anywhere…?",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Huh… Admire Vega!?"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "I'm asking the questions here. Are you hurt?",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "I'm fine. Did you save me…?",
                 "I'm fine. Did you save me…?"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "I couldn't just leave you…"
+            "text": "I couldn't just leave you…",
+            "name": "Admire Vega"
         },
         {
-            "text": "Admire Vega frowned while letting out a deep sigh. She then asked me a question."
+            "text": "Admire Vega frowned while letting out a deep sigh. She then \nasked me a question."
         },
         {
-            "name": "Admire Vega",
-            "text": "Why are you so obsessed with me?"
+            "text": "Why are you so obsessed with me?",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "I had such a poor showing at the Selection Race. I know nothing about you, and aside from that race you know nothing about me."
+            "text": "I had such a poor showing at the Selection Race. I know nothing \nabout you, and aside from that race you know nothing about me.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
             "text": "So why?",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "I'm not sure. But…"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "But…?",
+            "name": "Admire Vega",
             "choice_data_list": [
-                "I didn't want to leave you alone any longer.",
-                "I didn't want to leave you alone any longer."
+                "<size=38>I didn't want to leave you alone any longer.</size>",
+                "<size=38>I didn't want to leave you alone any longer.</size>"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "……………"
+            "text": "……………",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "I'm… fine being alone. I… prefer being alone."
+            "text": "I'm… fine being alone. \nI… prefer being alone.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "Racing and winning are my burdens to bear, no one else's. After all, she… my sister…"
+            "text": "Racing and winning are my burdens to bear, \nno one else's. After all, she… my sister…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
             "text": "Died in my place.",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "!!!!!"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "I've said too much… Forget it all."
+            "text": "I've said too much… Forget it all.",
+            "name": "Admire Vega"
         },
         {
-            "text": "If only a little, she confided in me some of the burdens that she carries. \"I'll carry all of these burdens myself.\" I'm sure that's what she's thinking."
+            "text": "If only a little, she confided in me some of the burdens that she \ncarries. \"I'll carry all of these burdens myself.\" I'm sure \nthat's what she's thinking."
         },
         {
             "text": "Even so…",
@@ -210,84 +210,84 @@
             ]
         },
         {
-            "text": "My legs are so heavy and my stamina has already reached its limits. Even so, since I could still see her…",
+            "text": "My legs are so heavy and my stamina has already \nreached its limits. Even so, since I could still see her…",
             "choice_data_list": [
-                "Hey, won't you let me be your trainer?",
-                "Hey, won't you let me be your trainer?"
+                "<size=43>Hey, won't you let me be your trainer?</size>",
+                "<size=43>Hey, won't you let me be your trainer?</size>"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "You're chasing after me again and suddenly saying that…?",
+            "name": "Admire Vega",
             "choice_data_list": [
-                "If you want to go forward alone, that's fine.",
-                "If you want to go forward alone, that's fine."
+                "<size=38>If you want to go forward alone, that's fine.</size>",
+                "<size=38>If you want to go forward alone, that's fine.</size>"
             ]
         },
         {
-            "name": "Admire Vega",
             "text": "Eh?",
+            "name": "Admire Vega",
             "choice_data_list": [
-                "But I will selfishly continue \nto follow you, and selfishly support you."
+                "<size=24>But I will selfishly continue \nto follow you, and selfishly support you.</size>"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "What's… with you…?"
+            "text": "What's… with you…?",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "It's almost curfew so I'm leaving."
+            "text": "It's almost curfew so I'm leaving.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Curren Chan",
-            "text": "Ah, Ayabe-san! Welcome home♪ Hey, look at this cute, fluffy―"
+            "text": "Ah, Ayabe-san! Welcome home♪ \nHey, look at this cute, fluffy―",
+            "name": "Curren Chan"
         },
         {
-            "name": "Admire Vega",
-            "text": "Sorry, but could you just let me sleep? I'm… so tired…"
+            "text": "Sorry, but could you just let me sleep? \nI'm… so tired…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Curren Chan",
-            "text": "Eh? Ah, okay…?"
+            "text": "Eh? Ah, okay…?",
+            "name": "Curren Chan"
         },
         {
-            "name": "Admire Vega",
-            "text": "Zzz…"
+            "text": "Zzz…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Curren Chan",
-            "text": "She's making a cute face in her sleep. This. Must. Mean… that something good happened."
+            "text": "She's making a cute face in her sleep. \nThis. Must. Mean… that something good happened.",
+            "name": "Curren Chan"
         },
         {
-            "name": "Admire Vega",
-            "text": "I had a dream. A dream that, for what feels like forever, didn't feel like it was suffocating me."
+            "text": "I had a dream. A dream that, for what feels \nlike forever, didn't feel like it was suffocating me.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "A careless dream where a cute girl whose face I did not know and I… ran through a sea of stars together…"
+            "text": "A careless dream where a cute girl whose face I did not \nknow and I… ran through a sea of stars together…",
+            "name": "Admire Vega"
         },
         {
-            "text": "The following day there was a hesitant knock on the door to my office. As I opened the door, in came… Admire Vega!",
+            "text": "The following day there was a hesitant knock on the door \nto my office. As I opened the door, in came… Admire Vega!",
             "choice_data_list": [
-                "You came to talk about being scouted?",
-                "You came to talk about being scouted?"
+                "<size=42>You came to talk about being scouted?</size>",
+                "<size=42>You came to talk about being scouted?</size>"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "If I don't have a trainer, I won't be able to enter the Twinkle Series. So either way, I'd need one eventually…"
+            "text": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "And if I had to choose…"
+            "text": "And if I had to choose…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
             "text": "I would choose you.",
+            "name": "Admire Vega",
             "choice_data_list": [
-                "Thank you. I look \nforward to working with you.",
-                "Thank you. I look \nforward to working with you."
+                "<size=35>Thank you. I look \nforward to working with you.</size>",
+                "<size=35>Thank you. I look \nforward to working with you.</size>"
             ]
         },
         {

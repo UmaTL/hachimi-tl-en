@@ -1,151 +1,151 @@
 {
     "text_block_list": [
         {
-            "text": "On a day off sometime after I had decided to learn more about partying for Daitaku Helios' sake―― I was wandering around the city when I heard a lively voice."
+            "text": "On a day off sometime after I had decided to learn more about \npartying for Daitaku Helios' sake―― I was wandering around the \ncity when I heard a lively voice."
         },
         {
-            "name": "Gyaru A",
-            "text": "Crazy～!! They seriously put a parfait on top of a whole cake!"
+            "text": "Crazy～!! They seriously put a \nparfait on top of a whole cake!",
+            "name": "Gyaru A"
         },
         {
-            "name": "Gyaru B",
-            "text": "Bring on the calories! Better get a pic now☆"
+            "text": "Bring on the calories! \nBetter get a pic now☆",
+            "name": "Gyaru B"
         },
         {
-            "text": "It was a store overflowing with Gyaru-looking girls. It seemed like it would be a good topic of discussion with Daitaku Helios, so I was going to take a look――"
+            "text": "It was a store overflowing with Gyaru-looking girls. It seemed \nlike it would be a good topic of discussion with Daitaku Helios, \nso I was going to take a look――"
         },
         {
-            "name": "Daitaku Helios",
             "text": "Oh, that's unexpected～! Trai-pi, what's up?",
+            "name": "Daitaku Helios",
             "choice_data_list": [
                 "I was curious about the menu"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Menu? ……Ah! Trai-poyo, you came here to challenge that wicked huge cake solo, didn't you!?"
+            "text": "Menu? ……Ah! Trai-poyo, you came here to challenge \nthat wicked huge cake solo, didn't you!?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "You're goin' really hard at that party trainin' huh!? Mad respect!!"
+            "text": "You're goin' really hard at that \nparty trainin' huh!? Mad respect!!",
+            "name": "Daitaku Helios"
         },
         {
-            "text": "That wasn't what I was doing though―― I just wanted to understand more about Daitaku Helios and her love for partying.",
+            "text": "That wasn't what I was doing though―― I just wanted to understand \nmore about Daitaku Helios and her love for partying.",
             "choice_data_list": [
                 "(Guess it wouldn't hurt to try though)"
             ]
         },
         {
+            "text": "Ah! This is everyone's first time meetin' Trai-poyo, right!? \nI'll introduce them! Listen to this～!",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "This person is my trainer! And, they're aimin' \nto be a party animal☆ Hope you get along～!",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "Eh, awesome! A party animal that's a trainer!? \nSo a party Trainer!",
+            "name": "Gyaru A"
+        },
+        {
+            "text": "Wanna try some～? \nIt'll blow you away～!",
+            "name": "Gyaru B"
+        },
+        {
+            "text": "Eat some～ just like bang bang boo～m☆",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "And so, together with Daitaku Helios and her friends, \nI challenged that wicked huge cake parfait―"
+        },
+        {
+            "text": "Ate it all we～i☆",
+            "name": "Everyone"
+        },
+        {
+            "text": "Well then, chan-Heli, \nwe're gonna go do some training-!",
+            "name": "Gyaru A"
+        },
+        {
+            "text": "Wei wei! Sounds good-! \nGive it all you got-!!",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "So? Trai-pippi, what're you gonna do now? \nHeading back to school?",
             "name": "Daitaku Helios",
-            "text": "Ah! This is everyone's first time meetin' Trai-poyo, right!? I'll introduce them! Listen to this～!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "This person is my trainer! And, they're aimin' to be a party animal☆ Hope you get along～!"
-        },
-        {
-            "name": "Gyaru A",
-            "text": "Eh, awesome! A party animal that's a trainer!? So a party Trainer!"
-        },
-        {
-            "name": "Gyaru B",
-            "text": "Wanna try some～? It'll blow you away～!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Eat some～ just like bang bang boo～m☆"
-        },
-        {
-            "text": "And so, together with Daitaku Helios and her friends, I challenged that wicked huge cake parfait―"
-        },
-        {
-            "name": "Everyone",
-            "text": "Ate it all we～i☆"
-        },
-        {
-            "name": "Gyaru A",
-            "text": "Well then, chan-Heli, we're gonna go do some training-!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Wei wei! Sounds good-! Give it all you got-!!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "So? Trai-pippi, what're you gonna do now? Heading back to school?",
             "choice_data_list": [
                 "Take a break. Ate too much……"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Got it☆ Then, after that, wanna hang out with me? I'll show ya a cool new spot!"
+            "text": "Got it☆ Then, after that, wanna hang out with me? \nI'll show ya a cool new spot!",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "For Trai-pi's cosmetics～…… it's gotta be this! Since we decided on blue for your First Look!"
+            "text": "For Trai-pi's cosmetics～…… it's gotta be this! \nSince we decided on blue for your First Look!",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Gyaru C",
-            "text": "Ah～! Heli-poyo, on a date!? Livin' it up, huh!?"
+            "text": "Ah～! Heli-poyo, on a date!? \nLivin' it up, huh!?",
+            "name": "Gyaru C"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Got that right-! A party date!! Wanna help me get Trai-pi all decked out?"
+            "text": "Got that right-! A party date!! \nWanna help me get Trai-pi all decked out?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "We'll grab some make up from here, get you all coordinated, and then hit the club like boom boom boom～☆"
+            "text": "We'll grab some make up from here, get you all coordinated, \nand then hit the club like boom boom boom～☆",
+            "name": "Daitaku Helios"
         },
         {
+            "text": "Sounds fun～! Let me join in～! \nI'm wicked good at doing make up!",
             "name": "Gyaru D",
-            "text": "Sounds fun～! Let me join in～! I'm wicked good at doing make up!",
             "choice_data_list": [
                 "……eh?"
             ]
         },
         {
+            "text": "You're a godsend～! Things're looking good, Trai-poyo! \nCan't do this without the right look☆",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "After that, with the help of Daitaku Helios \nand her friends, at the very least on the outside \nI was closer to living the party life―"
+        },
+        {
+            "text": "Uwahahahaa! It's DJ Helios' 『Sick☆Paka↑Mix』～☆ \nParty hard y'all～!!",
+            "name": "Daitaku Helios"
+        },
+        {
+            "text": "HEY YO! Helios, just who I was waitin' for! \nHeat it up tonight, and drop the beat!",
+            "name": "Club Goer"
+        },
+        {
+            "text": "YO YO! You got it☆ Just sit tight, peeps! \nTonight's gonna be wicked lit, I'll set your hearts afire!",
             "name": "Daitaku Helios",
-            "text": "You're a godsend～! Things're looking good, Trai-poyo! Can't do this without the right look☆"
-        },
-        {
-            "text": "After that, with the help of Daitaku Helios and her friends, at the very least on the outside I was closer to living the party life―"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "Uwahahahaa! It's DJ Helios' 『Sick☆Paka↑Mix』～☆ Party hard y'all～!!"
-        },
-        {
-            "name": "Club Goer",
-            "text": "HEY YO! Helios, just who I was waitin' for! Heat it up tonight, and drop the beat!"
-        },
-        {
-            "name": "Daitaku Helios",
-            "text": "YO YO! You got it☆ Just sit tight, peeps! Tonight's gonna be wicked lit, I'll set your hearts afire!",
             "choice_data_list": [
                 "(I feel like I'm in over my head……)",
                 "(I feel like I'm in over my head……)"
             ]
         },
         {
+            "text": "Wei we-i☆ \nTrai-pi, havin' fun～!?",
             "name": "Daitaku Helios",
-            "text": "Wei we-i☆ Trai-pi, havin' fun～!?",
             "choice_data_list": [
                 "We-…Weii!?"
             ]
         },
         {
+            "text": "Oh, soundin' good! \nOnce more, Weiii-☆",
             "name": "Daitaku Helios",
-            "text": "Oh, soundin' good! Once more, Weiii-☆",
             "choice_data_list": [
                 "Wei we-i……!!"
             ]
         },
         {
-            "text": "The club was overflowing with young people enjoying themselves, and at the center of all that stood Daitaku Helios."
+            "text": "The club was overflowing with young people enjoying themselves, \nand at the center of all that stood Daitaku Helios."
         },
         {
-            "text": "Daitaku Helios looked more lively than ever―― As I thought, understanding more about the party life would be a plus.",
+            "text": "Daitaku Helios looked more lively than ever―― As I thought, \nunderstanding more about the party life would be a plus.",
             "choice_data_list": [
                 "(I need to keep up……)"
             ]
@@ -154,70 +154,70 @@
             "text": "However――"
         },
         {
-            "name": "Daitaku Helios",
             "text": "Oooi-, ya dead～?",
+            "name": "Daitaku Helios",
             "choice_data_list": [
                 "I can't move……"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Trai-pi, you went too hard～! Guess the festive mood was too much for ya～"
+            "text": "Trai-pi, you went too hard～! \nGuess the festive mood was too much for ya～",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "You just debuted, remember? Just start out by vibin' at your own pace, okay?"
+            "text": "You just debuted, remember? \nJust start out by vibin' at your own pace, okay?",
+            "name": "Daitaku Helios"
         },
         {
-            "text": "Daitaku Helios' smile was so dazzling, I almost felt I had to close my eyes. I intended to support her, but it felt like it was the other way around……",
+            "text": "Daitaku Helios' smile was so dazzling, I almost felt I had to \nclose my eyes. I intended to support her, but it felt like it was \nthe other way around……",
             "choice_data_list": [
                 "But this isn't enough……!"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "That…… that's crazy～～～～～～!! Trai-pi, ain't that crazy!?"
+            "text": "That…… that's crazy～～～～～～!! \nTrai-pi, ain't that crazy!?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "So you're really for real about aiming to be a party animal, huh? You're livin' it up!! Let's keep livin' it up!!"
+            "text": "So you're really for real about aiming to be a party animal, huh? \nYou're livin' it up!! Let's keep livin' it up!!",
+            "name": "Daitaku Helios"
         },
         {
+            "text": "Okay, got it! Anyways, let's get started with maxing out those \nvibes! Smash through your limits――!!",
             "name": "Daitaku Helios",
-            "text": "Okay, got it! Anyways, let's get started with maxing out those vibes! Smash through your limits――!!",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "I'll hang with ya through it all! Check it☆"
+            "text": "I'll hang with ya through it all! Check it☆",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Heee～y everyone-!! DJs Helios & Trai-pi are gonna take it from here～☆"
+            "text": "Heee～y everyone-!! \nDJs Helios & Trai-pi are gonna take it from here～☆",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Party Peeps",
             "text": "FOOOOOOO！！！！！",
+            "name": "Party Peeps",
             "choice_data_list": [
                 "No wait, being a DJ……!?",
                 "No wait, being a DJ……!?"
             ]
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Don't worry! I'll show ya the ropes, then you just go with the flow, okay!?"
+            "text": "Don't worry! I'll show ya the ropes, \nthen you just go with the flow, okay!?",
+            "name": "Daitaku Helios"
         },
         {
-            "name": "Daitaku Helios",
-            "text": "Party life rocks FOO～☆"
+            "text": "Party life rocks FOO～☆",
+            "name": "Daitaku Helios"
         },
         {
-            "text": "After that, Daitaku Helios dragged me through a crash course as she boosted the mood in the room――"
+            "text": "After that, Daitaku Helios dragged me through a crash \ncourse as she boosted the mood in the room――"
         },
         {
-            "text": "In an attempt to try and keep up, I desperately moved my body to the beat."
+            "text": "In an attempt to try and keep up, \nI desperately moved my body to the beat."
         }
     ]
 }

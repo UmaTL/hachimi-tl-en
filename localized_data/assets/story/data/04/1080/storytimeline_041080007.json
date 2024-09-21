@@ -1,0 +1,271 @@
+{
+    "text_block_list": [
+        {
+            "text": "—The last bit of info I can give you... It looks like there \nwill be a <i>Great Escape</i> runner in your race. She'll increase \nthe tempo of the whole race, so be prepared!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Thanks so much, Transcend! \nI'm finally starting to get an idea of what I can do \nto win my next race!",
+            "name": "Umamusume A"
+        },
+        {
+            "text": "No need to thank me, it's what I do. \nNow, let's see your payment.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Sure! \nYou wanted info about your Trainer, right?",
+            "name": "Umamusume A"
+        },
+        {
+            "text": "I saw them sitting on the sofa in the boarding house. \nI heard them complain to another trainer. I think \nit was something like <i>\"Ugh! My work never ends!\"</i>",
+            "name": "Umamusume A"
+        },
+        {
+            "text": "Is that... enough info for you? \nIt's obviously not even close to as valuable \nas the info you gave me...",
+            "name": "Umamusume A"
+        },
+        {
+            "text": "No, no. It's plenty! \nThanks a bunch!",
+            "name": "Transcend"
+        },
+        {
+            "text": "...That's exactly what I needed.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Even if there may not be training right now, all the other \nwork hasn't gone away. Just as I opened my laptop, \nTranscend showed up."
+        },
+        {
+            "text": "Oh, there you are, Tray-chan. \nWhatcha you up to?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Well, just checking my mail..."
+            ]
+        },
+        {
+            "text": "She startled me and I quickly shut my laptop. \nI don't want her to worry about me, so I've been \nhiding the fact that I'm still working."
+        },
+        {
+            "text": "Hmm, hmm. \nI see, I see.",
+            "name": "Transcend"
+        },
+        {
+            "text": "How about this, Tray-chan: \nLet's go to the festival together. I mean, \nyou're free too, right?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Wowie, it sure is crowded! \nThe atmosphere's pretty nice.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Hmm hmm hmm♪ Hehe, I haven't been to a festival \nin forever. Should I have worn a yukata, I wonder...",
+            "name": "Transcend"
+        },
+        {
+            "text": "... Honestly, I still have work to do, but I couldn't just \ndecline her. She's looking around the different stalls, \nseemingly happier than ever.",
+            "choice_data_list": [
+                "Should we get some food?"
+            ]
+        },
+        {
+            "text": "Sounds good. How about yakisoba? \nIt's <i>the</i> cliché festival food, after all.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Whoa, it's so good! Want some? \nYou can use my chopsticks.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Sharing chopsticks..?"
+            ]
+        },
+        {
+            "text": "Hmm? You're concerned about that? \nCome now, we're close friends. Haha.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Actually, I wasn't sure you liked yakisoba. \nI'd assumed you did.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Yeah, I like it.",
+                "Yeah, I like it."
+            ]
+        },
+        {
+            "text": "Aha, I knew it. \nLet's go somewhere else..!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Why ask that, if you knew...?",
+                "Why ask that, if you knew...?"
+            ]
+        },
+        {
+            "text": "Whoa! That's some massive cotton candy! \nThat wasn't in my info..!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Hey Tray-chan, want to make one \nat one of those spinning machines?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "What? Why me?!",
+                "What? Why me?!"
+            ]
+        },
+        {
+            "text": "Hehe. You're not giving me the chance \nto try food that you made by hand?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Actually... Do you have what it takes to make \ncotton candy? Show me your skill!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Oh, there's even a shooting gallery! \nWhy don't you give it a go?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Sure, but my aim isn't very..."
+            ]
+        },
+        {
+            "text": "Worry not! \nYou've got <i>me</i> by your side, remember?",
+            "name": "Transcend"
+        },
+        {
+            "text": "I happen to know there's a little trick to this. \nDon't aim for the very middle of the prize, \nbut slightly to the left.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Ah, wait. Your aim is shaking. \nCalm down. Relax while you look through the sight.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "*huff* ...... Now!",
+                "*huff* ...... Now!"
+            ]
+        },
+        {
+            "text": "Wow! Bull's eye! \nYour aim's more steady than I thought!",
+            "name": "Man at the Shooting Gallery",
+            "choice_data_list": [
+                "Wait, I did it?!"
+            ]
+        },
+        {
+            "text": "Hee hee. Got you excited, right?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Really though, you're super patient. \nHmm hmm.",
+            "name": "Transcend"
+        },
+        {
+            "text": "After that, Transcend took me out of the hustle and bustle \nof the festival. She led me to a shrine some distance away."
+        },
+        {
+            "text": "This is the place. \nThere's a wide view over the city, so we can \nsee the fireworks really well. Or so I read.",
+            "name": "Transcend"
+        },
+        {
+            "text": "There's still some time left though... \nI guess we can relax a bit while waiting.",
+            "name": "Transcend"
+        },
+        {
+            "text": "......",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=39>Thanks for taking me somewhere relaxing.</size>"
+            ]
+        },
+        {
+            "text": "Hmm? \nUm... You're welcome?",
+            "name": "Transcend"
+        },
+        {
+            "text": "To be honest, I'm pretty sure she took me to the festival \nbecause she figured out that I'm getting overworked..."
+        },
+        {
+            "text": "I thank her for being so incredibly considerate to me."
+        },
+        {
+            "text": "Well... You shouldn't really thank me for that.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Why so?",
+                "Why so?"
+            ]
+        },
+        {
+            "text": "Well... \nBecause...",
+            "name": "Transcend"
+        },
+        {
+            "text": "I just wanted to have some fun, together with you. \nThat's all.",
+            "name": "Transcend"
+        },
+        {
+            "text": "And giving you a break was just an added bonus. \nAs a way to disguise what I really wanted to do... \nIt wasn't really for that purpose.",
+            "name": "Transcend"
+        },
+        {
+            "text": "But, surely you had some fun at least? \nHaha.",
+            "name": "Transcend",
+            "choice_data_list": [
+                "I see how it is."
+            ]
+        },
+        {
+            "text": "She wants to have fun, first and foremost. \nAnd she was able to help me out in the process."
+        },
+        {
+            "text": "I realized, when we went to the cinema together... \nThat I don't have enough information about <i>you</i>.",
+            "name": "Transcend"
+        },
+        {
+            "text": "I wanted to know more about you. Everything. \nJust the thought got me so excited!",
+            "name": "Transcend"
+        },
+        {
+            "text": "I told you before, right? \nWhen you became my Trainer.",
+            "name": "Transcend"
+        },
+        {
+            "text": "<i>I'll start with some advice. If you want to succeed</i> \n<i>in scouting her, she's gonna need some info about </i>you<i>,</i> \n<i>Tray-chan.</i>",
+            "name": "Transcend"
+        },
+        {
+            "text": "Except... What you told me that day wasn't even close \nto enough..! I needed more time to get to know it all.",
+            "name": "Transcend"
+        },
+        {
+            "text": "So... How about tonight, \nyou tell me everything about yourself?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Your likes, dislikes, things like that. \nFill me in on all the missing pieces.",
+            "name": "Transcend"
+        },
+        {
+            "text": "I want to know you better.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Honestly, though... I don't really get <i>what</i> about me \nshe's interested in. I'm a normal human, unlike her."
+        },
+        {
+            "text": "Yet, she gives me this insisting look. Okay then... \nAs her Trainer, I can't let her down.",
+            "choice_data_list": [
+                "<size=38>Is it OK if I don't have any interesting info?</size>"
+            ]
+        },
+        {
+            "text": "Of course! \nIn fact, I'm sure it's still interesting to <i>me</i> anyway.",
+            "name": "Transcend"
+        },
+        {
+            "text": "I could stay up the entire night, so long as you keep talking. \nAnd not just tonight, but from here on out.",
+            "name": "Transcend"
+        },
+        {
+            "text": "Fill me in on everything, Tray-chan!",
+            "name": "Transcend"
+        }
+    ]
+}

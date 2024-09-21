@@ -1,231 +1,240 @@
 {
     "text_block_list": [
         {
-            "name": "Rhein Kraft",
-            "text": "――Haaa, haaa, haa……!! Aww man, I ran out of energy part way again……!"
+            "text": "――Haaa, haaa, haa……!! \nAww man, I ran out of energy part way again……!",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Even though I've been doing so much stamina training…… no, this isn't the time to be complaining! The 『Oaks』 is soon so I need to work hard……!"
+            "text": "Even though I've been doing so much stamina training…… \nno, this isn't the time to be complaining! The 『Oaks』 \nis soon so I need to work hard……!",
+            "name": "Rhein Kraft"
         },
         {
+            "text": "Hey. ……You already realized it, right? \nAbout Kraft-san.",
             "name": "King Halo",
-            "text": "Hey. ……You already realized it, right? About Kraft-san.",
             "choice_data_list": [
                 "……I know. Aptitude, right?",
                 "……I know. Aptitude, right?"
             ]
         },
         {
-            "text": "(I already knew. The longer the distance, the harder it would be for Kraft. The 『Oaks』, at 2400m……would be very difficult)"
+            "text": "(I already knew. The longer the distance, the harder it would \nbe for Kraft. The 『Oaks』, at 2400m……would be very difficult)",
+            "name": "<username>"
         },
         {
-            "text": "(Based on that, I believed the best option for Kraft…… would be to offer her another option……)",
+            "text": "(Based on that, I believed the best option for Kraft…… \nwould be to offer her another option……)",
+            "name": "<username>",
             "choice_data_list": [
                 "(But――)"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……I really admire them. My senpais on the Triple Tiara route."
+            "text": "……I really admire them. \nMy senpais on the Triple Tiara route.",
+            "name": "Rhein Kraft"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "And that's why I'm choosing the Triple Tiara rotation. And, I'll become strong enough that I won't lose against Triple Crown Uma Musume!"
+            "text": "And that's why I'm choosing the Triple Tiara \nrotation. And, I'll become strong enough that \nI won't lose against Triple Crown Uma Musume!",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "(Admiration can be the driving force behind chasing your dream. Without that, it would be like taking away your entire reason for running)"
+            "text": "(Admiration can be the driving force behind \nchasing your dream. Without that, it would be \nlike taking away your entire reason for running)",
+            "name": "<username>"
         },
         {
-            "text": "(Considering how much Kraft admired the Tiara……it might be too much to ask her to give up on the 『Oaks』――)"
+            "text": "(Considering how much Kraft admired the Tiara……it might \nbe too much to ask her to give up on the 『Oaks』――)",
+            "name": "<username>"
         },
         {
+            "text": "As you continue to run, sometimes the shape \nof your dreams will change……or perhaps there's \nno choice other than for it to change.",
             "name": "King Halo",
-            "text": "As you continue to run, sometimes the shape of your dreams will change……or perhaps there's no choice other than for it to change.",
             "choice_data_list": [
                 "!!……King……"
             ]
         },
         {
-            "name": "King Halo",
-            "text": "However, they never disappear. If you never give up, never let go――that's for certain."
+            "text": "However, they never disappear. \nIf you never give up, never let go――that's for certain.",
+            "name": "King Halo"
         },
         {
+            "text": "Aren't you the one that understands that the most? \n……since you've been walking this path with me this whole time.",
             "name": "King Halo",
-            "text": "Aren't you the one that understands that the most? ……since you've been walking this path with me this whole time.",
             "choice_data_list": [
                 "……You're right",
                 "……You're right"
             ]
         },
         {
-            "text": "Right……think. Don't just dismiss it out of hand, keep thinking it through. What can I do for Kraft right now……?"
+            "text": "Right……think. Don't just dismiss it out of hand, keep \nthinking it through. What can I do for Kraft right now……?",
+            "name": "<username>"
         },
         {
-            "text": "Right……think. Don't just dismiss it out of hand, keep thinking it through. What can I do for Kraft right now……?"
+            "text": "Right……think. Don't just dismiss it out of hand, keep \nthinking it through. What can I do for Kraft right now……?",
+            "name": "<username>"
         },
         {
-            "text": "(Kraft is……a girl that admires the Tiara Uma Musume more than anything. Then, who would know best what to say to Kraft right now――)",
+            "text": "(Kraft is……a girl that admires the Tiara Uma \nMusume more than anything. Then, who would \nknow best what to say to Kraft right now――)",
+            "name": "<username>",
             "choice_data_list": [
                 "Maybe the Tiara Uma Musume"
             ]
         },
         {
-            "name": "Telecaster",
-            "text": "『\"The Unparalleled Queens\"――Tonight, we'll be speaking about the magnificent tales of the top Senior Class Queen Uma Musume』"
+            "text": "『\"The Unparalleled Queens\"――Tonight, we'll be speaking about \nthe magnificent tales of the top Senior Class Queen Uma Musume』",
+            "name": "Telecaster"
         },
         {
-            "text": "Several Queen Uma Musume who had etched their names in to history were shown on screen."
+            "text": "Several Queen Uma Musume who had etched their \nnames in to history were shown on screen."
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "――It could be said that it was 『Overturning』 expectations. The revival of a dynasty by my Grandmother, and my mother who won two tiaras. As one descended from their blood――"
+            "text": "――It could be said that it was 『Overturning』 expectations. \nThe revival of a dynasty by my Grandmother, and my mother \nwho won two tiaras. As one descended from their blood――",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "As the successor to a \"Renowned Family\" who had many expectations to achieve the Triple Tiara. That I was unable to accomplish it is reality."
+            "text": "As the successor to a \"Renowned Family\" who had \nmany expectations to achieve the Triple Tiara. \nThat I was unable to accomplish it is reality.",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "Being unable to participate in the 『Oka Sho』, and a late start during the 『Oaks』. Being forced to recuperate during the autumn."
+            "text": "Being unable to participate in the 『Oka Sho』, and a late start \nduring the 『Oaks』. Being forced to recuperate during the autumn.",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "……On top of that, my aptitude lying in short distances."
+            "text": "……On top of that, my aptitude lying in short distances.",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "As you're aware, compared to the royal road that is medium distances, there is much less attention. There were a great number of voices of disappointment when switching. However――"
+            "text": "As you're aware, compared to the royal road that is medium \ndistances, there is much less attention. There were a great \nnumber of voices of disappointment when switching. However――",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "What I recieved from my mother and my grandmother, was this 『Speed』. In that world where we compete for those instants, short distance, I ran to prove myself."
+            "text": "What I recieved from my mother and my grandmother, \nwas this 『Speed』. In that world where we compete for \nthose instants, short distance, I ran to prove myself.",
+            "name": "Daiichi Ruby"
         },
         {
-            "name": "Daiichi Ruby",
-            "text": "That this path――is my duty, that this place is where my passion can shine."
+            "text": "That this path――is my duty, that this \nplace is where my passion can shine.",
+            "name": "Daiichi Ruby"
         },
         {
-            "text": "Daiichi Ruby. Winning the 『Yasuda Kinen』 and 『Sprinter's S』, an Uma Musume that proved the strength of her bloodline through her 『Speed』."
+            "text": "Daiichi Ruby. Winning the 『Yasuda Kinen』 and \n『Sprinter's S』, an Uma Musume that proved the \nstrength of her bloodline through her 『Speed』."
         },
         {
-            "name": "Ikuno Dictus",
-            "text": "――I don't believe I possess any outstanding qualities or talent. Unlike everyone else here, I never achieved victory in a G1."
+            "text": "――I don't believe I possess any outstanding qualities or talent. \nUnlike everyone else here, I never achieved victory in a G1.",
+            "name": "Ikuno Dictus"
         },
         {
-            "name": "Ikuno Dictus",
-            "text": "However, if it's something that I take pride in, then I do have that. My strength was achieved through the information gained from those around me."
+            "text": "However, if it's something that I take pride in, \nthen I do have that. My strength was achieved through \nthe information gained from those around me.",
+            "name": "Ikuno Dictus"
         },
         {
-            "name": "Ikuno Dictus",
-            "text": "My 『Intel Skills』 are what I take pride in, my weapon. In the racing world, filled with such strong individuals, to truly shine――this is my weapon."
+            "text": "My 『Intel Skills』 are what I take pride in, my weapon. \nIn the racing world, filled with such strong individuals, \nto truly shine――this is my weapon.",
+            "name": "Ikuno Dictus"
         },
         {
-            "name": "Ikuno Dictus",
-            "text": "To go just a bit farther. For one more battle. And――to obtain just one more bit of glory."
+            "text": "To go just a bit farther. For one more battle. \nAnd――to obtain just one more bit of glory.",
+            "name": "Ikuno Dictus"
         },
         {
-            "name": "Ikuno Dictus",
-            "text": "With this weapon, my 『Intel Skills』, I will accomplish that. ……I am proud to do this on my own will."
+            "text": "With this weapon, my 『Intel Skills』, I will accomplish that. \n……I am proud to do this on my own will.",
+            "name": "Ikuno Dictus"
         },
         {
-            "text": "Ikuno Dictus. In the Twinkle Series, competing in 51 races without injury――"
+            "text": "Ikuno Dictus. In the Twinkle Series, \ncompeting in 51 races without injury――"
         },
         {
-            "text": "With a grueling 3-week rotation of the 『Yasuda Kinen』 and 『Takarazuka Kinen』. An Uma Musume with a body and mind of steel who still managed to achieve 2nd place in both."
+            "text": "With a grueling 3-week rotation of the 『Yasuda Kinen』 \nand 『Takarazuka Kinen』. An Uma Musume with a body and \nmind of steel who still managed to achieve 2nd place in both."
         },
         {
-            "name": "Hishi Amazon",
-            "text": "――Getting a flashy title like 『Unparalleled Queen』, huh? Honestly, I never thought of anything complicated like that!"
+            "text": "――Getting a flashy title like 『Unparalleled Queen』, huh? \nHonestly, I never thought of anything complicated like that!",
+            "name": "Hishi Amazon"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "The only thing I seek is to compete against the strong! That's all!"
+            "text": "The only thing I seek is to compete against the strong! That's all!",
+            "name": "Hishi Amazon"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "A lukewarm battle, does nothing to fire up my soul. For this body, for this heart, it can't be anything but a fierce race!"
+            "text": "A lukewarm battle, does nothing to fire up my soul. For this body, \nfor this heart, it can't be anything but a fierce race!",
+            "name": "Hishi Amazon"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Something that pushes me closer and closer to my limits――no, a race that forces me past my limits, that's when I become the strongest."
+            "text": "Something that pushes me closer and closer \nto my limits――no, a race that forces me past \nmy limits, that's when I become the strongest.",
+            "name": "Hishi Amazon"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "Sometimes I'd get asked if I've ever felt intimidated, you know? But never, not once. Rather, it's so fun I can't help but get excited!"
+            "text": "Sometimes I'd get asked if I've ever felt \nintimidated, you know? But never, not once. \nRather, it's so fun I can't help but get excited!",
+            "name": "Hishi Amazon"
         },
         {
-            "name": "Hishi Amazon",
-            "text": "It was like that when I faced off against that \"Monster\" too! I'm the strongest when I'm fighting it out!!"
+            "text": "It was like that when I faced off against that \"Monster\" too! \nI'm the strongest when I'm fighting it out!!",
+            "name": "Hishi Amazon"
         },
         {
-            "text": "Hishi Amazon. Although she wasn't able to participate in the Oka Sho or Oaks, she had won 5 consecutive major victories. Then she went on to win the Elizabeth Cup――"
+            "text": "Hishi Amazon. Although she wasn't able to participate in \nthe Oka Sho or Oaks, she had won 5 consecutive major \nvictories. Then she went on to win the Elizabeth Cup――"
         },
         {
-            "text": "Not only was she considered the queen of her generation, but with her strength, she was the only one to come even close to that \"Monster\", Narita Brian, at the 『Arima Kinen』."
+            "text": "Not only was she considered the queen of her generation, \nbut with her strength, she was the only one to come even \nclose to that \"Monster\", Narita Brian, at the 『Arima Kinen』."
         },
         {
-            "name": "Air Groove",
-            "text": "――My mother once held the title of \"Queen\". From my first steps…… or maybe even before that, my path was already decided."
+            "text": "――My mother once held the title of \"Queen\". From my first steps…… \nor maybe even before that, my path was already decided.",
+            "name": "Air Groove"
         },
         {
-            "name": "Air Groove",
-            "text": "To become the brightest guiding light. To become the 『Ideal』 for all Uma Musume, for all those who are just beginning."
+            "text": "To become the brightest guiding light. To become the 『Ideal』 \nfor all Uma Musume, for all those who are just beginning.",
+            "name": "Air Groove"
         },
         {
-            "name": "Air Groove",
-            "text": "That is my mission. To become that \"Empress\" is my reason for existence."
+            "text": "That is my mission. \nTo become that \"Empress\" is my reason for existence.",
+            "name": "Air Groove"
         },
         {
-            "name": "Air Groove",
-            "text": "In which case, I have nothing to fear. No matter which battlefield―― whether it be the 『Tenno Sho (Autumn)』 or the 『Japan Cup』."
+            "text": "In which case, I have nothing to fear. No matter which battlefield―― \nwhether it be the 『Tenno Sho (Autumn)』 or the 『Japan Cup』.",
+            "name": "Air Groove"
         },
         {
-            "name": "Air Groove",
-            "text": "I will move forth with dignity, putting all of my strength, all of my being, in to obtaining victory."
+            "text": "I will move forth with dignity, putting all of my \nstrength, all of my being, in to obtaining victory.",
+            "name": "Air Groove"
         },
         {
-            "name": "Air Groove",
-            "text": "To continue taking on all those challenges will be the way to inspire all those that come after――I think that belief is what spurred me on to greater heights."
+            "text": "To continue taking on all those challenges will be the \nway to inspire all those that come after――I think that \nbelief is what spurred me on to greater heights.",
+            "name": "Air Groove"
         },
         {
-            "text": "Air Groove. She became the first Uma Musume from the Tiara route to win the 『Tenno Sho (Autumn)』, becoming an inspiration for many famous Uma Musume after her."
+            "text": "Air Groove. She became the first Uma Musume from the \nTiara route to win the 『Tenno Sho (Autumn)』, becoming \nan inspiration for many famous Uma Musume after her."
         },
         {
-            "text": "Staring at the screen, I racked my brain. Keep thinking. These amazing Uma Musume who carved their names in to history, what did they all have in common?",
+            "text": "Staring at the screen, I racked my brain. Keep thinking. \nThese amazing Uma Musume who carved their names in to \nhistory, what did they all have in common?",
             "choice_data_list": [
                 "……they all walked their own path."
             ]
         },
         {
-            "text": "Each of them had their own dreams, goals, and missions, alongside a strong desire to pursue them."
+            "text": "Each of them had their own dreams, goals, and missions, \nalongside a strong desire to pursue them."
         },
         {
-            "text": "Wondering where they could shine the brightest. Understanding their true strengths."
+            "text": "Wondering where they could shine the brightest. \nUnderstanding their true strengths."
         },
         {
-            "text": "Thinking, worrying, choosing. And then――"
+            "text": "Thinking, worrying, choosing. \nAnd then――"
         },
         {
-            "text": "(……deciding their own unique path for themselves. Something they could be proud of and achieving glory along the way)"
+            "text": "(……deciding their own unique path for themselves. Something \nthey could be proud of and achieving glory along the way)",
+            "name": "<username>"
         },
         {
-            "text": "Just like the Triple Crown Uma Musume, they built an era. Leaving a wide impact on many, even if they weren't considered the representatives of their generation."
+            "text": "Just like the Triple Crown Uma Musume, they built an \nera. Leaving a wide impact on many, even if they weren't \nconsidered the representatives of their generation."
         },
         {
-            "text": "But those Tiara Uma Musume still had an appeal all of their own. And――they had already shown us that. They had shown us and created that link."
+            "text": "But those Tiara Uma Musume still had an appeal \nall of their own. And――they had already shown \nus that. They had shown us and created that link."
         },
         {
-            "text": "(That's why……Rhein Kraft was here right now, why she was running.)"
+            "text": "(That's why……Rhein Kraft was here \nright now, why she was running.)",
+            "name": "<username>"
         },
         {
-            "text": "The program had ended before I realized. I turned off the TV and took a deep breath. The room was completely silent, the only thing on my mind――was the cheering at the 『Oka Sho』.",
+            "text": "The program had ended before I realized. I turned off the \nTV and took a deep breath. The room was completely silent, \nthe only thing on my mind――was the cheering at the 『Oka Sho』.",
             "choice_data_list": [
                 "Rhein Kraft……was amazing."
             ]
         },
         {
-            "text": "I was now convinced. The place that Rhein Kraft could be the strongest, shine the brightest was――",
+            "text": "I was now convinced. The place that Rhein Kraft \ncould be the strongest, shine the brightest was――",
             "choice_data_list": [
                 "……Mile races."
             ]
@@ -234,19 +243,19 @@
             "text": "(Knock knock……)"
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Excuse me……Ah, Trainer-san!"
+            "text": "Excuse me……Ah, Trainer-san!",
+            "name": "Rhein Kraft"
         },
         {
+            "text": "Good afternoon. Um, well then……by important \nconversation, what did you mean?",
             "name": "Rhein Kraft",
-            "text": "Good afternoon. Um, well then……by important conversation, what did you mean?",
             "choice_data_list": [
                 "……Kraft. You see――",
                 "……Kraft. You see――"
             ]
         },
         {
-            "text": "I tried not to sound too cold, but wanted to give my honest opinion. Due to her aptitudes, the 2400m Oaks would probably be incredibly difficult."
+            "text": "I tried not to sound too cold, but wanted to \ngive my honest opinion. Due to her aptitudes, \nthe 2400m Oaks would probably be incredibly difficult."
         },
         {
             "text": "Therefore, as a trainer――",
@@ -256,37 +265,44 @@
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "Eh……eh? By different, you mean……?"
+            "text": "Eh……eh? By different, you mean……?",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "……your run at the 『Oka Sho』 was really amazing. When it comes to Mile races, I think you're the fastest of your generation……that's what I believe."
+            "text": "……your run at the 『Oka Sho』 was really amazing. \nWhen it comes to Mile races, I think you're the \nfastest of your generation……that's what I believe.",
+            "name": "<username>"
         },
         {
-            "text": "……your run at the 『Oka Sho』 was really amazing. When it comes to Mile races, I think you're the fastest of your generation……that's what I believe."
+            "text": "……your run at the 『Oka Sho』 was really amazing. \nWhen it comes to Mile races, I think you're the \nfastest of your generation……that's what I believe.",
+            "name": "<username>"
         },
         {
             "text": "That's why……Kraft.",
+            "name": "<username>",
             "choice_data_list": [
                 "How about the 『NHK Mile Cup』?",
                 "How about the 『NHK Mile Cup』?"
             ]
         },
         {
-            "name": "Rhein Kraft",
-            "text": "……!?"
+            "text": "……!?",
+            "name": "Rhein Kraft"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, your dreams, and what you've seen so far along your journey."
+            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "name": "<username>"
         },
         {
-            "text": "Just give it some thought Kraft. And about your aspirations, your dreams, and what you've seen so far along your journey."
+            "text": "Just give it some thought Kraft. And about your aspirations, \nyour dreams, and what you've seen so far along your journey.",
+            "name": "<username>"
         },
         {
-            "text": "And then…… about a path that only you can run."
+            "text": "And then…… \nabout a path that only you can run.",
+            "name": "<username>"
         },
         {
-            "text": "And then…… about a path that only you can run."
+            "text": "And then…… \nabout a path that only you can run.",
+            "name": "<username>"
         }
     ]
 }

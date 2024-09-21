@@ -1,205 +1,205 @@
 {
     "text_block_list": [
         {
-            "text": "One day while training, Silence Suzuka seemed to be running in good form but-"
+            "text": "One day while training, Silence Suzuka seemed \nto be running in good form but-"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Haa… haa… haa… haa…!"
+            "text": "Haa… haa… haa… haa…!",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "Fuu- an improvement of 0.1 second. Seems like \nthere's no issue with running… haa…",
             "name": "Silence Suzuka",
-            "text": "Fuu- an improvement of 0.1 second. Seems like there's no issue with running… haa…",
             "choice_data_list": [
-                "Was there a problem with the training…?",
-                "Was there a problem with the training…?"
+                "<size=40>Was there a problem with the training…?</size>",
+                "<size=40>Was there a problem with the training…?</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ah, no. There's no issue with the training."
+            "text": "Ah, no. There's no issue with the training.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…It's just that, this weekend, there's a Fan Meetup event."
+            "text": "…It's just that, this weekend, there's a Fan Meetup event.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "But, I've been so preoccupied with running that…I haven't really gotten used to that kind of thing."
+            "text": "But, I've been so preoccupied with running that…I haven't \nreally gotten used to that kind of thing.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "And last time, when a fan spoke to me, I was so worried thinking of a response that I unconsciously started pacing in a circle…"
+            "text": "And last time, when a fan spoke to me, I was so worried thinking \nof a response that I unconsciously started pacing in a circle…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "After that, there was an article in a magazine titled \"When I called out to her, she mysteriously started walking in a counterclockwise circle\"…"
+            "text": "After that, there was an article in a magazine titled \"When I \ncalled out to her, she mysteriously started walking in a \ncounterclockwise circle\"…",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "Because of that, whenever I hear about a \"Meetup \nEvent\" I feel a little dejected… it'd be nice \nif I didn't mess up like that again.",
             "name": "Silence Suzuka",
-            "text": "Because of that, whenever I hear about a \"Meetup Event\" I feel a little dejected… it'd be nice if I didn't mess up like that again.",
             "choice_data_list": [
                 "Maybe you were a little overwhelmed"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "I suppose that could have been the case…"
+            "text": "I suppose that could have been the case…",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "However, that's exactly why I'd like to conduct the event \nproperly. I say that, but, I don't feel like I can…",
             "name": "Silence Suzuka",
-            "text": "However, that's exactly why I'd like to conduct the event properly. I say that, but, I don't feel like I can…",
             "choice_data_list": [
                 "Want to try practicing with me?",
                 "Want to try practicing with me?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Eh… practice, is it? With Trainer-san…?"
+            "text": "Eh… practice, is it? With Trainer-san…?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "And with that, I volunteered to act as a Fan to help Silence Suzuka practice.",
+            "text": "And with that, I volunteered to act as a \nFan to help Silence Suzuka practice.",
             "choice_data_list": [
-                "I've become an even bigger admirer now \nbecause of your wonderful running!"
+                "<size=21>I've become an even bigger admirer now \nbecause of your wonderful running!</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Ah… you're starting with an unexpectedly higher difficulty subject."
+            "text": "Ah… you're starting with an unexpectedly \nhigher difficulty subject.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Um… I should honestly accept the praise of \"Wonderful Running\"…"
+            "text": "Um… I should honestly accept the \npraise of \"Wonderful Running\"…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "\"-bigger admirer now\" means, in short, up until now they've admired me, too… uuuu~n…"
+            "text": "\"-bigger admirer now\" means, in short, up until \nnow they've admired me, too… uuuu~n…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "…Thank you very much."
+            "text": "…Thank you very much.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
             "text": "…Um, that's all.",
+            "name": "Silence Suzuka",
             "choice_data_list": [
                 "…what a refined answer.",
                 "…what a refined answer."
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "You don't need to follow up like that. Even if we practice now, it'd be just a drop in the bucket."
+            "text": "You don't need to follow up like that. Even if we practice now, \nit'd be just a drop in the bucket.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Unlike Fukikitaru and her fortunes or Taiki who can talk about anything, I guess I'm not suited to holding lively conversations."
+            "text": "Unlike Fukikitaru and her fortunes or Taiki who can talk about \nanything, I guess I'm not suited to holding lively conversations.",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "That said… at the very least, I feel like I should \ndo the event with a brighter outlook…",
             "name": "Silence Suzuka",
-            "text": "That said… at the very least, I feel like I should do the event with a brighter outlook…",
             "choice_data_list": [
                 "Then should I prepare a reward?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "A reward…?"
+            "text": "A reward…?",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "And then the weekend, the day of the Meetup event that worried Silence Suzuka approached."
+            "text": "And then the weekend, the day of the Meetup event \nthat worried Silence Suzuka approached."
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Fuuua… the tension in the air is a bit different from a race, isn't it?"
+            "text": "Fuuua… the tension in the air is a bit \ndifferent from a race, isn't it?",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "Honestly, I'm still a little uneasy but…Yeah. \nI'll stay positive and give it my best.",
             "name": "Silence Suzuka",
-            "text": "Honestly, I'm still a little uneasy but…Yeah. I'll stay positive and give it my best.",
             "choice_data_list": [
                 "Do your best!",
                 "Do your best!"
             ]
         },
         {
+            "text": "Yes. I'll be off…I'll be looking forward to my reward.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Suzuka-san, I always cheer for you! Lately when I see you run, it \nseems like you've got this air of 'completeness' about you!",
+            "name": "Suzuka's Fan"
+        },
+        {
+            "text": "Um, Thank you very much. And… um… mmmm…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Ah! Paying attention to such a small detail, I'm honored.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "And, mmmmm… mmmm…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Having seen Silence Suzuka trying her best with \nthe event, I went to prepare her reward-"
+        },
+        {
+            "text": "The end of the line for a \"Royal Honey Carrot Tart\" is over \nheeeere! The wait will be at least 140 minutes!",
+            "name": "Store Staff"
+        },
+        {
+            "text": "There was a famous sweets shop in this part of the mall and I \nqueued up in the long line. Then-"
+        },
+        {
+            "text": "4 hours… you stood in line for that long?",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "I see, part of making a Tart is to bake and let \nit cool. That must be why it takes so long…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Um, I'm sorry. When you suddenly talked about a reward, this was \nthe first thing I thought of since it was a hot topic in class…",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "But, because of that, the event went really well.",
+            "name": "Silence Suzuka"
+        },
+        {
+            "text": "Ah… this doesn't mean I've become better at \ninteracting with people. It's just…",
             "name": "Silence Suzuka",
-            "text": "Yes. I'll be off…I'll be looking forward to my reward."
-        },
-        {
-            "name": "Suzuka's Fan",
-            "text": "Suzuka-san, I always cheer for you! Lately when I see you run, it seems like you've got this air of 'completeness' about you!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, Thank you very much. And… um… mmmm…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah! Paying attention to such a small detail, I'm honored."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "And, mmmmm… mmmm…"
-        },
-        {
-            "text": "Having seen Silence Suzuka trying her best with the event, I went to prepare her reward-"
-        },
-        {
-            "name": "Store Staff",
-            "text": "The end of the line for a \"Royal Honey Carrot Tart\" is over heeeere! The wait will be at least 140 minutes!"
-        },
-        {
-            "text": "There was a famous sweets shop in this part of the mall and I queued up in the long line. Then-"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "4 hours… you stood in line for that long?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I see, part of making a Tart is to bake and let it cool. That must be why it takes so long…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, I'm sorry. When you suddenly talked about a reward, this was the first thing I thought of since it was a hot topic in class…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "But, because of that, the event went really well."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah… this doesn't mean I've become better at interacting with people. It's just…",
             "choice_data_list": [
                 "You faced it with positivity?"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Yes, that's right. At the very least, more so than before."
+            "text": "Yes, that's right. At the very least, more so than before.",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Before, I was worried about how to behave or what I should do. I thought about alot of things but…"
+            "text": "Before, I was worried about how to behave or what I should do. I \nthought about alot of things but…",
+            "name": "Silence Suzuka"
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Focusing on that \"reward\" made things simple. I just have to do my best, I thought."
+            "text": "Focusing on that \"reward\" made things simple. \nI just have to do my best, I thought.",
+            "name": "Silence Suzuka"
         },
         {
+            "text": "Just like in a race, focusing only on the goal… thinking \nlike that made it possible.",
             "name": "Silence Suzuka",
-            "text": "Just like in a race, focusing only on the goal… thinking like that made it possible.",
             "choice_data_list": [
-                "You worked hard, so the sweets will be delicious"
+                "<size=34>You worked hard, so the sweets will be delicious</size>"
             ]
         },
         {
-            "name": "Silence Suzuka",
-            "text": "Fufuu, I'm looking forward to how good they'll be."
+            "text": "Fufuu, I'm looking forward to how good they'll be.",
+            "name": "Silence Suzuka"
         },
         {
-            "text": "Silence Suzuka said that with a soft expression on her face, full of the satisfaction of completing the event."
+            "text": "Silence Suzuka said that with a soft expression on her face, full \nof the satisfaction of completing the event."
         }
     ]
 }

@@ -1,31 +1,31 @@
 {
     "text_block_list": [
         {
-            "name": "Veteran Trainer A",
-            "text": "――Well then, Kris S-san. Will you tell us now? Who is it you want to team up with?"
+            "text": "――Well then, Kris S-san. Will you tell us now? \nWho is it you want to team up with?",
+            "name": "Veteran Trainer A"
         },
         {
-            "text": "Today, Symboli Kris S would announce the results of the [Trainer Selection]――"
+            "text": "Today, Symboli Kris S would announce \nthe results of the [Trainer Selection]――"
         },
         {
-            "text": "Since I wasn't even participating, there was no reason I would be selected. However―― now that I knew her, I couldn't help but hope.",
+            "text": "Since I wasn't even participating, there was no reason I would be \nselected. However―― now that I knew her, I couldn't help but hope.",
             "choice_data_list": [
                 "(I want to be chosen! But……)"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――……"
+            "text": "――……",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Our eyes met. In that moment, I couldn't stop the words from spilling out.",
+            "text": "Our eyes met. In that moment, \nI couldn't stop the words from spilling out.",
             "choice_data_list": [
                 "Kris S……!"
             ]
         },
         {
-            "name": "Symboli Kris S",
             "text": "You.",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "……！"
             ]
@@ -34,94 +34,94 @@
             "text": "Symboli Kris S' eyes were looking straight at me."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――In this place, you're…… the one that knows me most. You tried to―― learn more about me."
+            "text": "――In this place, you're…… the one that knows me most. \nYou tried to―― learn more about me.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "About me. ――You said, I had results. Even if it was only a little…… you said I had them."
+            "text": "About me. ――You said, I had results. \nEven if it was only a little…… you said I had them.",
+            "name": "Symboli Kris S"
         },
         {
+            "text": "That's why. ……If it's with you, \nI can do it. ――That's what I feel.",
             "name": "Symboli Kris S",
-            "text": "That's why. ……If it's with you, I can do it. ――That's what I feel.",
             "choice_data_list": [
                 "(――what sincere eyes)"
             ]
         },
         {
-            "text": "It was that sincerity. It was the sincerity that I wanted to live up to…… That I had hoped for."
+            "text": "It was that sincerity. It was the sincerity that I \nwanted to live up to…… That I had hoped for."
         },
         {
-            "name": "Symboli Kris S",
             "text": "――What do you think?",
+            "name": "Symboli Kris S",
             "choice_data_list": [
-                "……I look forward to working with you!"
+                "<size=42>……I look forward to working with you!</size>"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……"
+            "text": "……",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――That's why ――I'm sorry."
+            "text": "――That's why ――I'm sorry.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Symboli Kris S lowered her head to them. Because she had turned down all the proper candidates!",
+            "text": "Symboli Kris S lowered her head to them. \nBecause she had turned down all the proper candidates!",
             "choice_data_list": [
                 "I…… I want to be her trainer! Sorry!"
             ]
         },
         {
-            "name": "Mid-Rank Trainer A",
-            "text": "Ah, no…… it's fine, it's fine. She's the one that decided, so I have no complaints!"
+            "text": "Ah, no…… it's fine, it's fine. \nShe's the one that decided, so I have no complaints!",
+            "name": "Mid-Rank Trainer A"
         },
         {
-            "name": "Veteran Trainer A",
-            "text": "That's right…… in the first place, we may not have tried enough to meet in the middle. Kris S-san, we apologize as well."
+            "text": "That's right…… in the first place, we may not have tried enough \nto meet in the middle. Kris S-san, we apologize as well.",
+            "name": "Veteran Trainer A"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――…… I'm grateful."
+            "text": "――…… I'm grateful.",
+            "name": "Symboli Kris S"
         },
         {
             "text": "――Several days later."
         },
         {
-            "name": "Symboli Kris S",
             "text": "……Well then―― lastly―― a light cooldown.",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "Yeah, run a light 2 laps"
             ]
         },
         {
-            "text": "After talking with Symboli Kris S, I was gradually getting accustomed to reducing her training load as much as possible."
+            "text": "After talking with Symboli Kris S, I was gradually getting \naccustomed to reducing her training load as much as possible."
         },
         {
-            "name": "？？？",
-            "text": "Hey, working hard, I see."
+            "text": "Hey, working hard, I see.",
+            "name": "？？？"
         },
         {
+            "text": "Congratulations on becoming her trainer. \nI say that but…… this was well within my expectations.",
             "name": "Symboli Rudolf",
-            "text": "Congratulations on becoming her trainer. I say that but…… this was well within my expectations.",
             "choice_data_list": [
                 "Expectations……?"
             ]
         },
         {
+            "text": "I felt you were suited for it. \nSince both of you are a little similar.",
             "name": "Symboli Rudolf",
-            "text": "I felt you were suited for it. Since both of you are a little similar.",
             "choice_data_list": [
                 "W-we're similar……?"
             ]
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "Yeah, without a doubt. ――Well, Kris S will be back in a little bit."
+            "text": "Yeah, without a doubt. \n――Well, Kris S will be back in a little bit.",
+            "name": "Symboli Rudolf"
         },
         {
-            "name": "Symboli Rudolf",
-            "text": "I shouldn't bother you, I'll excuse myself here. ……I'm leaving her to you, Trainer."
+            "text": "I shouldn't bother you, I'll excuse myself here. \n……I'm leaving her to you, Trainer.",
+            "name": "Symboli Rudolf"
         },
         {
             "text": "――Several days after that. After training had ended.",
@@ -131,86 +131,86 @@
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……? Why? You…… talk and laugh quite a lot."
+            "text": "……? Why? You…… talk and laugh quite a lot.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Certainly not if you looked at words spoken…… Symboli Rudolf had said 『You're similar』, and I couldn't help but think about it."
+            "text": "Certainly not if you looked at words spoken…… Symboli Rudolf had \nsaid 『You're similar』, and I couldn't help but think about it."
         },
         {
+            "text": "――Not being similar…… is fine. \nI don't―― want to…… be misunderstood.",
             "name": "Symboli Kris S",
-            "text": "――Not being similar…… is fine. I don't―― want to…… be misunderstood.",
             "choice_data_list": [
                 "……being misunderstood hurts?"
             ]
         },
         {
-            "text": "Even if the misunderstanding with the senpai trainers was cleared up, many of her Uma Musume classmates seemed to still be fearful of her."
+            "text": "Even if the misunderstanding with the senpai trainers \nwas cleared up, many of her Uma Musume classmates \nseemed to still be fearful of her."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――I have you. I have a…… trainer. You―― understand a lot about me."
+            "text": "――I have you. I have a…… trainer. \nYou―― understand a lot about me.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――To fulfill my mission…… as long as I have you. It's sufficient――it's enough."
+            "text": "――To fulfill my mission…… as long as I have you. \nIt's sufficient――it's enough.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "She's saying that she only needs one person to understand her. She wanted to focus on her mission――",
+            "text": "She's saying that she only needs one person to understand her. \nShe wanted to focus on her mission――",
             "choice_data_list": [
                 "(……I want to help Kris S succeed)"
             ]
         },
         {
-            "text": "That was also my desire, before I realized it, that's what I thought."
+            "text": "That was also my desire, \nbefore I realized it, that's what I thought."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "I want to become my mentor's results―― is what I thought."
+            "text": "I want to become my mentor's results―― is what I thought.",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
             "text": "……what's wrong?",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "……If you want to fulfill your mission.",
                 "……If you want to fulfill your mission."
             ]
         },
         {
-            "name": "Symboli Kris S",
             "text": "――？",
+            "name": "Symboli Kris S",
             "choice_data_list": [
                 "Then that's my desire too",
                 "Then that's my desire too"
             ]
         },
         {
-            "name": "Symboli Kris S",
-            "text": "……"
+            "text": "……",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "The similarity that Symboli Rudolf mentioned. ――It was that we both made someone else's dream our own."
+            "text": "The similarity that Symboli Rudolf mentioned. \n――It was that we both made someone else's dream our own."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "――That's where we're similar? The same――"
+            "text": "――That's where we're similar? \nThe same――",
+            "name": "Symboli Kris S"
         },
         {
-            "name": "Symboli Kris S",
-            "text": "…… …… …………――that's right."
+            "text": "…… …… \n…………――that's right.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "Symboli Kris S nodded…… the look on her face told me she was convinced."
+            "text": "Symboli Kris S nodded…… \nthe look on her face told me she was convinced."
         },
         {
-            "name": "Symboli Kris S",
-            "text": "It's the same."
+            "text": "It's the same.",
+            "name": "Symboli Kris S"
         },
         {
-            "text": "――The two of us, who were so alike, would continue on together. With an important dream that we'd carry together."
+            "text": "――The two of us, who were so alike, would continue on together. \nWith an important dream that we'd carry together."
         },
         {
-            "text": "Even if it hadn't been my dream―― that feeling was the truth."
+            "text": "Even if it hadn't been my dream―― \nthat feeling was the truth."
         }
     ]
 }

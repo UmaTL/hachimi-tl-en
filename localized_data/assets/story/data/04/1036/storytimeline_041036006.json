@@ -1,214 +1,214 @@
 {
     "text_block_list": [
         {
-            "text": "One day, I was looking for Air Shakur. I was surprised to find her fast asleep, with her laptop still on."
+            "text": "One day, I was looking for Air Shakur. I was surprised to find her \nfast asleep, with her laptop still on."
         },
         {
-            "name": "Air Shakur",
-            "text": "……"
+            "text": ".......",
+            "name": "Air Shakur"
         },
         {
-            "text": "As I went to close her laptop, something onscreen caught my eye. She was on the front page of a social media site, logged in as <i>\"!monad\"——</i>"
+            "text": "As I went to close her laptop, something onscreen caught my eye. \nShe was on the front page of a social media site, logged in as \n\"<i>!monad</i>\"――"
         },
         {
-            "text": "It looked like an account dedicated to posting digital music. A bit taken aback by her unexpected hobby, I quietly took my leave."
+            "text": "It looked like an account dedicated to posting digital music. A bit \ntaken aback by her unexpected hobby, I quietly took my leave."
         },
         {
             "text": "A few days later, the two of us went to check out a record store."
         },
         {
-            "text": "I'd invited her, thinking I had nothing to lose, and it turned out that she was planning to buy something anyway. She let me come along— \"As long as you don't do anything else\"."
+            "text": "I'd invited her, thinking I had nothing to lose, and it turned out \nthat she was planning to buy something anyway. She let me \ncome along― \"As long as you don't do anything else\"."
         },
         {
-            "name": "Air Shakur",
-            "text": "Y'know, you sure shrug things off easy. It's like you forgot what happened with the net cafe…"
+            "text": "Y'know, you sure shrug things off easy. It's like you forgot what \nhappened with the net cafe...",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
             "text": "Don't you try and start a conversation while we're in there.",
+            "name": "Air Shakur",
             "choice_data_list": [
                 "Okay, I get it."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Whole lotta problems when it comes to small-time artists, huh. If they were with a label I could just click buy and be done with it."
+            "text": "...Whole lotta problems when it comes to small-time artists, huh. \nIf they were with a label I could just click buy and be done with it.",
+            "name": "Air Shakur"
         },
         {
-            "text": "It seemed she was planning to buy a CD from a fairly unknown artist.",
+            "text": "It seemed she was planning to buy a CD from a fairly unknown \nartist.",
             "choice_data_list": [
                 "So you're into music.",
                 "So you're into music."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Not really. 's just good for clearing my head."
+            "text": "...Not really.\n's just good for clearing my head.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "…Oh."
+            "text": "....Oh.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Young Music Artist",
-            "text": "——Take a listen, everyone. Here's my new song—— \"rust\"."
+            "text": "――Take a listen, everyone. \nHere's my new song―― \"<i>rust</i>\".",
+            "name": "Young Music Artist"
         },
         {
-            "text": "Shakur stopped suddenly to watch the young musician spinning music on her turntable.",
+            "text": "Shakur stopped suddenly to watch the young musician spinning \nmusic on her turntable.",
             "choice_data_list": [
                 "You recognize her?"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…She's the one whose CD I came to buy."
+            "text": "...She's the one whose CD I came to buy.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Never thought I'd see her now of all times."
+            "text": "Never thought I'd see her now of all times.",
+            "name": "Air Shakur"
         },
         {
-            "text": "With that, Shakur slunk a bit further away from the DJ, taking in the music."
+            "text": "With that, Shakur slunk a bit further away from the DJ, taking in \nthe music."
         },
         {
-            "text": "With the melody set to an energetic rhythm, punctuated with light vocal samples, it was the kind of pleasant music you couldn't help but move along with.",
+            "text": "With the melody set to an energetic rhythm, punctuated with \nlight vocal samples, it was the kind of pleasant music you \ncouldn't help but move along with.",
             "choice_data_list": [
-                "…What a nice song.",
-                "…What a nice song."
+                "...What a nice song.",
+                "...What a nice song."
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…Not bad, I guess."
+            "text": "...Not bad, I guess.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "From the sample she posted, I thought it'd be more high-pitched old-school stuff… Looks like she shifted gears to more of a bounce vibe."
+            "text": "From the sample she posted, I thought it'd be more high-pitched \nold-school stuff... Looks like she shifted gears to more of a \nbounce vibe.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Air Shakur",
-            "text": "Well, styles change. C'mon, let's go."
+            "text": "Well, styles change. \nC'mon, let's go.",
+            "name": "Air Shakur"
         },
         {
-            "name": "Young Music Artist",
-            "text": "E-excuse me! Please, take a look!"
+            "text": "E-excuse me! Please, take a look!",
+            "name": "Young Music Artist"
         },
         {
-            "name": "Air Shakur",
-            "text": "Hmm?"
+            "text": "Hmm?",
+            "name": "Air Shakur"
         },
         {
             "text": "The artist handed a flyer to Shakur."
         },
         {
-            "name": "Young Music Artist",
-            "text": "I'm still new and all, but I'm going to be DJing at this event. Please come and enjoy, if you're interested!"
+            "text": "I'm still new and all, but I'm going to be DJing at this event. \nPlease come and enjoy, if you're interested!",
+            "name": "Young Music Artist"
         },
         {
+            "text": "...Thanks. \nOh, it's this weekend ―― <i>...!</i>",
             "name": "Air Shakur",
-            "text": "…Thanks. Oh, it's this weekend —— …!",
             "choice_data_list": [
                 "?"
             ]
         },
         {
-            "text": "I took a look at the flyer. The DJ's introductory blurb described her as \"Inspired by the faceless DJ <i>!monad</i> \" —",
+            "text": "I took a look at the flyer. The DJ's introductory blurb described \nher as \"Inspired by the faceless DJ <i>!monad </i>\"<i> </i>―",
             "choice_data_list": [
-                "(Wait, 『!monad』 was…)"
+                "(Wait, 『!monad』 was...)"
             ]
         },
         {
-            "name": "Air Shakur",
-            "text": "…………"
+            "text": "........",
+            "name": "Air Shakur"
         },
         {
-            "name": "Young Music Artist",
-            "text": "Uh… Sorry, is there something wrong?"
+            "text": "Uh... Sorry, is there something wrong?",
+            "name": "Young Music Artist"
         },
         {
-            "name": "Air Shakur",
             "text": "Nah, you're good. Good luck this weekend.",
+            "name": "Air Shakur",
             "choice_data_list": [
                 "So there's a DJ you admire, eh?",
                 "So there's a DJ you admire, eh?"
             ]
         },
         {
+            "text": "! <i>Hey!</i>",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Yeah, totally! I really look up to <i>!monad </i>! \nIt's pretty easy to tell our styles are similar, so I try to keep \nsuper conscious about it.",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": "Those voice samples were my way of differentiating myself, \ny'know? I'm still working on it, though!",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": "...<i>!monad </i>is just an hobbyist keeping their hands busy. \nThey don't even have the fundamentals down.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Whoa, whoa, don't say stuff like that. \n<i>!monad</i> is like, my hero!",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": "...Your hero?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Well, not like they swooped in and saved me. \nNever even seen their face. It's more like...",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": "I didn't really fit in. And my life wasn't great. \nI was stuck in a rut, and didn't think things could really change.",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": "But hearing <i>!monad</i> give the world the finger with their music \nreally inspired me! Got me thinking maybe I could do it, too!",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": ".......",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Wait, no! Forget all that stuff about me, they're on a whole other \nlevel! The call of their soul, the <i>evanescence</i>, there's nothing like \nit!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "........",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "I hope I can meet the real thing someday.\nI bet they're, like, passionate to the bone!",
+            "name": "Young Music Artist"
+        },
+        {
+            "text": ".........\n...Oh, really.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "...Ah?\nWhat's with that shit-eating grin...!",
             "name": "Air Shakur",
-            "text": "! <i>Hey!</i>"
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "Yeah, totally! I really look up to <i>!monad </i>! It's pretty easy to tell our styles are similar, so I try to keep super conscious about it."
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "Those voice samples were my way of differentiating myself, y'know? I'm still working on it, though!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…<i>!monad </i>is just an hobbyist keeping their hands busy. They don't even have the fundamentals down."
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "Whoa, whoa, don't say stuff like that. <i>!monad</i> is like, my hero!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…Your hero?"
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "Well, not like they swooped in and saved me. Never even seen their face. It's more like…"
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "I didn't really fit in. And my life wasn't great. I was stuck in a rut, and didn't think things could really change."
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "But hearing <i>!monad</i> give the world the finger with their music really inspired me! Got me thinking maybe I could do it, too!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…………"
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "Wait, no! Forget all that stuff about me, they're on a whole other level! The call of their soul, the <i>evanescence,</i> there's nothing like it!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…………"
-        },
-        {
-            "name": "Young Music Artist",
-            "text": "I hope I can meet the real thing someday. I bet they're, like, passionate to the bone!"
-        },
-        {
-            "name": "Air Shakur",
-            "text": "……… …Oh, really."
-        },
-        {
-            "name": "Air Shakur",
-            "text": "…Ah? What's with that shit-eating grin…!",
             "choice_data_list": [
                 "Uh, nothing!"
             ]
         },
         {
-            "text": "A few days later…"
+            "text": "A few days later..."
         },
         {
-            "name": "Umamusume A",
-            "text": "Hey, check this out. This flyer stuck out a <i>lot</i> on bulletin board. Wonder if some student put it up."
+            "text": "Hey, check this out. This flyer stuck out a<i> lot </i>on bulletin board. \nWonder if some student put it up.",
+            "name": "Umamusume A"
         },
         {
-            "name": "Umamusume B",
-            "text": "Yeah, maybe. What's it for, anyway? Some kind of dance club? …Ooh, might go check it out."
+            "text": "Yeah, maybe. What's it for, anyway? Some kind of dance club? \n...Ooh, might go check it out.",
+            "name": "Umamusume B"
         },
         {
-            "text": "It seemed like the peculiar-looking flyer caused quite a bit of buzz among the students."
+            "text": "It seemed like the peculiar-looking flyer caused quite a bit of \nbuzz among the students."
         }
     ]
 }

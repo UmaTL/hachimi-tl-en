@@ -1,12 +1,12 @@
 {
     "text_block_list": [
         {
-            "name": "Admire Vega",
-            "text": "Haah, haa… haaah…"
+            "text": "Haah, haa… haaah…",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "I'm not finished yet. I… I need to run more."
+            "text": "I'm not finished yet. \nI… I need to run more.",
+            "name": "Admire Vega"
         },
         {
             "text": "It has been a few days since I became her trainer.",
@@ -15,130 +15,130 @@
             ]
         },
         {
-            "text": "I'm currently taking notes on how Admire Vega runs. I will use this as a basis for her training going forward, but…"
+            "text": "I'm currently taking notes on how Admire Vega runs. \nI will use this as a basis for her training going forward, but…"
         },
         {
             "text": "Will she actually listen to me?"
         },
         {
-            "text": "She does listen to light advice, but when it comes to training that requires us to work together…"
+            "text": "She does listen to light advice, but when it \ncomes to training that requires us to work together…"
         },
         {
-            "name": "Admire Vega",
-            "text": "I'm… fine being alone. I… prefer being alone."
+            "text": "I'm… fine being alone. \nI… prefer being alone.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "If I don't have a trainer, I won't be able to enter the Twinkle Series. So either way, I'd need one eventually…"
+            "text": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…",
+            "name": "Admire Vega"
         },
         {
-            "text": "It's hard to get her to do training that requires her to cooperate with me…",
+            "text": "It's hard to get her to do training \nthat requires her to cooperate with me…",
             "choice_data_list": [
                 "<i>But…</i>"
             ]
         },
         {
-            "text": "I am her trainer. I told her that I would support her no matter what, so I have to prove that to―"
+            "text": "I am her trainer. I told her that I would support \nher no matter what, so I have to prove that to―"
         },
         {
-            "name": "Admire Vega",
             "text": "I'm going to run somewhere else…",
+            "name": "Admire Vega",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "name": "Admire Vega",
-            "text": "Don't… wait for me."
+            "text": "Don't… wait for me.",
+            "name": "Admire Vega"
         },
         {
-            "text": "She ran off before I had a chance to react. I wanted to chase after her, but she was just too quick."
+            "text": "She ran off before I had a chance to react. \nI wanted to chase after her, but she was just too quick."
         },
         {
-            "name": "Admire Vega",
-            "text": "Hahh, hah, haa…!"
+            "text": "Hahh, hah, haa…!",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>It's fine, I can still run much more today. If I continue at this pace, one day I'll reach those far away stars, all by myself.</i>"
+            "text": "<i>It's fine, I can still run much more today. If I continue at this \npace, one day I'll reach those far away stars, all by myself.</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "………"
+            "text": "………",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "All… by myself."
+            "text": "All… by myself.",
+            "name": "Admire Vega"
         },
         {
-            "text": "I was so busy organizing my notes that I didn't realize it was already nighttime.",
+            "text": "I was so busy organizing my notes \nthat I didn't realize it was already nighttime.",
             "choice_data_list": [
                 "But there's only a little left to do…"
             ]
         },
         {
-            "text": "I hope I can get my feelings across to Admire Vega tomorrow. And I hope that I can be useful to her too."
+            "text": "I hope I can get my feelings across to Admire Vega \ntomorrow. And I hope that I can be useful to her too."
         },
         {
-            "name": "Admire Vega",
-            "text": "You're here again."
+            "text": "You're here again.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "Trainer-san, you'll catch a cold if you continue to sleep here. You should go home."
+            "text": "Trainer-san, you'll catch a cold if you \ncontinue to sleep here. You should go home.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "And you left your computer on, and these notes…"
+            "text": "And you left your computer on, and these notes…",
+            "name": "Admire Vega"
         },
         {
-            "text": "\"She seems to like stars.\" \"Should I change the training start time?\" \"Where's a good area to stargaze?\" \"I'll ask Tazuna about it.\""
+            "text": "\"She seems to like stars.\" \"Should I change \nthe training start time?\" \"Where's a good area \nto stargaze?\" \"I'll ask Tazuna about it.\""
         },
         {
             "text": "\"She's doing this for 'her'?\""
         },
         {
-            "name": "Admire Vega",
-            "text": "\"What else can I do for her?\""
+            "text": "\"What else can I do for her?\"",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "Why is she… doing all of this? I told her so many times… that I prefer doing things alone."
+            "text": "Why is she… doing all of this? I told her so \nmany times… that I prefer doing things alone.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>I thought that all I wanted was to see the stars. </i> <i>That all I wanted was to continue running, until I reached that faraway place.</i>"
+            "text": "<i>I thought that all I wanted was to see the stars. \n</i> <i>That all I wanted was to continue running, \nuntil I reached that faraway place.</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>But…</i>"
+            "text": "<i>But…</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "???",
-            "text": "She's definitely waiting for you."
+            "text": "She's definitely waiting for you.",
+            "name": "???"
         },
         {
-            "name": "Admire Vega",
-            "text": "No… that isn't true. The only reason I came back was because of my curfew. That's it."
+            "text": "No… that isn't true. The only reason I \ncame back was because of my curfew. That's it.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "………"
+            "text": "………",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "All the effort you're putting into me… I don't deserve it."
+            "text": "All the effort you're putting into me… \nI don't deserve it.",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "<i>There's a different Uma Musume that deserved all of this. The one who was meant to shine like a dazzling star.</i>"
+            "text": "<i>There's a different Uma Musume that deserved all of this. \nThe one who was meant to shine like a dazzling star.</i>",
+            "name": "Admire Vega"
         },
         {
-            "name": "Admire Vega",
-            "text": "My… beloved sister."
+            "text": "My… beloved sister.",
+            "name": "Admire Vega"
         },
         {
-            "text": "It seems like someone covered me in a blanket. I didn't open my eyes, but in my sleep I could hear the faint sounds of footsteps."
+            "text": "It seems like someone covered me in a blanket. I didn't open my \neyes, but in my sleep I could hear the faint sounds of footsteps."
         }
     ]
 }

@@ -1,34 +1,34 @@
 {
     "text_block_list": [
         {
-            "text": "On this day, a meeting was being held to discuss improvements on how to fully utilize the training course, but――",
+            "text": "On this day, a meeting was being held to discuss improvements \non how to fully utilize the training course, but――",
             "choice_data_list": [
                 "Thank you for today……!"
             ]
         },
         {
-            "text": "I had presented a proposal, but it was rejected. A different trainer's proposal would be considered instead.",
+            "text": "I had presented a proposal, but it was rejected. \nA different trainer's proposal would be considered instead.",
             "choice_data_list": [
                 "Haa……"
             ]
         },
         {
-            "text": "………… ……At a time like this, what would she say?"
+            "text": "………… \n……At a time like this, what would she say?"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Isn't it Marvelous!?☆"
+            "text": "Isn't it Marvelous!?☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Being able to give a presentation is Marvelous☆ Even if it's frustrating, being able to accept someone's proposal is Marvelous★"
+            "text": "Being able to give a presentation is Marvelous☆ Even if it's \nfrustrating, being able to accept someone's proposal is Marvelous★",
+            "name": "Marvelous Sunday"
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Put it all together, and it's very Marvelous☆ With the new proposal, the proposal after it will be even better★"
+            "text": "Put it all together, and it's very Marvelous☆ \nWith the new proposal, the proposal after it will be even better★",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "……She'd probably say something like that. I can't stay down forever. I'll work harder so next time they'll choose mine.",
+            "text": "……She'd probably say something like that. I can't stay down \nforever. I'll work harder so next time they'll choose mine.",
             "choice_data_list": [
                 "(Yeah, we'll do this marvelously!)"
             ]
@@ -37,112 +37,112 @@
             "text": "What a wonderful word."
         },
         {
-            "text": "Just thinking about that word makes me feel bright and positive. It kind of makes you want to just say it out loud――!"
+            "text": "Just thinking about that word makes me feel bright and positive. \nIt kind of makes you want to just say it out loud――!"
         },
         {
-            "name": "???",
             "text": "Marvelous☆★☆",
+            "name": "???",
             "choice_data_list": [
                 "!?!? T-this voice――"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Congratulations! You passed! How very Marvelous★"
+            "text": "Congratulations! You passed! \nHow very Marvelous★",
+            "name": "Marvelous Sunday"
         },
         {
+            "text": "No, it's not. It true that I avoided failing but…… \nMy score is better than before but it's still below average……",
+            "name": "Uma Musume A"
+        },
+        {
+            "text": "No! That's not true!",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "E-eeh!? W-where is this……!?",
+            "name": "Uma Musume A"
+        },
+        {
+            "text": "If it's better than before, that means you've made progress☆ \nIt's amazing that you've improved! Marvelous★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "And it's improvement in something you were bad at! \nYou worked really hard, didn't you? Marvelous☆★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Just like this, let's get Marvelous at more things☆",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "If you keep piling up these Marvelous things then, \nit'll be an even biiiiigger Marvelous☆",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "That's why――",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "Huh……just now, what was that……?",
+            "name": "Uma Musume A"
+        },
+        {
+            "text": "This result was Marvelous☆ \nYou need to be more and more happy about this Marvelous★",
+            "name": "Marvelous Sunday"
+        },
+        {
+            "text": "……you're right. \nMy score has gone up, hasn't it……?",
             "name": "Uma Musume A",
-            "text": "No, it's not. It true that I avoided failing but…… My score is better than before but it's still below average……"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "No! That's not true!"
-        },
-        {
-            "name": "Uma Musume A",
-            "text": "E-eeh!? W-where is this……!?"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "If it's better than before, that means you've made progress☆ It's amazing that you've improved! Marvelous★"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "And it's improvement in something you were bad at! You worked really hard, didn't you? Marvelous☆★"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "Just like this, let's get Marvelous at more things☆"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "If you keep piling up these Marvelous things then, it'll be an even biiiiigger Marvelous☆"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "That's why――"
-        },
-        {
-            "name": "Uma Musume A",
-            "text": "Huh……just now, what was that……?"
-        },
-        {
-            "name": "Marvelous Sunday",
-            "text": "This result was Marvelous☆ You need to be more and more happy about this Marvelous★"
-        },
-        {
-            "name": "Uma Musume A",
-            "text": "……you're right. My score has gone up, hasn't it……?",
             "choice_data_list": [
                 "Try believing in yourself more!"
             ]
         },
         {
-            "name": "Uma Musume A",
-            "text": "Ah, you're Marvelous-san's……!"
+            "text": "Ah, you're Marvelous-san's……!",
+            "name": "Uma Musume A"
         },
         {
+            "text": "……Believe in myself……\nYeah, I……was able to increase my score all by myself.",
             "name": "Uma Musume A",
-            "text": "……Believe in myself…… Yeah, I……was able to increase my score all by myself.",
             "choice_data_list": [
                 "Yeah! Next time you'll do better!",
                 "Yeah! Next time you'll do better!"
             ]
         },
         {
-            "name": "Uma Musume A",
-            "text": "Right……yeah! I'm starting to feel a little more confident in myself!"
+            "text": "Right……yeah! \nI'm starting to feel a little more confident in myself!",
+            "name": "Uma Musume A"
         },
         {
-            "name": "Uma Musume A",
-            "text": "I'll be able to do my best for the next test too! Both of you, thank you very much!"
+            "text": "I'll be able to do my best for the next test too! \nBoth of you, thank you very much!",
+            "name": "Uma Musume A"
         },
         {
             "text": "After saying that, she left with a smile on her face."
         },
         {
+            "text": "Ahahaa! She had a nice smile on her face, huh! \nHer and Trainer too! Very happy smiles, Marvelous☆",
             "name": "Marvelous Sunday",
-            "text": "Ahahaa! She had a nice smile on her face, huh! Her and Trainer too! Very happy smiles, Marvelous☆",
             "choice_data_list": [
                 "Me too?",
                 "Me too?"
             ]
         },
         {
-            "name": "Marvelous Sunday",
-            "text": "Yeah! It was really Marvelous, you know☆ When you called out to her, it was absolutely Marvelous☆★☆"
+            "text": "Yeah! It was really Marvelous, you know☆ \nWhen you called out to her, it was absolutely Marvelous☆★☆",
+            "name": "Marvelous Sunday"
         },
         {
-            "text": "Her positiveness……no, her \"Marvelous-ness\" made everything, no matter how trivial, seem to sparkle."
+            "text": "Her positiveness……no, her \"Marvelous-ness\" made everything, \nno matter how trivial, seem to sparkle."
         },
         {
-            "text": "Not just by turning the negative in to positive―― but by turning the positive in to an even bigger positive."
+            "text": "Not just by turning the negative in to positive―― \nbut by turning the positive in to an even bigger positive."
         },
         {
-            "text": "It was just a matter of time before her Marvelous spread around the world, just as she wished."
+            "text": "It was just a matter of time before her Marvelous \nspread around the world, just as she wished."
         },
         {
-            "text": "I wanted to assist with her dream, even if I could only contribute a small amount."
+            "text": "I wanted to assist with her dream, even if \nI could only contribute a small amount."
         }
     ]
 }

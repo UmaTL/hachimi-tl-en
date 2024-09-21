@@ -1,57 +1,57 @@
 {
     "text_block_list": [
         {
-            "name": "Mihono Bourbon",
-            "text": "Would you like to go to tonight's fireworks festival with me?"
+            "text": "Would you like to go to tonight's \nfireworks festival with me?",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "It was early afternoon in the middle of our summer training camp, when Mihono Bourbon came up to me and asked that question.",
+            "text": "It was early afternoon in the middle of our summer \ntraining camp, when Mihono Bourbon came up to me \nand asked that question.",
             "choice_data_list": [
                 "O-Of course!"
             ]
         },
         {
-            "text": "I was surprised by her sudden request. That's a first! I immediately took her up on her offer without a second thought. And so..."
+            "text": "I was surprised by her sudden request. That's a first! \nI immediately took her up on her offer without a second \nthought. And so..."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "According to my research, there are usually around 70,000 attendees. There are around 90 different stalls, among which are 9 types of games to play."
+            "text": "According to my research, there are usually around \n70,000 attendees. There are around 90 different stalls, \namong which are 9 types of games to play.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "What would you like to do? There is shooting, die cutting, goldfish scooping, yo-yo fishing, ring tossing, a lottery, string pulling, box punching and melon splitting."
+            "text": "What would you like to do? There is shooting, die cutting, \ngoldfish scooping, yo-yo fishing, ring tossing, a lottery, \nstring pulling, box punching and melon splitting.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "Inviting me out and doing so much research beforehand... The usually reserved Mihono Bourbon is exploding with enthusiasm today.",
+            "text": "Inviting me out and doing so much research \nbeforehand... The usually reserved Mihono Bourbon \nis exploding with enthusiasm today.",
             "choice_data_list": [
                 "You sure love festivals.",
                 "You sure love festivals."
             ]
         },
         {
+            "text": "Incorrect. 'Love' is not it. Neither is 'hate.' My feelings \ntoward festivals can be quantified as 'normal.'",
             "name": "Mihono Bourbon",
-            "text": "Incorrect. 'Love' is not it. Neither is 'hate.' My feelings toward festivals can be quantified as 'normal.'",
             "choice_data_list": [
                 "Why are you so enthusiastic, then?"
             ]
         },
         {
+            "text": "...... \nI am merely increasing the time interacting with you \nby spending 'a fun time' with you, Master.",
             "name": "Mihono Bourbon",
-            "text": "...... I am merely increasing the time interacting with you by spending 'a fun time' with you, Master.",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I just... I have always understood social interactions to be 'meaningless.'"
+            "text": "I just... I have always understood social interactions \nto be 'meaningless.'",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "But... Perhaps my understanding was wrong."
+            "text": "But... Perhaps my understanding was wrong.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I'm surprised to hear her speak less formal. From the corner of my eye, I spotted the head of a bunny plush sticking out of her pocket.",
+            "text": "I'm surprised to hear her speak less formal. \nFrom the corner of my eye, I spotted the head of \na bunny plush sticking out of her pocket.",
             "choice_data_list": [
                 "Hey, is that..."
             ]
@@ -60,199 +60,199 @@
             "text": "It was the bunny we won at the arcade the other day."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "It helps me remember the feeling of 'fun.'"
+            "text": "It helps me remember the feeling of 'fun.'",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "It helps my motivation stay up during training and studying. I never expected it to have such an effect..."
+            "text": "It helps my motivation stay up during training and \nstudying. I never expected it to have such an effect...",
+            "name": "Mihono Bourbon"
         },
         {
+            "text": "So I was thinking... That maybe the 'fun' you helped \nme experience back then really <i>does</i> have meaning...",
             "name": "Mihono Bourbon",
-            "text": "So I was thinking... That maybe the 'fun' you helped me experience back then really <i>does</i> have meaning...",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Maybe my parents' order to improve my social skills..."
+            "text": "Maybe my parents' order to improve my social skills...",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Were perhaps supposed to be... Interpreted a little... softer than that."
+            "text": "Were perhaps supposed to be... \nInterpreted a little... softer than that.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "I'm speechless at her personal growth. She combined her experiences like a puzzle to reach the conclusion on her own, even if things didn't always work out right away.",
+            "text": "I'm speechless at her personal growth. She combined her \nexperiences like a puzzle to reach the conclusion on her \nown, even if things didn't always work out right away.",
             "choice_data_list": [
                 "Let's make today unforgettable!"
             ]
         },
         {
-            "text": "I pulled myself together and take the flustered Mihono Bourbon towards the crowded festival."
+            "text": "I pulled myself together and take the flustered \nMihono Bourbon towards the crowded festival."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Rotate the muzzle 5 degrees downwards. Too far, move it slightly upwards. That's it."
+            "text": "Rotate the muzzle 5 degrees downwards. \nToo far, move it slightly upwards. That's it.",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "*bang*"
         },
         {
+            "text": "Wow, you got it! \nYou're a natural, my man!",
             "name": "Shooting Gallery Attendant",
-            "text": "Wow, you got it! You're a natural, my man!",
             "choice_data_list": [
                 "Only thanks to her instructions."
             ]
         },
         {
+            "text": "Wow, you got it! \nYou're a natural, m'lady!",
             "name": "Shooting Gallery Attendant",
-            "text": "Wow, you got it! You're a natural, m'lady!",
             "choice_data_list": [
                 "Only thanks to her instructions."
             ]
         },
         {
-            "name": "Shooting Gallery Attendant",
-            "text": "Hahaha! I see, you two make a perfect pair! Here's the prize, you lovely horse girl. Don't lose it!"
+            "text": "Hahaha! I see, you two make a perfect pair! \nHere's the prize, you lovely horse girl. Don't lose it!",
+            "name": "Shooting Gallery Attendant"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "...... Thank you very much."
+            "text": "...... \nThank you very much.",
+            "name": "Mihono Bourbon"
         },
         {
-            "text": "We enjoyed the festival to our heart's content and the evening whizzed by in a flash. We went die cutting, ring throwing and drew in the lottery."
+            "text": "We enjoyed the festival to our heart's content and the \nevening whizzed by in a flash. We went die cutting, \nring throwing and drew in the lottery."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "The fireworks are about to start. We should move towards a good vantage point."
+            "text": "The fireworks are about to start. We should move \ntowards a good vantage point.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Oh, Bourbon?"
+            "text": "Oh, Bourbon?",
+            "name": "Honest Horsegirl"
         },
         {
-            "text": "We ran into the horse girl that came up to Bourbon some time ago."
+            "text": "We ran into the horse girl that came up to Bourbon \nsome time ago."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "<i>I concluded that you must have some sort of reason to reach out to me during my break.</i>"
+            "text": "<i>I concluded that you must have some sort of reason \nto reach out to me during my break.</i>",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "<i>Sorry, I didn't have a particular reason, I just wanted to chat for a bit... I guess I interrupted you after all, so I'll be going! </i>"
+            "text": "<i>Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going! </i>",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "I didn't know you went to festivals, Bourbon... Oh wait, I-I'm sorry for interrupting your free time! I got a little too excited..."
+            "text": "I didn't know you went to festivals, Bourbon... Oh wait, \nI-I'm sorry for interrupting your free time! I got a little \ntoo excited...",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Don't feel sorry, it's no problem. You are here to see the fireworks, too?"
+            "text": "Don't feel sorry, it's no problem. \nYou are here to see the fireworks, too?",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "The centerpiece of this fireworks display is a shell 90 centimeters in diameter. I am looking forward to it."
+            "text": "The centerpiece of this fireworks display \nis a shell 90 centimeters in diameter. \nI am looking forward to it.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "So, do you have a reason for that?"
+            "text": "So, do you have a reason for that?",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "No, not in particular."
+            "text": "No, not in particular.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Huh?"
+            "text": "Huh?",
+            "name": "Honest Horsegirl"
         },
         {
-            "text": "The little horse girl seemed in shock after hearing those words come from Bourbon."
+            "text": "The little horse girl seemed in shock after \nhearing those words come from Bourbon."
         },
         {
-            "text": "Mihono Bourbon has come a long way. She finally understands what it's like to 'have fun' with others. ...Wait a minute.",
+            "text": "Mihono Bourbon has come a long way. She finally \nunderstands what it's like to 'have fun' with others. \n...Wait a minute.",
             "choice_data_list": [
                 "Go play with her."
             ]
         },
         {
-            "name": "Mihono Bourbon",
             "text": "But...",
+            "name": "Mihono Bourbon",
             "choice_data_list": [
                 "I'm sure it'll be 'fun!'"
             ]
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted."
+            "text": "Order accepted.",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "She turned her gaze to the younger horse girl."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Would you like to... Watch the fireworks with me?"
+            "text": "Would you like to... Watch the fireworks with me?",
+            "name": "Mihono Bourbon"
         },
         {
             "text": "*fweet* ... *boom*"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Wow, the fireworks really are amazing! I'm glad I worked up the courage to go here alone."
+            "text": "Wow, the fireworks really are amazing! \nI'm glad I worked up the courage to go here alone.",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "I'm so glad I met you here, to see the fireworks together... Oh, I'm sorry. I started speaking my thoughts again..."
+            "text": "I'm so glad I met you here, to see the fireworks together... \nOh, I'm sorry. I started speaking my thoughts again...",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Do you like fireworks?"
+            "text": "Do you like fireworks?",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Yes, I do! I like how they sparkle so wide in the sky. They inspire me! Everyone longs for something that they don't have. Be it fireworks or something else."
+            "text": "Yes, I do! I like how they sparkle so wide in the sky. \nThey inspire me! Everyone longs for something that \nthey don't have. Be it fireworks or something else.",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "I know this sounds as an excuse for what I did back then, but I'm bad at sensing the distance between people..."
+            "text": "I know this sounds as an excuse for what I did back then, \nbut I'm bad at sensing the distance between people...",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Understood. So you have trouble measuring distances? I'm actually an expert at this subject."
+            "text": "Understood. So you have trouble measuring distances? \nI'm actually an expert at this subject.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "For example: The two of us are 34 centimeters apart. The shaved ice stand behind us at 4 o'clock is 8 meters and 24 centimeters away from you."
+            "text": "For example: The two of us are 34 centimeters apart. \nThe shaved ice stand behind us at 4 o'clock is 8 meters \nand 24 centimeters away from you.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Um, Bourbon. Are you a bit of an airhead, actually?"
+            "text": "Um, Bourbon. Are you a bit of an airhead, actually?",
+            "name": "Honest Horsegirl"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "My head is filled with gray matter only, not air."
+            "text": "My head is filled with gray matter only, not air.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Honest Horsegirl",
-            "text": "Yep! An airhead!"
+            "text": "Yep! An airhead!",
+            "name": "Honest Horsegirl"
         },
         {
-            "text": "...They continued chatting for a while, under the twinkling lights of the fireworks."
+            "text": "...They continued chatting for a while, \nunder the twinkling lights of the fireworks."
         },
         {
             "text": "The next day."
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "Hi Father. It's me, Mihono Bourbon. I'm calling to report on the completion of your orde—"
+            "text": "Hi Father. It's me, Mihono Bourbon. I'm calling \nto report on the completion of your orde—",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "No, sorry. This is a status report."
+            "text": "No, sorry. This is a status report.",
+            "name": "Mihono Bourbon"
         },
         {
-            "name": "Mihono Bourbon",
-            "text": "I managed to make a friend."
+            "text": "I managed to make a friend.",
+            "name": "Mihono Bourbon"
         }
     ]
 }

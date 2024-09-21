@@ -1,0 +1,238 @@
+{
+    "text_block_list": [
+        {
+            "text": "It's summer training camp. The one of the staff members \nwas nice enough to share some freshly caught fish with me."
+        },
+        {
+            "text": "I was thinking about sharing some with Tap Dance City, \nwhen I heard her talking to another student."
+        },
+        {
+            "text": "Alrighty! You better believe I'm taking on that <i>challenge!</i>",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Trainer! We're setting sail!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "<size=42>Speak of the devil, I was wondering if—</size>"
+            ]
+        },
+        {
+            "text": "<i>Sorry!</i> Leave that for later! \n<i>Come on now!</i>",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Now, look over there. \nCan you see that island in the distance?",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "I looked across the ocean, and sure enough, there was an island \nnot too far from the beach. It looks deserted, though."
+        },
+        {
+            "text": "We're heading there asap! \nLet's prepare for our adventure!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Um...? Why though?"
+            ]
+        },
+        {
+            "text": "Because on that island... There's treasure waiting for us!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "There's a legend at the school. Supposedly, a student \nfrom long, long ago snuck over to that island one night \nand hid something there.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "There's many theories on what it might be. A box full of \ngold and silver? A magic lamp that grants any wish? \nThe thing is, no one's ever found it!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "There's only one thing to do! \nWe'll have to find it ourselves!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "First things first... We need a boat! \nLet's work together and build a hella <i>cool</i> one!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Um, sure...!",
+                "Um, sure...!"
+            ]
+        },
+        {
+            "text": "And so, we decided to build a boat――\nOr more accurately, a raft to get to the island."
+        },
+        {
+            "text": "Although, chopping down a random tree without permission \nwouldn't be a good idea. What to do..."
+        },
+        {
+            "text": "Hmm... We have a bit of a problem here, Trainer.",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Yeah, without materials...",
+                "Yeah, without materials..."
+            ]
+        },
+        {
+            "text": "Should it be a skull? Perhaps a dragon, actually... \nNo, maybe something unusual like an Umamusume?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "What...?"
+            ]
+        },
+        {
+            "text": "We're going adventuring with this boat, right? \nThen we need to decide on its flag, first and foremost!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "...Of all the the problems we're having, \nher head has beached on the flag's design?!"
+        },
+        {
+            "text": "<i>Shit!</i> The treasure's so close I can almost touch it! \nIt's so unfair!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "――Just then, it dawned on me. \nThere might just be a way...",
+            "choice_data_list": [
+                "Wait for me here, okay?",
+                "Wait for me here, okay?"
+            ]
+        },
+        {
+            "text": "Hm? Sure...",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "The sun's already set. \nWhere the heck did they go?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "I'm finally done!",
+                "I'm finally done!"
+            ]
+        },
+        {
+            "text": "Trainer?! What have you been doing? \n...And you're wearing a pirate hat?!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "I've got us a boat!"
+            ]
+        },
+        {
+            "text": "Wha—?! Are you serious?!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Whoa! That's a nice boat you've got there! \nAnd it has a flag with a skull and crossbones, too!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "So yeah, I managed to get us a boat via the staff member who \ngave me the fish earlier. Oh, and I made the pirate flag myself."
+        },
+        {
+            "text": "I got a bit carried away and even made a pirate hat... \nBut it's all worth it, because now we can go to the island!",
+            "choice_data_list": [
+                "It's time to raise the anchor, <i>captain!</i>"
+            ]
+        },
+        {
+            "text": "Hehe... Hahaha!!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "That's what I'm talking about! \nI knew you were the perfect person to set sail with!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Let's raise the flag at the bow! \nFull speed ahead!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "We're finally here. It's so quiet...",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Now that we're actually here at night, this deserted island \nfeels pretty creepy. I'm starting to feel a little scared..."
+        },
+        {
+            "text": "<i>Sound your fanfare♪</i>\n<i>All the way to the goal♪</i>",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "text": "You're gonna make your pirate hat cry if you stay nervous like that. \nI thought a little singing would cheer you right up!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "After a long trek through the island――"
+        },
+        {
+            "text": "Trainer! Come over here!",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "Did you find the treasure?",
+                "Did you find the treasure?"
+            ]
+        },
+        {
+            "text": "Take a look at this boulder.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "In front of her is a massive boulder, at least 2 meters tall. \nLooking closer, something's carved into the side of it..."
+        },
+        {
+            "text": "\"Together, we will fulfill our dreams\""
+        },
+        {
+            "text": "Underneath that quote is the name of an Umamusume, \nand next to it, a human name. These are――"
+        },
+        {
+            "text": "This name... I feel like I've seen it somewhere before. \nThat's right. I remember...",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "An Umamusume who left a great mark on racing history. \nThe other name is her trainer's."
+        },
+        {
+            "text": "Hahaha! Ahahahahaha!!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "They got us good! I get it now...! \nThere was never any treasure here!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "The real treasure we've been chasing all this time... \nIt's the marks of the adventure that these two \namazing people had together!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "We made it back to the mainland. As we looked back at the island \nwe just explored in the distance, Tap Dance City softly spoke..."
+        },
+        {
+            "text": "How strange... We returned without finding anything tangible. \nAnd yet, I feel like I've returned with many feelings and memories.",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "... It was a great adventure, don't you agree?",
+            "name": "Tap Dance City",
+            "choice_data_list": [
+                "I do.",
+                "I do."
+            ]
+        },
+        {
+            "text": "Let's leave our mark as well. Proof of the greatest adventure \nthe world will ever see, in the history of racing. \nLet's build that castle for everyone to live in, too!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Let's do this together, my cremmate! We'll challenge even the \nwildest of seas! We'll grab hold of our dreams, no matter what!",
+            "name": "Tap Dance City"
+        },
+        {
+            "text": "Our route is endless... It continues on forever and ever!",
+            "name": "Tap Dance City"
+        }
+    ]
+}

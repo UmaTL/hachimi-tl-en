@@ -1,46 +1,46 @@
 {
     "text_block_list": [
         {
-            "text": "Yaeno Muteki was troubled about being unable to control her emotions during races. In regards to thinking of a countermeasure for her――"
+            "text": "Yaeno Muteki was troubled about being unable to \ncontrol her emotions during races. In regards \nto thinking of a countermeasure for her――"
         },
         {
             "text": "Actually, there was one thing I had in mind that might work."
         },
         {
-            "name": "Yaeno Muteki",
             "text": "……『I want to know more about the Kongou Yaegaki Ryuu』, is it？",
+            "name": "Yaeno Muteki",
             "choice_data_list": [
                 "That's right"
             ]
         },
         {
-            "text": "She was pretty wild when she was younger. The day I met her too, she was practicing Kata in order help keep her emotions in check during the Selection Race."
+            "text": "She was pretty wild when she was younger. The day I met her too, \nshe was practicing Kata in order help keep her emotions in check \nduring the Selection Race."
         },
         {
-            "text": "Up until now those unruly instincts of hers―― without a doubt, must have been held in check by this 『Ardent Flame』 and the teachings of the Kongou Yaegaki Ryuu."
+            "text": "Up until now those unruly instincts of hers―― without a doubt, \nmust have been held in check by this 『Ardent Flame』 and the \nteachings of the Kongou Yaegaki Ryuu."
         },
         {
+            "text": "So, in other words, in regards to controlling the \n『Ardent Flame』 during a race, within the Kongou \nYaegaki Ryuu, you believe there is a hint？",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "……that seems reasonable. Well then――",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Instructor, assistant instructor. I have returned. For today, \nthank you kindly for your guidance.",
             "name": "Yaeno Muteki",
-            "text": "So, in other words, in regards to controlling the 『Ardent Flame』 during a race, within the Kongou Yaegaki Ryuu, you believe there is a hint？"
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "……that seems reasonable. Well then――"
-        },
-        {
-            "name": "Yaeno Muteki",
-            "text": "Instructor, assistant instructor. I have returned. For today, thank you kindly for your guidance.",
             "choice_data_list": [
                 "Thank you for your guidance！"
             ]
         },
         {
-            "name": "Yaeno Muteki's Grandmother",
-            "text": "Welcome, thank you for coming, Trainer-san. Please feel free to ask anything about the teachings of the Kongou Yaegaki Ryuu."
+            "text": "Welcome, thank you for coming, Trainer-san. Please feel free to \nask anything about the teachings of the Kongou Yaegaki Ryuu.",
+            "name": "Yaeno Muteki's Grandmother"
         },
         {
+            "text": "Seeing is believing…… by all means, today, \nmake the most of this experience",
             "name": "Yaeno Muteki's Grandmother",
-            "text": "Seeing is believing…… by all means, today, make the most of this experience",
             "choice_data_list": [
                 "Yes……！"
             ]
@@ -49,171 +49,171 @@
             "text": "And, with that said……！"
         },
         {
-            "name": "Yaeno Muteki",
             "text": "Sei！ ……Haa！！",
+            "name": "Yaeno Muteki",
             "choice_data_list": [
                 "Y-yaa！"
             ]
         },
         {
+            "text": "Yes, just like that. Now, step and lean forward to match with \nyour fist. Rather than lifting your head, it should feel more \nlike you're being pulled along.",
             "name": "Yaeno Muteki's Grandmother",
-            "text": "Yes, just like that. Now, step and lean forward to match with your fist. Rather than lifting your head, it should feel more like you're being pulled along.",
             "choice_data_list": [
                 "Yes, I understand……！"
             ]
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "Yaeno, lower your hips more！！ With a sharper swing, once more！"
+            "text": "Yaeno, lower your hips more！！ \nWith a sharper swing, once more！",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Yes！ Thank you！！"
+            "text": "Yes！ Thank you！！",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "While it was extremely simple sounding, together with Yaeno Muteki, I trained by performing the Kongou Yaegaki Ryuu Kata."
+            "text": "While it was extremely simple sounding, together with Yaeno \nMuteki, I trained by performing the Kongou Yaegaki Ryuu Kata."
         },
         {
-            "text": "……that said, moving around in a way I wasn't accustomed to depleted my stamina a lot quicker than I expected. After that, I ended up just observing, that's when――"
+            "text": "……that said, moving around in a way I wasn't accustomed to \ndepleted my stamina a lot quicker than I expected. After that, I \nended up just observing, that's when――"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
             "text": "Do you have a moment？",
+            "name": "Yaeno Muteki's Grandfather",
             "choice_data_list": [
                 "Eh？！ Ah, yeah……！"
             ]
         },
         {
-            "text": "It seems that the guidance was left to the assistant instructor, his wife, as the Kongou Yaegaki Ryuu instructor―― Yaeno Muteki's grandfather, quietly started a conversation."
+            "text": "It seems that the guidance was left to the assistant instructor, \nhis wife, as the Kongou Yaegaki Ryuu instructor―― Yaeno Muteki's \ngrandfather, quietly started a conversation."
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "……for being concerned about my granddaughter, I'm grateful."
+            "text": "……for being concerned about my granddaughter, I'm grateful.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
+            "text": "Most people―― in regards to races, are perplexed by \ntheir own 『Ardent Flame』, and are often seeking out \nthat 『Tranquil Water』, what do you think?",
             "name": "Yaeno Muteki's Grandfather",
-            "text": "Most people―― in regards to races, are perplexed by their own 『Ardent Flame』, and are often seeking out that 『Tranquil Water』, what do you think?",
             "choice_data_list": [
                 "T-that sounds right……！"
             ]
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "Aah, as I thought. ……her movements are stiff. Her follow-through is shallow. From Yaeno, right now, I can sense a feeling of fear."
+            "text": "Aah, as I thought. ……her movements are stiff. Her follow-through \nis shallow. From Yaeno, right now, I can sense a feeling of fear.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "The 『Ardent Flame』, it must be because she's been continuously troubled by them, but she has been fixating on the 『Tranquil Water』 too much. ……However, Trainer-san."
+            "text": "The 『Ardent Flame』, it must be because she's been continuously \ntroubled by them, but she has been fixating on the 『Tranquil \nWater』 too much. ……However, Trainer-san.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "――『The Fusion of Fire and Water, Becomes A Safeguard』"
+            "text": "――『The Fusion of Fire and Water, Becomes A Safeguard』",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "The Kongou Yaegaki Ryuu is a style that attaches great importance to protection. These words represent the essential understanding required to realize that protection."
+            "text": "The Kongou Yaegaki Ryuu is a style that attaches great importance \nto protection. These words represent the essential understanding \nrequired to realize that protection.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "Being like the 『Ardent Flame』 is not limited to having an intense fighting spirit, without the will to protect, it can easily collapse."
+            "text": "Being like the 『Ardent Flame』 is not limited to \nhaving an intense fighting spirit, without the \nwill to protect, it can easily collapse.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "In the same vein, the 『Tranquil Water』 is not limited to a serene reasonableness, which leads to hesitation in the face of hardship, resulting in being one step too late to protect……――"
+            "text": "In the same vein, the 『Tranquil Water』 is not limited to a serene \nreasonableness, which leads to hesitation in the face of \nhardship, resulting in being one step too late to protect……――",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "『The Fusion of Fire and Water』 is, the balance between the 『Ardent Flame』 and 『Tranquil Water』, so that when the time comes, one can protect without hesitation."
+            "text": "『The Fusion of Fire and Water』 is, the balance between the \n『Ardent Flame』 and 『Tranquil Water』, so that when the time comes, \none can protect without hesitation.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "For our style, we perform the 『Kata』 to cleanse the mind and body, in order to facilitate 『The Fusion of Fire and Water』."
+            "text": "For our style, we perform the 『Kata』 to cleanse the mind and \nbody, in order to facilitate 『The Fusion of Fire and Water』.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
-            "name": "Yaeno Muteki's Grandfather",
-            "text": "――have you understood it so far？ To control the 『Ardent Flames』 does not mean, use the 『Tranquil Water』 to restrain it, it does not mean to drown it out."
+            "text": "――have you understood it so far？ To control the 『Ardent Flames』 \ndoes not mean, use the 『Tranquil Water』 to restrain it, it does \nnot mean to drown it out.",
+            "name": "Yaeno Muteki's Grandfather"
         },
         {
+            "text": "Whether it be martial arts or a race, it is the same. The aim \nshould be 『Fusion』. In what way should that be realized……",
             "name": "Yaeno Muteki's Grandfather",
-            "text": "Whether it be martial arts or a race, it is the same. The aim should be 『Fusion』. In what way should that be realized……",
             "choice_data_list": [
                 "……！！"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "During a race, how to realize 『The Fusion of Fire and Water』…… is it? I see――"
+            "text": "During a race, how to realize 『The Fusion \nof Fire and Water』…… is it? I see――",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "I have spoken with my grandfather about this before, however, in regards to the Kongou Yaegaki Ryuu, we use the 『Kata』 to realize this."
+            "text": "I have spoken with my grandfather about this before, \nhowever, in regards to the Kongou Yaegaki Ryuu, \nwe use the 『Kata』 to realize this.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "In that case, what would the 『Kata』 be for a race……？"
+            "text": "In that case, what would the 『Kata』 be for a race……？",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "For martial arts, 『Kata』 are based on hypothetical conditions and opponents, much like a simulation to choose the most optimal action to undertake."
+            "text": "For martial arts, 『Kata』 are based on hypothetical conditions and \nopponents, much like a simulation to choose the most optimal \naction to undertake."
         },
         {
-            "text": "If one were to adapt these for the purpose of a race, then the thing that comes to mind is――",
+            "text": "If one were to adapt these for the purpose of a race, then the \nthing that comes to mind is――",
             "choice_data_list": [
                 "Wouldn't it be 『Tactics』？"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "……！！"
+            "text": "……！！",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "That's right……！ To surpass the opponents, the 『Ardent Flame』！ To calmly analyze and grasp the situation, the 『Tranquil Water』！！"
+            "text": "That's right……！ To surpass the opponents, the 『Ardent Flame』！ To \ncalmly analyze and grasp the situation, the 『Tranquil Water』！！",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "To combine these two, a 『Kata』―― With consideration for both the settings and conditions, a variety of 『Tactics』……！"
+            "text": "To combine these two, a 『Kata』―― With consideration for both the \nsettings and conditions, a variety of 『Tactics』……！",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "In other words, for a race 『The Fusion of Fire and Water』 can be \nrealized, by learning many different 『Tactics』……！！",
             "name": "Yaeno Muteki",
-            "text": "In other words, for a race 『The Fusion of Fire and Water』 can be realized, by learning many different 『Tactics』……！！",
             "choice_data_list": [
                 "That must be it……！",
                 "That must be it……！"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "I now have a guiding light. In that case, what I need next is――"
+            "text": "I now have a guiding light. In that case, what I need next is――",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
             "text": "……an expert familiar with this road, that can instruct me.",
+            "name": "Yaeno Muteki",
             "choice_data_list": [
                 "Does that mean――"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Those with the title of trainer are, in regards to race tactics, considered those most proficient at it."
+            "text": "Those with the title of trainer are, in regards to race tactics, \nconsidered those most proficient at it.",
+            "name": "Yaeno Muteki"
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Please, for just a little while longer, consider accompanying someone as immature as I."
+            "text": "Please, for just a little while longer, consider accompanying \nsomeone as immature as I.",
+            "name": "Yaeno Muteki"
         },
         {
+            "text": "The 『Kata』 for races…… in other words, the many 『Tactics』, please \ninstruct me on them！",
             "name": "Yaeno Muteki",
-            "text": "The 『Kata』 for races…… in other words, the many 『Tactics』, please instruct me on them！",
             "choice_data_list": [
                 "Got it, leave it to me！",
                 "Got it, leave it to me！"
             ]
         },
         {
-            "name": "Yaeno Muteki",
-            "text": "Thank you very much. ……a response overflowing in sincerity―― it's very reassuring."
+            "text": "Thank you very much. ……a response overflowing \nin sincerity―― it's very reassuring.",
+            "name": "Yaeno Muteki"
         },
         {
-            "text": "Will Yaeno Muteki be able to realize 『The Fusion of Fire and Water』 using tactics for a race？ ……The first step is to instruct her properly！"
+            "text": "Will Yaeno Muteki be able to realize 『The Fusion \nof Fire and Water』 using tactics for a race？ ……The \nfirst step is to instruct her properly！"
         }
     ]
 }

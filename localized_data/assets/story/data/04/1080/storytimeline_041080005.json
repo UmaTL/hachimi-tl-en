@@ -1,0 +1,155 @@
+{
+    "text_block_list": [
+        {
+            "text": "It's early afternoon. I'm working on my laptop \nas usual and I can feel my hands starting to get tired."
+        },
+        {
+            "text": "I read somewhere that high amounts of desk work might \nincrease fatigue. Thus, I decided to take a little break \nto rest my hands."
+        },
+        {
+            "text": "Heya, Tray-chan! \nI came to hang out.",
+            "name": "Transcend"
+        },
+        {
+            "text": "But damn, am I thirsty. I'm sure you've got <i>something</i> \nin your fridge here. ...Oh, isn't that <i>Physical X</i>, which \nis popping off online right now?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Can I take one? —Thanks a bunch! \nYou're so generous, Tray-chan!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "I haven't said anything yet..."
+            ]
+        },
+        {
+            "text": "Heheh, I <i>knew</i> you'd say that.",
+            "name": "Transcend"
+        },
+        {
+            "text": "She still treats me casually like a good friend. \nIn fact, our relationship hasn't really changed \nat all since I became her trainer."
+        },
+        {
+            "text": "By the way, you went to the countryside last week \non your day off, right? How'd it go? \nDid you bring back any useful info?",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Wha— How did you know where...?!"
+            ]
+        },
+        {
+            "text": "Heh heh..! You thought I wouldn't figure it out? \nOf course I'd look into where you'd go on your day off.",
+            "name": "Transcend"
+        },
+        {
+            "text": "You wanted to talk to some of the rural trainers out there. \nSpecifically those of runners and leaders, am I wrong?",
+            "name": "Transcend"
+        },
+        {
+            "text": "And? And? Did you learn anything useful? \nThings that would help me exceed all imagination, \nperhaps?",
+            "name": "Transcend"
+        },
+        {
+            "text": "I went on a trip in secret, with the goal of gathering \ninformation that would help me bring out the best in her... \nBut of course, she found out anyway.",
+            "choice_data_list": [
+                "You've got info on me, too...",
+                "You've got info on me, too..."
+            ]
+        },
+        {
+            "text": "Of course I do. \nWho do you think I am?",
+            "name": "Transcend"
+        },
+        {
+            "text": "――Your nihilistic and dangerous database, right?",
+            "name": "Transcend"
+        },
+        {
+            "text": "Things you like, dislike or are indifferent to. \nYour hobbies, tastes, ways of thinking... \nI know it all to the tiniest detail!",
+            "name": "Transcend"
+        },
+        {
+            "text": "Hehe, are you scared? \nBecause you should be..!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Not scared, more astonished..!",
+                "Not scared, more astonished..!"
+            ]
+        },
+        {
+            "text": "Ahaha! I even know you've been having trouble \nwith something lately. So...",
+            "name": "Transcend"
+        },
+        {
+            "text": "Here. I got this for you!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Umm... What?"
+            ]
+        },
+        {
+            "text": "Just take it, and open it!",
+            "name": "Transcend"
+        },
+        {
+            "text": "I do as she says, and out comes what looks like... \nA wooden plank."
+        },
+        {
+            "text": "That's a palm rest, y'know. You place it against \nyour keyboard to rest your wrists on.",
+            "name": "Transcend"
+        },
+        {
+            "text": "I noticed you were doing lots of computer work \nrecently, so your hands must be fatigued. \nI'd know, I've been through this before.",
+            "name": "Transcend"
+        },
+        {
+            "text": "And that's when I found this absolute lifesaver! \nIt really makes all the difference. Wanna try it right now?",
+            "name": "Transcend"
+        },
+        {
+            "text": "How did she even find out about this minor inconvenience \nI've been having... Honestly, her kindheartedness might \nbe too much for my heart to handle..!",
+            "choice_data_list": [
+                "I'm happy you noticed!"
+            ]
+        },
+        {
+            "text": "Hehe... But there's a catch. \nDid I ever say you'd get this for free?",
+            "name": "Transcend"
+        },
+        {
+            "text": "You see, the <i>Future Watch</i> releases tomorrow. \nAnd... It's limited to 1 per person.",
+            "name": "Transcend"
+        },
+        {
+            "text": "But I reaaally want to get two of them..! \nOne to wear, and another to keep as a spare.",
+            "name": "Transcend"
+        },
+        {
+            "text": "And I'd need to stand in the queue from 4 in the morning! \nIf only there was someone who could go there with me... \n*peek*",
+            "name": "Transcend",
+            "choice_data_list": [
+                "So that's what you were after!"
+            ]
+        },
+        {
+            "text": "Argh, what to do..? I wish there was someone (a very \nkind Trainer) who I could rely on in times like these... \n*sniffle*",
+            "name": "Transcend",
+            "choice_data_list": [
+                "Ugh... I'll try to get up early."
+            ]
+        },
+        {
+            "text": "That's a promise! ... Heheh. \nYou must love me sooo much, Tray-chan!",
+            "name": "Transcend",
+            "choice_data_list": [
+                "<size=42>I get the feeling I'm being toyed with...</size>",
+                "<size=42>I get the feeling I'm being toyed with...</size>"
+            ]
+        },
+        {
+            "text": "Hmm? Really? \nI don't have <i>any</i> idea what you're talking about. Hehe..!",
+            "name": "Transcend"
+        },
+        {
+            "text": "...She says with a big smile on her face. She's always one \nstep ahead. Perhaps she knows me a little <i>too</i> well."
+        }
+    ]
+}

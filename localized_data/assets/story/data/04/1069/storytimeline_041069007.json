@@ -1,264 +1,264 @@
 {
     "text_block_list": [
         {
-            "text": "Starting today is the summer training camp- The training camp menu and points to remember are written in a memo that I'm having Sakura Chiyono O look over."
+            "text": "Starting today is the summer training camp- The training camp \nmenu and points to remember are written in a memo that I'm having \nSakura Chiyono O look over."
         },
         {
+            "text": "Hmm hmm… As expected of Summer Training \nCamp, it's jam packed with things to do!",
             "name": "Sakura Chiyono O",
-            "text": "Hmm hmm… As expected of Summer Training Camp, it's jam packed with things to do!",
             "choice_data_list": [
-                "There's more exercise than normal, will you be okay?",
-                "There's more exercise than normal, will you be okay?"
+                "<size=31>There's more exercise than normal, will you be okay?</size>",
+                "<size=31>There's more exercise than normal, will you be okay?</size>"
             ]
         },
         {
+            "text": "Of course! \nI believe in Trainer-san and this [Trainote]!",
             "name": "Sakura Chiyono O",
-            "text": "Of course! I believe in Trainer-san and this [Trainote]!",
             "choice_data_list": [
                 "[Trainote]?"
             ]
         },
         {
+            "text": "Yes! The things I need to get better at, things I can do to \nincrease my abilities… it's all written down in this note!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "I'm sure, you've read those books you bought before, \nand taken the time to think up this menu for me…",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "That's why, this book filled with \nTrainer-san's feelings is the [Trainote]!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "…During this training camp, I'll show you that even if it's \njust a little bit, I'll grow stronger…!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Sakura Chiyono O's eyes burned \nwith a fierce fighting spirit."
+        },
+        {
+            "text": "…puha! \nIt's just a little further, to the shore…!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Not yet! 10 sets remaining…! \n[Chiyo walks, Gate In]…!!!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Hey, since we got to training camp, \ndoesn't it seem like Chiyo-chan has gotten pretty intense?",
+            "name": "Fellow Camp Horsegirl A"
+        },
+        {
+            "text": "Yeah, she's putting in a crazy amount of effort. \n…but both of us, won't lose to her, right?!",
+            "name": "Fellow Camp Horsegirl B"
+        },
+        {
+            "text": "Haa, haa… \nToday's menu, is finished~!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "On the way here, it felt like there were alot of \npeople around… Am I… doing something weird?",
             "name": "Sakura Chiyono O",
-            "text": "Yes! The things I need to get better at, things I can do to increase my abilities… it's all written down in this note!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "I'm sure, you've read those books you bought before, and taken the time to think up this menu for me…"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "That's why, this book filled with Trainer-san's feelings is the [Trainote]!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "…During this training camp, I'll show you that even if it's just a little bit, I'll grow stronger…!"
-        },
-        {
-            "text": "Sakura Chiyono O's eyes burned with a fierce fighting spirit."
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "…puha! It's just a little further, to the shore…!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Not yet! 10 sets remaining…! [Chiyo walks, Gate In]…!!!"
-        },
-        {
-            "name": "Fellow Camp Horsegirl A",
-            "text": "Hey, since we got to training camp, doesn't it seem like Chiyo-chan has gotten pretty intense?"
-        },
-        {
-            "name": "Fellow Camp Horsegirl B",
-            "text": "Yeah, she's putting in a crazy amount of effort. …but both of us, won't lose to her, right?!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Haa, haa… Today's menu, is finished~!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "On the way here, it felt like there were alot of people around… Am I… doing something weird?",
             "choice_data_list": [
                 "No, you're [The Usual] Chiyono."
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Okay…? Well if that's the case, then it's fine…"
+            "text": "Okay…? \nWell if that's the case, then it's fine…",
+            "name": "Sakura Chiyono O"
         },
         {
-            "text": "After that, she spent the next few days doing nothing but training- before we knew it, the last day of summer training camp was approaching."
+            "text": "After that, she spent the next few days doing nothing \nbut training- before we knew it, the last day of \nsummer training camp was approaching."
         },
         {
-            "name": "Sakura Chiyono O",
             "text": "I-is that true?!",
+            "name": "Sakura Chiyono O",
             "choice_data_list": [
-                "Yeah, looks like your time is better than before camp"
+                "<size=31>Yeah, looks like your time is better than before camp</size>"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "0.1 second… Trainer-san and my 0.1 second…!"
+            "text": "0.1 second… \nTrainer-san and my 0.1 second…!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "Just a little bit… really just a tiny bit but, I…! \nI'm getting closer to reaching Maruzen-san…!",
             "name": "Sakura Chiyono O",
-            "text": "Just a little bit… really just a tiny bit but, I…! I'm getting closer to reaching Maruzen-san…!",
             "choice_data_list": [
                 "Yeah, I guarantee it!",
                 "Yeah, I guarantee it!"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Yeah! …ehehe."
+            "text": "Yeah! \n…ehehe.",
+            "name": "Sakura Chiyono O"
         },
         {
             "text": "And so the Summer Training Camp came to a close. And then-"
         },
         {
+            "text": "So they were holding a festival this close by, huh~. \nThank you very much for bringing me along!",
             "name": "Sakura Chiyono O",
-            "text": "So they were holding a festival this close by, huh~. Thank you very much for bringing me along!",
             "choice_data_list": [
-                "It's a reward for working so hard during camp"
+                "<size=36>It's a reward for working so hard during camp</size>"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Ehehe. Then, I'm going to enjoy it to the fullest! Cotton Candy, Yo-yos, Goldfish scooping- Ah!"
+            "text": "Ehehe. Then, I'm going to enjoy it to the fullest! \nCotton Candy, Yo-yos, Goldfish scooping- Ah!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "This puppy plushie, looks alot like Maruzen-san don't you think? Like this fluffiness and these kind-looking eyes!"
+            "text": "This puppy plushie, looks alot like Maruzen-san don't you think? \nLike this fluffiness and these kind-looking eyes!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "It's so cute~…! \nWanwan, do you want to come home with me, wan?",
             "name": "Sakura Chiyono O",
-            "text": "It's so cute~…! Wanwan, do you want to come home with me, wan?",
             "choice_data_list": [
                 "I think it looks more like you, though",
                 "I think it looks more like you, though"
             ]
         },
         {
+            "text": "L-like me?! That's-",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Wait, no no no! Nevermind! \nAhahaa, Trainer-san you're a funny guy, aren't you?!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Hey you two, are you interested in this plushie? \nIn that case how about some [mould-cutting]!?",
+            "name": "Stallkeeper"
+        },
+        {
+            "text": "Mould-cutting…?",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Mould-cutting is taking this square made of sugar, \nand using your fingers and this needle to shave \nand cut out this shape in the middle!",
+            "name": "Stallkeeper"
+        },
+        {
+            "text": "If you do it well enough, I'll give you this plushie as a \npresent! How's that? Want to try it out?",
+            "name": "Stallkeeper"
+        },
+        {
+            "text": "Uuu, that plushie has really caught my interest but… \nit looks a little hard.",
             "name": "Sakura Chiyono O",
-            "text": "L-like me?! That's-"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Wait, no no no! Nevermind! Ahahaa, Trainer-san you're a funny guy, aren't you?!"
-        },
-        {
-            "name": "Stallkeeper",
-            "text": "Hey you two, are you interested in this plushie? In that case how about some [mould-cutting]!?"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Mould-cutting…?"
-        },
-        {
-            "name": "Stallkeeper",
-            "text": "Mould-cutting is taking this square made of sugar, and using your fingers and this needle to shave and cut out this shape in the middle!"
-        },
-        {
-            "name": "Stallkeeper",
-            "text": "If you do it well enough, I'll give you this plushie as a present! How's that? Want to try it out?"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Uuu, that plushie has really caught my interest but… it looks a little hard.",
             "choice_data_list": [
                 "In that case, I'll do it for you!",
                 "In that case, I'll do it for you!"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Eh… Ehhh?!"
+            "text": "Eh… Ehhh?!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "text": "-And so, for Sakura Chiyono O's sake, I challenged mould-cutting with spirit but, it was alot harder than I thought…"
+            "text": "-And so, for Sakura Chiyono O's sake, I challenged mould-cutting \nwith spirit but, it was alot harder than I thought…"
         },
         {
+            "text": "Oh man! You were close this time, \nwanna give it another go?",
             "name": "Stallkeeper",
-            "text": "Oh man! You were close this time, wanna give it another go?",
             "choice_data_list": [
                 "Yeah! This time for sure…!"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Wait, um, Trainer-san! On the first pass it might be better to use less strength…!"
+            "text": "Wait, um, Trainer-san! On the first pass \nit might be better to use less strength…!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "Looking at what I've studied before, it's safer to just shave \naway a little bit around the shape first…",
             "name": "Sakura Chiyono O",
-            "text": "Looking at what I've studied before, it's safer to just shave away a little bit around the shape first…",
             "choice_data_list": [
                 "I see, as expected of Chiyono O!"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "N-no no! I just saw it before and made a memo of it…! Um… keep fighting!"
+            "text": "N-no no! I just saw it before and made a memo of it…! \nUm… keep fighting!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Stallkeeper",
-            "text": "Oooh! This time looks good! Wonderful, this plushie is yours now!"
+            "text": "Oooh! This time looks good! \nWonderful, this plushie is yours now!",
+            "name": "Stallkeeper"
         },
         {
-            "name": "Sakura Chiyono O",
             "text": "I-is it fine for me to accept this…?!",
+            "name": "Sakura Chiyono O",
             "choice_data_list": [
-                "Yeah, this is also a reward for summer camp",
-                "Yeah, this is also a reward for summer camp"
+                "<size=37>Yeah, this is also a reward for summer camp</size>",
+                "<size=37>Yeah, this is also a reward for summer camp</size>"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "… Thank you very much…!"
+            "text": "… Thank you very much…!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "Ehehe~! \nYour name is [Sakura Wanko O] now~. Wan wan!",
             "name": "Sakura Chiyono O",
-            "text": "Ehehe~! Your name is [Sakura Wanko O] now~. Wan wan!",
             "choice_data_list": [
                 "It really is like you",
                 "It really is like you"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "T-the only one who thinks that, is probably you Trainer-san…!"
+            "text": "T-the only one who thinks that, is probably you Trainer-san…!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "…Ahem! Let's put whether or not it looks like me aside, um… once more, thank you very much."
+            "text": "…Ahem! Let's put whether or not it looks like me aside, \num… once more, thank you very much.",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "Not just for this plushie, but for Summer Training Camp, and before this too-"
+            "text": "Not just for this plushie, \nbut for Summer Training Camp, and before this too-",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "You said it before right? That watching me gives you strength, and watching me work hard gives you courage."
+            "text": "You said it before right? That watching me gives you strength, \nand watching me work hard gives you courage.",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "…It's the same for me, watching Trainer-san work hard, makes me feel like I have to work hard too."
+            "text": "…It's the same for me, watching Trainer-san work hard, \nmakes me feel like I have to work hard too.",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "More so than when I'm alone, I feel more strength. I feel like I can keep pushing forward."
+            "text": "More so than when I'm alone, I feel more strength. \nI feel like I can keep pushing forward.",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "That's why, if both of us keep working hard, I believe we'll definitely get stronger!"
+            "text": "That's why, if both of us keep working hard, \nI believe we'll definitely get stronger!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "I'll become Trainer-san's strength, and Trainer-san will become my strength-"
+            "text": "I'll become Trainer-san's strength, \nand Trainer-san will become my strength-",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "And like that, winning the Derby won't stay a dream, and I'll get stronger and stronger…!!"
+            "text": "And like that, winning the Derby won't stay a dream, \nand I'll get stronger and stronger…!!",
+            "name": "Sakura Chiyono O"
         },
         {
+            "text": "…well, um~… \nA-at least that's what Wanko O thinks, wan…",
             "name": "Sakura Chiyono O",
-            "text": "…well, um~… A-at least that's what Wanko O thinks, wan…",
             "choice_data_list": [
                 "I agree with Wanko O",
                 "I agree with Wanko O"
             ]
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "~~~~!! I-I'll definitely fulfill my dream! Even if I have to take a different path from others, even if it takes time, definitely…!"
+            "text": "~~~~!! I-I'll definitely fulfill my dream! Even \nif I have to take a different path from others, \neven if it takes time, definitely…!",
+            "name": "Sakura Chiyono O"
         },
         {
-            "name": "Sakura Chiyono O",
-            "text": "[A late blooming Sakura, is still a Sakura], right?"
+            "text": "[A late blooming Sakura, is still a Sakura], right?",
+            "name": "Sakura Chiyono O"
         },
         {
-            "text": "A firework went up in the distance- almost as if, to affirm Sakura Chiyono O's determination."
+            "text": "A firework went up in the distance- almost as if, \nto affirm Sakura Chiyono O's determination."
         }
     ]
 }

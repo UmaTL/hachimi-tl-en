@@ -1,226 +1,237 @@
 {
     "text_block_list": [
         {
-            "name": "Mejiro McQueen",
-            "text": "…"
+            "text": "…",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Ah! McQueen-san, you're back!"
+            "text": "Ah! McQueen-san, you're back!",
+            "name": "Horsegirl with Straight-cut Bangs"
         },
         {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "McQueen-san! Great job!"
+            "text": "McQueen-san! Great job!",
+            "name": "Droopy-eyed Horsegirl"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "You all came all this way to see me?"
+            "text": "You all came all this way to see me?",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Gold Ship",
             "text": "Just barely second place, huh? Still a great match though.",
+            "name": "Gold Ship",
             "choice_data_list": [
-                "Your competitor today was really something, huh?",
-                "Your competitor today was really something, huh?"
+                "<size=33>Your competitor today was really something, huh?</size>",
+                "<size=33>Your competitor today was really something, huh?</size>"
             ]
         },
         {
+            "text": "Yes, there is no doubt about that. I had perfect coordination and \nI was able to stay concentrated when it mattered most.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Today, I was simply outmatched.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "You're looking completely refreshed, you know?",
+            "name": "<username>"
+        },
+        {
+            "text": "That's because that race taught me so many things. Like what I am \ncurrently lacking, and what I need to develop for the future.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I've learned so many things from this race alone. Moreover…",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Moreover?",
+            "name": "Horsegirl with Black Bob-cut"
+        },
+        {
+            "text": "Unlike the Japan Cup, today I am happy with how I ran today.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I was able to turn the expectations that you all had for me into \nmy own power/strength, allowing me to run with all my might.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "McQueen-san, you're going to do great in the next race!",
+            "name": "Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "Yes, of course I will.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I believe in you, Ace!",
+            "name": "Droopy-eyed Horsegirl"
+        },
+        {
+            "text": "You're going to show us another amazing \nrace, aren't you, McQueen-chan!?",
+            "name": "Horsegirl with Black Bob-cut"
+        },
+        {
+            "text": "I'll show you all a race that will live up to the title of “Ace.”",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Alrighty then! Now that the race's over, \nTrainer's gonna treat us to dinner!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Yup! I've withdrawn from my savings account just for this moment!",
+            "name": "<username>"
+        },
+        {
+            "text": "Yup! I've withdrawn from my savings account just for this moment!",
+            "name": "<username>"
+        },
+        {
+            "text": "I mentioned it, did I not…?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I've been on a restrictive diet in preparation \nfor today's race, so I'm quite famished.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I guess we'll be teaching you a harsh lesson on \nhow insatiable our appetites really are.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Eh…?",
+            "name": "<username>"
+        },
+        {
+            "text": "Ah, that's right! Why don't we invite Oguri and Ryan as well!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Wai-! Hold on, wait a second! My wallet \nwon't be able to survive this!",
+            "name": "<username>"
+        },
+        {
+            "text": "Wai-! Hold on, wait a second! My wallet \nwon't be able to survive this!",
+            "name": "<username>"
+        },
+        {
+            "text": "Don't be so stingy! Anyways, let's go!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Hehe, let's go, Trainer-san!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "The team that was born from Oguri Cap's miracle \nduring the Arima Kinen: Team Sirius…"
+        },
+        {
+            "text": "Its new trainer and its new ace clumsily made their way through \nraces and eventually formed a proper team."
+        },
+        {
+            "text": "We still have a long way to go to be \nas great as we once were, but…"
+        },
+        {
+            "text": "The values and ideas that we inherited from the former members of \nour team continue to resonate between us."
+        },
+        {
+            "text": "Okay everyone, I'm heading out.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "You can do this, Ace!",
+            "name": "Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "Remember, if you manage to keep your title, Trainer'll treat you \nto as many sweets as you'd like!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Wait, really!?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "You weren't supposed to tell her that yet! She's going to lose \nher concentration because of that!",
+            "name": "Horsegirl with Black Bob-cut"
+        },
+        {
+            "text": "Figured it'd help get her fired up, but I \nguess it had the opposite effect, huh?",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Ace, concentrate… concentrate!",
+            "name": "Droopy-eyed Horsegirl"
+        },
+        {
+            "text": "Y-You're right. Concentrate… Concentrate… Confectionaries…",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "McQueen, your opponent today is the undefeated Tokai Teio.",
+            "name": "<username>"
+        },
+        {
+            "text": "McQueen, your opponent today is the undefeated Tokai Teio.",
+            "name": "<username>"
+        },
+        {
+            "text": "Judging from her prior races, her strength is the real deal. \nMoreover, she's predicted to win this race as well.",
+            "name": "<username>"
+        },
+        {
+            "text": "But regardless of those facts, you will win this race!",
+            "name": "<username>"
+        },
+        {
+            "text": "But regardless of those facts, you will win this race!",
+            "name": "<username>"
+        },
+        {
+            "text": "Hehe, leave it to me. With all of you by my side and pushing me \nforward, I feel like I can accomplish anything!",
             "name": "Mejiro McQueen",
-            "text": "Yes, there is no doubt about that. I had perfect coordination and I was able to stay concentrated when it mattered most."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Today, I was simply outmatched."
-        },
-        {
-            "text": "You're looking completely refreshed, you know?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That's because that race taught me so many things. Like what I am currently lacking, and what I need to develop for the future."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I've learned so many things from this race alone. Moreover…"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "Moreover?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Unlike the Japan Cup, today I am happy with how I ran today."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I was able to turn the expectations that you all had for me into my own power/strength, allowing me to run with all my might."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "McQueen-san, you're going to do great in the next race!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Yes, of course I will."
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "I believe in you, Ace!"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "You're going to show us another amazing race, aren't you, McQueen-chan!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'll show you all a race that will live up to the title of “Ace.”"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Alrighty then! Now that the race's over, Trainer's gonna treat us to dinner!"
-        },
-        {
-            "text": "Yup! I've withdrawn from my savings account just for this moment!"
-        },
-        {
-            "text": "Yup! I've withdrawn from my savings account just for this moment!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I mentioned it, did I not…?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I've been on a restrictive diet in preparation for today's race, so I'm quite famished."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I guess we'll be teaching you a harsh lesson on how insatiable our appetites really are."
-        },
-        {
-            "text": "Eh…?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ah, that's right! Why don't we invite Oguri and Ryan as well!"
-        },
-        {
-            "text": "Wai-! Hold on, wait a second! My wallet won't be able to survive this!"
-        },
-        {
-            "text": "Wai-! Hold on, wait a second! My wallet won't be able to survive this!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Don't be so stingy! Anyways, let's go!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, let's go, Trainer-san!"
-        },
-        {
-            "text": "The team that was born from Oguri Cap's miracle during the Arima Kinen: Team Sirius…"
-        },
-        {
-            "text": "Its new trainer and its new ace clumsily made their way through races and eventually formed a proper team."
-        },
-        {
-            "text": "We still have a long way to go to be as great as we once were, but…"
-        },
-        {
-            "text": "The values and ideas that we inherited from the former members of our team continue to resonate between us."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Okay everyone, I'm heading out."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "You can do this, Ace!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Remember, if you manage to keep your title, Trainer'll treat you to as many sweets as you'd like!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Wait, really!?"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "You weren't supposed to tell her that yet! She's going to lose her concentration because of that!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Figured it'd help get her fired up, but I guess it had the opposite effect, huh?"
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "Ace, concentrate… concentrate!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Y-You're right. Concentrate… Concentrate… Confectionaries…"
-        },
-        {
-            "text": "McQueen, your opponent today is the undefeated Tokai Teio."
-        },
-        {
-            "text": "McQueen, your opponent today is the undefeated Tokai Teio."
-        },
-        {
-            "text": "Judging from her prior races, her strength is the real deal. Moreover, she's predicted to win this race as well."
-        },
-        {
-            "text": "But regardless of those facts, you will win this race!"
-        },
-        {
-            "text": "But regardless of those facts, you will win this race!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, leave it to me. With all of you by my side and pushing me forward, I feel like I can accomplish anything!",
             "choice_data_list": [
                 "You've got this, Ace!"
             ]
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Thank you, I will definitely win this race!"
+            "text": "Thank you, I will definitely win this race!",
+            "name": "Mejiro McQueen"
         },
         {
             "text": "(Wooooooaaaaaahhh―!!)"
         },
         {
-            "name": "Commentator",
-            "text": "Mejiro McQueen! Mejiro McQueen! She's created a 3 horse-length lead!"
+            "text": "Mejiro McQueen! Mejiro McQueen! She's \ncreated a 3 horse-length lead!",
+            "name": "Commentator"
         },
         {
-            "name": "Commentator",
-            "text": "Mejiro McQueen crosses the finish line in first place!! She is the first Uma Musume to win the Spring Tenno Sho twice in a row!"
+            "text": "Mejiro McQueen crosses the finish line in first place!! She is \nthe first Uma Musume to win the Spring Tenno Sho twice in a row!",
+            "name": "Commentator"
         },
         {
             "text": "(Wooooooaaaaaahhh―!!)"
         },
         {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Congrats, McQueen-san!!"
+            "text": "Congrats, McQueen-san!!",
+            "name": "Horsegirl with Straight-cut Bangs"
         },
         {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "Oohh! I'm so moved!!"
+            "text": "Oohh! I'm so moved!!",
+            "name": "Droopy-eyed Horsegirl"
         },
         {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "Our Ace… She really is something special, huh?"
+            "text": "Our Ace… She really is something special, huh?",
+            "name": "Horsegirl with Black Bob-cut"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "Thank you so much, everyone!"
+            "text": "Thank you so much, everyone!",
+            "name": "Mejiro McQueen"
         },
         {
-            "name": "Mejiro McQueen",
-            "text": "I will continue to carry our dreams forward!"
+            "text": "I will continue to carry our dreams forward!",
+            "name": "Mejiro McQueen"
         }
     ]
 }
