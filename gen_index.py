@@ -31,6 +31,7 @@ def main():
         print("[Error] localized_data tree not found")
         return
 
+    hasher = blake3(max_threads=blake3.AUTO)
     for path in ls_tree(ld_tree, skip_trees=True):
         if path.name == ".gitignore":
             continue
@@ -38,9 +39,9 @@ def main():
         print(path)
         fs_path = "localized_data" / path
 
-        hasher = blake3(max_threads=blake3.AUTO)
         hasher.update_mmap(fs_path)
         file_hash = hasher.digest()
+        hasher.reset()
 
         index["files"].append({
             'path': path.as_posix(),
