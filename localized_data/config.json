@@ -17,6 +17,7 @@
     "use_text_wrapper": true,
     "line_width_multiplier": 1.75,
 
+    "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
     "text_frame_line_spacing_multiplier": 0.8,
     "text_frame_font_size_multiplier": 0.9,
