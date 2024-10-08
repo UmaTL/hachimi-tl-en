@@ -22,8 +22,19 @@
     "text_frame_line_spacing_multiplier": 0.8,
     "text_frame_font_size_multiplier": 0.9,
     "skill_list_item_desc_font_size_multiplier": 0.9,
+    "now_loading_comic_title_ellipsis": true,
 
     "remove_ruby": true,
+    "character_note_top_gallery_button": {
+        "text": "    Training\nEvent Gallery",
+        "font_size": 36,
+        "line_spacing": 0.6
+    },
+    "character_note_top_talk_gallery_button": {
+        "text": "     Chat\n   Gallery",
+        "font_size": 44,
+        "line_spacing": 0.55
+    },
 
     "news_url": "https://hachimi.leadrdrk.com/PakaNews/"
 }
