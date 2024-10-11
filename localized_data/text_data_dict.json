@@ -650,8 +650,9 @@
         "110502": "[Like “ZEER”] Neo Universe",
         "111001": "[Future Weaver] Cesario",
         "112101": "[Chevalier Fidèle] Durandal",
-        "102403": "[Rockin'☆MewMeow] Mayano Top Gun",
-        "104202": "[Be​♪​Witched] Seeking the Pearl"
+        "102403": "[Rocking​☆​MewMeow] Mayano Top Gun",
+        "104202": "[Be​♪​Witched] Seeking the Pearl",
+        "112401": "[POPPING!] Bubble Gum Fellow"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -838,8 +839,9 @@
         "110502": "[Like “ZEER”]",
         "111001": "[Future Weaver]",
         "112101": "[Chevalier Fidèle]",
-        "102403": "[Rockin'☆MewMeow]",
-        "104202": "[Be​♪​Witched]"
+        "102403": "[Rocking​☆​MewMeow]",
+        "104202": "[Be​♪​Witched]",
+        "112401": "[POPPING!]"
     },
     "6": {
         "1001": "Special Week",
@@ -980,7 +982,8 @@
         "2006": "Rigantona",
         "2007": "Sonon Elfie",
         "9007": "Beauty Anshinzawa",
-        "1113": "Fusaichi Pandora"
+        "1113": "Fusaichi Pandora",
+        "1124": "Bubble Gum Fellow"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -1121,7 +1124,8 @@
         "1121": "Kana Nogi",
         "2007": "Ami Koshimizu",
         "9044": "Rina Satō",
-        "1113": "Moe Kahara"
+        "1113": "Moe Kahara",
+        "1124": "Sayaka Kamitani"
     },
     "8": {
         "1001": "Ritto Dorm",
@@ -1235,7 +1239,8 @@
         "1120": "Ritto Dorm",
         "1081": "Ritto Dorm",
         "1110": "Ritto Dorm",
-        "1121": "Ritto Dorm"
+        "1121": "Ritto Dorm",
+        "1124": "Miho Dorm"
     },
     "9": {
         "1001": "Slight decrease (Nervous before races)",
@@ -1340,7 +1345,8 @@
         "1119": "Unknown",
         "1120": "Developing at Top Speed",
         "1110": "Slight decrease (Holding back for an upcoming race)",
-        "1121": "Achieved through devotion."
+        "1121": "Achieved through devotion.",
+        "1124": "Perfectly as declared"
     },
     "10": {
         "1": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
@@ -2124,7 +2130,9 @@
         "30280": "Guaranteed ★3 Umamusume from these 8!",
         "50098": "One-time! Limited to SSR power cards!",
         "50105": "One-time! Limited to SSR guts cards!",
-        "50107": "One-time! Limited to SSR wisdom cards!"
+        "50107": "One-time! Limited to SSR wisdom cards!",
+        "30282": "Get 90 extra pieces with the ★3 banner Umamusume!",
+        "30283": "Rate up on selected SSR support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -2320,7 +2328,8 @@
         "1148": "Cosmo Puella Ginga Boukentan",
         "1149": "GOCHISO Sama",
         "1085": "Dodotto Yuushou! Daikanshasai!!!",
-        "1095": "Irodori Phantasia"
+        "1095": "Irodori Phantasia",
+        "1152": "SHAKE ROCK"
     },
     "17": {
         "1052": "None",
@@ -3598,7 +3607,9 @@
         "30276": "Pick Up Pretty Derby Gacha",
         "30278": "Pick Up Pretty Derby Gacha",
         "30279": "Pick Up Support Card Gacha",
-        "30280": "Twinkle Collection Pretty Derby Gacha"
+        "30280": "Twinkle Collection Pretty Derby Gacha",
+        "30282": "Pick Up Pretty Derby Gacha",
+        "30283": "Secret Pickup Support Card Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Surface & Distance aptitude lacking]</color> \\nShe may not be able to give 100% of her ability.",
@@ -5821,7 +5832,13 @@
         "681111": "Tenno Sho (Spring) Level 2",
         "681121": "Tenno Sho (Spring) Level 3",
         "1202001": "Teio Sho (HARD)",
-        "1202002": "Teio Sho (HARD)"
+        "1202002": "Teio Sho (HARD)",
+        "630037": "Carnival (HARD)",
+        "630038": "Carnival (HARD)",
+        "630039": "Carnival (HARD)",
+        "630040": "Carnival (HARD)",
+        "630041": "Challenge Race (VERY HARD)",
+        "630042": "Challenge Race (EXTREME)"
     },
     "29": {
         "100101": "February S",
@@ -7978,7 +7995,13 @@
         "1202001": "Teio Sho (HARD)",
         "1202002": "Teio Sho (HARD)",
         "1202101": "Sprinters S (HARD)",
-        "1202102": "Sprinters S (HARD)"
+        "1202102": "Sprinters S (HARD)",
+        "630037": "Carnival (HARD)",
+        "630038": "Carnival (HARD)",
+        "630039": "Carnival (HARD)",
+        "630040": "Carnival (HARD)",
+        "630041": "Challenge Race (VERY HARD)",
+        "630042": "Challenge Race (EXTREME)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -9563,7 +9586,13 @@
         "15069": "Special Race: Mile",
         "15070": "Special Race: Dirt",
         "15071": "Special Race: Short",
-        "15072": "Special Race: Medium"
+        "15072": "Special Race: Medium",
+        "11037": "Carnival (HARD)",
+        "11038": "Carnival (HARD)",
+        "11039": "Carnival (HARD)",
+        "11040": "Carnival (HARD)",
+        "11041": "Challenge Race (VERY HARD)",
+        "11042": "Challenge Race (EXTREME)"
     },
     "33": {
         "1001": "February Stakes",
@@ -10337,7 +10366,13 @@
         "12021": "Legend Race",
         "12022": "Legend Race",
         "6063": "Champions Meeting",
-        "6064": "Champions Meeting"
+        "6064": "Champions Meeting",
+        "11037": "Carnival Race",
+        "11038": "Carnival Race",
+        "11039": "Carnival Race",
+        "11040": "Carnival Race",
+        "11041": "Challenge Race",
+        "11042": "Challenge Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -10821,7 +10856,8 @@
         "20004": "Carnival Pt \\nTrade",
         "20005": "Carnival Pt \\nTrade",
         "20006": "Carnival Pt \\nTrade",
-        "8001": "Circle Pts."
+        "8001": "Circle Pts.",
+        "20007": "Carnival Pt \\nTrade"
     },
     "42": {
         "16": "Daily Jewels Pack",
@@ -12377,7 +12413,20 @@
         "920241": "HOP STEP♪LOCK ON!",
         "1000017": "Carnival Bonus",
         "112101111": "Faithful Veillantif",
-        "112101211": "Olifant's Roar"
+        "112101211": "Olifant's Roar",
+        "203201": "Quick Work",
+        "203202": "Not Even a Glimpse",
+        "203212": "Free-Spirited",
+        "203221": "Breaking Free",
+        "203222": "Aggressive",
+        "203232": "Restless Step",
+        "102102221": "'kay then, let's get movin'!",
+        "102403111": "Going Ahead☆Tailwind",
+        "102403211": "Cockpit Magician",
+        "104202111": "Riding the Mistral",
+        "104202211": "Shining From The Ocean Floor...☆",
+        "104802221": "Simply the Best!",
+        "107102121": "Mystic Flame"
     },
     "48": {
         "10071": "If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -13029,7 +13078,7 @@
         "202431": "Leader・Medium・If you're in lead or close to the lead during the second half of the Middle Leg, your speed and acceleration will increase.",
         "202432": "Leader・Medium・If you're in lead or close to the lead during the second half of the Middle Leg, your speed and acceleration will slightly increase.",
         "202441": "Your Speed, Power, and Guts stats have a chance of being increased by 80 each. The chance is 30% if you're one of the three most popular racers, and 60% otherwise.",
-        "202442": "Your Speed, Power, and Guts stats have a chance of being increased by 40 each. The chance is 30% if you're one of the three most popular racers, and 60% otherwise.",
+        "202442": "Your Speed, Power, and Guts stats have a chance of being increased by 40 each. The chance is 15% if you're one of the three most popular racers, and 30% otherwise.",
         "202451": "Betweener・On the final straight, if you're not in lead but also not more than 10 meters from it, your speed will significantly increase.",
         "202452": "Betweener・On the final straight, if you're not in lead but also not more than 10 meters from it, your speed will increase.",
         "202461": "Runner・If you're in the lead during the final straight with another girl right behind you, your speed will significantly increase.",
@@ -13840,7 +13889,12 @@
         "104202111": "Short/Mile・At a random point during any Final Leg straight, your acceleration will increase and your speed will slightly increase; in Tokyo, this skill will always trigger in the first half of the Final Leg.",
         "104202211": "Short/Mile・During a random Middle Leg corner, your speed will slightly increase; when this skill triggers during the Final Corner, your speed will increase greatly instead.",
         "104802221": "Betweener・Medium・If you're in the middle of the pack at a random point during the first half of the Final Leg, your speed will increase greatly; the effect is even stronger in Tokyo.",
-        "107102121": "Leader・At a random point during the first half of the Middle Leg, your speed will increase and your stamina will recover."
+        "107102121": "Leader・At a random point during the first half of the Middle Leg, your speed will increase and your stamina will recover.",
+        "101241": "If you're in the first half of the pack at a random time during the second half of the Middle Leg, your speed will increase; it will increase greatly if you're no more than 10 m from the lead in 1600–2000 m races.",
+        "203131": "Leader・If you're leading or at most 2.5 m from the lead during the Final Straight, your speed will greatly increase.",
+        "203281": "Your Speed, Stamina, and Wisdom stats are lowered by 100.",
+        "112401111": "Leader・During the latter part of the Middle Leg, your speed will slightly increase; (Mile/Medium only) the effect is much stronger if you're leading or at most 5 m from the lead.",
+        "112401211": "Leader・Your speed will slightly increase when there's 200 m remaining in the race; (Mile/Medium only) if you're leading or at most 2.5 m from the lead during the Final Straight, your speed will increase tremendously."
     },
     "49": {
         "1": "50 Jewels",
@@ -23556,7 +23610,33 @@
         "2406057": "[Limited] Enter Scout Race 60 times",
         "2406058": "[Limited] Win the Special Race 1 time",
         "2406059": "[Limited] Win the Special Race 2 times",
-        "2406060": "[Limited] Win the Special Race 3 times"
+        "2406060": "[Limited] Win the Special Race 3 times",
+        "611801": "Watch episode 4 of Bubble Gum Fellow's story.",
+        "611802": "Reach 10 million total fans for Bubble Gum Fellow.",
+        "611803": "Reach 50 million total fans for Bubble Gum Fellow.",
+        "611804": "Reach 100 million total fans for Bubble Gum Fellow.",
+        "611805": "Win all G1, G2, and G3 trophies with Bubble Gum Fellow.",
+        "2300315": "[Daily] Enter a Challenge Race",
+        "2300320": "[Daily] Enter a Challenge Race",
+        "2300325": "[Daily] Enter a Challenge Race",
+        "2300330": "[Daily] Enter a Challenge Race",
+        "2300335": "[Daily] Enter a Challenge Race",
+        "2300340": "[Daily] Enter a Challenge Race",
+        "2300345": "[Daily] Enter a Challenge Race",
+        "2300350": "[Daily] Enter a Challenge Race",
+        "2300355": "[Daily] Enter a Challenge Race",
+        "2300360": "[Daily] Enter a Challenge Race",
+        "2300361": "[Limited] Complete training with the Carnival Bonus skill",
+        "2300362": "[Time-Limited] Obtain 10000 total Carnival Pts",
+        "2300363": "[Time-Limited] Obtain 20000 total Carnival Pts",
+        "2300364": "[Time-Limited] Obtain 30000 total Carnival Pts",
+        "2300365": "[Time-Limited] Obtain 40000 total Carnival Pts",
+        "2300366": "[Time-Limited] Obtain 50000 total Carnival Pts",
+        "2300367": "[Time-Limited] Obtain 60000 total Carnival Pts",
+        "2300368": "[Time-Limited] Obtain 70000 total Carnival Pts",
+        "2300369": "[Time-Limited] Obtain 80000 total Carnival Pts",
+        "2300370": "[Time-Limited] Obtain 90000 total Carnival Pts",
+        "2300371": "[Time-Limited] Obtain 100000 total Carnival Pts"
     },
     "68": {
         "8001": "Tazuna's Advice",
@@ -27351,7 +27431,8 @@
         "111001": "Cesario Piece",
         "112101": "Durandal Piece",
         "102403": "Mayano Top Gun Piece",
-        "104202": "Seeking the Pearl Piece"
+        "104202": "Seeking the Pearl Piece",
+        "112401": "Bubble Gum Fellow Piece"
     },
     "114": {
         "100000": "A piece of the selected Umamusume.\\nCan be used to obtain or develop their talents.",
@@ -27538,7 +27619,8 @@
         "111001": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "111601": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
         "112001": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
-        "112101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
+        "112101": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume.",
+        "112401": "Used to obtain Umamusume and develop their talents.\\nA special piece with the crystallized wishes of an Umamusume."
     },
     "119": {
         "1": "URA Finals, Start!",
@@ -28580,7 +28662,8 @@
         "9044": "A talented producer aiming for the peak of entertainment.",
         "1081": "\"Beat me if you can!\" A rebellious girl who loves to bicker.",
         "1110": "A strict warrior and holy mother. An Umamusume with two sides.",
-        "1121": "Pay heed! The devoted sacred sword with dazzling footwork."
+        "1121": "Pay heed! The devoted sacred sword with dazzling footwork.",
+        "1124": "A shock troop commander with a fighting spirit and an expanding dream!"
     },
     "147": {
         "101": "Speed",
@@ -30268,7 +30351,19 @@
         "10240303": "HOP STEP♪LOCK ON!",
         "10420201": "Oh!bento-magic☆",
         "10420202": "Oh!bento-magic☆",
-        "10420203": "Oh!bento-magic☆"
+        "10420203": "Oh!bento-magic☆",
+        "2032001": "Not Even a Glimpse",
+        "2032002": "Not Even a Glimpse",
+        "2032003": "Not Even a Glimpse",
+        "2032101": "Free-Spirited",
+        "2032102": "Free-Spirited",
+        "2032103": "Free-Spirited",
+        "2032201": "Aggressive",
+        "2032202": "Aggressive",
+        "2032203": "Aggressive",
+        "2032301": "Restless Step",
+        "2032302": "Restless Step",
+        "2032303": "Restless Step"
     },
     "148": {
         "1": "Ace Bonus",
@@ -30968,7 +31063,8 @@
         "1121": "May 25",
         "9040": "February 24日(AIが三女神の名を名乗った日",
         "9041": "February 24日(AIが三女神の名を名乗った日",
-        "9042": "February 24日(AIが三女神の名を名乗った日"
+        "9042": "February 24日(AIが三女神の名を名乗った日",
+        "1124": "April 11"
     },
     "159": {
         "1001": "Betweener",
@@ -31140,7 +31236,8 @@
         "1120": "High School",
         "1081": "High School",
         "1110": "Middle School",
-        "1121": "High School"
+        "1121": "High School",
+        "1124": "High School"
     },
     "163": {
         "1044": "Sweep Tosho is my pre-transformation name! I am Sweepy the Magical Girl! Now this is sorcery! Aaah!! (Bonk)",
@@ -31265,7 +31362,8 @@
         "9044": "My name is Ryoka Tsurugi. I spend my days producing all sorts of content. I strive to deliver the world's most engaging videos.",
         "1081": "This here gal's Espoir City! Keep them races comin'! I'll leave 'em in the... dust...? Hey, hands off! I didn't ask ya to pat my head!",
         "1110": "I desire to solidify my future through coronation with the tiara. ――Oh, and nice to meet you!",
-        "1121": "My holy sword shall release a blazing light, which shall free you from the darkness that devours you. My name is Durandal. I vow to be your loyal knight!"
+        "1121": "My holy sword shall release a blazing light, which shall free you from the darkness that devours you. My name is Durandal. I vow to be your loyal knight!",
+        "1124": "I declare: \"As shock troop commander, I will conceive the cyclone of the Big Four!\" Let's expand our dream together!"
     },
     "164": {
         "1027": "Exercise",
@@ -31306,7 +31404,7 @@
         "1086": "Oil painting, yoga, being photogenic",
         "1087": "Observing life, darts",
         "1088": "(Over-the-top) magic, multitasking",
-        "1089": "Fishing in the sea, baseball, spending time alone.",
+        "1089": "Fishing in the sea, baseball, spending time alone",
         "1093": "Guiding the way, transcribing music by ear",
         "1098": "Cleaning, decluttering, plant care",
         "1099": "Tomakomai quizzes, climbing mountains",
@@ -31362,15 +31460,16 @@
         "1080": "Video editing, holding chopsticks, string figures",
         "1082": "Outfit coordination, Yoga, Memory (card game)",
         "1091": "Cold weather, baseball, dreaming of being a celebrity",
-        "1094": "Huddling, climbing trees, the first karaoke song.",
+        "1094": "Huddling, climbing trees, the first karaoke song",
         "1102": "Escorts, taking care of silverware",
         "1108": "Testing her agility (esp. the Side-Step test)",
         "1109": "Making things by hand, rock climbing",
         "1116": "Diving, horseshoeing, mascara",
         "1119": "Mental support, packing",
-        "1120": "Cleaning floors, racing duels while dizzy.",
+        "1120": "Cleaning floors, racing duels while dizzy",
         "1110": "Singing, weighing by feel, disguising",
-        "1121": "Mowing grass, writing in-depth reviews of romance shows."
+        "1121": "Mowing grass, writing in-depth reviews of romance shows",
+        "1124": "Balloon modelling, singing western music a capella"
     },
     "165": {
         "1029": "Heat",
@@ -31475,7 +31574,8 @@
         "1119": "Flies",
         "1120": "Quadratic functions, diving.",
         "1110": "Tragic love stories, winter mornings",
-        "1121": "Staring contests, traveling alone, capitulation"
+        "1121": "Staring contests, traveling alone, capitulation",
+        "1124": "Hamsters"
     },
     "166": {
         "1029": "Owns many adorable earmuffs.",
@@ -31580,7 +31680,8 @@
         "1119": "Shall not be touched!",
         "1120": "Can hear cats meow from miles away.",
         "1110": "They need pampering lest they droop down.",
-        "1121": "They particularly pay attention to compliments."
+        "1121": "They particularly pay attention to compliments.",
+        "1124": "She has the sharpest ears of the Big Four."
     },
     "167": {
         "1029": "Currently trying out low-price care products.",
@@ -31685,7 +31786,8 @@
         "1119": "Shall not be touched!",
         "1120": "Cuts her hair perfectly straight using a ruler.",
         "1110": "She uses deep-sea water shampoo for it.",
-        "1121": "She wonders if she couldn't use it as a weapon."
+        "1121": "She wonders if she couldn't use it as a weapon.",
+        "1124": "She loves to decorate it with pastel colors."
     },
     "168": {
         "1001": "Left: 23.5cm \\nRight: 23.0cm",
@@ -31790,7 +31892,8 @@
         "1116": "Both: 26.5cm",
         "1120": "Both: 23.0cm",
         "1110": "Both: 24.5cm",
-        "1121": "Both: 23.5cm"
+        "1121": "Both: 23.5cm",
+        "1124": "Left: 25.5cm\\nRight: 25.0cm"
     },
     "169": {
         "1029": "Reliefed their daughter retains her dialect after going to the city",
@@ -31895,7 +31998,8 @@
         "1119": "Not a day goes by that she doesn't think about them.",
         "1120": "She can tell what her parents are thinking about from their facial expressions alone.",
         "1110": "Her mother has a secret recipe for carrot glacé.",
-        "1121": "Who gets to do house chores is decided through games of \"Acchi Muite Hoi\"."
+        "1121": "Who gets to do house chores is decided through games of \"Acchi Muite Hoi\".",
+        "1124": "They all have a refined sweet smell."
     },
     "170": {
         "1001": "Special Week",
@@ -32036,7 +32140,8 @@
         "2006": "Rigantona",
         "2007": "Sonon Elfie",
         "9007": "Beauty Anshinzawa",
-        "1113": "Fusaichi Pandora"
+        "1113": "Fusaichi Pandora",
+        "1124": "Bubble Gum Fellow"
     },
     "171": {
         "12": "Login Bonus",
@@ -33737,25 +33842,28 @@
         "11210101": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
         "11210102": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
         "11210103": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
-        "2032001": "Obtain [目にも留まらず] skill hint.",
-        "2032002": "Obtain [目にも留まらず] skill hint.",
-        "2032003": "Obtain [目にも留まらず] skill hint.",
-        "2032101": "Obtain [気の向くままに] skill hint.",
-        "2032102": "Obtain [気の向くままに] skill hint.",
-        "2032103": "Obtain [気の向くままに] skill hint.",
-        "2032201": "Obtain [アグレッシブ] skill hint.",
-        "2032202": "Obtain [アグレッシブ] skill hint.",
-        "2032203": "Obtain [アグレッシブ] skill hint.",
-        "2032301": "Obtain [逸る足取り] skill hint.",
-        "2032302": "Obtain [逸る足取り] skill hint.",
-        "2032303": "Obtain [逸る足取り] skill hint.",
+        "2032001": "Obtain [Not Even a Glimpse] skill hint.",
+        "2032002": "Obtain [Not Even a Glimpse] skill hint.",
+        "2032003": "Obtain [Not Even a Glimpse] skill hint.",
+        "2032101": "Obtain [Free-Spirited] skill hint.",
+        "2032102": "Obtain [Free-Spirited] skill hint.",
+        "2032103": "Obtain [Free-Spirited] skill hint.",
+        "2032201": "Obtain [Aggressive] skill hint.",
+        "2032202": "Obtain [Aggressive] skill hint.",
+        "2032203": "Obtain [Aggressive] skill hint.",
+        "2032301": "Obtain [Restless Step] skill hint.",
+        "2032302": "Obtain [Restless Step] skill hint.",
+        "2032303": "Obtain [Restless Step] skill hint.",
         "4000107": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
         "10240301": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
         "10240302": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
         "10240303": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
         "10420201": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
         "10420202": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
-        "10420203": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint."
+        "10420203": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "11240101": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "11240102": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "11240103": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -33920,7 +34028,8 @@
         "501116900": "About",
         "501120900": "About",
         "501110900": "About",
-        "501121900": "About"
+        "501121900": "About",
+        "501124900": "About"
     },
     "182": {
         "1001": "Special Week",
@@ -34061,7 +34170,8 @@
         "9007": "Beauty Anshinzawa",
         "9043": "Mei Satake",
         "9044": "Ryoka Tsurugi",
-        "1113": "Fusaichi Pandora"
+        "1113": "Fusaichi Pandora",
+        "1124": "Bubble Gum Fellow"
     },
     "186": {
         "1": "Raise the lvl of your support cards \\nto get a support bonus!",
@@ -39980,7 +40090,12 @@
         "11210103": "Learn 2 Short Distance skills",
         "11210104": "Learn 2 Mile skills",
         "11210105": "Reach ≥800 Speed",
-        "11210106": "Reach ≥800 Power"
+        "11210106": "Reach ≥800 Power",
+        "11240101": "Win 4 GⅠ races",
+        "11240102": "Learn 2 Leader skills",
+        "11240103": "Reach ≥800 Power",
+        "11240105": "Gain 150000 fans",
+        "11240106": "Reach ≥600 Guts"
     },
     "293": {
         "1": "Training effect",
