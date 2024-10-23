@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A few days have passed since the Summer Training Camp has started. Camp is quiet at night, everyone sleeping soundly."
+            "text": "A few days have passed since the Summer Training Camp has \nstarted. \nCamp is quiet at night, everyone sleeping soundly."
         },
         {
-            "text": "I got up to grab a drink of water, but the deserted lobby was somewhat eerie――"
+            "text": "I got up to grab a drink of water, \nbut the deserted lobby was somewhat eerie――"
         },
         {
             "name": "???",
@@ -15,15 +16,15 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Fufufu, now that's a good reaction. You've got something to fear, don't you, Trainer."
+            "text": "Fufufu, now that's a good reaction. \nYou've got something to fear, don't you, Trainer."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Don't look at me like that. It was just a sudden impulse, I humbly beg for your forgiveness."
+            "text": "Don't look at me like that. \nIt was just a sudden impulse, I humbly beg for your forgiveness."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "My eyes started to get a bit glazed over. I was bored out of my mind, and then you came, Trainer!",
+            "text": "My eyes started to get a bit glazed over. \nI was bored out of my mind, and then you came, Trainer!",
             "choice_data_list": [
                 "Can't sleep?",
                 "Can't sleep?"
@@ -31,7 +32,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "No need to fret. I'm not having trouble or anything. But, perhaps this is a good opportunity."
+            "text": "No need to fret. I'm not having trouble or anything. \nBut, perhaps this is a good opportunity."
         },
         {
             "name": "Fuji Kiseki",
@@ -39,7 +40,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahh, what a lovely night―― I don't know if I've had such a free evening since we arrived at Camp.",
+            "text": "Ahh, what a lovely night―― \nI don't know if I've had such a free evening since we arrived \nat Camp.",
             "choice_data_list": [
                 "You haven't gone to any of the summer festivals or \nfireworks displays?",
                 "You haven't gone to any of the summer festivals or \nfireworks displays?"
@@ -47,11 +48,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "In spite of appearances, dorm heads have much to do. I've been comforting Pony-chans who can't sleep because their pillows have been changed."
+            "text": "In spite of appearances, dorm heads have much to do. \nI've been comforting Pony-chans who can't sleep because \ntheir pillows have been changed."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But just for tonight, I'm going to forget my position and keep you all to myself.",
+            "text": "But just for tonight, I'm going to forget my position and keep \nyou all to myself.",
             "choice_data_list": [
                 "Don't tease the adults too much, okay?",
                 "Don't tease the adults too much, okay?"
@@ -59,7 +60,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahaha, but I'm serious. I want you to keep your eyes on me, Trainer."
+            "text": "Ahaha, but I'm serious. \nI want you to keep your eyes on me, Trainer."
         },
         {
             "name": "Fuji Kiseki",
@@ -73,10 +74,10 @@
             "text": "As soon as she said it, Fuji Kiseki took off."
         },
         {
-            "text": "She truly is a \"Black Meteor.\" Graceful and powerful, she shows no sign of hesitation."
+            "text": "She truly is a \"Black Meteor.\" Graceful and powerful, she shows \nno sign of hesitation."
         },
         {
-            "text": "And, she was imbued with impending passion. The insatiable passion to run."
+            "text": "And, she was imbued with impending passion. \nThe insatiable passion to run."
         },
         {
             "name": "Fuji Kiseki",
@@ -84,7 +85,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The sound of the rippling waves is quite nice――this really is a beautiful night.",
+            "text": "The sound of the rippling waves is quite nice――this really is \na beautiful night.",
             "choice_data_list": [
                 "Fuji Kiseki, what on earth got into――",
                 "Fuji Kiseki, what on earth got into――"
@@ -92,7 +93,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "How was it? I wanted to show you the results of my training camp. I've really enjoyed running the past few days."
+            "text": "How was it? I wanted to show you the results of my training \ncamp. \nI've really enjoyed running the past few days."
         },
         {
             "name": "Fuji Kiseki",
@@ -107,11 +108,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I have something I want you to hear. Something important."
+            "text": "I have something I want you to hear. \nSomething important."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I have been thinking about this ever since that junior left the Academy due to her injury. What was the dream \"as an Uma Musume\" entrusted to her?"
+            "text": "I have been thinking about this ever since that junior left the \nAcademy due to her injury. \nWhat was the dream \"as an Uma Musume\" entrusted to her?"
         },
         {
             "name": "Fuji Kiseki",
@@ -119,7 +120,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But, I realized that day when I went to see the play with you. What I should do.",
+            "text": "But, I realized that day when I went to see the play with you. \nWhat I should do.",
             "choice_data_list": [
                 "Tell me.",
                 "Tell me."
@@ -127,7 +128,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The best Entertainer who delights all, \"Fuji Kiseki\"! That's who I want to be."
+            "text": "The best Entertainer who delights all, \"Fuji Kiseki\"! \nThat's who I want to be."
         },
         {
             "name": "Fuji Kiseki",
@@ -135,7 +136,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I want to entertain everyone and heal everyone's sorrows. I want to carry out someone's unfulfilled dream."
+            "text": "I want to entertain everyone and heal everyone's sorrows. \nI want to carry out someone's unfulfilled dream."
         },
         {
             "name": "Fuji Kiseki",
@@ -143,11 +144,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I'm going to keep running, and winning lots of races! That's how I'll get lots of wins――"
+            "text": "I'm going to keep running, and winning lots of races! \nThat's how I'll get lots of wins――"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Someday, I will obtain the \"best proof\" of the dream of an Uma Musume.",
+            "text": "Someday, I will obtain the \"best proof\" of the dream of an \nUma Musume.",
             "choice_data_list": [
                 "The best proof, you can't mean…"
             ]
@@ -160,36 +161,36 @@
             ]
         },
         {
-            "text": "The Triple Crown is a title given only to those Uma Musume who win three special races: the Satsuki Sho, the Japan Derby, and the Kikka Sho."
+            "text": "The Triple Crown is a title given only to those Uma Musume \nwho win three special races: the Satsuki Sho, the Japan \nDerby, and the Kikka Sho."
         },
         {
-            "text": "In the history of the Twinkle Series, very few Uma Musume have won the Triple Crown. To win that honor is the dream of every Uma Musume…!"
+            "text": "In the history of the Twinkle Series, very few Uma Musume \nhave won the Triple Crown. To win that honor is the dream of \nevery Uma Musume…!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I swear to you tonight. ――I wonder if I've reached your heart?",
+            "text": "I swear to you tonight. \n――I wonder if I've reached your heart?",
             "choice_data_list": [
                 "Maybe you did, now that you've told me this."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Now that I've put it into words, I will make it happen. I hate, more than anything, to disappoint anyone!"
+            "text": "Now that I've put it into words, I will make it happen. \nI hate, more than anything, to disappoint anyone!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "For that purpose, I need to train more seriously. Keep me company, Trainer!"
+            "text": "For that purpose, I need to train more seriously. \nKeep me company, Trainer!"
         },
         {
-            "text": "After that, I went along with Fuji Kiseki's training for a while. There was a fire in her eyes that I had never seen before."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Whew… I'd like to say I'm not quite done yet, but the sky is about to turn light."
+            "text": "After that, I went along with Fuji Kiseki's training for a while. \nThere was a fire in her eyes that I had never seen before."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "At any rate, right before my eyes, a great dream was appearing. I just wanted to reach out and seize it."
+            "text": "Whew… I'd like to say I'm not quite done yet, but the sky is \nabout to turn light."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "At any rate, right before my eyes, a great dream was appearing. \nI just wanted to reach out and seize it."
         },
         {
             "name": "Fuji Kiseki",
@@ -205,14 +206,14 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I want you to continue to guide me from here on out. I want you to be by my side as my number one supporter, as my partner!",
+            "text": "I want you to continue to guide me from here on out. \nI want you to be by my side as my number one supporter, as \nmy partner!",
             "choice_data_list": [
                 "I've got you."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "In the name of the very best Entertainer, I'll entrance you more than anyone else."
+            "text": "In the name of the very best Entertainer, \nI'll entrance you more than anyone else."
         },
         {
             "name": "Fuji Kiseki",

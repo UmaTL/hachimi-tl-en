@@ -1,11 +1,12 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "Do you believe in what you cannot see…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You really are fast… I'm going to have to train even harder…"
+            "text": "You really are fast… \nI'm going to have to train even harder…"
         },
         {
             "text": "…in what can only be seen through the eyes of another…?"
@@ -18,13 +19,13 @@
             "text": "Who are you…?"
         },
         {
-            "text": "By the time I noticed I didn't have my phone, it was already dark."
+            "text": "By the time I noticed I didn't have \nmy phone, it was already dark."
         },
         {
-            "text": "I'd been watching the Uma Musume training that day… I must have left it at the track."
+            "text": "I'd been watching the Uma Musume training that \nday… I must have left it at the track."
         },
         {
-            "text": "I rushed back, and found it by the blinking of the low battery light.",
+            "text": "I rushed back, and found it by the blinking \nof the low battery light.",
             "choice_data_list": [
                 "There it is!"
             ]
@@ -38,7 +39,7 @@
             "text": "…fun… hehe… nder…… atch…"
         },
         {
-            "text": "Eerie laughter broke the silence. An Uma Musume out training? At this time of night…?"
+            "text": "Eerie laughter broke the silence. An Uma Musume \nout training? At this time of night…?"
         },
         {
             "name": "Manhattan Cafe",
@@ -56,7 +57,7 @@
             ]
         },
         {
-            "text": "Nobody… it was dark, but not so dark that I couldn't see there was no-one else there. Intrigued, I decided to approach…"
+            "text": "Nobody… it was dark, but not so dark that I couldn't see there \nwas no-one else there. Intrigued, I decided to approach…"
         },
         {
             "text": "(bonk!!)",
@@ -65,32 +66,32 @@
             ]
         },
         {
-            "text": "It felt like someone had struck me hard in the shoulder. I looked around. But of course, there was no-one there.",
+            "text": "It felt like someone had struck me hard in the shoulder. I looked \naround. But of course, there was no-one there.",
             "choice_data_list": [
                 "(M… Maybe I'm just a little tired…)"
             ]
         },
         {
-            "text": "An Uma Musume, talking to no-one. A knock to the shoulder, from nothing but thin air."
+            "text": "An Uma Musume, talking to no-one. \nA knock to the shoulder, from nothing but thin air."
         },
         {
-            "text": "I thought for a moment that I felt a cold wind, a wind that blew right through me. 'My mind must be playing tricks on me,' I thought, and set off for home."
+            "text": "I thought for a moment that I felt a cold wind, a wind that blew \nright through me. 'My mind must be playing tricks on me,' I \nthought, and set off for home."
         },
         {
             "name": "Scouted Uma Musume",
-            "text": "Really?! Thank you! Thank you so much!! It's my dream to win a GI race!"
+            "text": "Really?! Thank you! Thank you so much!! \nIt's my dream to win a GI race!"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Yes! And I will do everything I can to get you there! Let's chase that dream… together!"
+            "name": "Experienced Trainer A",
+            "text": "Yes! And I will do everything I can to get you \nthere! Let's chase that dream… together!"
         },
         {
             "name": "Nervous Uma Musume",
-            "text": "Y… yes! I want to race in the Twinkle Series! More than anything in the world…!!"
+            "text": "Y… yes! I want to race in the Twinkle Series! \nMore than anything in the world…!!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Alright. The qualifiers are coming up soon. How about you show me what you're made of there?"
+            "text": "Alright. The qualifiers are coming up soon. How \nabout you show me what you're made of there?"
         },
         {
             "name": "Manhattan Cafe",
@@ -101,22 +102,22 @@
         },
         {
             "name": "Colleague A",
-            "text": "Heeey <username>! How's the scouting going? You find any good prospects?"
+            "text": "Heeey <username>! How's the scouting \ngoing? You find any good prospects?"
         },
         {
             "name": "Colleague A",
-            "text": "Oh, that one there caught your eye, huh? She looks good, nice form. You gonna make her an offer?",
+            "text": "Oh, that one there caught your eye, huh? \nShe looks good, nice form. You gonna make her an offer?",
             "choice_data_list": [
                 "Eh… I don't know about that…"
             ]
         },
         {
             "name": "Colleague A",
-            "text": "You sure? Wait, who is she anyway? Let me check my notes here, umm…"
+            "text": "You sure? Wait, who is she anyway? \nLet me check my notes here, umm…"
         },
         {
             "name": "Colleague A",
-            "text": "\"Manhattan Cafe\", huh. I bet she's going to get a lot of attention running like that. If you're not interested, maybe I'll go have a word with her…"
+            "text": "\"Manhattan Cafe\", huh. I bet she's going to get a lot of \nattention running like that. If you're not interested, maybe I'll \ngo have a word with her…"
         },
         {
             "name": "Manhattan Cafe",
@@ -124,7 +125,7 @@
         },
         {
             "name": "Colleague A",
-            "text": "That's right! If you don't have a trainer yet, what do you say we team up? Together, we can conquer the Twinkle Series!"
+            "text": "That's right! If you don't have a trainer yet, what do you say we \nteam up? Together, we can conquer the Twinkle Series!"
         },
         {
             "name": "Manhattan Cafe",
@@ -136,27 +137,27 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "The… strongest…? You mean… even stronger than… her?"
+            "text": "The… strongest…? \nYou mean… even stronger than… her?"
         },
         {
             "name": "Colleague A",
-            "text": "\"Her\"? Who do you mean? Oh, there's another Uma Musume you have your sights set on, is that it?"
+            "text": "\"Her\"? Who do you mean? Oh, there's another Uma Musume \nyou have your sights set on, is that it?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Yes…… She's fast, very fast…… She's right… there…"
+            "text": "Yes…… \nShe's fast, very fast…… \nShe's right… there…"
         },
         {
             "name": "Colleague A",
-            "text": "Eh? Th… there's nobody over there…? Is this supposed to be a joke?"
+            "text": "Eh? Th… there's nobody over there…? \nIs this supposed to be a joke?"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "My friend…… she looks just like me… She brought me here… she is very special to me……"
+            "text": "My friend…… she looks just like me… \nShe brought me here… she is very special to me……"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Ever since I was a child… never changing… Always running… always just out of reach… She is the one that I pursue."
+            "text": "Ever since I was a child… never changing… \nAlways running… always just out of reach… \nShe is the one that I pursue."
         },
         {
             "name": "Colleague A",
@@ -164,14 +165,14 @@
         },
         {
             "name": "Colleague A",
-            "text": "Well, that was a waste of time. She doesn't seem interested in finding a trainer. Or talking, even.",
+            "text": "Well, that was a waste of time. She doesn't seem interested in \nfinding a trainer. Or talking, even.",
             "choice_data_list": [
                 "How do you mean?"
             ]
         },
         {
             "name": "Colleague A",
-            "text": "I don't know, she just spouted a bunch of gibberish at me. Like she just wanted to get rid of me. She's… I know I probably shouldn't say this, but…"
+            "text": "I don't know, she just spouted a bunch of gibberish at me. Like \nshe just wanted to get rid of me. She's… I know I probably \nshouldn't say this, but…"
         },
         {
             "name": "Colleague A",
@@ -182,7 +183,7 @@
         },
         {
             "name": "Colleague A",
-            "text": "Aaa… anyway! Probably best to steer clear of her if you ask me. Don't waste your time."
+            "text": "Aaa… anyway! Probably best to steer clear of \nher if you ask me. Don't waste your time."
         },
         {
             "text": "\"Creepy\"… I thought back to the previous night."
@@ -196,13 +197,13 @@
             "text": "I love to run… with you…"
         },
         {
-            "text": "I'd told myself it was just my imagination, just my mind playing tricks on me. But I couldn't stop thinking about it."
+            "text": "I'd told myself it was just my imagination, just my mind playing \ntricks on me. But I couldn't stop thinking about it."
         },
         {
-            "text": "But why did she not even give my trainer friend the time of day? Does she really not want to race?"
+            "text": "But why did she not even give my trainer friend the time of day? \nDoes she really not want to race?"
         },
         {
-            "text": "The mystery of Manhattan Cafe swirled around my mind until night fell."
+            "text": "The mystery of Manhattan Cafe swirled \naround my mind until night fell."
         }
     ]
 }

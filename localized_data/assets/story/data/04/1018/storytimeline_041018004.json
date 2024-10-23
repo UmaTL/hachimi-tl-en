@@ -1,14 +1,15 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Air Groove",
-            "text": "I am \"The Empress\" Air Groove. I hold this title so that I can be an ideal and compass for all horse girls."
+            "text": "I am \"The Empress\" Air Groove. I hold this title so that I can be \nan ideal and compass for all horse girls."
         },
         {
             "text": "Air Groove is constantly striving to be her ideal \"Empress\"."
         },
         {
-            "text": "I can't say I fully understand the meaning. But after seeing the same things she does and thinking on it, I came to one answer."
+            "text": "I can't say I fully understand the meaning. But after seeing the \nsame things she does and thinking on it, I came to one answer."
         },
         {
             "name": "Mejiro Dober",
@@ -19,25 +20,25 @@
             "text": "Yes! Thank you, Air Groove!"
         },
         {
-            "text": "The bright facial expressions of her kouhai, and above all, the soft eyes she has watching over them."
+            "text": "The bright facial expressions of her kouhai, and above all, the \nsoft eyes she has watching over them."
         },
         {
-            "text": "I'm certain now that her guidance towards her kouhai and her student council activities are very important to her."
+            "text": "I'm certain now that her guidance towards her kouhai and her \nstudent council activities are very important to her."
         },
         {
             "text": "Then一"
         },
         {
             "name": "Horsegirl A",
-            "text": "一Eh? You're going to look over my personal training menu in place of Air Groove?"
+            "text": "一Eh? You're going to look over my personal \ntraining menu in place of Air Groove?"
         },
         {
             "name": "Horsegirl A",
-            "text": "Wow, thank you very much!! Then first, about training your muscles for better acceleration…"
+            "text": "Wow, thank you very much!! Then first, about training your \nmuscles for better acceleration…"
         },
         {
             "name": "Student Council Member",
-            "text": "Ahh, putting all the materials together is so difficult… maybe I'll go consult the vice president…",
+            "text": "Ahh, putting all the materials together is so difficult… maybe \nI'll go consult the vice president…",
             "choice_data_list": [
                 "If you don't mind, I can help instead.",
                 "If you don't mind, I can help instead."
@@ -45,7 +46,7 @@
         },
         {
             "name": "Student Council Member",
-            "text": "Ehh!? You will!? Then, please do! About sorting the results of this vote一"
+            "text": "Ehh!? You will!? Then, please do! About \nsorting the results of this vote一"
         },
         {
             "name": "Air Groove",
@@ -57,15 +58,15 @@
         },
         {
             "name": "Air Groove",
-            "text": "Don't play dumb. Did you think I wouldn't notice? You, you've been standing in for my junior guidance and student council duties haven't you?"
+            "text": "Don't play dumb. Did you think I wouldn't notice? \nYou, you've been standing in for my junior guidance \nand student council duties haven't you?"
         },
         {
             "name": "Air Groove",
-            "text": "Why would you do something like that. Are you trying to say you'll handle all the \"useless\" things yourself?"
+            "text": "Why would you do something like that. Are you trying to say \nyou'll handle all the \"useless\" things yourself?"
         },
         {
             "name": "Air Groove",
-            "text": "Well, answer me! Depending on your reply, the contract will be terminated immediately!",
+            "text": "Well, answer me! Depending on your reply, the \ncontract will be terminated immediately!",
             "choice_data_list": [
                 "Because the things you cherish, I want to cherish as well",
                 "Because the things you cherish, I want to cherish as well"
@@ -84,15 +85,15 @@
             "text": "Help…?"
         },
         {
-            "text": "I told Air Groove I want her to continue as she has up until now, but to just rely on me to help free up training time."
+            "text": "I told Air Groove I want her to continue as she has up until now, \nbut to just rely on me to help free up training time."
         },
         {
             "name": "Air Groove",
-            "text": "Hmph. \"Rely on me\", huh. That sort of thing should be said after you're more reliable."
+            "text": "Hmph. \"Rely on me\", huh. \nThat sort of thing should be said after you're more reliable."
         },
         {
             "name": "Air Groove",
-            "text": "But… Hm…"
+            "text": "But… \nHm…"
         },
         {
             "name": "Air Groove",
@@ -100,21 +101,21 @@
         },
         {
             "name": "Air Groove",
-            "text": "…A reliable partner that continues to walk along the path of ambition."
+            "text": "…A reliable partner that continues \nto walk along the path of ambition."
         },
         {
             "name": "Air Groove",
             "text": "Trainer… huh."
         },
         {
-            "text": "Just like that, helping Air Groove little by little she was able to train more enthusiastically than ever."
+            "text": "Just like that, helping Air Groove little by little she was able \nto train more enthusiastically than ever."
         },
         {
             "text": "And then in the loser's race, Air Groove一"
         },
         {
             "name": "Commentator",
-            "text": "The #1 most popular Air Groove has darted up to the front straight from the start! Can she overcome her humiliation from the debut race!"
+            "text": "The #1 most popular Air Groove has darted up to \nthe front straight from the start! Can she overcome \nher humiliation from the debut race!"
         },
         {
             "name": "Air Groove",
@@ -122,18 +123,18 @@
         },
         {
             "name": "Commentator",
-            "text": "And she keeps going! Air Groove is just too fast!! She's creating a gap that truly shows the difference in their class!!"
+            "text": "And she keeps going! Air Groove is just too fast!! She's creating \na gap that truly shows the difference in their class!!"
         },
         {
             "name": "Commentator",
-            "text": "Gooooaaaaaaaaalll!!!! An overwhelming victory! Overwhelming!! With an amazing 5 body difference!!"
+            "text": "Gooooaaaaaaaaalll!!!! An overwhelming victory! Overwhelming!! \nWith an amazing 5 body difference!!"
         },
         {
             "name": "Commentator",
-            "text": "The incomparable \"Empress\" Air Groove!! Her legend has just begun!!"
+            "text": "The incomparable \"Empress\" Air Groove!! \nHer legend has just begun!!"
         },
         {
-            "text": "The day after the spectacular victory. I received a message from Air Groove saying \"I have something I want you to help with\".",
+            "text": "The day after the spectacular victory. I received a message from \nAir Groove saying \"I have something I want you to help with\".",
             "choice_data_list": [
                 ">(Air Groove is relying on me!?)"
             ]
@@ -143,11 +144,11 @@
         },
         {
             "name": "Air Groove",
-            "text": "So you came. …Hm? Why are you so out of breath?"
+            "text": "So you came. \n…Hm? Why are you so out of breath?"
         },
         {
             "name": "Air Groove",
-            "text": "Well whatever. Let's get started. The seeds I ordered just arrived.",
+            "text": "Well whatever. Let's get started. The \nseeds I ordered just arrived.",
             "choice_data_list": [
                 "Seeds? Of what?"
             ]
@@ -157,22 +158,22 @@
             "text": "Flowers."
         },
         {
-            "text": "And so, I started planting flower seeds in the flower bed behind the school with Air Groove."
+            "text": "And so, I started planting flower seeds in the \nflower bed behind the school with Air Groove."
         },
         {
             "name": "Air Groove",
-            "text": "Hey, how many times do I have to tell you! Don't cover so much soil after sowing the seeds!!"
+            "text": "Hey, how many times do I have to tell you! \nDon't cover so much soil after sowing the seeds!!"
         },
         {
             "name": "Air Groove",
-            "text": "In the first place, you're doing too much on each task! Listen, when dealing with seeds you have to be more careful一"
+            "text": "In the first place, you're doing too much on each task! Listen, \nwhen dealing with seeds you have to be more careful一"
         },
         {
-            "text": "Although I got scolded very often, I somehow managed to finish the work safely…"
+            "text": "Although I got scolded very often, I somehow \nmanaged to finish the work safely…"
         },
         {
             "name": "Air Groove",
-            "text": "Alright, we're pretty much finished. …I'm looking forward to when they sprout and bloom.",
+            "text": "Alright, we're pretty much finished. \n…I'm looking forward to when they sprout and bloom.",
             "choice_data_list": [
                 "You liked flowers, huh.",
                 "You liked flowers, huh."
@@ -180,59 +181,59 @@
         },
         {
             "name": "Air Groove",
-            "text": "What, are you trying to say that's unexpected or something? …It's written all over your face."
+            "text": "What, are you trying to say that's unexpected or something? \n…It's written all over your face."
         },
         {
             "name": "Air Groove",
-            "text": "…If you nurture them with care and effort, the shoots will grow steadily and eventually bloom beautifully."
+            "text": "…If you nurture them with care and effort, the shoots will grow \nsteadily and eventually bloom beautifully."
         },
         {
             "name": "Air Groove",
-            "text": "The flowers bloom leaving behind their seeds, and from there new dreams are born once again."
+            "text": "The flowers bloom leaving behind their seeds, and \nfrom there new dreams are born once again."
         },
         {
             "name": "Air Groove",
-            "text": "一What made me sprout, was the the figure of my mother running on the turf."
+            "text": "一What made me sprout, was the the figure \nof my mother running on the turf."
         },
         {
             "name": "Air Groove",
-            "text": "You probably know already that winners of the G1 race \"Oaks\" are given the title \"Queen of Oaks\"."
+            "text": "You probably know already that winners of the G1 race \n\"Oaks\" are given the title \"Queen of Oaks\"."
         },
         {
             "name": "Air Groove",
-            "text": "My mother grabbed the title of \"Queen\" in the midst of fierce competition."
+            "text": "My mother grabbed the title of \"Queen\" \nin the midst of fierce competition."
         },
         {
             "name": "Air Groove",
-            "text": "I yearned to reach that level, and when I learned about that run… I trembled. And I idolized that strength."
+            "text": "I yearned to reach that level, and when I learned about that \nrun… I trembled. And I idolized that strength."
         },
         {
             "name": "Air Groove",
-            "text": "I dreamed of sharpening myself to my limits and claiming a glorious victory. A hope for racing bloomed in me."
+            "text": "I dreamed of sharpening myself to my limits and claiming a \nglorious victory. A hope for racing bloomed in me."
         },
         {
             "name": "Air Groove",
-            "text": "And above all… I wished to be someone to look up to just like my mother was when I was a child."
+            "text": "And above all… I wished to be someone to look up \nto just like my mother was when I was a child."
         },
         {
             "name": "Air Groove",
-            "text": "That's why, I chose to be \"The Empress\". To be an ideal and a goal for horse girls to aim towards."
+            "text": "That's why, I chose to be \"The Empress\". \nTo be an ideal and a goal for horse girls to aim towards."
         },
         {
             "name": "Air Groove",
-            "text": "Just like my mother once did for me in the past… To show people the hope of knowing that there is a shining future."
+            "text": "Just like my mother once did for me in the past… To show people \nthe hope of knowing that there is a shining future."
         },
         {
             "name": "Air Groove",
-            "text": "…If that's the case, then just winning races isn't enough. Upholding the school's name and guiding my juniors, are all part of my duty."
+            "text": "…If that's the case, then just winning races \nisn't enough. Upholding the school's name and guiding \nmy juniors, are all part of my duty."
         },
         {
             "name": "Air Groove",
-            "text": "If someone is going to call that useless and throw it away, then I thought I didn't need a trainer…"
+            "text": "If someone is going to call that useless and throw it away, then \nI thought I didn't need a trainer…"
         },
         {
             "name": "Air Groove",
-            "text": "But… um. If it's just you… I don't mind trusting you a little bit…",
+            "text": "But… um. If it's just you… I don't \nmind trusting you a little bit…",
             "choice_data_list": [
                 "Please rely on me more and more from now on!",
                 "Please rely on me more and more from now on!"
@@ -240,7 +241,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Sh-shut up!! I'm telling you to say that after I see how reliable you actually are!"
+            "text": "Sh-shut up!! I'm telling you to say that after \nI see how reliable you actually are!"
         },
         {
             "name": "Air Groove",

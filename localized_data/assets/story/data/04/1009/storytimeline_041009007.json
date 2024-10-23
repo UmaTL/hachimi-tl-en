@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Summer training camp. Daiwa Scarlet wasted no time and went straight into training by the beach…"
+            "text": "Summer training camp. Daiwa Scarlet wasted no time and went \nstraight into training by the beach…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant… pant… phew…</i> I'm sweating so hard from the heat…"
+            "text": "<i>Pant… pant… pant… \nphew…</i> I'm sweating so hard from the heat…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm taking a short break… <i>sigh…</i> Training on sand is really tiring…",
+            "text": "I'm taking a short break… \n<i>sigh…</i> Training on sand is really tiring…",
             "choice_data_list": [
                 "Tiring, but efficient.",
                 "Tiring, but efficient."
@@ -17,18 +18,18 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'd be mad if it wasn't. I wouldn't agree to doing it if all it did was drain my energy."
+            "text": "I'd be mad if it wasn't. \nI wouldn't agree to doing it if all it did was drain my energy."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, I don't mind the challenge. If I can get through this, I'll be even more worthy of being number one."
+            "text": "Well, I don't mind the challenge. If I can get through this, I'll \nbe even more worthy of being number one."
         },
         {
             "name": "Daiwa Scarlet",
             "text": "Now then, break time's over. Let's resume my training."
         },
         {
-            "text": "She might have regained a bit of her breath after taking a break, but I could tell that she was starting to get a bit dizzy from the heat and the exhaustion in her legs.",
+            "text": "She might have regained a bit of her breath after taking a break, \nbut I could tell that she was starting to get a bit dizzy from \nthe heat and the exhaustion in her legs.",
             "choice_data_list": [
                 "Let's call it a day for now."
             ]
@@ -39,11 +40,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I said I don't mind the challenge! What's the point of doing a training camp if we don't train harder than we usually do?"
+            "text": "I said I don't mind the challenge! What's the point of doing \na training camp if we don't train harder than we usually do?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "If I'm already throwing in the towel over something like this, there's no way I'll be number one!",
+            "text": "If I'm already throwing in the towel over something like this, \nthere's no way I'll be number one!",
             "choice_data_list": [
                 "Overdoing it's no good either.",
                 "Overdoing it's no good either."
@@ -58,7 +59,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Tch… I can't be number one if I get exhausted from something like this. I've got to keep-",
+            "text": "Tch… I can't be number one if I get exhausted \nfrom something like this. I've got to keep-",
             "choice_data_list": [
                 "Rest is also part of your training.",
                 "Rest is also part of your training."
@@ -70,7 +71,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>…sigh.</i> Fine. In that case, I'll take another break and then I'll…",
+            "text": "<i>…sigh.</i> Fine. \nIn that case, I'll take another break and then I'll…",
             "choice_data_list": [
                 "There's always tomorrow, you know?",
                 "There's always tomorrow, you know?"
@@ -82,11 +83,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You <i>are</i> my trainer, after all. It'd be annoying with you giving me that worried look the entire time."
+            "text": "You <i>are</i> my trainer, after all. It'd be annoying with you \ngiving me that worried look the entire time."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah well. Once I get back to regular condition, I swear I'll make up for lost time.",
+            "text": "Ah well. Once I get back to regular condition, \nI swear I'll make up for lost time.",
             "choice_data_list": [
                 "Don't go running in secret, okay?",
                 "Don't go running in secret, okay?"
@@ -94,28 +95,28 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Trainer. Just so you know, I'm not a kid anymore so could you stop patronizing me?"
+            "text": "Trainer. Just so you know, I'm not a kid anymore \nso could you stop patronizing me?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Training's over, so I'm free to do whatever I want, right? Well then, see you later."
+            "text": "Training's over, so I'm free to do whatever I want, right? \nWell then, see you later."
         },
         {
-            "text": "Daiwa Scarlet went back to the dorm, still unsteady from training."
+            "text": "Daiwa Scarlet went back to the dorm, \nstill unsteady from training."
         },
         {
-            "text": "That night, as I was walking on the hallway on my way to check up on Daiwa Scarlet, I got approached by an unfamiliar horse girl…"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Oh, Scarlet's trainer. Were you looking for her?"
+            "text": "That night, as I was walking on the hallway on my way to check up \non Daiwa Scarlet, I got approached by an unfamiliar horse girl…"
         },
         {
             "name": "Horsegirl A",
-            "text": "I don't think she's in her room anymore. I saw her heading towards the front door just a while ago."
+            "text": "Oh, Scarlet's trainer. \nWere you looking for her?"
         },
         {
-            "text": "She should still be exhausted from training just this afternoon and yet she's walking out by herself… I wonder if she's okay."
+            "name": "Horsegirl A",
+            "text": "I don't think she's in her room anymore. \nI saw her heading towards the front door just a while ago."
+        },
+        {
+            "text": "She should still be exhausted from training just this afternoon \nand yet she's walking out by herself… I wonder if she's okay."
         },
         {
             "name": "Daiwa Scarlet",
@@ -135,14 +136,14 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Don't tell me. You still think I'm going to go train in secret?",
+            "text": "Don't tell me. \nYou still think I'm going to go train in secret?",
             "choice_data_list": [
                 "I got worried because you were stumbling."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, that. I'm fine. Really. I got to relax in the bath and even took a nap."
+            "text": "Oh, that. I'm fine. Really. \nI got to relax in the bath and even took a nap."
         },
         {
             "name": "Daiwa Scarlet",
@@ -150,18 +151,18 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That said, you sure are a worrywart. I kept thinking to myself, \"Does he even trust me?\" at first, but…"
+            "text": "That said, you sure are a worrywart. I kept thinking to myself, \n\"Does he even trust me?\" at first, but…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…That does it. I'll make sure to show you that I'm doing fine now!"
+            "text": "…That does it. \nI'll make sure to show you that I'm doing fine now!"
         },
         {
-            "text": "As I followed her around, we heard the sound of a festival happening nearby-"
+            "text": "As I followed her around, we heard the \nsound of a festival happening nearby-"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I heard they were doing a festival around here and I was just about to go before I saw you. Hey, is the festival smell making you feel hungry too?",
+            "text": "I heard they were doing a festival around here and \nI was just about to go before I saw you. Hey, is the \nfestival smell making you feel hungry too?",
             "choice_data_list": [
                 "Looks like your appetite is fine, too.",
                 "Looks like your appetite is fine, too."
@@ -169,14 +170,14 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Of course it is! I'm fine <i>because</i> I've been eating properly, right?"
+            "text": "Of course it is! \nI'm fine <i>because</i> I've been eating properly, right?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well then, we better stock up on the festival food! Ah, but before that… let's play and have as much fun as we can!"
+            "text": "Well then, we better stock up on the festival food! \nAh, but before that… let's play and have as much fun as we can!"
         },
         {
-            "text": "After we had our fun in the festival, we stocked up on food and went back to the beach. Yakisoba, takoyaki, shaved ice, cotton candy… gone one after another…"
+            "text": "After we had our fun in the festival, we stocked up on food and \nwent back to the beach. Yakisoba, takoyaki, shaved ice, cotton \ncandy… gone one after another…"
         },
         {
             "name": "Daiwa Scarlet",
@@ -187,15 +188,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I told you so. Don't worry about me so much."
+            "text": "I told you so. \nDon't worry about me so much."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, to be fair, I did do some pretty dumb things by myself back then, but… Now I'm not alone anymore."
+            "text": "Well, to be fair, I did do some pretty dumb things by myself back \nthen, but… Now I'm not alone anymore."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Anyway, there you have it, so, I'm fine now! Got it!?",
+            "text": "Anyway, there you have it, so, I'm fine now! \nGot it!?",
             "choice_data_list": [
                 "I'm glad you're relying on me more."
             ]
@@ -206,11 +207,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's just… you <i>are</i> a professional trainer, after all… I just thought it makes sense for me to trust you when it comes to training."
+            "text": "It's just… you <i>are</i> a professional trainer, \nafter all… I just thought it makes sense for me \nto trust you when it comes to training."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I-I'm just saying, you need to take responsibility for what you said before! You're the one who said \"let's aim for number one together,\" you know!?",
+            "text": "I-I'm just saying, you need to take responsibility \nfor what you said before! You're the one who said \"let's \naim for number one together,\" you know!?",
             "choice_data_list": [
                 "I will! Leave it to me!",
                 "I will! Leave it to me!"
@@ -222,7 +223,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm going to put way more effort into training tomorrow than I did today, so you better get ready too."
+            "text": "I'm going to put way more effort into training tomorrow than I \ndid today, so you better get ready too."
         },
         {
             "name": "Daiwa Scarlet",
@@ -230,10 +231,10 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "So… you should become the \"number one\" trainer and follow after me!"
+            "text": "So… you should become the \"number \none\" trainer and follow after me!"
         },
         {
-            "text": "The following day. Running with more power than before, Daiwa Scarlet shined brightly under the radiant sun."
+            "text": "The following day. Running with more power than before, Daiwa \nScarlet shined brightly under the radiant sun."
         }
     ]
 }

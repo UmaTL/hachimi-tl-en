@@ -1,39 +1,40 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "At the end of Summer Training Camp, Satono Crown stopped me, saying she had something she needed to talk to me about."
+            "text": "At the end of Summer Training Camp, Satono Crown stopped me, \nsaying she had something she needed to talk to me about."
         },
         {
             "name": "Satono Crown",
-            "text": "Do you have a moment? For the question I'm about to ask, can you give me an honest answer please?"
+            "text": "Do you have a moment? For the question I'm about \nto ask, can you give me an honest answer please?"
         },
         {
             "name": "Satono Crown",
-            "text": "……Trainer. Do you……have any interest in what's beyond the ocean?",
+            "text": "……Trainer. \nDo you……have any interest in what's beyond the ocean?",
             "choice_data_list": [
                 "Beyond the ocean……?"
             ]
         },
         {
             "name": "Satono Crown",
-            "text": "(After such a grueling summer camp, a statement that hints at a challenge overseas……)"
+            "text": "(After such a grueling summer camp, \na statement that hints at a challenge overseas……)"
         },
         {
             "name": "Satono Crown",
-            "text": "(In addition to that, they already know that I'm going to Hong Kong because of our shopping trip)"
+            "text": "(In addition to that, they already know that I'm \ngoing to Hong Kong because of our shopping trip)"
         },
         {
             "name": "Satono Crown",
-            "text": "(Good! It's perfect, if I do say so myself! With this, it should properly convey that I want to go to Hong Kong together……!)",
+            "text": "(Good! It's perfect, if I do say so myself! With this, it should \nproperly convey that I want to go to Hong Kong together……!)",
             "choice_data_list": [
                 "Hmmmmm……"
             ]
         },
         {
-            "text": "If she was going out of her way to ask me after training was over, then she must want to keep this private."
+            "text": "If she was going out of her way to ask me after training \nwas over, then she must want to keep this private."
         },
         {
-            "text": "Beyond the ocean……so she's asking about traveling abroad……? In that case, I didn't have any plans to go abroad anytime soon. So my answer is――"
+            "text": "Beyond the ocean……so she's asking about traveling \nabroad……? In that case, I didn't have any plans \nto go abroad anytime soon. So my answer is――"
         },
         {
             "name": "Satono Crown",
@@ -44,7 +45,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "What!? No, wait―――― …………"
+            "text": "What!? No, wait――――\n…………"
         },
         {
             "name": "Satono Crown",
@@ -52,35 +53,35 @@
         },
         {
             "name": "Satono Crown",
-            "text": "…………I see. I guess it can't be helped. ……Thank you.",
+            "text": "…………I see. \nI guess it can't be helped. ……Thank you.",
             "choice_data_list": [
                 "……?"
             ]
         },
         {
-            "text": "It was a bit unusual, but she seemed to be worried about something. I wonder if something happened…… I suppose I'll keep an eye on her for a while."
+            "text": "It was a bit unusual, but she seemed to be worried \nabout something. I wonder if something happened…… \nI suppose I'll keep an eye on her for a while."
         },
         {
-            "text": "It was with that in mind that dinner approached. ……but Satono Crown was nowhere to be found."
+            "text": "It was with that in mind that dinner approached. \n……but Satono Crown was nowhere to be found."
         },
         {
-            "name": "Uma Musume A",
-            "text": "……Kura-chan is it? Ummm……huh? We just came out of the common room though?"
+            "name": "Horsegirl A",
+            "text": "……Kura-chan is it? Ummm……huh? \nWe just came out of the common room though?"
         },
         {
-            "text": "If she's not in the common room……then maybe she went outside? Did she not tell anyone where she was going?――",
+            "text": "If she's not in the common room……then maybe she went outside? \nDid she not tell anyone where she was going?――",
             "choice_data_list": [
                 "(The beach……?)"
             ]
         },
         {
-            "text": "Now that I think about it, when we were talking about traveling abroad, she seemed to have something on her mind……",
+            "text": "Now that I think about it, when we were talking about \ntraveling abroad, she seemed to have something on her mind……",
             "choice_data_list": [
                 "(Is it possible……?)"
             ]
         },
         {
-            "text": "Maybe she made her way back to the beach from this afternoon. It was nighttime but I still made my way there. Then――"
+            "text": "Maybe she made her way back to the beach from this afternoon. \nIt was nighttime but I still made my way there. Then――"
         },
         {
             "name": "Satono Crown",
@@ -96,7 +97,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "(As I thought. Trainer always seems to be able to find me no matter where I go……)",
+            "text": "(As I thought. Trainer always seems to \nbe able to find me no matter where I go……)",
             "choice_data_list": [
                 "Is there something worrying you?",
                 "Is there something worrying you?"
@@ -108,7 +109,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "(They noticed. So we are communicating properly. They trust me……there's no mistaking that)"
+            "text": "(They noticed. So we are communicating properly. \nThey trust me……there's no mistaking that)"
         },
         {
             "name": "Satono Crown",
@@ -120,7 +121,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "While helping with Papa's business, I plan on making use of the Satono family's exclusive training facilities over there."
+            "text": "While helping with Papa's business, I plan on making use of \nthe Satono family's exclusive training facilities over there."
         },
         {
             "name": "Satono Crown",
@@ -132,15 +133,15 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Fufuu. I even made plans on the assumption that we'd be going together……"
+            "text": "Fufuu. I even made plans on the assumption \nthat we'd be going together……"
         },
         {
             "name": "Satono Crown",
-            "text": "Having you help me with intensive training. Seeing some of the races in Hong Kong. ……And if possible, running in a few."
+            "text": "Having you help me with intensive training. Seeing some of the \nraces in Hong Kong. ……And if possible, running in a few."
         },
         {
             "name": "Satono Crown",
-            "text": "And then……seeing the sights with Trainer, visiting Papa's stores…………"
+            "text": "And then……seeing the sights with \nTrainer, visiting Papa's stores…………"
         },
         {
             "name": "Satono Crown",
@@ -148,23 +149,23 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Without even hearing your thoughts, just getting swept up in the moment……"
+            "text": "Without even hearing your thoughts, \njust getting swept up in the moment……"
         },
         {
             "name": "Satono Crown",
-            "text": "Up until now……even today was like that. I kept naively thinking 『Trainer would understand』."
+            "text": "Up until now……even today was like that. \nI kept naively thinking 『Trainer would understand』."
         },
         {
             "name": "Satono Crown",
-            "text": "……But, today made me realize…… that maybe this was for the best……"
+            "text": "……But, today made me realize…… \nthat maybe this was for the best……"
         },
         {
             "name": "Satono Crown",
-            "text": "Don't worry! Even if I'm on my own, I'll show you that I can still grow in Hong Kong!"
+            "text": "Don't worry! Even if I'm on my own, \nI'll show you that I can still grow in Hong Kong!"
         },
         {
             "name": "Satono Crown",
-            "text": "That's why, while Trainer's staying here…… you can think of the best training menu for the future me♪",
+            "text": "That's why, while Trainer's staying here…… \nyou can think of the best training menu for the future me♪",
             "choice_data_list": [
                 "If possible, I want to go too"
             ]
@@ -186,7 +187,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "……Trainer. Do you……have any interest in what's beyond the ocean?"
+            "text": "……Trainer. \nDo you……have any interest in what's beyond the ocean?"
         },
         {
             "name": "Satono Crown",
@@ -201,10 +202,10 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Huh……but, I suppose……? It could be misunderstood that way…… I guess……I didn't convey it properly……"
+            "text": "Huh……but, I suppose……? It could be misunderstood \nthat way…… I guess……I didn't convey it properly……"
         },
         {
-            "text": "For my part, before, I spent so much time desperately trying to read her intentions that I never even asked about her feelings.",
+            "text": "For my part, before, I spent so much time desperately trying to \nread her intentions that I never even asked about her feelings.",
             "choice_data_list": [
                 "We both need to talk more, huh?",
                 "We both need to talk more, huh?"
@@ -212,7 +213,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "You're right. Trust isn't all about knowing without speaking to each other……Being able to say it out loud……is important too.",
+            "text": "You're right. Trust isn't all about knowing without speaking \nto each other……Being able to say it out loud……is important too.",
             "choice_data_list": [
                 "In that case, in regards to Hong Kong――"
             ]
@@ -235,25 +236,25 @@
         },
         {
             "name": "Satono Crown",
-            "text": "……Then, I guess I'll have to adjust my plans, huh? I made adjustments assuming you wouldn't come.",
+            "text": "……Then, I guess I'll have to adjust my plans, huh? \nI made adjustments assuming you wouldn't come.",
             "choice_data_list": [
                 "Ah, I don't have the notepad with me"
             ]
         },
         {
             "name": "Satono Crown",
-            "text": "No problem! There's always the sand. Let's write out all our ideas here!"
+            "text": "No problem! There's always the sand. \nLet's write out all our ideas here!"
         },
         {
             "name": "Satono Crown",
-            "text": "For visiting Hong Kong, gourmet food is important isn't it? Near Papa's offices, there's a recommended dim sum restaurant we can go to!"
+            "text": "For visiting Hong Kong, gourmet food is important \nisn't it? Near Papa's offices, there's a recommended \ndim sum restaurant we can go to!"
         },
         {
             "name": "Satono Crown",
-            "text": "And the night view is something you can't miss. And if we're going to be there for a while, we definitely need to see Victoria Harbor! And then there's――"
+            "text": "And the night view is something you can't miss. And \nif we're going to be there for a while, we definitely \nneed to see Victoria Harbor! And then there's――"
         },
         {
-            "text": "After that, we spent the summer night scribbling plans for Hong Kong in to the sand until we could barely walk without stepping on them."
+            "text": "After that, we spent the summer night scribbling \nplans for Hong Kong in to the sand until we could \nbarely walk without stepping on them."
         }
     ]
 }

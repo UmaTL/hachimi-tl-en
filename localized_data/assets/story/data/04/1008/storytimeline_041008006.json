@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "It's a holiday. As I walk in front of the dorm…"
@@ -12,22 +13,22 @@
         },
         {
             "name": "Vodka",
-            "text": "Of course I'm wandering around. I've got a lot of free time on my hands."
+            "text": "Of course I'm wandering around. I've got a lot \nof free time on my hands."
         },
         {
             "name": "Vodka",
-            "text": "That's right! At times like these, I have to get excited. It's a motorcycle!",
+            "text": "That's right! At times like these, I have to get \nexcited. It's a motorcycle!",
             "choice_data_list": [
                 "Touring?"
             ]
         },
         {
             "name": "Vodka",
-            "text": "Mochi! …Or so I'd like to say, but I don't have a bike. It's more like an Air Rider…"
+            "text": "Mochi! …Or so I'd like to say, but I don't have \na bike. It's more like an Air Rider…"
         },
         {
             "name": "Vodka",
-            "text": "So let's go to the bike shop! Let's go see the new bikes!"
+            "text": "So let's go to the bike shop! \nLet's go see the new bikes!"
         },
         {
             "name": "Vodka",
@@ -35,7 +36,7 @@
         },
         {
             "name": "Vodka",
-            "text": "An idiot tank. And an elite streamlined form…! The moment I get on top of it and light the engine, I'll… become a gale!"
+            "text": "An idiot tank. And an elite streamlined form…! \nThe moment I get on top of it and light the \nengine, I'll… become a gale!"
         },
         {
             "name": "Vodka",
@@ -46,15 +47,15 @@
         },
         {
             "name": "Vodka",
-            "text": "Wh-What? Don't look at me like that! I admire motorcycles."
+            "text": "Wh-What? Don't look at me like \nthat! I admire motorcycles."
         },
         {
             "name": "Vodka",
-            "text": "Dad loves motorcycles, so she used to let me ride behind her."
+            "text": "Dad loves motorcycles, so she used to let me \nride behind her."
         },
         {
             "name": "Vodka",
-            "text": "Well, I can't buy it. It's just as easy as conquering Derby…",
+            "text": "Well, I can't buy it. It's just as easy as \nconquering Derby…",
             "choice_data_list": [
                 "Let's buy it to commemorate our conquest."
             ]
@@ -65,19 +66,19 @@
         },
         {
             "name": "Vodka",
-            "text": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa!"
+            "text": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa!"
         },
         {
             "name": "Vodka",
-            "text": "Alright, it's a promise, between you and me! That's right, if we work together, there's nothing we can't do!"
+            "text": "Alright, it's a promise, between you and me! \nThat's right, if we work together, there's \nnothing we can't do!"
         },
         {
             "name": "Vodka",
-            "text": "Oooooh, it's getting hotter!! My body is itching……! At this rate――"
+            "text": "Oooooh, it's getting hotter!! My body is \nitching……! At this rate――"
         },
         {
             "name": "Vodka",
-            "text": "We're going all the way to the beach! There's no bike, so use these legs!"
+            "text": "We're going all the way to the beach! There's no \nbike, so use these legs!"
         },
         {
             "name": "Vodka",
@@ -88,15 +89,15 @@
             ]
         },
         {
-            "text": "Vodka runs off at full speed. I desperately chase after her. …In a taxi."
+            "text": "Vodka runs off at full speed. I desperately \nchase after her. …In a taxi."
         },
         {
             "name": "Vodka",
-            "text": "*pant*, *pant*, it feels good. Sometimes running on the road instead of the turf."
+            "text": "*pant*, *pant*, it feels good. Sometimes running \non the road instead of the turf."
         },
         {
             "name": "Vodka",
-            "text": "Sweaty skin and sea breeze……I can't get enough of it. This is exactly what it means to be cool……"
+            "text": "Sweaty skin and sea breeze……I can't get enough \nof it. This is exactly what it means to be cool……"
         },
         {
             "name": "Vodka",
@@ -108,38 +109,38 @@
         },
         {
             "name": "Vodka",
-            "text": "Hey, Trainer. I know this sounds weird, but… Is there a difference between being cool and being strong?"
+            "text": "Hey, Trainer. I know this sounds weird, \nbut… Is there a difference between \nbeing cool and being strong?"
         },
         {
             "name": "Vodka",
-            "text": "I'm aiming to be a cool guy rather than a strong guy. Being strong is… well, part of being cool."
+            "text": "I'm aiming to be a cool guy rather than a strong \nguy. Being strong is… well, part of being cool."
         },
         {
             "name": "Vodka",
-            "text": "You know, the other day, when I showed off even though I lost, she snorted at me. That's what bothered me."
+            "text": "You know, the other day, when I showed \noff even though I lost, she snorted \nat me. That's what bothered me."
         },
         {
             "name": "Vodka",
-            "text": "To me, Dad's the cool one, and Mom's the strong one."
+            "text": "To me, Dad's the cool one, \nand Mom's the strong one."
         },
         {
             "text": "Curious, I asked about Vodka's parents."
         },
         {
             "name": "Vodka",
-            "text": "Dad rode a motorcycle. No, she wasn't a racer, but she always carried me around with her."
+            "text": "Dad rode a motorcycle. No, she wasn't a racer, \nbut she always carried me around with her."
         },
         {
             "name": "Vodka",
-            "text": "And she used to tell me that I should always live on the brink of death, and that I should always shed tears on the wind. My dad was always like that."
+            "text": "And she used to tell me that I should \nalways live on the brink of death, and \nthat I should always shed tears on the \nwind. My dad was always like that."
         },
         {
             "name": "Vodka",
-            "text": "But Mom's the different type! She's always slapping Dad on the butt, running around the house, and…"
+            "text": "But Mom's the different type! She's \nalways slapping Dad on the butt, \nrunning around the house, and…"
         },
         {
             "name": "Vodka",
-            "text": "Even when I ran on my own two feet, I was as fast as a motorcycle! On-road or off-road. After all, I'm a good girl.",
+            "text": "Even when I ran on my own two feet, I was as \nfast as a motorcycle! On-road or off-road. After \nall, I'm a good girl.",
             "choice_data_list": [
                 "That's amazing.",
                 "That's amazing."
@@ -147,33 +148,33 @@
         },
         {
             "name": "Vodka",
-            "text": "…That's right. But the one I'm chasing is my dad's back. Is there no point in chasing her like this?"
+            "text": "…That's right. But the one I'm chasing \nis my dad's back. Is there no point \nin chasing her like this?"
         },
         {
             "name": "Vodka",
-            "text": "On the other hand, I can't really say that I want to be like a strong mom…"
+            "text": "On the other hand, I can't really say that I \nwant to be like a strong mom…"
         },
         {
             "name": "Vodka",
-            "text": "Hey, is my way of life wrong? Is it weird that I want to be cool first?",
+            "text": "Hey, is my way of life wrong? Is it weird that I \nwant to be cool first?",
             "choice_data_list": [
                 "It's not strange."
             ]
         },
         {
             "name": "Vodka",
-            "text": "…I see. If that's what the trainer says, well, it might not be too far off."
+            "text": "…I see. If that's what the trainer says, well, \nit might not be too far off."
         },
         {
             "name": "Vodka",
-            "text": "Sometimes things that I didn't think about before come to mind, and I get all gloomy. …I guess it's time to go home."
+            "text": "Sometimes things that I didn't think about \nbefore come to mind, and I get all gloomy. …I \nguess it's time to go home."
         },
         {
             "text": "――On the way home."
         },
         {
             "name": "Vodka",
-            "text": "I used to ride my dad's bike down this road all the time. I usually go to the factory or the restaurant in the lower city."
+            "text": "I used to ride my dad's bike down this road all \nthe time. I usually go to the factory or the \nrestaurant in the lower city."
         },
         {
             "name": "Vodka",
@@ -181,7 +182,7 @@
         },
         {
             "name": "Vodka",
-            "text": "She always took me wherever I wanted to go. Whenever I said I wanted to go.",
+            "text": "She always took me wherever I wanted to go. \nWhenever I said I wanted to go.",
             "choice_data_list": [
                 "You're loved.",
                 "You're loved."
@@ -189,19 +190,19 @@
         },
         {
             "name": "Vodka",
-            "text": "Bah! Stop it! That's embarrassing! But… Y-You're right."
+            "text": "Bah! Stop it! That's embarrassing! \nBut… Y-You're right."
         },
         {
             "name": "Vodka",
-            "text": "Because Dad cared about me, I'm here now. Because she was like that, I…"
+            "text": "Because Dad cared about me, I'm here now. \nBecause she was like that, I…"
         },
         {
             "name": "Vodka",
-            "text": "(I can still hear it. The 250 exhaust notes Dad was riding in. And I can feel it. The warmth of her arm…)"
+            "text": "(I can still hear it. The 250 exhaust \nnotes Dad was riding in. And I can \nfeel it. The warmth of her arm…)"
         },
         {
             "name": "Vodka",
-            "text": "I guess I have no choice but to follow this path. Because…"
+            "text": "I guess I have no choice but \nto follow this path. Because…"
         },
         {
             "name": "Vodka",

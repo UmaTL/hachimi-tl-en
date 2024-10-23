@@ -4,13 +4,13 @@
         {
             "text": "A few days later, we were looking over documents \nin the library…… I brought up what the instructor \ntold me about Zenno Rob Roy the other day.",
             "choice_data_list": [
-                "<size=32>You were going to enter the Sports Festival, right?</size>",
-                "<size=32>You were going to enter the Sports Festival, right?</size>"
+                "You were going to enter the Sports Festival, right?",
+                "You were going to enter the Sports Festival, right?"
             ]
         },
         {
-            "text": "Eh, ah, yeah……! \nSo you knew already……!",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Eh, ah, yeah……! \nSo you knew already……!"
         },
         {
             "text": "Zenno Rob Roy seemed bewildered at first, but she seemed to \nunderstand when I mentioned her instructor told me."
@@ -22,72 +22,72 @@
             ]
         },
         {
-            "text": "Yeah…… thank you…… very much……",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "……Ah, no, it's not that I'm not thankful for that! \nI'm sorry, it's just…… I'm not the type that stands out.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "That's why…… I think even if you took the time \nto come and watch, I don't think there's much \nyou'd notice about me…… is what I think.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "……if you've already spoken with the instructor, \nthen Trainer-san…… I'm sure you already know, \nright? How poorly I've been doing lately.",
             "name": "Zenno Rob Roy",
+            "text": "Yeah…… thank you…… very much……"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "……Ah, no, it's not that I'm not thankful for that! \nI'm sorry, it's just…… I'm not the type that stands out."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That's why…… I think even if you took the time \nto come and watch, I don't think there's much \nyou'd notice about me…… is what I think."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "……if you've already spoken with the instructor, \nthen Trainer-san…… I'm sure you already know, \nright? How poorly I've been doing lately.",
             "choice_data_list": [
                 "Sorry, for prying……"
             ]
         },
         {
-            "text": "No! Thank you very much for being concerned about me. \nIt's true that lately, I've been at a loss…… ehehe.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Ever since I was young, I've never really had any \nspecialties. My favorite thing has always been only \nbooks pretty much…… it's extremely plain.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "And me too, I'm used to being unremarkable. Even if someone \ncomes to see me, it's…… still embarrassing……",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "At the very least, I wanted to get good enough that I wouldn't be \nembarrassed, but I was anxious, too anxious…… and ended up \nhurting myself again.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Just being there, in a place where people's gazes \nnaturally gather, like the hero of a story…… it's \nalmost funny how far away that feels.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "It's pathetic…… like this, I can't even live up to my name.",
             "name": "Zenno Rob Roy",
+            "text": "No! Thank you very much for being concerned about me. \nIt's true that lately, I've been at a loss…… ehehe."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ever since I was young, I've never really had any \nspecialties. My favorite thing has always been only \nbooks pretty much…… it's extremely plain."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "And me too, I'm used to being unremarkable. Even if someone \ncomes to see me, it's…… still embarrassing……"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "At the very least, I wanted to get good enough that I wouldn't be \nembarrassed, but I was anxious, too anxious…… and ended up \nhurting myself again."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Just being there, in a place where people's gazes \nnaturally gather, like the hero of a story…… it's \nalmost funny how far away that feels."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It's pathetic…… like this, I can't even live up to my name.",
             "choice_data_list": [
                 "Live up to your name?"
             ]
         },
         {
-            "text": "Yeah…… Ah, well, you see……",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Yeah…… Ah, well, you see……"
         },
         {
             "text": "Saying that, Zenno Rob Roy, grabbed \na book from the shelf without even pausing."
         },
         {
-            "text": "『Rob Roy』 ……my name is the same as the \nhero written about in this story.",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "『Rob Roy』 ……my name is the same as the \nhero written about in this story."
         },
         {
-            "text": "Defeating the strong, protecting the weak. Continuing \nto fight on to restore his family's honor, the people's \nhero…… completely different from me.",
             "name": "Zenno Rob Roy",
+            "text": "Defeating the strong, protecting the weak. Continuing \nto fight on to restore his family's honor, the people's \nhero…… completely different from me.",
             "choice_data_list": [
                 "Rob Roy……"
             ]
         },
         {
-            "text": "Ahaha, ha………… \nI'm sorry, I'm heading back for the day……!",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Ahaha, ha………… \nI'm sorry, I'm heading back for the day……!"
         },
         {
             "text": "I tried to chase after her but, there was no way I could keep up \nwith an Uma Musume's legs. Before I knew it, I lost sight of her……",
@@ -105,15 +105,15 @@
             ]
         },
         {
-            "text": "Eh…… huh? Trainer-san!? \nWhy are you here……!?",
             "name": "Zenno Rob Roy",
+            "text": "Eh…… huh? Trainer-san!? \nWhy are you here……!?",
             "choice_data_list": [
                 "I didn't think you'd just head home"
             ]
         },
         {
-            "text": "I-I'm pretty sure that the situation would make it \nseem like I was heading home though……!",
             "name": "Zenno Rob Roy",
+            "text": "I-I'm pretty sure that the situation would make it \nseem like I was heading home though……!",
             "choice_data_list": [
                 "But you have a hard time giving up",
                 "But you have a hard time giving up"
@@ -123,71 +123,71 @@
             "text": "I pulled out the notebook I picked up yesterday. Contained within \nwas her struggles through trial and error, it was proof of Zenno \nRob Roy's refusal to give up."
         },
         {
-            "text": "Ah, that's……! D-did you by chance, look inside……!?",
             "name": "Zenno Rob Roy",
+            "text": "Ah, that's……! D-did you by chance, look inside……!?",
             "choice_data_list": [
-                "<size=41>Sorry, I wanted to confirm the owner……</size>"
+                "Sorry, I wanted to confirm the owner……"
             ]
         },
         {
-            "text": "Ah, Ahaha…… it's really silly isn't it? Acting like \nI've given up, but then writing like that in my notebook.",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Ah, Ahaha…… it's really silly isn't it? Acting like \nI've given up, but then writing like that in my notebook."
         },
         {
-            "text": "Even if it's not possible…… Sorry for letting you \nsee something so weird. It's fine if you throw that away.",
             "name": "Zenno Rob Roy",
+            "text": "Even if it's not possible…… Sorry for letting you \nsee something so weird. It's fine if you throw that away.",
             "choice_data_list": [
                 "I won't thow it away"
             ]
         },
         {
-            "text": "Ah…… Y-you're right, sorry about that. \nI should properly throw it away myself―",
             "name": "Zenno Rob Roy",
+            "text": "Ah…… Y-you're right, sorry about that. \nI should properly throw it away myself―",
             "choice_data_list": [
                 "I just wanted to confirm"
             ]
         },
         {
-            "text": "Confirm……?",
             "name": "Zenno Rob Roy",
+            "text": "Confirm……?",
             "choice_data_list": [
                 "Rob Roy. What is your dream?",
                 "Rob Roy. What is your dream?"
             ]
         },
         {
-            "text": "Ah……!…… ………… \n……I …………y-you won't laugh?",
             "name": "Zenno Rob Roy",
+            "text": "Ah……!…… ………… \n……I …………y-you won't laugh?",
             "choice_data_list": [
                 "I won't laugh. Promise"
             ]
         },
         {
-            "text": "…………",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "…………"
         },
         {
-            "text": "The truth is, I…… I saw a dream where I became a hero.",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "The truth is, I…… I saw a dream where I became a hero."
         },
         {
             "text": "She spoke softly if she was telling some huge secret, \nbut also as if it was a very precious treasure."
         },
         {
-            "text": "E-even though my debut is late…… even though \nI don't have anything I can call results, and \nI haven't gotten the attention of anyone……",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "E-even though my debut is late…… even though \nI don't have anything I can call results, and \nI haven't gotten the attention of anyone……"
         },
         {
-            "text": "……Even then, I want to cling to the word, Hero.",
             "name": "Zenno Rob Roy",
+            "text": "……Even then, I want to cling to the word, Hero.",
             "choice_data_list": [
                 "It's a good dream",
                 "It's a good dream"
             ]
         },
         {
-            "text": "Eh……?",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Eh……?"
         },
         {
             "text": "The reason she started this 『Hero Search』, why she skipped \ntraining, and even the reason she ran all the way here―"
@@ -196,65 +196,65 @@
             "text": "All of that was because Zenno Rob Roy hadn't given up on the \ndream, 『I will become a Hero』."
         },
         {
-            "text": "……that's not true. It's a shameless and cruel dream.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Among my senpai, classmates, and kouhai, there are lots of \ngirls who are amazing, strong, and stand out like Heroes.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "They all have such wonderful dreams…… the kind that a story can \nbe based on. Like wanting to protect the honor of their family, \nor wanting to make the people watching happy!",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "I don't have something like that, I just want to stand out, \nI just want people to look at me……!",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "I don't have a story! \nThat's why I've always been in the background……!",
             "name": "Zenno Rob Roy",
+            "text": "……that's not true. It's a shameless and cruel dream."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Among my senpai, classmates, and kouhai, there are lots of \ngirls who are amazing, strong, and stand out like Heroes."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "They all have such wonderful dreams…… the kind that a story can \nbe based on. Like wanting to protect the honor of their family, \nor wanting to make the people watching happy!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I don't have something like that, I just want to stand out, \nI just want people to look at me……!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I don't have a story! \nThat's why I've always been in the background……!",
             "choice_data_list": [
                 "……but you still want to be a Hero?"
             ]
         },
         {
-            "text": "……",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "……"
         },
         {
-            "text": "……Yes ……!",
             "name": "Zenno Rob Roy",
+            "text": "……Yes ……!",
             "choice_data_list": [
                 "Lend me your notebook",
                 "Lend me your notebook"
             ]
         },
         {
-            "text": "O-okay……?",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "O-okay……?"
         },
         {
             "text": "I take out a permanent marker. \nI don't open the notebook, I only need the cover."
         },
         {
-            "text": "Eh, w-what are you doing? Um……?",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Eh, w-what are you doing? Um……?"
         },
         {
             "text": "Now, it's no longer just a 『Notebook』, \nand I hand it back to Zenno Rob Roy."
         },
         {
-            "text": "『The Heroic Tale of Zenno Rob Roy』……?",
             "name": "Zenno Rob Roy",
+            "text": "『The Heroic Tale of Zenno Rob Roy』……?",
             "choice_data_list": [
                 "I want to read this!",
                 "I want to read this!"
             ]
         },
         {
-            "text": "Eh――Eeeeh!?",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Eh――Eeeeh!?"
         },
         {
             "text": "A dream that can't be given up, that's how strong her wish is. If \nshe keeps striving for it, someday―― No, I want it to be granted.",
@@ -264,8 +264,8 @@
             ]
         },
         {
-            "text": "I'm weak and don't stand out…… you might even \nget fed up with me……? Is that really okay……?",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "I'm weak and don't stand out…… you might even \nget fed up with me……? Is that really okay……?"
         },
         {
             "text": "I nod emphatically. For now, the 『Hero Search』 is on hold. \n――Now, I want to see this story."

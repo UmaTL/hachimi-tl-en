@@ -1,22 +1,23 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Ha… ha…</i> This… this is not enough training…!"
+            "text": "<i>Ha… ha…</i> \nThis… this is not enough training…!"
         },
         {
-            "text": "When I went to check up on Mejiro Mcqueen, I saw that she was still training intensively as usual."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "As a horsegirl bearing the proud Mejiro name, I cannot allow any more room for failure!"
+            "text": "When I went to check up on Mejiro Mcqueen, I saw \nthat she was still training intensively as usual."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "This is not the time to be struggling with mustering strength into my legs…!!"
+            "text": "As a horsegirl bearing the proud Mejiro name, \nI cannot allow any more room for failure!"
         },
         {
-            "text": "I'm worried about her pushing herself so hard. Is she going to be okay…?"
+            "name": "Mejiro McQueen",
+            "text": "This is not the time to be struggling \nwith mustering strength into my legs…!!"
+        },
+        {
+            "text": "I'm worried about her pushing herself so hard. \nIs she going to be okay…?"
         },
         {
             "name": "Mejiro McQueen",
@@ -27,7 +28,7 @@
             "text": "Ah…!!"
         },
         {
-            "text": "Just when I thought I saw Mejiro Mcqueen staggering for a moment, she collapsed onto the ground!",
+            "text": "Just when I thought I saw Mejiro Mcqueen staggering \nfor a moment, she collapsed onto the ground!",
             "choice_data_list": [
                 "McQueen! Are you okay?!",
                 "McQueen! Are you okay?!"
@@ -37,7 +38,7 @@
             "text": "Examination revealed that she had minor anemia."
         },
         {
-            "text": "The doctor said it could be due to a nutritional deficiency. Perhaps she is not eating properly……?"
+            "text": "The doctor said it could be due to a nutritional deficiency. \nPerhaps she is not eating properly……?"
         },
         {
             "name": "Mejiro Ryan",
@@ -64,11 +65,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "I see… But, I can see that you're looking out for McQueen. I am very grateful for that."
+            "text": "I see… But, I can see that you're looking out \nfor McQueen. I am very grateful for that."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "By the way, did you find out what could have caused her to collapse?"
+            "text": "By the way, did you find out what \ncould have caused her to collapse?"
         },
         {
             "text": "I spoke to Mejiro Ryan about the diagnosis."
@@ -79,7 +80,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "I did have a feeling that she was pushing herself too hard because of the upcoming Selection Race… I should have spoken to her earlier…",
+            "text": "I did have a feeling that she was pushing herself too hard \nbecause of the upcoming Selection Race… I should have \nspoken to her earlier…",
             "choice_data_list": [
                 "You've been worried about McQueen \nall this time, haven't you?",
                 "You've been worried about McQueen \nall this time, haven't you?"
@@ -91,19 +92,19 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "As you may have guessed from my name, I'm more or less a Mejiro horsegirl. Ah, but we are not sisters, though."
+            "text": "As you may have guessed from my name, I'm more or less \na Mejiro horsegirl. Ah, but we are not sisters, though."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Because of that, McQueen and I have known each other since we were kids."
+            "text": "Because of that, McQueen and I have \nknown each other since we were kids."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "This girl… she has an excessive sense of responsibility. Or rather, it's more like she's too hard on herself."
+            "text": "This girl… she has an excessive sense of responsibility. \nOr rather, it's more like she's too hard on herself."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "… Even though Mcqueen is doing perfectly fine, without needing to do all that."
+            "text": "… Even though Mcqueen is doing perfectly \nfine, without needing to do all that."
         },
         {
             "name": "Mejiro Ryan",
@@ -118,14 +119,14 @@
             "text": "Um… about Mcqueen, I leave her in your care."
         },
         {
-            "text": "Leaving those words behind, Mejiro Ryan hurriedly departed from the scene……"
+            "text": "Leaving those words behind, Mejiro Ryan \nhurriedly departed from the scene……"
         },
         {
             "text": "After a while, Mejiro Mcqueen regained consciousness."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Is that what happened…? So during training, I collapsed……"
+            "text": "Is that what happened…? \nSo during training, I collapsed……"
         },
         {
             "name": "Mejiro McQueen",
@@ -148,15 +149,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "W-why of course! As a proud Mejiro horsegirl, all aspects of my daily life, including my diet, are meticulously organized!"
+            "text": "W-why of course! As a proud Mejiro horsegirl, all aspects \nof my daily life, including my diet, are meticulously organized!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, considering the Selection Race is coming up, I had implemented some minor dietary restrictions…"
+            "text": "However, considering the Selection Race is coming up, \nI had implemented some minor dietary restrictions…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I only collapsed because I wasn't ready! I simply haven't been training hard enough every day!",
+            "text": "I only collapsed because I wasn't ready! I simply haven't \nbeen training hard enough every day!",
             "choice_data_list": [
                 "Could I see your meal plan?",
                 "Could I see your meal plan?"
@@ -170,11 +171,11 @@
             "text": "I looked through Mejiro Mcqueen's meal plan."
         },
         {
-            "text": "Certainly, she is getting the minimum required nutrients, but is this really enough? It's possible this is why she is struggling with mustering strength into her legs…"
+            "text": "Certainly, she is getting the minimum required nutrients, \nbut is this really enough? It's possible this is why she is \nstruggling with mustering strength into her legs…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "… How did you find the menu plan? I do believe there's nothing wrong with it…",
+            "text": "… How did you find the menu plan? \nI do believe there's nothing wrong with it…",
             "choice_data_list": [
                 "Isn't this meal plan a little too restrictive?",
                 "Isn't this meal plan a little too restrictive?"
@@ -186,7 +187,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Since you're so concerned about it, it would be insincere of me to hide it…"
+            "text": "Since you're so concerned about it, it \nwould be insincere of me to hide it…"
         },
         {
             "name": "Mejiro McQueen",
@@ -209,7 +210,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I can't afford to show up to the Selection Race looking so undisciplined when I'm representing the Mejiro family!"
+            "text": "I can't afford to show up to the Selection Race looking so \nundisciplined when I'm representing the Mejiro family!"
         },
         {
             "name": "Mejiro McQueen",
@@ -217,11 +218,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "… But I concur collapsing would defeat the purpose. I will think of a countermeasure to put in place."
+            "text": "… But I concur collapsing would defeat the purpose. \nI will think of a countermeasure to put in place."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please excuse me, I must take my leave now. Again, I am truly sorry for any inconvenience that I may have caused today."
+            "text": "Please excuse me, I must take my leave now. Again, I am truly \nsorry for any inconvenience that I may have caused today."
         },
         {
             "text": "And with that, Mejiro McQueen quickly left the scene."

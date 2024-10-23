@@ -5,28 +5,28 @@
             "text": "Summer Training Camp had started. \nNormally, it was an opportunity to focus on training, but――"
         },
         {
-            "text": "Haaa, haaa! How was Windy-chan's running?! \nAll eyes on the beach should be on me――",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Biko-chan, you're really fired up! \nAlright, I won't lose to you!",
-            "name": "Uma Musume A"
-        },
-        {
-            "text": "Let's do our best! Just like those three…… \nI'll definitely master Dirt!",
-            "name": "Uma Musume B"
-        },
-        {
-            "text": "But they're not! \nUuuuugh…… if it's come to this～!",
             "name": "Shinko Windy",
+            "text": "Haaa, haaa! How was Windy-chan's running?! \nAll eyes on the beach should be on me――"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Biko-chan, you're really fired up! \nAlright, I won't lose to you!"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Let's do our best! Just like those three…… \nI'll definitely master Dirt!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "But they're not! \nUuuuugh…… if it's come to this～!",
             "choice_data_list": [
                 "No pranks!",
                 "No pranks!"
             ]
         },
         {
-            "text": "So annoying!! \nSo frustratingーー!! Summer Training Camp is stuuuupid!!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "So annoying!! \nSo frustratingーー!! Summer Training Camp is stuuuupid!!"
         },
         {
             "text": "The lack of attention was decreaing her motiviation. The lack of \nconcentration that comes with that……summer was going to be tough."
@@ -35,24 +35,24 @@
             "text": "That's what I thought, but――"
         },
         {
-            "text": "Huh? The Summer Festival is on hold?",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Huh? The Summer Festival is on hold?"
         },
         {
-            "text": "Yeah…… sounds like it overlaps with the \nSummer Festival in the next town over.",
-            "name": "Uma Musume A"
+            "name": "Horsegirl A",
+            "text": "Yeah…… sounds like it overlaps with the \nSummer Festival in the next town over."
         },
         {
-            "text": "If they hold it at the same time, people would \nprobably head to the next town anyways, so they \nweren't going to hold it this year……",
-            "name": "Uma Musume A"
+            "name": "Horsegirl A",
+            "text": "If they hold it at the same time, people would \nprobably head to the next town anyways, so they \nweren't going to hold it this year……"
         },
         {
-            "text": "But, if it's in the next town, we'll have to worry about curfew…… \nHaaa～ guess we're passing on a Summer Festival this year.",
-            "name": "Uma Musume B"
+            "name": "Horsegirl B",
+            "text": "But, if it's in the next town, we'll have to worry about curfew…… \nHaaa～ guess we're passing on a Summer Festival this year."
         },
         {
-            "text": "…………Hmmmmm.",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "…………Hmmmmm."
         },
         {
             "text": "I was planning on taking Shinko Windy to the Summer Festival \nas a reward for training…… but it can't be helped.",
@@ -67,153 +67,153 @@
             "text": "I was searching for her on a footpath \nthat had no lights. And then――"
         },
         {
+            "name": "???",
             "text": "Kyaaa-!?",
-            "name": "？？？",
             "choice_data_list": [
                 "Was that……a scream?"
             ]
         },
         {
-            "text": "Gyaaaa!! S-spare me-!!",
-            "name": "？？？"
+            "name": "???",
+            "text": "Gyaaaa!! S-spare me-!!"
         },
         {
             "text": "From the other side of the forest, more screams could be heard. \nDid something happen? She didn't get involved, did she?"
         },
         {
-            "text": "Uoooooh～～～～! It's exhilirating! \nIt boggles the mind!",
             "name": "Village Chief",
+            "text": "Uoooooh～～～～! It's exhilirating! \nIt boggles the mind!",
             "choice_data_list": [
                 "……Huh?"
             ]
         },
         {
-            "text": "Waaa haa haa haa! \nC'mon, c'mon, more! There's more fun to be had over here!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Waaa haa haa haa! \nC'mon, c'mon, more! There's more fun to be had over here!"
         },
         {
             "text": "Following the lively voices, I came across a row of lights \nand hand-made flags―― it was a small festival."
         },
         {
-            "text": "Hm? Ah, Trainer!! \nHow is it, Windy-chan's festival!? It's really lively, isn't it!?",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Horse radish in the Takoyaki! A lottery with only one type of \nprize! And the Stage Event, a Surprise-In-The-Box tournament!",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "With the help of Windy-chan's pranks, \nthere's no way this festival would lose～!",
             "name": "Shinko Windy",
+            "text": "Hm? Ah, Trainer!! \nHow is it, Windy-chan's festival!? It's really lively, isn't it!?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Horse radish in the Takoyaki! A lottery with only one type of \nprize! And the Stage Event, a Surprise-In-The-Box tournament!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "With the help of Windy-chan's pranks, \nthere's no way this festival would lose～!",
             "choice_data_list": [
                 "Then, those screams――"
             ]
         },
         {
-            "text": "Gyaaーーーー!! \nAhー, I got the takoyaki with horse radish in it!",
-            "name": "Villager A"
+            "name": "Villager A",
+            "text": "Gyaaーーーー!! \nAhー, I got the takoyaki with horse radish in it!"
         },
         {
-            "text": "Hiiiiii!? \nWhat's inside this box? It's so slippery and cold～!",
-            "name": "Villager B"
+            "name": "Villager B",
+            "text": "Hiiiiii!? \nWhat's inside this box? It's so slippery and cold～!"
         },
         {
-            "text": "C'mon, c'mon, go on and guess what's inside～♪ \nWindy-chan's special prank materials are waiting～!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "C'mon, c'mon, go on and guess what's inside～♪ \nWindy-chan's special prank materials are waiting～!"
         },
         {
-            "text": "I've never been to a festival like this! There's so much variety!",
-            "name": "Villager C"
+            "name": "Villager C",
+            "text": "I've never been to a festival like this! There's so much variety!"
         },
         {
-            "text": "That's true! Hey, with this, we won't overlap too much with the \nother town, right? It's almost a completely different thing!",
-            "name": "Villager D"
+            "name": "Villager D",
+            "text": "That's true! Hey, with this, we won't overlap too much with the \nother town, right? It's almost a completely different thing!"
         },
         {
-            "text": "With the ideas given to us by the Tracen Academy student, \nthere's no reason not to. Right, everyone!?",
-            "name": "Village Chief"
+            "name": "Village Chief",
+            "text": "With the ideas given to us by the Tracen Academy student, \nthere's no reason not to. Right, everyone!?"
         },
         {
-            "text": "Yeaaaah!!",
-            "name": "Villagers"
+            "name": "Villagers",
+            "text": "Yeaaaah!!"
         },
         {
             "text": "The rumors quickly spread through the training camp, \nand the Uma Musume came one after the other."
         },
         {
-            "text": "Thanks, Windy-chan! \nI can't help but be excited!",
-            "name": "Uma Musume A"
+            "name": "Horsegirl A",
+            "text": "Thanks, Windy-chan! \nI can't help but be excited!"
         },
         {
-            "text": "Takoyaki with horse radish, \nthat's Windy-chan's idea!? Amazing!",
-            "name": "Uma Musume B"
+            "name": "Horsegirl B",
+            "text": "Takoyaki with horse radish, \nthat's Windy-chan's idea!? Amazing!"
         },
         {
-            "text": "We never could have come up with anything like this. \nWe'll try to think of something for next year too, thanks!",
-            "name": "Villager A"
+            "name": "Villager A",
+            "text": "We never could have come up with anything like this. \nWe'll try to think of something for next year too, thanks!"
         },
         {
-            "text": "……Ni shi shi♪",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Phew, it's finally over～!",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Clean up's kind of annoying……",
             "name": "Shinko Windy",
+            "text": "……Ni shi shi♪"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Phew, it's finally over～!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Clean up's kind of annoying……",
             "choice_data_list": [
                 "But, it was well received!",
                 "But, it was well received!"
             ]
         },
         {
-            "text": "Well of course it was! When it comes to pranks, \nWindy-chan is a genius! You know that already, right!?",
             "name": "Shinko Windy",
+            "text": "Well of course it was! When it comes to pranks, \nWindy-chan is a genius! You know that already, right!?",
             "choice_data_list": [
                 "Yeah, I've experienced it myself"
             ]
         },
         {
-            "text": "……You said it before. \nWindy-chan's creativity is amazing.",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Since I'm the King of Darkness. \nOf course, the ideas would keep coming.",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "But, well…… \nIf Windy-chan didn't use her ideas freely……",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "It would just…… um, right! \nThey would just go to waste! All those ideas!",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "That's why, I decided that sharing a \nfew of them wouldn't be such a bad idea.",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "……In short! Giving prank ideas to those that need them! \nMake everyone rely on Windy-chan and become her minions!",
             "name": "Shinko Windy",
+            "text": "……You said it before. \nWindy-chan's creativity is amazing."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Since I'm the King of Darkness. \nOf course, the ideas would keep coming."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "But, well…… \nIf Windy-chan didn't use her ideas freely……"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "It would just…… um, right! \nThey would just go to waste! All those ideas!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "That's why, I decided that sharing a \nfew of them wouldn't be such a bad idea."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "……In short! Giving prank ideas to those that need them! \nMake everyone rely on Windy-chan and become her minions!",
             "choice_data_list": [
                 "There will probably be more now, huh",
                 "There will probably be more now, huh"
             ]
         },
         {
-            "text": "Yeah! Now, \neveryone will need Windy-chan's pranks!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Yeah! Now, \neveryone will need Windy-chan's pranks!"
         },
         {
-            "text": "In that case, we'll be short-staffed so, \nI'll appoint you as my permanent assistant!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "In that case, we'll be short-staffed so, \nI'll appoint you as my permanent assistant!"
         },
         {
-            "text": "……Doesn't that make you happy?",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "……Doesn't that make you happy?"
         },
         {
             "text": "Her face was smug and full of expectations. \nSo I nodded without hesitation."

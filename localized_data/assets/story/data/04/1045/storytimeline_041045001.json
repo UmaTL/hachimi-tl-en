@@ -1,32 +1,33 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The \"Selection Race\" - it's an important stage for horse girls to appeal to trainers as they aim to make their debut."
+            "text": "The \"Selection Race\" - it's an important stage for horse girls \nto appeal to trainers as they aim to make their debut."
         },
         {
             "name": "Commentator",
-            "text": "This is overwhelming! She lives up to her reputation and finishes 2 lengths ahead of the pack!"
+            "text": "This is overwhelming! She lives up to her reputation and \nfinishes 2 lengths ahead of the pack!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "You! If you're in my charge, you can win a Graded Race… no, a G1 race!"
+            "text": "You! If you're in my charge, you can \nwin a Graded Race… no, a G1 race!"
         },
         {
             "name": "First Place Horse Girl",
             "text": "Oh, thank you very much! I'll do my best!"
         },
         {
-            "text": "That's why the horse girls do their best, and their trainers must be ready to bear their dreams with them."
+            "text": "That's why the horse girls do their best, and their trainers \nmust be ready to bear their dreams with them."
         },
         {
-            "text": "I want to help them reach their dreams! I was so enthusiastic, but when it came time to scout, I couldn't help but shy away."
+            "text": "I want to help them reach their dreams! I was so enthusiastic, \nbut when it came time to scout, I couldn't help but shy away."
         },
         {
             "name": "Super Creek",
             "text": "…………"
         },
         {
-            "text": "In the end, the morning portion of the Selection Race ended, and I hadn't approached anyone."
+            "text": "In the end, the morning portion of the Selection Race ended, \nand I hadn't approached anyone."
         },
         {
             "name": "Super Creek",
@@ -54,29 +55,29 @@
         },
         {
             "name": "Super Creek",
-            "text": "\"I saw that were hesitant to approach, and that you were feeling pressured by the spirit of the other trainers.\""
+            "text": "\"I saw that were hesitant to approach, and that you were \nfeeling pressured by the spirit of the other trainers.\""
         },
         {
             "name": "Super Creek",
-            "text": "But I'm sure there are horse girls waiting to be scouted by you, so please have courage."
+            "text": "But I'm sure there are horse girls waiting to be scouted by \nyou, so please have courage."
         },
         {
-            "text": "I can't believe that instead of encouraging the horse girls, I'm being encouraged by one… I pondered that."
-        },
-        {
-            "name": "Super Creek",
-            "text": "……seems like there's some reason you're having a hard time speaking up."
+            "text": "I can't believe that instead of encouraging the horse girls, \nI'm being encouraged by one… I pondered that."
         },
         {
             "name": "Super Creek",
-            "text": "Sometimes talking to someone can help you sort out those feelings. You can share those fuzzy feelings with me, ok?",
+            "text": "……seems like there's some reason you're \nhaving a hard time speaking up."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Sometimes talking to someone can help you sort out those \nfeelings. You can share those fuzzy feelings with me, ok?",
             "choice_data_list": [
                 "I'm new here, and I don't know how far I can go.",
                 "I'm new here, and I don't know how far I can go."
             ]
         },
         {
-            "text": "The thought that a trainer with more experience than me would be better for the horse girls who are seriously pursuing their dreams… I conveyed those feelings."
+            "text": "The thought that a trainer with more experience than me would \nbe better for the horse girls who are seriously pursuing their \ndreams… I conveyed those feelings."
         },
         {
             "name": "Super Creek",
@@ -84,15 +85,15 @@
         },
         {
             "name": "Super Creek",
-            "text": "Everyone's a little cautious when they first start out. That's just the flip side of being serious."
+            "text": "Everyone's a little cautious when they first start out. That's \njust the flip side of being serious."
         },
         {
             "name": "Super Creek",
-            "text": "Trainer-san is kind, considerate, and full of responsibility… at least that's what I've gathered."
+            "text": "Trainer-san is kind, considerate, and full of responsibility… \nat least that's what I've gathered."
         },
         {
             "name": "Super Creek",
-            "text": "And, just so you know, I'll be in the afternoon race. If it's alright, would you like to come watch?",
+            "text": "And, just so you know, I'll be in the afternoon race. If it's \nalright, would you like to come watch?",
             "choice_data_list": [
                 "I'll be there to cheer you on."
             ]
@@ -105,25 +106,25 @@
             "text": "Her warm smile and kind words gave me a great sense of security."
         },
         {
-            "text": "And then, the afternoon race - the one Super Creek was running in - had begun."
+            "text": "And then, the afternoon race - the one \nSuper Creek was running in - had begun."
         },
         {
             "name": "Commentator",
-            "text": "“The racers are rounding the first corner! It's Super Creek breaking from the pack!\""
+            "text": "“The racers are rounding the first corner! It's Super Creek \nbreaking from the pack!\""
         },
         {
-            "text": "Her dominating performance did not wane, even in the final stages of the race."
+            "text": "Her dominating performance did not wane, \neven in the final stages of the race."
         },
         {
             "name": "Commentator",
-            "text": "Super Creek is in the lead, and just like that, she crosses the finish line!"
+            "text": "Super Creek is in the lead, and just like \nthat, she crosses the finish line!"
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "Creek! Let's win a G1 race together!"
         },
         {
-            "name": "Average Trainer B",
+            "name": "Experienced Trainer B",
             "text": "I'll make your talents flourish!"
         },
         {
@@ -132,24 +133,24 @@
         },
         {
             "name": "Mid-level Trainer A",
-            "text": "Super Creek. You're as talented as I anticipated. If you sign with me, I promise to make your training top priority."
+            "text": "Super Creek. You're as talented as I anticipated. If you sign \nwith me, I promise to make your training top priority."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Y-you…! There's no way you'd keep your mouth shut in the face of such talent…."
+            "name": "Experienced Trainer A",
+            "text": "Y-you…! There's no way you'd keep your \nmouth shut in the face of such talent…."
         },
         {
-            "text": "Even one of the most experienced trainers at the school wants to scout her."
+            "text": "Even one of the most experienced trainers \nat the school wants to scout her."
         },
         {
             "name": "Super Creek",
-            "text": "Oh my gosh, to be asked by such a famous trainer. It's such an honor!"
+            "text": "Oh my gosh, to be asked by such a famous \ntrainer. It's such an honor!"
         },
         {
-            "text": "It makes sense… an incredible horse girl of her stature should be more than happy to go with a trainer who has what it takes to train her."
+            "text": "It makes sense… an incredible horse girl of her \nstature should be more than happy to go with a \ntrainer who has what it takes to train her."
         },
         {
-            "text": "If you put the horse girl first, surely you can get the best out of her… With those thoughts in my head, I was ready to take my leave, until―"
+            "text": "If you put the horse girl first, surely you can \nget the best out of her… With those thoughts in \nmy head, I was ready to take my leave, until―"
         },
         {
             "name": "Super Creek",
@@ -165,18 +166,18 @@
         },
         {
             "name": "Super Creek",
-            "text": "I've been approached by so many other people, but I want to be partnered with you, Trainer-san."
+            "text": "I've been approached by so many other people, but I want to be \npartnered with you, Trainer-san."
         },
         {
             "name": "Super Creek",
-            "text": "H-hey! What are you talking about? That trainer has no track record, he's just a rookie!"
+            "text": "H-hey! What are you talking about? That trainer has no track \nrecord, he's just a rookie!"
         },
         {
             "name": "Super Creek",
-            "text": "Ah, well, even though he's new, he's still a trainer. Isn't that right, Trainer-san?"
+            "text": "Ah, well, even though he's new, he's still a trainer. Isn't \nthat right, Trainer-san?"
         },
         {
-            "text": "Her smile as she said this was filled with the same great sense of security as earlier, when she encouraged me."
+            "text": "Her smile as she said this was filled with the same great sense \nof security as earlier, when she encouraged me."
         },
         {
             "name": "Super Creek",

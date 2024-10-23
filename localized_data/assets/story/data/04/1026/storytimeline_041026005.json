@@ -2,61 +2,61 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Reached my 5 PM quota. Continuing to the next training \nafter a 10-minute break.",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "Reached my 5 PM quota. Continuing to the next training \nafter a 10-minute break."
         },
         {
-            "text": "E-Excuse me... Are you Mihono Bourbon?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "E-Excuse me... Are you Mihono Bourbon?"
         },
         {
             "text": "It was a normal day of training when a lone horse girl \ngalloped up to Mihono Bourbon."
         },
         {
-            "text": "I'm sorry for interrupting... I know you're \nalways doing such tough trainings, so...",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "I'm sorry for interrupting... I know you're \nalways doing such tough trainings, so..."
         },
         {
-            "text": "Worry not. I'm open to 'conversation.' \nWhat did you want to discuss?",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "Worry not. I'm open to 'conversation.' \nWhat did you want to discuss?"
         },
         {
-            "text": "Umm, so... You used to do short races, right? \nI'm just impressed that you managed to do so well \nin a medium distance race!",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "Umm, so... You used to do short races, right? \nI'm just impressed that you managed to do so well \nin a medium distance race!"
         },
         {
             "text": "That girl looks quite excited. Mihono Bourbon on the \nother hand is staring at her motionlessly."
         },
         {
-            "text": "What is it you're trying to achieve by telling me that?",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "What is it you're trying to achieve by telling me that?"
         },
         {
-            "text": "Huh?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "Huh?"
         },
         {
-            "text": "I concluded that you must have some sort of reason \nto reach out to me during my break.",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "I concluded that you must have some sort of reason \nto reach out to me during my break."
         },
         {
-            "text": "A question, inspection, confirmation, et cetera. \nWhat would be the reason for you reaching out to me?",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "A question, inspection, confirmation, et cetera. \nWhat would be the reason for you reaching out to me?"
         },
         {
-            "text": "R-Reason...?",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "R-Reason...?"
         },
         {
             "text": "As the girl was thinking over Mihono Bourbon's \nquestion, her face turned a little red."
         },
         {
-            "text": "Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going!",
-            "name": "Honest Horsegirl"
+            "name": "Honest Horsegirl",
+            "text": "Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going!"
         },
         {
-            "text": "That's not what I...",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "That's not what I..."
         },
         {
             "text": "The girl trots away. Mihono Bourbon's only movement \ncomes from her eyes as they follow after the girl.",
@@ -66,15 +66,15 @@
             ]
         },
         {
-            "text": "I am currently analyzing for possible counter- \nmeasures for my inability to reach my target \nparameters, a.k.a. 'failure.'",
             "name": "Mihono Bourbon",
+            "text": "I am currently analyzing for possible counter- \nmeasures for my inability to reach my target \nparameters, a.k.a. 'failure.'",
             "choice_data_list": [
                 "Target parameters?"
             ]
         },
         {
-            "text": "Parameters like expression and tone of voice, \ntaken from my data log that are useful for \nachieving 'proper communication.'",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "Parameters like expression and tone of voice, \ntaken from my data log that are useful for \nachieving 'proper communication.'"
         },
         {
             "text": "At least she's self-aware... So she wants to get \nbetter at socializing and having conversations...",
@@ -83,39 +83,39 @@
             ]
         },
         {
-            "text": "My parents ordered me to improve my social skills.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "I spent my childhood training with my father, so I never \ninteracted with other horse girls of my age.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "Thus, my parents grew worried about my social skills \nwhen it became clear I was going to Tracen Academy.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "They told me to take great care to interact \nwith my classmates and make friends.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "They are right. Good social skills are a necessity for \nhorse girls. We need it for interviews and \ninteracting with fans.",
             "name": "Mihono Bourbon",
+            "text": "My parents ordered me to improve my social skills."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I spent my childhood training with my father, so I never \ninteracted with other horse girls of my age."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Thus, my parents grew worried about my social skills \nwhen it became clear I was going to Tracen Academy."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "They told me to take great care to interact \nwith my classmates and make friends."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "They are right. Good social skills are a necessity for \nhorse girls. We need it for interviews and \ninteracting with fans.",
             "choice_data_list": [
                 "(Hmm...)"
             ]
         },
         {
-            "text": "In order to fulfill my parents' order, I created new \nparameters. I have set my objective to actively \nstart conversations.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "However, the parameters have decreased slightly since \nschool started. Extrapolating the data, it would seem \nimpossible to fulfill my objective at this rate.",
-            "name": "Mihono Bourbon"
-        },
-        {
-            "text": "Today, I tried a new input technique that I researched: \n\"asking about uncertanties.\" Yet, the girl just left...",
             "name": "Mihono Bourbon",
+            "text": "In order to fulfill my parents' order, I created new \nparameters. I have set my objective to actively \nstart conversations."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, the parameters have decreased slightly since \nschool started. Extrapolating the data, it would seem \nimpossible to fulfill my objective at this rate."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Today, I tried a new input technique that I researched: \n\"asking about uncertanties.\" Yet, the girl just left...",
             "choice_data_list": [
                 "(I see.)"
             ]
@@ -133,8 +133,8 @@
             "text": "I told her that her parents probably just wanted her to \nhave a fun time with her friends at school. \nShe just stared at me in confusion."
         },
         {
-            "text": "I'm sorry, but I don't understand what you mean. \nMy database does not contain any knowledge \non this subject.",
             "name": "Mihono Bourbon",
+            "text": "I'm sorry, but I don't understand what you mean. \nMy database does not contain any knowledge \non this subject.",
             "choice_data_list": [
                 "Hmm..."
             ]
@@ -143,8 +143,8 @@
             "text": "I'm trying to explain that doing things with friends \ncreates valuable experiences and memories, \nwhen suddenly..."
         },
         {
-            "text": "Break time exceeded by 20 seconds. \nReturning to training as soon as possible.",
-            "name": "Mihono Bourbon"
+            "name": "Mihono Bourbon",
+            "text": "Break time exceeded by 20 seconds. \nReturning to training as soon as possible."
         },
         {
             "text": "...She sprints back to the racecourse."

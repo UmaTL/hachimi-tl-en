@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "――The incident occurred the day before the Selection Race."
@@ -9,58 +10,58 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hah… Sorry to stop you so suddenly. Actually, there's a girl I'm looking for…"
+            "text": "Hah… Sorry to stop you so suddenly. \nActually, there's a girl I'm looking for…"
         },
         {
-            "text": "I asked her for a description of the underclassman that Fuji Kiseki was looking for. However, I had no idea where she might be…",
+            "text": "I asked her for a description of the underclassman that \nFuji Kiseki was looking for. \nHowever, I had no idea where she might be…",
             "choice_data_list": [
                 "Sorry, I haven't seen her."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I see… Alright, thanks anyways. If you see her, would you mind asking her to contact me?"
+            "text": "I see… Alright, thanks anyways. \nIf you see her, would you mind asking her to contact me?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I'm sure all the girls in Ritto Dorm know my contact information. I'm counting on you!! I'll be on my way."
+            "text": "I'm sure all the girls in Ritto Dorm know my contact information. \nI'm counting on you!! I'll be on my way."
         },
         {
             "name": "Junior Horsegirl A",
-            "text": "Just now, that's Fuji-senpai, right…? She seemed to be in a big hurry, but what happened?"
+            "text": "Just now, that's Fuji-senpai, right…? \nShe seemed to be in a big hurry, but what happened?"
         },
         {
             "name": "Junior Horsegirl B",
-            "text": "One of the kids from Ritto's been missing since this morning. It's going around that she might've sneaked out of school."
+            "text": "One of the kids from Ritto's been missing since this morning. \nIt's going around that she might've sneaked out of school."
         },
         {
             "name": "Junior Horsegirl A",
-            "text": "Ahh, there are a lot of girls like that, aren't there? …Wait, don't tell me, Senpai's been looking for her all morning!? Even though tomorrow is the Selection Race!?"
+            "text": "Ahh, there are a lot of girls like that, aren't there? \n…Wait, don't tell me, Senpai's been looking for her all \nmorning!? Even though tomorrow is the Selection Race!?"
         },
         {
             "name": "Junior Horsegirl B",
-            "text": "Yeah, I was wondering if her training will be alright… But it's Fuji-senpai, so I'm not worried.",
+            "text": "Yeah, I was wondering if her training will be alright… \nBut it's Fuji-senpai, so I'm not worried.",
             "choice_data_list": [
                 "(I'll help you find her, too…!)",
                 "(I'll help you find her, too…!)"
             ]
         },
         {
-            "text": "However, despite searching around for her based on the characteristics Fuji Kiseki had told me, I was unable to find the underclassman."
+            "text": "However, despite searching around for her based on the \ncharacteristics Fuji Kiseki had told me, I was unable to find the \nunderclassman."
         },
         {
             "text": "Meanwhile, night fell――"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Trainer…!? What's the matter with you here? Not only that, you're drenched in sweat…",
+            "text": "Trainer…!? What's the matter with you here? \nNot only that, you're drenched in sweat…",
             "choice_data_list": [
                 "I thought I'd help with the search."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Is that so…! You are… a truly kind person. Thanks, that helps."
+            "text": "Is that so…! \nYou are… a truly kind person. Thanks, that helps."
         },
         {
             "name": "Fuji Kiseki",
@@ -76,23 +77,23 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…Hello there, Pony-chan. What are you doing at a place like this in the dark?"
+            "text": "…Hello there, Pony-chan. What are you doing at a place like \nthis in the dark?"
         },
         {
             "name": "Junior Horsegirl C",
-            "text": "Eh… Fu, Fuji-senpai…!? Oh no, why…!! Don't worry about someone like me, please just get ready for tomorrow…!!"
+            "text": "Eh… Fu, Fuji-senpai…!? Oh no, why…!! \nDon't worry about someone like me, please just get ready for \ntomorrow…!!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "'Someone like me,' so you say… Why do you say such lonely things? You are a valued member of Tracen Academy."
+            "text": "'Someone like me,' so you say… Why do you say such lonely \nthings? \nYou are a valued member of Tracen Academy."
         },
         {
             "name": "Junior Horsegirl C",
-            "text": "You're wrong! I'm… no longer good enough. I can't stay at this school anymore."
+            "text": "You're wrong! I'm… no longer good enough. \nI can't stay at this school anymore."
         },
         {
             "name": "Junior Horsegirl C",
-            "text": "The rigorous training was so hard, and I missed my family… My yearning to race went away…!"
+            "text": "The rigorous training was so hard, and I missed my family… \nMy yearning to race went away…!"
         },
         {
             "name": "Fuji Kiseki",
@@ -100,7 +101,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…Do you want to get that feeling back? Or, do you want to just drop everything and go home?"
+            "text": "…Do you want to get that feeling back? \nOr, do you want to just drop everything and go home?"
         },
         {
             "name": "Junior Horsegirl C",
@@ -108,15 +109,15 @@
         },
         {
             "name": "Junior Horsegirl C",
-            "text": "If I could get it back, I would… Because running in races has been my dream for a long time. But…"
+            "text": "If I could get it back, I would… \nBecause running in races has been my dream for a long time. \nBut…"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Right, then! If that's what you wish for, I'll make it happen."
+            "text": "Right, then! \nIf that's what you wish for, I'll make it happen."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I shall surely remind you of your longing for racing. I will show you that kind of \"miracle\" in tomorrow's race!"
+            "text": "I shall surely remind you of your longing for racing. \nI will show you that kind of \"miracle\" in tomorrow's race!"
         },
         {
             "name": "Junior Horsegirl C",
@@ -124,10 +125,10 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "That's right. …So, let's head home for today."
+            "text": "That's right. \n…So, let's head home for today."
         },
         {
-            "text": "That's how she somehow succeeded in bringing the junior back home…"
+            "text": "That's how she somehow succeeded in bringing the junior \nback home…"
         },
         {
             "name": "Hishi Amazon",
@@ -135,7 +136,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahahaha, sorry, sorry! Thanks for watching Ritto Dorm while I was out, Hishiama."
+            "text": "Ahahaha, sorry, sorry! \nThanks for watching Ritto Dorm while I was out, Hishiama."
         },
         {
             "name": "Fuji Kiseki",
@@ -146,11 +147,11 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "…C'mon, it's almost time for lights out. You should get some rest too, Fuji. You have a race tomorrow, don'cha?"
+            "text": "…C'mon, it's almost time for lights out. \nYou should get some rest too, Fuji. You have a race tomorrow, \ndon'cha?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "I'm talkin' about you. Just 'cause you couldn't train all day today doesn't mean you're out of shape, y'know? So, you should focus on rest."
+            "text": "I'm talkin' about you. Just 'cause you couldn't train all day \ntoday doesn't mean you're out of shape, y'know? \nSo, you should focus on rest."
         },
         {
             "name": "Fuji Kiseki",
@@ -158,22 +159,22 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "…Don't think of doing anything weird, alright? 'Night, then."
+            "text": "…Don't think of doing anything weird, alright? \n'Night, then."
         },
         {
             "name": "Fuji Kiseki",
             "text": "Indeed, goodnight."
         },
         {
-            "text": "After that, I left them and went back to my room, but I couldn't help but notice the look on Fuji Kiseki's face."
+            "text": "After that, I left them and went back to my room, but I couldn't \nhelp but notice the look on Fuji Kiseki's face."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The entertainer that always delights everyone, \"Fuji Kiseki\"! That's who I'd like to be."
+            "text": "The entertainer that always delights everyone, \"Fuji Kiseki\"! \nThat's who I'd like to be."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "With \"Kiseki\"'s running, I'll entertain everyone who watches me…!"
+            "text": "With \"Kiseki\"'s running, I'll entertain everyone who watches \nme…!"
         },
         {
             "name": "Fuji Kiseki",
@@ -181,20 +182,20 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I shall surely remind you of your longing for racing. I will show you that kind of \"miracle\" in tomorrow's race!"
+            "text": "I shall surely remind you of your longing for racing. \nI will show you that kind of \"miracle\" in tomorrow's race!"
         },
         {
-            "text": "…Would Fuji Kiseki, who had been focused on entertaining people as much as she was, really turn in quietly like this?",
+            "text": "…Would Fuji Kiseki, who had been focused on entertaining \npeople as much as she was, really turn in quietly like this?",
             "choice_data_list": [
                 "(…I have a bad feeling about this.)"
             ]
         },
         {
-            "text": "Worry managed to worm its way into my thoughts, so I went to make sure Fuji Kiseki was properly resting, only to find――"
+            "text": "Worry managed to worm its way into my thoughts, so I went to \nmake sure Fuji Kiseki was properly resting, only to find――"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Damn, that girl! She's got a real cool look on her face, but she'll do something like this in a heartbeat!!"
+            "text": "Damn, that girl! \nShe's got a real cool look on her face, but she'll do something \nlike this in a heartbeat!!"
         },
         {
             "name": "Hishi Amazon",
@@ -205,18 +206,18 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Annoyingly enough, you're spot on! That girl disappeared from her room. Not only is it unforgivable for a dorm head to break curfew, but also lights-out time!"
+            "text": "Annoyingly enough, you're spot on! That girl disappeared \nfrom her room. \nNot only is it unforgivable for a dorm head to break curfew, \nbut also lights-out time!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Right, you and I, we want the same thing. Let's split up here."
+            "text": "Right, you and I, we want the same thing. \nLet's split up here."
         },
         {
             "name": "Hishi Amazon",
-            "text": "You know, the places where she usually trains? I think it's a riverbed, a shrine, and――"
+            "text": "You know, the places where she usually trains? \nI think it's a riverbed, a shrine, and――"
         },
         {
-            "text": "Thus, I came to the training spot where Hishi Amazon told me to go looking for Fuji Kiseki."
+            "text": "Thus, I came to the training spot where Hishi Amazon told me \nto go looking for Fuji Kiseki."
         },
         {
             "text": "Then――"

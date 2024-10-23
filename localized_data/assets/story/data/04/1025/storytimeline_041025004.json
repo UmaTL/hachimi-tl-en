@@ -1,28 +1,29 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "The day of the qualifying race…"
         },
         {
-            "text": "I'd hoped to make an offer to be Manhattan Cafe's trainer… but the chance hadn't come up…"
+            "text": "I'd hoped to make an offer to be Manhattan Cafe's \ntrainer… but the chance hadn't come up…"
         },
         {
             "name": "Colleague A",
-            "text": "Wait, wait, <username>. You're not seriously planning on scouting HER are you?",
+            "text": "Wait, wait, <username>. You're not seriously \nplanning on scouting HER are you?",
             "choice_data_list": [
                 "You'd better believe it."
             ]
         },
         {
             "name": "Colleague B",
-            "text": "I mean sure, she can run, but when I talked to her she just started talking nonsense about her imaginary friend… She say that to you too?",
+            "text": "I mean sure, she can run, but when I talked to \nher she just started talking nonsense about her \nimaginary friend… She say that to you too?",
             "choice_data_list": [
                 "I think her friend is real."
             ]
         },
         {
             "name": "Colleague A",
-            "text": "What? Surely not. I mean, I can see why you might want to humor her, but come on…"
+            "text": "What? Surely not. \nI mean, I can see why you might want to humor her, but come on…"
         },
         {
             "name": "Manhattan Cafe",
@@ -30,14 +31,14 @@
         },
         {
             "name": "Both",
-            "text": "Uwaaaaa!? Gyaaaaaa!?"
+            "text": "Uwaaaaa!? \nGyaaaaaa!?"
         },
         {
             "text": "(Dashdashdashdash…!!)"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "…… Sorry… to interrupt.",
+            "text": "…… \nSorry… to interrupt.",
             "choice_data_list": [
                 "It's okay. We'd just finished."
             ]
@@ -54,7 +55,7 @@
             "text": "She's here."
         },
         {
-            "text": "There were a lot of other fast Uma Musume lining up that day. She'd be better off concentrating on them rather than chasing her friend…",
+            "text": "There were a lot of other fast Uma Musume lining \nup that day. She'd be better off concentrating \non them rather than chasing her friend…",
             "choice_data_list": [
                 "Just relax and run your own race!"
             ]
@@ -65,14 +66,14 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I know you… can't see her… But… it feels almost as if you do…",
+            "text": "I know you… can't see her… \nBut… it feels almost as if you do…",
             "choice_data_list": [
                 "Hm? Did you say something?"
             ]
         },
         {
             "name": "Selection Race Official A",
-            "text": "The race is about to begin! All starters, make your way to the track!"
+            "text": "The race is about to begin! \nAll starters, make your way to the track!"
         },
         {
             "name": "Manhattan Cafe",
@@ -80,15 +81,15 @@
         },
         {
             "name": "Commentator",
-            "text": "All the Uma Musume are in the starting gates, and… they're off!"
+            "text": "All the Uma Musume are in the starting gates, and… \nthey're off!"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(Run… run… run… The smell of the grass… Good legs, good turf… today feels right…)"
+            "text": "(Run… run… run… The smell of the grass… \nGood legs, good turf… today feels right…)"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(It's as though his words… trainer-san's words… have made my feet lighter… My breathing is calm, controlled… I could run forever…)"
+            "text": "(It's as though his words… trainer-san's words… have made my feet \nlighter… My breathing is calm, controlled… I could run forever…)"
         },
         {
             "name": "Manhattan Cafe",
@@ -96,7 +97,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(But ahead of them… I know… My friend is waiting for me…)"
+            "text": "(But ahead of them… I know… \nMy friend is waiting for me…)"
         },
         {
             "name": "Manhattan Cafe",
@@ -104,7 +105,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(I never cared if people believed in her or not… Only… that they show her respect……)"
+            "text": "(I never cared if people believed in her or not… \nOnly… that they show her respect……)"
         },
         {
             "name": "Manhattan Cafe",
@@ -116,7 +117,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(Because he cannot see her… he wants me to teach him… He speaks of my friend like any other person… with respect…)"
+            "text": "(Because he cannot see her… he wants me to teach him… \nHe speaks of my friend like any other person… with respect…)"
         },
         {
             "name": "Manhattan Cafe",
@@ -124,33 +125,33 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(No matter what anyone might say… whatever their cruel words… They cannot understand… they cannot judge us…)"
+            "text": "(No matter what anyone might say… whatever their cruel words… \nThey cannot understand… they cannot judge us…)"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "(So I'll leave it behind, all of it… I'll follow you. I'll chase you. Every day, closer than the day before…)"
+            "text": "(So I'll leave it behind, all of it… I'll follow you. I'll chase \nyou. Every day, closer than the day before…)"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Closer to that shadow… that dream… For as long as it takes."
+            "text": "Closer to that shadow… that dream… \nFor as long as it takes."
         },
         {
             "name": "Commentator",
-            "text": "Look at that acceleration! A black shadow! Consuming everything in its path!"
+            "text": "Look at that acceleration! \nA black shadow! Consuming everything in its path!"
         },
         {
             "text": "(Wooooooaaaaaaahh!!!!)"
         },
         {
-            "text": "Manhattan Cafe stood waiting. The track was silent, the crowds and noise of the day's race a distant memory."
+            "text": "Manhattan Cafe stood waiting. The track was silent, the crowds \nand noise of the day's race a distant memory."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Please… listen to what I have to say. It's about… my friend…"
+            "text": "Please… listen to what I have to say. \nIt's about… my friend…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I can …see things. Things that others can't. Mysterious things. Mysterious people."
+            "text": "I can …see things. Things that others can't. \nMysterious things. Mysterious people."
         },
         {
             "name": "Manhattan Cafe",
@@ -158,43 +159,43 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "\"They're not there,\" they'd say. \"You're scaring me…\" \"You're hallucinating…\" \"It's just your imagination… just your mind playing tricks…\""
+            "text": "\"They're not there,\" they'd say. \n\"You're scaring me…\" \"You're hallucinating…\" \n\"It's just your imagination… just your mind playing tricks…\""
         },
         {
             "name": "Manhattan Cafe",
-            "text": "To hear so many cruel words spoken about my special friends… made me so sad."
+            "text": "To hear so many cruel words spoken \nabout my special friends… made me so sad."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "That's why… When I was still very small… I decided to close myself off. So my dear friends wouldn't be hurt any more."
+            "text": "That's why… \nWhen I was still very small… I decided to close myself off. \nSo my dear friends wouldn't be hurt any more."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I was already a weak child… sickly… So when I hid myself away, nobody tried to stop me."
+            "text": "I was already a weak child… sickly… \nSo when I hid myself away, nobody tried to stop me."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "But… one day… I saw one who looked just like me… Running……"
+            "text": "But… one day… \nI saw one who looked just like me… Running……"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I couldn't see her face, but …I could feel her joy… And I knew …I wanted to feel that joy too…"
+            "text": "I couldn't see her face, but …I could feel her joy… \nAnd I knew …I wanted to feel that joy too…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I burst out of the dark room where I'd been hiding all those years…"
+            "text": "I burst out of the dark room where \nI'd been hiding all those years…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "The sun was so bright… it burned my eyes, but… My friend was running… joyful…!"
+            "text": "The sun was so bright… it burned my eyes, but… \nMy friend was running… joyful…!"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "And I asked myself… just what had I been worried about all this time…? Because even if no one believed in her… She still ran with that same joy…"
+            "text": "And I asked myself… just what had I been worried \nabout all this time…? Because even if no one believed \nin her… She still ran with that same joy…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "And ever since then, my friend has kept on running… just ahead of me…",
+            "text": "And ever since then, my friend has kept on running… \njust ahead of me…",
             "choice_data_list": [
                 "I can tell your friend is very important to you.",
                 "I can tell your friend is very important to you."
@@ -202,26 +203,26 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "She is… But…"
+            "text": "She is… \nBut…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Even I don't really know her… To this day… I have never seen her face."
+            "text": "Even I don't really know her… \nTo this day… I have never seen her face."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Because I can't catch her. She never turns to look at me… All I have ever seen… is her back…"
+            "text": "Because I can't catch her. She never turns to look at me… \nAll I have ever seen… is her back…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I need to catch her. And run together with her, side by side."
+            "text": "I need to catch her. \nAnd run together with her, side by side."
         },
         {
-            "text": "In her small voice, barely a whisper… I could sense a powerful, unwavering will."
+            "text": "In her small voice, barely a whisper… I could \nsense a powerful, unwavering will."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You… still can't see her… can you…? But… um…",
+            "text": "You… still can't see her… can you…? \nBut… um…",
             "choice_data_list": [
                 "You'll just have to be my eyes."
             ]
@@ -249,13 +250,13 @@
             "text": "(bonk!)"
         },
         {
-            "text": "Just as I smiled back at Manhattan Cafe, I felt a powerful whack between my shoulder blades…"
+            "text": "Just as I smiled back at Manhattan Cafe, I felt \na powerful whack between my shoulder blades…"
         },
         {
             "text": "D̸̩̍ ̵̜̌Ò̷̼ ̵̟͐I̶̜͂ ̶̱̋T̷̙͐"
         },
         {
-            "text": "A voice without voice… words without words… But whatever it was, it was real."
+            "text": "A voice without voice… words without words… \nBut whatever it was, it was real."
         }
     ]
 }

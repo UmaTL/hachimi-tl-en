@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "This month too, I shared the monthly schedule with Daiichi Ruby's butler, but―"
+            "text": "This month too, I shared the monthly schedule \nwith Daiichi Ruby's butler, but―"
         },
         {
             "name": "Ruby's butler",
-            "text": "――Dinner with will start at 18:00 on Thursday. French and Chinese classes are held on Fridays and Saturdays, respectively."
+            "text": "――Dinner with will start at 18:00 on Thursday. \nFrench and Chinese classes are held on \nFridays and Saturdays, respectively."
         },
         {
             "name": "Ruby's butler",
-            "text": "Is it correct that you want to cancel the play on Sunday? We will schedule a meeting with a new Italian teacher instead."
+            "text": "Is it correct that you want to cancel the play \non Sunday? We will schedule a meeting with a new \nItalian teacher instead."
         },
         {
             "name": "Daiichi Ruby",
@@ -17,43 +18,43 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Are you okay with this trainer? I'm going to arrange a schedule so it doesn't get in the way of training.",
+            "text": "Are you okay with this trainer? I'm going to \narrange a schedule so it doesn't get in the \nway of training.",
             "choice_data_list": [
                 "There is plenty of time for training, but…"
             ]
         },
         {
-            "text": "Her schedule is planned minute by minute. Is there enough time for rest and her hobby?"
+            "text": "Her schedule is planned minute by minute. \nIs there enough time for rest and her hobby?"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "……If there is no objection, let's proceed. Well then, thank you for your continued support this month."
+            "text": "……If there is no objection, let's proceed. \nWell then, thank you for your continued \nsupport this month."
         },
         {
-            "text": "Since becoming Daiichi Ruby's personal trainer, I've been amazed at how busy her schedule is."
+            "text": "Since becoming Daiichi Ruby's personal trainer, \nI've been amazed at how busy her schedule is."
         },
         {
-            "text": "Other than daily training, there is also language lesson. Followed by goodwill exchanges with the business world which are important for the heir of the noble family.",
+            "text": "Other than daily training, there is also language lesson. \nFollowed by goodwill exchanges with the business world \nwhich are important for the heir of the noble family.",
             "choice_data_list": [
                 "(I wonder if I can give her a little distraction…)"
             ]
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Preparation is complete. Is it okay to follow the usual routine?",
+            "text": "Preparation is complete. \nIs it okay to follow the usual routine?",
             "choice_data_list": [
                 "……No, let's go run outside today!",
                 "……No, let's go run outside today!"
             ]
         },
         {
-            "text": "I explained to Daichi Ruby about the sudden change of schedule, that I had an idea and take her outside of the school."
+            "text": "I explained to Daichi Ruby about the sudden \nchange of schedule, that I had an idea and take \nher outside of the school."
         },
         {
-            "text": "I lead Daiichi Ruby on a bicycle. Unlike the training course, the scenery changes every time you run."
+            "text": "I lead Daiichi Ruby on a bicycle. \nUnlike the training course, the scenery \nchanges every time you run."
         },
         {
-            "text": "I wonder if she feel better running on the open field. Suddenly I spotted something interesting and park my bike."
+            "text": "I wonder if she feel better running on the open field. \nSuddenly I spotted something interesting and park my bike."
         },
         {
             "name": "Daiichi Ruby",
@@ -67,7 +68,7 @@
             ]
         },
         {
-            "text": "I points to a honey drink shop across the street. The horse girls at the school were talking about being healed by the sweetness, but―"
+            "text": "I points to a honey drink shop across the \nstreet. The horse girls at the school were \ntalking about being healed by the sweetness, but―"
         },
         {
             "name": "Daiichi Ruby",
@@ -75,10 +76,10 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Sugar consumption is strictly controled. ……you should know that, right?"
+            "text": "Sugar consumption is strictly controled. \n……you should know that, right?"
         },
         {
-            "text": "I was flatly refused and returned to training. But I have no intention of giving up today."
+            "text": "I was flatly refused and returned to training. \nBut I have no intention of giving up today."
         },
         {
             "name": "Daiichi Ruby",
@@ -93,10 +94,10 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "……I see. Now let's continue the training."
+            "text": "……I see. \nNow let's continue the training."
         },
         {
-            "text": "After that, I continued to search for something that would catch Daiichi Ruby's interest, but―"
+            "text": "After that, I continued to search for something \nthat would catch Daiichi Ruby's interest, but―"
         },
         {
             "name": "Daiichi Ruby",
@@ -104,7 +105,7 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Trainer-san, if you don't mean to taunt me, please explain the purpose of today's training.",
+            "text": "Trainer-san, if you don't mean to taunt me, \nplease explain the purpose of today's training.",
             "choice_data_list": [
                 "Seeing different scenery can stimulate your brain―"
             ]
@@ -122,19 +123,19 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "May I? I have no qualms about striving to be worthy of my family."
+            "text": "May I? I have no qualms about striving to be \nworthy of my family."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "I work hard every day because I have decided that it is necessary. Rather, it is your unnecessary concern that is hindering me."
+            "text": "I work hard every day because I have decided \nthat it is necessary. Rather, it is your \nunnecessary concern that is hindering me."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "If you want results worthy of the name of your family, you should consider what you spend your limited time on."
+            "text": "If you want results worthy of the name of your \nfamily, you should consider what you spend your \nlimited time on."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Be brilliant. Be supreme. Always shine the brightest. That is my family's motto… therefore"
+            "text": "Be brilliant. Be supreme. Always shine the brightest. \nThat is my family's motto… therefore"
         },
         {
             "name": "Daiichi Ruby",
@@ -142,13 +143,13 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "There is no time to waste. If you understand that, please don't worry unnecessarily in the future."
+            "text": "There is no time to waste. If you understand that, \nplease don't worry unnecessarily in the future."
         },
         {
-            "text": "After returning to the academy and completed the usual training menu, Daiichi Ruby left for the next schedule."
+            "text": "After returning to the academy and completed \nthe usual training menu, Daiichi Ruby left for \nthe next schedule."
         },
         {
-            "text": "There was no sense of sadness in her straight back, and I wondered if there is anything I can do to support her."
+            "text": "There was no sense of sadness in her straight \nback, and I wondered if there is anything I can \ndo to support her."
         }
     ]
 }

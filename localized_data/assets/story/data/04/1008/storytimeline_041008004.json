@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was the day after the event. Vodka hadn't shown up for training for the first time."
+            "text": "It was the day after the event. Vodka hadn't \nshown up for training for the first time."
         },
         {
             "name": "Daiwa Scarlet",
@@ -13,15 +14,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah… I think it's by the river. I've read about it in manga, but if it's going to get dark, it has to be over there."
+            "text": "Ah… I think it's by the river. I've read about \nit in manga, but if it's going to get dark, it \nhas to be over there."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "”This kind of thing is cool, isn't it?” You really are an idiot."
+            "text": "”This kind of thing is cool, isn't it?” You \nreally are an idiot."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I know you're grumbling, but make sure you bring her along. If she's wilting, we won't be able to compete."
+            "text": "I know you're grumbling, but make sure \nyou bring her along. If she's wilting, \nwe won't be able to compete."
         },
         {
             "text": "I thank Daiwa Scarlet and head to the riverbed."
@@ -56,11 +57,11 @@
         },
         {
             "name": "Vodka",
-            "text": "…I thought I'd do it. I was seriously going to win! I'm going to beat Brian!!"
+            "text": "…I thought I'd do it. I was seriously going to \nwin! I'm going to beat Brian!!"
         },
         {
             "name": "Vodka",
-            "text": "But……when I actually ran, I was so overwhelmed…… I was so exhausted at the end……!"
+            "text": "But……when I actually ran, I was so overwhelmed…… \nI was so exhausted at the end……!"
         },
         {
             "name": "Vodka",
@@ -68,7 +69,7 @@
         },
         {
             "name": "Vodka",
-            "text": "The race I saw! Not a single one of them left Derby… They didn't give up halfway through!",
+            "text": "The race I saw! Not a single one of them left \nDerby… They didn't give up halfway through!",
             "choice_data_list": [
                 "Vodka…"
             ]
@@ -79,17 +80,17 @@
         },
         {
             "name": "Vodka",
-            "text": "I've been like this since before my debut… I wonder if I'll ever be cool…!?"
+            "text": "I've been like this since before my debut… I \nwonder if I'll ever be cool…!?"
         },
         {
-            "text": "Vodka seems to have completely lost confidence. I want to cheer her up somehow, but……"
+            "text": "Vodka seems to have completely lost confidence. \nI want to cheer her up somehow, but……"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I know you're grumbling, but make sure you bring her along. If she's wilting, we won't be able to compete."
+            "text": "I know you're grumbling, but make sure \nyou bring her along. If she's wilting, \nwe won't be able to compete."
         },
         {
-            "text": "Come to think of it, why did Daiwa Scarlet say that? Didn't she want to tell Vodka something too…?",
+            "text": "Come to think of it, why did Daiwa \nScarlet say that? Didn't she want \nto tell Vodka something too…?",
             "choice_data_list": [
                 "Anyway, let's go to the course, vodka."
             ]
@@ -112,7 +113,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Didn't you say you were going to turn it off today? You said you'd focus on resting because it's the day after the competition…"
+            "text": "Didn't you say you were going to turn it off \ntoday? You said you'd focus on resting because \nit's the day after the competition…"
         },
         {
             "name": "Daiwa Scarlet",
@@ -120,11 +121,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A certain idiot took a head-on bite from an opponent with a difference in skill… It was a high-speed race from the beginning, but she was late."
+            "text": "A certain idiot took a head-on bite \nfrom an opponent with a difference in \nskill… It was a high-speed race from \nthe beginning, but she was late."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "And yet, you accelerated in a straight line… I couldn't lose to you."
+            "text": "And yet, you accelerated in a straight line… I \ncouldn't lose to you."
         },
         {
             "name": "Vodka",
@@ -136,7 +137,7 @@
         },
         {
             "name": "Vodka",
-            "text": "What's with her……? She can't lose……? Because I'm…… so lame……!!",
+            "text": "What's with her……? She can't lose……? Because \nI'm…… so lame……!!",
             "choice_data_list": [
                 "You looked cool when you tried.",
                 "You looked cool when you tried."
@@ -171,19 +172,19 @@
             "text": "Give me… a chance for revenge!!"
         },
         {
-            "text": "――After that, Vodka devoted herself to training more than usual."
+            "text": "――After that, Vodka devoted herself to training \nmore than usual."
         },
         {
             "name": "Vodka",
-            "text": "There you are, Scarlet! Come on, let's run together!"
+            "text": "There you are, Scarlet! Come \non, let's run together!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh? Don't say that out of the blue. I don't have any plans…"
+            "text": "Huh? Don't say that out of the blue. I don't \nhave any plans…"
         },
         {
             "name": "Vodka",
-            "text": "It's fine, just one! C'mon, let's go!! C'mon, let's go, let's go!!"
+            "text": "It's fine, just one! C'mon, let's go!! C'mon, \nlet's go, let's go!!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -201,7 +202,7 @@
             "text": "Hmph. Come, I'll tear you to pieces."
         },
         {
-            "text": "Vodka retaliated with Naritabrian, and challenged her to a one-on-one duel!!"
+            "text": "Vodka retaliated with Naritabrian, and \nchallenged her to a one-on-one duel!!"
         },
         {
             "name": "Narita Brian",
@@ -213,7 +214,7 @@
         },
         {
             "name": "Vodka",
-            "text": "(Damn it… Damn iiit! It's so fast! Crap! I can't keep up with this, I almost think…!!)"
+            "text": "(Damn it… Damn iiit! It's so fast! Crap! I can't \nkeep up with this, I almost think…!!)"
         },
         {
             "name": "Vodka",
@@ -239,7 +240,7 @@
             "text": "The one who won the match was Naritablyan."
         },
         {
-            "text": "However, Vodka continued to devour the “monster” magnificently until the very end…"
+            "text": "However, Vodka continued to devour the “monster” \nmagnificently until the very end…"
         },
         {
             "name": "Narita Brian",

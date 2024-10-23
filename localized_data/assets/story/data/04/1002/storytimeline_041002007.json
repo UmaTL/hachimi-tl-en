@@ -5,23 +5,23 @@
             "text": "Summer training camp is held for the sake of improving the \nabilities of Uma Musume. Silence Suzuka is also working hard \nwith the same goal in mind."
         },
         {
-            "text": "There's only a few days left of training camp…",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "There's only a few days left of training camp…"
         },
         {
-            "text": "It's unfortunate that we'll be leaving such \na great place to focus on training.",
             "name": "Silence Suzuka",
+            "text": "It's unfortunate that we'll be leaving such \na great place to focus on training.",
             "choice_data_list": [
-                "<size=35>Let's spend the remaining days with no regrets</size>"
+                "Let's spend the remaining days with no regrets"
             ]
         },
         {
-            "text": "Fufuu, of course.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Fufuu, of course."
         },
         {
-            "text": "Ah… speaking of which, Trainer-san. \nAbout the triathalon competition…",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Ah… speaking of which, Trainer-san. \nAbout the triathalon competition…"
         },
         {
             "text": "Silence Suzuka is talking about a Triathalon that \nis held as part of the summer training camp."
@@ -29,93 +29,93 @@
         {
             "text": "A triathalon consists of swimming, bicycling and \na long-distance run at the end. It's something \nthat requires quite a bit of stamina.",
             "choice_data_list": [
-                "<size=39>I thought you weren't going to participate.</size>",
-                "<size=39>I thought you weren't going to participate.</size>"
+                "I thought you weren't going to participate.",
+                "I thought you weren't going to participate."
             ]
         },
         {
-            "text": "Yes… my specialty is medium distance, and the only thing I can \ndo is \"escape\" so I didn't think I was suited for it…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But…",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Um, Trainer-san. Would it be fine for me to enter?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "For the sake of having no regrets… I'd like to give it a try.",
             "name": "Silence Suzuka",
+            "text": "Yes… my specialty is medium distance, and the only thing I can \ndo is \"escape\" so I didn't think I was suited for it…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But…"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um, Trainer-san. Would it be fine for me to enter?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "For the sake of having no regrets… I'd like to give it a try.",
             "choice_data_list": [
-                "<size=30>In that case, I'll support you to the best of my abilities.</size>",
-                "<size=30>In that case, I'll support you to the best of my abilities.</size>"
+                "In that case, I'll support you to the best of my abilities.",
+                "In that case, I'll support you to the best of my abilities."
             ]
         },
         {
-            "text": "Yes, please. I'll also run to the best of my abilities.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Yes, please. I'll also run to the best of my abilities."
         },
         {
             "text": "And so, Silence Suzuka's participation in the Triathalon was \ndecided. Then, the day of the race-"
         },
         {
-            "text": "There are quite a few participants… I wonder if a lot of them \nare doing this as part of training…",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "There are quite a few participants… I wonder if a lot of them \nare doing this as part of training…"
         },
         {
-            "text": "…but, I'm the same. From start to finish, \nI'll just run at my own pace.",
             "name": "Silence Suzuka",
+            "text": "…but, I'm the same. From start to finish, \nI'll just run at my own pace.",
             "choice_data_list": [
-                "<size=32>Are you going to try something other than escape?</size>",
-                "<size=32>Are you going to try something other than escape?</size>"
+                "Are you going to try something other than escape?",
+                "Are you going to try something other than escape?"
             ]
         },
         {
-            "text": "No, I will run in the only way I can.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "No, I will run in the only way I can."
         },
         {
-            "text": "Um, Trainer-san. …will you listen to a request?",
             "name": "Silence Suzuka",
+            "text": "Um, Trainer-san. …will you listen to a request?",
             "choice_data_list": [
                 "A request?"
             ]
         },
         {
-            "text": "-A reward. I'd like you to prepare one and wait for me.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "-A reward. I'd like you to prepare one and wait for me."
         },
         {
-            "text": "Um, that's right… Since there's going to be a Summer Festival \ntonight, how about accompanying me…?",
             "name": "Silence Suzuka",
+            "text": "Um, that's right… Since there's going to be a Summer Festival \ntonight, how about accompanying me…?",
             "choice_data_list": [
                 "I'll treat you at a food stall"
             ]
         },
         {
-            "text": "Thank you very much. Then… I'll be off.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Thank you very much. Then… I'll be off."
         },
         {
             "text": "And so, at last, the Triathalon started."
         },
         {
-            "text": "First up, it's swimming in the open ocean! It may look calm, but \nswimming against the waves is a daunting endeavor!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Uma Musume",
+            "text": "First up, it's swimming in the open ocean! It may look calm, but \nswimming against the waves is a daunting endeavor!"
         },
         {
-            "text": "Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \nit's on the turf, or in the ocean, she won't give up the lead!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Uma Musume",
+            "text": "Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \nit's on the turf, or in the ocean, she won't give up the lead!"
         },
         {
-            "text": "Suzuka-senpai is awesome!",
-            "name": "Horsegirl A"
+            "name": "Horsegirl A",
+            "text": "Suzuka-senpai is awesome!"
         },
         {
-            "text": "But this is a Triathalon though. If she takes off like that at \nthe start, she won't last until the end.",
-            "name": "Horsegirl B"
+            "name": "Horsegirl B",
+            "text": "But this is a Triathalon though. If she takes off like that at \nthe start, she won't last until the end."
         },
         {
             "text": "Despite those concerns, during the swimming and cycling portions \nof the race, Silence Suzuka pulled farther ahead."
@@ -124,27 +124,27 @@
             "text": "However, the long distance run at the end-"
         },
         {
-            "text": "We're finally at the Triathalon's finale! \nSilence Suzuka-san is still in the lead!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Uma Musume",
+            "text": "We're finally at the Triathalon's finale! \nSilence Suzuka-san is still in the lead!"
         },
         {
-            "text": "However! Since she's been running full speed until now, she's \ngreatly slowed down! The followers are catching up!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Uma Musume",
+            "text": "However! Since she's been running full speed until now, she's \ngreatly slowed down! The followers are catching up!"
         },
         {
-            "text": "…Haa… haa… ku…!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "…Haa… haa… ku…!"
         },
         {
             "text": "From the goal, I can see Silence Suzuka's form approaching, but-"
         },
         {
-            "text": "As I thought, she must not have enough stamina left…",
-            "name": "Horsegirl B"
+            "name": "Horsegirl B",
+            "text": "As I thought, she must not have enough stamina left…"
         },
         {
-            "text": "Hey, our voices might reach her from here, let's \ncheer her on! You can do it, Suzuka-senpai!",
-            "name": "Horsegirl A"
+            "name": "Horsegirl A",
+            "text": "Hey, our voices might reach her from here, let's \ncheer her on! You can do it, Suzuka-senpai!"
         },
         {
             "text": "This Triathalon is just a part of training, \nan unimportant event- but still…",
@@ -156,84 +156,84 @@
             "text": "I didn't know if my voice would reach her, \nbut I still cheered as loud as I could."
         },
         {
-            "text": "…!!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "This scenery…I won't yield it to anyone!",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Oh! Silence Suzuka-san once again increases her speed!",
-            "name": "Announcer Uma Musume"
-        },
-        {
-            "text": "The others can't catch up! She's completely running away!",
-            "name": "Announcer Uma Musume"
-        },
-        {
-            "text": "And just like that she keeps her lead, now - GOAL! The \nTriathalon's winner is Silence Suzuka-san!",
-            "name": "Announcer Uma Musume"
-        },
-        {
-            "text": "(WHOOOOOOOOOA!!!)",
-            "name": "Cheers"
-        },
-        {
-            "text": "The shaved ice was delicious. It tastes so much \nbetter after moving my body to the fullest.",
             "name": "Silence Suzuka",
+            "text": "…!!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "This scenery…I won't yield it to anyone!"
+        },
+        {
+            "name": "Announcer Uma Musume",
+            "text": "Oh! Silence Suzuka-san once again increases her speed!"
+        },
+        {
+            "name": "Announcer Uma Musume",
+            "text": "The others can't catch up! She's completely running away!"
+        },
+        {
+            "name": "Announcer Uma Musume",
+            "text": "And just like that she keeps her lead, now - GOAL! The \nTriathalon's winner is Silence Suzuka-san!"
+        },
+        {
+            "name": "Cheers",
+            "text": "(WHOOOOOOOOOA!!!)"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The shaved ice was delicious. It tastes so much \nbetter after moving my body to the fullest.",
             "choice_data_list": [
                 "Even more so, since you won.",
                 "Even more so, since you won."
             ]
         },
         {
-            "text": "Even if it was a Triathalon, I still didn't want to give the lead \nto anyone… But since that's such a difficult thing to do, I \nwasn't planning on entering.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "But, just like the Meetup event, instead of thinking \ntoo hard about it, why not just simply run the way \nI want… that's what I was thinking.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "The reason I'm able to think like this, \nis because of you, Trainer-san.",
             "name": "Silence Suzuka",
+            "text": "Even if it was a Triathalon, I still didn't want to give the lead \nto anyone… But since that's such a difficult thing to do, I \nwasn't planning on entering."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But, just like the Meetup event, instead of thinking \ntoo hard about it, why not just simply run the way \nI want… that's what I was thinking."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "The reason I'm able to think like this, \nis because of you, Trainer-san.",
             "choice_data_list": [
                 "Participating was a good call, huh?",
                 "Participating was a good call, huh?"
             ]
         },
         {
-            "text": "Yes…Also, I've figured one more thing out.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "A place so quiet that I could only hear the wind \nand my beating heart, a world just for me… that \nwas the most important scenery to me.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "…however, that's changed just a little bit.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "With nobody else around, the only thing \nI see infront of me is Trainer-san",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "At the end, that was the scenery that pulled me forward.",
             "name": "Silence Suzuka",
+            "text": "Yes…Also, I've figured one more thing out."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A place so quiet that I could only hear the wind \nand my beating heart, a world just for me… that \nwas the most important scenery to me."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "…however, that's changed just a little bit."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "With nobody else around, the only thing \nI see infront of me is Trainer-san"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "At the end, that was the scenery that pulled me forward.",
             "choice_data_list": [
-                "<size=42>From here on, I'll be waiting at the goal</size>",
-                "<size=42>From here on, I'll be waiting at the goal</size>"
+                "From here on, I'll be waiting at the goal",
+                "From here on, I'll be waiting at the goal"
             ]
         },
         {
-            "text": "Fufuu, Thank you very much.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Fufuu, Thank you very much."
         },
         {
-            "text": "No matter the race, I will definitely lead \nand return to Trainer-san's side.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "No matter the race, I will definitely lead \nand return to Trainer-san's side."
         },
         {
             "text": "Throughout this training camp, Silence Suzuka \nhad not only improved her abilities, but had also \ngrown enough to express her feelings."

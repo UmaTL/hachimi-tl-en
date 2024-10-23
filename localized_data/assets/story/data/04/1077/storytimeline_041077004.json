@@ -5,12 +5,12 @@
             "text": "The day of the mock race……More spectators had come \nthan I expected. And not just Narita Top Road's friends――"
         },
         {
-            "text": "Let's see, how did training go……Oh? Looking a little nervous? \nWell, it's your first race as a pro trainer after all.",
-            "name": "Sensei"
+            "name": "Teacher",
+            "text": "Let's see, how did training go……Oh? Looking a little nervous? \nWell, it's your first race as a pro trainer after all."
         },
         {
+            "name": "Teacher",
             "text": "Hahaa, go out there and enjoy it to the fullest! \nI'm expecting great things from you!",
-            "name": "Sensei",
             "choice_data_list": [
                 "Don't put more pressure on me……"
             ]
@@ -22,8 +22,8 @@
             "text": "Since becoming a pro, and since teaming up with \nNarita Top Road, it's my first race. Considering \nthat, anything more than that would……"
         },
         {
-            "text": "Fufuu. I'm getting really motivated. If they're cheering \nthat much for me, then I'll have to show them a good run!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Fufuu. I'm getting really motivated. If they're cheering \nthat much for me, then I'll have to show them a good run!"
         },
         {
             "text": "Narita Top Road waved to her friends that came \nto cheer her on with a big smile on her face.",
@@ -32,16 +32,16 @@
             ]
         },
         {
-            "text": "Yeah?",
             "name": "Narita Top Road",
+            "text": "Yeah?",
             "choice_data_list": [
                 "Deal with so many expecatations?",
                 "Deal with so many expecatations?"
             ]
         },
         {
-            "text": "Eh……",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Eh……"
         },
         {
             "text": "I had said that out loud without thinking. There was \nalready overwhelming pressure on her from so many \nexpectations but I might have added another burden."
@@ -53,145 +53,145 @@
             "text": "No matter how much pressure I was feeling, \npassing on that uneasiness to Narita Top Road was――"
         },
         {
-            "text": "I'm completely fine! Besides, I'm happy!",
             "name": "Narita Top Road",
+            "text": "I'm completely fine! Besides, I'm happy!",
             "choice_data_list": [
                 "――――"
             ]
         },
         {
-            "text": "I think that expectations are like a \npiece of someone's dreams and wishes.",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I think that expectations are like a \npiece of someone's dreams and wishes."
         },
         {
-            "text": "That they're entrusting their dreams, their \nwishes, their feelings to someone……believing \nthat they'll be shown a wonderful scene.",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "That they're entrusting their dreams, their \nwishes, their feelings to someone……believing \nthat they'll be shown a wonderful scene."
         },
         {
-            "text": "That they're entrusting something that important, \nto me……that's something amazing, right?",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "That they're entrusting something that important, \nto me……that's something amazing, right?"
         },
         {
             "text": "――I had never thought of it that way. \nI could feel Narita Top Road's words stir within me."
         },
         {
-            "text": "Trainer-san.",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Trainer-san."
         },
         {
-            "text": "Will you try having expectations of me?",
             "name": "Narita Top Road",
+            "text": "Will you try having expectations of me?",
             "choice_data_list": [
                 "For Narita Top Road……?"
             ]
         },
         {
-            "text": "Right. That I'll win, \nthat I'll cross the goal before anyone else.",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Right. That I'll win, \nthat I'll cross the goal before anyone else."
         },
         {
-            "text": "Trainer-san's expectations……will become my strength!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Trainer-san's expectations……will become my strength!"
         },
         {
             "text": "――Dazzling. That was the only word that came to mind. \nAnd once again, that feeling of being drawn to her……"
         },
         {
-            "text": "Ah, looks like the mock race is starting, huh. \nI'm heading out, Trainer-san! Make sure you're watching me.",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "The mock race begins! And they're off!",
-            "name": "Announcer Uma Musume"
-        },
-        {
-            "text": "Haa, haa, haa, haa……!",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(Yeah, looking good……! \nI'll keep this position……and wait for a chance!)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "Looking good, looking good, Top Road!",
-            "name": "Classmate Uma Musume"
-        },
-        {
-            "text": "(……cheering. Voices filled with expectations)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(Are these a burden for Trainer-san?)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(Maybe, for Trainer-san, these words don't push \nthem forward, they are something to be carried)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(If that's the case then……I want to help lighten \nthat burden. Because, even while carrying \nthat burden, they still did their best for me)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(Will Trainer-san……have any expectations for me? \nWill they think……that I'll definitely win?)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(……I can't hear Trainer-san's voice. \nI can't hear it, but……)",
-            "name": "Narita Top Road"
-        },
-        {
-            "text": "(But maybe, just maybe……past that corner, \nbeyond that……and even further……)",
             "name": "Narita Top Road",
+            "text": "Ah, looks like the mock race is starting, huh. \nI'm heading out, Trainer-san! Make sure you're watching me."
+        },
+        {
+            "name": "Announcer Uma Musume",
+            "text": "The mock race begins! And they're off!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haa, haa, haa, haa……!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(Yeah, looking good……! \nI'll keep this position……and wait for a chance!)"
+        },
+        {
+            "name": "Classmate Uma Musume",
+            "text": "Looking good, looking good, Top Road!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(……cheering. Voices filled with expectations)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(Are these a burden for Trainer-san?)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(Maybe, for Trainer-san, these words don't push \nthem forward, they are something to be carried)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(If that's the case then……I want to help lighten \nthat burden. Because, even while carrying \nthat burden, they still did their best for me)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(Will Trainer-san……have any expectations for me? \nWill they think……that I'll definitely win?)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(……I can't hear Trainer-san's voice. \nI can't hear it, but……)"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "(But maybe, just maybe……past that corner, \nbeyond that……and even further……)",
             "choice_data_list": [
                 "Top Road! The goal's so close!!",
                 "Top Road! The goal's so close!!"
             ]
         },
         {
-            "text": "(They're waiting for me……at the goal!!)",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "(They're waiting for me……at the goal!!)"
         },
         {
             "text": "A voice cried out 『――Do your best, Narita Top Road, \nyou can do it, show them the results of your training!』"
         },
         {
-            "text": "(Trainer-san……! I want to show you…… \nthat I can cross the goal first!)",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "(Trainer-san……! I want to show you…… \nthat I can cross the goal first!)"
         },
         {
-            "text": "I'll live up to……your expectations!!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I'll live up to……your expectations!!"
         },
         {
-            "text": "Uwaaaaaaaahhh!!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Uwaaaaaaaahhh!!"
         },
         {
-            "text": "And they cross the goaaaaaaal!! First place is――!",
-            "name": "Announcer Uma Musume"
+            "name": "Announcer Uma Musume",
+            "text": "And they cross the goaaaaaaal!! First place is――!"
         },
         {
-            "text": "I……I pushed too hard……!!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I……I pushed too hard……!!"
         },
         {
             "text": "……things were perfect right up until the halfway point. \nHowever, even after all that training, she still \ncouldn't handle tight corners, unfortunately……"
         },
         {
-            "text": "I'm sorry! Even after all that training……but, but next time! \nI'll practice more! As many times as it takes.",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I'm sorry! Even after all that training……but, but next time! \nI'll practice more! As many times as it takes."
         },
         {
-            "text": "I wasn't able to live up to your expectations this time around, \nbut if you give me a little time! Then, I'll be better……!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I wasn't able to live up to your expectations this time around, \nbut if you give me a little time! Then, I'll be better……!"
         },
         {
             "text": "I could feel her desperation. \n……But even then."
         },
         {
-            "text": "T-Trainer-san?",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "T-Trainer-san?"
         },
         {
             "text": "She seemed to be overflowing with motivation \nand a will to win. Even in this atmosphere…… \neven after losing, she still had this much spirit.",
@@ -206,12 +206,12 @@
             ]
         },
         {
-            "text": "! Trainer-san……",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "! Trainer-san……"
         },
         {
-            "text": "……Yeah. I'm really frustrated……but, it was still fun!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "……Yeah. I'm really frustrated……but, it was still fun!"
         },
         {
             "text": "Right――I want to see more of her, to have more expectations \nof her. This Uma Musume named Narita Top Road."
@@ -227,31 +227,31 @@
             "text": "Next time, we'll claim victory."
         },
         {
-            "text": "Trainer-san……",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "Trainer-san……"
         },
         {
             "text": "Together with Narita Top Road, G1's wouldn't be just a dream. \nWith a big dream like that, I couldn't help but look forward to it."
         },
         {
-            "text": "! G1……",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "! G1……"
         },
         {
-            "text": "(……If I'm able to give Trainer-san \ntheir first G1 victory……What kind of……)",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "(……If I'm able to give Trainer-san \ntheir first G1 victory……What kind of……)"
         },
         {
-            "text": "(Smile would they show me?)",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "(Smile would they show me?)"
         },
         {
-            "text": "……Yeah! I'll do alot of training! \nI'll overcome my weaknesses, build up strength, and then……!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "……Yeah! I'll do alot of training! \nI'll overcome my weaknesses, build up strength, and then……!"
         },
         {
-            "text": "I'll definitely win a G1! \nWell……I'll win! I'm looking forward to this!",
-            "name": "Narita Top Road"
+            "name": "Narita Top Road",
+            "text": "I'll definitely win a G1! \nWell……I'll win! I'm looking forward to this!"
         }
     ]
 }

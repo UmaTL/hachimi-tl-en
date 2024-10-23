@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Bandaged Up Horsegirl",
@@ -6,20 +7,20 @@
         },
         {
             "name": "Rookie Trainer",
-            "text": "I was doing it for you! I thought… it was the only way to achieve your dreams, to win the triple classic crown…!"
+            "text": "I was doing it for you! I thought… it was the only way to \nachieve your dreams, to win the triple classic crown…!"
         },
         {
-            "text": "It was a short while after I become a trainer at Tracen Academy. I came across the loud voices of a trainer and a horsegirl carrying a bunch of luggage."
+            "text": "It was a short while after I become a trainer at Tracen Academy. \nI came across the loud voices of a trainer and a horsegirl \ncarrying a bunch of luggage."
         },
         {
             "name": "Bandaged Up Horsegirl",
-            "text": "If I'd known… I don't want it to end like this…… I wish I'd never met you……!"
+            "text": "If I'd known… I don't want it to end like this…… \nI wish I'd never met you……!"
         },
         {
-            "text": "A trainer's skill determines how a horsegirl will develop. Their results, their abilities, their future. This event was a painful reminder—"
+            "text": "A trainer's skill determines how a horsegirl will develop. \nTheir results, their abilities, their future. \nThis event was a painful reminder—"
         },
         {
-            "text": "The image of her tearful face would not leave my mind for some time."
+            "text": "The image of her tearful face would not \nleave my mind for some time."
         },
         {
             "name": "Ines Fujin",
@@ -31,54 +32,54 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Thanks! Two <i>regular</i> for this table!"
+            "text": "Thanks! \nTwo <i>regular</i> for this table!"
         },
         {
-            "text": "A few days later, I was visiting a nearby ramen place with a fellow trainer."
+            "text": "A few days later, I was visiting a nearby \nramen place with a fellow trainer."
         },
         {
             "name": "Trainer Colleague",
-            "text": "I heard you're having second thoughts about scouting. What, have you lost your confidence?",
+            "text": "I heard you're having second thoughts about scouting. \nWhat, have you lost your confidence?",
             "choice_data_list": [
                 "Just realising their lives \nrest on my shoulders……"
             ]
         },
         {
             "name": "Trainer Colleague",
-            "text": "…… Well, it's not like I don't understand you. All the horsegirls who come to the academy stake their whole lives on the Twinkle Series."
+            "text": "…… Well, it's not like I don't understand you. \nAll the horsegirls who come to the academy \nstake their whole lives on the Twinkle Series."
         },
         {
             "name": "Ines Fujin",
-            "text": "…… …… \"Trainers\" have it rough too, huh."
+            "text": "…… \n…… \"Trainers\" have it rough too, huh."
         },
         {
             "name": "Trainer Colleague",
-            "text": "But hey, don't worry yourself sick. You won't be any better off without a job.",
+            "text": "But hey, don't worry yourself sick. \nYou won't be any better off without a job.",
             "choice_data_list": [
                 "You're right.",
                 "I guess so."
             ]
         },
         {
-            "text": "There's no use in dwelling on it. Start fresh tomorrow. As I tried to resolve myself to that while walking to the train station—"
+            "text": "There's no use in dwelling on it. Start fresh tomorrow. \nAs I tried to resolve myself to that while walking \nto the train station—"
         },
         {
             "name": "Ines Fujin",
-            "text": "Heeey, hold uuup～～～! You forgot your phone～!"
+            "text": "Heeey, hold uuup～～～! \nYou forgot your phone～!"
         },
         {
-            "text": "The waiter girl came running and handed me…… A familiar looking smartphone."
+            "text": "The waiter girl came running and handed me…… \nA familiar looking smartphone."
         },
         {
             "name": "Ines Fujin",
-            "text": "Haah, I'm glad I caught up with you… Maaan, you should be more careful with this, it's full of personal information!",
+            "text": "Haah, I'm glad I caught up with you… Maaan, you should \nbe more careful with this, it's full of personal information!",
             "choice_data_list": [
                 "I- I'm sorry!"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "You're lucky I'm not a bad person! Well then, be careful from now on!"
+            "text": "You're lucky I'm not a bad person! \nWell then, be careful from now on!"
         },
         {
             "text": "Wanting to thank her properly, I rushed after her and—"
@@ -90,7 +91,7 @@
             ]
         },
         {
-            "text": "Finding myself sitting on the sidewalk, I looked up at the utility pole that had hit me in the face."
+            "text": "Finding myself sitting on the sidewalk, \nI looked up at the utility pole that had hit me in the face."
         },
         {
             "name": "Ines Fujin",
@@ -105,31 +106,31 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Man… oh, man…… Pfft, pfahaha! Come on, first your phone and now this. How clumsy can you be! Aha, ahaha……!"
+            "text": "Man… oh, man…… Pfft, pfahaha! \nCome on, first your phone and now this. \nHow clumsy can you be! Aha, ahaha……!"
         },
         {
-            "text": "Ines Fujin couldn't stop laughing for a bit… But then extended her right hand to me —"
+            "text": "Ines Fujin couldn't stop laughing for a bit… \nBut then extended her right hand to me —"
         },
         {
             "name": "Ines Fujin",
             "text": "― Haaaaah…… Think you can stand up?"
         },
         {
-            "text": "She gently pulled me to my feet. One day some time later, our paths would cross again at an unexpected place."
+            "text": "She gently pulled me to my feet. \nOne day some time later, our paths would \ncross again at an unexpected place."
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>Ha, haah, haa…… </i>"
+            "text": "<i>Ha, haah, haa…… \n</i>"
         },
         {
-            "text": "Ines Fujin was leading the pack in a mock race. Already at the final corner, the horsegirls in the back were making their moves!"
+            "text": "Ines Fujin was leading the pack in a mock race. \nAlready at the final corner, the horsegirls \nin the back were making their moves!"
         },
         {
             "name": "Mejiro Ryan",
             "text": "Haaaaah!"
         },
         {
-            "text": "Overtaken, Ines Fujin looked completely different from the gentle girl I saw that evening. In her round eyes now a devious sparkle, her mouth curled like a predator on the hunt. And then—"
+            "text": "Overtaken, Ines Fujin looked completely different from the gentle \ngirl I saw that evening. In her round eyes now a devious sparkle, \nher mouth curled like a predator on the hunt. And then—"
         },
         {
             "name": "Ines Fujin",
@@ -139,24 +140,24 @@
             "text": "\"Don't take my lead\""
         },
         {
-            "text": "So her back seemed to scream from the turf. With such ferocity, I could almost hear it."
+            "text": "So her back seemed to scream from the turf. \nWith such ferocity, I could almost hear it."
         },
         {
-            "text": "― My eyes were glued to her. I wanted to see her future up close, I wanted to scout her as soon as possible and stepped forwards. But —",
+            "text": "― My eyes were glued to her. I wanted to see \nher future up close, I wanted to scout her as soon \nas possible and stepped forwards. But —",
             "choice_data_list": [
                 "(Should I really scout her?)",
                 "(Should I really scout her?)"
             ]
         },
         {
-            "text": "Suddenly, those words came to mind. Then, as if to drive home the point, the words and expression of that horsegirl followed."
+            "text": "Suddenly, those words came to mind. \nThen, as if to drive home the point, the words \nand expression of that horsegirl followed."
         },
         {
             "name": "Bandaged Up Horsegirl",
             "text": "I wish I'd never met you……!"
         },
         {
-            "text": "I stopped in my tracks…… and as various thoughts crossed my mind, Ines Fujin had left the grounds."
+            "text": "I stopped in my tracks…… and as various thoughts \ncrossed my mind, Ines Fujin had left the grounds."
         }
     ]
 }

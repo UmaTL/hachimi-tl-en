@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "My head hurts...",
@@ -18,11 +19,11 @@
             ]
         },
         {
-            "text": "Agnes Tachyon is a horse girl with tremendous ability. Even a rookie trainer like myself has heard of her. But to think that she'd actually stand before me..."
+            "text": "Agnes Tachyon is a horse girl with tremendous ability. \nEven a rookie trainer like myself has heard of her. \nBut to think that she'd actually stand before me..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You appear to be a bit confused. You did just regain consciousness, so it's best to not exert yourself."
+            "text": "You appear to be a bit confused. You did just regain \nconsciousness, so it's best to not exert yourself."
         },
         {
             "name": "Agnes Tachyon",
@@ -33,17 +34,17 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Now then, you're probably wondering how you ended up in this situation. Remember anything?"
+            "text": "Now then, you're probably wondering how you \nended up in this situation. Remember anything?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "By the way, I was the one who brought you over here. Therefore, what you need to remember is \"how\" and \"why\" you blacked out.",
+            "text": "By the way, I was the one who brought you over here. Therefore, \nwhat you need to remember is \"how\" and \"why\" you blacked out.",
             "choice_data_list": [
                 "Umm..."
             ]
         },
         {
-            "text": "I somehow managed to wrap my throbbing head around this. If I recall correctly, I was walking down the hallway when..."
+            "text": "I somehow managed to wrap my throbbing head around this. \nIf I recall correctly, I was walking down the hallway when..."
         },
         {
             "name": "Sakura Bakushin O",
@@ -51,7 +52,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh my. Whatever is the matter, my dear Bakushin O? It's not like your beloved classroom was burned to a crisp."
+            "text": "Oh my. Whatever is the matter, my dear Bakushin O? \nIt's not like your beloved classroom was burned to a crisp."
         },
         {
             "name": "Sakura Bakushin O",
@@ -63,15 +64,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The class prez commands you to stooooop! There is nothing \"well\" about this at all!"
+            "text": "The class prez commands you to stooooop! \nThere is nothing \"well\" about this at all!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It may not be burned to a crisp, but it was very much close to being that!"
+            "text": "It may not be burned to a crisp, \nbut it was very much close to being that!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "There was only a little smoke in the corner, no? Would a class president really be this worked up about that?"
+            "text": "There was only a little smoke in the corner, no? \nWould a class president really be this worked up about that?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -79,19 +80,19 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Would a benevolent class president forgive something so trivial like filling an entire classroom with smoke...?"
+            "text": "Would a benevolent class president forgive something \nso trivial like filling an entire classroom with smoke...?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Leniency is a virtue, Class President. If that's all, I'll truly be leaving now—"
+            "text": "Leniency is a virtue, Class President. \nIf that's all, I'll truly be leaving now—"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "...Wait, no! Come to think of it, the teacher said \"bring her to me no matter what she says\" eight times!"
+            "text": "...Wait, no! Come to think of it, the teacher said \n\"bring her to me no matter what she says\" eight times!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And because of that, I'm not letting you go so easily, Tachyon-saaaan!"
+            "text": "And because of that, I'm not letting you go so easily, \nTachyon-saaaan!"
         },
         {
             "name": "Agnes Tachyon",
@@ -99,11 +100,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm not going to let you get awayyyy! Bakushin bakushiiiin!"
+            "text": "I'm not going to let you get awayyyy! \nBakushin bakushiiiin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah! Trainer over there! Don't let Tachyon-san get awayyyy!",
+            "text": "Ah! Trainer over there! \nDon't let Tachyon-san get awayyyy!",
             "choice_data_list": [
                 "(M-Me...?!)",
                 "(M-Me...?!)"
@@ -121,23 +122,23 @@
             "text": "...Hmm, it seems you have recovered some of your memories."
         },
         {
-            "text": "After regaining memory, I realize that the girl in front of me is the one responsible for filling a whole classroom with smoke...",
+            "text": "After regaining memory, I realize that the girl in front of me is \nthe one responsible for filling a whole classroom with smoke...",
             "choice_data_list": [
                 "Why would you do that...?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What a strange question to ask. There's no other answer to this than \"it's part of my research\"!"
+            "text": "What a strange question to ask. \nThere's no other answer to this than \"it's part of my research\"!"
         },
         {
-            "text": "When Agnes Tachyon said \"research,\" a mysterious sparkle appeared in her eyes.",
+            "text": "When Agnes Tachyon said \"research,\" \na mysterious sparkle appeared in her eyes.",
             "choice_data_list": [
                 "(I have a bad feeling about this...)"
             ]
         },
         {
-            "text": "It's best to not get involved with her. I was about to stand up when I realized—"
+            "text": "It's best to not get involved with her. \nI was about to stand up when I realized—"
         },
         {
             "text": "*creak*",
@@ -150,37 +151,37 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Are you the type of person to get so lost in thought that you forget your surroundings? I'm also the same, so I can't say I don't know how that feels."
+            "text": "Are you the type of person to get so lost in thought that you \nforget your surroundings? I'm also the same, so I can't say I \ndon't know how that feels."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Nevertheless, I shall kindly advise you to keep an eye on your surroundings at all times."
+            "text": "Nevertheless, I shall kindly advise you to \nkeep an eye on your surroundings at all times."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "After all, you'll never know when you run into a researcher that's looking for a healthy, adult male test subject.",
+            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult male test subject.",
             "choice_data_list": [
                 "T-Test subject...?!"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "After all, you'll never know when you run into a researcher that's looking for a healthy, adult female test subject.",
+            "text": "After all, you'll never know when you run into a researcher \nthat's looking for a healthy, adult female test subject.",
             "choice_data_list": [
                 "T-Test subject...?!"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As for me, I'd say it's good luck that you came around. Maybe I should thank God every once in a while."
+            "text": "As for me, I'd say it's good luck that you came around. \nMaybe I should thank God every once in a while."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Everyone in the school knows me at this point. I can barely ask anyone to be my test subject before they run away from me."
+            "text": "Everyone in the school knows me at this point. I can barely ask \nanyone to be my test subject before they run away from me."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Despite all of that— Hahaha! A total newcomer who has never heard of the rumors about me manifested right in front of my eyes! What are the chances?"
+            "text": "Despite all of that— Hahaha! \nA total newcomer who has never heard of the rumors about me \nmanifested right in front of my eyes! What are the chances?"
         },
         {
             "name": "Agnes Tachyon",
@@ -195,7 +196,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "That aside, I'll be giving you a— Actually, since you're big and strong, I'll be giving you three pills to take.",
+            "text": "That aside, I'll be giving you a— Actually, since you're \nbig and strong, I'll be giving you three pills to take.",
             "choice_data_list": [
                 "What are these pills for...?"
             ]
@@ -206,15 +207,15 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Don't worry about it... The worst that could happen is both of your legs would start glowing green for while. Isn't that a cute side effect?"
+            "text": "Don't worry about it... The worst that could happen is \nboth of your legs would start glowing green for while. \nIsn't that a cute side effect?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What's more important is being able to observe the effects of the human quadriceps contracting caused by this drug."
+            "text": "What's more important is being able to observe the effects \nof the human quadriceps contracting caused by this drug."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It is a well known fact that horse girls and humans have almost identical body structures. However, by comparing symptoms from both species, it's possible to develop a new—"
+            "text": "It is a well known fact that horse girls and humans have \nalmost identical body structures. However, by comparing \nsymptoms from both species, it's possible to develop a new—"
         },
         {
             "name": "Manhattan Cafe",
@@ -222,11 +223,11 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Why, hello, Cafe! What's the matter? Are you going to help me with my experi—"
+            "text": "Why, hello, Cafe! What's the matter? \nAre you going to help me with my experi—"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I am not. I'm only here because the teacher's calling you... It seems they want to discuss your participation in the Selection Race..."
+            "text": "I am not. I'm only here because the teacher's \ncalling you... It seems they want to discuss your \nparticipation in the Selection Race..."
         },
         {
             "name": "Manhattan Cafe",
@@ -234,7 +235,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Alright, alright. I get it. No need to make that scary face at me! Looks like we're out of time. I'll be conducting the tests at a later date."
+            "text": "Alright, alright. I get it. No need to make \nthat scary face at me! Looks like we're out of time. \nI'll be conducting the tests at a later date."
         },
         {
             "name": "Agnes Tachyon",

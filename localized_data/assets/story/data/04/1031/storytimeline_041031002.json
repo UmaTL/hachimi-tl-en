@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after. Unable to shake my doubts, I wandered to the track. A mock race was being held, and things looked surprisingly lively."
+            "text": "The day after. Unable to shake my doubts, I wandered \nto the track. A mock race was being held, and \nthings looked surprisingly lively."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Wow, Mr. C.B. is really running! The last corner is coming up, which means―!"
+            "text": "Wow, Mr. C.B. is really running! \nThe last corner is coming up, which means―!"
         },
         {
             "name": "Ines Fujin",
-            "text": "Yep, here we go……! Her piercing lunge from the back!"
+            "text": "Yep, here we go……! \nHer piercing lunge from the back!"
         },
         {
             "name": "Mr. C.B.",
@@ -19,11 +20,11 @@
             "text": "(<i>Waaaaaaaaaaah!</i>)"
         },
         {
-            "text": "The trackside excitement lingered after the racing horsegirls had left. Most animated among the spectating crowd was—"
+            "text": "The trackside excitement lingered after the racing horsegirls \nhad left. Most animated among the spectating crowd was—"
         },
         {
             "name": "Ines Fujin",
-            "text": "…… Amazing. Amazing! Amazing, amazing, amazing!! I wanna run now! I wanna ruuun!!"
+            "text": "…… Amazing. Amazing! Amazing, amazing, amazing!! \nI wanna run now! I wanna ruuun!!"
         },
         {
             "name": "Ines Fujin",
@@ -35,7 +36,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "How do you expect us <i>not</i> to be hyped after that race! So bring it, Ines!"
+            "text": "How do you expect us <i>not</i> to be hyped after that race! \nSo bring it, Ines!"
         },
         {
             "name": "Daitaku Helios",
@@ -43,11 +44,11 @@
         },
         {
             "name": "Spectating Horsegirl",
-            "text": "Ueh, what the?! This a 2400m race, yeah?! How are they gonna run that at this pace…!?"
+            "text": "Ueh, what the?! This a 2400m race, yeah?! \nHow are they gonna run that at this pace…!?"
         },
         {
             "name": "Ines Fujin",
-            "text": "(200m left! I hear Palmer's and Helios' steps! 3m, 2m…… no, even closer ―)"
+            "text": "(200m left! I hear Palmer's and Helios' steps! \n3m, 2m…… no, even closer ―)"
         },
         {
             "name": "Ines Fujin",
@@ -55,7 +56,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "(Who cares about limits! When I can still feel the heat of the race earlier lingering over the turf? There's only fast, and faster! Faster, faster, fasteeer!)"
+            "text": "(Who cares about limits! When I can still feel the heat of \nthe race earlier lingering over the turf? There's only fast, \nand faster! Faster, faster, fasteeer!)"
         },
         {
             "name": "Ines Fujin",
@@ -67,15 +68,15 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>……! Pheh, hah, phah…… phuh, phaa……! </i>"
+            "text": "<i>……! \nPheh, hah, phah…… phuh, phaa……! \n</i>"
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Yo, are you alright? Ines? You just don't have any brakes, do you, girl."
+            "text": "Yo, are you alright? Ines? \nYou just don't have any brakes, do you, girl."
         },
         {
             "name": "Ines Fujin",
-            "text": "Haaaa — Ahaha, I'm alright, I'm alright. Nah, actually, I feel amazing."
+            "text": "Haaaa — \nAhaha, I'm alright, I'm alright. Nah, actually, I feel amazing."
         },
         {
             "name": "Daitaku Helios",
@@ -83,28 +84,28 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Heh… as ever, her usual sisterly energy just disappears when she's racing."
+            "text": "Heh… as ever, her usual sisterly energy \njust disappears when she's racing."
         },
         {
-            "text": "My pulse was racing too. I couldn't get the sight of her running — an animalistic figure with no restraint on the turf — out of my mind.",
+            "text": "My pulse was racing too. I couldn't get the sight \nof her running — an animalistic figure with no \nrestraint on the turf — out of my mind.",
             "choice_data_list": [
                 "(She's a whole different beast in a race.)"
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "…… I can't let myself get beat either! Right, time to get changed and go train train train these muscles!"
+            "text": "…… I can't let myself get beat either! Right, time to \nget changed and go train train train these muscles!"
         },
         {
-            "text": "Unable to take my eyes off her, I watched her catch her breath for a while…… until she noticed and came over to me."
-        },
-        {
-            "name": "Ines Fujin",
-            "text": "Oh, you're the phone person from the other day! I knew you were a trainer at Tracen Academy!"
+            "text": "Unable to take my eyes off her, I watched her catch her breath \nfor a while…… until she noticed and came over to me."
         },
         {
             "name": "Ines Fujin",
-            "text": "You've been gazing at me for a while, right? Can I help you?",
+            "text": "Oh, you're the phone person from the other day! \nI knew you were a trainer at Tracen Academy!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You've been gazing at me for a while, right? \nCan I help you?",
             "choice_data_list": [
                 "Oh, uhhh… I see you like racing.",
                 "Oh, uhhh… I see you like racing."
@@ -116,35 +117,35 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Running makes me all… bouncy and energetic! I just… can't stop myself from going forward!"
+            "text": "Running makes me all… bouncy and energetic! \nI just… can't stop myself from going forward!"
         },
         {
             "name": "Ines Fujin",
-            "text": "And when I'm out at the front, it's like my whole body tingles, I feel so good… it's just amazingly wonderful!"
+            "text": "And when I'm out at the front, it's like my whole body tingles, \nI feel so good… it's just amazingly wonderful!"
         },
         {
             "name": "Ines Fujin",
-            "text": "That feeling…… You'd understand if you were a horsegirl, I'm sure.",
+            "text": "That feeling…… \nYou'd understand if you were a horsegirl, I'm sure.",
             "choice_data_list": [
                 "I think I get it just looking."
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Ahaha, I see. ……Oh, right! Since you were watching me all race―"
+            "text": "Ahaha, I see. ……Oh, right! \nSince you were watching me all race―"
         },
         {
             "name": "Ines Fujin",
-            "text": "What did you think? I'm sure I can still run faster! Could you give me some advice from a pro's point of view?"
+            "text": "What did you think? I'm sure I can still run faster! \nCould you give me some advice from a pro's point of view?"
         },
         {
-            "text": "I thought back on the recent races I saw. There's no doubt that her innate speed and strong desire to run ahead are incredibly suited to an <i>escape</i> strategy."
+            "text": "I thought back on the recent races I saw. There's no doubt \nthat her innate speed and strong desire to run ahead \nare incredibly suited to an <i>escape</i> strategy."
         },
         {
-            "text": "But even so, there are many different approaches to that. Some try to control the race from an early advantage, others try to outrun by keeping an even pace all the way."
+            "text": "But even so, there are many different approaches to that. \nSome try to control the race from an early advantage, \nothers try to outrun by keeping an even pace all the way."
         },
         {
-            "text": "I told her I would need to gain a deeper understanding of her and the way she runs first, to think of fitting advice that would help her become stronger."
+            "text": "I told her I would need to gain a deeper understanding of her \nand the way she runs first, to think of fitting advice that would \nhelp her become stronger."
         },
         {
             "name": "Ines Fujin",
@@ -159,36 +160,36 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Now, now, hear me out. I don't think it's a bad deal to you. … Actually, I'm gonna be running at the next Race Meet."
+            "text": "Now, now, hear me out. I don't think it's a bad deal to you. \n… Actually, I'm gonna be running at the next Race Meet."
         },
         {
-            "text": "The Semiannual Race Meet is an in-academy event in which horsegirls choose the races they enter themselves, to allow them to probe their own skills and abilities."
-        },
-        {
-            "name": "Ines Fujin",
-            "text": "My family's coming to watch, so you know. I thought it'd be a good chance to show them \"hey, I'm doing my best and growing at this academy\"."
+            "text": "The Semiannual Race Meet is an in-academy event in which \nhorsegirls choose the races they enter themselves, \nto allow them to probe their own skills and abilities."
         },
         {
             "name": "Ines Fujin",
-            "text": "But training on my own just isn't efficient enough. I've been thinking I'd really like to have a specialist to guide me. And for you —"
+            "text": "My family's coming to watch, so you know. I thought \nit'd be a good chance to show them \"hey, I'm doing \nmy best and growing at this academy\"."
         },
         {
             "name": "Ines Fujin",
-            "text": "You don't have the confidence to be a \"trainer\"— the confidence to lead and be responsible for somebody yet, do you?",
+            "text": "But training on my own just isn't efficient enough. \nI've been thinking I'd really like to have a specialist \nto guide me. And for you —"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You don't have the confidence to be a \"trainer\"— \nthe confidence to lead and be responsible for \nsomebody yet, do you?",
             "choice_data_list": [
                 "How did you―!?"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Ah, weeell, I kinda overheard you? But anyway, it could be a good chance to develop your confidence training with me, right?"
+            "text": "Ah, weeell, I kinda overheard you? \nBut anyway, it could be a good chance to develop \nyour confidence training with me, right?"
         },
         {
             "name": "Ines Fujin",
-            "text": "I mean, this is a win-win proposition! So, I'll see you tomorrow, alright?♪"
+            "text": "I mean, this is a win-win proposition! \nSo, I'll see you tomorrow, alright?♪"
         },
         {
-            "text": "And just like that, I entered an unexpected provisional agreement with Ines Fujin."
+            "text": "And just like that, I entered an unexpected \nprovisional agreement with Ines Fujin."
         }
     ]
 }

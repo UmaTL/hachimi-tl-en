@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "One day, at training…"
@@ -12,11 +13,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Oh, uh, my horseshoes. I thought something felt a little off while I was running back there."
+            "text": "Oh, uh, my horseshoes. I thought something felt a little off \nwhile I was running back there."
         },
         {
             "name": "Nice Nature",
-            "text": "And now I see why. Look at that, they're worn completely flat already. Guess it's time to buy some more.",
+            "text": "And now I see why. Look at that, they're worn completely flat \nalready. Guess it's time to buy some more.",
             "choice_data_list": [
                 "Just goes to show how hard you're training!",
                 "Just goes to show how hard you're training!"
@@ -28,15 +29,15 @@
         },
         {
             "name": "Nice Nature",
-            "text": "So, uh, hey, are you free on Sunday? You couldn't come with me and help pick out some new shoes, could you?"
+            "text": "So, uh, hey, are you free on Sunday? You couldn't come \nwith me and help pick out some new shoes, could you?"
         },
         {
             "name": "Nice Nature",
-            "text": "You know how it is. They got all kinds of fancy ones, but I always just end up buying the same ones I always do."
+            "text": "You know how it is. They got all kinds of fancy ones, but I \nalways just end up buying the same ones I always do."
         },
         {
             "name": "Nice Nature",
-            "text": "But I thought maybe if you came along you might be able to help me find something that works better for me.",
+            "text": "But I thought maybe if you came along you might be able \nto help me find something that works better for me.",
             "choice_data_list": [
                 "Sure thing."
             ]
@@ -50,30 +51,30 @@
         },
         {
             "name": "Nice Nature",
-            "text": "You know, I always just get everything at the shop on campus… I feel a little nervous coming to a fancy specialist place like this…"
+            "text": "You know, I always just get everything at the \nshop on campus… I feel a little nervous coming \nto a fancy specialist place like this…"
         },
         {
             "name": "Nice Nature",
-            "text": "And just look at all the stuff they've got. There's so many different kinds of shoes here, I've no idea how to tell the good ones apart."
+            "text": "And just look at all the stuff they've got. There's \nso many different kinds of shoes here, I've no \nidea how to tell the good ones apart."
         },
         {
             "name": "Nice Nature",
-            "text": "Now, watermelons? Those I can do! I got the nice old lady at the greengrocer's to show me how to pick the sweet ones every time! But shoes…"
+            "text": "Now, watermelons? Those I can do! I got the nice \nold lady at the greengrocer's to show me how to \npick the sweet ones every time! But shoes…"
         },
         {
             "name": "Nice Nature",
-            "text": "Well, trainer-san, that's your cue! You'll find me something just right, now, won't you?"
+            "text": "Well, trainer-san, that's your cue! You'll find me \nsomething just right, now, won't you?"
         },
         {
-            "text": "So I talked Nice Nature through the pros and cons of all the different designs and variations, until we settled on a pair we thought was just right."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Heehee… I can't wait to try these out. Just what kind of shoes have you chosen for me I wonder…?"
+            "text": "So I talked Nice Nature through the pros and cons of all the \ndifferent designs and variations, until we settled on a pair we \nthought was just right."
         },
         {
             "name": "Nice Nature",
-            "text": "But you really do have a good eye… you know all about my form, how I push against the ground when I run…",
+            "text": "Heehee… I can't wait to try these out. Just what kind of shoes \nhave you chosen for me I wonder…?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "But you really do have a good eye… you know all about \nmy form, how I push against the ground when I run…",
             "choice_data_list": [
                 "Well… I am your trainer!",
                 "Well… I am your trainer!"
@@ -81,26 +82,26 @@
         },
         {
             "name": "Nice Nature",
-            "text": "I guess that's why you're a professional, huh. You're watching every little detail… I'm impressed!"
+            "text": "I guess that's why you're a professional, huh. You're watching \nevery little detail… I'm impressed!"
         },
         {
             "name": "Nice Nature",
             "text": "Welp… guess we should be getting back to the academy before… ah."
         },
         {
-            "text": "Nice Nature looked like she'd noticed something, and went over to look in a nearby shop window."
+            "text": "Nice Nature looked like she'd noticed something, \nand went over to look in a nearby shop window."
         },
         {
             "name": "Nice Nature",
-            "text": "Hey, I recognize that outfit. I saw it in that magazine the other day… wow, it's really something when you see it up close…"
+            "text": "Hey, I recognize that outfit. I saw it in that magazine the other \nday… wow, it's really something when you see it up close…"
         },
         {
             "name": "Nice Nature",
-            "text": "Maybe just a little too girly, though…? But I do like that color… hmmm…"
+            "text": "Maybe just a little too girly, though…? \nBut I do like that color… hmmm…"
         },
         {
             "name": "Nice Nature",
-            "text": "Ah! Sorry, sorry! Look at me, just wandering off without saying anything. Something just kind of caught my eye, that's all.",
+            "text": "Ah! Sorry, sorry! Look at me, just wandering off without saying \nanything. Something just kind of caught my eye, that's all.",
             "choice_data_list": [
                 "That's alright. Take all the time you need."
             ]
@@ -111,11 +112,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "You know how it is… even if you see an outfit in a magazine and you think it looks nice… when you get a chance to actually buy it you suddenly have a dozen reasons not to…"
+            "text": "You know how it is… even if you see an outfit in a magazine \nand you think it looks nice… when you get a chance to \nactually buy it you suddenly have a dozen reasons not to…"
         },
         {
             "name": "Nice Nature",
-            "text": "\"Ah it probably just looks nice 'cause the model's pretty\"… you know, that sort of thing.",
+            "text": "\"Ah it probably just looks nice 'cause the model's pretty\"… \nyou know, that sort of thing.",
             "choice_data_list": [
                 "Well if you try it on then you'll know, right?"
             ]
@@ -125,48 +126,48 @@
             "text": "A-hahaha… yeah I'll know alright. Know how dumb I look!"
         },
         {
-            "text": "Good afternoon! If I might assist you, the fitting rooms are right this way…!"
+            "text": "Good afternoon! If I might assist you, \nthe fitting rooms are right this way…!"
         },
         {
             "name": "Nice Nature",
             "text": "N… no, I'm fine, really. I don't think it's my style."
         },
         {
-            "text": "Nonsense! Why, if we just raised those pigtails a tiny bit it would change your whole silhouette and match perfectly!"
+            "text": "Nonsense! Why, if we just raised those pigtails a tiny bit it \nwould change your whole silhouette and match perfectly!"
         },
         {
             "name": "Nice Nature",
-            "text": "Oh yeah, you know you might be… ahh! You almost had me for a second there! You're good at this, huh!",
+            "text": "Oh yeah, you know you might be… ahh! You almost \nhad me for a second there! You're good at this, huh!",
             "choice_data_list": [
                 "I think she's right, you could carry that off."
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Trainer-san!? Are you on their side too now? No, uh, I, um…"
+            "text": "Trainer-san!? Are you on their side too now? \nNo, uh, I, um…"
         },
         {
             "name": "Nice Nature",
-            "text": "A-hah! I already bought those nice horseshoes! My shopping budget's all spoken for already. Yeah, that's it!"
+            "text": "A-hah! I already bought those nice horseshoes! My shopping \nbudget's all spoken for already. Yeah, that's it!"
         },
         {
             "name": "Nice Nature",
-            "text": "So! If you'll excuse, I really must be going, goodbye…! C'mon, Trainer-san, I said we're going."
+            "text": "So! If you'll excuse, I really must be going, goodbye…! \nC'mon, Trainer-san, I said we're going."
         },
         {
             "name": "Nice Nature",
-            "text": "Whew, that was a close one. Almost got me into the changing room there."
+            "text": "Whew, that was a close one. Almost got \nme into the changing room there."
         },
         {
             "name": "Nice Nature",
-            "text": "I gotta say, I wasn't ready for you and that sales lady to gang up on me like that!",
+            "text": "I gotta say, I wasn't ready for you and that \nsales lady to gang up on me like that!",
             "choice_data_list": [
                 "Honestly, I think it would have looked good."
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "You just don't quit, do you!? Flattery'll get you nowhere, you know.",
+            "text": "You just don't quit, do you!? Flattery'll \nget you nowhere, you know.",
             "choice_data_list": [
                 "You said it yourself: I've got a good eye!",
                 "You said it yourself: I've got a good eye!"
@@ -174,14 +175,14 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Yeah, for training stuff! What are you my personal stylist now, too!?"
+            "text": "Yeah, for training stuff! What are \nyou my personal stylist now, too!?"
         },
         {
             "name": "Nice Nature",
-            "text": "Ugh. All I wanted was a pair of shoes. Why does this have to be so stressful…?"
+            "text": "Ugh. All I wanted was a pair of shoes. \nWhy does this have to be so stressful…?"
         },
         {
-            "text": "Nice Nature was happy to let me pick out her horseshoes, but letting me pick out her clothes was obviously a step too far."
+            "text": "Nice Nature was happy to let me pick out her horseshoes, but \nletting me pick out her clothes was obviously a step too far."
         }
     ]
 }

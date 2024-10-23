@@ -1,29 +1,30 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was time for the summer training camp, when all horsegirls go to the academy's seaside lodge for a period of intense training."
+            "text": "It was time for the summer training camp, when \nall horsegirls go to the academy's seaside \nlodge for a period of intense training."
         },
         {
             "text": "Or that's the idea, anyway…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The time has come! Time to test all these theories, these many hypotheses composed over many sleepless nights…"
+            "text": "The time has come! Time to test all these theories, these many \nhypotheses composed over many sleepless nights…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "My dear Trainer, how are you feeling? Did you take your temperature, what did you have for breakfast, how long did you sleep?"
+            "text": "My dear Trainer, how are you feeling? \nDid you take your temperature, what did \nyou have for breakfast, how long did you sleep?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "All could have a bearing on the outcome of our experiment! We must take care to note down every detail before we proceed!",
+            "text": "All could have a bearing on the outcome of our experiment! We \nmust take care to note down every detail before we proceed!",
             "choice_data_list": [
                 "So… were you planning on doing some training today, or…"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The theory we will be verifying pertains to running performance, so yes! You might say it's a SORT of training that we will be conducting…!"
+            "text": "The theory we will be verifying pertains to running \nperformance, so yes! You might say it's a SORT of \ntraining that we will be conducting…!"
         },
         {
             "name": "Agnes Tachyon",
@@ -34,83 +35,83 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, come now, relax! I'll be sure to stop before you lose consciousness!"
+            "text": "Oh, come now, relax! I'll be sure to \nstop before you lose consciousness!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "We shall begin by measuring your organs' energy consumption under extreme stress and cardiac load. Then we will proceed to a phased…"
+            "text": "We shall begin by measuring your organs' energy \nconsumption under extreme stress and cardiac \nload. Then we will proceed to a phased…"
         },
         {
-            "text": "Agnes Tachyon continued to reel off her test plan. It seemed she had no intention of doing any kind of conventional training herself today."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "…and that is why, rather than being bound by convention and spending these precious few days aimlessly running about in the sand, we must open our minds!"
+            "text": "Agnes Tachyon continued to reel off her test plan. \nIt seemed she had no intention of doing any kind \nof conventional training herself today."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As long as we pursue the limits of the possible… we have not a moment to waste! So! Let the experimentation begin!!"
+            "text": "…and that is why, rather than being bound by convention and \nspending these precious few days aimlessly running about in the \nsand, we must open our minds!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "First, we will use this incline here to give your cardiopulmonary functions a little nudge."
+            "text": "As long as we pursue the limits of the possible… we have not a \nmoment to waste! So! Let the experimentation begin!!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "To gather the data we need, I think three laps from here to the beach and back should suffice."
+            "text": "First, we will use this incline here to give your \ncardiopulmonary functions a little nudge."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Is the pulse oximeter securely in place? Remember, I need a solid reading at the end of each lap!"
+            "text": "To gather the data we need, I think three laps from \nhere to the beach and back should suffice."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And no matter how much it hurts, I need you to keep going! Data from your absolute physiological limit is best.",
+            "text": "Is the pulse oximeter securely in place? Remember, \nI need a solid reading at the end of each lap!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "And no matter how much it hurts, I need you to keep going! Data \nfrom your absolute physiological limit is best.",
             "choice_data_list": [
                 "Is this really necessary!?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What? All you need to do is move your arms and legs for me. Like a hamster in a wheel!"
+            "text": "What? All you need to do is move your arms and \nlegs for me. Like a hamster in a wheel!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "That said, you are only a guinea pig. I suppose it's not realistic to expect a hamster's level of physical conditioning."
+            "text": "That said, you are only a guinea pig. I suppose it's not \nrealistic to expect a hamster's level of physical conditioning."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But worry not! I will be close at hand. Someone has to stop you staggering off course after all."
+            "text": "But worry not! I will be close at hand. Someone has \nto stop you staggering off course after all."
         },
         {
             "text": "It didn't look like I was going to get out of this one."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "More! More, trainer…! Get those knees up!! Don't let your speed drop, now!"
+            "text": "More! More, trainer…! \nGet those knees up!! Don't let your speed drop, now!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Steady, regular breaths! If you break the rhythm it's only going to hurt more!",
+            "text": "Steady, regular breaths! If you break the \nrhythm it's only going to hurt more!",
             "choice_data_list": [
                 "Easy for you to say…!"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Excellent, excellent! I see you're close to your limit, keep it up! Just two more laps to go!!"
+            "text": "Excellent, excellent! I see you're close to your \nlimit, keep it up! Just two more laps to go!!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm. It seems the onset of muscle fatigue was somewhat faster than expected. I wouldn't call it \"cramp\" exactly, but I think just standing up is hard enough for you at the moment,"
+            "text": "Hmm. It seems the onset of muscle fatigue was somewhat faster \nthan expected. I wouldn't call it \"cramp\" exactly, but I think \njust standing up is hard enough for you at the moment,"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Never mind. We shall proceed to the next test. I need you to run up that incline again in your current state so that I can collect data on your respiratory function."
+            "text": "Never mind. We shall proceed to the next test. I need you to run \nup that incline again in your current state so that I can collect \ndata on your respiratory function."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "This is very important data. It could, in fact, be the very key we seek, that unlocks the doors of untold possibility!",
+            "text": "This is very important data. It could, in fact, be the very key \nwe seek, that unlocks the doors of untold possibility!",
             "choice_data_list": [
                 "I… I'll do my best…!",
                 "I… I'll do my best…!"
@@ -118,11 +119,11 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "However… looking at the color of you, I'd say we are not so much \"close\" to your physiological limit as were are… over it."
+            "text": "However… looking at the color of you, I'd say we are not so much \n\"close\" to your physiological limit as were are… over it."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Can't be helped I suppose. I must reexamine the test procedure. I can't get the data I need from you in this condition, so let's save that for another time.",
+            "text": "Can't be helped I suppose. I must reexamine the test procedure. I \ncan't get the data I need from you in this condition, so let's \nsave that for another time.",
             "choice_data_list": [
                 "Are you sure?",
                 "Are you sure?"
@@ -130,18 +131,18 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "If you wish to suffer further, I won't stop you. But rather than collecting useless data, we should perhaps direct our efforts elsewhere…"
+            "text": "If you wish to suffer further, I won't stop you. \nBut rather than collecting useless data, we should \nperhaps direct our efforts elsewhere…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But what can we do instead…? I didn't bring the necessary equipment for anything else.",
+            "text": "But what can we do instead…? I didn't bring \nthe necessary equipment for anything else.",
             "choice_data_list": [
                 "The sea's right there. Can't we use that somehow?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The sea, eh. I could have you swim in it, but without any of my equipment I'm not sure what that would accomplish."
+            "text": "The sea, eh. I could have you swim in it, but without any of my \nequipment I'm not sure what that would accomplish."
         },
         {
             "name": "Agnes Tachyon",
@@ -152,34 +153,34 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Icing, you say? Sunny day like this, I'd say the water temperature's probably around 25 celsius… Hardly the ideal temperature, but…"
+            "text": "Icing, you say? Sunny day like this, I'd say \nthe water temperature's probably around 25 celsius… \nHardly the ideal temperature, but…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It's not going to win you any prizes, but it is an idea, at least. And, admittedly, it had not occurred to me."
+            "text": "It's not going to win you any prizes, but it is an idea, at least. \nAnd, admittedly, it had not occurred to me."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "We could focus our attention on muscle contraction…? Or better yet, the insulating effect of the warm water… hmm…"
+            "text": "We could focus our attention on muscle contraction…? \nOr better yet, the insulating effect of the warm water… hmm…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I've got it! We will investigate the combined effect of buoyancy, salinity and the mechanical action of the waves on your body."
+            "text": "I've got it! We will investigate the combined effect of buoyancy, \nsalinity and the mechanical action of the waves on your body."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Interesting, very interesting. I gathered some fascinating data. Not quite enough to prove or disprove my hypothesis, but…"
+            "text": "Interesting, very interesting. I gathered some fascinating data. \nNot quite enough to prove or disprove my hypothesis, but…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But with some further work, this too might be the key that opens the doors of untold possibility!"
+            "text": "But with some further work, this too might be the \nkey that opens the doors of untold possibility!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Yes… yes…!! Trainer, dear, come with me! We must record these findings!"
+            "text": "Yes… yes…!! Trainer, dear, come with me! \nWe must record these findings!"
         },
         {
-            "text": "We went back to the lodge. While I wrote up the day's results, I helped Agnes Tachyon with her work until long after lights-out."
+            "text": "We went back to the lodge. While I wrote up the day's results, \nI helped Agnes Tachyon with her work until long after lights-out."
         },
         {
             "text": "Then, the next morning…"
@@ -190,41 +191,41 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Thank you again for your help yesterday. Thanks to you I was able to formulate a new serum based on my theory."
+            "text": "Thank you again for your help yesterday. Thanks to you I was \nable to formulate a new serum based on my theory."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "On paper, at any rate. Without my equipment here, we shall have to wait until we return to the academy to prototype it."
+            "text": "On paper, at any rate. Without my equipment here, we shall have \nto wait until we return to the academy to prototype it."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Before that, though, I'd like to pick your brain a little more. Any insights based on our work so far?",
+            "text": "Before that, though, I'd like to pick your brain a little more. \nAny insights based on our work so far?",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I want to target increased oxygen uptake efficiency during muscle contraction, and I'd like any opinions you may have on the subject."
+            "text": "I want to target increased oxygen uptake efficiency \nduring muscle contraction, and I'd like any opinions \nyou may have on the subject."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "You have a fresh perspective. As a layperson, I find you sometimes pick up on things that I do not. You have an eye for the small details."
+            "text": "You have a fresh perspective. As a layperson, \nI find you sometimes pick up on things that I do not. \nYou have an eye for the small details."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And most of all, you're the only one willing to assist me in my experiments like this every day. You might say you're my \"guinea-pig-slash-assistant\"!",
+            "text": "And most of all, you're the only one willing to assist me in my \nexperiments like this every day. You might say you're my \n\"guinea-pig-slash-assistant\"!",
             "choice_data_list": [
                 "Did you say \"assistant\"!?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Not only are you a valuable test subject, your viewpoint is valuable too. Taken together, I don't think it's too much of a stretch to call you my \"assistant\"."
+            "text": "Not only are you a valuable test subject, your viewpoint is \nvaluable too. Taken together, I don't think it's too much of a \nstretch to call you my \"assistant\"."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Both of those things are indispensable requirements for my research. So! Don't be shy! What do you have for me?",
+            "text": "Both of those things are indispensable requirements for my \nresearch. So! Don't be shy! What do you have for me?",
             "choice_data_list": [
                 "It's just… I don't think you've ever asked for my opinion before…",
                 "It's just… I don't think you've ever asked for my opinion before…"
@@ -232,22 +233,22 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Is that so? Well, in that sense, perhaps we really have pushed back the boundaries of possibility!"
+            "text": "Is that so? Well, in that sense, perhaps we really have pushed \nback the boundaries of possibility!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Rejoice, my dear! Because this could be the first step on a grand journey for you!"
+            "text": "Rejoice, my dear! Because this could be \nthe first step on a grand journey for you!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Right then! With that out of the way, we should proceed to today's experiment. Time, after all, is a finite resource!"
+            "text": "Right then! With that out of the way, we should proceed to \ntoday's experiment. Time, after all, is a finite resource!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I misjudged the intensity ramp-up yesterday, but I'm sure that this time we will observe your body at its absolute physiological limit! Let us away, trainer!!"
+            "text": "I misjudged the intensity ramp-up yesterday, but I'm sure that \nthis time we will observe your body at its absolute physiological \nlimit! Let us away, trainer!!"
         },
         {
-            "text": "I ended up running until night fell, and became all too familiar with my physiological limit…"
+            "text": "I ended up running until night fell, and became \nall too familiar with my physiological limit…"
         }
     ]
 }

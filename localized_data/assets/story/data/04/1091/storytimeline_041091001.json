@@ -1,35 +1,36 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "\"That place\" was a sparkly country."
         },
         {
-            "text": "The world's tallest tower, a showy water fountain, a desert with a golden glow! Everything that I laid my eyes on was gorgeous and screamed Celeb!"
+            "text": "The world's tallest tower, a showy water fountain, \na desert with a golden glow! Everything that I laid \nmy eyes on was gorgeous and screamed Celeb!"
         },
         {
-            "text": "Even then, I didn't hate it at all. It felt sophisticated and cool! A country at the center of attention――"
+            "text": "Even then, I didn't hate it at all. It felt sophisticated and cool! \nA country at the center of attention――"
         },
         {
             "name": "A Certain Young Uma Musume",
-            "text": "『Papa, Mama! I really like it here! I'm……gonna live here~~!』"
+            "text": "『Papa, Mama! I really like it here! \nI'm……gonna live here~~!』"
         },
         {
-            "text": "On a day off, I just felt like walking around town……and a car stopped right in front of me. From what I could tell, it seemed to be a really expensive one. And from inside――"
-        },
-        {
-            "name": "???",
-            "text": "Oop…… Mama, thanks for the ride♡ Hey hey, when's the next time we can go on a date? ……Yeah, yeah!"
+            "text": "On a day off, I just felt like walking around town……and a \ncar stopped right in front of me. From what I could tell, \nit seemed to be a really expensive one. And from inside――"
         },
         {
             "name": "???",
-            "text": "I'm serious though? Do your best at work, come and meet me again soon! I love you Mama~ chuu! Bye bye♪",
+            "text": "Oop…… Mama, thanks for the ride♡ \nHey hey, when's the next time we can go on a date? ……Yeah, yeah!"
+        },
+        {
+            "name": "???",
+            "text": "I'm serious though? Do your best at work, come and \nmeet me again soon! I love you Mama~ chuu! Bye bye♪",
             "choice_data_list": [
                 "(She seems really glitzy……)"
             ]
         },
         {
             "name": "???",
-            "text": "――……Hm? Huh? You're……",
+            "text": "――……Hm? \nHuh? You're……",
             "choice_data_list": [
                 "…………Me?",
                 "…………Me?"
@@ -37,59 +38,59 @@
         },
         {
             "name": "???",
-            "text": "You~! You're a trainer from the academy, right?",
+            "text": "You~! \nYou're a trainer from the academy, right?",
             "choice_data_list": [
                 "I am……"
             ]
         },
         {
-            "text": "It seems like this girl was a student at Tracen Academy. If you saw my badge it was obvious I was a trainer but…… I feel like she realized it just by looking at my face.",
+            "text": "It seems like this girl was a student at Tracen Academy. \nIf you saw my badge it was obvious I was a trainer but…… \nI feel like she realized it just by looking at my face.",
             "choice_data_list": [
                 "Have we met before?"
             ]
         },
         {
             "name": "???",
-            "text": "Nope! You see, lately~, I've been checking out all the trainers!",
+            "text": "Nope! You see, lately~, \nI've been checking out all the trainers!",
             "choice_data_list": [
                 "Checking out?"
             ]
         },
         {
             "name": "???",
-            "text": "Yep! And I've been keeping a close eye on you too, you know? After all……Ah, that's right!"
+            "text": "Yep! And I've been keeping a close eye on you too, you know? \nAfter all……Ah, that's right!"
         },
         {
             "name": "Vivlos",
-            "text": "I'm called Vivlos♪ Why don't you come shopping with me?",
+            "text": "I'm called Vivlos♪ \nWhy don't you come shopping with me?",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "It'll be fine, I won't beg you for anything! Rather than by myself, I'd rather be with someone."
+            "text": "It'll be fine, I won't beg you for anything! \nRather than by myself, I'd rather be with someone."
         },
         {
             "name": "Vivlos",
-            "text": "Honestly, I was supposed to go together with Mama, but she's got work. Please, I'd be really lonely……hey, it's fine right? Right, right?",
+            "text": "Honestly, I was supposed to go together with \nMama, but she's got work. Please, I'd be really \nlonely……hey, it's fine right? Right, right?",
             "choice_data_list": [
                 "Eh, well……"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "So that's not a no, right? Then that means it's okay! And that's that♪ This way, this way~!",
+            "text": "So that's not a no, right? Then that means it's okay! \nAnd that's that♪ This way, this way~!",
             "choice_data_list": [
                 "Ah……!"
             ]
         },
         {
-            "text": "And like that, she scampered off―― So I ended up accompanying Vivlos on her shopping trip……"
+            "text": "And like that, she scampered off―― \nSo I ended up accompanying Vivlos on her shopping trip……"
         },
         {
             "name": "Vivlos",
-            "text": "Kyaa~, that shoulder bag is so cute! Hey, isn't it really great?",
+            "text": "Kyaa~, that shoulder bag is so cute! \nHey, isn't it really great?",
             "choice_data_list": [
                 "(I-isn't this super high-end……!?)",
                 "(I-isn't this super high-end……!?)"
@@ -97,7 +98,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "I kind of want to see the other styles……wait, Trainer-san? You okay? Your face looks really stiff?",
+            "text": "I kind of want to see the other styles……wait, Trainer-san? \nYou okay? Your face looks really stiff?",
             "choice_data_list": [
                 "……You like brands like these?",
                 "……You like brands like these?"
@@ -105,146 +106,146 @@
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, I love 'em♡ I mean, the designs and quality are great, doesn't it really give off that Celeb vibe?",
+            "text": "Yeah, I love 'em♡ I mean, the designs and quality \nare great, doesn't it really give off that Celeb vibe?",
             "choice_data_list": [
                 "Celeb……"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, Celebs! Isn't it great and isn't it cool!? It's fabulous and everyone wants them! I want to become a Celeb real soon~♪"
+            "text": "Yeah, Celebs! Isn't it great and isn't it cool!? It's fabulous \nand everyone wants them! I want to become a Celeb real soon~♪"
         },
         {
             "name": "Vivlos",
-            "text": "And~, that bag, I think it fits me perfectly! Let's go look closer, Trainer-san! C'mon, this way~!"
+            "text": "And~, that bag, I think it fits me perfectly! \nLet's go look closer, Trainer-san! C'mon, this way~!"
         },
         {
-            "text": "Apparently, Vivlos really loved acting like a celeb, and when we entered a different store……",
+            "text": "Apparently, Vivlos really loved acting like a celeb, \nand when we entered a different store……",
             "choice_data_list": [
                 "(Right to the VIP room……)"
             ]
         },
         {
-            "name": "Shop Clerk",
-            "text": "And so, that skirt you liked before just arrived! Would you like to try it on? The size is XS but……"
+            "name": "Shop Assistant",
+            "text": "And so, that skirt you liked before just arrived! \nWould you like to try it on? The size is XS but……"
         },
         {
             "name": "Vivlos",
-            "text": "Thank you very much! Hmmm~ as I thought, it's so cute! But……looking at it, it might be too big. Looks like the waist will be really loose."
+            "text": "Thank you very much! Hmmm~ as I thought, it's \nso cute! But……looking at it, it might be too \nbig. Looks like the waist will be really loose."
         },
         {
-            "name": "Shop Clerk",
-            "text": "That's true. Vivlos-san is really slim after all……afterwards, how about we adjust it!?"
+            "name": "Shop Assistant",
+            "text": "That's true. Vivlos-san is really slim \nafter all……afterwards, how about we adjust it!?"
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, please do that! Trainer-san, after I put it on, do you know what you should say?",
+            "text": "Yeah, please do that! Trainer-san, \nafter I put it on, do you know what you should say?",
             "choice_data_list": [
                 "……?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "『It looks good on you!』 or maybe~, 『It looks cute!』 or something♡ Make sure you're ready for that, okay!?"
+            "text": "『It looks good on you!』 or maybe~, 『It looks cute!』 or something♡ \nMake sure you're ready for that, okay!?"
         },
         {
             "name": "Vivlos",
-            "text": "Mmmmm~……so sweet~♪ Thanks for the treat, Trainer-san!",
+            "text": "Mmmmm~……so sweet~♪ \nThanks for the treat, Trainer-san!",
             "choice_data_list": [
                 "Well, this isn't a big deal……"
             ]
         },
         {
-            "text": "After visiting so many high-end brand stores, ice cream that only cost a few hundred yen seemed insignificant……",
+            "text": "After visiting so many high-end brand stores, ice cream \nthat only cost a few hundred yen seemed insignificant……",
             "choice_data_list": [
                 "(Alright……are we just about done?)"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Hey, hey, next I want to look at some cosmetics! You don't have any plans today, right?",
+            "text": "Hey, hey, next I want to look at some cosmetics! \nYou don't have any plans today, right?",
             "choice_data_list": [
                 "H-how did you know……?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "I mean, when we first met, it seemed like you were just wandering. You weren't making a face that screamed \"I have plans and I'm late\"……you know?",
+            "text": "I mean, when we first met, it seemed like you were \njust wandering. You weren't making a face that screamed \n\"I have plans and I'm late\"……you know?",
             "choice_data_list": [
                 "(How observant……)"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Right, it's fine isn't it? After this ice cream, let's keep going! I'll show you the lip creams and stuff that I recommend♪"
+            "text": "Right, it's fine isn't it? After this ice cream, let's keep going! \nI'll show you the lip creams and stuff that I recommend♪"
         },
         {
             "text": "In the end, I spent the entire day with the energetic Vivlos……――"
         },
         {
             "name": "Vivlos",
-            "text": "Haaa~, that was fun~♪ Thanks, Trainer-san.",
+            "text": "Haaa~, that was fun~♪ \nThanks, Trainer-san.",
             "choice_data_list": [
                 "(I-I'm exhausted……)"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Fufu, you stayed with me the whole time, huh?♪ That's why……Trainer-san, I――"
+            "text": "Fufu, you stayed with me the whole time, huh?♪ \nThat's why……Trainer-san, I――"
         },
         {
             "name": "???",
-            "text": "――Vivlos! And you're……a trainer at the academy?",
+            "text": "――Vivlos! \nAnd you're……a trainer at the academy?",
             "choice_data_list": [
                 "You're……Verxina!",
                 "You're……Verxina!"
             ]
         },
         {
-            "text": "Verxina――even amongst the elites gathered in the Twinkle Series, she was an Uma Musume with a brilliant track record, during her attempts at the Triple Tiara――"
+            "text": "Verxina――even amongst the elites gathered in the \nTwinkle Series, she was an Uma Musume with a brilliant \ntrack record, during her attempts at the Triple Tiara――"
         },
         {
-            "text": "In other words the 『Oka Sho』, 『Oaks』, and 『Shuuka Sho』, she finished 2nd in all three races and then went on to win the Victoria Mile consecutively."
+            "text": "In other words the 『Oka Sho』, 『Oaks』, and 『Shuuka Sho』, \nshe finished 2nd in all three races and then went \non to win the Victoria Mile consecutively."
         },
         {
             "name": "Vivlos",
-            "text": "Ehehe, as expected of my Onee-chan! Super famous~. A real Celeb♪",
+            "text": "Ehehe, as expected of my Onee-chan! \nSuper famous~. A real Celeb♪",
             "choice_data_list": [
                 "Onee-chan? Which means……"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, that's right! Verxina is the Onee-chan that I'm proud of♡"
+            "text": "Yeah, that's right! \nVerxina is the Onee-chan that I'm proud of♡"
         },
         {
-            "text": "――Vivlos was that Verxina's little sister. That reminds me, I had heard she had two famous little sisters……",
+            "text": "――Vivlos was that Verxina's little sister. \nThat reminds me, I had heard she had two famous little sisters……",
             "choice_data_list": [
                 "(Really……they look so similar!)"
             ]
         },
         {
             "name": "Verxina",
-            "text": "For looking after my little sister, thank you very much. C'mon Vivlos, trainers are very busy people so――"
+            "text": "For looking after my little sister, thank you very much. \nC'mon Vivlos, trainers are very busy people so――"
         },
         {
             "name": "Vivlos",
-            "text": "Muuu, I wasn't just playing around though! I told you before, didn't I? I was looking for Trainer-san!"
+            "text": "Muuu, I wasn't just playing around though! \nI told you before, didn't I? I was looking for Trainer-san!"
         },
         {
             "name": "Vivlos",
-            "text": "It was a real coincidence that I happened to bump in to the person I was thinking of~, and I spent the whole day investigating!"
+            "text": "It was a real coincidence that I happened to bump in to the person \nI was thinking of~, and I spent the whole day investigating!"
         },
         {
             "name": "Vivlos",
-            "text": "――And I was thinking this just might be the prince that'll take me to that country!",
+            "text": "――And I was thinking this just might be \nthe prince that'll take me to that country!",
             "choice_data_list": [
                 "That country……?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "And you see, Trainer-san. I've……already decided!"
+            "text": "And you see, Trainer-san. \nI've……already decided!"
         },
         {
             "name": "Vivlos",

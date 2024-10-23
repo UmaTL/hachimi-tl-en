@@ -23,62 +23,62 @@
             "text": "Since I couldn't think of anything but that 『Hero』, it made me \nwant to read a heroic tale. I came looking for a suitable \nbiography…… but I just can't seem to find them."
         },
         {
+            "name": "???",
             "text": "……U-um…… can I help you with anything?",
-            "name": "？？？",
             "choice_data_list": [
                 "You are……?",
                 "You are……?"
             ]
         },
         {
-            "text": "Z-Zenno Rob Roy. T-the librarian……! \nUm, if you're looking for a book, I thought I could help……",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Z-Zenno Rob Roy. T-the librarian……! \nUm, if you're looking for a book, I thought I could help……"
         },
         {
-            "text": "Ah, I-I'm sorry if I'm bothering you!",
             "name": "Zenno Rob Roy",
+            "text": "Ah, I-I'm sorry if I'm bothering you!",
             "choice_data_list": [
                 "Then…… where are the biographies?"
             ]
         },
         {
-            "text": "Biographies……! Now that I think about it, they're in a place \nthat's kind of confusing. You won't find them under history, \nthey're with the essays and novels.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "You see, biographies often have a lot of fiction \nmixed in. So they're not confused with historical \nfacts, they were separated it seems.",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Ah, but I think I like them more when fiction is mixed in! When \nyou add in anecdotes like that, it helps keep people interested!",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Being admired like that, helps it remain in everyone's memory. \nThat kind of existence is a hero! That's why, I――",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "I think that's how over time they become a 『Tale of a Hero』! \nThat biographies eventually become heroic tales!",
             "name": "Zenno Rob Roy",
+            "text": "Biographies……! Now that I think about it, they're in a place \nthat's kind of confusing. You won't find them under history, \nthey're with the essays and novels."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You see, biographies often have a lot of fiction \nmixed in. So they're not confused with historical \nfacts, they were separated it seems."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah, but I think I like them more when fiction is mixed in! When \nyou add in anecdotes like that, it helps keep people interested!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Being admired like that, helps it remain in everyone's memory. \nThat kind of existence is a hero! That's why, I――"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I think that's how over time they become a 『Tale of a Hero』! \nThat biographies eventually become heroic tales!",
             "choice_data_list": [
                 "You like heroes, huh?",
                 "You like heroes, huh?"
             ]
         },
         {
-            "text": "Ah, um, no…… that's not true, I'm sorry.",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Ah, um, no…… that's not true, I'm sorry."
         },
         {
-            "text": "I was getting excited all on my own…… \nAh, the shelf with biographies is over there.",
             "name": "Zenno Rob Roy",
+            "text": "I was getting excited all on my own…… \nAh, the shelf with biographies is over there.",
             "choice_data_list": [
                 "? Thanks……"
             ]
         },
         {
-            "text": "No…… I'm sorry, please excuse me……!",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "No…… I'm sorry, please excuse me……!"
         },
         {
             "text": "She suddenly became less energetic…… 『That's not true』 \nis what she said but, it was hard to believe that \nshe didn't based on how she acted."
@@ -90,63 +90,63 @@
             "text": "I ended up reading through a lot. Like she said, a lot of fiction \nwas mixed in but, even then it was still a great heroic story……!"
         },
         {
-            "text": "……when a story starts to often be told in a heroic manner, \nit becomes a heroic tale――",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "……when a story starts to often be told in a heroic manner, \nit becomes a heroic tale――"
         },
         {
-            "text": "But my story, hasn't even…… \nNo, maybe, it won't ever……",
             "name": "Zenno Rob Roy",
+            "text": "But my story, hasn't even…… \nNo, maybe, it won't ever……",
             "choice_data_list": [
                 "Excuse me, I'd like to borrow this!"
             ]
         },
         {
-            "text": "Ah…… okay! You'd like to borrow it, right? \nOh, that book……",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "Ah…… okay! You'd like to borrow it, right? \nOh, that book……"
         },
         {
-            "text": "……do you like heroic tales?",
             "name": "Zenno Rob Roy",
+            "text": "……do you like heroic tales?",
             "choice_data_list": [
-                "<size=32>I saw a hero-like Uma Musume, so I was interested</size>"
+                "I saw a hero-like Uma Musume, so I was interested"
             ]
         },
         {
             "text": "That Uma Musume's running was vividly etched in to my mind, so I \nhad been searching for her this whole time…… is what I told her."
         },
         {
-            "text": "『A hero-like』 Uma Musume……",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "You couldn't help but feel like she was a hero, even if you only \nsaw her running from a distance……is what you said, right?",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "An Uma Musume that can run like that, right now, is at Tracen \nAcademy is what you're saying, right……!?",
             "name": "Zenno Rob Roy",
+            "text": "『A hero-like』 Uma Musume……"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You couldn't help but feel like she was a hero, even if you only \nsaw her running from a distance……is what you said, right?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "An Uma Musume that can run like that, right now, is at Tracen \nAcademy is what you're saying, right……!?",
             "choice_data_list": [
                 "Y-yeah……!"
             ]
         },
         {
-            "text": "……！",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "……U-um…… I know we just met today, and I'm aware it's an \nunreasonable request but!",
-            "name": "Zenno Rob Roy"
-        },
-        {
-            "text": "Can you let me help you with that 『Hero Search』!?",
             "name": "Zenno Rob Roy",
+            "text": "……！"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "……U-um…… I know we just met today, and I'm aware it's an \nunreasonable request but!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Can you let me help you with that 『Hero Search』!?",
             "choice_data_list": [
                 "Eeeh!?"
             ]
         },
         {
-            "text": "I'm confident in my skills to search for documents and I know a \nlot about heroes! I'll definitely be helpful!",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "I'm confident in my skills to search for documents and I know a \nlot about heroes! I'll definitely be helpful!"
         },
         {
             "text": "It was an offer that was incredibly beneficial to me but, when it \ncomes to Tracen Academy, shouldn't a student's priority be to run?"
@@ -155,19 +155,19 @@
             "text": "I asked Zenno Rob Roy if helping me would \nget in the way of her training."
         },
         {
-            "text": "I-it's fine, I'll make it work! ……I really want to know what made \nTrainer-san feel like that Uma Musume was 『Hero-like』.",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "I-it's fine, I'll make it work! ……I really want to know what made \nTrainer-san feel like that Uma Musume was 『Hero-like』."
         },
         {
-            "text": "I really want to know! Because――",
             "name": "Zenno Rob Roy",
+            "text": "I really want to know! Because――",
             "choice_data_list": [
                 "Because……?"
             ]
         },
         {
-            "text": "N-nevermind! Anyways, it'll definitely be beneficial for me too. \nSo I look forward to working with you……!",
-            "name": "Zenno Rob Roy"
+            "name": "Zenno Rob Roy",
+            "text": "N-nevermind! Anyways, it'll definitely be beneficial for me too. \nSo I look forward to working with you……!"
         }
     ]
 }

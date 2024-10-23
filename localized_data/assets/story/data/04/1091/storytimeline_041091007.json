@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The sky was blue. And the sun was shining. A place where the Uma Musume grew by training together. Summer Training Camp had arrived! Or at least, it should have――"
+            "text": "The sky was blue. And the sun was shining. A place where \nthe Uma Musume grew by training together. Summer Training \nCamp had arrived! Or at least, it should have――"
         },
         {
             "name": "Vivlos",
@@ -9,25 +10,25 @@
         },
         {
             "name": "Vivlos",
-            "text": "Fufuu, when it comes to summer, it's all about vacations~! Let's enjoy today to the fullest~♪"
+            "text": "Fufuu, when it comes to summer, it's all about vacations~! \nLet's enjoy today to the fullest~♪"
         },
         {
-            "text": "Together with Vivlos, I was at a luxury resort. And that was because――"
-        },
-        {
-            "name": "Vivlos",
-            "text": "Well, you see, Tore-cchi, I want to ask you for a favor♪ I'll work really rea~lly hard at summer camp! So♪"
+            "text": "Together with Vivlos, I was at a luxury resort. \nAnd that was because――"
         },
         {
             "name": "Vivlos",
-            "text": "On our day off, let's go on a date♡ Mama gave me some resort tickets~♪"
+            "text": "Well, you see, Tore-cchi, I want to ask you for a favor♪ \nI'll work really rea~lly hard at summer camp! So♪"
         },
         {
             "name": "Vivlos",
-            "text": "Everyday, we've been working really hard, after all! Let's spend today getting refreshed, Tore-cchi♡"
+            "text": "On our day off, let's go on a date♡ \nMama gave me some resort tickets~♪"
         },
         {
-            "text": "In fact, Vivlos had worked incredibly hard during summer camp. So she could refresh……today I was accompanying her――"
+            "name": "Vivlos",
+            "text": "Everyday, we've been working really hard, after all! \nLet's spend today getting refreshed, Tore-cchi♡"
+        },
+        {
+            "text": "In fact, Vivlos had worked incredibly hard during summer camp. \nSo she could refresh……today I was accompanying her――"
         },
         {
             "name": "Vivlos",
@@ -38,7 +39,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Mmmm~♡ This smoothie is delicious! It's got a slightly salty and revitalizing taste, doesn't it!? Tore-cchi♡",
+            "text": "Mmmm~♡ This smoothie is delicious! It's got a slightly \nsalty and revitalizing taste, doesn't it!? Tore-cchi♡",
             "choice_data_list": [
                 "It's good for restoration",
                 "It's good for restoration"
@@ -46,11 +47,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Yeah, yeah! I'm the type that usually can't decide! Hmmmm, so this is the kind of thing Tore-cchi likes."
+            "text": "Yeah, yeah! I'm the type that usually can't decide! \nHmmmm, so this is the kind of thing Tore-cchi likes."
         },
         {
             "name": "Vivlos",
-            "text": "And so, what should we do next?? This place is really spacious and there are quite a few entertainment facilities~!",
+            "text": "And so, what should we do next?? This place is really spacious \nand there are quite a few entertainment facilities~!",
             "choice_data_list": [
                 "……is there something you want to do?",
                 "……is there something you want to do?"
@@ -58,14 +59,14 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eh-? If it's something I want to do, I'm already doing it though? 『I want to do what Tore-cchi wants to do!』 That's what today's all about♡"
+            "text": "Eh-? If it's something I want to do, I'm already \ndoing it though? 『I want to do what Tore-cchi wants \nto do!』 That's what today's all about♡"
         },
         {
-            "text": "And so, because 『It's what I want to do』, we were now at ……a place where we could find the world's fastest animal――"
+            "text": "And so, because 『It's what I want to do』, we were now at \n……a place where we could find the world's fastest animal――"
         },
         {
             "name": "Vivlos",
-            "text": "Hoeh~ cheetahs can run at speeds up to 100km/h. Even though they've got thighs that are that thin!",
+            "text": "Hoeh~ cheetahs can run at speeds up to 100km/h. \nEven though they've got thighs that are that thin!",
             "choice_data_list": [
                 "They use their whole body to run!",
                 "They use their whole body to run!"
@@ -73,28 +74,28 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ahahaa! Tore-cchi, your eyes are sparkling! Your brain's filled with racing isn't it~!?"
+            "text": "Ahahaa! Tore-cchi, your eyes are sparkling! \nYour brain's filled with racing isn't it~!?"
         },
         {
-            "text": "At the zoo, we learned a few things we could use for running. However, if I kept moving like this, it'd probably negatively impact me tomorrow……"
+            "text": "At the zoo, we learned a few things we could use \nfor running. However, if I kept moving like this, \nit'd probably negatively impact me tomorrow……"
         },
         {
             "name": "Vivlos",
-            "text": "If we're going to relieve that exhaustion, then how about this Hotel Spa!? It's Verxina Onee-chan's favorite place!"
+            "text": "If we're going to relieve that exhaustion, then how about \nthis Hotel Spa!? It's Verxina Onee-chan's favorite place!"
         },
         {
             "name": "Vivlos",
             "text": "It'll fix that weary body right up like new-♪"
         },
         {
-            "text": "I was taken to a dark room with a faint aroma ……I could feel it relieving the fatigue. I see ……the healing effects of this place were amazing."
+            "text": "I was taken to a dark room with a faint aroma \n……I could feel it relieving the fatigue. I see \n……the healing effects of this place were amazing."
         },
         {
-            "text": "This gave me an idea……for Vivlos'…… ……Train……-ing…… too………… ………………"
+            "text": "This gave me an idea……for Vivlos'…… \n……Train……-ing…… too………… ………………"
         },
         {
             "name": "???",
-            "text": "――……Tore-cchi…… ……――……Heeeey……you awake……~?"
+            "text": "――……Tore-cchi…… \n……――……Heeeey……you awake……~?"
         },
         {
             "name": "Vivlos",
@@ -109,14 +110,14 @@
         },
         {
             "name": "Vivlos",
-            "text": "Hey, are you hungry? It's right about dinner time, do you want to go get something to eat?",
+            "text": "Hey, are you hungry? It's right about dinner time, \ndo you want to go get something to eat?",
             "choice_data_list": [
                 "Well, maybe some place near the ocean――"
             ]
         },
         {
             "name": "Hotel Owner",
-            "text": "Oh, Vivlos-kun and……are they your trainer? Welcome to our hotel."
+            "text": "Oh, Vivlos-kun and……are they your trainer? \nWelcome to our hotel."
         },
         {
             "name": "Vivlos",
@@ -127,23 +128,23 @@
         },
         {
             "name": "Vivlos",
-            "text": "――Right! A friend of the family. You see, Owner-chan, I came to check out the spa with Tore-cchi~!"
+            "text": "――Right! A friend of the family. \nYou see, Owner-chan, I came to check out the spa with Tore-cchi~!"
         },
         {
             "name": "Hotel Owner",
-            "text": "I see. ……have you decided on where to have dinner yet? If you haven't, how about joining us?"
+            "text": "I see. ……have you decided on where to have dinner yet? \nIf you haven't, how about joining us?"
         },
         {
             "name": "Hotel Owner",
-            "text": "Using the latest trend of ingredients, an Italian course. And while enjoying the night view……how about telling me more about how your competitions are going?"
+            "text": "Using the latest trend of ingredients, an Italian course. \nAnd while enjoying the night view……how about telling me \nmore about how your competitions are going?"
         },
         {
             "name": "Vivlos",
-            "text": "Waah, is it the one that's making a buzz on SNS!? Sounds great~~♪ But――"
+            "text": "Waah, is it the one that's making a buzz on SNS!? \nSounds great~~♪ But――"
         },
         {
             "name": "Vivlos",
-            "text": "Today we were thinking of finding a place down by the beach! Let's talk again next time!"
+            "text": "Today we were thinking of finding a place down by the beach! \nLet's talk again next time!"
         },
         {
             "name": "Vivlos",
@@ -155,18 +156,18 @@
         },
         {
             "name": "Vivlos",
-            "text": "Yeah! He's not the kind of person to get mad over that! Besides……――"
+            "text": "Yeah! He's not the kind of person to get mad over that! \nBesides……――"
         },
         {
             "name": "Vivlos",
-            "text": "I already told you, didn't I? Today, I want to do what Tore-cchi wants to do♪"
+            "text": "I already told you, didn't I? \nToday, I want to do what Tore-cchi wants to do♪"
         },
         {
             "name": "Vivlos",
-            "text": "Pheeew~~! I'm stuffed! Mmm~……and the sea breeze feels nice……it's the best, isn't it?"
+            "text": "Pheeew~~! I'm stuffed! \nMmm~……and the sea breeze feels nice……it's the best, isn't it?"
         },
         {
-            "text": "We were relaxing and watching the sunset while enjoying the cool breeze. It was a pleasant time, with our stomachs full and our hearts at ease……",
+            "text": "We were relaxing and watching the sunset while enjoying \nthe cool breeze. It was a pleasant time, with our stomachs \nfull and our hearts at ease……",
             "choice_data_list": [
                 "It really was refreshing"
             ]
@@ -181,13 +182,13 @@
         },
         {
             "name": "Vivlos",
-            "text": "Alllllright~~……! That means the 『Take Care of Tore-cchi Strategy』 was a huge success~♡♡♡"
+            "text": "Alllllright~~……! That means the 『Take Care of \nTore-cchi Strategy』 was a huge success~♡♡♡"
         },
         {
-            "text": "Vivlos seemed to be having fun. It sounds like……her entire goal for today was to prioritize me."
+            "text": "Vivlos seemed to be having fun. \nIt sounds like……her entire goal for today was to prioritize me."
         },
         {
-            "text": "Certainly, because of her 『Taking Care』 of me, I felt relieved. ……However――",
+            "text": "Certainly, because of her 『Taking Care』 of me, I felt relieved. \n……However――",
             "choice_data_list": [
                 "But it probably wasn't as fun for you……",
                 "But it probably wasn't as fun for you……"
@@ -199,19 +200,19 @@
         },
         {
             "name": "Vivlos",
-            "text": "……Hey, do you remember? That day we went to the street market together?"
+            "text": "……Hey, do you remember? \nThat day we went to the street market together?"
         },
         {
             "name": "Vivlos",
-            "text": "Just like how I'm excited with new things, in the time we spend together, there are also all kinds of other exciting moments."
+            "text": "Just like how I'm excited with new things, in the time we spend \ntogether, there are also all kinds of other exciting moments."
         },
         {
             "name": "Vivlos",
-            "text": "Ever since I realized it on that day, I've wanted to find more of those moments, no matter what!"
+            "text": "Ever since I realized it on that day, \nI've wanted to find more of those moments, no matter what!"
         },
         {
             "name": "Vivlos",
-            "text": "Like that old man's bag, and Tore-cchi's bag. I was……wondering if I also had those kinds of exciting moments that I would want to treasure forever."
+            "text": "Like that old man's bag, and Tore-cchi's bag. \nI was……wondering if I also had those kinds of \nexciting moments that I would want to treasure forever."
         },
         {
             "name": "Vivlos",
@@ -219,7 +220,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "That strict and serious figure during training. That laid-back look while being healed, and that blissful sleeping face."
+            "text": "That strict and serious figure during training. That laid-back \nlook while being healed, and that blissful sleeping face."
         },
         {
             "name": "Vivlos",
@@ -234,14 +235,14 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ehe. ……without a doubt, this evening will definitely become an exciting memory, right?"
+            "text": "Ehe. ……without a doubt, this evening will \ndefinitely become an exciting memory, right?"
         },
         {
             "name": "Vivlos",
             "text": "Why don't we take it easy for just a bit longer?"
         },
         {
-            "text": "With a gentle sound, I felt a weight on my shoulder. For a short while, I watched the sunset together with Vivlos."
+            "text": "With a gentle sound, I felt a weight on my shoulder. \nFor a short while, I watched the sunset together with Vivlos."
         }
     ]
 }

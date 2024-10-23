@@ -8,139 +8,139 @@
             "text": "We had to train, of course, but there was plenty to do in the \ndowntime. Swimming on the beach, a fireworks show, the \nschool was even going to host a barbecue."
         },
         {
-            "text": "I'm gonna run, Take my time. \n...'Ey, what're you just standing there for?",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "...Tsk. Go do it in the shade. And hydrate while you're at it. \nIt'd be a pain in the ass to do a do-over.",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "I felt like Air Shakur and I had gotten a bit closer than before. \nBut still, if you'd asked if she could depend on me when it really \ncounts...",
-            "choice_data_list": [
-                "(...I wouldn't know about that.)",
-                "(...I wouldn't know about that.)"
-            ]
-        },
-        {
-            "text": "...Well, anyway, summer sure is a pretty eventful season. \nTime to take advantage of all the things to do and get closer to \nher!"
-        },
-        {
-            "text": "Well, that was the plan, but――"
-        },
-        {
-            "text": "You wanna go to the beach? \nIt's hot as hell out there, why go if we're not gonna be training?",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "Fireworks? \nSounds tiring. Sounds annoying. Sound illogical. \nPass.",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "Hell no.",
             "name": "Air Shakur",
+            "text": "I'm gonna run, Take my time. \n…'Ey, what're you just standing there for?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Tsk. Go do it in the shade. And hydrate while you're at it. \nIt'd be a pain in the ass to do a do-over."
+        },
+        {
+            "text": "But still, if you'd asked if she could depend on me when it really \ncounts…",
             "choice_data_list": [
-                "I didn't even say anything...!"
+                "(…I wouldn't know about that.)",
+                "(…I wouldn't know about that.)"
             ]
         },
         {
-            "text": "You were gonna ask about the barbecue, weren't you? Yeah, I \nfigured. So what next? 'Wanna go to the pool?' 'Wanna go \ncamping?' Don't get all excited just 'cuz it's summer, dumbass.",
-            "name": "Air Shakur"
+            "text": "…Well, anyway, summer sure is a pretty eventful season. \nTime to take advantage of all the things to do and get closer to \nher!"
         },
         {
-            "text": "I know you were lookin' forward to this, but it's not happening. \nThe only thing I ever planned to do is train.",
-            "name": "Air Shakur"
+            "text": "Well, that was the plan, but——"
         },
         {
-            "text": "I don't need to play around or hoot and holler or whatever. \nThat's all noise to me. You oughtta know this already.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "You wanna go to the beach? \nIt's hot as hell out there, why go if we're not gonna be training?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Fireworks? \nSounds tiring. Sounds annoying. Sound illogical. \nPass."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hell no.",
+            "choice_data_list": [
+                "I didn't even say anything…!"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You were gonna ask about the barbecue, weren't you? Yeah, I \nfigured. So what next? 'Wanna go to the pool?' 'Wanna go \ncamping?' Don't get all excited just 'cuz it's summer, dumbass."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I know you were lookin' forward to this, but it's not happening. \nThe only thing I ever planned to do is train."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I don't need to play around or hoot and holler or whatever. \nThat's all noise to me. You oughtta know this already."
         },
         {
             "text": "I did, in fact, already know Air Shakur didn't like noisy stuff. \nIt was probably better if I didn't invite her to loud, crowded \nevents like those.",
             "choice_data_list": [
-                "...But I'm still going to keep trying!"
+                "…But I'm still going to keep trying!"
             ]
         },
         {
-            "text": "But there had to be something to do that she could enjoy, too. \nAs I was thinking it over―― I noticed a tiny speck of light \nflashing in the distance.",
+            "text": "But there had to be something to do that she could enjoy, too. \nAs I was thinking it over—— I noticed a tiny speck of light \nflashing in the distance.",
             "choice_data_list": [
-                "...That's it!"
+                "…That's it!"
             ]
         },
         {
             "text": "Firefly watching was a classic summer activity, and you could do \nit without making a sound. Maybe she'd be up for that, even just \na little bit?"
         },
         {
-            "text": "With that little speck's encouragement, I started searching, night \nafter night, for a river with fireflies to watch. But――"
+            "text": "With that little speck's encouragement, I started searching, night \nafter night, for a river with fireflies to watch. But——"
         },
         {
             "text": "I couldn't find anything. It was even harder than I expected."
         },
         {
-            "text": "That first tiny speck must've been a trick of the eye... I couldn't \nfind <i>one</i> firefly, much less a river full of them.",
+            "text": "That first tiny speck must've been a trick of the eye… I couldn't \nfind <i>one</i> firefly, much less a river full of them.",
             "choice_data_list": [
-                "(Summer training's almost over...)"
+                "(Summer training's almost over…)"
             ]
         },
         {
             "text": "Maybe it just wasn't in the cards this year. \nI zoned out, thinking about giving up, when I felt a hand on my \nshoulder."
         },
         {
-            "text": "Hey, you. Stop right there. Show me some ID. \n...We got a tip there's been someone creepin' around all night.",
             "name": "???",
+            "text": "Hey, you. Stop right there. Show me some ID. \n…We got a tip there's been someone creepin' around all night.",
             "choice_data_list": [
-                "I-I'm not doing anyth――!"
+                "I-I'm not doing anyth——!"
             ]
         },
         {
-            "text": "<i>Got youuu.</i>",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "<i>Got youuu.</i>"
         },
         {
-            "text": "Y'looked like you were tweaking all day.\nDid you really think I wouldn't catch on?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Y'looked like you were tweaking all day. \nDid you really think I wouldn't catch on?"
         },
         {
-            "text": "C'mon, tell me what you're up to.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "C'mon, tell me what you're up to."
         },
         {
             "text": "All I could do now was fess up. \nI sheepishly admitted I'd been looking for fireflies, and why I was \ndoing it."
         },
         {
-            "text": "...Firefly watching. \nFigured it'd be something like that. You really don't know how to \nquit.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "…Firefly watching. \nFigured it'd be something like that. You really don't know how to \nquit."
         },
         {
-            "text": "Didn't I tell you? You don't need to get along with me. \nBecause――",
             "name": "Air Shakur",
+            "text": "Didn't I tell you? You don't need to get along with me. \nBecause——",
             "choice_data_list": [
                 "Because you have 『Parcae』.",
                 "Because you have 『Parcae』."
             ]
         },
         {
-            "text": ".......",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "…………"
         },
         {
-            "text": "I just don't get you.",
             "name": "Air Shakur",
+            "text": "I just don't get you.",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
-            "text": "I can't understand it. \nYou clearly know how it is, but you still won't give up.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "I can't understand it. \nYou clearly know how it is, but you still won't give up."
         },
         {
-            "text": "At first I thought you just felt sorry for me, or wanted to satisfy \nyour sense of self-superiority. But that can't be right.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "At first I thought you just felt sorry for me, or wanted to satisfy \nyour sense of self-superiority. But that can't be right."
         },
         {
-            "text": "...So what are you doing all this for? \nOut of a sense of duty? Think it's your creed? Is having one of \nthose the hot new tech?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "…So what are you doing all this for? \nOut of a sense of duty? Think it's your creed? Is having one of \nthose the hot new tech?"
         },
         {
             "text": "The answer was so simple, I surprised myself.",
@@ -150,75 +150,75 @@
             ]
         },
         {
-            "text": ".......Huh?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "……Huh?"
         },
         {
             "text": "Before we even met, she already had a partner that could do \nanything. With it, she could get by without needing a 『trainer』."
         },
         {
-            "text": "But, even if she was content with not putting her trust in me, \nwhat if, somehow, there was a challenge she couldn't take on \nalone――"
+            "text": "But, even if she was content with not putting her trust in me, \nwhat if, somehow, there was a challenge she couldn't take on \nalone——"
         },
         {
-            "text": "If she kept shutting me out, I'd never be able to help her. \n...I explained those thoughts to her.",
+            "text": "If she kept shutting me out, I'd never be able to help her. \n…I explained those thoughts to her.",
             "choice_data_list": [
-                "<size=36>That's why I won't stop trying to get involved.</size>"
+                "That's why I won't stop trying to get \ninvolved."
             ]
         },
         {
-            "text": ".........",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "...Heh, so you've been inviting me out at every little oppurtunity, \njust 'cause you're worried about some 'what if'?",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "First you worm your way into the net cafe, then you invite \nyourself to go shopping. ...And now here you are, scrounging \naround for fireflies night after night.",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "What was your plan if you actually pissed me off? \nForget shutting you out, I'd be cutting you off.",
             "name": "Air Shakur",
+            "text": "…………"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "…Heh, so you've been inviting me out at every little oppurtunity, \njust 'cause you're worried about some 'what if'?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "First you worm your way into the net cafe, then you invite \nyourself to go shopping. …And now here you are, scrounging \naround for fireflies night after night."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What was your plan if you actually pissed me off? \nForget shutting you out, I'd be cutting you off.",
             "choice_data_list": [
-                "<size=42>Because I knew you weren't really mad.</size>"
+                "Because I knew you weren't really mad."
             ]
         },
         {
             "text": "She's not the type to hold back. \nIf she really wanted to cut me off, she would've done it already."
         },
         {
-            "text": ".......",
-            "name": "Air Shakur"
-        },
-        {
-            "text": ".......You're irritating as hell.",
             "name": "Air Shakur",
+            "text": "…………"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "……You're irritating as hell.",
             "choice_data_list": [
-                "!?"
+                "！？"
             ]
         },
         {
-            "text": "Don't run your mouth like you've figured it all out. And the hell \ndo you mean, 'what if'? Don't get all freaked out about something \nif it might not even happen.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Don't run your mouth like you've figured it all out. And the hell \ndo you mean, 'what if'? Don't get all freaked out about \nsomething if it might not even happen."
         },
         {
-            "text": "...You're completely illogical. Always have been.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "…You're completely illogical. Always have been."
         },
         {
-            "text": ".......If you wanna find fireflies, you gotta look somewhere with \nmore shade. The dirt here's too hard, and there's not enough \ngrass. Bet you haven't looked upstream.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "……If you wanna find fireflies, you gotta look somewhere with \nmore shade. The dirt here's too hard, and there's not enough \ngrass. Bet you haven't looked upstream."
         },
         {
-            "text": "She started walking in the complete opposite direction of the \ncampgrounds. Shrinking in the distance, with no signs of \nstopping――",
+            "text": "She started walking in the complete opposite direction of the \ncampgrounds. Shrinking in the distance, with no signs of \nstopping——",
             "choice_data_list": [
-                "...Shakur?"
+                "…Shakur?"
             ]
         },
         {
-            "text": "Aren't you going to come watch? \n...I don't hate fireflies.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Aren't you going to come watch? \n…I don't hate fireflies."
         }
     ]
 }

@@ -2,57 +2,57 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Teio-san! This time, can you run with me please?! \nI want to see how far I can go— at least once!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Teio-san! This time, can you run with me please?! \nI want to see how far I can go— at least once!!!!"
         },
         {
-            "text": "Yeah, give me your best shot, Kita-chan! I'll show \nyou how amazing the Uma Musume you look up to really is～!",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Yeah, give me your best shot, Kita-chan! I'll show \nyou how amazing the Uma Musume you look up to really is～!"
         },
         {
             "text": "She accepted the challenge. And so-"
         },
         {
-            "text": "Haaaaaaaaa, more… I need to run more!! \nAs many tens or hundreds of times it takes!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Haaaaaaaaa, more… I need to run more!! \nAs many tens or hundreds of times it takes!!!!"
         },
         {
-            "text": "I need to make good use of this strength of mine, \nit's the only thing I have! Kuu… Haa… Deyaaaa!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "I need to make good use of this strength of mine, \nit's the only thing I have! Kuu… Haa… Deyaaaa!!!!"
         },
         {
             "text": "With Kitasan Black's tremendous toughness, she never \nfaltered in her absurd training. Far from wavering, \nher fighting spirit burned even brighter-"
         },
         {
-            "text": "Haa, haa, haa, slope running… I need to do at least 3 times as \nmuch as other girls… I can keep going, I'm not done yet…",
             "name": "Kitasan Black",
+            "text": "Haa, haa, haa, slope running… I need to do at least 3 times as \nmuch as other girls… I can keep going, I'm not done yet…",
             "choice_data_list": [
-                "<size=33>How many more do you plan to do, Kitasan Black?</size>",
-                "<size=33>How many more do you plan to do, Kitasan Black?</size>"
+                "How many more do you plan to do, Kitasan Black?",
+                "How many more do you plan to do, Kitasan Black?"
             ]
         },
         {
-            "text": "As many as it takes. As many as I can. Until I drop. \nTeio-san is going to run with me. If she's going to then…!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "I want to win! I really want to win! To make the most of this one \nchance, and show them something amazing, to make them all smile!",
-            "name": "Kitasan Black"
-        },
-        {
-            "text": "No, there's no guarantee they'll come to see me… \nbut… even still… there's one person I want to make smile-",
             "name": "Kitasan Black",
+            "text": "As many as it takes. As many as I can. Until I drop. \nTeio-san is going to run with me. If she's going to then…!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I want to win! I really want to win! To make the most of this one \nchance, and show them something amazing, to make them all smile!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "No, there's no guarantee they'll come to see me… \nbut… even still… there's one person I want to make smile-",
             "choice_data_list": [
                 "Eh, do you mean…?"
             ]
         },
         {
-            "text": "It's obvious…! The person who did everything \nthey could to get me to this point, Trainer-san!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "It's obvious…! The person who did everything \nthey could to get me to this point, Trainer-san!!"
         },
         {
-            "text": "The person I'm most indebted to! At the very least, I want that \nperson to smile! If it's for that, more — I can do even more—!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "The person I'm most indebted to! At the very least, I want that \nperson to smile! If it's for that, more — I can do even more—!!"
         },
         {
             "text": "Before, Kitasan Black had talked about her dream. \"Just like my \ndad, someone who can grant courage and spirit, that's the kind \nof Uma Musume I want to be\"."
@@ -61,8 +61,8 @@
             "text": "Kitasan Black is betting everything on this, to take one big step \nforward. It's her one chance. Betting on this \"Festival\", with \npassion as bright as any fireworks…"
         },
         {
-            "text": "Trainer-san, please!! My strength, my one and only trait-!! \nMake it stronger than anyone—!!",
             "name": "Kitasan Black",
+            "text": "Trainer-san, please!! My strength, my one and only trait-!! \nMake it stronger than anyone—!!",
             "choice_data_list": [
                 "Yeah, I got it. Let's do it!",
                 "Yeah, I got it. Let's do it!"
@@ -75,52 +75,52 @@
             "text": "And then — The fated day arrived."
         },
         {
-            "text": "Haaaaaaaaaaaaaaaaa!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Haaaaaaaaaaaaaaaaa!!!!"
         },
         {
-            "text": "Eh, Kita-chan… a start dash?! Normally you don't care about \ngetting out front though. Did your trainer tell you to escape?",
-            "name": "Satono Diamond"
+            "name": "Satono Diamond",
+            "text": "Eh, Kita-chan… a start dash?! Normally you don't care about \ngetting out front though. Did your trainer tell you to escape?"
         },
         {
-            "text": "-No, this isn't an escape. This is…!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "-No, this isn't an escape. This is…!"
         },
         {
-            "text": "(This is- my strength! What I polished up with Trainer-san, \na sudden breakout \"First-strike Lead\"!)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(This is- my strength! What I polished up with Trainer-san, \na sudden breakout \"First-strike Lead\"!)"
         },
         {
-            "text": "(By forcefully pulling the rate of this race up, as long as I'm \nnot exhausted, I'll win! I will dictate the pacing in this race!)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(By forcefully pulling the rate of this race up, as long as I'm \nnot exhausted, I'll win! I will dictate the pacing in this race!)"
         },
         {
-            "text": "(Haa, haa, kuu, haaa…!! The last… straight…! \nIf I can hold it together heeeeere…)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(Haa, haa, kuu, haaa…!! The last… straight…! \nIf I can hold it together heeeeere…)"
         },
         {
-            "text": "(But… Teio-san is keeping up?! On top of that she doesn't look \nvery tired?! Which means… a contest of speed…)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(But… Teio-san is keeping up?! On top of that she doesn't look \nvery tired?! Which means… a contest of speed…)"
         },
         {
-            "text": "Is this it for you?! In that case! I'll be moving ahead! \nHaaaaaaaaaaaaaaaaaaaaaa!!",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Is this it for you?! In that case! I'll be moving ahead! \nHaaaaaaaaaaaaaaaaaaaaaa!!"
         },
         {
-            "text": "Aaaah, she's pulling ahead…!",
-            "name": "Satono Diamond"
+            "name": "Satono Diamond",
+            "text": "Aaaah, she's pulling ahead…!"
         },
         {
-            "text": "I guess it can't be helped, her opponent is Teio-san \nafter all. On top of that, turning it in to head-to-head \nbattle, then her chance of winning…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I guess it can't be helped, her opponent is Teio-san \nafter all. On top of that, turning it in to head-to-head \nbattle, then her chance of winning…"
         },
         {
-            "text": "(Stamina… I can still keep going… But, I can't \nincrease my speed any more than this… I can't \nwin, I can't win, I can't win…)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(Stamina… I can still keep going… But, I can't \nincrease my speed any more than this… I can't \nwin, I can't win, I can't win…)"
         },
         {
-            "text": "(Again… I couldn't… Even though I worked so hard… \nis this the way… it's going… to end?)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(Again… I couldn't… Even though I worked so hard… \nis this the way… it's going… to end?)"
         },
         {
             "text": "Time — seemed to slow. No matter how hard she struggles \nshe won't win. At the moment when all hope seemed \nlost, something came welling up within."
@@ -138,60 +138,60 @@
             ]
         },
         {
-            "text": "(Trainer-san…! Someone as hopeless as me, \nyou trained me up to this point…!)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(Trainer-san…! Someone as hopeless as me, \nyou trained me up to this point…!)"
         },
         {
-            "text": "(Will this end without me repaying the favor…? All of this \ntime… all of these feelings… will I make them worthless…?)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(Will this end without me repaying the favor…? All of this \ntime… all of these feelings… will I make them worthless…?)"
         },
         {
-            "text": "(I wont… let that happen. It won't happen. \nIf I let it happen—)",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "(I wont… let that happen. It won't happen. \nIf I let it happen—)"
         },
         {
-            "text": "I won't— I won't be me!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "I won't— I won't be me!"
         },
         {
-            "text": "I won't let you pull aheeeeead!!!!!!! \nUwaaaaaaaaaaaaaaaaaaaa!!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "I won't let you pull aheeeeead!!!!!!! \nUwaaaaaaaaaaaaaaaaaaaa!!!!!"
         },
         {
-            "text": "Eh?! Eeeeeeehh?!",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Eh?! Eeeeeeehh?!"
         },
         {
-            "text": "This is… what just happened?! \nA speed surpassing Teio-san?! Right here at the end?!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "This is… what just happened?! \nA speed surpassing Teio-san?! Right here at the end?!"
         },
         {
-            "text": "Uwaaaaaaaaaaaaaaaaahh!!!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Uwaaaaaaaaaaaaaaaaahh!!!!!!"
         },
         {
-            "text": "Ah, that was close…!! I seriously thought you \nwere going to push all the way through to the end…!",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Ah, that was close…!! I seriously thought you \nwere going to push all the way through to the end…!"
         },
         {
-            "text": "Hehee, looks like I barely made it. Not bad, Kita-chan. \nBut, I won't let you beat me that easily.",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Hehee, looks like I barely made it. Not bad, Kita-chan. \nBut, I won't let you beat me that easily."
         },
         {
-            "text": "Kuuuuuuu!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Kuuuuuuu!!!"
         },
         {
-            "text": "U-uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan!!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "U-uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan!!!!!"
         },
         {
-            "text": "Eeeh… Kita-chan?!",
-            "name": "Tokai Teio"
+            "name": "Tokai Teio",
+            "text": "Eeeh… Kita-chan?!"
         },
         {
-            "text": "Daaaaaaaaaaaaaaamnit!!!!! \nUwaaaaaaaaaaaaaaaaaaaaaaaaan!!!!!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Daaaaaaaaaaaaaaamnit!!!!! \nUwaaaaaaaaaaaaaaaaaaaaaaaaan!!!!!!"
         },
         {
             "text": "Everyone was surprised by the sudden tears, but I understood. \nKitasan Black wasn't just a really sincere, good person."
@@ -200,24 +200,24 @@
             "text": "A passion, second to none, was hidden in that heart \nof hers. Her dream wasn't just pretty words, it burned \nhundreds or thousands of times brighter…"
         },
         {
-            "text": "Trainer-san, I… I… \nI wasn't able to make anyone smile!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Trainer-san, I… I… \nI wasn't able to make anyone smile!"
         },
         {
-            "text": "But… I won't give up. I don't want to give up! \nNext time, next time for sure—!!",
             "name": "Kitasan Black",
+            "text": "But… I won't give up. I don't want to give up! \nNext time, next time for sure—!!",
             "choice_data_list": [
                 "Yeah, let's keep training!",
                 "Yeah, let's keep training!"
             ]
         },
         {
-            "text": "Yes, please…!! From now on, and on, \nand on and on!! As my official trainer, until the end!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "Yes, please…!! From now on, and on, \nand on and on!! As my official trainer, until the end!!"
         },
         {
-            "text": "First I need to make Trainer-san smile! After that everyone! \nAnd after that even more!! More and more people!!",
-            "name": "Kitasan Black"
+            "name": "Kitasan Black",
+            "text": "First I need to make Trainer-san smile! After that everyone! \nAnd after that even more!! More and more people!!"
         },
         {
             "text": "A never-yielding Kitasan Black, overflowing with \npotential, stood there trembling. It's possible… that \nI slightly misunderstood her."
@@ -229,16 +229,16 @@
             "text": "Maybe, her strongest trait was- \n\"The power to do her best for someone\", perhaps."
         },
         {
-            "text": "That was… absolutely stunning. A fervor strong enough \nto change those around her… Someone like that is our kouhai.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "That was… absolutely stunning. A fervor strong enough \nto change those around her… Someone like that is our kouhai."
         },
         {
-            "text": "Fufu, looks like you're just getting started. Kita-chan.",
-            "name": "Satono Diamond"
+            "name": "Satono Diamond",
+            "text": "Fufu, looks like you're just getting started. Kita-chan."
         },
         {
-            "text": "You found it, didn't you? Someone important to you. \nFrom now on, both of us will-!",
-            "name": "Satono Diamond"
+            "name": "Satono Diamond",
+            "text": "You found it, didn't you? Someone important to you. \nFrom now on, both of us will-!"
         }
     ]
 }

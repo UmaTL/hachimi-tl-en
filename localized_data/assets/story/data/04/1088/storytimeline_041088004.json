@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Training for the mock race had begun! There wasn't much time left though."
+            "text": "Training for the mock race had begun! \nThere wasn't much time left though."
         },
         {
             "name": "Satono Crown",
@@ -9,7 +10,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Yeah, I think it's taking longer for me to run out of breath than when I started……! And the muscles in my legs are getting stronger……",
+            "text": "Yeah, I think it's taking longer for me to \nrun out of breath than when I started……! And \nthe muscles in my legs are getting stronger……",
             "choice_data_list": [
                 "Let's do one more!"
             ]
@@ -19,22 +20,22 @@
             "text": "Yeah!"
         },
         {
-            "text": "Satono Crown worked hard to make up for the days she missed. From the start, she was already excellent and she was gradually getting stronger……"
+            "text": "Satono Crown worked hard to make up for the days \nshe missed. From the start, she was already excellent \nand she was gradually getting stronger……"
         },
         {
-            "text": "And then, the day had finally arrived…… It had been raining since the morning."
+            "text": "And then, the day had finally arrived…… \nIt had been raining since the morning."
         },
         {
             "name": "Rookie Trainer A",
-            "text": "It's coming down pretty hard, huh? Looks like it'll be pretty rough. There was a rumor that it would be a one-on-one battle between Duramente and Satono Crown, but……"
+            "text": "It's coming down pretty hard, huh? Looks like it'll be \npretty rough. There was a rumor that it would be a \none-on-one battle between Duramente and Satono Crown, but……"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "With the turf like this, it might be unfortunate for Satono Crown. She did grow up kind of sheltered after all……"
+            "name": "Experienced Trainer A",
+            "text": "With the turf like this, it might be unfortunate for Satono Crown. \nShe did grow up kind of sheltered after all……"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "And she's been really busy with her family business, so I'm worried she hasn't adjusted. It's unfortunate, but the weather might hold her back.",
+            "name": "Experienced Trainer A",
+            "text": "And she's been really busy with her family business, \nso I'm worried she hasn't adjusted. It's unfortunate, \nbut the weather might hold her back.",
             "choice_data_list": [
                 "(No……that won't happen)"
             ]
@@ -47,13 +48,13 @@
             ]
         },
         {
-            "text": "She may not have had much time, but to my surprise, through her concentration skills, she was able to complete the training menu I created for her."
+            "text": "She may not have had much time, but to my surprise, \nthrough her concentration skills, she was able to \ncomplete the training menu I created for her."
         },
         {
-            "text": "Besides, this rain was not a headwind for her, it was a tailwind. I understood that the day I met her."
+            "text": "Besides, this rain was not a headwind for her, it was a tailwind. \nI understood that the day I met her."
         },
         {
-            "text": "What I fell in love with on first sight was her sharp acceleration under those heavy conditions. Most likely, Satono Crown was a \"Track Virtuoso\"……!"
+            "text": "What I fell in love with on first sight was her \nsharp acceleration under those heavy conditions. \nMost likely, Satono Crown was a \"Track Virtuoso\"……!"
         },
         {
             "name": "Satono Crown",
@@ -63,21 +64,21 @@
             ]
         },
         {
-            "text": "It was something I understood after the days we spent together. Satono Crown was an Uma Musume who showed her true strength when under adversity……!",
+            "text": "It was something I understood after the days we \nspent together. Satono Crown was an Uma Musume who \nshowed her true strength when under adversity……!",
             "choice_data_list": [
                 "You're more fired up than usual!"
             ]
         },
         {
             "name": "Satono Crown",
-            "text": "Right……! That's just who I am. This is exactly the kind of adversity I need to overcome!"
+            "text": "Right……! That's just who I am. \nThis is exactly the kind of adversity I need to overcome!"
         },
         {
             "name": "Satono Crown",
-            "text": "Let's believe in that! In you, and your belief in me. I'm confident!"
+            "text": "Let's believe in that! In you, and your belief in me. \nI'm confident!"
         },
         {
-            "text": "And so, the race started……! The Uma Musume ran on a heavy course, drenched in water."
+            "text": "And so, the race started……! \nThe Uma Musume ran on a heavy course, drenched in water."
         },
         {
             "name": "Duramente",
@@ -92,20 +93,20 @@
             "text": "(Yeah, good……this is within expecatations……!)"
         },
         {
-            "name": "Event Announcer",
-            "text": "Satono Crown and Duramente both take up positions near the rear. They seem to be observing each other while saving their stamina……!"
+            "name": "Event Commentator",
+            "text": "Satono Crown and Duramente both take up positions near the rear. \nThey seem to be observing each other while saving their stamina……!"
         },
         {
             "name": "Duramente",
-            "text": "……Looks like you were ready in time. However……Huuu――!"
+            "text": "……Looks like you were ready in time. \nHowever……Huuu――!"
         },
         {
             "name": "Satono Crown",
             "text": "(There it is……!)"
         },
         {
-            "name": "Event Announcer",
-            "text": "It's the final straight! Those in the rear are starting to push forward! They're pushing forward! Duramente displays a terrifying accelerationーーー!"
+            "name": "Event Commentator",
+            "text": "It's the final straight! Those in the rear are \nstarting to push forward! They're pushing forward! \nDuramente displays a terrifying accelerationーーー!"
         },
         {
             "name": "Satono Crown",
@@ -117,7 +118,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "――! Yeah……! OK!! It doesn't matter, how strong my opponents are……!"
+            "text": "――! Yeah……! OK!! \nIt doesn't matter, how strong my opponents are……!"
         },
         {
             "name": "Satono Crown",
@@ -128,20 +129,20 @@
             "text": "Yaaaaaaaーーーー!!"
         },
         {
-            "name": "Event Announcer",
-            "text": "And they cross the goal! And the results……are in! Duramente in first! Second place is Satono Crown by a head……!"
+            "name": "Event Commentator",
+            "text": "And they cross the goal! And the results……are in! Duramente \nin first! Second place is Satono Crown by a head……!"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "A head!? To think she'd do this well against Duramente. Rather, she has a surprising amount of power doesn't she……?"
+            "name": "Experienced Trainer A",
+            "text": "A head!? To think she'd do this well against Duramente. \nRather, she has a surprising amount of power doesn't she……?"
         },
         {
             "name": "Duramente",
-            "text": "Haaa, haaa, haaa…… Kuu……!"
+            "text": "Haaa, haaa, haaa…… \nKuu……!"
         },
         {
             "name": "Satono Crown",
-            "text": "By a hair's breadth, huh……!? But……it means I've caught up to you."
+            "text": "By a hair's breadth, huh……!? \nBut……it means I've caught up to you."
         },
         {
             "name": "Duramente",
@@ -149,7 +150,7 @@
         },
         {
             "name": "Duramente",
-            "text": "Next time……I'll win convincingly against you. The Twinkle Series will be the battlefield."
+            "text": "Next time……I'll win convincingly against you. \nThe Twinkle Series will be the battlefield."
         },
         {
             "name": "Satono Crown",
@@ -161,39 +162,39 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Yeah! I was just a step short, but I gave my all. Thanks for the support!"
+            "text": "Yeah! I was just a step short, but I gave my all. \nThanks for the support!"
         },
         {
             "name": "Satono Diamond",
-            "text": "Just watching you was exciting. It makes me thinks I can't just keep waiting around……!"
+            "text": "Just watching you was exciting. \nIt makes me thinks I can't just keep waiting around……!"
         },
         {
             "name": "Satono Diamond",
-            "text": "I want to get as strong as Kura-chan too……! I want to debut quickly, and take hold……of a G1 victory!"
+            "text": "I want to get as strong as Kura-chan too……! \nI want to debut quickly, and take hold……of a G1 victory!"
         },
         {
             "name": "Satono Crown",
-            "text": "Fufufuu, me too! With this kind of momentum, I'll definitely win a G1……!"
+            "text": "Fufufuu, me too! \nWith this kind of momentum, I'll definitely win a G1……!"
         },
         {
             "name": "Satono Crown",
-            "text": "Not just for the Satono Family, but for Dia too. Since I'm debuting first, I'll show you the way!"
+            "text": "Not just for the Satono Family, but for Dia too. \nSince I'm debuting first, I'll show you the way!"
         },
         {
             "name": "Satono Diamond",
-            "text": "Debut? Huh? Weren't you still searching for a trainer?"
+            "text": "Debut? Huh? \nWeren't you still searching for a trainer?"
         },
         {
-            "name": "Mid-rank Trainer A",
+            "name": "Experienced Trainer A",
             "text": "Excuse me, Satono Crown-san! Can we talk for a bit?"
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "I'd been thinking about this since the previous mock race, but seeing this race convinced me. I'd like to scout you……!"
+            "name": "Experienced Trainer A",
+            "text": "I'd been thinking about this since the previous mock race, \nbut seeing this race convinced me. I'd like to scout you……!"
         },
         {
             "name": "Satono Crown",
-            "text": "I'm grateful……however, I'm sorry. I've already decided――"
+            "text": "I'm grateful……however, I'm sorry. \nI've already decided――"
         },
         {
             "name": "Satono Crown",
@@ -204,11 +205,11 @@
         },
         {
             "name": "Satono Crown",
-            "text": "To create the extraordinary magic needed, a top-notch assistant is necessary."
+            "text": "To create the extraordinary magic needed, \na top-notch assistant is necessary."
         },
         {
             "name": "Satono Crown",
-            "text": "The one I can rely on is you. For the Satono family's long held wish, I want to run together with you……!"
+            "text": "The one I can rely on is you. For the Satono family's \nlong held wish, I want to run together with you……!"
         },
         {
             "name": "Satono Crown",
@@ -218,7 +219,7 @@
             ]
         },
         {
-            "text": "I was overjoyed as I shook hands with Satono Crown. The rain clouds I saw as melancholy before, now had a silver lining."
+            "text": "I was overjoyed as I shook hands with Satono Crown. The rain \nclouds I saw as melancholy before, now had a silver lining."
         }
     ]
 }

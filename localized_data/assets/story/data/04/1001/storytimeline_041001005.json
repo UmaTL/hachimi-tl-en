@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Today, Special Week and I went for a long training run off campus… The catch is-"
+            "text": "Today, Special Week and I went for a long \ntraining run off campus… The catch is-"
         },
         {
             "name": "Special Week",
@@ -17,21 +18,21 @@
         },
         {
             "name": "Special Week",
-            "text": "'K-Kay! I'm all charged up, off to another day of hustling I go ~!!"
+            "text": "'K-Kay! I'm all charged up, off to \nanother day of hustling I go ~!!"
         },
         {
-            "text": "Thus began Special Week's training, as my worries for her condition persisted."
+            "text": "Thus began Special Week's training, as my \nworries for her condition persisted."
         },
         {
             "text": "Then-"
         },
         {
             "name": "Special Week",
-            "text": "Phew~ ♪ What a fruitful day of training! Still, I'm far from drained ~!"
+            "text": "Phew~ ♪ What a fruitful day of training! \nStill, I'm far from drained ~!"
         },
         {
             "name": "Special Week",
-            "text": "Ah, yes! Trainer-san! What say we run our way back to campus? It'll serve as training too-"
+            "text": "Ah, yes! Trainer-san! What say we run our way \nback to campus? It'll serve as training too-"
         },
         {
             "name": "Boy",
@@ -55,7 +56,7 @@
         },
         {
             "name": "Special Week",
-            "text": "I used to pester Mom just like that boy. And that's exactly how she gave me an earful…",
+            "text": "I used to pester Mom just like that boy. And \nthat's exactly how she gave me an earful…",
             "choice_data_list": [
                 "… Do you want to see her?",
                 "… Do you want to see her?"
@@ -71,15 +72,15 @@
         },
         {
             "name": "Special Week",
-            "text": "\"The farm neighbouring ours saw the birth of a calf.\", \"The carrots are growing nicely!\" She had soooo much to tell me!"
+            "text": "\"The farm neighbouring ours saw the birth of a calf.\", \"The \ncarrots are growing nicely!\" She had soooo much to tell me!"
         },
         {
             "name": "Special Week",
-            "text": "I got nostalgic, and as I told her, \"I want some of your carrot stew, Mom\"…"
+            "text": "I got nostalgic, and as I told her, \"I want \nsome of your carrot stew, Mom\"…"
         },
         {
             "name": "Special Week",
-            "text": "She replied, \"You sound down. Are you doing alright? Aren't you burning yourself out?\"…Mom was worried sick about me."
+            "text": "She replied, \"You sound down. Are you doing alright? Aren't you \nburning yourself out?\"…Mom was worried sick about me."
         },
         {
             "name": "Special Week",
@@ -95,11 +96,11 @@
         },
         {
             "name": "Special Week",
-            "text": "Because then I could 've reassured her, that although I feel lonely without her, I'm doing just fine."
+            "text": "Because then I could 've reassured her, that although I feel \nlonely without her, I'm doing just fine."
         },
         {
             "name": "Special Week",
-            "text": "Ah… T-That's just a banter! I'm sorry for bringing this up out of nowhere. You must be at a loss too."
+            "text": "Ah… T-That's just a banter! I'm sorry for bringing this up out \nof nowhere. You must be at a loss too."
         },
         {
             "name": "Special Week",
@@ -111,22 +112,22 @@
         },
         {
             "name": "Special Week",
-            "text": "L-Look! The bookstore over there! Suzuka-san's the cover girl of that magazine…!"
+            "text": "L-Look! The bookstore over there! Suzuka-san's \nthe cover girl of that magazine…!"
         },
         {
-            "text": "The two of us stopped by the bookstore, and proceeded to buy the magazine."
-        },
-        {
-            "name": "Special Week",
-            "text": "Woah…! This magazine is really popular, isn't it!? I've seen it in Hokkaido too!"
+            "text": "The two of us stopped by the bookstore, \nand proceeded to buy the magazine."
         },
         {
             "name": "Special Week",
-            "text": "Suzuka-san is such a legend! She's been acing her races, after all."
+            "text": "Woah…! This magazine is really popular, \nisn't it!? I've seen it in Hokkaido too!"
         },
         {
             "name": "Special Week",
-            "text": "Right… I better stop sweating the small stuff, and work hard enough to get featured on magazines.",
+            "text": "Suzuka-san is such a legend! She's \nbeen acing her races, after all."
+        },
+        {
+            "name": "Special Week",
+            "text": "Right… I better stop sweating the small stuff, and work hard \nenough to get featured on magazines.",
             "choice_data_list": [
                 "You can show you're popping off if you get featured.",
                 "You can show you're popping off if you get featured."
@@ -138,7 +139,7 @@
         },
         {
             "name": "Special Week",
-            "text": "If I get on a magazine like Suzuka-san… I can let Mom know that I'm doing very well."
+            "text": "If I get on a magazine like Suzuka-san… I \ncan let Mom know that I'm doing very well."
         },
         {
             "name": "Special Week",
@@ -154,14 +155,14 @@
         },
         {
             "name": "Special Week",
-            "text": "Although I'm away from the farm I used to run about and the carrot fields I loved,"
+            "text": "Although I'm away from the farm I used to \nrun about and the carrot fields I loved,"
         },
         {
             "name": "Special Week",
-            "text": "I'll still give it my all! After all, it's my dream to go big, and become as prideworthy as I'll ever be…!"
+            "text": "I'll still give it my all! After all, it's my dream to go big, \nand become as prideworthy as I'll ever be…!"
         },
         {
-            "text": "As she looked up at the evening sky, her lonely eyes were filled by a hue of determination."
+            "text": "As she looked up at the evening sky, her lonely \neyes were filled by a hue of determination."
         }
     ]
 }

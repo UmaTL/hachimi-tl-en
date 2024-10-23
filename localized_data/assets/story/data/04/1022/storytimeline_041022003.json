@@ -2,39 +2,39 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Father, wait here! \nI'll be there like 'whoooosh' really soon! Ready…",
-            "name": "Young Fine Motion"
+            "name": "Young Fine Motion",
+            "text": "Father, wait here! \nI'll be there like 'whoooosh' really soon! Ready…"
         },
         {
-            "text": "(Running…I loved it, I think. Probably, long ago.)",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "(But, I understood. My normal course was a small \ngarden surrounded by tall, rock walls. The goal \nwas always the clover field in the corner.)",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "(I was fine with that. I wasn't dissatisfied.)",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "The clash of dreams, a momentary glimmer, a serious race…! \nAwesome! So cool!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "\"Japan Uma Musume Training Center Academy\"! \nI want to go there too…!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "(Dissatisfied…)",
             "name": "Fine Motion",
+            "text": "(Running…I loved it, I think. Probably, long ago.)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(But, I understood. My normal course was a small \ngarden surrounded by tall, rock walls. The goal \nwas always the clover field in the corner.)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(I was fine with that. I wasn't dissatisfied.)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The clash of dreams, a momentary glimmer, a serious race…! \nAwesome! So cool!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "\"Japan Uma Musume Training Center Academy\"! \nI want to go there too…!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(Dissatisfied…)",
             "choice_data_list": [
                 "Fine!!"
             ]
         },
         {
-            "text": "Wa, you're! Um, what's wrong? \n…you've got a scary look on your face.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Wa, you're! Um, what's wrong? \n…you've got a scary look on your face."
         },
         {
             "text": "Since then, I've been thinking. About the burden of her duty, \nabout my resolve to bear some of that burden. But still-",
@@ -44,49 +44,49 @@
             ]
         },
         {
-            "text": "My thoughts? About…what we spoke about a while ago, about \n\"Being satisfied with just this\"?",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "My thoughts? About…what we spoke about a while ago, about \n\"Being satisfied with just this\"?"
         },
         {
-            "text": "Hmmm, my answer… won't change, I suppose.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Hmmm, my answer… won't change, I suppose."
         },
         {
-            "text": "I'm very happy you're concerned about me! But, you \nsee, in the first place- compared to the other girls \nat this school, I'm a different Uma Musume.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "I'm very happy you're concerned about me! But, you \nsee, in the first place- compared to the other girls \nat this school, I'm a different Uma Musume."
         },
         {
-            "text": "For the family and people I must protect, to devote \nmyself to their long term peace and prosperity. That \nis my duty. My pride. The reason I'm here.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "For the family and people I must protect, to devote \nmyself to their long term peace and prosperity. That \nis my duty. My pride. The reason I'm here."
         },
         {
-            "text": "You see? I wasn't born for the sake of running.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "You see? I wasn't born for the sake of running."
         },
         {
             "text": "Every single word she spoke of while smiling, \nwas extremely heavy. …But, even so.",
             "choice_data_list": [
-                "<size=33>Not your \"Reason\", I want to hear your \"Feelings\"</size>"
+                "Not your \"Reason\", I want to hear your \"Feelings\""
             ]
         },
         {
-            "text": "!",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "!"
         },
         {
             "text": "Royalty. Her duty. Her responsibility. \nThe reason she spoke of, it's all correct. But, even so-!",
             "choice_data_list": [
-                "<size=38>Those aren't reasons to give up your dream</size>",
-                "<size=38>Those aren't reasons to give up your dream</size>"
+                "Those aren't reasons to give up your dream",
+                "Those aren't reasons to give up your dream"
             ]
         },
         {
-            "text": "Dreams…",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Dreams…"
         },
         {
-            "text": "Dreams…mine…? \n…",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Dreams…mine…? \n…"
         },
         {
             "text": "Fine Motion suddenly fell silent. \nShe probably needs a trigger for the sake of facing her feelings."
@@ -95,171 +95,171 @@
             "text": "That's why-"
         },
         {
-            "text": "The hell d'you say?…a mock race against Fine?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "The hell d'you say?…a mock race against Fine?"
         },
         {
-            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!",
             "name": "Air Shakur",
+            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!",
             "choice_data_list": [
                 "I am resolved.",
                 "I am resolved."
             ]
         },
         {
-            "text": "…Aaah?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "…Aaah?"
         },
         {
-            "text": "You shouldn't speak so lightly, Trainer-sama.",
             "name": "SP Commander",
+            "text": "You shouldn't speak so lightly, Trainer-sama.",
             "choice_data_list": [
                 "!!"
             ]
         },
         {
-            "text": "Heh, they've got their eyes on you.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Heh, they've got their eyes on you."
         },
         {
-            "text": "Excuse me, but you don't seem to understand the \nseriousness of the situation. This will expose \na noble person to unnecessary danger.",
-            "name": "SP Commander"
-        },
-        {
-            "text": "-Even you yourself, may lose everything.",
             "name": "SP Commander",
+            "text": "Excuse me, but you don't seem to understand the \nseriousness of the situation. This will expose \na noble person to unnecessary danger."
+        },
+        {
+            "name": "SP Commander",
+            "text": "-Even you yourself, may lose everything.",
             "choice_data_list": [
                 "Like I said, I am resolved."
             ]
         },
         {
-            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-",
             "name": "SP Commander",
+            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-",
             "choice_data_list": [
-                "<size=29>Supporting their dreams with everything I have is my job!</size>",
-                "<size=29>Supporting their dreams with everything I have is my job!</size>"
+                "Supporting their dreams with everything I have is my job!",
+                "Supporting their dreams with everything I have is my job!"
             ]
         },
         {
-            "text": "…!",
-            "name": "SP Commander"
+            "name": "SP Commander",
+            "text": "…!"
         },
         {
-            "text": "Tch… whatever, this is annoying.",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "And? When are we doing this mock race?",
             "name": "Air Shakur",
+            "text": "Tch… whatever, this is annoying."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And? When are we doing this mock race?",
             "choice_data_list": [
                 "Shakur…!"
             ]
         },
         {
-            "text": "Commander…will you really overlook this? \nIt's a mock race, after all.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Commander…will you really overlook this? \nIt's a mock race, after all."
         },
         {
-            "text": "Trainer-sama is here to fully support Your Highness, \neven risking her entire existence. On top of that, \nif Your Highness also wishes it-",
-            "name": "SP Commander"
+            "name": "SP Commander",
+            "text": "Trainer-sama is here to fully support Your Highness, \neven risking her entire existence. On top of that, \nif Your Highness also wishes it-"
         },
         {
-            "text": "…As someone who's been by your side watching over your labors, \nI can do no more to stop you… do as your heart desires.",
-            "name": "SP Commander"
+            "name": "SP Commander",
+            "text": "…As someone who's been by your side watching over your labors, \nI can do no more to stop you… do as your heart desires."
         },
         {
-            "text": "I want to-",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "I want to-"
         },
         {
-            "text": "Hey! How long do you plan on standing over there?!",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Hey! How long do you plan on standing over there?!"
         },
         {
-            "text": "Or what? Since you've come this far, you're not going to say \nsomething stupid like \"Even without running I'm satisfied\" right?",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Or what? Since you've come this far, you're not going to say \nsomething stupid like \"Even without running I'm satisfied\" right?"
         },
         {
-            "text": "…Shakur.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "…Shakur."
         },
         {
-            "text": "Don't act like you understand just by watching from \n\"Over There\", Your Royal Highness. \"Over Here\" this \npassion, this intensity, isn't so simple.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Don't act like you understand just by watching from \n\"Over There\", Your Royal Highness. \"Over Here\" this \npassion, this intensity, isn't so simple."
         },
         {
-            "text": "Let's go, Fine. -I won't let you say you don't want to know.",
-            "name": "Air Shakur"
+            "name": "Air Shakur",
+            "text": "Let's go, Fine. -I won't let you say you don't want to know."
         },
         {
             "text": "And so - the mock race between these two, finally, began!"
         },
         {
-            "text": "Haa, haa, haa, haa…!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "(Incredible, with each step my entire leg trembles. \nThe scenery goes rushing by. My heart is unbearably \nloud…I… right now, I'm running!!)",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "Ha! Oi oi! Is that all you got, Your Royal Highness?!",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "(Shakur…! What pressure-…I'm getting goosebumps! Just like \nthis, it seems I'll be overwhelmed!! But…But, why is it?!)",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "It seems even now…still, I can run!! \n-HAAAAAAAAAAAAA!!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "! Heh, looks like you can handle it…! \nBut, I won't let you! ORAAAAAAAAAAA!!",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "AAAAAAAAAH…!!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "(Aah… amazing. My heart is pounding. My soul is crying out! \n\"Faster\" \"Keep Moving Forward\" \"Run\", \"RUN!\")",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "I am-…I'm also…!",
-            "name": "Fine Motion"
-        },
-        {
-            "text": "Haaa…haaa…haaa…",
-            "name": "Both"
-        },
-        {
-            "text": "-Heh. It's my win.",
-            "name": "Air Shakur"
-        },
-        {
-            "text": "Fufuu…yeah. It's extremely frustrating!",
             "name": "Fine Motion",
+            "text": "Haa, haa, haa, haa…!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(Incredible, with each step my entire leg trembles. \nThe scenery goes rushing by. My heart is unbearably \nloud…I… right now, I'm running!!)"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ha! Oi oi! Is that all you got, Your Royal Highness?!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(Shakur…! What pressure-…I'm getting goosebumps! Just like \nthis, it seems I'll be overwhelmed!! But…But, why is it?!)"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It seems even now…still, I can run!! \n-HAAAAAAAAAAAAA!!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "! Heh, looks like you can handle it…! \nBut, I won't let you! ORAAAAAAAAAAA!!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "AAAAAAAAAH…!!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "(Aah… amazing. My heart is pounding. My soul is crying out! \n\"Faster\" \"Keep Moving Forward\" \"Run\", \"RUN!\")"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I am-…I'm also…!"
+        },
+        {
+            "name": "Both",
+            "text": "Haaa…haaa…haaa…"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "-Heh. It's my win."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fufuu…yeah. It's extremely frustrating!",
             "choice_data_list": [
                 "…Fine."
             ]
         },
         {
-            "text": "Trainer!…Thank you. \nThank you, for giving me the chance to face my own feelings.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Trainer!…Thank you. \nThank you, for giving me the chance to face my own feelings."
         },
         {
-            "text": "Also, I'm sorry. I told a lie.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Also, I'm sorry. I told a lie."
         },
         {
-            "text": "I… don't want to return home just yet.",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "I… don't want to return home just yet."
         },
         {
-            "text": "Because I want to stay here. \nAnd run. More and more…!",
-            "name": "Fine Motion"
+            "name": "Fine Motion",
+            "text": "Because I want to stay here. \nAnd run. More and more…!"
         },
         {
             "text": "Boldly declaring that, her eyes shone brightly. \nBrighter than any time before this."

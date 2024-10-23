@@ -2,8 +2,8 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "There it is! 2nd prize! 『One day Resort and Spa tickets]! \nCongratulations~!",
             "name": "Lottery Attendant",
+            "text": "There it is! 2nd prize! 『One day Resort and Spa tickets]! \nCongratulations~!",
             "choice_data_list": [
                 "Alright, I won!"
             ]
@@ -15,20 +15,20 @@
             ]
         },
         {
-            "text": "Oh.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Oh."
         },
         {
-            "text": "So even someone like you would come to places like this, huh.",
             "name": "Mejiro Ramonu",
+            "text": "So even someone like you would come to places like this, huh.",
             "choice_data_list": [
-                "<size=43>I won tickets……you come here often?</size>",
-                "<size=43>I won tickets……you come here often?</size>"
+                "I won tickets……you come here often?",
+                "I won tickets……you come here often?"
             ]
         },
         {
-            "text": "When I feel like it.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "When I feel like it."
         },
         {
             "text": "……Now I was a little curious how she spent her days off. \nIf I understood more about her, things might go more smoothly.",
@@ -37,41 +37,41 @@
             ]
         },
         {
-            "text": "You can do as you like.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "You can do as you like."
         },
         {
             "text": "And so, I ended up accompanying Mejiro Ramonu. \nThe first thing she did was head to the shopping \narea, visiting a cosmetics shop first."
         },
         {
-            "text": "――Mejiro Ramonu-sama. As always, thanks for your patronage. \nNew seasonal products have just arrived, so please have a look.",
-            "name": "Shopclerk"
+            "name": "Shop Assistant",
+            "text": "――Mejiro Ramonu-sama. As always, thanks for your patronage. \nNew seasonal products have just arrived, so please have a look."
         },
         {
-            "text": "Oh, we're able to get these in Japan now too.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Oh, we're able to get these in Japan now too."
         },
         {
+            "name": "Shop Assistant",
             "text": "Ah, so you were already aware. These are the newest versions \nwith new ingredients. How about a quick touch up……",
-            "name": "Shopclerk",
             "choice_data_list": [
                 "(Is she a regular……?)"
             ]
         },
         {
-            "text": "From here to here……could you wrap these up?",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "From here to here……could you wrap these up?"
         },
         {
-            "text": "Thank you very much.",
-            "name": "Shopclerk"
+            "name": "Shop Assistant",
+            "text": "Thank you very much."
         },
         {
             "text": "Next was the spa. She headed to the VIP room alone, hitting \nthe bath, sauna, and some aromatherapy too……or so I was told."
         },
         {
-            "text": "……guess you aren't one for baths. \nHave you been there the whole time?",
             "name": "Mejiro Ramonu",
+            "text": "……guess you aren't one for baths. \nHave you been there the whole time?",
             "choice_data_list": [
                 "I was relaxing by reading"
             ]
@@ -80,8 +80,8 @@
             "text": "In fact, after taking a short bath I was relaxing \nand also enjoying a drink while waiting for her."
         },
         {
-            "text": "I see…… Ahh, it's already time for my footcare appointment――",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "I see…… Ahh, it's already time for my footcare appointment――"
         },
         {
             "text": "Afterwards, we had a slightly early dinner. At first glance, \nit looked like a casual meal, typical of a resort but……",
@@ -91,16 +91,16 @@
             ]
         },
         {
-            "text": "Right. And rich in seasonal flavors……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Right. And rich in seasonal flavors……"
         },
         {
-            "text": "We must be careful what enters our blood and becomes part of us. \nOn the turf, we only have one body to rely on after all……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "We must be careful what enters our blood and becomes part of us. \nOn the turf, we only have one body to rely on after all……"
         },
         {
-            "text": "Compromising on something like this, \nwouldn't be something I would call love.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Compromising on something like this, \nwouldn't be something I would call love."
         },
         {
             "text": "All of today's self-care and even the meal in front \nof us, all of it was for the sake of \"Races\"……",
@@ -113,93 +113,93 @@
             "text": "When we finished our meal and went outside, the area \nwas already enveloped in the colors of a sunset."
         },
         {
-            "text": "Oh, what a nice evening.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Oh, what a nice evening."
         },
         {
-            "text": "…………Maybe I should draw.",
             "name": "Mejiro Ramonu",
+            "text": "…………Maybe I should draw.",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "text": "Collecting fragments of this moment. By breaking \nthem down, combining, and then layering them…… \nbeyond all that, is where my painting exists.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Collecting fragments of this moment. By breaking \nthem down, combining, and then layering them…… \nbeyond all that, is where my painting exists."
         },
         {
-            "text": "Aah, quickly…… before it disappears……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Aah, quickly…… before it disappears……"
         },
         {
             "text": "Mejiro Ramonu went to fetch her materials, \nthen set up her easel and started sketching."
         },
         {
-            "text": "……that evening star…… \nit started…… over there……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "……that evening star…… \nit started…… over there……"
         },
         {
-            "text": "………That corner……remains empty.",
             "name": "Mejiro Ramonu",
+            "text": "………That corner……remains empty.",
             "choice_data_list": [
                 "Should I stand over there?",
                 "Should I stand over there?"
             ]
         },
         {
-            "text": "Then, over there. Standing straight is fine.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Then, over there. Standing straight is fine."
         },
         {
             "text": "I stood where I was told. It was actually kind \nof hard to stand in the same position, but, if \nthis was what she wanted, then it was nothing."
         },
         {
-            "text": "…………?",
-            "name": "Mejiro Ramonu"
-        },
-        {
-            "text": "Hmmmmm……",
-            "name": "Mejiro Ramonu"
-        },
-        {
-            "text": "――You",
             "name": "Mejiro Ramonu",
+            "text": "…………?"
+        },
+        {
+            "name": "Mejiro Ramonu",
+            "text": "Hmmmmm……"
+        },
+        {
+            "name": "Mejiro Ramonu",
+            "text": "――You",
             "choice_data_list": [
                 "Hm?"
             ]
         },
         {
-            "text": "So that's the look you had on your face, is it……?",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "So that's the look you had on your face, is it……?"
         },
         {
-            "text": "Hmmm…………",
             "name": "Mejiro Ramonu",
+            "text": "Hmmm…………",
             "choice_data_list": [
                 "(I-I can't……)"
             ]
         },
         {
-            "text": "Would you mind not making weird faces?",
             "name": "Mejiro Ramonu",
+            "text": "Would you mind not making weird faces?",
             "choice_data_list": [
                 "Ah……Yeah!"
             ]
         },
         {
-            "text": "……How strange. Looking at it head on again.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "……How strange. Looking at it head on again."
         },
         {
-            "text": "How long has it been since……?",
             "name": "Mejiro Ramonu",
+            "text": "How long has it been since……?",
             "choice_data_list": [
                 "Eh……?"
             ]
         },
         {
-            "text": "Before I realized it, you were \"there\". You were always――",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Before I realized it, you were \"there\". You were always――"
         },
         {
             "text": "――And so the sun set, and I heard the sound of her \nputting the pencil down. For some reason, she continued \nto stare at her sketch, even as it got darker……"
@@ -208,26 +208,26 @@
             "text": "When it was completely dark, we headed back. While we waited \nfor a taxi, I asked her how her painting was coming along……"
         },
         {
-            "text": "Who knows?",
             "name": "Mejiro Ramonu",
+            "text": "Who knows?",
             "choice_data_list": [
                 "I guess I wasn't a good model"
             ]
         },
         {
-            "text": "…………",
             "name": "Mejiro Ramonu",
+            "text": "…………",
             "choice_data_list": [
                 "……?"
             ]
         },
         {
-            "text": "Too self-deprecating.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Too self-deprecating."
         },
         {
-            "text": "……Ah. It's here.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "……Ah. It's here."
         },
         {
             "text": "She wasn't praising me……probably, but it didn't seem derogatory \neither. As usual, I still couldn't read Mejiro Ramonu."

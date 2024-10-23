@@ -1,11 +1,12 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A day off. With my bag in hand, I was walking around a mall nearby――"
+            "text": "A day off. With my bag in hand, \nI was walking around a mall nearby――"
         },
         {
             "name": "Vivlos",
-            "text": "Oh, it's Tore-cchi? Yohoo yohoo~♡ Tore-cchi, are you doing some shopping??",
+            "text": "Oh, it's Tore-cchi? Yohoo yohoo~♡ \nTore-cchi, are you doing some shopping??",
             "choice_data_list": [
                 "No, just killing some time",
                 "No, just killing some time"
@@ -13,11 +14,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Eeeeh~! Even though it's a day off? Just walking around is a real waste!"
+            "text": "Eeeeh~! Even though it's a day off? \nJust walking around is a real waste!"
         },
         {
             "name": "Vivlos",
-            "text": "Hey hey, in that case, how about going on a shopping date♪? I was just thinking about taking a look around this mall!"
+            "text": "Hey hey, in that case, how about going on a shopping date♪? \nI was just thinking about taking a look around this mall!"
         },
         {
             "name": "Vivlos",
@@ -25,32 +26,32 @@
         },
         {
             "name": "Vivlos",
-            "text": "Kyaa-♡ These pink earrings, apparently they're a new product! The diamonds are really sparkly, so it just screams Celeb!"
+            "text": "Kyaa-♡ These pink earrings, apparently they're a new product! \nThe diamonds are really sparkly, so it just screams Celeb!"
         },
         {
             "name": "Vivlos",
-            "text": "Wearing them during training could work just like a charm! It'll look good with the jersey♡ Tore-cchi, it's definitely a must-buy!",
+            "text": "Wearing them during training could work just like a charm! It'll \nlook good with the jersey♡ Tore-cchi, it's definitely a must-buy!",
             "choice_data_list": [
                 "Hmmm, there's a risk of injury though……"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Eeeh! Tore-cchi, it'll look good on you though~. Ah, then how about that!? It looks like something you could use everyday so――"
+            "text": "Eeeh! Tore-cchi, it'll look good on you though~. Ah, then how \nabout that!? It looks like something you could use everyday so――"
         },
         {
             "name": "Vivlos",
-            "text": "Look, look! That shocking pink knit is trendy overseas, you know! And what about using that shirt as another layer?",
+            "text": "Look, look! That shocking pink knit is trendy overseas, you know! \nAnd what about using that shirt as another layer?",
             "choice_data_list": [
                 "I-I guess it conveys confidence……!?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Awwww! They said the new smart phone is all sold out. It has all the latest functionality and I wanted to recommend it though~."
+            "text": "Awwww! They said the new smart phone is all sold out. It has all \nthe latest functionality and I wanted to recommend it though~."
         },
         {
-            "text": "After that we kept looking around but, nothing caught my eye so I ended up not buying anything――"
+            "text": "After that we kept looking around but, nothing caught \nmy eye so I ended up not buying anything――"
         },
         {
             "name": "Vivlos",
@@ -58,15 +59,15 @@
         },
         {
             "name": "Vivlos",
-            "text": "This event is really interesting, you know?! The shops here only have stuff from the recent trends!"
+            "text": "This event is really interesting, you know?! \nThe shops here only have stuff from the recent trends!"
         },
         {
             "name": "Vivlos",
-            "text": "There's all kinds of genres here, so I expect great things! Look, how about over there!? There's so many people……I get the feeling it'll be exciting!"
+            "text": "There's all kinds of genres here, so I expect great \nthings! Look, how about over there!? There's so many \npeople……I get the feeling it'll be exciting!"
         },
         {
             "name": "Vivlos",
-            "text": "Anyways, we should probably hurry or everything might be sold out too!? Tore-cchi, hurry, hurry~!!",
+            "text": "Anyways, we should probably hurry or everything \nmight be sold out too!? Tore-cchi, hurry, hurry~!!",
             "choice_data_list": [
                 "W-wah!? Wait a――"
             ]
@@ -89,14 +90,14 @@
             "text": "In a panic, Vivlos had pulled on my bag……and the strap had broken."
         },
         {
-            "text": "I had been using it regularly for a while, so it was probably due to wear and tear.",
+            "text": "I had been using it regularly for a while, \nso it was probably due to wear and tear.",
             "choice_data_list": [
                 "Maybe I'll find a new bag here"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "! Then I'll definitely find a good one! To make up for breaking it!"
+            "text": "! Then I'll definitely find a good one! \nTo make up for breaking it!"
         },
         {
             "name": "Vivlos",
@@ -104,40 +105,40 @@
         },
         {
             "name": "Vivlos",
-            "text": "Look, they've got one on display! It's got a real antique feel to it, isn't it great? I wonder which brand it is~♪"
+            "text": "Look, they've got one on display! It's got a real antique \nfeel to it, isn't it great? I wonder which brand it is~♪"
         },
         {
-            "text": "True, that bag had a nice aesthetic to it. It had a nice texture as well. When we asked the stall attendant about it――"
+            "text": "True, that bag had a nice aesthetic to it. It had a nice \ntexture as well. When we asked the stall attendant about it――"
         },
         {
             "name": "Old Stall Attendant",
-            "text": "――Aah, this bag……sorry, but it's not a product for sale. It's mine, you see."
+            "text": "――Aah, this bag……sorry, but it's not a \nproduct for sale. It's mine, you see."
         },
         {
             "name": "Vivlos",
-            "text": "Ah, sorry! I just thought it was a great bag……! ……Um, in that case, can you tell me what brand it is?"
+            "text": "Ah, sorry! I just thought it was a great bag……! \n……Um, in that case, can you tell me what brand it is?"
         },
         {
             "name": "Old Stall Attendant",
-            "text": "Fufu, it's not a brand name. It's just a plain old bag. But……to me, it's a very important bag."
+            "text": "Fufu, it's not a brand name. It's just a plain old bag. \nBut……to me, it's a very important bag."
         },
         {
             "name": "Old Stall Attendant",
-            "text": "When I was younger, a close friend gave it to me as a present. I used it for years while keeping it maintained."
+            "text": "When I was younger, a close friend gave it to me as a present. \nI used it for years while keeping it maintained."
         },
         {
             "text": "While saying that……the shop clerk had a gentle look in his eyes."
         },
         {
             "name": "Old Stall Attendant",
-            "text": "The color has faded and there's scuff marks all over. But……every time I look at it, I can't help but remember those days we spent together."
+            "text": "The color has faded and there's scuff marks all \nover. But……every time I look at it, I can't help \nbut remember those days we spent together."
         },
         {
-            "text": "I was sure that each and every one of those scratches and that faded color……for him, they had many memories attached to them."
+            "text": "I was sure that each and every one of those scratches and that \nfaded color……for him, they had many memories attached to them."
         },
         {
             "name": "Vivlos",
-            "text": "I see…… I just thought that was the way it was designed."
+            "text": "I see…… \nI just thought that was the way it was designed."
         },
         {
             "name": "Vivlos",
@@ -149,14 +150,14 @@
         },
         {
             "name": "Old Stall Attendant",
-            "text": "Haha, thanks. That bag you have is wonderful too."
+            "text": "Haha, thanks. \nThat bag you have is wonderful too."
         },
         {
             "name": "Vivlos",
-            "text": "Hmmmm……Tore-cchi, how was it? We looked at quite a few……"
+            "text": "Hmmmm……Tore-cchi, how was it? \nWe looked at quite a few……"
         },
         {
-            "text": "When she said that, I looked at the bag in my hand again. It was still the same bag but……it still somehow felt different.",
+            "text": "When she said that, I looked at the bag in my hand again. \nIt was still the same bag but……it still somehow felt different.",
             "choice_data_list": [
                 "……Maybe I won't get a new one."
             ]
@@ -171,7 +172,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Mark……? You mean this blackened spot? Looks like something got stuck there――"
+            "text": "Mark……? You mean this blackened spot? \nLooks like something got stuck there――"
         },
         {
             "name": "Vivlos",
@@ -182,30 +183,30 @@
         },
         {
             "name": "Vivlos",
-            "text": "『Ahahahaa! To think your bag would get stuck in the door! Aren't you glad we were able to still get off~?』",
+            "text": "『Ahahahaa! To think your bag would get stuck in the door! \nAren't you glad we were able to still get off~?』",
             "choice_data_list": [
                 "『Yeah, I could have been late……!』"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Right, right! And you were really really grateful to the conductor that helped us!"
+            "text": "Right, right! And you were really really \ngrateful to the conductor that helped us!"
         },
         {
             "name": "Vivlos",
             "text": "Ah! Then, do you remember this heart-shaped mark too?"
         },
         {
-            "name": "Young Fan",
+            "name": "Fan's Child",
             "text": "『Hick……Uuuu……I'm sorry……about the bag……』"
         },
         {
             "name": "Vivlos",
-            "text": "『D-don't cry, it's fine~! With something like juice, you just have to wipe it off and it'll be OK! And um……um!』"
+            "text": "『D-don't cry, it's fine~! With something like juice, you \njust have to wipe it off and it'll be OK! And um……um!』"
         },
         {
             "name": "Vivlos",
-            "text": "『Ah, look!? See? The stain on the bag! It's heart-shaped~! It's cute♡』",
+            "text": "『Ah, look!? See? The stain on the bag! \nIt's heart-shaped~! It's cute♡』",
             "choice_data_list": [
                 "『It's really fancy, thanks!』"
             ]
@@ -216,17 +217,17 @@
         },
         {
             "name": "Vivlos",
-            "text": "……your bag's amazing, isn't it, Tore-cchi? There's all kinds of memories of us left all over it……",
+            "text": "……your bag's amazing, isn't it, Tore-cchi? \nThere's all kinds of memories of us left all over it……",
             "choice_data_list": [
                 "I'll just fix the belt"
             ]
         },
         {
-            "text": "I was sure that every time I look at my bag, I'd remember these days. With those memories……no matter what happens, I'll be able to move forward."
+            "text": "I was sure that every time I look at my bag, I'd \nremember these days. With those memories……no matter \nwhat happens, I'll be able to move forward."
         },
         {
             "name": "Vivlos",
-            "text": "――I see…… ……Yeah……that's right."
+            "text": "――I see…… \n……Yeah……that's right."
         },
         {
             "name": "Vivlos",
@@ -234,7 +235,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "……Alllright, then let's change plans! Let's look for a new belt for your bag! We'll fix Tore-cchi's important bag up like new――"
+            "text": "……Alllright, then let's change plans! Let's look for a new belt \nfor your bag! We'll fix Tore-cchi's important bag up like new――"
         },
         {
             "name": "Vivlos",

@@ -1,25 +1,26 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Annual summer camp. Today, I had half a day free. This is because I have a plan to carry out.",
+            "text": "Annual summer camp. Today, I had half a day free. This is \nbecause I have a plan to carry out.",
             "choice_data_list": [
                 "Let's go nature watching together!"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Nature watching, is it? I'm not very familiar with area around here……",
+            "text": "Nature watching, is it? I'm not very \nfamiliar with area around here……",
             "choice_data_list": [
                 "I'll escort you!",
                 "I'll escort you!"
             ]
         },
         {
-            "text": "First, I will take her to a mountain forest. We will admire the flora and fauna, and then follow a mountain stream to the beach. I need to make sure she has a safe and enjoyable time!"
+            "text": "First, I will take her to a mountain forest. We will admire the \nflora and fauna, and then follow a mountain stream to the \nbeach. I need to make sure she has a safe and enjoyable time!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "There are so many kinds of plants around here.…… The air is good too. It might be perfect for relaxation.",
+            "text": "There are so many kinds of plants around here.…… The air is \ngood too. It might be perfect for relaxation.",
             "choice_data_list": [
                 "Suddenly, a problem! What kind of tree is this!"
             ]
@@ -38,21 +39,21 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Ehehe. But I'm not too familiar with them, and I'm glad I got to see them today…… ! Persimmon trees don't grow naturally in Hokkaido."
+            "text": "Ehehe. But I'm not too familiar with them, and I'm glad I \ngot to see them today…… ! Persimmon trees don't grow \nnaturally in Hokkaido."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "…… I see, it's about time for the berries to start growing already. They turn a beautiful orange in the fall.…… Hmmm, interesting."
+            "text": "…… I see, it's about time for the berries to \nstart growing already. They turn a beautiful \norange in the fall.…… Hmmm, interesting."
         },
         {
-            "text": "Hokko Tarumae observes a persimmon tree with twinkling eyes. She seems completely enthralled by this unfamiliar plant!"
+            "text": "Hokko Tarumae observes a persimmon tree with twinkling eyes. \nShe seems completely enthralled by this unfamiliar plant!"
         },
         {
-            "text": "Next is the area along the mountain stream. I've heard that there are many opportunities for animal and bird sightings in this area……"
+            "text": "Next is the area along the mountain stream. I've \nheard that there are many opportunities for animal \nand bird sightings in this area……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "― Oh, I just heard a bird singing…… I think it's that one, such a beautiful blue color ……",
+            "text": "― Oh, I just heard a bird singing…… I think it's that one, \nsuch a beautiful blue color ……",
             "choice_data_list": [
                 "That's an oriole.",
                 "That's an oriole, isn't it?"
@@ -64,15 +65,15 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "They're in Hokkaido, but they're so rare! All I could hear was their voices……"
+            "text": "They're in Hokkaido, but they're so rare! \nAll I could hear was their voices……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "It's not often you get to see them so clearly! Let's take a picture of it, since we're here……!"
+            "text": "It's not often you get to see them so clearly! Let's take a \npicture of it, since we're here……!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Wow! Look at that! The little birds are flying out of their nests…"
+            "text": "Wow! Look at that! The little birds \nare flying out of their nests…"
         },
         {
             "name": "Hokko Tarumae",
@@ -88,11 +89,11 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Some mountain plants are dangerous to touch. There are even poisonous insects."
+            "text": "Some mountain plants are dangerous to touch. \nThere are even poisonous insects."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Of course, you can't just pick it and bring it home ……! From an ecosystem protection standpoint, It should never be done!"
+            "text": "Of course, you can't just pick it and bring it home ……! From \nan ecosystem protection standpoint, It should never be done!"
         },
         {
             "text": "『I'm sorry! I was rash!』"
@@ -109,7 +110,7 @@
             "text": "What?…… Oh…… yes!"
         },
         {
-            "text": "The two of us watch quietly and patiently. The bird, which had been struggling for some time―"
+            "text": "The two of us watch quietly and patiently. The bird, which \nhad been struggling for some time―"
         },
         {
             "text": "(Chirp―, piii!)"
@@ -124,40 +125,40 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Yes, it was really good……! ―ehehe, this is nature at its best, isn't it?"
+            "text": "Yes, it was really good……! ―ehehe, \nthis is nature at its best, isn't it?"
         },
         {
-            "text": "We came off the mountain road and onto the beach. Lastly, it will take us to――"
-        },
-        {
-            "name": "Hokko Tarumae",
-            "text": "I didn't know there was a cave like this ……! I trained on the beach every day and never noticed it."
+            "text": "We came off the mountain road and onto \nthe beach. Lastly, it will take us to――"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Wow, it's pitch black……! In times like this, you have to wait for your eyes to adjust―"
+            "text": "I didn't know there was a cave like this ……! I trained on \nthe beach every day and never noticed it."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Caves are quite cool and chilly, aren't they? The ground is bumpy too……!",
+            "text": "Wow, it's pitch black……! In times like this, you have to \nwait for your eyes to adjust―"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Caves are quite cool and chilly, aren't they? \nThe ground is bumpy too……!",
             "choice_data_list": [
                 "There's a step there, so be careful."
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Yes, thank you……! Oh, there's a turn ahead, isn't there? There we go…"
+            "text": "Yes, thank you……! Oh, there's a turn \nahead, isn't there? There we go…"
         },
         {
             "name": "Hokko Tarumae",
             "text": "―Wow!…… amazing, it looks like a starry sky……!"
         },
         {
-            "text": "It is said that the reflection of the sun's rays and the shape of the stalactites are responsible for this spectacular view."
+            "text": "It is said that the reflection of the sun's \nrays and the shape of the stalactites are \nresponsible for this spectacular view."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "I mean, it's natural.…… It's really amazing……! It's fantastic, it's like it's not real…… It's just extraordinary."
+            "text": "I mean, it's natural.…… It's really amazing……! It's \nfantastic, it's like it's not real…… It's just extraordinary."
         },
         {
             "name": "Hokko Tarumae",
@@ -165,7 +166,7 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "It's full of things I've never seen before, yet somehow familiar and…… very interesting!",
+            "text": "It's full of things I've never seen before, yet somehow \nfamiliar and…… very interesting!",
             "choice_data_list": [
                 "That's good to hear. Great success!",
                 "Well, good for you, that's a huge success!"
@@ -176,16 +177,16 @@
             "text": "Eh ……?"
         },
         {
-            "text": "In fact, today's nature-watching event was a presentation of a project to Hokko Tarumae."
+            "text": "In fact, today's nature-watching event was a presentation of \na project to Hokko Tarumae."
         },
         {
-            "text": "She gave me this advice while I was planning a plan to attract more visitors to Tomakomai. From there, I came up with the idea of organizing the event on our own."
+            "text": "She gave me this advice while I was planning a plan to \nattract more visitors to Tomakomai. From there, I came up \nwith the idea of organizing the event on our own."
         },
         {
-            "text": "She will guide people through the nature of Tomakomai, which is full of attractions. It is sure to be a safe and educational tour."
+            "text": "She will guide people through the nature of \nTomakomai, which is full of attractions. It \nis sure to be a safe and educational tour."
         },
         {
-            "text": "If you provide a great nature experience with perfect guidance…… everyone will become a fan of Tomakomai. Just like she is now!",
+            "text": "If you provide a great nature experience with \nperfect guidance…… everyone will become a fan \nof Tomakomai. Just like she is now!",
             "choice_data_list": [
                 "How about it……?"
             ]
@@ -199,19 +200,19 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(That's right… trainers are always so positive and accepting―)"
+            "text": "(That's right… trainers are always \nso positive and accepting―)"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "―Let's do it! Nature watching event. And if we're going to do it, let's make it a perfect event!"
+            "text": "―Let's do it! Nature watching event. And if we're going to \ndo it, let's make it a perfect event!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "We also need to enlist the help of the locals and make sure we have enough guides……"
+            "text": "We also need to enlist the help of the locals and make sure \nwe have enough guides……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Also, we need to make a guidebook for our guests! We need to provide advance information on necessary equipment, basic precautions, advanced preparation is essential.",
+            "text": "Also, we need to make a guidebook for our guests! We need to \nprovide advance information on necessary equipment, basic \nprecautions, advanced preparation is essential.",
             "choice_data_list": [
                 "It's going to be busy!",
                 "You're going to be busy!"
@@ -223,15 +224,15 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "No matter what I say…… you always take it head on and see it in a positive light."
+            "text": "No matter what I say…… you always take it head on and see it \nin a positive light."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Even if I overthink things or say harsh things. You make it all…… good, and make it shine beautifully. So―"
+            "text": "Even if I overthink things or say harsh things. You make it \nall…… good, and make it shine beautifully. So―"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "With the trainer, I can be as I am…… and feel that it's okay to remain serious.",
+            "text": "With the trainer, I can be as I am…… and \nfeel that it's okay to remain serious.",
             "choice_data_list": [
                 "You're serious. That's your beauty.",
                 "Seriousness is your beauty."
@@ -239,20 +240,20 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "―hehehe. I'll do my best in both the race and locodol, seriously! Trainers, please be serious with me, too, okay?"
+            "text": "―hehehe. I'll do my best in both the race and locodol, \nseriously! Trainers, please be serious with me, too, okay?"
         },
         {
-            "text": "I feel as if our hearts are once again united, and I want to savor this time a little longer.",
+            "text": "I feel as if our hearts are once again united, and I want to \nsavor this time a little longer.",
             "choice_data_list": [
                 "A little more ― let's just keep watching this."
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "―No, let's go home! High tide is coming, and it's getting more and more dangerous!"
+            "text": "―No, let's go home! High tide is coming, and it's getting \nmore and more dangerous!"
         },
         {
-            "text": "……After all, safety comes first here! We walked briskly along the beach so that we could return home before the tide rose."
+            "text": "……After all, safety comes first here! We \nwalked briskly along the beach so that we \ncould return home before the tide rose."
         }
     ]
 }

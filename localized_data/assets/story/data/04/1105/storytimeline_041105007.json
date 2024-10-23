@@ -5,8 +5,8 @@
             "text": "It was the last day of Summer Training Camp. \nToday, once again……I'm being stared at."
         },
         {
-            "text": "…………",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "…………"
         },
         {
             "text": "I've gotten used to this situation as well. So, whenever I \nfelt that gaze on me, I would always respond like this――",
@@ -15,12 +15,12 @@
             ]
         },
         {
-            "text": "!",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "!"
         },
         {
-            "text": "……Not yet.",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……Not yet."
         },
         {
             "text": "Neo Universe responded. She seemed to be having fun.",
@@ -32,8 +32,8 @@
             "text": "I had also been trying to observe Neo Universe―― \nI tried telling a joke like that."
         },
         {
-            "text": "Neo Universe……\"Observation\" \n……by Trainer……?",
             "name": "Neo Universe",
+            "text": "Neo Universe……\"Observation\" \n……by Trainer……?",
             "choice_data_list": [
                 "Yeah……"
             ]
@@ -48,12 +48,12 @@
             "text": "I was just trying to get to know the Uma Musume I was in charge of―― \nI panicked, telling her I didn't mean anything strange by it."
         },
         {
-            "text": "…………",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "…………"
         },
         {
-            "text": "Hmmm……Affirmative.",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "Hmmm……Affirmative."
         },
         {
             "text": "Neo Universe nodded her head. \nIt seems like I was able to make her understand……probably."
@@ -68,38 +68,38 @@
             "text": "Lately, the nights had been cloudy and I haven't been \nable to see the stars. It was the last day, and I could \nsee a night sky that couldn't be seen in the city――"
         },
         {
-            "text": "……………………",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……………………"
         },
         {
             "text": "Suddenly, I remembered the night Neo Universe \nwas on the rooftop looking up at the sky."
         },
         {
-            "text": "Hurry, hurry! It's a festival! A festival~! We worked hard during \ntraining camp after all, so at the end we've gotta have fun~!",
-            "name": "Energetic Uma Musume"
+            "name": "Energetic Uma Musume",
+            "text": "Hurry, hurry! It's a festival! A festival~! We worked hard during \ntraining camp after all, so at the end we've gotta have fun~!"
         },
         {
-            "text": "Yeah, yeah! I want to conquer all the food stalls!",
-            "name": "Excited Uma Musume"
+            "name": "Excited Uma Musume",
+            "text": "Yeah, yeah! I want to conquer all the food stalls!"
         },
         {
-            "text": "…………",
-            "name": "Neo Universe"
-        },
-        {
-            "text": "……\"Light Years\"……it doesn't reach here, but \n……Today, more so than yesterday……",
-            "name": "Neo Universe"
-        },
-        {
-            "text": "…………",
             "name": "Neo Universe",
+            "text": "…………"
+        },
+        {
+            "name": "Neo Universe",
+            "text": "……\"Light Years\"……it doesn't reach here, but \n……Today, more so than yesterday……"
+        },
+        {
+            "name": "Neo Universe",
+            "text": "…………",
             "choice_data_list": [
                 "Good, there you are!"
             ]
         },
         {
-            "text": "Ah……",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "Ah……"
         },
         {
             "text": "Neo Universe spotted me and then came running. \n――Good, I thought she might have already headed out."
@@ -108,33 +108,33 @@
             "text": "Neo Universe stood in front of me as I caught my breath."
         },
         {
-            "text": "……Trainer?",
             "name": "Neo Universe",
+            "text": "……Trainer?",
             "choice_data_list": [
                 "Do you have any plans tonight?"
             ]
         },
         {
-            "text": "Plans…… \n……Neo Universe has……for Trainer……",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "Plans…… \n……Neo Universe has……for Trainer……"
         },
         {
-            "text": "……has been……\"Searching\"…… \nThat's why, together……with Trainer……",
             "name": "Neo Universe",
+            "text": "……has been……\"Searching\"…… \nThat's why, together……with Trainer……",
             "choice_data_list": [
                 "Then, it all works out!"
             ]
         },
         {
-            "text": "……?",
             "name": "Neo Universe",
+            "text": "……?",
             "choice_data_list": [
                 "I found a secret place!"
             ]
         },
         {
-            "text": "……Secret place……?",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……Secret place……?"
         },
         {
             "text": "I brought Neo Universe to the seaside, \nfar away from the festival music.",
@@ -143,23 +143,23 @@
             ]
         },
         {
-            "text": "…………",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "…………"
         },
         {
             "text": "The stars sparkled in Neo Universe's eyes. With \nthe way the starry sky reflected off of the ocean, \nit almost felt like we were floating in space."
         },
         {
-            "text": "Trainer……have you \n……been observing……Neo Universe?",
-            "name": "Neo Universe"
-        },
-        {
-            "text": "……I thought there wouldn't be a \"Landing\".",
-            "name": "Neo Universe"
-        },
-        {
-            "text": "……But Trainer did……a \"Fly-by\"…… \nand the \"Trajectory\"……wasn't a \"Planet\"……",
             "name": "Neo Universe",
+            "text": "Trainer……have you \n……been observing……Neo Universe?"
+        },
+        {
+            "name": "Neo Universe",
+            "text": "……I thought there wouldn't be a \"Landing\"."
+        },
+        {
+            "name": "Neo Universe",
+            "text": "……But Trainer did……a \"Fly-by\"…… \nand the \"Trajectory\"……wasn't a \"Planet\"……",
             "choice_data_list": [
                 "Yeah……"
             ]
@@ -177,20 +177,20 @@
             "text": "My feelings of wanting to show her this, and my \nfeelings of wanting to see this together with her \naligned. Though I may have been a bit forceful."
         },
         {
-            "text": "……No. Neo Universe……felt 『Fuzzy』 inside. This is 『Joy』 isn't it?",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……No. Neo Universe……felt 『Fuzzy』 inside. This is 『Joy』 isn't it?"
         },
         {
-            "text": "……\"Observation\" isn't done yet…… \nBut……we're \"Synchronized\" it seems……",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……\"Observation\" isn't done yet…… \nBut……we're \"Synchronized\" it seems……"
         },
         {
-            "text": "……You'll be 『Elated』. \nLike \"Hope\" will arrive.",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……You'll be 『Elated』. \nLike \"Hope\" will arrive."
         },
         {
-            "text": "……close your eyes. \nSince it will be bright, slowly……",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……close your eyes. \nSince it will be bright, slowly……"
         },
         {
             "text": "I closed my eyes as she said. \nAnd when I heard a small voice say 『Open them』――"
@@ -208,8 +208,8 @@
             "text": "But, she had just told me that it would be 『Bright』. \nWhich meant, this was……an overwhelming scene before \nmy eyes, one that would make my feet unsteady."
         },
         {
-            "text": "I'm right here.",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "I'm right here."
         },
         {
             "text": "Neo Universe stood before me, as if supporting \nme. Her eyes were focused on me, watching my \nreaction, but filled with anxiety and anticipation.",
@@ -218,8 +218,8 @@
             ]
         },
         {
-            "text": "!",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "!"
         },
         {
             "text": "I didn't care if this was real or an illusion. \nWhatever it was, I was feeling 『Elated』."
@@ -231,12 +231,12 @@
             ]
         },
         {
-            "text": "――――",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "――――"
         },
         {
-            "text": "……Ehehe.",
-            "name": "Neo Universe"
+            "name": "Neo Universe",
+            "text": "……Ehehe."
         },
         {
             "text": "Neo Universe showed me a smile――One filled with \ninnocence and felt as if it was just like the stars."

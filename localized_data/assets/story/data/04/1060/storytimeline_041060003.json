@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I was in my room one night, just before Nice Nature was due to face off with Tokai Teio at the big race meeting, when…"
+            "text": "I was in my room one night, just before Nice Nature was due to \nface off with Tokai Teio at the big race meeting, when…"
         },
         {
             "name": "Nice Nature",
@@ -9,11 +10,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Sorry to bother you so late. I left something behind in the trainers' office. I couldn't borrow the key for a sec, could I?"
+            "text": "Sorry to bother you so late. I left something behind in the \ntrainers' office. I couldn't borrow the key for a sec, could I?"
         },
         {
             "name": "Nice Nature",
-            "text": "And I figure there's no sense in disturbing you twice, so how about I hold onto it and I'll open up in the morning too. Sound good?",
+            "text": "And I figure there's no sense in disturbing you \ntwice, so how about I hold onto it and I'll open \nup in the morning too. Sound good?",
             "choice_data_list": [
                 "It's really late… let me go with you at least.",
                 "It's really late… let me go with you at least."
@@ -25,7 +26,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "I… it's fine, don't worry about it! Who do you think you're talking to, huh? I'm not some helpless little baby lamb over here, y'know?"
+            "text": "I… it's fine, don't worry about it! Who do you \nthink you're talking to, huh? I'm not some helpless \nlittle baby lamb over here, y'know?"
         },
         {
             "name": "Nice Nature",
@@ -46,11 +47,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hello? Is this Nature-san's trainer? This is Fuji Kiseki from the Ritto dormitory."
+            "text": "Hello? Is this Nature-san's trainer? This \nis Fuji Kiseki from the Ritto dormitory."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "It's an hour past curfew and she still isn't back yet. Do you have any idea where she might be?",
+            "text": "It's an hour past curfew and she still isn't back yet. Do you \nhave any idea where she might be?",
             "choice_data_list": [
                 "…!?"
             ]
@@ -59,21 +60,21 @@
             "text": "Uh-oh. This was bad. I rushed to the office."
         },
         {
-            "text": "I ran through the dark halls of the academy, back to the trainers' office. As I approached…"
+            "text": "I ran through the dark halls of the academy, back to the \ntrainers' office. As I approached…"
         },
         {
             "name": "Commentator",
-            "text": "…and it's Tokai Teio now, moving up on the outside as they enter the home straight…"
+            "text": "…and it's Tokai Teio now, moving up on the \noutside as they enter the home straight…"
         },
         {
             "name": "Commentator",
-            "text": "And she's clear! Tokai Teio is away! But can she stay away? [Commentator]: SHE CAN! Tokai Teio WINS! It's Tokai Teio by two lengths!",
+            "text": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Commentator]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!",
             "choice_data_list": [
                 "(One of Tokai Teio's race videos?)"
             ]
         },
         {
-            "text": "I opened the door and sure enough, there was Nice Nature, deep in concentration, watching a video of one of Tokai Teio's recent victories."
+            "text": "I opened the door and sure enough, there was Nice \nNature, deep in concentration, watching a video \nof one of Tokai Teio's recent victories."
         },
         {
             "name": "Nice Nature",
@@ -81,11 +82,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "But still. Wow. It's just win after win after win for this girl, huh. Makes it look easy, too. Somehow she's always in the right place at the right time."
+            "text": "But still. Wow. It's just win after win after win for this girl, \nhuh. Makes it look easy, too. Somehow she's always in the right \nplace at the right time."
         },
         {
             "name": "Nice Nature",
-            "text": "Seems like if you let her dictate the pace, that's it… you're toast. Yeesh.",
+            "text": "Seems like if you let her dictate the pace, \nthat's it… you're toast. Yeesh.",
             "choice_data_list": [
                 "Were you watching Teio's race videos by yourself this whole time?",
                 "Were you watching Teio's race videos by yourself this whole time?"
@@ -105,18 +106,18 @@
         },
         {
             "name": "Nice Nature",
-            "text": "From Fuji-san? What's she got to do with… Aaagh! Curfew!"
+            "text": "From Fuji-san? What's she got to do with… \nAaagh! Curfew!"
         },
         {
             "name": "Nice Nature",
             "text": "Ahh, I totally lost track of the time… ugh, I'm such an idiot!"
         },
         {
-            "text": "She was obviously so focused on her research that she didn't realize how late it was."
+            "text": "She was obviously so focused on her research \nthat she didn't realize how late it was."
         },
         {
             "name": "Nice Nature",
-            "text": "I'm… sorry. For lying to you earlier. Here, let me give you back your key. And I'll make sure I apologize for missing curfew.",
+            "text": "I'm… sorry. For lying to you earlier. Here, let me give you back \nyour key. And I'll make sure I apologize for missing curfew.",
             "choice_data_list": [
                 "You really want to beat Tokai Teio, don't you?",
                 "You really want to beat Tokai Teio, don't you?"
@@ -132,34 +133,34 @@
         },
         {
             "name": "Nice Nature",
-            "text": "How many times do I have to say it? I can't… I mean… I'm just not meant to…"
+            "text": "How many times do I have to say it? I can't… \nI mean… I'm just not meant to…"
         },
         {
-            "text": "She trailed off, walked over to the window, and looked up at the night sky."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "I'm not a big star. I wasn't made to shine like that. To be a hero… a champion…"
+            "text": "She trailed off, walked over to the window, \nand looked up at the night sky."
         },
         {
             "name": "Nice Nature",
-            "text": "There was a time when I thought maybe I could. Of course there was. Otherwise, I wouldn't be here."
+            "text": "I'm not a big star. I wasn't made to shine \nlike that. To be a hero… a champion…"
         },
         {
             "name": "Nice Nature",
-            "text": "But it's burned into my memory now. That feeling of pouring out everything you've got and coming up short."
+            "text": "There was a time when I thought maybe I could. Of course there \nwas. Otherwise, I wouldn't be here."
         },
         {
             "name": "Nice Nature",
-            "text": "The sight of your opponent's back… getting further and further out of reach."
+            "text": "But it's burned into my memory now. That feeling of pouring out \neverything you've got and coming up short."
         },
         {
             "name": "Nice Nature",
-            "text": "All that support, the big send-off, everyone's hopes and expectations… but being here, lining up with the real stars, with real talent… I see how things are."
+            "text": "The sight of your opponent's back… getting \nfurther and further out of reach."
         },
         {
             "name": "Nice Nature",
-            "text": "That's me. Just another background character with a typical also-ran's story."
+            "text": "All that support, the big send-off, everyone's hopes and \nexpectations… but being here, lining up with the real stars, with \nreal talent… I see how things are."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "That's me. Just another background character \nwith a typical also-ran's story."
         },
         {
             "name": "Nice Nature",
@@ -167,7 +168,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "So that's why you don't hear me talking about wanting to be first place, to be a champion. Kind of pathetic, huh.",
+            "text": "So that's why you don't hear me talking about wanting to be first \nplace, to be a champion. Kind of pathetic, huh.",
             "choice_data_list": [
                 "I don't think it is."
             ]
@@ -182,28 +183,28 @@
         },
         {
             "name": "Nice Nature",
-            "text": "But I'm not… I can't be a champion. C'mon, Trainer-san, knock it off already…!"
+            "text": "But I'm not… I can't be a champion. C'mon, \nTrainer-san, knock it off already…!"
         },
         {
             "name": "Nice Nature",
             "text": "Really, just… give it a rest, okay?"
         },
         {
-            "text": "She sounded sure… but the expression on her face told a different story."
+            "text": "She sounded sure… but the expression \non her face told a different story."
         },
         {
-            "text": "I walked her back to the dormitories, and together we apologized to Fuji Kiseki for breaking curfew."
+            "text": "I walked her back to the dormitories, and together we apologized \nto Fuji Kiseki for breaking curfew."
         },
         {
             "text": "Then, after training the next day…"
         },
         {
             "name": "Nice Nature",
-            "text": "So, um… trainer-san… is it alright if I do a little more video research after this?"
+            "text": "So, um… trainer-san… is it alright if I do \na little more video research after this?"
         },
         {
             "name": "Nice Nature",
-            "text": "Don't get any weird ideas. Like, \"ooh, she's all fired up to face off with Teio!\", or anything like that…"
+            "text": "Don't get any weird ideas. Like, \"ooh, she's all fired up to face \noff with Teio!\", or anything like that…"
         },
         {
             "name": "Nice Nature",
@@ -211,7 +212,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Even if I'm not going to win, I still want to put up a decent fight. You know, make it a contest, at least.",
+            "text": "Even if I'm not going to win, I still want to put up a decent \nfight. You know, make it a contest, at least.",
             "choice_data_list": [
                 "Alright! Let's do it!"
             ]
@@ -221,7 +222,7 @@
             "text": "Okay! Shall we?"
         },
         {
-            "text": "And so we squeezed every ounce of preparation we could into the final days before the big tournament."
+            "text": "And so we squeezed every ounce of preparation we could into the \nfinal days before the big tournament."
         }
     ]
 }

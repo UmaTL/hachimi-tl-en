@@ -1,24 +1,25 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": " At Tracen Academy, an event called the \"Classification Event\" is held, where the horse girls race in different fields."
+            "text": " At Tracen Academy, an event called the \"Classification Event\"\nis held, where the horse girls race in different fields."
         },
         {
-            "text": "As the event draws nearer, many of the horse girls are working feverishly on their training for the competition."
-        },
-        {
-            "name": "???",
-            "text": "Haa…Haaa! Just a bit more…"
-        },
-        {
-            "text": "Here was another horse girl who was exhausted, but still determined to reach the goal."
+            "text": "As the event draws nearer, many of the horse girls are working\nfeverishly on their training for the competition."
         },
         {
             "name": "???",
-            "text": "Goaaaaal… Haa…Haa…"
+            "text": "Haa…Haaa!\nJust a bit more…"
         },
         {
-            "text": "I ran to the horse girl who had fallen down right after crossing the finish line.  ",
+            "text": "Here was another horse girl who was exhausted,\nbut still determined to reach the goal."
+        },
+        {
+            "name": "???",
+            "text": "Goaaaaal…\nHaa…Haa…"
+        },
+        {
+            "text": "I ran to the horse girl who had fallen down\nright after crossing the finish line.  ",
             "choice_data_list": [
                 "Are you okay!?",
                 "Are you okay!?"
@@ -30,22 +31,22 @@
         },
         {
             "name": "???",
-            "text": "Phew… If I'm going to take first place in the competition, I have to work this hard."
+            "text": "Phew… If I'm going to take first place in\nthe competition, I have to work this hard."
         },
         {
             "name": "???",
-            "text": "Thanks for worrying about me. Eh, you are…?"
+            "text": "Thanks for worrying about me.\n Eh, you are…?"
         },
         {
             "text": "I introduced myself to her as a trainer."
         },
         {
             "name": "Haru Urara",
-            "text": "Oh! You are a trainer! I'm Haru Urara!"
+            "text": "Oh! You are a trainer!\nI'm Haru Urara!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, hey, if you're a trainer, you're coming to watch the competition, right?",
+            "text": "Hey, hey, if you're a trainer, you're coming\nto watch the competition, right?",
             "choice_data_list": [
                 "I'm planning to do it, of course, but...",
                 "I'm planning to do it, of course, but..."
@@ -53,21 +54,21 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Then come and watch me run, too! I'm going to come in first, I promise!"
+            "text": "Then come and watch me run, too!\nI'm going to come in first, I promise!"
         },
         {
             "name": "Haru Urara",
-            "text": "I'm in excellent form, healthy, the carrots are delicious, so I feel like I can win!"
+            "text": "I'm in excellent form, healthy, the carrots\nare delicious, so I feel like I can win!"
         },
         {
-            "text": "Training to the point of collapse, plus this confident look on her face…"
+            "text": "Training to the point of collapse, plus\nthis confident look on her face…"
         },
         {
             "text": "In a way, she might be a very special girl…?"
         },
         {
             "name": "Haru Urara",
-            "text": "All right, I'm going to continue training! I'll see you later. Bye-bye!"
+            "text": "All right, I'm going to continue training!\nI'll see you later. Bye-bye!"
         },
         {
             "name": "Haru Urara",
@@ -77,11 +78,11 @@
             "text": "With a cry that resembled a scream, Urara ran off."
         },
         {
-            "text": "Then on the day of the competition… I went to see what kind of race Urara would run."
+            "text": "Then on the day of the competition…\nI went to see what kind of race Urara would run."
         },
         {
             "name": "Commentator",
-            "text": "As the race enters the final straight, each horse girl makes her last spurt! Urara is falling behind, and the gap is widening!"
+            "text": "As the race enters the final straight, each\nhorse girl makes her last spurt! Urara is falling\nbehind, and the gap is widening!"
         },
         {
             "name": "Haru Urara",
@@ -89,24 +90,24 @@
         },
         {
             "name": "Commentator",
-            "text": "The lead group is in a chaotic fight! That's a close one! It's going to be a photo finish!"
+            "text": "The lead group is in a chaotic fight!\nThat's a close one! It's going to be a photo finish!"
         },
         {
-            "text": "All the horse girls except for Urara reached the finish line, but she still kept running desperately."
+            "text": "All the horse girls except for Urara reached the finish line,\nbut she still kept running desperately."
         },
         {
             "name": "Haru Urara",
-            "text": "I'm almost at the finish line! Almost there! Ohhhhhhh!"
+            "text": "I'm almost at the finish line! Almost there!\nOhhhhhhh!"
         },
         {
             "name": "Commentator",
-            "text": "Haru Urara with a delay… has just crossed the finish line! The spectators are applauding!"
+            "text": "Haru Urara with a delay… has just crossed the finish line!\nThe spectators are applauding!"
         },
         {
-            "text": "Her outcome was last place, and from the way she was running, I don't think she was injured or in bad shape. In other words, her current run is what she really is…"
+            "text": "Her outcome was last place, and from the way she was running,\nI don't think she was injured or in bad shape. In other words,\nher current run is what she really is…"
         },
         {
-            "text": "It wasn't what I had hoped for… but I was strangely attracted to the way she kept running until the very end."
+            "text": "It wasn't what I had hoped for… but I was strangely\nattracted to the way she kept running until the very end."
         },
         {
             "name": "Haru Urara",
@@ -117,15 +118,15 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Oh, the trainer from last time! You came to see me!"
+            "text": "Oh, the trainer from last time!\nYou came to see me!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hehe, I said I would win, but I lost. I failed to get the first place again~…"
+            "text": "Hehe, I said I would win, but I lost.\nI failed to get the first place again~…"
         },
         {
             "name": "Haru Urara",
-            "text": "But hey, I was able to run as hard as I could until the end! All that training was well worth it!",
+            "text": "But hey, I was able to run as hard as I could until the end!\nAll that training was well worth it!",
             "choice_data_list": [
                 "—I could see how eager you were."
             ]
@@ -136,15 +137,15 @@
         },
         {
             "name": "Haru Urara",
-            "text": "That was fun… I want to run again… Running is always fun!"
+            "text": "That was fun… I want to run again…\nRunning is always fun!"
         },
         {
             "name": "Haru Urara",
-            "text": "By the way, I'm also going to participate in the upcoming selection race!"
+            "text": "By the way, I'm also going to participate\nin the upcoming selection race!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, you should come watch too! I'm sure I can win the next time!",
+            "text": "Hey, you should come watch too!\nI'm sure I can win the next time!",
             "choice_data_list": [
                 "Sure. I'm going to go see it"
             ]
@@ -155,13 +156,13 @@
         },
         {
             "name": "Haru Urara",
-            "text": "All right, I've got to keep training again! Hey, Hey, Hoohh!"
+            "text": "All right, I've got to keep training again!\nHey, Hey, Hoohh!"
         },
         {
-            "text": "Although she must be frustrated with her loss, Urara is very motivated to compete in the next race."
+            "text": "Although she must be frustrated with her loss, Urara is very\nmotivated to compete in the next race."
         },
         {
-            "text": "She had such a positive attitude, and for some reason, I felt like I wanted to see her run once more."
+            "text": "She had such a positive attitude, and for some reason, I felt\nlike I wanted to see her run once more."
         }
     ]
 }

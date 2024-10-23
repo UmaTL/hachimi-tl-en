@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Symboli Rudolf",
-            "text": "<i>Trainer, in three days' time I will once more put this question to you and the others. </i>"
+            "text": "<i>Trainer, in three days' time I will once more \nput this question to you and the others. \n</i>"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "<i>At that time, I want you to exemplify your answer in some manner. </i>"
+            "text": "<i>At that time, I want you to exemplify \nyour answer in some manner. \n</i>"
         },
         {
-            "text": "The day after Symboli Rudolf had assigned me this task, I found myself deep in thought, pondering my next move, when ——"
+            "text": "The day after Symboli Rudolf had assigned \nme this task, I found myself deep in thought, \npondering my next move, when ——"
         },
         {
             "name": "Symboli Rudolf",
@@ -20,11 +21,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Great. It starts to get crowded around this time, and I'd like to leave some seats available at least."
+            "text": "Great. It starts to get crowded around this time, \nand I'd like to leave some seats available at least."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "By the way… I couldn't help but notice you seem a bit troubled. Is there something on your mind?",
+            "text": "By the way… I couldn't help but notice you seem \na bit troubled. Is there something on your mind?",
             "choice_data_list": [
                 "<size=32>I've been thinking about what you said to me…</size>",
                 "<size=32>I've been thinking about what you said to me…</size>"
@@ -36,19 +37,19 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It might not be my place to say this, but dwelling too much on things isn't healthy. Sometimes it's crucial to take a breather and clear your mind."
+            "text": "It might not be my place to say this, but dwelling \ntoo much on things isn't healthy. Sometimes it's \ncrucial to take a breather and clear your mind."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "How about we grab a sweet treat or two here in the cafeteria? It might help."
+            "text": "How about we grab a sweet treat or two \nhere in the cafeteria? It might help."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Carbohydrates provide energy for the brain, and fruits, vegetables, and whole grains can enhance mental focus."
+            "text": "Carbohydrates provide energy for the brain, and fruits, \nvegetables, and whole grains can enhance mental focus."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Looking at today's menu… I'd recommend the seasonal fruit salad.",
+            "text": "Looking at today's menu… \nI'd recommend the seasonal fruit salad.",
             "choice_data_list": [
                 "You know your stuff…!",
                 "You know your stuff…!"
@@ -56,11 +57,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Whoops… speaking to a professional trainer, perhaps I'm simply \"watering the ocean\"."
+            "text": "Whoops… speaking to a professional trainer, \nperhaps I'm simply \"watering the ocean\"."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "These things are often on my mind… It would seem that has caused me to talk on about them inadvertently.",
+            "text": "These things are often on my mind… It would seem that has \ncaused me to talk on about them inadvertently.",
             "choice_data_list": [
                 "Are you always that attentive to it?",
                 "Are you always that attentive to it?"
@@ -68,19 +69,19 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I am. To us horsegirls, diet is of significant importance both in developing our bodies and feeling fulfilled…"
+            "text": "I am. To us horsegirls, diet is of significant importance \nboth in developing our bodies and feeling fulfilled…"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "\"What is the optimal meal for me at the present moment?\" … It's a crucial and endlessly pondered question."
+            "text": "\"What is the optimal meal for me at the present moment?\" \n… It's a crucial and endlessly pondered question."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Of course, this concerns not only food. In all aspects of daily life I strive to discover and appreciate deeper meanings."
+            "text": "Of course, this concerns not only food. \nIn all aspects of daily life I strive to discover \nand appreciate deeper meanings."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Maintaining a broad perspective allows every aspect of life to become a driving force. It's an essential attitude to hold if I want to reach the great heights of my ambitions.",
+            "text": "Maintaining a broad perspective allows every aspect of life \nto become a driving force. It's an essential attitude to hold \nif I want to reach the great heights of my ambitions.",
             "choice_data_list": [
                 "That's impressive…",
                 "That's impressive…"
@@ -88,34 +89,34 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hahah, being admired so directly certainly makes me feel a little bashful."
+            "text": "Hahah, being admired so directly certainly \nmakes me feel a little bashful."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "This way of thinking has been ingrained in me since childhood… It has become a hard-to-break habit."
+            "text": "This way of thinking has been ingrained in me since \nchildhood… It has become a hard-to-break habit."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "… In any case, sometimes having an incurable habit can form a bit of a problem."
+            "text": "… In any case, sometimes having an incurable \nhabit can form a bit of a problem."
         },
         {
-            "text": "At those words, I followed Symboli Rudolf's gaze and surveyed our surroundings ——"
+            "text": "At those words, I followed Symboli Rudolf's gaze \nand surveyed our surroundings ——"
         },
         {
             "name": "Horsegirl A",
-            "text": "Oh my… It looks like Prez and that trainer are having quite the intense conversation…"
+            "text": "Oh my… It looks like Prez and that trainer \nare having quite the intense conversation…"
         },
         {
             "name": "Horsegirl B",
-            "text": "We shouldn't interrupt them… Let's find somewhere else to eat…!"
+            "text": "We shouldn't interrupt them… \nLet's find somewhere else to eat…!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "… As you can see, despite my efforts to squeeze in with you, I've unintentionally created empty seats around us."
+            "text": "… As you can see, despite my efforts to squeeze in with you, \nI've unintentionally created empty seats around us."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "As the student president, I want students to feel comfortable coming to me with their concerns. This way, I can serve as a better guide to them…"
+            "text": "As the student president, I want students to feel comfortable \ncoming to me with their concerns. This way, I can serve as a \nbetter guide to them…"
         },
         {
             "name": "Symboli Rudolf",
@@ -123,7 +124,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "If only I could initiate lighthearted and witty conversations that entertain everyone ——",
+            "text": "If only I could initiate lighthearted and witty \nconversations that entertain everyone ——",
             "choice_data_list": [
                 "How about we practice having \nthat kind of conversation?",
                 "How about we practice having \nthat kind of conversation?"
@@ -139,7 +140,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "My apologies. How do I put this, you're… quite easy to get along with. I didn't expect you to come with a suggestion like that."
+            "text": "My apologies. How do I put this, you're… \nquite easy to get along with. I didn't expect \nyou to come with a suggestion like that."
         },
         {
             "name": "Symboli Rudolf",
@@ -147,7 +148,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "If you don't mind, could you suggest a topic for conversation? Anything will do. Just something we can chat about naturally.",
+            "text": "If you don't mind, could you suggest a topic for conversation? \nAnything will do. Just something we can chat about naturally.",
             "choice_data_list": [
                 "Do you have any hobbies besides running?",
                 "Do you have any hobbies besides running?"
@@ -155,34 +156,34 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hobbies! That's a good approach. We can talk about those in a casual manner."
+            "text": "Hobbies! That's a good approach. \nWe can talk about those in a casual manner."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I'm particularly fond of playing chess. Not only sitting at the board, but also reading scores and game records is enjoyable."
+            "text": "I'm particularly fond of playing chess. Not only sitting at the \nboard, but also reading scores and game records is enjoyable."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Constantly assessing the battlefield, deciphering the opponent's thoughts, and planning each move towards a desired future — it's like a microcosm of life…"
+            "text": "Constantly assessing the battlefield, deciphering the \nopponent's thoughts, and planning each move towards \na desired future — it's like a microcosm of life…"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "…… Wait a minute, we're getting into serious territory again, aren't we?",
+            "text": "…… Wait a minute, we're getting into \nserious territory again, aren't we?",
             "choice_data_list": [
                 "Yeah……"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hmm, I suppose it's not something I can change overnight. This is difficult…"
+            "text": "Hmm, I suppose it's not something I can \nchange overnight. This is difficult…"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "… Oh, that reminds me! I have been looking into something in the hope that it could be of assistance in some light table talk!"
+            "text": "… Oh, that reminds me! I have been looking into something in \nthe hope that it could be of assistance in some light table talk!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Namely — jokes! A witty bit of humor that can lighten the mood instantly!",
+            "text": "Namely — jokes! A witty bit of humor \nthat can lighten the mood instantly!",
             "choice_data_list": [
                 "I see! I'd love to hear one.",
                 "I see! I'd love to hear one."
@@ -194,7 +195,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "The other day, I was walking down the street, and I saw a dog with a stunning coat. I couldn't resist exclaiming……"
+            "text": "The other day, I was walking down the street, and I saw a dog \nwith a stunning coat. I couldn't resist exclaiming……"
         },
         {
             "name": "Symboli Rudolf",
@@ -208,11 +209,11 @@
             ]
         },
         {
-            "text": "I discovered an unexpected side of her, but… overall, I felt like I had gained some insight into Symboli Rudolf."
+            "text": "I discovered an unexpected side of her, but… overall, I felt \nlike I had gained some insight into Symboli Rudolf."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hmm, \"woof-derful\"… I was rather proud of that one……"
+            "text": "Hmm, \"woof-derful\"… \nI was rather proud of that one……"
         }
     ]
 }

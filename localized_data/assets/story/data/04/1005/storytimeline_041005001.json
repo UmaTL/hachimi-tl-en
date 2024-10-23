@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "One day after work, I returned to my room when――",
@@ -7,16 +8,16 @@
             ]
         },
         {
-            "text": "As per the rules, it should've always been around my neck, but… Did I drop it somewhere? I've gotta hurry up and look for it!"
+            "text": "As per the rules, it should've always been around my neck, \nbut… \nDid I drop it somewhere? I've gotta hurry up and look for it!"
         },
         {
-            "text": "I walked around the Academy searching for my Trainer Badge. But――",
+            "text": "I walked around the Academy searching for my Trainer Badge. \nBut――",
             "choice_data_list": [
                 "(I don't see it anywhere…)"
             ]
         },
         {
-            "text": "I should look again to see if it fell in a corner or something. So, I focused particularly intently on one spot――"
+            "text": "I should look again to see if it fell in a corner or something. \nSo, I focused particularly intently on one spot――"
         },
         {
             "name": "???",
@@ -32,14 +33,14 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Not at all, I'm glad we're both OK! ――Though, you look a bit like you're in dire straits."
+            "text": "Not at all, I'm glad we're both OK! \n――Though, you look a bit like you're in dire straits."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "She was staring at the floor just now, too… Could it be, maybe she was also looking for something important?"
+            "text": "She was staring at the floor just now, too… \nCould it be, maybe she was also looking for something \nimportant?"
         },
         {
-            "text": "I told her that I had actually dropped my Trainer Badge, and was in the process of looking for it…"
+            "text": "I told her that I had actually dropped my Trainer Badge, and \nwas in the process of looking for it…"
         },
         {
             "name": "Fuji Kiseki",
@@ -47,19 +48,19 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The grounds of Tracen Academy are off-limits to everyone but officials. Without a badge, perhaps you might be misunderstood as a suspicious person…?"
+            "text": "The grounds of Tracen Academy are off-limits to everyone but \nofficials. Without a badge, perhaps you might be \nmisunderstood as a suspicious person…?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Speaking of which, did you know? There was once a scoundrel who entered the school late at night without permission."
+            "text": "Speaking of which, did you know? \nThere was once a scoundrel who entered the school late at \nnight without permission."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Chuckling to himself, he was walking alone down the empty, quiet, pitch-black hallway…"
+            "text": "Chuckling to himself, he was walking alone down the empty, \nquiet, pitch-black hallway…"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "At that very moment, I heard the <i>clop, clop</i> of footsteps not my own approaching… I turned around, and the next thing I knew, Miss Tazuna was standing there with a big smile on her face――!",
+            "text": "At that very moment, I heard the <i>clop, clop</i> of footsteps \nnot my own approaching… \nI turned around, and the next thing I knew, Miss Tazuna was \nstanding there with a big smile on her face――!",
             "choice_data_list": [
                 "(Gulp…!)"
             ]
@@ -73,33 +74,33 @@
             "text": "Take a look in your pocket, Trainer."
         },
         {
-            "text": "When I was told this so suddenly, I searched my pockets in wonder, and――",
+            "text": "When I was told this so suddenly, I searched my pockets in \nwonder, and――",
             "choice_data_list": [
                 "My badge!?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I picked it up there just a few moments ago. What a stroke of luck to come across its owner so soon!"
+            "text": "I picked it up there just a few moments ago. \nWhat a stroke of luck to come across its owner so soon!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I figured it might've been you, judging by your panic and the lack of a badge on your lapel… Glad I was spot on!",
+            "text": "I figured it might've been you, judging by your panic and the \nlack of a badge on your lapel… Glad I was spot on!",
             "choice_data_list": [
                 "When did you… in my pocket…?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I slipped it in a little when we bumped into each other earlier. Magic tricks are my forte! Fufufu, were you surprised?"
+            "text": "I slipped it in a little when we bumped into each other earlier. \nMagic tricks are my forte! \nFufufu, were you surprised?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But I think I startled you just a tad too much. I didn't want to simply return it normally, I wanted to make it a fun surprise, but… my apologies."
+            "text": "But I think I startled you just a tad too much. I didn't want to \nsimply return it normally, I wanted to make it a fun surprise, \nbut… my apologies."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ah, I know! How about dinner to make up for it? This time, I'll entertain you, Trainer!",
+            "text": "Ah, I know! How about dinner to make up for it? \nThis time, I'll entertain you, Trainer!",
             "choice_data_list": [
                 "I'd rather you just let me thank you, though…",
                 "I'd rather you just let me thank you, though…"
@@ -107,26 +108,26 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Well, then, let's call it a \"come to dinner with me\" thank-you! Now, shall we go to the cafeteria, Trainer."
+            "text": "Well, then, let's call it a \"come to dinner with me\" thank-you! \nNow, shall we go to the cafeteria, Trainer."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "By the way, Trainer, did you know? Today's the day they're adding a bread special to the menu!"
+            "text": "By the way, Trainer, did you know? \nToday's the day they're adding a bread special to the menu!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "They'll be offering an even greater variety of deli bread than usual, and even more delicious than the Carrot Bread, I highly recommend… the Carrot Bread EX!"
+            "text": "They'll be offering an even greater variety of deli bread than \nusual, and even more delicious than the Carrot Bread, I highly \nrecommend… the Carrot Bread EX!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Which one would you like, Trainer? I'll get you whatever you like, so feel free to let me know!"
+            "text": "Which one would you like, Trainer? \nI'll get you whatever you like, so feel free to let me know!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You must have walked all over campus looking for your badge, haven't you? You must be tired. Eat up and restore your energy!"
+            "text": "You must have walked all over campus looking for your badge, \nhaven't you? \nYou must be tired. Eat up and restore your energy!"
         },
         {
-            "text": "――After that, the fatigue of looking around for my badge was gone thanks to Fuji Kiseki's taking care of me."
+            "text": "――After that, the fatigue of looking around for my badge was \ngone thanks to Fuji Kiseki's taking care of me."
         },
         {
             "name": "Fuji Kiseki",
@@ -134,7 +135,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I've taken your preferences into account and selected a dessert that I think will suit your palate.",
+            "text": "I've taken your preferences into account and selected a \ndessert that I think will suit your palate.",
             "choice_data_list": [
                 "It's absolutely delicious…!"
             ]
@@ -145,7 +146,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…Ah, sorry, I got carried away just then. When I see you happy, Trainer, it makes me happy as well!",
+            "text": "…Ah, sorry, I got carried away just then. \nWhen I see you happy, Trainer, it makes me happy as well!",
             "choice_data_list": [
                 "You're very kind, aren't you.",
                 "You're very kind, aren't you."
@@ -157,15 +158,15 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I just wanted to provide you with the best time we could possibly have together."
+            "text": "I just wanted to provide you with the best time we could \npossibly have together."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The entertainer that always delights everyone, \"Fuji Kiseki\"! That's who I'd like to be."
+            "text": "The entertainer that always delights everyone, \"Fuji Kiseki\"! \nThat's who I'd like to be."
         },
         {
             "name": "Biko Pegasus",
-            "text": "Fuji-senpaaaaaiiii!! This is bad, this is bad, class-one crisis!!"
+            "text": "Fuji-senpaaaaaiiii!! \nThis is bad, this is bad, class-one crisis!!"
         },
         {
             "name": "Fuji Kiseki",
@@ -173,11 +174,11 @@
         },
         {
             "name": "Biko Pegasus",
-            "text": "The TV in my dorm is busted! Everyone is having trouble watching the nightly race broadcasts!"
+            "text": "The TV in my dorm is busted! \nEveryone is having trouble watching the nightly race \nbroadcasts!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "That <i>is</i> quite the crisis! Right, I'll be right there. Thanks for letting me know, Biko!"
+            "text": "That <i>is</i> quite the crisis! Right, I'll be right there. \nThanks for letting me know, Biko!"
         },
         {
             "name": "Mayano Top Gun",
@@ -185,15 +186,15 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "C'mon, c'mon, it's so boring without senpaai! Show us your super cool magic tricks again just like you did before～!!"
+            "text": "C'mon, c'mon, it's so boring without senpaai! \nShow us your super cool magic tricks again just like you did \nbefore～!!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahahaha, you're a Pony-chan in a fix. Okay, okay, I'll be right there, just wait for me at the dorms!"
+            "text": "Ahahaha, you're a Pony-chan in a fix. \nOkay, okay, I'll be right there, just wait for me at the dorms!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "―Trainer, I'm going to head back to the dorms first. You gave me a great time today. Thanks!"
+            "text": "―Trainer, I'm going to head back to the dorms first. \nYou gave me a great time today. Thanks!"
         },
         {
             "name": "Fuji Kiseki",
@@ -203,10 +204,10 @@
             "text": "With an uplifting smile, Fuji Kiseki took her leave."
         },
         {
-            "text": "If I'm not mistaken, Fuji Kiseki is also the head of Ritto Dormitory. From what I saw earlier, it seems that everyone tends to rely on her."
+            "text": "If I'm not mistaken, Fuji Kiseki is also the head of Ritto \nDormitory. \nFrom what I saw earlier, it seems that everyone tends to rely \non her."
         },
         {
-            "text": "What in the world would Fuji Kiseki, well-liked by everyone and saying she wants to \"entertain everyone,\" run like――?"
+            "text": "What in the world would Fuji Kiseki, well-liked by everyone and \nsaying she wants to \"entertain everyone,\" run like――?"
         },
         {
             "text": "I was on my way home, imagining it."

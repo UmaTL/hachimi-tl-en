@@ -1,14 +1,15 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Special Week went off for a run. As I awaited her return, I pondered on the steps I ought to take:"
+            "text": "Special Week went off for a run. As I awaited her return, I \npondered on the steps I ought to take:"
         },
         {
-            "text": "What I, as a trainer, could do for the girl who has her goal of becoming Japan's number one at heart, but with a mind gone astray-"
+            "text": "What I, as a trainer, could do for the girl who \nhas her goal of becoming Japan's number one at \nheart, but with a mind gone astray-"
         },
         {
             "name": "Special Week",
-            "text": "Pant… Pant… Wha-Trainer-san!? Were you waiting for me!? It's already late at night…",
+            "text": "Pant… Pant… Wha-Trainer-san!? Were you waiting \nfor me!? It's already late at night…",
             "choice_data_list": [
                 "Wanna go out tomorrow?"
             ]
@@ -26,7 +27,7 @@
         },
         {
             "name": "Commentator",
-            "text": "-Silence Suzuka takes the win! Not even letting the other runners tread on her shadow, she has displayed a run of grandeur!!"
+            "text": "-Silence Suzuka takes the win! Not even letting the other runners \ntread on her shadow, she has displayed a run of grandeur!!"
         },
         {
             "name": "Special Week",
@@ -34,7 +35,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Awesome, amazing, stunning, phenomenal!! Did you see that!? It's Suzuka-san! And her trademark getaway! Did you, did you!?"
+            "text": "Awesome, amazing, stunning, phenomenal!! Did you see that!? It's \nSuzuka-san! And her trademark getaway! Did you, did you!?"
         },
         {
             "name": "Special Week",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Special Week",
-            "text": "What a spectacle… The Twinkle Series is really no thing short of amazing!",
+            "text": "What a spectacle… The Twinkle Series \nis really no thing short of amazing!",
             "choice_data_list": [
                 "Since when did you aspire to be in it?",
                 "Since when did you aspire to be in it?"
@@ -54,7 +55,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Ever since I was small, I dreamed of running on this turf. Now that you ask me… Uhh…"
+            "text": "Ever since I was small, I dreamed of running \non this turf. Now that you ask me… Uhh…"
         },
         {
             "name": "Special Week",
@@ -62,23 +63,23 @@
         },
         {
             "name": "Special Week",
-            "text": "It was when I was 4… When Mom and I went out for a drive, we saw an old lady by the roadside who was in pain."
+            "text": "It was when I was 4… When Mom and I went out for a drive, we \nsaw an old lady by the roadside who was in pain."
         },
         {
             "name": "Special Week",
-            "text": "She looked like she was having a paroxysm, so she needed to be attended by a doctor immediately, but there weren't any houses nearby that we could call from…"
+            "text": "She looked like she was having a paroxysm, so she needed to be \nattended by a doctor immediately, but there weren't any houses \nnearby that we could call from…"
         },
         {
             "name": "Special Week",
-            "text": "So I made a run for the clinic. It was my first time running at full speed, with every fiber of my being."
+            "text": "So I made a run for the clinic. It was my first time running at \nfull speed, with every fiber of my being."
         },
         {
             "name": "Special Week",
-            "text": "With the doctor's utmost efforts, she was treated and her life was saved."
+            "text": "With the doctor's utmost efforts, she \nwas treated and her life was saved."
         },
         {
             "name": "Special Week",
-            "text": "Before anything else, I got scolded for running off on my own… but soon after, Mom held me tight, and said to me…"
+            "text": "Before anything else, I got scolded for running off on my own… \nbut soon after, Mom held me tight, and said to me…"
         },
         {
             "name": "Special Week",
@@ -89,26 +90,26 @@
         },
         {
             "name": "Special Week",
-            "text": "Yes. \"You're my… no, our pride and joy.\" \"I can't be happier to have brought up such a lively and fine girl\", she continued."
+            "text": "Yes. \"You're my… no, our pride and joy.\" \"I can't be happier to \nhave brought up such a lively and fine girl\", she continued."
         },
         {
             "name": "Special Week",
-            "text": "It's all coming back to me now… My desires all stemmed from there… To keep running, to cut a brilliant figure…"
+            "text": "It's all coming back to me now… My desires all stemmed from \nthere… To keep running, to cut a brilliant figure…"
         },
         {
             "name": "Special Week",
             "text": "And to become as prideworthy as I'll ever be…!!"
         },
         {
-            "text": "At that moment… I saw the shine in Special Week's eyes. It was the same as when she spoke of her dreams."
+            "text": "At that moment… I saw the shine in Special Week's eyes. It was \nthe same as when she spoke of her dreams."
         },
         {
             "name": "Commentator",
-            "text": "It is now time for today's last race! Which horse girl will take the crown of glory atop the grand stage that is the Twinkle Series!?"
+            "text": "It is now time for today's last race! Which horse \ngirl will take the crown of glory atop the grand \nstage that is the Twinkle Series!?"
         },
         {
             "name": "Special Week",
-            "text": "Trainer-san… I have a request. Let me run against El-chan and Grass-chan one more time!"
+            "text": "Trainer-san… I have a request. Let me run against \nEl-chan and Grass-chan one more time!"
         },
         {
             "name": "Special Week",
@@ -119,7 +120,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Pant, pant, pant…! Spe-chan, is that all you got!? If so… victory will be mine!!"
+            "text": "Pant, pant, pant…! Spe-chan, is that all \nyou got!? If so… victory will be mine!!"
         },
         {
             "name": "Grass Wonder",
@@ -139,7 +140,7 @@
         },
         {
             "name": "Special Week",
-            "text": "(The thought of being hated by my friends really terrified me…! )"
+            "text": "(The thought of being hated by my friends \nreally terrified me…! )"
         },
         {
             "name": "Special Week",
@@ -163,11 +164,11 @@
         },
         {
             "name": "Special Week",
-            "text": "(That's right! To seize victory, I must run, run, and run! After all… That's what I came here for! )"
+            "text": "(That's right! To seize victory, I must run, run, and run! After \nall… That's what I came here for! )"
         },
         {
             "name": "Special Week",
-            "text": "( However good friends we may be… However terrified about being hated I may be… For my own sake-for the sake of being prideworthy, I must keep on running!! )"
+            "text": "( However good friends we may be… However terrified about being \nhated I may be… For my own sake-for the sake of being \nprideworthy, I must keep on running!! )"
         },
         {
             "name": "Special Week",
@@ -190,15 +191,15 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "\"Thank you\", I said! Spe-chan, you finally ran with all you've got. That's why I was able to run with all I've got myself."
+            "text": "\"Thank you\", I said! Spe-chan, you finally ran with all you've \ngot. That's why I was able to run with all I've got myself."
         },
         {
             "name": "El Condor Pasa",
-            "text": "It is by facing off with our bests that we get to go beyond best, and grow, all together! -Hence the gracias!"
+            "text": "It is by facing off with our bests that we get to go beyond best, \nand grow, all together! -Hence the gracias!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "As friends… As rivals, let's keep on facing off with the best we've got! Friendly, competition! Ad infinitum!!"
+            "text": "As friends… As rivals, let's keep on facing off with the best \nwe've got! Friendly, competition! Ad infinitum!!"
         },
         {
             "name": "Special Week",
@@ -206,7 +207,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "( Chuckles ) Spe-chan, Spe-chan. Seems like that girl who's been watching from a distance has something to tell you."
+            "text": "( Chuckles ) Spe-chan, Spe-chan. Seems like that girl who's been \nwatching from a distance has something to tell you."
         },
         {
             "name": "Special Week",
@@ -218,7 +219,7 @@
         },
         {
             "name": "Spe's Classmate",
-            "text": "I was in a bad mood… I was panicking… and I ended up lashing out at you… I'm terribly, terribly sorry!!"
+            "text": "I was in a bad mood… I was panicking… and I ended up lashing \nout at you… I'm terribly, terribly sorry!!"
         },
         {
             "name": "Special Week",
@@ -226,23 +227,23 @@
         },
         {
             "name": "Special Week",
-            "text": "To make up for it… next time, let's race each other fair and square! Win against me, and aim for your debut. I'll run with all my might too, so that I won't lose to you!"
+            "text": "To make up for it… next time, let's race each other fair and \nsquare! Win against me, and aim for your debut. I'll run with all \nmy might too, so that I won't lose to you!"
         },
         {
             "name": "Spe's Classmate",
-            "text": "Spe-chan…! Yes, let's…!…I'll train hard to win against you at full power…!"
+            "text": "Spe-chan…! Yes, let's…!…I'll train hard \nto win against you at full power…!"
         },
         {
             "name": "Special Week",
-            "text": "( Chuckles )…Sure! Let's give it our best shots together! As rivals… and as friends!"
+            "text": "( Chuckles )…Sure! Let's give it our best shots \ntogether! As rivals… and as friends!"
         },
         {
             "name": "Special Week",
-            "text": "…Trainer-san, thank you so much for reminding me of this important message."
+            "text": "…Trainer-san, thank you so much for reminding \nme of this important message."
         },
         {
             "name": "Special Week",
-            "text": "Together with you, and all my friends, I feel like I can keep on going! And one day, I'll become Japan's top horse girl."
+            "text": "Together with you, and all my friends, I feel like I can keep on \ngoing! And one day, I'll become Japan's top horse girl."
         },
         {
             "text": "( Gwwarrrrr~ ~ )"

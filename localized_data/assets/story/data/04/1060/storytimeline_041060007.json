@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was the summer training camp. We'd settled into the routine, running every day on the beach. Then one day…"
+            "text": "It was the summer training camp. We'd settled into the routine, \nrunning every day on the beach. Then one day…"
         },
         {
             "name": "Nice Nature",
             "text": "Phew! How about that! My times are really improving, huh."
         },
         {
-            "text": "They really were. The fruits of her hard work at the training camp were plain to see."
+            "text": "They really were. The fruits of her hard work at the training \ncamp were plain to see."
         },
         {
             "name": "Nice Nature",
-            "text": "If can get times like that on sand, imagine how I'll go on a real course…",
+            "text": "If can get times like that on sand, imagine \nhow I'll go on a real course…",
             "choice_data_list": [
                 "You'll win for sure!",
                 "You'll win for sure!"
@@ -20,22 +21,22 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Pff, if only. I don't think it's quite that simple. For a start, everyone else is training like this too…"
+            "text": "Pff, if only. I don't think it's quite that simple. For a start, \neveryone else is training like this too…"
         },
         {
             "name": "Nice Nature",
-            "text": "Ugh, sorry, I shouldn't say stuff like that to you after all the support you've given me. I need to stop being such a downer."
+            "text": "Ugh, sorry, I shouldn't say stuff like that to you after all the \nsupport you've given me. I need to stop being such a downer."
         },
         {
             "name": "Nice Nature",
-            "text": "But that's my problem, not yours. Just pretend I didn't say anything, 'kay?"
+            "text": "But that's my problem, not yours. Just \npretend I didn't say anything, 'kay?"
         },
         {
             "text": "Just then, we heard voices approaching from down the beach…"
         },
         {
             "name": "Horsegirl A",
-            "text": "…if I'd know there was going to be a festival I'd have brought something to wear…!"
+            "text": "…if I'd know there was going to be a festival \nI'd have brought something to wear…!"
         },
         {
             "name": "Horsegirl B",
@@ -55,39 +56,39 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Oh yeah, I love a good festival. But not, like, the big ones, you know? I mean those little local ones they have in the park and stuff."
+            "text": "Oh yeah, I love a good festival. But not, like, \nthe big ones, you know? I mean those little local \nones they have in the park and stuff."
         },
         {
             "name": "Nice Nature",
-            "text": "Oh yeah, me and my friends back home… the times we had…! So many memories…"
+            "text": "Oh yeah, me and my friends back home… \nthe times we had…! So many memories…"
         },
         {
             "name": "Nice Nature",
-            "text": "You might not think it to look at me, but they all said I danced the best bon-odori they'd every seen!"
+            "text": "You might not think it to look at me, but they all said I danced \nthe best bon-odori they'd every seen!"
         },
         {
             "name": "Nice Nature",
-            "text": "Heh… pretty great, huh? A racehorse who can't win races but dances a mean bon-odori! As talents go, I think it kind of suits me."
+            "text": "Heh… pretty great, huh? A racehorse who can't \nwin races but dances a mean bon-odori! As talents \ngo, I think it kind of suits me."
         },
         {
             "name": "Nice Nature",
-            "text": "Anyway, I think that's enough reminiscing for now. What do you say we get down to the festival and let our hair down a little?"
+            "text": "Anyway, I think that's enough reminiscing for now. What do you \nsay we get down to the festival and let our hair down a little?"
         },
         {
             "name": "Nice Nature",
-            "text": "Oh yeah, this is what I'm talking about. It's just not summer without a little festival!"
+            "text": "Oh yeah, this is what I'm talking about. \nIt's just not summer without a little festival!"
         },
         {
             "name": "Nice Nature",
-            "text": "Where next, where next… we've got yakisoba, we've got corn on the cob… squid on a stick! I love squid on a stick!"
+            "text": "Where next, where next… we've got yakisoba, we've got \ncorn on the cob… squid on a stick! I love squid on a stick!"
         },
         {
             "name": "Nice Nature",
-            "text": "I think I've earned a reward after all that running! I'm going to get one of everything!"
+            "text": "I think I've earned a reward after all that running! \nI'm going to get one of everything!"
         },
         {
             "name": "Nice Nature",
-            "text": "You too, trainer-san, don't hold back! I can't get wild over here all by myself!"
+            "text": "You too, trainer-san, don't hold back! \nI can't get wild over here all by myself!"
         },
         {
             "text": "As we were making our way around the festival stalls…"
@@ -110,11 +111,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "When I said I was a good dancer I meant, like, compared to my friends. I'm not about to dance in some big competition or anything."
+            "text": "When I said I was a good dancer I meant, like, \ncompared to my friends. I'm not about to dance \nin some big competition or anything."
         },
         {
             "name": "Nice Nature",
-            "text": "No, I just want to have a nice time, dancing with a few friends in the park. That's more my speed.",
+            "text": "No, I just want to have a nice time, dancing with a few friends \nin the park. That's more my speed.",
             "choice_data_list": [
                 "But… your friends could see you were good, right?",
                 "But… your friends could see you were good, right?"
@@ -126,29 +127,29 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Ugh, trainer-san, you're the worst. I told you before, flattery will get you nowhere!"
+            "text": "Ugh, trainer-san, you're the worst. \nI told you before, flattery will get you nowhere!"
         },
         {
             "name": "Nice Nature",
-            "text": "Anyway! We still have all these stalls to see! Come on, I want to get a baked potato…! Come on, let's go!"
+            "text": "Anyway! We still have all these stalls to see! \nCome on, I want to get a baked potato…! Come on, let's go!"
         },
         {
-            "text": "Nice Nature made a quick exit and I hurried after her. The Bon-odori Grand Prix would have to wait for now…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Ahhh, I am stuffed! I ate so much… maybe I got a little carried away…"
+            "text": "Nice Nature made a quick exit and I hurried after her. \nThe Bon-odori Grand Prix would have to wait for now…"
         },
         {
             "name": "Nice Nature",
-            "text": "Alright! We should probably be getting back. Another big day of training tomorrow!"
+            "text": "Ahhh, I am stuffed! I ate so much… \nmaybe I got a little carried away…"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Alright! We should probably be getting back. \nAnother big day of training tomorrow!"
         },
         {
             "text": "Then, just as we were about to set off back to the lodge…"
         },
         {
             "name": "MC",
-            "text": "Bon-odori Grand Prix! Last call! Last call to sign up for the big Bon-odori Grand Prix!"
+            "text": "Bon-odori Grand Prix! Last call! \nLast call to sign up for the big Bon-odori Grand Prix!"
         },
         {
             "name": "Nice Nature",
@@ -164,7 +165,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "I mean… it was just some of my friends who said it was pretty good, it's not, like, special or anything…",
+            "text": "I mean… it was just some of my friends who said it was pretty \ngood, it's not, like, special or anything…",
             "choice_data_list": [
                 "I wanna see it!!!"
             ]
@@ -175,7 +176,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "But don't get your hopes up, alright? I haven't danced the bon-odori for a long time, you know?",
+            "text": "But don't get your hopes up, alright? I haven't danced the \nbon-odori for a long time, you know?",
             "choice_data_list": [
                 "Alright! Now, get out there and win that thing!"
             ]
@@ -193,7 +194,7 @@
         },
         {
             "name": "MC",
-            "text": "Number 12, all the way from Tracen Academy… MC: …the dancing horsegirl, NICE… NEECHAN!!!!"
+            "text": "Number 12, all the way from Tracen Academy… \nMC: …the dancing horsegirl, NICE… NEECHAN!!!!"
         },
         {
             "name": "Nice Nature",
@@ -201,7 +202,7 @@
         },
         {
             "name": "MC",
-            "text": "That's right! You wowed all our judges with your commitment and passion! The vote was unanimous! Congratulations!"
+            "text": "That's right! You wowed all our judges with your commitment \nand passion! The vote was unanimous! Congratulations!"
         },
         {
             "name": "Nice Nature",
@@ -209,7 +210,7 @@
         },
         {
             "name": "MC",
-            "text": "Let's have a huge round of applause for our winner… NICE NEECHAN!"
+            "text": "Let's have a huge round of applause \nfor our winner… NICE NEECHAN!"
         },
         {
             "text": "(Clapclapclapclap!!!)"
@@ -227,11 +228,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Yeah, thanks! I don't know, I just thought I might as well give it a try."
+            "text": "Yeah, thanks! I don't know, I just thought \nI might as well give it a try."
         },
         {
             "name": "Nice Nature",
-            "text": "Maybe that's it. I try things I wouldn't when you're around. You're good at talking me into stuff.",
+            "text": "Maybe that's it. I try things I wouldn't when you're around. \nYou're good at talking me into stuff.",
             "choice_data_list": [
                 "It's not me. I think you're just learning \nto be honest about what you really want.",
                 "It's not me. I think you're just learning \nto be honest about what you really want."
@@ -243,7 +244,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Alright. Starting tomorrow I'm going to train extra hard. Today: the dancefloor. Tomorrow: who knows…? Hehe…"
+            "text": "Alright. Starting tomorrow I'm going to train extra hard. \nToday: the dancefloor. Tomorrow: who knows…? Hehe…"
         }
     ]
 }

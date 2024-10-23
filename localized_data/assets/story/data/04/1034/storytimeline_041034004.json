@@ -2,24 +2,24 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Eh？……do a mock race, right now？ Comin' all the way out to the Oi \nracetrack……and to top it off, in front of a crowd！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Eh？……do a mock race, right now？ Comin' all the way out to the Oi \nracetrack……and to top it off, in front of a crowd！"
         },
         {
-            "text": "Ufufu, Inari-chan！！ \nThe Chief told us, so we came to watch～！！",
-            "name": "Townsfolk"
+            "name": "Townsfolk",
+            "text": "Ufufu, Inari-chan！！ \nThe Chief told us, so we came to watch～！！"
         },
         {
-            "text": "Well, aren't they lively？ The ones you're facin', \njust like you, they're all plannin' on joinin' me. \nNow's as good a time as ever to face off, right？",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "Well, aren't they lively？ The ones you're facin', \njust like you, they're all plannin' on joinin' me. \nNow's as good a time as ever to face off, right？"
         },
         {
-            "text": "Ain't that too sudden！？ \nBut, well, I'll do it if the Chief says so……！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Ain't that too sudden！？ \nBut, well, I'll do it if the Chief says so……！"
         },
         {
-            "text": "Yeah, please do. ……Alright, go get changed.",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "Yeah, please do. ……Alright, go get changed."
         },
         {
             "text": "Seems like the 『Race』 the Chief wanted me to see……was this one, a \nmock race between Inari One and the newer team members."
@@ -31,44 +31,44 @@
             "text": "With everyone in high-spirits looking on――the race began."
         },
         {
-            "text": "(A mock race with the Uma Musume who joined recently……\nI get it, but isn't it too soon？ Besides, why would \nya tell me only on the day of？ Hmmmmm……)",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "(A mock race with the Uma Musume who joined recently……\nI get it, but isn't it too soon？ Besides, why would \nya tell me only on the day of？ Hmmmmm……)"
         },
         {
-            "text": "Haa, haa, haa, haa……！",
-            "name": "Purple Scrunchie Uma Musume"
-        },
-        {
-            "text": "(――can't get distracted, I need to focus！ She's runnin' \nenergetically, but she should be runnin' out of stamina soon, \nright？ I'll make my move……！)",
-            "name": "Inari One"
-        },
-        {
-            "text": "Uu……oOOOOOOOOOH！！",
-            "name": "Purple Scrunchie Uma Musume"
-        },
-        {
-            "text": "(！？ She's not……fallin' behind！？)",
-            "name": "Inari One"
-        },
-        {
-            "text": "I…… ran out of stamina again, and got 5th though……",
-            "name": "Purple Scrunchie Uma Musume"
-        },
-        {
-            "text": "Zeee haaa haaa haaa…… \nGaaAAAAAAAAA！！",
-            "name": "Purple Scrunchie Uma Musume"
-        },
-        {
-            "text": "(Hey hey！ This girl…… she's completely \ndifferent from before, ain't she！？)",
-            "name": "Inari One"
-        },
-        {
-            "text": "Kuu……！ Come, onnnnn！！",
-            "name": "Inari One"
-        },
-        {
-            "text": "Guuuuuuu……！ \nNot yet……not yet, not yet, not yeeeeeeeeeet！！",
             "name": "Purple Scrunchie Uma Musume",
+            "text": "Haa, haa, haa, haa……！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(――can't get distracted, I need to focus！ She's runnin' \nenergetically, but she should be runnin' out of stamina soon, \nright？ I'll make my move……！)"
+        },
+        {
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "Uu……oOOOOOOOOOH！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(！？ She's not……fallin' behind！？)"
+        },
+        {
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "I…… ran out of stamina again, and got 5th though……"
+        },
+        {
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "Zeee haaa haaa haaa…… \nGaaAAAAAAAAA！！"
+        },
+        {
+            "name": "Inari One",
+            "text": "(Hey hey！ This girl…… she's completely \ndifferent from before, ain't she！？)"
+        },
+        {
+            "name": "Inari One",
+            "text": "Kuu……！ Come, onnnnn！！"
+        },
+        {
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "Guuuuuuu……！ \nNot yet……not yet, not yet, not yeeeeeeeeeet！！",
             "choice_data_list": [
                 "……！"
             ]
@@ -83,117 +83,117 @@
             ]
         },
         {
-            "text": "！ ――……！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "！ ――……！！"
         },
         {
-            "text": "DeeEEEEERyaaAAAAAAAーーー！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "DeeEEEEERyaaAAAAAAAーーー！！"
         },
         {
             "text": "Until the very last moment she was just one step \nbehind, but―― At the end, narrowly by a nose, Inari \nOne was able to pull ahead and take first……"
         },
         {
-            "text": "Zeee, haaa, haaa, haaa！！",
-            "name": "Inari and Others"
+            "name": "Inari and Others",
+            "text": "Zeee, haaa, haaa, haaa！！"
         },
         {
-            "text": "Naaaaaaaaa, daaaaaaamnitーーー！！ \nI lostーーーー！！！",
-            "name": "Purple Scrunchie Uma Musume"
+            "name": "Purple Scrunchie Uma Musume",
+            "text": "Naaaaaaaaa, daaaaaaamnitーーー！！ \nI lostーーーー！！！"
         },
         {
-            "text": "Haaa, haaa……N-no, but……\nyou, when did ya……make it this far……！？",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Haaa, haaa……N-no, but……\nyou, when did ya……make it this far……！？"
         },
         {
-            "text": "It was close. But, well――do ya get it now, Inari？",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "It was close. But, well――do ya get it now, Inari？"
         },
         {
-            "text": "I don't need somethin' like you payin' back \nyour debts. Even without ya―― this place, has \nyoungsters like her who will support it.",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "I don't need somethin' like you payin' back \nyour debts. Even without ya―― this place, has \nyoungsters like her who will support it."
         },
         {
-            "text": "！？ Eh……Chief！！ What the heck are ya sayin' all of a sudden！？ \nI'll be at the Chief's place, and enter Oi races――",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "！？ Eh……Chief！！ What the heck are ya sayin' all of a sudden！？ \nI'll be at the Chief's place, and enter Oi races――"
         },
         {
-            "text": "What are ya sayin', ya moron！？ ……Do ya think I haven't noticed？ \nIt's obvious ya had a change of heart.",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "What are ya sayin', ya moron！？ ……Do ya think I haven't noticed？ \nIt's obvious ya had a change of heart."
         },
         {
-            "text": "Ya want to go to Tracen Academy, don't ya？ \nStop doin' somethin' miserable like bottlin' it up and bearin' it.",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "Ya want to go to Tracen Academy, don't ya？ \nStop doin' somethin' miserable like bottlin' it up and bearin' it."
         },
         {
-            "text": "If you're an Edo kid from the rough side of town！ Go to the big \nstage of the Twinkle Series, stir it up, and make some big waves！！",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "If you're an Edo kid from the rough side of town！ Go to the big \nstage of the Twinkle Series, stir it up, and make some big waves！！"
         },
         {
-            "text": "……！\nC……Chief……！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "……！\nC……Chief……！！"
         },
         {
-            "text": "That's right！ If it's for Inari-chan, \nI'll go wherever to cheer her on！！",
-            "name": "Soba-stand Old Lady"
+            "name": "Soba-stand Old Lady",
+            "text": "That's right！ If it's for Inari-chan, \nI'll go wherever to cheer her on！！"
         },
         {
-            "text": "The Edo Kid, Inari has arrived！ \nOn that big stage, go knock their socks off！！",
-            "name": "Shopkeeper Old Man"
+            "name": "Shopkeeper Old Man",
+            "text": "The Edo Kid, Inari has arrived！ \nOn that big stage, go knock their socks off！！"
         },
         {
-            "text": "WaaAAAAAAA！！ \nInari！ Inari！ Inari！ Inari！",
-            "name": "Townsfolk"
+            "name": "Townsfolk",
+            "text": "WaaAAAAAAA！！ \nInari！ Inari！ Inari！ Inari！"
         },
         {
-            "text": "Everyone……",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Everyone……"
         },
         {
-            "text": "……Hmph, what's with that mopey look on your face？ \nC'mon, get goin' already！",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "……Hmph, what's with that mopey look on your face？ \nC'mon, get goin' already！"
         },
         {
-            "text": "You've already got a partner, don't ya？ That race \njust now……the reason ya could pull through at the \nend, it's not like ya haven't realized it.",
-            "name": "Chief"
+            "name": "Chief",
+            "text": "You've already got a partner, don't ya？ That race \njust now……the reason ya could pull through at the \nend, it's not like ya haven't realized it."
         },
         {
-            "text": "Chief……Yeah. \n……Yeah, I got it！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Chief……Yeah. \n……Yeah, I got it！！"
         },
         {
             "text": "And so――several weeks later."
         },
         {
-            "text": "Hey hey hey hey. I'm comin' in！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "Hey hey hey hey. I'm comin' in！！"
         },
         {
+            "name": "Inari One",
             "text": "A workin' class girl, from a workin' class town！！ \nAnd now a student at Tracen Academy, the Edo \nKid, Inari, refers to me！！……ya see！？",
-            "name": "Inari One",
             "choice_data_list": [
-                "<size=41>Inari One……！ I was waiting for you！！</size>"
+                "Inari One……！ I was waiting for you！！"
             ]
         },
         {
+            "name": "Inari One",
             "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？",
-            "name": "Inari One",
             "choice_data_list": [
-                "<size=43>Yeah！ We'll take on the world, Inari！</size>",
-                "<size=43>Yeah！ We'll take on the world, Inari！</size>"
+                "Yeah！ We'll take on the world, Inari！",
+                "Yeah！ We'll take on the world, Inari！"
             ]
         },
         {
+            "name": "Inari One",
             "text": "Just Inari is fine, let's keep it casual. Since, from now on, \nwe're gonna be on the same long～road together. Right, Boss！？",
-            "name": "Inari One",
             "choice_data_list": [
-                "<size=43>Yeah！ We'll take on the world, Inari！</size>",
-                "<size=43>Yeah！ We'll take on the world, Inari！</size>"
+                "Yeah！ We'll take on the world, Inari！",
+                "Yeah！ We'll take on the world, Inari！"
             ]
         },
         {
-            "text": "That's what I'm talkin' about！！ Alright――once more, I'm here from \nOi to stir things up at the Twinkle Series！！",
-            "name": "Inari One"
+            "name": "Inari One",
+            "text": "That's what I'm talkin' about！！ Alright――once more, I'm here from \nOi to stir things up at the Twinkle Series！！"
         }
     ]
 }

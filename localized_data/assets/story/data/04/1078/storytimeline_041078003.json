@@ -1,47 +1,48 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was the day before the race when I heard that Zephyr's participation in the 'Selection Race' had been cancelled."
+            "text": "It was the day before the race when I heard that Zephyr's \nparticipation in the 'Selection Race' had been cancelled."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Uh, uh… my legs… Why… I… again…!"
+            "text": "Uh, uh… my legs… \nWhy… I… again…!"
         },
         {
             "name": "Infirmary Teacher",
-            "text": "Geez… what a reckless training. It's only natural to get hurt in this situation. It's impossible to race in your current condition."
+            "text": "Geez… what a reckless training. It's only natural \nto get hurt in this situation. It's impossible \nto race in your current condition."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "No, I will race. You can't stop the wind once it starts blowing."
+            "text": "No, I will race. \nYou can't stop the wind once it starts blowing."
         },
         {
             "name": "Infirmary Teacher",
-            "text": "Don't be silly. If you push yourself now, you may never be able to run again."
+            "text": "Don't be silly. If you push yourself now, \nyou may never be able to run again."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "A calm doesn't mean that the wind stops, but that it disappears… If I can't become the wind in the race, then I…!",
+            "text": "A calm doesn't mean that the wind stops, but that it \ndisappears… If I can't become the wind in the race, then I…!",
             "choice_data_list": [
                 "Calm down, Zephyr",
                 "Calm down, Zephyr"
             ]
         },
         {
-            "text": "I proposed to Zephyr, who showed a dangerously strong will, to move to a sanatorium away from the school."
+            "text": "I proposed to Zephyr, who showed a dangerously strong will, \nto move to a sanatorium away from the school."
         },
         {
-            "text": "She once said that feeling the wind blowing calms her down. A sanatorium surrounded by nature should the place she needs to be in right now."
+            "text": "She once said that feeling the wind blowing calms her down. \nA sanatorium surrounded by nature should the place she needs \nto be in right now."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Right now, there must be many Uma Musume competing to reach the wind at the racetrack… But what am I doing…?",
+            "text": "Right now, there must be many Uma Musume competing \nto reach the wind at the racetrack… But what am I doing…?",
             "choice_data_list": [
                 "Zephyr, it's a waste"
             ]
         },
         {
-            "text": "It's a waste to worry about something happening far away, when we're in a place with such a beautiful view."
+            "text": "It's a waste to worry about something happening far away, \nwhen we're in a place with such a beautiful view."
         },
         {
             "name": "Wild Bird",
@@ -62,60 +63,60 @@
             "text": "Yes. Look, he's right there."
         },
         {
-            "text": "It was a japanese tit bird. It had a pattern like it was wearing a necktie. Let's say it was more understandable than Daruma-san."
+            "text": "It was a japanese tit bird. It had a pattern \nlike it was wearing a necktie. Let's say it \nwas more understandable than Daruma-san."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I was not able to hear the bird… until now. Maybe my heart was blown by the dry wind?"
+            "text": "I was not able to hear the bird… until now. \nMaybe my heart was blown by the dry wind?"
         },
         {
-            "text": "It's good that she was able to turn her attention to her surroundings. Maybe she'll calm down if she visited more places."
+            "text": "It's good that she was able to turn her attention \nto her surroundings. Maybe she'll calm down \nif she visited more places."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Ah… what a nice breeze. It feels like the wind in my heart.",
+            "text": "Ah… what a nice breeze. \nIt feels like the wind in my heart.",
             "choice_data_list": [
                 "Have you calmed down a bit?"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yeah… I'm sorry trainer. I feel embarrassed about how I almost blew wintry wind in 'Summer'."
+            "text": "Yeah… I'm sorry trainer. I feel embarrassed about how I \nalmost blew wintry wind in 'Summer'."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Being here reminds me of the past. I wasn't physically fit back then, so I spent a lot of time in places surrounded by nature."
+            "text": "Being here reminds me of the past. I wasn't \nphysically fit back then, so I spent a lot \nof time in places surrounded by nature."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Birds and animals were my only friends. I spent all day listening to birds. I was content with that kind of life, but…"
+            "text": "Birds and animals were my only friends. I spent all day \nlistening to birds. I was content with that kind of life, but…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "At the same time I felt like a light breeze, unable to cause a ripple in water."
+            "text": "At the same time I felt like a light breeze, \nunable to cause a ripple in water."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "That's why I always yearned. To be like a strong wind."
+            "text": "That's why I always yearned. \nTo be like a strong wind."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The wind is free and light, yet so strong… Nothing can disturb its path."
+            "text": "The wind is free and light, yet so strong… \nNothing can disturb its path."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Back then I couldn't even run… So becoming the wind was my dream at the time."
+            "text": "Back then I couldn't even run… \nSo becoming the wind was my dream at the time."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "But, I was not determined. It was just a vague longing… that is… until I found what I was suppose to aim for―"
+            "text": "But, I was not determined. It was just a vague longing… \nthat is… until I found what I was suppose to aim for―"
         },
         {
             "text": "(Waaaaaaaaaa!)"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "By chance, when I was watching a race… I saw the wind. The run that embodies the wind.",
+            "text": "By chance, when I was watching a race… I saw the wind. \nThe run that embodies the wind.",
             "choice_data_list": [
                 "Was it, the Uma Musume you admire?",
                 "Was it, the Uma Musume you admire?"
@@ -123,18 +124,18 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yeah… that figure, was just like the wind itself. A wild wind. It was at that moment that my vague yearning became a clear goal."
+            "text": "Yeah… that figure, was just like the wind itself. \nA wild wind. It was at that moment that my \nvague yearning became a clear goal."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I realized the wind I wish to become can only be found at the racetrack. And only during the race, it shows its true power."
+            "text": "I realized the wind I wish to become can \nonly be found at the racetrack. And only \nduring the race, it shows its true power."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I've never said this to anyone before… It just came out of my mouth while talking to you… I wonder why?"
+            "text": "I've never said this to anyone before… It just came out of \nmy mouth while talking to you… I wonder why?"
         },
         {
-            "text": "I feel like I gained a bit of trust from her. If so―",
+            "text": "I feel like I gained a bit of trust from her. \nIf so―",
             "choice_data_list": [
                 "Please allow me to aid you in your recovery",
                 "Please allow me to aid you in your recovery"
@@ -142,42 +143,42 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "…I don't know why you are willing to go through all that trouble for me, but… just like riding the sails, I will allow you to carry me."
+            "text": "…I don't know why you are willing to go through all that \ntrouble for me, but… just like riding the sails, I will \nallow you to carry me."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Thank you so much, trainer. You really are a triumphant wind."
+            "text": "Thank you so much, trainer. \nYou really are a triumphant wind."
         },
         {
             "text": "Thus, the rehabilitation of Yamanin Zephyr began!"
         },
         {
-            "text": "In order to recover from your injury, we must not go through training that put too much load on your leg. Let's start with trunk training first."
+            "text": "In order to recover from your injury, we must not go through \ntraining that put too much load on your leg. Let's start \nwith trunk training first."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "'Be conscious of the arrangement of your body… the movement must be precise… never forget to keep your posture till the end… and your muscles… a storm.'"
+            "text": "'Be conscious of the arrangement of your body… \nthe movement must be precise… never forget to keep \nyour posture till the end… and your muscles… a storm.'"
         },
         {
-            "text": "Pool training is an ideal rehab training menu that spreads the load on the whole body so it won't put a strain on the joints."
+            "text": "Pool training is an ideal rehab training menu that spreads the \nload on the whole body so it won't put a strain on the joints."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Right now I'm an offshore wind. An assassin running on the surface of water…"
+            "text": "Right now I'm an offshore wind. \nAn assassin running on the surface of water…"
         },
         {
-            "text": "Eating is also training. Gotta get protein for damaged body. A low calory food with balanced vitamins and minerals as well."
+            "text": "Eating is also training. Gotta get protein for damaged body. \nA low calory food with balanced vitamins and minerals as well."
         },
         {
             "name": "Yamanin Zephyr",
             "text": "Ah… My stomach is filled with wind of feast…"
         },
         {
-            "text": "Most importantly, she should not tire herself out. Resting should also be part of the training."
+            "text": "Most importantly, she should not tire herself out. \nResting should also be part of the training."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh my, Mr. Matcha is a dumpling as usual. It looks like everyone is lined up to get blown away by a gust of wind. Fufu…"
+            "text": "Oh my, Mr. Matcha is a dumpling as usual. \nIt looks like everyone is lined up to get \nblown away by a gust of wind. Fufu…"
         },
         {
             "name": "Yamanin Zephyr",
@@ -188,7 +189,7 @@
             ]
         },
         {
-            "text": "Everything is going well so far. She should be able to resume training at the course soon."
+            "text": "Everything is going well so far. \nShe should be able to resume training at the course soon."
         },
         {
             "name": "Yamanin Zephyr",
@@ -200,7 +201,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I can feel that I'm recovering fast. I had a hard time trying to recover without any help in the past so…",
+            "text": "I can feel that I'm recovering fast. I had a hard time \ntrying to recover without any help in the past so…",
             "choice_data_list": [
                 "That's what trainers are there for",
                 "That's what trainers are there for"
@@ -208,7 +209,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Cloudy thoughts are not suitable for a wind. Anxiety, fear, greed… I don't want to bring such unnecessary feelings to the race."
+            "text": "Cloudy thoughts are not suitable for a wind. \nAnxiety, fear, greed… I don't want to bring \nsuch unnecessary feelings to the race."
         },
         {
             "name": "Yamanin Zephyr",
@@ -216,26 +217,26 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "But every time I get injured, I get attacked by the dry wind. My mind will be clouded, and pulled away from the wind…"
+            "text": "But every time I get injured, I get attacked by the dry wind. \nMy mind will be clouded, and pulled away from the wind…"
         },
         {
-            "text": "I finally understood why there were rumors about her lacking 'motivation'."
+            "text": "I finally understood why there were rumors \nabout her lacking 'motivation'."
         },
         {
-            "text": "She tried to suppress her frustrations to stay calm every time she gets injured, or couldn't participate in the 'Selection Race'."
+            "text": "She tried to suppress her frustrations to stay \ncalm every time she gets injured, or couldn't \nparticipate in the 'Selection Race'."
         },
         {
-            "text": "She did not want to bring those feelings to the race. That's what made it seem like she wasn't motivated."
+            "text": "She did not want to bring those feelings to the race. \nThat's what made it seem like she wasn't motivated."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I won't be blown away by the hurricane anymore, thanks to you. I thank you with the bottom of my heart."
+            "text": "I won't be blown away by the hurricane anymore, thanks to \nyou. I thank you with the bottom of my heart."
         },
         {
-            "text": "Zephyr has a pure heart. Her strong will, will surely make her wish come true."
+            "text": "Zephyr has a pure heart. Her strong will, \nwill surely make her wish come true."
         },
         {
-            "text": "However, a wish that is too pure is also a double-edged sword. What she needs right now is…",
+            "text": "However, a wish that is too pure is also a double-edged sword. \nWhat she needs right now is…",
             "choice_data_list": [
                 "Can I be your trainer!?",
                 "Can I be your trainer!?"
@@ -243,11 +244,11 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Such a breeze… But… thank you"
+            "text": "Such a breeze… \nBut… thank you"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "If I had a trainer in charge, I think it would be someone like you…",
+            "text": "If I had a trainer in charge, \nI think it would be someone like you…",
             "choice_data_list": [
                 "Then―!"
             ]

@@ -1,21 +1,22 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "―Rewinding time a bit, to before the Selection Race…"
         },
         {
-            "text": "It was my day off. Walking along the riverbank, I spotted Eishin Flash training. But…"
+            "text": "It was my day off. Walking along the riverbank, \nI spotted Eishin Flash training. But…"
         },
         {
             "name": "Eishin Flash",
-            "text": "— Haa… haa… It is time for a break ―"
+            "text": "— Haa… haa… \nIt is time for a break ―"
         },
         {
-            "text": "It looks like she's been training pretty hard. From the pained expression on her face, I could tell she was exhausted."
+            "text": "It looks like she's been training pretty hard. From the pained \nexpression on her face, I could tell she was exhausted."
         },
         {
             "name": "Eishin Flash",
-            "text": "Ha… phew… Break time is over…",
+            "text": "Ha… phew… \nBreak time is over…",
             "choice_data_list": [
                 "（Already!?)"
             ]
@@ -32,18 +33,18 @@
             "text": "……? And you are…?"
         },
         {
-            "text": "I introduced myself as a trainer at Tracen Academy and attempted to tell her she looked like she still needed rest, but—"
+            "text": "I introduced myself as a trainer at Tracen Academy and \nattempted to tell her she looked like she still needed rest, but—"
         },
         {
             "name": "Eishin Flash",
-            "text": "No… haa. …It will not prove a hindrance. Short breaks are part of my regimen."
+            "text": "No… haa. …It will not prove a hindrance. \nShort breaks are part of my regimen."
         },
         {
             "name": "Eishin Flash",
-            "text": "Fatigue is expected around 3 pm today — that is, right now. I can catch my breath in the 30 minute break coming up."
+            "text": "Fatigue is expected around 3 pm today — that is, right now. \nI can catch my breath in the 30 minute break coming up."
         },
         {
-            "text": "It sounds like she has absolute confidence in her regimen and is adamant about sticking to it. However…",
+            "text": "It sounds like she has absolute confidence in her regimen \nand is adamant about sticking to it. However…",
             "choice_data_list": [
                 "What if something unplanned happens?",
                 "What if something unplanned happens?"
@@ -51,14 +52,14 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Naturally, I keep a margin. For example, this chat with you has caused a 4 minute and 25 second delay…",
+            "text": "Naturally, I keep a margin. For example, this chat with you has \ncaused a 4 minute and 25 second delay…",
             "choice_data_list": [
                 "Oh… sorry."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "No, that's fine. I can simply subtract it from my next five-minute break to get back on track.",
+            "text": "No, that's fine. I can simply subtract it from my next \nfive-minute break to get back on track.",
             "choice_data_list": [
                 "From your break!?",
                 "From your break!?"
@@ -66,32 +67,32 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "I know full well I'm pushing it a little. But I put together a tight regimen to my goal and it leaves me less time to spare than usual."
+            "text": "I know full well I'm pushing it a little. \nBut I put together a tight regimen to my goal \nand it leaves me less time to spare than usual."
         },
         {
             "name": "Eishin Flash",
-            "text": "Completing this regimen is a top priority. If not…—",
+            "text": "Completing this regimen is a top priority. \nIf not…—",
             "choice_data_list": [
                 "(……?)"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "… 5 minutes and 45 seconds have passed. I can't lose any more time, so if you'll excuse me…"
+            "text": "… 5 minutes and 45 seconds have passed. \nI can't lose any more time, so if you'll excuse me…"
         },
         {
             "name": "Eishin Flash",
-            "text": "… I forgot to mention. Thank you for your concern. Well then."
+            "text": "… I forgot to mention. \nThank you for your concern. Well then."
         },
         {
-            "text": "Eishin Flash is really putting in the effort for her next race… But I should say, I get the feeling she's trying <i>too</i> hard."
+            "text": "Eishin Flash is really putting in the effort for her next race… \nBut I should say, I get the feeling she's trying <i>too</i> hard."
         },
         {
-            "text": "For sure, the Selection Races are important, but there are several opportunities throughout the year. As I pondered why she was so set on debuting right now—"
+            "text": "For sure, the Selection Races are important, but there are \nseveral opportunities throughout the year. \nAs I pondered why she was so set on debuting right now—"
         },
         {
             "name": "Smart Falcon",
-            "text": "Good～ day～ to～ you～～ ☆ Can Falko have a little chat?",
+            "text": "Good～ day～ to～ you～～ ☆ \nCan Falko have a little chat?",
             "choice_data_list": [
                 "!! You're…",
                 "!! You are…"
@@ -99,28 +100,28 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "— Falko. I'm sharing a room with Flash. So I know she's working reeaaally hard right now.",
+            "text": "— Falko. I'm sharing a room with Flash. \nSo I know she's working reeaaally hard right now.",
             "choice_data_list": [
                 "Perhaps you know why, too?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "… Fufu. Of course! Please keep this off-record, okay?"
+            "text": "… Fufu. Of course! \nPlease keep this off-record, okay?"
         },
         {
             "name": "Smart Falcon",
-            "text": "Flash's parents are coming from Germany to watch the upcoming Selection Race!",
+            "text": "Flash's parents are coming from Germany \nto watch the upcoming Selection Race!",
             "choice_data_list": [
                 "Her parents…"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Flash's parents own a popular cake shop, right? They're super busy, so Flash-san is really excited they're coming over."
+            "text": "Flash's parents own a popular cake shop, right? They're super \nbusy, so Flash-san is really excited they're coming over."
         },
         {
-            "text": "I now understood the reason for her efforts and why she'd want to stake it all on this race. That said, even if it's for her development, why does she so adhere to her regimen so much?"
+            "text": "I now understood the reason for her efforts and why she'd want to \nstake it all on this race. That said, even if it's for her \ndevelopment, why does she so adhere to her regimen so much?"
         },
         {
             "name": "Smart Falcon",
@@ -136,17 +137,17 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "When I saw you two talking, I thought you looked like… You would understand the good things about Flash-san ☆",
+            "text": "When I saw you two talking, I thought you looked like… \nYou would understand the good things about Flash-san ☆",
             "choice_data_list": [
                 "……?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "You've taken an interest in Flash-san, right? … So make sure you watch over her ☆"
+            "text": "You've taken an interest in Flash-san, right? \n… So make sure you watch over her ☆"
         },
         {
-            "text": "— The day before the Selection Race. I walked around the academy, pondering the meaning of Smart Falcon's words…"
+            "text": "— The day before the Selection Race. I walked around the \nacademy, pondering the meaning of Smart Falcon's words…"
         },
         {
             "name": "Eishin Flash",
@@ -157,7 +158,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "…… Ah… you… we met the other day……",
+            "text": "…… \nAh… you… we met the other day……",
             "choice_data_list": [
                 "I heard some sorta noise…"
             ]
@@ -168,11 +169,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Tap the desk three times while repeating \"toi toi toi…\". The sound is said to ward off evil and protect from bad luck."
+            "text": "Tap the desk three times while repeating \"toi toi toi…\". \nThe sound is said to ward off evil and protect from bad luck."
         },
         {
             "name": "Eishin Flash",
-            "text": "It may just be superstition, but I want to ensure that nothing unplanned happens tomorrow…",
+            "text": "It may just be superstition, but I want to ensure \nthat nothing unplanned happens tomorrow…",
             "choice_data_list": [
                 "Are you concerned about something?",
                 "Are you worried about something?"
@@ -180,15 +181,15 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "… That's not really it. Tomorrow, my parents will take time out of their busy schedule to come and watch the race."
+            "text": "… That's not really it. Tomorrow, my parents will take time \nout of their busy schedule to come and watch the race."
         },
         {
             "name": "Eishin Flash",
-            "text": "Doing the right job correctly will lead to perfect results. Demonstrating that is my obligation as their daughter."
+            "text": "Doing the right job correctly will lead to perfect results. \nDemonstrating that is my obligation as their daughter."
         },
         {
             "name": "Eishin Flash",
-            "text": "Because I'm certain they would be highly disappointed if I was to… miss expectations and register a miserable result…",
+            "text": "Because I'm certain they would be highly disappointed if \nI was to… miss expectations and register a miserable result…",
             "choice_data_list": [
                 "… Is that how it works?"
             ]
@@ -198,7 +199,7 @@
             "text": "… What do you mean by that?"
         },
         {
-            "text": "I don't know much about her, much less her parents. But anyone who sees her run can tell that she is a very hard worker.",
+            "text": "I don't know much about her, much less her parents. \nBut anyone who sees her run can tell \nthat she is a very hard worker.",
             "choice_data_list": [
                 "I think you can take pride in your efforts.",
                 "I think you can be proud of your efforts."
@@ -206,27 +207,27 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "… Sophistry, that is. Meaningless encouragement… which tramples upon logic and reason…",
+            "text": "… Sophistry, that is. Meaningless encouragement… \nwhich tramples upon logic and reason…",
             "choice_data_list": [
                 "(…?)"
             ]
         },
         {
-            "text": "I just noticed that she's not looking right. It looks like she started feeling unwell during her break…",
+            "text": "I just noticed that she's not looking right. \nIt looks like she started feeling unwell during her break…",
             "choice_data_list": [
                 "You don't look too well."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "… This regimen may be a little excessive, but it has completed everything required for my development."
+            "text": "… This regimen may be a little excessive, but it has \ncompleted everything required for my development."
         },
         {
             "name": "Eishin Flash",
-            "text": "That is to say, this degree of malaise is within expectations. I'm taking the full day off today and will recover tomorrow."
+            "text": "That is to say, this degree of malaise is within expectations. \nI'm taking the full day off today and will recover tomorrow."
         },
         {
-            "text": "… I can't feel an ounce of vigour in her words. Expecting a full recovery by tomorrow seems far-fetched…",
+            "text": "… I can't feel an ounce of vigour in her words. \nExpecting a full recovery by tomorrow seems far-fetched…",
             "choice_data_list": [
                 "You should considering taking tomorrow off a—"
             ]
@@ -240,11 +241,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "There is no plan where I do not run tomorrow. I worked hard to achieve the perfect result known as winning the race…!"
+            "text": "There is no plan where I do not run tomorrow. I worked hard \nto achieve the perfect result known as winning the race…!"
         },
         {
             "name": "Eishin Flash",
-            "text": "Execute the plan without a single deviation and carry out the established procedures. If I can't… can't… do—"
+            "text": "Execute the plan without a single deviation and carry out \nthe established procedures. If I can't… can't… do—"
         },
         {
             "text": "(Thud…)",

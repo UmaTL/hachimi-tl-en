@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "1, 2, 3… 1… 1, 2, 3, 4…",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "1, 2, 3… 1… 1, 2, 3, 4…"
         },
         {
-            "text": "Fuuu, haaa, haa… \n3 sets complete… Alright, the load this time―",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Fuuu, haaa, haa… \n3 sets complete… Alright, the load this time―"
         },
         {
             "text": "To check on Mejiro Ardan's situation, I ended up in the gym. \nOverall, it seemed like she was keeping the training light and easy."
@@ -16,36 +16,36 @@
             "text": "Between sets on her training menu, she would frequently check \nher tablet, but something seemed a little off…"
         },
         {
-            "text": "Alright, next up is weight training! Ah… uwaah. \nIt's crowded today too. Let's see, is there an \nopen space somewhere…?",
-            "name": "Horsegirl A"
+            "name": "Horsegirl A",
+            "text": "Alright, next up is weight training! Ah… uwaah. \nIt's crowded today too. Let's see, is there an \nopen space somewhere…?"
         },
         {
-            "text": "Excuse me. Would you like to use this machine? \nI'm just finishing up.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Excuse me. Would you like to use this machine? \nI'm just finishing up."
         },
         {
-            "text": "Eh? Are you sure, senpai?! Lucky!! \nIn that case, I'll be using it then!!",
-            "name": "Horsegirl A"
+            "name": "Horsegirl A",
+            "text": "Eh? Are you sure, senpai?! Lucky!! \nIn that case, I'll be using it then!!"
         },
         {
-            "text": "Yes, please do. Well then, I'll be taking my leave.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Yes, please do. Well then, I'll be taking my leave."
         },
         {
-            "text": "Eh, she's leaving already? That's bad, isn't it? \nDidn't she just get here too?",
-            "name": "Horsegirl C"
+            "name": "Horsegirl C",
+            "text": "Eh, she's leaving already? That's bad, isn't it? \nDidn't she just get here too?"
         },
         {
-            "text": "Yeah, maybe she's not feeling well… \nor it might be because she can't push herself too hard, huh?",
-            "name": "Horsegirl B"
+            "name": "Horsegirl B",
+            "text": "Yeah, maybe she's not feeling well… \nor it might be because she can't push herself too hard, huh?"
         },
         {
-            "text": "… The 'Mejiro' name has me interested but, as expected, \nthat frail body is really weighing Mejiro Ardan down…",
-            "name": "Rookie Trainer A"
+            "name": "Rookie Trainer A",
+            "text": "… The 'Mejiro' name has me interested but, as expected, \nthat frail body is really weighing Mejiro Ardan down…"
         },
         {
-            "text": "That's true. Trying to recklessly push her to participate \ndefinitely wouldn't be good for her… it seems she \njust isn't built for racing…",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "That's true. Trying to recklessly push her to participate \ndefinitely wouldn't be good for her… it seems she \njust isn't built for racing…"
         },
         {
             "text": "As I heard from Tazuna, her evaluations seem to be quite low, \nwith some saying that she probably shouldn't even be racing, but―",
@@ -57,12 +57,12 @@
             "text": "I want to try talking to her, just for a bit. Thinking that, I left the \ngym and followed after Mejiro Ardan."
         },
         {
-            "text": "…………",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "…………"
         },
         {
-            "text": "…uu—",
             "name": "Mejiro Ardan",
+            "text": "…uu—",
             "choice_data_list": [
                 "Is something wrong?!",
                 "Is something wrong?!"
@@ -72,15 +72,15 @@
             "text": "She staggered and fell to her knees, I rushed over to try \nand help her to her feet."
         },
         {
-            "text": "Oh my, I'm sorry to bother you. It was just some momentary dizziness, \nso I'm fine now.",
             "name": "Mejiro Ardan",
+            "text": "Oh my, I'm sorry to bother you. It was just some momentary dizziness, \nso I'm fine now.",
             "choice_data_list": [
                 "Thank goodness…!"
             ]
         },
         {
-            "text": "Fufu, that's probably not good is it? I've just recovered recently \nso I shouldn't strain myself. Hmmm… oh? My tablet―",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Fufu, that's probably not good is it? I've just recovered recently \nso I shouldn't strain myself. Hmmm… oh? My tablet―"
         },
         {
             "text": "When she said that, I happened to look down, near my feet was \nthe tablet that she had been looking at while in the gym.",
@@ -98,8 +98,8 @@
             "text": "You could tell in one glance, how earnestly this was put together- \nTrial and error probably played a big part."
         },
         {
-            "text": "Thank you for picking it up, but… may I have that back?",
             "name": "Mejiro Ardan",
+            "text": "Thank you for picking it up, but… may I have that back?",
             "choice_data_list": [
                 "Oh, ahh, sorry!",
                 "Oh, ahh, sorry!"
@@ -118,8 +118,8 @@
             ]
         },
         {
-            "text": "That… are you really okay with that, Ardan?!",
             "name": "Hayakawa Tazuna",
+            "text": "That… are you really okay with that, Ardan?!",
             "choice_data_list": [
                 "!?"
             ]
@@ -128,12 +128,12 @@
             "text": "It had been a few days since then. \nThe next time I saw Mejiro Ardan, she was with an alarmed Tazuna."
         },
         {
-            "text": "There's only one entry slot remaining, isn't there? If that's the case, \nthen I'll take it.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "There's only one entry slot remaining, isn't there? If that's the case, \nthen I'll take it."
         },
         {
-            "text": "I, Mejiro Ardan, in the next Selection Race, \n[Dirt, 1200m], wish to participate.",
             "name": "Mejiro Ardan",
+            "text": "I, Mejiro Ardan, in the next Selection Race, \n[Dirt, 1200m], wish to participate.",
             "choice_data_list": [
                 "(Dirt, <i>and</i> short distance?!)"
             ]
@@ -142,48 +142,48 @@
             "text": "I doubted my ears. If I'm not mistaken, when I did a bit of research, \nMejiro Ardan's aptitudes were―"
         },
         {
-            "text": "But your aptitude is in [Turf, middle distance], I thought! \nI'm not saying it's impossible but, it will be hard to use \nyour full power…!",
-            "name": "Hayakawa Tazuna"
+            "name": "Hayakawa Tazuna",
+            "text": "But your aptitude is in [Turf, middle distance], I thought! \nI'm not saying it's impossible but, it will be hard to use \nyour full power…!"
         },
         {
-            "text": "Ardan… if you wait a few months, more Selection Races will be held. \nHow about participating then so you can fully display \nyour true strength―",
-            "name": "Hayakawa Tazuna"
+            "name": "Hayakawa Tazuna",
+            "text": "Ardan… if you wait a few months, more Selection Races will be held. \nHow about participating then so you can fully display \nyour true strength―"
         },
         {
-            "text": "Those [few months] will be extremely important. \n…Tazuna, even you are aware of that, aren't you?",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Those [few months] will be extremely important. \n…Tazuna, even you are aware of that, aren't you?"
         },
         {
-            "text": "…!",
-            "name": "Hayakawa Tazuna"
+            "name": "Hayakawa Tazuna",
+            "text": "…!"
         },
         {
-            "text": "For Uma Musume, the time that they can shine on the stage is \nextremely precious, and limited. Eventually, everyone will be on \nthe road to a gradual decline.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "For Uma Musume, the time that they can shine on the stage is \nextremely precious, and limited. Eventually, everyone will be on \nthe road to a gradual decline."
         },
         {
-            "text": "Being admitted to the hospital multiple times, being unable to \nparticipate in any Selection Races… for me, much of that \ntime is now gone.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "Being admitted to the hospital multiple times, being unable to \nparticipate in any Selection Races… for me, much of that \ntime is now gone."
         },
         {
-            "text": "If I put off my debut for much longer, before I can even \nparticipate in the Twinkle Series that I aspire to, my heyday \nwill be over, won't it?",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "If I put off my debut for much longer, before I can even \nparticipate in the Twinkle Series that I aspire to, my heyday \nwill be over, won't it?"
         },
         {
-            "text": "That… that is the one thing I will not overlook.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "That… that is the one thing I will not overlook."
         },
         {
-            "text": "But…!!",
-            "name": "Hayakawa Tazuna"
+            "name": "Hayakawa Tazuna",
+            "text": "But…!!"
         },
         {
-            "text": "I truly appreciate your concern, Tazuna. \nHowever, I have already made my decision.",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "I truly appreciate your concern, Tazuna. \nHowever, I have already made my decision."
         },
         {
-            "text": "By all means — would you please proceed with \nthe registration paperwork?",
-            "name": "Mejiro Ardan"
+            "name": "Mejiro Ardan",
+            "text": "By all means — would you please proceed with \nthe registration paperwork?"
         }
     ]
 }
