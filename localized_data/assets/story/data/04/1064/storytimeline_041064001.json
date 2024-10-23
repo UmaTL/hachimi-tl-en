@@ -1,0 +1,227 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "—— Ah man, I missed my opportunity again…!"
+        },
+        {
+            "text": "Just when someone had finally caught my interest at \nthe Selection Race, she had already signed a contract \nwith another trainer before I could approach her…",
+            "choice_data_list": [
+                "Ah… just my luck, I guess…"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ooh～ That was a mighty big sigh!",
+            "choice_data_list": [
+                "Ah!"
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Ahahah! Sorry, did I startle you? I was taking a nap over there \nin the shade, but I couldn't help being curious."
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "So, something making you feel down? Wanna tell me about it? \nJust putting it into words can make you feel better.",
+            "choice_data_list": [
+                "<size=32>Ah, it's not really something to discuss with students…</size>"
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Hm-hmm, that so～ Must be a work-related problem then? \nOr, could it be… that you witnessed some dark secrets \nof the academy that you can't disclose?!",
+            "choice_data_list": [
+                "No, it's work-related…"
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Ahahaa! I see, I see. So it <i>is</i> work-related～ \nBeing a trainer sounds like a tough job. \nAre you in charge of any horsegirls right now?",
+            "choice_data_list": [
+                "I-I did have a girl who caught my eye, but…"
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "But? I'll assume you didn't end up as her trainer. \nSo what happened? Tell me more."
+        },
+        {
+            "text": "Before I knew it, I found myself gradually being swept by the \nflow of the conversation… As I began to open up and share my \nthoughts, it felt like a weight had been lifted off my shoulders."
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "How about going for a change of pace first, and then \ntrying your luck again at the next Selection Race?",
+            "choice_data_list": [
+                "Thanks, I'll try that."
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Hehe, then I'll see you there! \n'Cause guess who's running in the next race～!"
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Ahaha. And it's my carefully timed debut race to boot! \nCurious yet～? …Heh, I gotta self promote a lil', right? \nWell anyway, feel free to come and see me race!"
+        },
+        {
+            "text": "Charmed by the horsegirl's playful aura and contagious \nlaughter, a question slipped from my mouth…",
+            "choice_data_list": [
+                "Wait — what's your name?",
+                "Wait — what's your name?"
+            ]
+        },
+        {
+            "name": "Jolly Horsegirl",
+            "text": "Hmm, mine? It's ——"
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nHer condition seems impeccable, too. Ah, the anticipation \nis overwhelming……"
+        },
+        {
+            "name": "Experienced Trainer B",
+            "text": "Huh? Is that another Mejiro horsegirl next to her? \nWhat was her name, again…? Mejiro something…",
+            "choice_data_list": [
+                "(It's Mejiro Palmer…)"
+            ]
+        },
+        {
+            "text": "—— The horsegirl I met on the rooftop earlier \ncame from the prestigious Mejiro family."
+        },
+        {
+            "text": "The Mejiro family is a prestigious family that has produced \nnumerous exceptional horsegirls bearing the name \"Mejiro\"."
+        },
+        {
+            "text": "Among them, Mejiro Ryan, Mejiro McQueen, and a few other \nparticularly exceptional talents have gripped public attention \nsince their enrollment."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oh, it's you! Great to see you! Cheer for me, 'kay～? \nI'm putting my best foot forward today!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Well, not that I can compete with Ryan in terms of popularity. \nAhaha, guess I just don't stand out that much!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "… But hey, watch me. After all, I'm a Mejiro horsegirl as well. \nIf I don't show my resolve here, it'd disgrace our great name, \nisn't that right?",
+            "choice_data_list": [
+                "Y-Yeah…… I'm rooting for you!",
+                "Y-Yeah…… I'm rooting for you!"
+            ]
+        },
+        {
+            "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face, before the race got underway ——"
+        },
+        {
+            "text": "Mejiro Palmer immediately took the lead, looking to \nescape from the rest. Her graceful and flawless form \nwas obvious at a glance.",
+            "choice_data_list": [
+                "<size=31>(I suppose her way of running befits her family's prestige.)</size>"
+            ]
+        },
+        {
+            "text": "However, as the race approached its final leg ——"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "—— This is it! <i>Haaaaaaaaaaaaa—!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>……! Haa, haa, haah, haa…!</i>",
+            "choice_data_list": [
+                "(Huh, Mejiro Palmer…!?)"
+            ]
+        },
+        {
+            "text": "As each horsegirl unleashed their final spurt, they overtook \nher one by one. Her visibly strained expression contrasted \nwith her beautiful and perfectly composed form."
+        },
+        {
+            "text": "It was as if she was \"running too properly\", or playing it safe ——",
+            "choice_data_list": [
+                "(Something about her running feels stiff…)",
+                "(Something about her running feels stiff…)"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Haa… Haa… </i>ahhhh, damn it! To think I finished last…!!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "That's terrible! For a Mejiro horsegirl \nto perform like this… everyone will ——"
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Of course it'd be you who would win! Goes to show that \nthe Mejiro name is not just for show! So getting right into it, \ncan we talk for a moment?"
+        },
+        {
+            "name": "Experienced Trainer B",
+            "text": "She said it, we would not expect less of the Mejiro family! \nYou are just as fast as I expected! I would absolutely love \nto have you on our team…!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Whoah… could we slow down things a little so that \neveryone can get their turn? We're getting in the \nway here, so maybe we could talk over there…!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…… <i>Ahhahah</i>. Why was I getting so worked up about bringing \ndisgrace to the Mejiro name? Not a single person stepped up \nto even mention me."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, what a relief! Turns out that I didn't have \nto worry about that at all. If you're not worthy \nof attention… you can't disappoint anyone."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…… Who am I kidding.",
+            "choice_data_list": [
+                "… Hey, uh…"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "… Oh! Sorry about that, ahahah. Thanks for coming! How was \nthe race? Did you find any promising talents? Well, actually, \nof course — Ryan is obviously the number one candidate～!",
+            "choice_data_list": [
+                "No, that's not true ——"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "It's okay, it's okay, I understand! There are so many \ntalented girls in the Mejiro family, y'know. It's a given \nthat I wouldn't get any attention!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "But of course, I'm not going to give up. If things aren't \nworking out at the moment, then I'll just have to become \nstronger. There's no time to be feeling sad — none at all!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "I'll have to resume my training right away! \nFirst, I need to build more stamina, thoroughly \nreview the fundamentals, and then ——",
+            "choice_data_list": [
+                "Is that really what you want……?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huh…?"
+        },
+        {
+            "text": "After observing the race, a realization dawned on me. \nPerhaps she is affected by the pressure stemming from \nhaving to live up to the esteemed Mejiro name."
+        },
+        {
+            "text": "I feel like, as a result of that pressure, her running stiffens up. \nWhile it is a good thing to be faithful to the fundamentals, \nevery so often, exceptions arise…",
+            "choice_data_list": [
+                "<size=32>There might be a way of running that suits you better…</size>",
+                "<size=32>There might be a way of running that suits you better…</size>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "… Suits me better? What do you mean by that…?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "…… Ah, thanks for letting me know!! \nI'll… try having a think about it."
+        }
+    ]
+}

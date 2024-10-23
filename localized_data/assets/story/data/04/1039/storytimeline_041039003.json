@@ -1,0 +1,266 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few days after my encounter with Kawakami Princess. \nI went to the cafeteria to take a break, and saw the two combi \nI met a while ago."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hey, shouldn't we stop her?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah… she may be overdoing it."
+        },
+        {
+            "text": "The two of them are looking at the Kawakami Princess. \nShe seems to be taking a break with a cup of tea―"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "My my…… tea cups are hard to hold. My fingers…… are \ntrembling and―"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aghhhhhh……! That was close. I must hold it like―."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ho-hohoho, as a princess, I should enjoy \ntea in the afternoon with elegance!"
+        },
+        {
+            "name": "Vodka",
+            "text": "……Something's wrong with Kawakami Senpai. Was she always \nlike this?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "She must have had at least 20 cups of tea already. She is \ndrinking too much and it looks bad for the body……"
+        },
+        {
+            "name": "Vodka",
+            "text": "On the contrary, she didn't eat at all. She use to gobble up \nhuge amount of food……"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "As I recall, she said, 'Princesses are elegant and small eaters.'",
+            "choice_data_list": [
+                "(Elegant…… come to think of it, the other day)"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes! That's it! Elegance! A princess needs to be elegant \nafter all."
+        },
+        {
+            "text": "She admires King Halo's sophisticated behavior. But if things \nthose two said about her is true, it seems a bit excessive."
+        },
+        {
+            "name": "Vodka",
+            "text": "Oh, no! We've been chatting and didn't notice that \nKawakami-senpai disappeared! Where did she go?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "……It can't be helped. We have practice to attend, \nso let's hear from her some other time."
+        },
+        {
+            "text": "The two walked away, but it made me worried as well.",
+            "choice_data_list": [
+                "I should go find her.",
+                "I should go find her."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ubueeeeee…… my stomach is so full……"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "No, I mustn't let this get the better of me! This is also a \nmission of a princess, for the sake of elegance……"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Uppppu…… Hah～ ……",
+            "choice_data_list": [
+                "Hi, Do you have a moment?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Uhyaa!? No, no, this is not what you think it is! \nI was not throwing up! I'm just right under the safety line!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "……oh, oh my, It was you, trainer. Good afternoon……upps. \nIt's a nice day isn't it.",
+            "choice_data_list": [
+                "Take it easy……!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wh, what do you mean, \"take it easy\"? I was just taking an \nelegant stroll like a princess.",
+            "choice_data_list": [
+                "You don't need to be elegant right now."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What do you mean now?…… don't tell me you've noticed!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That I'm in a training to become Elegant!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm sorry for being so distraught. I didn't \nthink anyone would notice my training.",
+            "choice_data_list": [
+                "What…… is this training?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It is, of course, the practice of acting elegantly \nlike a princess. As a princess, I should be \nladylike and graceful, shouldn't I?",
+            "choice_data_list": [
+                "Like King Halo?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "―*Gasp!!"
+        },
+        {
+            "text": "It seems I was right on target. Kawakami Princess \nlooked disheartened."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm surprised that I got exposed.…… Yes, I am. I'm training \nto be like King-san."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I have always admired the bravery of Princess Fighter. \nBut when I came to the academy and met King-san―"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I realized that grace and elegance are what a princess needs! \nSo, I, too, will imitate King-san and――",
+            "choice_data_list": [
+                "What kind of imitation?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Let's see, for example, King-san doesn't skip \nup two flights of stairs, she doesn't chug soda, \nand she doesn't eat rice in a bowl……",
+            "choice_data_list": [
+                "How did it go?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It went…… actually not well at all. I don't know why \nI don't feel like I'm getting any closer to King-san……"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The Selection Race is coming up soon. I wonder if I can \nreally become a princess at this state……"
+        },
+        {
+            "text": "I understand what her problem is, but I feel like \nsomething is off. \nHow do I get her to notice that―?",
+            "choice_data_list": [
+                "Why don't we go see the woman herself again?",
+                "Why don't we go see the woman herself again?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What, you mean King-san? ……? But I've already observed \nher so much.",
+            "choice_data_list": [
+                "A book is worth reading again.",
+                "A book is worth reading again."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I guess I'm fine with it, if you say so……"
+        },
+        {
+            "name": "King Halo",
+            "text": "―…… phew!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Oh my～～, Look at that beauty!! Look at that figure! \nThose graceful movements!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Only a true King is able to run so elegantly! That's what an \nideal princess looks like ……―ah!"
+        },
+        {
+            "text": "(Zshaaa!!!)"
+        },
+        {
+            "name": "King Halo",
+            "text": "……Ugh, not enough……!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Amazing…… even when she fell, even when she's \ncovered in mud, she didn't give up. \nHow noble and beautiful……",
+            "choice_data_list": [
+                "You didn't have to go that far, don't you think?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I don't think so! I'm only going that far because I'm \ndetermined to be the best!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I decided to pursue my unwavering 'ideal' regardless of how \npeople may see me! \nThat's why you see, King-san always shines so brightl――y…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I see.…… King-san's nobility is something that comes \nfrom the inside……"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "That's why I couldn't get close to her.…… I only imitated \nthe movements, but I was empty inside……"
+        },
+        {
+            "text": "I felt uneasy as she nodded her head in a depressed manner. \nShe says she is empty inside, but is that really true?",
+            "choice_data_list": [
+                "You're just a bit lost that's all.",
+                "You're just a bit lost that's all."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Eh……?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Dreams are something you decide for yourself, and you \nhave to reach them by yourself, right?"
+        },
+        {
+            "text": "At the time, Kawakami Princess seemed to have a clear vision of the dream she was aiming for.",
+            "choice_data_list": [
+                "I'm sure you had your own ideals.",
+                "You had your own ideals."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Really……? Not a copy of Princess Fighter's, and not a copy of \nKing-san's, but my own……?",
+            "choice_data_list": [
+                "Take your time to remember.",
+                "Take your time to remember."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yeah… you're right. We still have time before the \nSelection Race……",
+            "choice_data_list": [
+                "I'll be there to cheer you on.",
+                "I'll be there to cheer you on."
+            ]
+        },
+        {
+            "text": "Kawakami Princess nodded, but still looked anxious. She \ncontinued observing King Halo as she ran."
+        }
+    ]
+}

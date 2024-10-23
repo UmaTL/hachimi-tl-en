@@ -1,0 +1,224 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On the day of the Selection Race. I went to see Kawakami \nPrincess before the race started…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Good day, trainer. You came to see the show.",
+            "choice_data_list": [
+                "How are you doing?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "To be honest, I haven't been sleeping well! I was so \nworried that my brain stopped working, so I watched all \n49 episodes of PriFi in one sitting!",
+            "choice_data_list": [
+                "Oh my God, are you okay!?",
+                "Oh my God, are you okay!?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I don't know! But I have to do it. Even PriFi said, \"As a \nprincess, you should fight to the end!\"!",
+            "choice_data_list": [
+                "I'm rooting for you."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Thank you! Well then, I'll get going!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Third race of the Selection Race will begin under blue skies, \na complete change from last night's rain. \nWho will be the one to show their ability and grab the \nticket to debut!?"
+        },
+        {
+            "name": "Commentator",
+            "text": "The field is tight, and the mood is more competitive than ever, \nas all the Uma Musume enter the gate. And now… they're off!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ha… Ha……."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Ah, it still feels so good to be able to run at full speed……!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(It's always been that way. I love princesses. \nBut I also love to run)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(I was so in-awe when I met King-san. She's graceful, she's \nlike a princess…… and that strength that never \nfails her ……)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Both Princess Fighter and King-san had the same sparkle. \nThey were sparkling, dazzling, and I was jealous of it……)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(But then what…… was it that I really longed for?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Haa…… haa…… argh……!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(It's so painful - I don't know. I don't know what I was imitating \nfor. What do I want to be…… What kind of a princess do I want \nto become……?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Trainer told me that I had my own ideal…… \nMy \"ideal\" should be there somewhere!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "……… Ah!!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Oh dang, just before the last turn, she slipped! \nKawakami Princess swayed to the outer lane."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Was she trying to sprint and failed?…… or is it a \nlane-correcting error. Welp, she's a pre-debutante, I guess \nit can't be helped……"
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "It's hard to get back up to speed from here.…… poor thing."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(I don't understand…… am I not good enough……?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Can't I be a…… princess ……?)",
+            "choice_data_list": [
+                "Don't lose! You're a princess!",
+                "Don't lose! You're a princess!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "―～～～!!!!!!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "She held on! Kawakami Princess is back and running again. \nBut she's now far away from the leading pack!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Can she catch up? The gap is not closing. But she's still \nrunning――",
+            "choice_data_list": [
+                "Run! Don't give up on your ideals!",
+                "Run! Don't give up on your ideals!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "～～～～ts、R, Roger thaaaaaaat… ！！！！"
+        },
+        {
+            "name": "Commentator",
+            "text": "Oh, wow! Kawakami Princess is in incredible pursuit. She is \nmerging with the leading pack from the outer lane! This is \nincredible!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ahhhhh, I am…… I am a Princess! \nI'm going to become a princess!!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Yes. I just wanted to not give up. Not give up on being a \nprincess! And not give up on being myself―!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Because \"ideals\" are meaningless unless they are an \nextension of yourself. There's no point in running if you \nabandon your aspirations, your personality!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Doryaaaaaaaaaaaaa～～～!!!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Gooooooooooal!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Complete combustion! Showing her indomitable fighting spirit, \nKawakami Princess! The winner, Kawakami Princess, \nnow crosses the finish line in first place!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Allow me to open your eyes!!! \nAs a princess, I can overcome any adversity～～～!!!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hey, trainer! I did it! That's what I'm \ntalking about! I'm the one who won!",
+            "choice_data_list": [
+                "Congratulations! That was awesome!",
+                "Congratulations! That was awesome!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It was all thanks to trainer's cheers! I will never forget what I \nheard at that moment!",
+            "choice_data_list": [
+                "Did you find your answer?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yes! I want to be a \"gorgeous, graceful, and brave princess\". \nBut a princess should really…"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Should never give up on who she wants to be and \nkeep running, even in the mud! A true princess is a one who \nnever gives up on her \"ideal\"!!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So, I don't care if I'm a little less graceful now! I'll be myself fornow, and one day I'll become graceful!"
+        },
+        {
+            "text": "Seeing her radiant expression, I made up my mind. It's time to \ntell her.",
+            "choice_data_list": [
+                "Let me help you with that dream.",
+                "Will you let me help you with that dream?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "What?…… Ah, by help you mean… is it!?",
+            "choice_data_list": [
+                "I'm not a \"legendary trainer\" yet."
+            ]
+        },
+        {
+            "text": "If she pursues her \"ideal\" as a princess, I want to be a \n\"legendary trainer\" to support her."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Whooooooooo ～～～～!!!!!!!!",
+            "choice_data_list": [
+                "!!!?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Of course! When I lost sight of my \"ideal\", \nit was you who woke me up!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "If it's with you, I can surely become the \"ideal princess\" \nI dreamed of. No, I \"will\" become one!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "The two of us will smash the legend together～! Aim for \nBrilliance! Gracefulness! The strongest and fastest princess!"
+        },
+        {
+            "text": "Thus began the days with the tomboyish \nprincess, the Kawakami Princess!"
+        }
+    ]
+}

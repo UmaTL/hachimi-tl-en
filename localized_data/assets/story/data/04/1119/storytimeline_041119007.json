@@ -1,0 +1,271 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "――The last day of summer training camp. There were \nno problems and everything ended without issue."
+        },
+        {
+            "text": "……Right, just like usual. \nWithout once showing my depressed face.",
+            "choice_data_list": [
+                "My wallet……"
+            ]
+        },
+        {
+            "text": "Back on that day, when I helped someone in a back alley…… \nmost likely, that person was a pickpocket."
+        },
+        {
+            "text": "The day after, I went back to that same alley but nobody \nwas there. I wasn't really worried about the money, but I \njust really wanted to get back what was in the wallet――"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "That was quite the big sigh……is something wrong? \nOr perhaps, is there something troubling you……?",
+            "choice_data_list": [
+                "J-Journey"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Good work during the training camp. \nBut that sigh……it's not because you're exhausted, right?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "If there's a reason for your gloominess, \nwould you mind telling me? I want to help you.",
+            "choice_data_list": [
+                "Well, that's……"
+            ]
+        },
+        {
+            "text": "……There was no way I could tell her 『My wallet was taken』. \nHow could I get through this without worrying her――?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "『I don't have anyone to go to the festival with』 huh…… \nthat was unexpected. Trainer-san, I would have thought \nyou would have a number of friends.",
+            "choice_data_list": [
+                "Ahaha……"
+            ]
+        },
+        {
+            "text": "I felt kind of pathetic…… \nit felt wrong to deceive her like that."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……I just happened to have some free time, so I'm thankful. \nIt's been a while since I've been to a festival."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "A shooting gallery, lottery……Oh, there's also some unusual \nthings too. Is that a stall? ……No, maybe an attraction?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "『Mountain Labyrinth』…… Enter the maze in the \nmountains, and the first one to the goal wins, it says.",
+            "choice_data_list": [
+                "Sounds fun, doesn't it?",
+                "Sounds fun, doesn't it?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "You're right. It's a bit small, but just being in the \nmountains should add to the thrill. ……Let's go take a look."
+        },
+        {
+            "text": "Since Dream Journey was going to be tagging along, \nthen we should enjoy it to the fullest.",
+            "choice_data_list": [
+                "Since we have the chance……"
+            ]
+        },
+        {
+            "text": "If we're playing just to win, it might be fun for Dream Journey. \nWith that in mind, I made a suggestion. For whoever loses――",
+            "choice_data_list": [
+                "The loser has to listen to one request"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "――――"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "(……listen to one request, is it? \nI didn't think they'd make such a risky proposal)"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "(Ah, see? The goal is right in front of me already)"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "(……it's someone that's that honest after all. They \nwouldn't do anything underhanded to alter the results)"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "(No matter what the request, they would endeavor \nto grant it. Even if it were the request of the \nperson that they should be most wary about……)"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "(They are working desperately to understand me, probably \ntrying to figure out my true intentions through that request)"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……the more important it is that something not be lost, the more delicate it is."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "And the more essential the object, the more \nlikely it will be shrouded in that scent."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "If something were to happen, I couldn't bear \nto watch. It hurts your heart……doesn't it?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "This feeling……"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "――Wouldn't you say that you agree?"
+        },
+        {
+            "name": "Pickpocket",
+            "text": "W-what's with you……!?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Malice is something that has a distinct scent. \n……Yes, truly, it's quite the troubling thing, isn't it?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Flies tend to swarm all over it, don't they?"
+        },
+        {
+            "text": "(Rustle……)",
+            "choice_data_list": [
+                "Is that the goal……!?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…………"
+        },
+        {
+            "text": "Although I hit several dead ends, I finally reached \nthe goal. There was no one around. Does that mean――",
+            "choice_data_list": [
+                "Did I win……?"
+            ]
+        },
+        {
+            "text": "As I was about to reach the goal, I stopped. \n……Was Dream Journey okay?",
+            "choice_data_list": [
+                "……Maybe I'll wait a bit"
+            ]
+        },
+        {
+            "text": "Although the path was well maintained, it was still \nin the mountains. I didn't want to leave her behind――"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "It seems like you made it here first. \nSplendid, Trainer-san."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "I was a few steps too slow……how unfortunate. As the loser, \nI suppose I'll have to listen to the request of the winner."
+        },
+        {
+            "text": "I breathed a sigh of a relief at the sight of Dream Journey.",
+            "choice_data_list": [
+                "I haven't made it yet, so it's a tie",
+                "I haven't made it yet, so it's a tie"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "――……"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……Fufu. Then all bets are off. \nIt's unfortunate that I don't get to hear your wish."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……Oh, I almost forgot."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Trainer-san, there was something I wanted to give you. \nI couldn't find the right timing until today."
+        },
+        {
+            "text": "The thing that Dream Journey gave me――it was――",
+            "choice_data_list": [
+                "My……My wallet!?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Yes. It's Trainer-san's, right?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "I picked it up back in that alleyway. \n……just to make sure, could you check inside?"
+        },
+        {
+            "text": "……I was surprised. I didn't remember the exact amount \nthat was in it, but it seemed to all be there. Besides, \nthe thing I wanted most was still there――"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Oh. That's……isn't that part of the plan that I wrote up? \nYou put that in your wallet?",
+            "choice_data_list": [
+                "Just one page though"
+            ]
+        },
+        {
+            "text": "So that I could go to become a partner she could trust. So I \nwouldn't forget my original purpose, and never stop trying."
+        },
+        {
+            "text": "The proof of my resolve to be Dream Journey's trainer…… \nWould it be an exaggeration to call it that?",
+            "choice_data_list": [
+                "Well, it's more like a charm though"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……Is that so? Looking back at it now, it seems a bit \ninept, but Trainer-san still sees some value in it?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "As I thought, you're a wonderful trainer."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Yes, I truly believe that. \n……please don't change that about yourself."
+        },
+        {
+            "text": "『I picked it up back in that alleyway』"
+        },
+        {
+            "text": "I couldn't easily accept that as being the truth. \nBut for now, let's not think too deeply about it."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……the stars are bright. It's quite a nice evening."
+        },
+        {
+            "text": "And her words 『Don't change』 could mean 『Remain \neasy to handle』, but no matter what her true \nintentions were behind those words――",
+            "choice_data_list": [
+                "Thank you, Journey"
+            ]
+        },
+        {
+            "text": "It was probably naive, but I thought our current \nrelationship probably wasn't a bad one. At least until \nthe day comes where we can truly trust each other."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…………"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Don't worry about it. \nYou are my trainer, after all."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Now……and always."
+        }
+    ]
+}
