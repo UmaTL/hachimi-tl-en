@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Reporter A",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Reporter A",
-            "text": "Ms. Mejiro Ramonu! Do you have some time? I would like to ask you a bit more about your upcoming running rotation…!"
+            "text": "Ms. Mejiro Ramonu! Do you have some time? I would like to ask \nyou a bit more about your upcoming running rotation…!"
         },
         {
             "name": "Reporter B",
-            "text": "Recently, many of your opponents have been starting to view you as a serious threat. What are your thoughts on that? Fans have been talking a lot about you too…!"
+            "text": "Recently, many of your opponents have been starting to \nview you as a serious threat. What are your thoughts on \nthat? Fans have been talking a lot about you too…!"
         },
         {
             "name": "Mejiro Ramonu",
@@ -30,7 +31,7 @@
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "With that, I bid you all farewell. I wish to prepare for my next race."
+            "text": "With that, I bid you all farewell. \nI wish to prepare for my next race."
         },
         {
             "name": "Reporter A",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "However, this is by no means something I wished upon myself. I believe you of all people should understand."
+            "text": "However, this is by no means something I wished upon myself. \nI believe you of all people should understand."
         },
         {
             "name": "Mr. C.B.",
@@ -50,11 +51,11 @@
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "When people stop you in the streets, don't you think they come up with the most wonderful pick-lines?"
+            "text": "When people stop you in the streets, don't you think \nthey come up with the most wonderful pick-lines?"
         },
         {
             "name": "Mr. C.B.",
-            "text": "I never thought about it. Though I guess for you it'd probably relieve you of some of your boredom."
+            "text": "I never thought about it. Though I guess for you it'd probably \nrelieve you of some of your boredom."
         },
         {
             "name": "Mejiro Ramonu",
@@ -62,7 +63,7 @@
         },
         {
             "name": "Academy Staff A",
-            "text": "In a bit, we will be opening the campus to the children. I will be counting on you two today."
+            "text": "In a bit, we will be opening the campus to the children. \nI will be counting on you two today."
         },
         {
             "name": "Mejiro Dober",
@@ -70,11 +71,11 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Be confident in yourself, Dober. You have already prepared for a long time for this day. I can guarantee that you will be alright. Also…"
+            "text": "Be confident in yourself, Dober. You have already \nprepared for a long time for this day. I can guarantee \nthat you will be alright. Also…"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "You are quite skilled at looking after younger children. Additionally, I will be supporting you the whole way, so let us give it our all."
+            "text": "You are quite skilled at looking after younger children. \nAdditionally, I will be supporting you the whole way, \nso let us give it our all."
         },
         {
             "name": "Mejiro Dober",
@@ -86,11 +87,11 @@
         },
         {
             "name": "Chaperone",
-            "text": "Thank you very much for your time today. The children and I have been looking forward to this day for some time."
+            "text": "Thank you very much for your time today. The children \nand I have been looking forward to this day for some time."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "I am honored to hear that. Today, we shall provide a tour of the school campus. I am Mejiro Ardan and this is Mejiro Dober."
+            "text": "I am honored to hear that. Today, we shall provide \na tour of the school campus. I am Mejiro Ardan and \nthis is Mejiro Dober."
         },
         {
             "name": "Mejiro Ramonu",
@@ -98,19 +99,19 @@
         },
         {
             "name": "Dober & Ardan",
-            "text": "Ramonu!? Sister…!"
+            "text": "Ramonu!? \nSister…!"
         },
         {
             "name": "Child Horsegirl B",
-            "text": "Um. Mejiro Ramonu? <i>That</i> Mejiro Ramonu!? No way, she's the real deal…!!"
+            "text": "Um. Mejiro Ramonu? <i>That</i> Mejiro Ramonu!? \nNo way, she's the real deal…!!"
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "Forgive me for the abrupt change to the itinerary. Currently, our school is preparing next year's pamphlet by taking photographs."
+            "text": "Forgive me for the abrupt change to the itinerary. Currently, our \nschool is preparing next year's pamphlet by taking photographs."
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "Today, to prepare some photos, I have come to join you on this tour… I am pleased to make your acquaintance."
+            "text": "Today, to prepare some photos, I have come to join you \non this tour… I am pleased to make your acquaintance."
         },
         {
             "name": "Participants",
@@ -122,7 +123,7 @@
         },
         {
             "name": "Camera-holding Horsegirl",
-            "text": "Of course, leave it to me, Ms. Ramonu! Please give me some time to take some pictures!"
+            "text": "Of course, leave it to me, Ms. Ramonu! \nPlease give me some time to take some pictures!"
         },
         {
             "name": "Mejiro Dober",
@@ -130,23 +131,23 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Calm down Dober. This is Big Sister we are talking about here. She must have something on her mind. For now, let us stick to the plan."
+            "text": "Calm down Dober. This is Big Sister we are talking about here. \nShe must have something on her mind. For now, let us stick \nto the plan."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Then, allow us to take you on a tour of the interior of the school facilities. Please follow us."
+            "text": "Then, allow us to take you on a tour of the interior \nof the school facilities. Please follow us."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "The gym here is used by our students for their own independent training. Additionally, they may personally rent out some of the equipment to…"
+            "text": "The gym here is used by our students for their \nown independent training. Additionally, they may \npersonally rent out some of the equipment to…"
         },
         {
             "name": "Mejiro Dober",
-            "text": "(I was a bit worried at first, but it seems that everything is still going according to plan. At this rate, we should be able to finish without a problem)"
+            "text": "(I was a bit worried at first, but it seems that everything \nis still going according to plan. At this rate, we should \nbe able to finish without a problem)"
         },
         {
             "name": "Mejiro Dober",
-            "text": "(Besides, having Ramonu here with us definitely seems to make the kids more excited)"
+            "text": "(Besides, having Ramonu here with us definitely \nseems to make the kids more excited)"
         },
         {
             "name": "Mejiro Ramonu",
@@ -154,7 +155,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Last but not least, I would like to begin today's final program. I would like to show everyone the practice race course."
+            "text": "Last but not least, I would like to begin today's final program. \nI would like to show everyone the practice race course."
         },
         {
             "name": "Child Horsegirl A",
@@ -162,11 +163,11 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Of course. First, we need to go over the basics, and afterwards, everyone may run on the track."
+            "text": "Of course. First, we need to go over the basics, \nand afterwards, everyone may run on the track."
         },
         {
             "name": "Mejiro Dober",
-            "text": "It's dangerous to just go and run, so we would like to go over the basics of running. We'll give a demonstration, so watch us properly."
+            "text": "It's dangerous to just go and run, so we would like to go \nover the basics of running. We'll give a demonstration, \nso watch us properly."
         },
         {
             "name": "Mejiro Ramonu",
@@ -174,11 +175,11 @@
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "Let us show them what a race can be. We can do this here and now."
+            "text": "Let us show them what a race can be. \nWe can do this here and now."
         },
         {
             "name": "Child Horsegirl A",
-            "text": "Ms. Ramonu and the others are going to run together?! I totally wanna see…!"
+            "text": "Ms. Ramonu and the others are going to \nrun together?! I totally wanna see…!"
         },
         {
             "name": "Mejiro Ramonu",

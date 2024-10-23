@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Customer A",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Customer A",
-            "text": "Could I ask for your advice? Umm… there's someone I want to give chocolate to…"
+            "text": "Could I ask for your advice? \nUmm… there's someone I want to give chocolate to…"
         },
         {
             "name": "Mejiro Ryan",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Eheh. You're doing great. I can tell you're acting much more like yourself than the first day."
+            "text": "Eheh. You're doing great. I can tell you're acting \nmuch more like yourself than the first day."
         },
         {
             "name": "Mejiro Ryan",
@@ -34,7 +35,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ehehe, I see… Hey, Ines."
+            "text": "Ehehe, I see… \nHey, Ines."
         },
         {
             "name": "Mejiro Ryan",
@@ -50,7 +51,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>Hwaaah</i>! Thank you!! For real～? I'll be sure to enjoy these with my little sisters!"
+            "text": "<i>Hwaaah</i>! Thank you!! For real～? \nI'll be sure to enjoy these with my little sisters!"
         },
         {
             "name": "Mejiro Ryan",
@@ -66,11 +67,11 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "…… I'd like you to have them all. For always being by my side."
+            "text": "…… I'd like you to have them all. \nFor always being by my side."
         },
         {
             "name": "Mejiro Ryan",
-            "text": "So just this once… could you keep these chocolates all to yourself?"
+            "text": "So just this once… could you keep \nthese chocolates all to yourself?"
         },
         {
             "name": "Ines Fujin",
@@ -81,19 +82,19 @@
             "text": "―― I'll savour them on my own then."
         },
         {
-            "text": "Apparently there's a special limited-time café somewhere near Tracen Academy."
+            "text": "Apparently there's a special limited-time café \nsomewhere near Tracen Academy."
         },
         {
             "name": "Horsegirl A",
-            "text": "Hey, hey, have you heard of that one café? Word has it everyone comes out feeling refreshed!"
+            "text": "Hey, hey, have you heard of that one café? \nWord has it everyone comes out feeling refreshed!"
         },
         {
             "name": "Young Woman A",
-            "text": "Of course I've heard! It's said— That they serve up that precious courage you need."
+            "text": "Of course I've heard! It's said— \nThat they serve up that precious courage you need."
         },
         {
             "name": "Young Woman B",
-            "text": "That's right — I've been served my courage there already. I'm sure, anyone that goes there……"
+            "text": "That's right — I've been served my courage there already. \nI'm sure, anyone that goes there……"
         },
         {
             "name": "Biko Pegasus",
@@ -105,32 +106,32 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Ohh, welcome! The sun's out and shining today so the window seats feel great♪ I'll bring you the menu."
+            "text": "Ohh, welcome! The sun's out and shining today so the \nwindow seats feel great♪ I'll bring you the menu."
         },
         {
             "name": "Hishi Akebono",
             "text": "Bono♪ We just finished a new parfait, would you like to try it?"
         },
         {
-            "text": "Led by the floor staff, I entered a café where I was welcomed by friendly staff and a kind pâtissier.",
+            "text": "Led by the floor staff, I entered a café where I was \nwelcomed by friendly staff and a kind pâtissier.",
             "choice_data_list": [
                 "(What a nice place…)"
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "…… Are you looking for a sweet memory? Or do you need a little encouragement?"
+            "text": "…… Are you looking for a sweet memory? \nOr do you need a little encouragement?"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Ehehee. Please take a chocolate first. They're our pride and joy.",
+            "text": "Ehehee. Please take a chocolate first. \nThey're our pride and joy.",
             "choice_data_list": [
                 "……! Thank you."
             ]
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Please take your time. Until your heart finds peace, until your heart finds its strength."
+            "text": "Please take your time. Until your heart finds \npeace, until your heart finds its strength."
         },
         {
             "name": "Mejiro Ryan",

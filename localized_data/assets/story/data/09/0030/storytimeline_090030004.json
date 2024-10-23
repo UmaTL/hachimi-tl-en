@@ -1,32 +1,33 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Doctor",
-            "text": "—— Luckily it's just a minor injury, so your day-to-day life won't be affected. But taking on the lead role in the play is a different story……"
+            "text": "—— Luckily it's just a minor injury, so your day-to-day life \nwon't be affected. But taking on the lead role in the play is \na different story……"
         },
         {
             "name": "Doctor",
-            "text": "There's a lot of physical activity involved, is there not? It will put too much strain on your legs. Considering your future in racing, I'd advise you not to take chances."
+            "text": "There's a lot of physical activity involved, is there not? \nIt will put too much strain on your legs. Considering your \nfuture in racing, I'd advise you not to take chances."
         },
         {
             "name": "Votive Play Instructor",
-            "text": "—— Given the circumstances, I'm afraid Ms. King Halo will need to step down from the Shirabyōshi role…"
+            "text": "—— Given the circumstances, I'm afraid Ms. King Halo \nwill need to step down from the Shirabyōshi role…"
         },
         {
             "name": "Kawakami Princess",
-            "text": "But… that can't be… Madam King put her heart and soul into that role…!"
+            "text": "But… that can't be… Madam King put \nher heart and soul into that role…!"
         },
         {
             "name": "Votive Play Instructor",
-            "text": "I know it's frustrating, but she shouldn't push herself and make her injury worse. I'm sorry… I haven't been attentive enough as you supervisor either."
+            "text": "I know it's frustrating, but she shouldn't push herself \nand make her injury worse. I'm sorry… I haven't been \nattentive enough as you supervisor either."
         },
         {
             "name": "Votive Play Instructor",
-            "text": "…… That being said, we'll find a substitute for the Shirabyōshi role. However, given the limited time, it'll be tough to perform the \"traditional\" version with a changed cast."
+            "text": "…… That being said, we'll find a substitute for the Shirabyōshi \nrole. However, given the limited time, it'll be tough to perform \nthe \"traditional\" version with a changed cast."
         },
         {
             "name": "Votive Play Instructor",
-            "text": "So, this year we'll have to go with the abridged version. Since that cuts out a few scenes, there should still be enough time to fit practice for the lead role in."
+            "text": "So, this year we'll have to go with the abridged version. \nSince that cuts out a few scenes, there should still be \nenough time to fit practice for the lead role in."
         },
         {
             "name": "Tokai Teio",
@@ -34,11 +35,11 @@
         },
         {
             "name": "Tsurumaru Tsuyoshi",
-            "text": "Now the issue is, who's going to step into the Shirabyōshi role…?"
+            "text": "Now the issue is, who's going to \nstep into the Shirabyōshi role…?"
         },
         {
             "name": "Votive Play Instructor",
-            "text": "Regarding that matter… I've thought it through on my end, taking into consideration various factors and circumstances."
+            "text": "Regarding that matter… I've thought it through on my end, \ntaking into consideration various factors and circumstances."
         },
         {
             "name": "Votive Play Instructor",
@@ -46,11 +47,11 @@
         },
         {
             "name": "Votive Play Instructor",
-            "text": "This abridged script features the Shirabyōshi, the Shirabyōshi's mentor, the twin butterflies, and a solo traveling performer."
+            "text": "This abridged script features the Shirabyōshi, \nthe Shirabyōshi's mentor, the twin butterflies, \nand a solo traveling performer."
         },
         {
             "name": "Votive Play Instructor",
-            "text": "Ms. King will play the mentor to lessen her physical strain. The role of the traveling performer will be handled by Ms. Haru Urara alone. …Is that manageable?"
+            "text": "Ms. King will play the mentor to lessen her physical strain. \nThe role of the traveling performer will be handled by \nMs. Haru Urara alone. …Is that manageable?"
         },
         {
             "name": "Haru Urara",
@@ -66,35 +67,35 @@
         },
         {
             "name": "Votive Play Instructor",
-            "text": "Ms. King Halo, please focus on recovering. Feel free to offer guidance to the others if you notice anything amiss."
+            "text": "Ms. King Halo, please focus on recovering. Feel free to offer \nguidance to the others if you notice anything amiss."
         },
         {
             "name": "King Halo",
-            "text": "…… I'm sorry for the trouble. I'll assist with the Shirabyōshi training as well."
+            "text": "…… I'm sorry for the trouble. I'll assist with \nthe Shirabyōshi training as well."
         },
         {
             "name": "Kawakami Princess",
-            "text": "<i>O mighty and revered three pillars, witness my dance till its end. </i>"
+            "text": "<i>O mighty and revered three pillars, witness my dance till its end. \n</i>"
         },
         {
             "name": "King Halo",
-            "text": "Your elbows are dropping. Keep your focus from shoulders to elbows, all the way to your fingertips. And don't neglect your footwork either."
+            "text": "Your elbows are dropping. Keep your focus from shoulders to \nelbows, all the way to your fingertips. And don't neglect your \nfootwork either."
         },
         {
             "name": "Kawakami Princess",
-            "text": "<i>Draw near, draw near, heed the resolve I have —— </i>"
+            "text": "<i>Draw near, draw near, heed the resolve I have —— \n</i>"
         },
         {
             "name": "Both",
-            "text": "<i>Hey, hey! </i>"
+            "text": "<i>Hey, hey! \n</i>"
         },
         {
             "name": "Kawakami Princess",
-            "text": "<i>Woah! </i>"
+            "text": "<i>Woah! \n</i>"
         },
         {
             "name": "Tokai Teio",
-            "text": "<i>Hahaha, she's flustered, she's flustered! Not quite sharp on the left, more focus she needs!</i>"
+            "text": "<i>Hahaha, she's flustered, she's flustered! \nNot quite sharp on the left, more focus she needs!</i>"
         },
         {
             "name": "Kawakami Princess",
@@ -102,11 +103,11 @@
         },
         {
             "name": "King Halo",
-            "text": "<i>Just you watch. Right, left, forward, and back. I shall give you a performance thorough and captivating!</i>"
+            "text": "<i>Just you watch. Right, left, forward, and back. \nI shall give you a performance thorough and captivating!</i>"
         },
         {
             "name": "King Halo",
-            "text": "Remember your lines while moving around. I know there's not much time and it's tough, but… take it step by step. —— Alright, let's start from the top again!"
+            "text": "Remember your lines while moving around. I know there's \nnot much time and it's tough, but… take it step by step. \n—— Alright, let's start from the top again!"
         },
         {
             "name": "Kawakami Princess",
@@ -114,15 +115,15 @@
         },
         {
             "name": "Haru Urara",
-            "text": "<i>Now then, a dance I shall present you. Here goes!</i> —— Woah, <i>uw～～eeeii!?</i>"
+            "text": "<i>Now then, a dance I shall present you. Here goes!</i> \n—— Woah, <i>uw～～eeeii!?</i>"
         },
         {
             "name": "Votive Play Instructor",
-            "text": "Keep a firm grip! Stay aware of your core. Let's try that once more!"
+            "text": "Keep a firm grip! Stay aware of your core. \nLet's try that once more!"
         },
         {
             "name": "Votive Play Instructor",
-            "text": "That's enough for today. We'll have more rehearsals tomorrow, but let's not push ourselves too hard."
+            "text": "That's enough for today. We'll have more rehearsals \ntomorrow, but let's not push ourselves too hard."
         },
         {
             "name": "All Together",
@@ -142,23 +143,23 @@
         },
         {
             "name": "King Halo",
-            "text": "—— ! …… Oh dear, do you need something?"
+            "text": "—— ! \n…… Oh dear, do you need something?"
         },
         {
             "name": "Haru Urara",
-            "text": "Hey, let's eat some ice cream! Sweet things always give you a boost of energy!"
+            "text": "Hey, let's eat some ice cream! \nSweet things always give you a boost of energy!"
         },
         {
             "name": "King Halo",
-            "text": "……… Sorry for causing you concern. …… But I understand. If I'm injured, I just have to accept it."
+            "text": "……… Sorry for causing you concern. \n…… But I understand. If I'm injured, I just have to accept it."
         },
         {
             "name": "Haru Urara",
-            "text": "But it's still frustrating for you, isn't it? King, you have the same look on your face as when you lose a race."
+            "text": "But it's still frustrating for you, isn't it? King, you have \nthe same look on your face as when you lose a race."
         },
         {
             "name": "Haru Urara",
-            "text": "I know you've been working really hard! And how much you cherished playing the Shirabyōshi, just like racing!"
+            "text": "I know you've been working really hard! And how much you \ncherished playing the Shirabyōshi, just like racing!"
         },
         {
             "name": "Haru Urara",
@@ -170,7 +171,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Because you always come back stronger the next day, no matter how upset you are!"
+            "text": "Because you always come back stronger \nthe next day, no matter how upset you are!"
         },
         {
             "name": "King Halo",
@@ -178,11 +179,11 @@
         },
         {
             "name": "King Halo",
-            "text": "…… Hehe, you're absolutely right. Thanks, this ice cream tastes great."
+            "text": "…… Hehe, you're absolutely right. \nThanks, this ice cream tastes great."
         },
         {
             "name": "Haru Urara",
-            "text": "You're welcome!! Let me have a bite! I'll share some of mine with you too!"
+            "text": "You're welcome!! Let me have a bite! \nI'll share some of mine with you too!"
         }
     ]
 }

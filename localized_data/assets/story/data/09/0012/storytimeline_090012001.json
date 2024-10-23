@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Air Shakur",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Air Shakur",
-            "text": "Now I gotta undo it… I guess I'll upload that other one first."
+            "text": "Now I gotta undo it… \nI guess I'll upload that other one first."
         },
         {
             "name": "Horsegirl A",
@@ -18,15 +19,15 @@
         },
         {
             "name": "Horsegirl B",
-            "text": "Sure, but don't lose, okay? If you do, I might go with somebody else!"
+            "text": "Sure, but don't lose, okay? \nIf you do, I might go with somebody else!"
         },
         {
             "name": "Air Shakur",
-            "text": "Ugh, it's that time of year already. Not that it makes any difference to me. A text?"
+            "text": "Ugh, it's that time of year already. \nNot that it makes any difference to me. \nA text?"
         },
         {
             "name": "Air Shakur",
-            "text": "\"Tracen Academy's Student Council President, Symboli Rudolf\"…? What's with the title? Wait… <i>What?</i>"
+            "text": "\"Tracen Academy's Student Council President, Symboli Rudolf\"…? \nWhat's with the title? Wait… <i>What?</i>"
         },
         {
             "name": "Air Shakur",
@@ -37,15 +38,15 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "<i>Ligne Droite</i>, or more commonly <i>Droite</i>. When the cherry blossoms are in bloom and the new year is beginning, we hold this extravagant dance to commemorate it."
+            "text": "<i>Ligne Droite</i>, or more commonly <i>Droite</i>. When the cherry \nblossoms are in bloom and the new year is beginning, we hold this \nextravagant dance to commemorate it."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "As this day approaches, my cute little ponies become nervous. Naturally, they worry about finding nice clothes to wear, But the biggest thing on their minds is…"
+            "text": "As this day approaches, my cute little ponies become nervous. \nNaturally, they worry about finding nice clothes to wear, \nBut the biggest thing on their minds is…"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Finding a partner to dance with for the majority of the night. Yes! Fitting for this turning point in their lives, They must find an equally lovely date!"
+            "text": "Finding a partner to dance with for the majority of the night. \nYes! Fitting for this turning point in their lives, \nThey must find an equally lovely date!"
         },
         {
             "name": "Seiun Sky",
@@ -53,19 +54,19 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Oh no, was that a little too boring? I'm sorry. Will you open your eyes, Princess?"
+            "text": "Oh no, was that a little too boring? \nI'm sorry. Will you open your eyes, Princess?"
         },
         {
             "name": "Seiun Sky",
-            "text": "What did you wake me for? I was having such a comfy afternoon nap. Dro… What was it again?"
+            "text": "What did you wake me for? \nI was having such a comfy afternoon nap. \nDro… What was it again?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "<i>Droite</i>, remember? I'm about to say something that will really wake you up, so brace yourself. Well… Will you lend your ear to my feelings?"
+            "text": "<i>Droite</i>, remember? I'm about to say something \nthat will really wake you up, so brace yourself. \nWell… Will you lend your ear to my feelings?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Seiun Sky, Won't you please… be my date?"
+            "text": "Seiun Sky, \nWon't you please… be my date?"
         },
         {
             "name": "Seiun Sky",
@@ -73,15 +74,15 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "No, hang on. Wait, what do you mean by \"date\", anyway? You want me to be your partner for the dance?"
+            "text": "No, hang on. \nWait, what do you mean by \"date\", anyway? \nYou want me to be your partner for the dance?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Exactly that! We've decided to hold an exhibition dance at the <i>Droite</i>, you see… It'll act as the opening act to the main event. To liven things up!"
+            "text": "Exactly that! We've decided to hold an exhibition dance at the \n<i>Droite</i>, you see… It'll act as the opening act to the main \nevent. To liven things up!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "We do this every year, but… Our Kaichou, she really wants to make this a success, And I wanted to contribute, so I proposed a plan."
+            "text": "We do this every year, but… \nOur Kaichou, she really wants to make this a success, \nAnd I wanted to contribute, so I proposed a plan."
         },
         {
             "name": "Seiun Sky",
@@ -89,31 +90,31 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You don't sound very excited about it, huh? Makes sense, I suppose. Everyone's busy with races… We'd like as many girls as possible to attend, though."
+            "text": "You don't sound very excited about it, huh? \nMakes sense, I suppose. Everyone's busy with races… \nWe'd like as many girls as possible to attend, though."
         },
         {
             "name": "Seiun Sky",
-            "text": "So that's why you've turned into a giant billboard. But why pick <i>me</i> to be your partner?"
+            "text": "So that's why you've turned into a giant billboard. \nBut why pick <i>me</i> to be your partner?"
         },
         {
             "name": "Seiun Sky",
-            "text": "To begin with, we have nothing in common. I'm not in the Rittou dorm, And I'm not on any committee or whatever either."
+            "text": "To begin with, we have nothing in common. \nI'm not in the Rittou dorm, \nAnd I'm not on any committee or whatever either."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Right now, we're students in the same school. Wouldn't you call that a connection? Though it might be broader than what you meant. Putting that aside,"
+            "text": "Right now, we're students in the same school. Wouldn't you call \nthat a connection? Though it might be broader than what you \nmeant. Putting that aside,"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You're correct that typically, when choosing a date… you would pick someone you're already close with in your daily life."
+            "text": "You're correct that typically, when choosing a date… you would \npick someone you're already close with in your daily life."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The <i>Droite</i> acts as a milestone event, after all. Of course you'd want a person who really left a mark on your year. That's only natural."
+            "text": "The <i>Droite</i> acts as a milestone event, after \nall. Of course you'd want a person who really left \na mark on your year. That's only natural."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "\"When I win, I want you as my prize.\" You know! Plenty of girls use races to win their partner over."
+            "text": "\"When I win, I want you as my prize.\" \nYou know! Plenty of girls use races to win their partner over."
         },
         {
             "name": "Seiun Sky",
@@ -121,31 +122,31 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "However! What I'm in charge of is ultimately an exhibition. So, I only have one condition. I need them to help make the <i>Droite</i> a rousing success."
+            "text": "However! What I'm in charge of is ultimately an exhibition. \nSo, I only have one condition. \nI need them to help make the <i>Droite</i> a rousing success."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "And when I thought about who could make that happen… I remembered the girl known as the Trickster, I knew it had to be you!"
+            "text": "And when I thought about who could make that happen… \nI remembered the girl known as the Trickster, \nI knew it had to be you!"
         },
         {
             "name": "Seiun Sky",
-            "text": "I get it. Well, definitely not your train of thought, But I get that you're serious about this."
+            "text": "I get it. \nWell, definitely not your train of thought, \nBut I get that you're serious about this."
         },
         {
             "name": "Seiun Sky",
-            "text": "Because of that, I'll be very clear. No thank you. I have no interest in participating. Please choose someone else."
+            "text": "Because of that, I'll be very clear. \nNo thank you. I have no interest in participating. \nPlease choose someone else."
         },
         {
             "name": "Seiun Sky",
-            "text": "Though I know you must be planning <i>something…</i> I don't want to attract weird levels of attention. Plus, you can't convince me to dance outside of a live. And anyway…"
+            "text": "Though I know you must be planning <i>something…</i> I don't want to \nattract weird levels of attention. Plus, you can't convince me to \ndance outside of a live. And anyway…"
         },
         {
             "name": "Seiun Sky",
-            "text": "I don't… have much free time on my hands right now. I've been wanting to kinda focus my effort on the next race."
+            "text": "I don't… have much free time on my hands right now. \nI've been wanting to kinda focus my effort on the next race."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I understand. Then, how about I make you an offer? May I suggest a trade?"
+            "text": "I understand. \nThen, how about I make you an offer? \nMay I suggest a trade?"
         },
         {
             "name": "Sirius Symboli",
@@ -153,22 +154,22 @@
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "Woah, a jump shot! That height was insane! But that's just like you, Sirius-senpai!"
+            "text": "Woah, a jump shot! \nThat height was insane! \nBut that's just like you, Sirius-senpai!"
         },
         {
             "name": "Sirius Symboli",
-            "text": "This is lame. I'm bored out of my mind, and it's not even satisfying. I'm done playing pool."
+            "text": "This is lame. I'm bored out of my mind, and it's not even \nsatisfying. I'm done playing pool."
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "Wait, already?! My day off finally lined up with yours, though…! Uhh, let's see… I need something interesting, or like, exciting somehow…"
+            "text": "Wait, already?! My day off finally lined up with \nyours, though…! Uhh, let's see… I need something \ninteresting, or like, exciting somehow…"
         },
         {
             "text": "(Chring…)"
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "Oh, nice timing! Senpai, senpai! I've been really into this one producer! Like, just now they put out a new track. Wanna hear?"
+            "text": "Oh, nice timing! \nSenpai, senpai! I've been really into this one producer! \nLike, just now they put out a new track. Wanna hear?"
         },
         {
             "name": "Sirius Symboli",
@@ -176,23 +177,23 @@
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "Definitely! They go by !monad. They're kind of a mystery, They only come on social media to post music and remixes!"
+            "text": "Definitely! They go by !monad. \nThey're kind of a mystery, \nThey only come on social media to post music and remixes!"
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "They're like, insanely cool! They have this aggressive, super tight sound! And it's all old school, west coast style. It's <i>awesome!</i>"
+            "text": "They're like, insanely cool! They have this aggressive, \nsuper tight sound! And it's all old school, west \ncoast style. It's <i>awesome!</i>"
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "…Wait, sorry, I got too excited. Anyway, just listen! Here's their account."
+            "text": "…Wait, sorry, I got too excited. \nAnyway, just listen! Here's their account."
         },
         {
             "name": "Sirius Symboli",
-            "text": "!monad… Their profile is empty, except for their username and their music uploads. Wait, their icon…"
+            "text": "!monad… Their profile is empty, except for their username and \ntheir music uploads. Wait, their icon…"
         },
         {
             "name": "Sirius's Groupie A",
-            "text": "So like, ehehe… To be honest, I was thinking about this year's…"
+            "text": "So like, ehehe… \nTo be honest, I was thinking about this year's…"
         },
         {
             "name": "Sirius's Groupie A",

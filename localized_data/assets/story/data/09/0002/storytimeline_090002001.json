@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Grass Wonder",
@@ -9,7 +10,7 @@
             "text": "The fastest speeders in this world are not direwolves or wyverns."
         },
         {
-            "text": "Buggoo, buggoo, buggooooooooo! (Stupid! They're chasing us at this speed?)"
+            "text": "Buggoo, buggoo, buggooooooooo! (Stupid! \nThey're chasing us at this speed?)"
         },
         {
             "name": "El Condor Pasa",
@@ -33,19 +34,19 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "VR…… umalator? Ms. Chancellor, what are these three iron coffin-like machines?"
+            "text": "VR…… umalator? Ms. Chancellor, what are these three iron \ncoffin-like machines?"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let me explain. VR Umarator\" is a racing simulator developed for the Uma Musume of Tracen Academy."
+            "text": "Let me explain. VR Umarator\" is a racing simulator developed for \nthe Uma Musume of Tracen Academy."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Turf, dirt, good ba field, heavy ba field. It's possible to reproduce any race course in any conditions."
+            "text": "Turf, dirt, good ba field, heavy ba field. It's possible to \nreproduce any race course in any conditions."
         },
         {
             "name": "King Halo",
-            "text": "Wow, it's so convenient to be able to reproduce all kinds of conditions."
+            "text": "Wow, it's so convenient to be able to \nreproduce all kinds of conditions."
         },
         {
             "name": "Seiun Sky",
@@ -53,15 +54,15 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "In addition, you can connect to various affiliated online games and play as Uma Musume!"
+            "text": "In addition, you can connect to various affiliated online games \nand play as Uma Musume!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "With this feature, you can send your beloved Uma Musume into magical lands, science fiction, cyberpunk, and everything in between!"
+            "text": "With this feature, you can send your beloved \nUma Musume into magical lands, science fiction, \ncyberpunk, and everything in between!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I am very happy to hear from you, Ms. Chairman…… I was opposed to that function, saying that it was impossible in many ways. ……"
+            "text": "I am very happy to hear from you, Ms. Chairman…… I was opposed to \nthat function, saying that it was impossible in many ways. ……"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -69,11 +70,11 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Of course! I did this to spread the word about how wonderful Uma Musume is! The money in my pocket will never come back! I'm on fire!"
+            "text": "Of course! I did this to spread the word about \nhow wonderful Uma Musume is! The money in my \npocket will never come back! I'm on fire!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Oh wow, not only can you run, but you can play games! That's just perfect!"
+            "text": "Oh wow, not only can you run, but you \ncan play games! That's just perfect!"
         },
         {
             "name": "Grass Wonder",
@@ -81,11 +82,11 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "On behalf of the school, I asked Ms. Symbol Rudolf, the president of the school, to run a test run first. We didn't want to have any problems."
+            "text": "On behalf of the school, I asked Ms. Symbol Rudolf, \nthe president of the school, to run a test run first. \nWe didn't want to have any problems."
         },
         {
             "name": "El Condor Pasa",
-            "text": "Way to go, Chairman! Hey, Chairman of the Board, Chairman of the Board, Elle also has that machine ……"
+            "text": "Way to go, Chairman! Hey, Chairman of the Board, Chairman of the \nBoard, Elle also has that machine ……"
         },
         {
             "name": "Grass Wonder",
@@ -95,7 +96,7 @@
             "text": "EMERGENCY, EMERGENCY. Overall program error caused by Unit 1."
         },
         {
-            "text": "It is necessary to assign to the same session from Units 2 and 3 and release the session. If it cannot be released, all software must be reset."
+            "text": "It is necessary to assign to the same session from \nUnits 2 and 3 and release the session. If it cannot \nbe released, all software must be reset."
         },
         {
             "name": "Chairwoman Akikawa",
@@ -103,7 +104,7 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "If that happens, we'll have to redo the whole setup.…… What happened to Unit 1!"
+            "text": "If that happens, we'll have to redo the \nwhole setup.…… What happened to Unit 1!"
         },
         {
             "text": "Ha, ha…… ha, ha ……"
@@ -122,7 +123,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Sturdy, robust, and the strongest of all! It won't be shaken by the slightest trouble!"
+            "text": "Sturdy, robust, and the strongest of all! It won't be shaken by \nthe slightest trouble!"
         },
         {
             "name": "Grass Wonder",
@@ -130,11 +131,11 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "When it comes to machine trouble, Elle may not be able to handle it alone. As an assistant at that time."
+            "text": "When it comes to machine trouble, Elle may not be able to handle \nit alone. As an assistant at that time."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Well, what a great duo! Then I'll leave it to these two well-meaning people!"
+            "text": "Well, what a great duo! Then I'll leave it to these two \nwell-meaning people!"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -142,7 +143,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Let's see, the…… start button is this one. If you press this, you will be in running mode. ……"
+            "text": "Let's see, the…… start button is this one. If you press this, you \nwill be in running mode. ……"
         },
         {
             "name": "Grass Wonder",
@@ -150,7 +151,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Yeah, yeah, yeah! Glass, what is the meaning of this? This place! And what's with the outfit?"
+            "text": "Yeah, yeah, yeah! Glass, what is the meaning of this? This place! \nAnd what's with the outfit?"
         },
         {
             "name": "Grass Wonder",
@@ -158,7 +159,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Fantasy…… Is this outfit of Elle's…… possibly a martial artist desu?"
+            "text": "Fantasy…… Is this outfit of Elle's…… \npossibly a martial artist desu?"
         },
         {
             "name": "Grass Wonder",
@@ -166,15 +167,15 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "You can also see the status. This is definitely a fantasy game mode."
+            "text": "You can also see the status. This \nis definitely a fantasy game mode."
         },
         {
             "name": "Grass Wonder",
-            "text": "But why? It's supposed to go into the same running mode as the first unit. ……"
+            "text": "But why? It's supposed to go into the same \nrunning mode as the first unit. ……"
         },
         {
             "name": "El Condor Pasa",
-            "text": "There must be a reason! Something that is happening in this world that needs to be solved!"
+            "text": "There must be a reason! Something that is happening in this world \nthat needs to be solved!"
         },
         {
             "name": "Grass Wonder",
@@ -182,7 +183,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "But as long as they were brought here by the program, there may be a reason they are close. ……"
+            "text": "But as long as they were brought here by the program, there may \nbe a reason they are close. ……"
         },
         {
             "text": "(Zawazawa Zawazawa ……)"
@@ -192,58 +193,58 @@
             "text": "Ah, someone has gathered! Could it be another player?"
         },
         {
-            "text": "Hey, hey, what's with that race! Are they long-eared but…… elves! A war wolf with a fluffy tail?"
+            "text": "Hey, hey, what's with that race! Are they long-eared but…… elves! \nA war wolf with a fluffy tail?"
         },
         {
             "name": "El Condor Pasa",
             "text": "No, we are not! We are the Horse Girls!"
         },
         {
-            "text": "What? Umamusume is…… that Umamusume? The real Uma Musume is in the game world?…… This is going to be great!"
+            "text": "What? Umamusume is…… that Umamusume? The real Uma Musume is in \nthe game world?…… This is going to be great!"
         },
         {
-            "text": "Oh, oh, oh, Uma Musume ……! I knew the legend was true! This may be salvation from the heavens."
+            "text": "Oh, oh, oh, Uma Musume ……! I knew the legend was true! This may \nbe salvation from the heavens."
         },
         {
             "name": "Grass Wonder",
             "text": "That…… grandmother? What is legendary is ……"
         },
         {
-            "text": "When the world is at stake―there is a saying here on the continent of Umanesto that goes something like this."
+            "text": "When the world is at stake―there is a saying here on the \ncontinent of Umanesto that goes something like this."
         },
         {
-            "text": "The \"Attendant of the Phantom has descended. \"The demonic spirits descend from the clouds to look down on the world below, and with their innate thunderbolt, bring destruction and pleasure to the Demon Lord.\""
+            "text": "The \"Attendant of the Phantom has descended. \"The demonic \nspirits descend from the clouds to look down on the \nworld below, and with their innate thunderbolt, bring \ndestruction and pleasure to the Demon Lord.\""
         },
         {
             "name": "Grass Wonder",
-            "text": "Phantom眷…… Are you referring to Uma Musume? I'm more interested in ……"
+            "text": "Phantom眷…… Are you referring to Uma \nMusume? I'm more interested in ……"
         },
         {
             "name": "El Condor Pasa",
             "text": "The Demon King! Is there a Demon King in this world?"
         },
         {
-            "text": "Indeed. Just the other day, she suddenly appeared in this world. Many heroes have been defeated by the Demon King, and the world is in the midst of a crisis."
+            "text": "Indeed. Just the other day, she suddenly appeared in this world. \nMany heroes have been defeated by the Demon King, and the world \nis in the midst of a crisis."
         },
         {
             "name": "El Condor Pasa",
-            "text": "Bueno! Did you hear that, Glass? It is no accident that Elle and her friends came here!"
+            "text": "Bueno! Did you hear that, Glass? It is no accident that Elle and \nher friends came here!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "That demon king is the source of all the trouble! Even if a normal race can't stop her, an Uma Musume can! That's why I've been called!"
+            "text": "That demon king is the source of all the trouble! \nEven if a normal race can't stop her, an Uma \nMusume can! That's why I've been called!"
         },
         {
             "name": "Grass Wonder",
-            "text": "Is it a kind of bug mastery? Does the fact that there is lore mean that…… Uma Musume is somehow the key?"
+            "text": "Is it a kind of bug mastery? Does the fact that there is lore \nmean that…… Uma Musume is somehow the key?"
         },
         {
             "name": "El Condor Pasa",
-            "text": "That's what I'm talking about! If we defeat the Demon King, I'm sure our troubles will be solved!"
+            "text": "That's what I'm talking about! If we defeat the Demon King, I'm \nsure our troubles will be solved!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Okay, let's embark on a journey of adventure, combat, and triumph! Let's defeat the Demon King, and save the world along the way!"
+            "text": "Okay, let's embark on a journey of adventure, \ncombat, and triumph! Let's defeat the Demon \nKing, and save the world along the way!"
         }
     ]
 }
