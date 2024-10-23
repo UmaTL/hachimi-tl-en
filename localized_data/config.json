@@ -17,12 +17,12 @@
 
     "text_wrapper": 1,
     "use_text_wrapper": true,
-    "line_width_multiplier": 1.75,
+    "line_width_multiplier": 2,
 
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
-    "text_frame_line_spacing_multiplier": 0.6,
-    "text_frame_font_size_multiplier": 1,
+    "text_frame_line_spacing_multiplier": 0.7,
+    "text_frame_font_size_multiplier": 1.03,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": true,
 
