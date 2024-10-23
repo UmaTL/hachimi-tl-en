@@ -6,6 +6,8 @@
     "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
     "assets_dir": "assets",
+    "extra_asset_bundle": {"windows": "includes"},
+    "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
 
     "plural_form": "n == 1 ? 0 : 1",
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
@@ -19,8 +21,8 @@
 
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
-    "text_frame_line_spacing_multiplier": 0.8,
-    "text_frame_font_size_multiplier": 0.9,
+    "text_frame_line_spacing_multiplier": 0.6,
+    "text_frame_font_size_multiplier": 1,
     "skill_list_item_desc_font_size_multiplier": 0.9,
     "now_loading_comic_title_ellipsis": true,
 
