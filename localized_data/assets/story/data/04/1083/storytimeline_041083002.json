@@ -5,19 +5,19 @@
             "text": "A short time had passed since Symboli Kris S \nhad come to Tracen Academy. One day―"
         },
         {
-            "text": "……Huu…… huuu…… Hu \n――――Haaaaa……!",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……Huu…… huuu…… Hu \n――――Haaaaa……!"
         },
         {
-            "text": "It's just practice, but such intensity……! It's not just her \nacceleration, she's definitely got wonderful potential!",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "It's just practice, but such intensity……! It's not just her \nacceleration, she's definitely got wonderful potential!"
         },
         {
             "text": "Symboli Kris S' running excited the crowd that \nhad naturally gathered. She definitely has incredible \nintensity and abilities. But――"
         },
         {
-            "text": "――",
             "name": "Symboli Kris S",
+            "text": "――",
             "choice_data_list": [
                 "(She's focused……)"
             ]
@@ -26,8 +26,8 @@
             "text": "I couldn't help but be fascinated by her sharp, straight-forward \ngaze. I had an idea of what that gaze was focused on."
         },
         {
-            "text": "And my mission――I will complete it without fail.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "And my mission――I will complete it without fail."
         },
         {
             "text": "A gust of wind blows past."
@@ -39,31 +39,31 @@
             ]
         },
         {
-            "text": "Kris S-san! I can see your potential, it was \na splendid run. Especially your strength on the \nstraights! By all means, contract with――",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "Kris S-san! I can see your potential, it was \na splendid run. Especially your strength on the \nstraights! By all means, contract with――"
         },
         {
-            "text": "Hey, talking to her first is no fair, senpai! Kris S-san, \nwould you mind listening to what I have to say……?",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "Hey, talking to her first is no fair, senpai! Kris S-san, \nwould you mind listening to what I have to say……?"
         },
         {
-            "text": "――……",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――……"
         },
         {
             "text": "……Maybe it was because she was staying silent, but the group of \npeople around her seemed to grow larger and larger."
         },
         {
-            "text": "How does this sound? We decide on an order, \nand each of us acts as Kris S' trainer temporarily for a day?",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "How does this sound? We decide on an order, \nand each of us acts as Kris S' trainer temporarily for a day?"
         },
         {
-            "text": "I see. After she's worked with each of us, she \ncan select the one she has the best compatability \nwith……does that work for you, Kris S-san?",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "I see. After she's worked with each of us, she \ncan select the one she has the best compatability \nwith……does that work for you, Kris S-san?"
         },
         {
-            "text": "……",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……"
         },
         {
             "text": "Suddenly, my eyes met with Symboli Kris S'. \nIn those eyes, I could see she seemed troubled――",
@@ -75,15 +75,15 @@
             "text": "Without thinking, I stepped in front of my senpai. \nShouldn't we listen to Symboli Kris S first?"
         },
         {
-            "text": "No problem. ――I don't mind.",
             "name": "Symboli Kris S",
+            "text": "No problem. ――I don't mind.",
             "choice_data_list": [
                 "Eh……!?"
             ]
         },
         {
-            "text": "……She's the one saying it, so I guess that's settled. \nSo then, let's iron out a schedule first――",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "……She's the one saying it, so I guess that's settled. \nSo then, let's iron out a schedule first――"
         },
         {
             "text": "In the end, this ended up becoming a way to decide Symboli \nKris S' trainer, essentially a 『Trainer Selection』 event.",
@@ -95,16 +95,16 @@
             "text": "There was Symboli Rudolf's request to 『Look after her』, \nand I could also learn from my senpai!"
         },
         {
-            "text": "Judging by the data from yesterday's run, it seems like your \naptitude is for medium distances on turf. In short, I think you \ncan go for the Classic Triple Crown.",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "Judging by the data from yesterday's run, it seems like your \naptitude is for medium distances on turf. In short, I think you \ncan go for the Classic Triple Crown."
         },
         {
-            "text": "That's why, 2400m on turf―― let's try keeping the Derby in mind \nwhile you run. Along with that, try thinking about things like \nyour approach and pace management!",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "That's why, 2400m on turf―― let's try keeping the Derby in mind \nwhile you run. Along with that, try thinking about things like \nyour approach and pace management!"
         },
         {
-            "text": "……",
             "name": "Symboli Kris S",
+            "text": "……",
             "choice_data_list": [
                 "(……Huh?)"
             ]
@@ -113,8 +113,8 @@
             "text": "Symboli Kris S calmly carried out the \ntraining menu……or so it seemed. However――"
         },
         {
-            "text": "Huh……? On the final straight, \nI thought she'd push even harder……",
             "name": "Veteran Trainer A",
+            "text": "Huh……? On the final straight, \nI thought she'd push even harder……",
             "choice_data_list": [
                 "(She's not being serious……?)"
             ]
@@ -123,35 +123,35 @@
             "text": "The next day too, while training \nwith the second trainer candidate――"
         },
         {
-            "text": "With your physique and the power you showed \nin your run! Until your debut, I think focusing \non strength training would be suitable.",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "With your physique and the power you showed \nin your run! Until your debut, I think focusing \non strength training would be suitable."
         },
         {
-            "text": "So how about starting with slope training? \nWith you, it should make a huge difference for your debut!",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "So how about starting with slope training? \nWith you, it should make a huge difference for your debut!"
         },
         {
-            "text": "……Sorry, I cant―― do that yet.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……Sorry, I cant―― do that yet."
         },
         {
-            "text": "Eh, do you dislike slopes? Hmmmm, \nI thought it would go well though……",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "Eh, do you dislike slopes? Hmmmm, \nI thought it would go well though……"
         },
         {
             "text": "And so, the next day, and the day after that―― Symboli Kris S \ndidn't seem to be so on board with this arrangement."
         },
         {
-            "text": "……And that's how it goes. \nShe'll change the training menu on her own, you know?",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "……And that's how it goes. \nShe'll change the training menu on her own, you know?"
         },
         {
-            "text": "When I ask her why, the only thing I get back \nis 『For my mission』…… it seems like she's quite \nthe temperamental type, don't you think?",
-            "name": "Mid-Rank Trainer A"
+            "name": "Experienced Trainer A",
+            "text": "When I ask her why, the only thing I get back \nis 『For my mission』…… it seems like she's quite \nthe temperamental type, don't you think?"
         },
         {
-            "text": "Same here…… I thought her acceleration power was wonderful but, \nshe just can't seem to pull away. I'm not sure what to do……",
-            "name": "Veteran Trainer A"
+            "name": "Veteran Trainer A",
+            "text": "Same here…… I thought her acceleration power was wonderful but, \nshe just can't seem to pull away. I'm not sure what to do……"
         },
         {
             "text": "I wonder if Symboli Kris S was okay―― I thought about it, \nand decided I should talk to her and find out.",
@@ -163,27 +163,27 @@
             "text": "It seemed like she wasn't willing to compromise at all. \nI asked her if the trainers' methods were the problem――"
         },
         {
-            "text": "…… ……――Problem.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "…… ……――Problem."
         },
         {
-            "text": "About the trainers―― themselves, there's no…… problem. \n――They're thinking about me. ――Seriously.",
             "name": "Symboli Kris S",
+            "text": "About the trainers―― themselves, there's no…… problem. \n――They're thinking about me. ――Seriously.",
             "choice_data_list": [
                 "Then, why――?"
             ]
         },
         {
-            "text": "……There's something that―― I want to prioritize. \n――――My…… mission.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……There's something that―― I want to prioritize. \n――――My…… mission."
         },
         {
-            "text": "――An Uma Musume like you, will revolutionize the racing \nworld in Japan. One day, I believe that will happen.",
-            "name": "Kris S' Mentor"
+            "name": "Kris S' Mentor",
+            "text": "――An Uma Musume like you, will revolutionize the racing \nworld in Japan. One day, I believe that will happen."
         },
         {
-            "text": "――Make the Japanese racing world, more exciting―― to do that.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Make the Japanese racing world, more exciting―― to do that."
         },
         {
             "text": "I could tell right away that she wasn't dodging the question. \n――Her eyes, were just too straightforward."

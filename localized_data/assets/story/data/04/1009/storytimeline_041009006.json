@@ -1,19 +1,20 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "As I was taking a walk on my day off, I stumble upon a familiar face…"
+            "text": "As I was taking a walk on my day off, \nI stumble upon a familiar face…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, Mom? Sorry, I know you're busy, but… I wanted to talk about your schedule next month…"
+            "text": "Oh, Mom? Sorry, I know you're busy, but… \nI wanted to talk about your schedule next month…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Mhm… Yup… Ah, I see. Hmm… all right, thank you! I'll see you soon then!"
+            "text": "Mhm… Yup… Ah, I see. \nHmm… all right, thank you! I'll see you soon then!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Alright! Now I know which hotel she's staying at… perfect! Now all I've got to do is get her a present and… hehe :3",
+            "text": "…Alright! Now I know which hotel she's staying at… perfect! \nNow all I've got to do is get her a present and… hehe :3",
             "choice_data_list": [
                 "Was that your mother on the phone just now?",
                 "Was that your mother on the phone just now?"
@@ -21,19 +22,19 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "T-Trainer!? What are you doing here… Wait, don't tell me you've been eavesdropping on me. Stop doing that!"
+            "text": "T-Trainer!? What are you doing here… Wait, don't tell me you've \nbeen eavesdropping on me. Stop doing that!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh…</i> It's my mom's birthday next month, so I was just confirming where I should send her gift to."
+            "text": "<i>Sigh…</i> It's my mom's birthday next month, so I was just \nconfirming where I should send her gift to."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A surprise birthday gift, to be exact. I don't know if she'll be surprised by it, though."
+            "text": "A surprise birthday gift, to be exact. \nI don't know if she'll be surprised by it, though."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That's why it has to be something that makes her want to say \"That's my Scarlet!\" The number one gift that'll make her happy!",
+            "text": "That's why it has to be something that makes her want to say \n\"That's my Scarlet!\" The number one gift that'll make her happy!",
             "choice_data_list": [
                 "Mind if I help you find it?",
                 "Mind if I help you find it?"
@@ -41,33 +42,33 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You? …Well, at least you can be useful carrying bags for me."
+            "text": "You? \n…Well, at least you can be useful carrying bags for me."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Fine, I'll let you go with me. Alright, let's get going!"
+            "text": "Fine, I'll let you go with me. \nAlright, let's get going!"
         },
         {
-            "text": "And so, we started walking around town to find the right gift, but…"
+            "text": "And so, we started walking around town \nto find the right gift, but…"
         },
         {
             "text": "…It was a disaster."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A necklace? Hmm… It's cute, but the design isn't really my mom's style."
+            "text": "A necklace? Hmm… \nIt's cute, but the design isn't really my mom's style."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "These earrings are really pretty too, but it's too shiny. The types mom usually wears have more class…"
+            "text": "These earrings are really pretty too, but it's too shiny. \nThe types mom usually wears have more class…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm, what about getting her clothes? Like that brand that's number one in terms of popularity and sales…"
+            "text": "Hmm, what about getting her clothes? Like that brand that's \nnumber one in terms of popularity and sales…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…and that's pretty much all it has going for it. You can find their designs just about anywhere. My mom would want something more special.",
+            "text": "…and that's pretty much all it has going for it. \nYou can find their designs just about anywhere. \nMy mom would want something more special.",
             "choice_data_list": [
                 "How about flowers?",
                 "How about flowers?"
@@ -75,19 +76,19 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That's not a bad idea, but… I want to give her something special. It's her birthday after all, I want to make her as happy as possible."
+            "text": "That's not a bad idea, but… I want to give her \nsomething special. It's her birthday after all, \nI want to make her as happy as possible."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "And I can only do that if it's something only I could come up with… I've got to find the number one present for her."
+            "text": "And I can only do that if it's something only I could come up \nwith… I've got to find the number one present for her."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "We've gone through all the places around here. Let's go to the mall next!"
+            "text": "We've gone through all the places around here. \nLet's go to the mall next!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm… There's a lot to choose from, but none of them really fit mom.",
+            "text": "Hmm… There's a lot to choose from, \nbut none of them really fit mom.",
             "choice_data_list": [
                 "You really love your mother, huh.",
                 "You really love your mother, huh."
@@ -95,15 +96,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Of course I do! After all, my mom is an amazing horse girl!"
+            "text": "Of course I do! \nAfter all, my mom is an amazing horse girl!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's one thing that she was a really successful horse girl back in her day, but now she's also traveling around the world doing all sorts of jobs!"
+            "text": "It's one thing that she was a really successful horse \ngirl back in her day, but now she's also traveling \naround the world doing all sorts of jobs!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "She's the definition of a capable horse girl. She's just wonderful!",
+            "text": "She's the definition of a capable horse \ngirl. She's just wonderful!",
             "choice_data_list": [
                 "So she's an inspiration to you, I see.",
                 "So she's an inspiration to you, I see."
@@ -115,41 +116,41 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "She wasn't around for the first time I got number one in a race, but she left me a voice mail where she said \"congratulations.\""
+            "text": "She wasn't around for the first time I got number one in a race, \nbut she left me a voice mail where she said \"congratulations.\""
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I was so happy back then… Even now, whenever I'm number one in a race, I always get a message from her."
+            "text": "I was so happy back then… Even now, whenever I'm number one in \na race, I always get a message from her."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It was always just a few words, but… my mom's messages are my treasure.",
+            "text": "It was always just a few words, but… \nmy mom's messages are my treasure.",
             "choice_data_list": [
                 "That's why you want to be number one?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "More or less. Well, nowadays there's also the selfish reason that I just don't want to lose."
+            "text": "More or less. Well, nowadays there's also the selfish \nreason that I just don't want to lose."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Anyway, I have to be number one in terms of picking out presents too. I won't settle for anything less! Alright, let's go to the next place!"
+            "text": "Anyway, I have to be number one in terms of picking \nout presents too. I won't settle for anything less! \nAlright, let's go to the next place!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Ugh… I'm starting to run out of ideas. I've thought about food, accessories, shoes… nothing."
+            "text": "…Ugh… I'm starting to run out of ideas. \nI've thought about food, accessories, shoes… nothing."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hey, do you have any good ideas? I'll listen as long as it gives me some inspiration."
+            "text": "Hey, do you have any good ideas? \nI'll listen as long as it gives me some inspiration."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But I'll have you know, anything ordinary is out of the question. It has to be a special present only I can give!"
+            "text": "But I'll have you know, anything ordinary is out of the question. \nIt has to be a special present only I can give!"
         },
         {
-            "text": "Something special… the number one thing that would make her happy… I've got it!"
+            "text": "Something special… the number one thing that \nwould make her happy… I've got it!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -165,11 +166,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmm… well, that's not a bad idea… I guess? Mom always contacts me whenever I get number one, so…"
+            "text": "Hmm… well, that's not a bad idea… I guess? \nMom always contacts me whenever I get number one, so…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "A number one dedicated to her… If I get number one and say \"Happy birthday, mom!\" during the interview…",
+            "text": "A number one dedicated to her… If I get number one and say \n\"Happy birthday, mom!\" during the interview…",
             "choice_data_list": [
                 "It would be the best birthday ever!",
                 "It would be the best birthday ever!"
@@ -177,26 +178,26 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Y-yeah, you're right! I probably won't be able to give it to her on the day, but…"
+            "text": "Y-yeah, you're right! \nI probably won't be able to give it to her on the day, but…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "It's a special present nobody else can give her. I'll get number one for her…!"
+            "text": "It's a special present nobody else can give her. \nI'll get number one for her…!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Not bad coming from you. You can be proud of that one."
+            "text": "Not bad coming from you. \nYou can be proud of that one."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Alright! I've made up my mind! I'll get number one on the next race for sure! That'd be great for you too, right? Me winning.",
+            "text": "Alright! I've made up my mind! I'll get number one on the next \nrace for sure! That'd be great for you too, right? Me winning.",
             "choice_data_list": [
                 "Of course!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well then, what are we waiting for? Let's get straight to training!"
+            "text": "Well then, what are we waiting for? \nLet's get straight to training!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -220,17 +221,17 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hehe, I better start thinking of what to say to my mom during the interview too!"
+            "text": "Hehe, I better start thinking of what to \nsay to my mom during the interview too!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Let's keep going, trainer! I'll definitely get number one, so… You better work harder too!"
+            "text": "Let's keep going, trainer! \nI'll definitely get number one, so… You better work harder too!"
         },
         {
-            "text": "The next day, Daiwa Scarlet did an impressive job and got \"number one\"."
+            "text": "The next day, Daiwa Scarlet did an impressive \njob and got \"number one\"."
         },
         {
-            "text": "It was like she reverted back to a child when she got a call from her mother. She smiled so happily."
+            "text": "It was like she reverted back to a child when she got a call from \nher mother. She smiled so happily."
         }
     ]
 }

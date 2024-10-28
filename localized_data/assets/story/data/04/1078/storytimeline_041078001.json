@@ -1,61 +1,62 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day in the early afternoon, in front of the school gate, I saw a Uma Musume looking around for something…",
+            "text": "One day in the early afternoon, in front of the school gate, \nI saw a Uma Musume looking around for something…",
             "choice_data_list": [
                 "What's wrong? Are you looking for something?"
             ]
         },
         {
             "name": "???",
-            "text": "Oh… Thank you very much. You're a person of triumphant wind. Umm… Do you know about Shinato?",
+            "text": "Oh… Thank you very much. \nYou're a person of triumphant wind. \nUmm… Do you know about Shinato?",
             "choice_data_list": [
                 "…What?"
             ]
         },
         {
             "name": "???",
-            "text": "It's Shinato. Daruma-san encountered Akarashima and became a cherry blossom in a storm…",
+            "text": "It's Shinato. Daruma-san encountered Akarashima \nand became a cherry blossom in a storm…",
             "choice_data_list": [
                 "？？？？？？？？"
             ]
         },
         {
             "name": "???",
-            "text": "That's why, I'm looking for Shinato, but I don't know where it is.",
+            "text": "That's why, I'm looking for Shinato, \nbut I don't know where it is.",
             "choice_data_list": [
                 "Sorry, I have no idea what you are talking about…"
             ]
         },
         {
             "name": "???",
-            "text": "Oh, I see. It's the wind and rain of the rainy season. Sorry for taking up your time."
+            "text": "Oh, I see. It's the wind and rain of the rainy season. \nSorry for taking up your time."
         },
         {
             "name": "???",
-            "text": "I'm in a bit of a hurry, so please excuse me. Thank you very much, person of the triumphant wind.",
+            "text": "I'm in a bit of a hurry, so please excuse me. \nThank you very much, person of the triumphant wind.",
             "choice_data_list": [
                 "What the hell was that…?"
             ]
         },
         {
             "name": "Horsegirl A",
-            "text": "Well, I don't think you have to worry about her. Zephyr san is always like that."
+            "text": "Well, I don't think you have to worry about her. \nZephyr san is always like that."
         },
         {
             "name": "Horsegirl B",
-            "text": "Her personality is somewhat strange, but I don't think she's a bad person. It just seems like she doesn't feel like getting along with people."
+            "text": "Her personality is somewhat strange, but I don't \nthink she's a bad person. It just seems like she \ndoesn't feel like getting along with people."
         },
         {
             "name": "Horsegirl A",
-            "text": "Anyway, she's always going by her own pace, so if you worry about her too much you'll get tired of being swayed around by her words"
+            "text": "Anyway, she's always going by her own pace, \nso if you worry about her too much you'll get \ntired of being swayed around by her words"
         },
         {
-            "text": "After saying that, the two girls left. Zephyr was certainly a mysterious Uma Musume. I didn't quite understand what she was saying. But…"
+            "text": "After saying that, the two girls left. Zephyr was certainly \na mysterious Uma Musume. I didn't quite understand \nwhat she was saying. But…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "…Are you ok Daruma-san? Please hold on for a while.",
+            "text": "…Are you ok Daruma-san? \nPlease hold on for a while.",
             "choice_data_list": [
                 "…I finally found her"
             ]
@@ -66,36 +67,36 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "You are… the person of the triumphant wind? Were you looking for me?",
+            "text": "You are… the person of the triumphant wind? \nWere you looking for me?",
             "choice_data_list": [
                 "Yes. I'm concerned about you"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Ah… You're not only like a triumphant wind, but also the kind of person who sets sail in the calm wind. But thank you."
+            "text": "Ah… You're not only like a triumphant wind, but also the \nkind of person who sets sail in the calm wind. But thank you."
         },
         {
-            "text": "Zephyr was crouching by a large tree and was staring at her feet. There was a wild bird in her line of sight."
+            "text": "Zephyr was crouching by a large tree and was staring \nat her feet. There was a wild bird in her line of sight."
         },
         {
-            "text": "No matter how hard I look at it, I don't see a Daruma-san. All I can see is the bird. It seems like the bird is injured. That must mean…",
+            "text": "No matter how hard I look at it, I don't see a Daruma-san. \nAll I can see is the bird. It seems like the bird is \ninjured. That must mean…",
             "choice_data_list": [
                 "So you want to treat the injured bird?"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yeah, that's right. That's why I thought about Shinato, but everyone seemed to be in 'calm wind'. I was wondering if it was an easterly wind or a southerly wind."
+            "text": "Yeah, that's right. That's why I thought about Shinato, \nbut everyone seemed to be in 'calm wind'. I was wondering \nif it was an easterly wind or a southerly wind."
         },
         {
-            "text": "I still cannot understand what she is talking about, but there is no doubt that the bird is injured.",
+            "text": "I still cannot understand what she is talking about, \nbut there is no doubt that the bird is injured.",
             "choice_data_list": [
                 "Let's help the bird."
             ]
         },
         {
-            "text": "We brought the bird back to the school to treat it. Luckily, the injury wasn't that bad."
+            "text": "We brought the bird back to the school to treat it. \nLuckily, the injury wasn't that bad."
         },
         {
             "name": "Yamanin Zephyr",
@@ -103,7 +104,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "This is the room of a trainer working at this school… isn't it? Are you sure it's ok for us to be here?",
+            "text": "This is the room of a trainer working at this school… isn't it? \nAre you sure it's ok for us to be here?",
             "choice_data_list": [
                 "Uh… I am the trainer…"
             ]
@@ -117,15 +118,15 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Badge? ah… I see. So that's what this was."
+            "text": "Badge? ah… I see. \nSo that's what this was."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I definitely thought it was something people wore these days for fashion. So that's why everyone wore them…"
+            "text": "I definitely thought it was something people wore these days \nfor fashion. So that's why everyone wore them…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Anyway, I want to thank you for helping Daruma-san. Can you come with me?"
+            "text": "Anyway, I want to thank you for helping Daruma-san. \nCan you come with me?"
         },
         {
             "text": "She grabbed my hand, and was taking me to somewhere."
@@ -136,22 +137,22 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "This is the place where the best wind blows in the school. You can feel the most refreshing breeze during this season, at this time."
+            "text": "This is the place where the best wind blows \nin the school. You can feel the most refreshing \nbreeze during this season, at this time."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The warm wind becomes a gentle cool breeze as the sun goes down… It makes you feel very relaxed… doesn't it?",
+            "text": "The warm wind becomes a gentle cool breeze as the sun goes \ndown… It makes you feel very relaxed… doesn't it?",
             "choice_data_list": [
                 "Thank you. It's the best 'return'"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It's an auspicious wind. I'm happy to hear that."
+            "text": "It's an auspicious wind. \nI'm happy to hear that."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I often come here whenever the wind blows. If the leaf stays swaying, it's a Hiyori Hiyori.",
+            "text": "I often come here whenever the wind blows. \nIf the leaf stays swaying, it's a Hiyori Hiyori.",
             "choice_data_list": [
                 "I'm sorry… what are you talking about?"
             ]
@@ -165,7 +166,7 @@
             "text": "Isn't that why you looked for me, and helped Daruma-san…?"
         },
         {
-            "text": "I never understood a single thing. Daruma-san and Shinato, and other stuff about wind. I didn't understand any of it."
+            "text": "I never understood a single thing. Daruma-san and Shinato, \nand other stuff about wind. I didn't understand any of it."
         },
         {
             "text": "But…",
@@ -176,18 +177,18 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh dear…! So you went out of your way to find me even when you didn't understand what I was saying?…"
+            "text": "Oh dear…! So you went out of your way to find me \neven when you didn't understand what I was saying?…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Fufufu… You are a very strange person. But just as I felt, you are a person of a very triumphant wind."
+            "text": "Fufufu… You are a very strange person. \nBut just as I felt, you are a person of a very triumphant wind."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Thank you so much for everything today. If it's fine by you, Please come and see me running next time. Until then―"
+            "text": "Thank you so much for everything today. If it's fine by you, \nPlease come and see me running next time. Until then―"
         },
         {
-            "text": "Free and elusive… an Uma Musume like the wind. That was my first impression of Yamanin Zephyr."
+            "text": "Free and elusive… an Uma Musume like the wind. \nThat was my first impression of Yamanin Zephyr."
         }
     ]
 }

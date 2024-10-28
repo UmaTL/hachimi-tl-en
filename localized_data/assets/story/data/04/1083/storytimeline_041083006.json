@@ -9,15 +9,15 @@
             ]
         },
         {
-            "text": "――Trainer. \n……I wanted to do some sightseeing.",
             "name": "Symboli Kris S",
+            "text": "――Trainer. \n……I wanted to do some sightseeing.",
             "choice_data_list": [
                 "Sightseeing?"
             ]
         },
         {
-            "text": "――I want to know more about Japan. \nAs part of―― my mission.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――I want to know more about Japan. \nAs part of―― my mission."
         },
         {
             "text": "Her mission――to liven up the racing world in Japan. \nIs she trying to learn more about Japan?",
@@ -26,12 +26,12 @@
             ]
         },
         {
-            "text": "No―― I've already seen them…… in Tokyo, at least.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "No―― I've already seen them…… in Tokyo, at least."
         },
         {
-            "text": "So―― now……I want to―― see more modern places in Japan. \nBut…… I don't know where I should go……",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "So―― now……I want to―― see more modern places in Japan. \nBut…… I don't know where I should go……"
         },
         {
             "text": "So she probably means places that aren't historical tourist \nattactions, but places that really feel like Japan. In that case――",
@@ -47,33 +47,33 @@
             ]
         },
         {
-            "text": "――Understood.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Understood."
         },
         {
             "text": "(Woooo～～…… rumble rumble rumble……)"
         },
         {
-            "text": "――――",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――"
         },
         {
             "text": "Even though it was my own suggestion, it was quite scary…… \nBut, Symboli Kris S seemed completely unfazed."
         },
         {
-            "text": "――…………How envious～……!",
             "name": "Ghost",
+            "text": "――…………How envious～……!",
             "choice_data_list": [
                 "Hii!?"
             ]
         },
         {
-            "text": "――……",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――……"
         },
         {
-            "text": "………………",
             "name": "Ghost",
+            "text": "………………",
             "choice_data_list": [
                 "(She's looking so intently……)"
             ]
@@ -82,12 +82,12 @@
             "text": "It didn't look like she was scared but…… \nwhat was it that she seemed so interested in……?"
         },
         {
-            "text": "……Quaint――",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……Quaint――"
         },
         {
-            "text": "…………U-ummm……",
             "name": "Ghost",
+            "text": "…………U-ummm……",
             "choice_data_list": [
                 "Kris S, let's keep going!!"
             ]
@@ -96,12 +96,12 @@
             "text": "Since the person pretending to be a ghost seemed to be getting \nuncomfortable, we moved on! And so, next we headed to――"
         },
         {
-            "text": "――――Japan's Jet Coaster…………",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――Japan's Jet Coaster…………"
         },
         {
-            "text": "And off we go, in 3, 2, 1――",
-            "name": "Attendant"
+            "name": "Attendant",
+            "text": "And off we go, in 3, 2, 1――"
         },
         {
             "text": "(Woooooosh――!!)",
@@ -111,23 +111,23 @@
             ]
         },
         {
-            "text": "――――！",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――！"
         },
         {
             "text": "After getting off the Jet Coaster, \nSymboli Kris S stopped in front of the rails."
         },
         {
-            "text": "――……That's……",
             "name": "Symboli Kris S",
+            "text": "――……That's……",
             "choice_data_list": [
                 "……What's wrong?",
                 "……What's wrong?"
             ]
         },
         {
-            "text": "――Solid construction…… those seats, \nand rails. Exceptional――saftey.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Solid construction…… those seats, \nand rails. Exceptional――saftey."
         },
         {
             "text": "It seemed like she was really interested. \n……I could almost imagine her eyes sparkling."
@@ -142,8 +142,8 @@
             ]
         },
         {
-            "text": "…………",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "…………"
         },
         {
             "text": "She was staring at a certain shelf."
@@ -152,15 +152,15 @@
             "text": "On the shelf, a tag read 『Clearance Sale』. To put it bluntly, it \nseemed filled with miscellaneous unwanted items."
         },
         {
-            "text": "――……",
             "name": "Symboli Kris S",
+            "text": "――……",
             "choice_data_list": [
                 "Interested?"
             ]
         },
         {
-            "text": "――――……Seems like they're not being bought.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――……Seems like they're not being bought."
         },
         {
             "text": "She muttered under her breath as she looked over the item in her \nhand. Looked like……it was just a hamburger-shaped knickknack."
@@ -173,12 +173,12 @@
             ]
         },
         {
-            "text": "――I don't know. \nBut…… there has to be something. ――Some purpose……",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――I don't know. \nBut…… there has to be something. ――Some purpose……"
         },
         {
-            "text": "……? \n――The lettuce…… can be removed……?",
             "name": "Symboli Kris S",
+            "text": "……? \n――The lettuce…… can be removed……?",
             "choice_data_list": [
                 "――Ah, is that a circle stencil?"
             ]
@@ -187,28 +187,28 @@
             "text": "The lettuce had several different sized circular holes in it. \nThere was probably a ruler as well."
         },
         {
-            "text": "――Seems like it. \nThe cheese―― maybe it's a drafter's ruler……?",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Seems like it. \nThe cheese―― maybe it's a drafter's ruler……?"
         },
         {
-            "text": "…………",
             "name": "Symboli Kris S",
+            "text": "…………",
             "choice_data_list": [
                 "Looks like we found its purpose",
                 "Looks like we found its purpose"
             ]
         },
         {
-            "text": "――――！",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――！"
         },
         {
-            "text": "……That's good. ――…… I think…… \n…………that too.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……That's good. ――…… I think…… \n…………that too."
         },
         {
-            "text": "Well―― \n…………――I'll buy it.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "Well―― \n…………――I'll buy it."
         },
         {
             "text": "Symboli Kris S' eyes wavered as she mumbled quietly. \nIs she confused―― or is she embarrassed?"
@@ -220,19 +220,19 @@
             "text": "After leisurely enjoying the amusement park, \nthe sun had set by the time we got back to school."
         },
         {
-            "text": "――Today was helpful.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Today was helpful."
         },
         {
-            "text": "I got a taste of Japan…… and―― bought something good.",
             "name": "Symboli Kris S",
+            "text": "I got a taste of Japan…… and―― bought something good.",
             "choice_data_list": [
                 "I'm glad you enjoyed it"
             ]
         },
         {
-            "text": "――――Is that……so.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――Is that……so."
         },
         {
             "text": "As taciturn as usual. \nBut…… it seemed like she was happy."

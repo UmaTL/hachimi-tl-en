@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Event Commentator",
-            "text": "The race is from the 1st swimmer to the 2nd runner. The retirees move to the kitchen to work on the mission!"
+            "text": "The race is from the 1st swimmer to the 2nd runner. The retirees \nmove to the kitchen to work on the mission!"
         },
         {
             "name": "Event Commentator",
-            "text": "An unadjusted powdered sports drink was prepared for the mission. Ingredients and some cooking sprinkles must be added to this, and it must be delivered to the 3rd runner!"
+            "text": "An unadjusted powdered sports drink was prepared for the mission. \nIngredients and some cooking sprinkles must be added to this, \nand it must be delivered to the 3rd runner!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Found it～! List of nutritious foods! Let's look for food that is good for fatigue from here～."
+            "text": "Found it～! List of nutritious foods! Let's look \nfor food that is good for fatigue from here～."
         },
         {
             "name": "Matikanetannhauser",
-            "text": "It's good for healing and also makes you less tired, so I'd like to move it towards that. This combination seems beautiful～, with soy and lemonー"
+            "text": "It's good for healing and also makes you less tired, \nso I'd like to move it towards that. This combination \nseems beautiful～, with soy and lemonー"
         },
         {
             "name": "Admire Vega",
@@ -22,22 +23,22 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "Wow～, there are so many various ingredients! I wonder which ones I should mix♪ Prunes, cinnamon… what is that?"
+            "text": "Wow～, there are so many various ingredients! I wonder which ones \nI should mix♪ Prunes, cinnamon… what is that?"
         },
         {
             "name": "Event Commentator",
-            "text": "Admire Vega, finished making her drink and is headed towards the 3rd runner! Satono Diamond is following!"
+            "text": "Admire Vega, finished making her drink and is headed towards the \n3rd runner! Satono Diamond is following!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Um, um, Well… after that… If I manage to add yogurt with this pudding, then it should be okay! And finally, take a look!"
+            "text": "Um, um, Well… after that… If I manage to add yogurt with this \npudding, then it should be okay! And finally, take a look!"
         },
         {
             "name": "Event Commentator",
-            "text": "At the 2nd relay station, the 3rd runners will start to standby. We will soon see the leading Admire Vega!"
+            "text": "At the 2nd relay station, the 3rd runners will start to standby. \nWe will soon see the leading Admire Vega!"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Owowowo, Ayabe-san is leading…! I need to do my best… my best…!"
         },
         {
@@ -54,7 +55,7 @@
         },
         {
             "name": "Event Commentator",
-            "text": "Admire Vega and Satono Diamond spurt together! They push the follow-up at once! As it is, baton touch to the 3rd runner!!"
+            "text": "Admire Vega and Satono Diamond spurt together! They push the \nfollow-up at once! As it is, baton touch to the 3rd runner!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -62,7 +63,7 @@
         },
         {
             "name": "Event Commentator",
-            "text": "Sakura Bakushin O, is riding her bicycle at a rapid acceleration!! She's going to catch up with Meisho Doto!"
+            "text": "Sakura Bakushin O, is riding her bicycle at a rapid \nacceleration!! She's going to catch up with Meisho Doto!"
         },
         {
             "name": "Matikanetannhauser",
@@ -74,90 +75,90 @@
         },
         {
             "name": "Event Commentator",
-            "text": "In the 3rd section they're approaching the mountain in the middle leg. The route splits into 3 here. Do you choose the shorter route over a steep mountain slopeー"
+            "text": "In the 3rd section they're approaching the mountain in the \nmiddle leg. The route splits into 3 here. Do you choose the \nshorter route over a steep mountain slopeー"
         },
         {
             "name": "Event Commentator",
-            "text": "Or the long riverbed route around the mountain? Or compromise on the 3rd route? The leader, Meisho Doto, has chosen the latter and continues along the in-between hill route."
+            "text": "Or the long riverbed route around the mountain? Or compromise on \nthe 3rd route? The leader, Meisho Doto, has chosen the latter and \ncontinues along the in-between hill route."
         },
         {
             "name": "Event Commentator",
-            "text": "Meisho Doto, got off her bike and took off her helmet. She seems to be drinking the drink she received from the 2nd runner!"
+            "text": "Meisho Doto, got off her bike and took off her helmet. She seems \nto be drinking the drink she received from the 2nd runner!"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Gulp, gulp… Phew! It's sweet and delicious～!"
         },
         {
-            "name": "Meishodoto",
-            "text": "Ehehe, I can drink it right away. Ah, I can drink it faster if I squeeze the bottle tightly! …Squeeze!"
+            "name": "Meisho Doto",
+            "text": "Ehehe, I can drink it right away. Ah, I can drink it faster if I \nsqueeze the bottle tightly! …Squeeze!"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Wabiah!?"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "I-I spilled it… Ah, my hands are sticky with the drink～…"
         },
         {
             "text": "(Bzzz, Bzzz―)"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Bee!? Please don't come here, Ahhh!!"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Owch!!"
         },
         {
-            "name": "Meishodoto",
-            "text": "Sob, my bike… Ahhh!? The chain is out of it… this is, this is broken… Sob～!!"
+            "name": "Meisho Doto",
+            "text": "Sob, my bike… Ahhh!? The chain is out of \nit… this is, this is broken… Sob～!!"
         },
         {
             "name": "Event Commentator",
-            "text": "Sakura Bakushin O has choses the riverbed route around the mountain. Even though she is not good at long distances, she still chose the longest course!"
+            "text": "Sakura Bakushin O has choses the riverbed route around the \nmountain. Even though she is not good at long distances, she \nstill chose the longest course!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Heh… heh… I've come half the way… If I'm tired… after that, go down…"
+            "text": "Heh… heh… I've come half the way… If \nI'm tired… after that, go down…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Cough…!? This taste is… Sakura mochi!? I'm happy that it's my favorite thing! I'm starting to feel better!"
+            "text": "Cough…!? This taste is… Sakura mochi!? I'm happy that it's my \nfavorite thing! I'm starting to feel better!"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Heh, heh… From here it will be an even steeper slope… it is the shortest route, but if the pace falls on the uphill, I may be pushed out…"
+            "text": "Heh, heh… From here it will be an even steeper \nslope… it is the shortest route, but if the pace \nfalls on the uphill, I may be pushed out…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Gulp, Gulp…! This is… the drink I advised!? But the taste is light. One with Edamame, Yogurt, and Lemonー"
+            "text": "Gulp, Gulp…! This is… the drink I advised!? But the taste is \nlight. One with Edamame, Yogurt, and Lemonー"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "I see, Tannhauser-chan, you made me a fatigue recovery drink! You were preparing for whatever the mission might be…"
+            "text": "I see, Tannhauser-chan, you made me a fatigue recovery drink! You \nwere preparing for whatever the mission might be…"
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Tannhauser-chan, I will not waste your efforts! I will definitely climb this mountain and close the gap!!"
+            "text": "Tannhauser-chan, I will not waste your efforts! I will definitely \nclimb this mountain and close the gap!!"
         },
         {
-            "name": "Meishodoto",
-            "text": "Ahh～… As soon as I fix the bike it breaks again… What should I do? What should I do? …Uuuuuuu～…"
+            "name": "Meisho Doto",
+            "text": "Ahh～… As soon as I fix the bike it breaks again… What should I \ndo? What should I do? …Uuuuuuu～…"
         },
         {
-            "name": "Meishodoto",
-            "text": "But, I have to go… Top Road-san is waiting for me…! Until the end… Until the end… I have to～!!"
+            "name": "Meisho Doto",
+            "text": "But, I have to go… Top Road-san is waiting for me…! \nUntil the end… Until the end… I have to～!!"
         },
         {
             "name": "Event Commentator",
-            "text": "Who will be the first player to appear at the 3rd relay station where the anchor is waiting? The cheers are getting closer and closer! And the one in the lead isー"
+            "text": "Who will be the first player to appear at the 3rd relay station \nwhere the anchor is waiting? The cheers are getting closer and \ncloser! And the one in the lead isー"
         },
         {
             "name": "Event Commentator",
-            "text": "Sakura Bakushin O, unbelievable It's Sakura Bakushin O-san!! From the rear, Mejiro Ryan and Meisho Doto are chasing!!"
+            "text": "Sakura Bakushin O, unbelievable It's Sakura Bakushin O-san!! From \nthe rear, Mejiro Ryan and Meisho Doto are chasing!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -165,23 +166,23 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha… I wonder if there is no “Sake” on the way downhill the slope… It seems my physical strength has been preserved…!"
+            "text": "Ha… I wonder if there is no “Sake” on the way downhill the slope… \nIt seems my physical strength has been preserved…!"
         },
         {
             "name": "Kitasan Black",
-            "text": "There's no Sake on way down… ah! Unicycle training! I see, it was a practice for that!"
+            "text": "There's no Sake on way down… ah! Unicycle training! \nI see, it was a practice for that!"
         },
         {
             "name": "Gold Ship",
-            "text": "No, I just wanted to ride a unicycle, but that was good!! Come on, Go―!! Bakushin O!"
+            "text": "No, I just wanted to ride a unicycle, but that \nwas good!! Come on, Go―!! Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes!! I dared to challenge and overcome the long-distance course that everyone was worried about!"
+            "text": "Yes!! I dared to challenge and overcome the long-distance \ncourse that everyone was worried about!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There is no wall you can't overcome―!! Bakushin, Bakushin, Bakushin, Bakushin, Bakushin―!!!"
+            "text": "There is no wall you can't overcome―!! Bakushin, Bakushin, \nBakushin, Bakushin, Bakushin―!!!"
         },
         {
             "name": "Matikanetannhauser",
@@ -189,7 +190,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Yeah! My legs feel lighter than usual…! I still… it's now time for the last spurt!!"
+            "text": "Yeah! My legs feel lighter than usual…! I still… \nit's now time for the last spurt!!"
         },
         {
             "name": "Mejiro Ryan",
@@ -200,7 +201,7 @@
             "text": "Ryan Onee-sama―!!"
         },
         {
-            "name": "Meishodoto",
+            "name": "Meisho Doto",
             "text": "Sob, Top Road-san～!! Sob, sniff, scream～!!"
         },
         {
@@ -209,7 +210,7 @@
         },
         {
             "name": "Event Commentator",
-            "text": "On the lead is Sakura Bakushin O, and now she baton touched to Kitasan Black while keeping the lead!!"
+            "text": "On the lead is Sakura Bakushin O, and now she baton touched to \nKitasan Black while keeping the lead!!"
         }
     ]
 }

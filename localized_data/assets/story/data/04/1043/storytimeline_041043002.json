@@ -5,20 +5,20 @@
             "text": "The pranks from Shinko Windy continued unabated, \nbut I eventually understood something. And that was―"
         },
         {
-            "text": "Shinko Windy falls back in to 2nd place……!",
-            "name": "Event Announcer"
+            "name": "Event Commentator",
+            "text": "Shinko Windy falls back in to 2nd place……!"
         },
         {
-            "text": "Wahahahahahaha! You fell for it, you fell for it～!",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Shinko Windy challenged for the lead, but fell one step short……!",
-            "name": "Event Announcer"
-        },
-        {
-            "text": "Gyahahahahaha!! I surprised you, I surprised you! \nHey hey! Come and get me～!",
             "name": "Shinko Windy",
+            "text": "Wahahahahahaha! You fell for it, you fell for it～!"
+        },
+        {
+            "name": "Event Commentator",
+            "text": "Shinko Windy challenged for the lead, but fell one step short……!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Gyahahahahaha!! I surprised you, I surprised you! \nHey hey! Come and get me～!",
             "choice_data_list": [
                 "(When she loses, she pranks me!)"
             ]
@@ -33,8 +33,8 @@
             "text": "Shinko Windy would vent her frustration \nfrom losing by playing pranks on people."
         },
         {
-            "text": "Waa haa haa haa haa! Once again, today you'll \nfall prey to Windy-chan's twisted machinations!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Waa haa haa haa haa! Once again, today you'll \nfall prey to Windy-chan's twisted machinations!"
         },
         {
             "text": "It'd be nice if after relieving her stress \nthrough pranks she'd get to training――",
@@ -43,42 +43,42 @@
             ]
         },
         {
-            "text": "! Ehehee!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "! Ehehee!"
         },
         {
-            "text": "Windy-chan won't be stopped by anyone!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Windy-chan won't be stopped by anyone!"
         },
         {
             "text": "After I had realized that, \nI did my best to react in an appropriate way."
         },
         {
-            "text": "Ni shi shi shi! It went well yesterday, it went well! \nThat person is really interesting!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Ni shi shi shi! It went well yesterday, it went well! \nThat person is really interesting!"
         },
         {
-            "text": "And whenever they look at Windy-chan, their eyes go wide……! \nUkukukukuu! What should I do next time～!?",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "And whenever they look at Windy-chan, their eyes go wide……! \nUkukukukuu! What should I do next time～!?"
         },
         {
             "text": "And so the days continued on like that…… until one day. \nI had to take leave from the school for additional training."
         },
         {
-            "text": "Kufuu, kufufufufuu! \nI've got a special prank for you today. It'll shock you for sure.",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Kufuu, kufufufufuu! \nI've got a special prank for you today. It'll shock you for sure."
         },
         {
-            "text": "Hm? What's this? A note?",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "Hm? What's this? A note?"
         },
         {
-            "text": "………… \n『Away for additional training――』……",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "………… \n『Away for additional training――』……"
         },
         {
-            "text": "……Hmmmm～",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "……Hmmmm～"
         },
         {
             "text": "The training was stricter and took more time than I thought. \nBefore I knew it, several weeks had passed――"
@@ -87,38 +87,38 @@
             "text": "Finally, I was eventually able to return to school. On that day―"
         },
         {
-            "text": "No way, no way, no way! \nIf I say I'm not entering, then I'm not entering!",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "No way, no way, no way! \nIf I say I'm not entering, then I'm not entering!"
         },
         {
-            "text": "But, if you keep skipping Selection Races, \neventually it'll eventually lead to you dropping out――",
-            "name": "Instructor"
-        },
-        {
-            "text": "Shut up! \nI'm done with this, all of it, I'm quitting～!",
-            "name": "Shinko Windy"
-        },
-        {
-            "text": "Ah! \nWait, Shinko Windy!",
             "name": "Instructor",
+            "text": "But, if you keep skipping Selection Races, \neventually it'll eventually lead to you dropping out――"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Shut up! \nI'm done with this, all of it, I'm quitting～!"
+        },
+        {
+            "name": "Instructor",
+            "text": "Ah! \nWait, Shinko Windy!",
             "choice_data_list": [
                 "(What's going on……?)"
             ]
         },
         {
-            "text": "……Well, these past few weeks her boycotts \nand pranks have gotten more extreme.",
             "name": "Instructor",
+            "text": "……Well, these past few weeks her boycotts \nand pranks have gotten more extreme.",
             "choice_data_list": [
                 "What do you mean……?"
             ]
         },
         {
-            "text": "It's the same with her classes, but she won't enter Selection \nRaces. And I just now asked her why, but it seems she can't \nproperly put it in to words.",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "It's the same with her classes, but she won't enter Selection \nRaces. And I just now asked her why, but it seems she can't \nproperly put it in to words."
         },
         {
-            "text": "……and more than anything, her pranks…… \ntake a look at that wall.",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "……and more than anything, her pranks…… \ntake a look at that wall."
         },
         {
             "text": "I looked to where she pointed…… A large self-portrait was \nspray-painted on the wall of the school.",
@@ -127,37 +127,37 @@
             ]
         },
         {
-            "text": "This is also partly our fault. The level of her pranks \nwas starting to get out of hand, so we wanted to stop her \nbefore something big happened.",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "This is also partly our fault. The level of her pranks \nwas starting to get out of hand, so we wanted to stop her \nbefore something big happened."
         },
         {
-            "text": "Since our reactions seemed to make her overjoyed, \nwe did our best to try and respond by remaining calm――",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "Since our reactions seemed to make her overjoyed, \nwe did our best to try and respond by remaining calm――"
         },
         {
-            "text": "But, that just seemed to make things worse……!",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "But, that just seemed to make things worse……!"
         },
         {
-            "text": "……Haa…… At the very least, if things could calm down \nand we could talk it out, it would be nice……",
-            "name": "Instructor"
+            "name": "Instructor",
+            "text": "……Haa…… At the very least, if things could calm down \nand we could talk it out, it would be nice……"
         },
         {
             "text": "Before I went away for training, \nthe pranks weren't anything more than just minor mischief.",
             "choice_data_list": [
-                "<size=41>(Perhaps, the reason this happened――)</size>"
+                "(Perhaps, the reason this happened――)"
             ]
         },
         {
             "text": "Unable to just stand idly by, I chased after Shinko Windy. \nShe was…… standing in a corner behind the school building."
         },
         {
-            "text": "………… \n……Hmph. This is fine.",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "………… \n……Hmph. This is fine."
         },
         {
-            "text": "……races, and pranks too…… they aren't fun.",
             "name": "Shinko Windy",
+            "text": "……races, and pranks too…… they aren't fun.",
             "choice_data_list": [
                 "(……maybe……)"
             ]
@@ -166,8 +166,8 @@
             "text": "I might have misunderstood. I had thought it was just \nrestlessness caused by being unable to win, but――"
         },
         {
-            "text": "After all, nobody's even watching me……",
-            "name": "Shinko Windy"
+            "name": "Shinko Windy",
+            "text": "After all, nobody's even watching me……"
         },
         {
             "text": "『I want to watch Windy-chan more』, \nthat was the thought that was in the back of my mind."

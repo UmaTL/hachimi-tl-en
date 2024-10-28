@@ -1,44 +1,45 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Daiichi Ruby",
-            "text": "Don't be discouraged ―it's something that should be obvious. Such possibility does not exist. It must not exist."
+            "text": "Don't be discouraged ―it's something that should \nbe obvious. Such possibility does not exist. \nIt must not exist."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Because it is synonymous with closing the curtain. A constant applause for a glorious victory. ―therefore."
+            "text": "Because it is synonymous with closing the curtain. \nA constant applause for a glorious victory. ―therefore."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Be brilliant. Be supreme. Always shine the brightest. That is my family's motto."
+            "text": "Be brilliant. Be supreme. Always shine the brightest. \nThat is my family's motto."
         },
         {
-            "text": "The training course was even more crowded than usual that day. Was it cheering, shout of joy, or amazement?"
+            "text": "The training course was even more crowded \nthan usual that day. Was it cheering, \nshout of joy, or amazement?"
         },
         {
-            "text": "While many emotions are voiced and mixed together, The eyes are focused on a single point."
+            "text": "While many emotions are voiced and mixed together, \nThe eyes are focused on a single point."
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Hey, over here! It's already started!",
+            "text": "Hey, over here! \nIt's already started!",
             "choice_data_list": [
                 "I'm coming!"
             ]
         },
         {
             "name": "Rookie Trainer A",
-            "text": "The girl my senior told me to keep an eye on… Look, it's that girl.",
+            "text": "The girl my senior told me to keep an eye on… \nLook, it's that girl.",
             "choice_data_list": [
                 "She is pretty far behind……"
             ]
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Right? Senpai, the front is pretty crowded too, it will be difficult to recover from here… and even more."
+            "text": "Right? Senpai, the front is pretty crowded too, \nit will be difficult to recover from here… and even more."
         },
         {
             "name": "Veteran Trainer A",
-            "text": "…and the other runners are already debuting horse girl, is what you want to say right? Well just watch. She's just getting started."
+            "text": "…and the other runners are already debuting \nhorse girl, is what you want to say right? \nWell just watch. She's just getting started."
         },
         {
             "name": "Daiichi Ruby",
@@ -46,7 +47,7 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "(No problem. There won't be a problem. Just like always ―my path has been shown to me.)"
+            "text": "(No problem. There won't be a problem. \nJust like always ―my path has been shown to me.)"
         },
         {
             "name": "Daiichi Ruby",
@@ -61,7 +62,7 @@
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Incredible end leg…… She's part of that Noble family."
+            "text": "Incredible end leg…… \nShe's part of that Noble family."
         },
         {
             "name": "Veteran Trainer A",
@@ -72,34 +73,34 @@
             "text": "Haaaaaaaa!!"
         },
         {
-            "text": "A Noble family. The legitimate heir to a bloodline that has made their name in politics, business, and even in the world of horse girl race."
+            "text": "A Noble family. The legitimate heir to a \nbloodline that has made their name in politics, \nbusiness, and even in the world of horse girl race."
         },
         {
-            "text": "There is probably no one in this country who has not heard that name. And the horse girl of that family is…"
+            "text": "There is probably no one in this country who has \nnot heard that name. And the horse girl of that family is…"
         },
         {
             "text": "(Wooooooooo…!!)"
         },
         {
-            "text": "― Daiichi Ruby. This horse girl finished faster than all the other horse girls who had already made their debuts."
+            "text": "― Daiichi Ruby. This horse girl finished faster \nthan all the other horse girls who had already \nmade their debuts."
         },
         {
             "name": "Rookie Trainer A",
-            "text": "That was amazing…… So that's the rumored member of Noble family, Daiichi Ruby. I guess it's starting to get serious.",
+            "text": "That was amazing…… So that's the rumored \nmember of Noble family, Daiichi Ruby. \nI guess it's starting to get serious.",
             "choice_data_list": [
                 "……I agree",
                 "……I agree"
             ]
         },
         {
-            "text": "I wonder what kind of trainer will she get? Many trainers have already gathered around her to scout her."
+            "text": "I wonder what kind of trainer will she get? \nMany trainers have already gathered \naround her to scout her."
         },
         {
-            "text": "For myself… I don't have much confidence. But once you saw that run…"
+            "text": "For myself… I don't have much confidence. \nBut once you saw that run…"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "… Dear trainer. I would like to take this opportunity to tell you something."
+            "text": "… Dear trainer. \nI would like to take this opportunity to tell you something."
         },
         {
             "name": "Daiichi Ruby",
@@ -114,27 +115,27 @@
         },
         {
             "name": "Ruby's butler",
-            "text": "Here are the details of the selection test to determine milady personal trainer. Please take a moment to review the details."
+            "text": "Here are the details of the selection test to determine \nmilady personal trainer. Please take a moment to \nreview the details."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Each item contains detailed information about the test. Any trainer is welcome to participate."
+            "text": "Each item contains detailed information about the test. \nAny trainer is welcome to participate."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "The duration is 30 days. We will give you an evaluation for each test and the overall evaluation will be used to determine the result."
+            "text": "The duration is 30 days. We will give you an evaluation \nfor each test and the overall evaluation will be used \nto determine the result."
         },
         {
             "name": "Ruby's butler",
-            "text": "If there is a tie, we will set up another test. Is there any questions? If there is, I will be happy to answer them."
+            "text": "If there is a tie, we will set up another test. \nIs there any questions? If there is, I will be \nhappy to answer them."
         },
         {
             "name": "Rookie Trainer A",
-            "text": "Ballroom dance and table manners… and there are other thing too, this is not something average person can learn in 30 days!"
+            "text": "Ballroom dance and table manners… and there are \nother thing too, this is not something average \nperson can learn in 30 days!"
         },
         {
             "name": "Ruby's butler",
-            "text": "As you say, it's not easy task. But you understand that, and that's why you are right here, are you not?"
+            "text": "As you say, it's not easy task. \nBut you understand that, and that's why you are \nright here, are you not?"
         },
         {
             "name": "Trainers",
@@ -142,37 +143,37 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "If there is nothing else, I will leave it at that. Thank you for your time."
+            "text": "If there is nothing else, I will leave it at that. \nThank you for your time."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "If you wish to participate in the test, please change into clothes that are easy to move in and come to the dojo. It will be the first venue."
+            "text": "If you wish to participate in the test, please change \ninto clothes that are easy to move in and come \nto the dojo. It will be the first venue."
         },
         {
             "name": "Rookie Trainer A",
-            "text": "It's not going to be easy by the looks of it… It looks like seniors have already gone to change their clothes, What are you going to do?"
+            "text": "It's not going to be easy by the looks of it… \nIt looks like seniors have already gone to change \ntheir clothes, What are you going to do?"
         },
         {
-            "text": "… I think it's a chance. At a first glance, the content of the test has nothing to do with the trainer's job."
+            "text": "… I think it's a chance. \nAt a first glance, the content of the test has \nnothing to do with the trainer's job."
         },
         {
-            "text": "It was a test that none of the people gathered here had ever experienced before. This means that everyone start from the same position."
+            "text": "It was a test that none of the people gathered \nhere had ever experienced before. This means \nthat everyone start from the same position."
         },
         {
-            "text": "And if I manage to win, I can guide Daiichi Ruby's run with my own hand.",
+            "text": "And if I manage to win, I can guide Daiichi \nRuby's run with my own hand.",
             "choice_data_list": [
                 "I'd like to try!"
             ]
         },
         {
-            "text": "Imagining yourself passing the selection test. you feels like you're dreaming, and feel a little excited."
+            "text": "Imagining yourself passing the selection test. \nyou feels like you're dreaming, and feel a little excited."
         },
         {
-            "text": "―But the reality is not that sweet. A voice that blows away the excitement echoes through the dojo."
+            "text": "―But the reality is not that sweet. \nA voice that blows away the excitement \nechoes through the dojo."
         },
         {
             "name": "Instructor",
-            "text": "That's right, now repeat the move! It's not about power, all you need is the flow…… don't let your guard down!! Come on!"
+            "text": "That's right, now repeat the move! \nIt's not about power, all you need is the flow…… \ndon't let your guard down!! Come on!"
         },
         {
             "name": "Daiichi Ruby",
@@ -180,10 +181,10 @@
         },
         {
             "name": "Ruby's butler",
-            "text": "This is self-defense practice. Shall we move in a flowing manner? Lady Ruby has been training since she was young."
+            "text": "This is self-defense practice. Shall we move in \na flowing manner? Lady Ruby has been training \nsince she was young."
         },
         {
-            "text": "As I recall, the details of the selection test said \"take self-defense training and acquire a certain skill\"",
+            "text": "As I recall, the details of the selection test said \n\"take self-defense training and acquire a certain skill\"",
             "choice_data_list": [
                 "That's what we're going to do……?",
                 "That's what we're going to do……?"
@@ -191,23 +192,23 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "So that's everyone, right? Now let's get started."
+            "text": "So that's everyone, right? \nNow let's get started."
         },
         {
             "name": "Ruby's butler",
-            "text": "Certainly, Lady Ruby…… But I see that there are a few people who are reluctant to participate."
+            "text": "Certainly, Lady Ruby…… \nBut I see that there are a few people who \nare reluctant to participate."
         },
         {
             "name": "Ruby's butler",
-            "text": "If you are frightened at this level, you will not be able to move forward. Polished confidence leads to shining dignity."
+            "text": "If you are frightened at this level, you will \nnot be able to move forward. Polished confidence \nleads to shining dignity."
         },
         {
             "name": "Ruby's butler",
-            "text": "Please be prepared and aware that you are serving the Noble family and their daughter, Daiichi Ruby-sama."
+            "text": "Please be prepared and aware that you are \nserving the Noble family and their daughter, \nDaiichi Ruby-sama."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "This is the end of our conversation. I am the one who will make the final decision. Ladies and gentlemen, please take on the challenge with all your heart."
+            "text": "This is the end of our conversation. I am the one \nwho will make the final decision. Ladies and gentlemen, \nplease take on the challenge with all your heart."
         }
     ]
 }

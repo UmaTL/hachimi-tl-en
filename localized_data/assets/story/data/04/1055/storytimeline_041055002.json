@@ -4,7 +4,7 @@
         {
             "text": "For some reason, when I pushed the button for coffee, \na sweet-looking drink came out of the vending machine.",
             "choice_data_list": [
-                "<size=38>(Would this be considered marvelous……?)</size>"
+                "(Would this be considered marvelous……?)"
             ]
         },
         {
@@ -27,30 +27,30 @@
             "text": "At this rate, my everday life would be destroyed \nby marvelous. Or was it already too late? I mean, \nit seemed like I could hear it right now――"
         },
         {
+            "name": "???",
             "text": "Marvelous☆★☆",
-            "name": "？？？",
             "choice_data_list": [
                 "Uwaaah!!!!"
             ]
         },
         {
-            "text": "Ahahahaa☆ Were you surprised? Were you surprised?",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "Ahahahaa☆ Were you surprised? Were you surprised?"
         },
         {
             "text": "It wasn't that I was surprised. I was worried that I \nwas so far gone that I was marvelously hearing things!"
         },
         {
-            "text": "Oh little lost lamb, how do you do☆? \nCan't find Marvelous? I'll just show you★",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "Oh little lost lamb, how do you do☆? \nCan't find Marvelous? I'll just show you★"
         },
         {
-            "text": "Marvelous, you see, is sparkly, exciting, derring-do☆ \nIt's always there all around, just waiting for someone like you★",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "Marvelous, you see, is sparkly, exciting, derring-do☆ \nIt's always there all around, just waiting for someone like you★"
         },
         {
-            "text": "So c'mon, let's go☆ \nAllllll~ that's Marvelous, Trainer, it's time for a show!",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "So c'mon, let's go☆ \nAllllll~ that's Marvelous, Trainer, it's time for a show!"
         },
         {
             "text": "Declaring that, Marvelous Sunday grabbed my arm and pulled \nme along. Her hands seemed particularly warm."
@@ -59,94 +59,94 @@
             "text": "I couldn't say no to that, because I wanted \nto know the truth about 『Marvelous』, but――"
         },
         {
-            "text": "Nature~! Laurel~! Ahahahaa, Marvelous!",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "Nature~! Laurel~! Ahahahaa, Marvelous!"
         },
         {
-            "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work~, I guess.",
             "name": "Nice Nature",
+            "text": "C'mon, you're late……wait, huh? Aren't you that trainer from \nbefore? Ahaha, she caught you, huh? Good work~, I guess.",
             "choice_data_list": [
                 "You're……",
                 "You're……"
             ]
         },
         {
-            "text": "Oh, guess I haven't introduced myself yet. I'm Nice Nature. Marvelous \nis my roommate, guess you could call it an inevitable relationship.",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "Oh, guess I haven't introduced myself yet. I'm Nice Nature. Marvelous \nis my roommate, guess you could call it an inevitable relationship."
         },
         {
-            "text": "I'm Sakura Laurel♪ Marve-chan's…… Hmmm~, I guess \nyou could say friendly rival, something like that?",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "I'm Sakura Laurel♪ Marve-chan's…… Hmmm~, I guess \nyou could say friendly rival, something like that?"
         },
         {
-            "text": "Ahahaa, inevitable rivals! Sounds fun~! \nIt's like fate, so very Marvelous☆, isn't it!?",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "You see, Trainer, Nature and Laurel are really Marvelous! \nWhen they run, it's like zooooom, whooosh, and zip!",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "When they're on their own they're Marvelous, but when they're together, \nthey're even more Marvelous! I'm sure Trainer can tell too!",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Wait wait, even if you say that, they can't tell with that.",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "Wait…… something feels off here. \nAren't you a bit more lively than usual?",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "I was looking forward to parallel training but…… Hmmmmm~? Marve-chan, \nare you hiding something from us? Like you're feeling off or――",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "Not a bit~! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore~ Marvelous★",
             "name": "Marvelous Sunday",
+            "text": "Ahahaa, inevitable rivals! Sounds fun~! \nIt's like fate, so very Marvelous☆, isn't it!?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "You see, Trainer, Nature and Laurel are really Marvelous! \nWhen they run, it's like zooooom, whooosh, and zip!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "When they're on their own they're Marvelous, but when they're together, \nthey're even more Marvelous! I'm sure Trainer can tell too!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait wait, even if you say that, they can't tell with that."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Wait…… something feels off here. \nAren't you a bit more lively than usual?"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "I was looking forward to parallel training but…… Hmmmmm~? Marve-chan, \nare you hiding something from us? Like you're feeling off or――"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Not a bit~! Today, I'm very Marvelous☆ too, you know. If I can run \nwith Laurel and Nature, it'll be mooore~ Marvelous★",
             "choice_data_list": [
-                "<size=43>But, your hands were really warm……?</size>"
+                "But, your hands were really warm……?"
             ]
         },
         {
             "text": "When I mentioned that to Sakura Laurel and Nice Nature, \nit seemed like their expressions clouded a bit."
         },
         {
-            "text": "I see, so that's how it is, huh. ――In that case, Marve-chan, we'll \nhold off on today's training! Let's head to the infirmary, okay?",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "Eeeeeeh, why!? \nWhat about Marvelous? What about training~!?",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Geez, I'm glad we realized it was a slight fever. \nIf she did training like that, it would definitely get worse.",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "Trainer-san too, thanks for coming with us. \nMarve-chan's always pushing herself like that.",
             "name": "Sakura Laurel",
+            "text": "I see, so that's how it is, huh. ――In that case, Marve-chan, we'll \nhold off on today's training! Let's head to the infirmary, okay?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Eeeeeeh, why!? \nWhat about Marvelous? What about training~!?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez, I'm glad we realized it was a slight fever. \nIf she did training like that, it would definitely get worse."
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Trainer-san too, thanks for coming with us. \nMarve-chan's always pushing herself like that.",
             "choice_data_list": [
                 "So this happens often?",
                 "So this happens often?"
             ]
         },
         {
-            "text": "Hmmmm~…… usually it doesn't get as bad as a fever. The current \nMarve-chan doesn't have a particularly weak constitution.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Hmmmm~…… usually it doesn't get as bad as a fever. The current \nMarve-chan doesn't have a particularly weak constitution."
         },
         {
-            "text": "It's just, when she was little she was often \nsick, so maybe that's related. She's so lively \nthat she moves around alot so that could be it too.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "It's just, when she was little she was often \nsick, so maybe that's related. She's so lively \nthat she moves around alot so that could be it too."
         },
         {
-            "text": "It's not that I don't understand how nice it is to be able to run around, \nbut, it does worry me that she doesn't seem to know her limits……",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "It's not that I don't understand how nice it is to be able to run around, \nbut, it does worry me that she doesn't seem to know her limits……"
         },
         {
-            "text": "But well, there's a Selection race soon after all. I guess we'll \njust hope she can find a trainer that's good at managing that.",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "But well, there's a Selection race soon after all. I guess we'll \njust hope she can find a trainer that's good at managing that."
         },
         {
             "text": "That was unexpected. From what I had seen so far of Marvelous Sunday, \nshe was always cheerful and powerful. But if I think back on it――"
@@ -170,24 +170,24 @@
             "text": "She said she'd show me what marvelous meant. \nWhen she's better, I'll ask her directly what it means."
         },
         {
-            "text": "(……Ah, again……it's that dream……)",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "(……Ah, again……it's that dream……)"
         },
         {
-            "text": "(It's cold……and dark……)",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "(It's cold……and dark……)"
         },
         {
-            "text": "Mama…… Papa……?",
-            "name": "Young Marvelous"
+            "name": "Young Marvelous",
+            "text": "Mama…… Papa……?"
         },
         {
-            "text": "(Around this time I……didn't have the \nstrength to find what was marvelous……)",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "(Around this time I……didn't have the \nstrength to find what was marvelous……)"
         },
         {
-            "text": "……Grandm-……",
-            "name": "Young Marvelous"
+            "name": "Young Marvelous",
+            "text": "……Grandm-……"
         }
     ]
 }

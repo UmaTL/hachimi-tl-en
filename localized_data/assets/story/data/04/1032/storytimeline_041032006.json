@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "It was Sunday. I was out doing my shopping when…"
@@ -9,7 +10,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Are you here to carry my bags for me? Hahaha, very good! Hop to it, then, come on!",
+            "text": "Are you here to carry my bags for me? \nHahaha, very good! Hop to it, then, come on!",
             "choice_data_list": [
                 "Actually I'm just here to do my own shopping…",
                 "Actually I'm just here to do my own shopping…"
@@ -17,22 +18,22 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Come now, I'll allow you to do both! I don't mind! I am, after all, a kind and understanding horsegirl."
+            "text": "Come now, I'll allow you to do both! I don't mind! \nI am, after all, a kind and understanding horsegirl."
         },
         {
-            "text": "And so I ended up accompanying Agnes Tachyon as she did her shopping."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "You know, a single tomato contains a surprising amount of nutrients. In an ideal world that would be enough, but this imperfect body demands so much more…"
+            "text": "And so I ended up accompanying Agnes \nTachyon as she did her shopping."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Let's get tomatoes… and three steamed chicken fillets. Muscle growth is impossible without adequate protein intake."
+            "text": "You know, a single tomato contains a surprising amount of \nnutrients. In an ideal world that would be enough, but this \nimperfect body demands so much more…"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ugh, what an absolute bore. If only we could live on dietary supplements, then we wouldn't have to waste time worrying about all this food nonsense.",
+            "text": "Let's get tomatoes… and three steamed chicken fillets. Muscle \ngrowth is impossible without adequate protein intake."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Ugh, what an absolute bore. If only we could live on dietary \nsupplements, then we wouldn't have to waste time worrying about \nall this food nonsense.",
             "choice_data_list": [
                 "But supplements don't taste of anything…",
                 "But supplements don't taste of anything…"
@@ -40,26 +41,26 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And? The purpose of eating is to replenish the body's supply of nutrients."
+            "text": "And? The purpose of eating is to replenish \nthe body's supply of nutrients."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The major nutrient types can be digested raw. Licopin and such can be obtained most readily from processed food products."
+            "text": "The major nutrient types can be digested raw. Licopin and such \ncan be obtained most readily from processed food products."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "As if I would have time for \"cookery\". I just buy what I need, throw it in the mixer, and drink it down."
+            "text": "As if I would have time for \"cookery\". I just buy what I need, \nthrow it in the mixer, and drink it down."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I do not wish to spend any more time than necessary on the optional processes around food consumption. Because time, my dear, is a finite resource."
+            "text": "I do not wish to spend any more time than necessary on the \noptional processes around food consumption. Because time, \nmy dear, is a finite resource."
         },
         {
-            "text": "The more I heard about Agnes Tachyon's dietary habits, the more worried I became."
+            "text": "The more I heard about Agnes Tachyon's dietary \nhabits, the more worried I became."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "If only the cafeteria were open 24 hours, I wouldn't have to trouble myself with food shopping at all…",
+            "text": "If only the cafeteria were open 24 hours, I wouldn't have to \ntrouble myself with food shopping at all…",
             "choice_data_list": [
                 "How about I make you something?",
                 "How about I make you something?"
@@ -67,23 +68,23 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "\"Make\"? You? Such dedication! I don't know whether to be impressed or disgusted."
+            "text": "\"Make\"? You? Such dedication! I don't know \nwhether to be impressed or disgusted."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Could it be that over the course of our many experiments, you have developed some kind of addiction to serving me?"
+            "text": "Could it be that over the course of our many experiments, you \nhave developed some kind of addiction to serving me?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Alright, you're on. As long as I don't have to do anything, I think it's a fine idea."
+            "text": "Alright, you're on. As long as I don't have \nto do anything, I think it's a fine idea."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Very well then. You can begin be preparing my dinner tonight. Don't hold back, now!"
+            "text": "Very well then. You can begin be preparing \nmy dinner tonight. Don't hold back, now!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, and don't try to fob me off with a load of empty calories. I trust you will give due consideration to nutritional balance."
+            "text": "Oh, and don't try to fob me off with a load of empty calories. I \ntrust you will give due consideration to nutritional balance."
         },
         {
             "text": "And that's how I ended up preparing Agnes Tachyon's dinner."
@@ -98,22 +99,22 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, that's right! I was so engrossed in my research that I scarcely noticed the time."
+            "text": "Oh, that's right! I was so engrossed in my research \nthat I scarcely noticed the time."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I decided to go back to basics, you see. I realized that if we wish for a horsegirl to travel at light speed, we must consider her momentum not classically but as a Lorentz-covariant four-vector! And…",
+            "text": "I decided to go back to basics, you see. I realized \nthat if we wish for a horsegirl to travel at light \nspeed, we must consider her momentum not classically \nbut as a Lorentz-covariant four-vector! And…",
             "choice_data_list": [
                 "L… let's talk about that after you've eaten…!"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Alright, alright, no need to get worked up. I just mean to say that my work is progressing well. You'll have to wait a little longer until I can test these theories on you, but… well, that's something for you to look forward to!"
+            "text": "Alright, alright, no need to get worked up. I just mean to say \nthat my work is progressing well. You'll have to wait a little \nlonger until I can test these theories on you, but… well, that's \nsomething for you to look forward to!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I'll take that back to the lab with me. There is still much to do before I can retire for the night."
+            "text": "I'll take that back to the lab with me. There is still much to do \nbefore I can retire for the night."
         },
         {
             "text": "Then, the next morning…"
@@ -126,30 +127,30 @@
             "text": "Morning, trainer. Here, let me give you these back."
         },
         {
-            "text": "Agnes Tachyon pressed the empty food trays from the previous night into my hands."
+            "text": "Agnes Tachyon pressed the empty food trays \nfrom the previous night into my hands."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Vitamins, minerals, protein, fat, sugar… All present and correct, and in appropriate quantities. Well done.",
+            "text": "Vitamins, minerals, protein, fat, sugar… All present and correct, \nand in appropriate quantities. Well done.",
             "choice_data_list": [
                 "And…? How did it taste?"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "It was fine. However, considering this particular use case, I will suggest two improvements."
+            "text": "It was fine. However, considering this particular \nuse case, I will suggest two improvements."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Number one. It is most inconvenient to use chopsticks while conducting my tests. Do something about that."
+            "text": "Number one. It is most inconvenient to use chopsticks while \nconducting my tests. Do something about that."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Number two. Not enough rice in proportion to the other items. Add more to correct this imbalance."
+            "text": "Number two. Not enough rice in proportion to the other \nitems. Add more to correct this imbalance."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I appreciate it's too late for today, but be sure to implement these improvements from tomorrow.",
+            "text": "I appreciate it's too late for today, but be sure to implement \nthese improvements from tomorrow.",
             "choice_data_list": [
                 "\"Today\"? What do you mean \"today\"?"
             ]
@@ -171,7 +172,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "No breakfast? Is this supposed to be some kind of JOKE!? And after I interrupted my research to drag myself all the way here to collect it…!"
+            "text": "No breakfast? Is this supposed to be some kind of \nJOKE!? And after I interrupted my research to drag \nmyself all the way here to collect it…!"
         },
         {
             "name": "Agnes Tachyon",
@@ -186,7 +187,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Are you telling me that I am to negotiate every meal with you ahead of time? How inefficient!"
+            "text": "Are you telling me that I am to negotiate every \nmeal with you ahead of time? How inefficient!"
         },
         {
             "name": "Agnes Tachyon",
@@ -201,7 +202,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "This hunger can only be satiated by giving me my breakfast, or giving your body up for experimentation for the remainder of the morning."
+            "text": "This hunger can only be satiated by giving me my \nbreakfast, or giving your body up for experimentation \nfor the remainder of the morning."
         },
         {
             "name": "Agnes Tachyon",
@@ -212,7 +213,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Very well. We'll just have to experiment on you this afternoon instead. For now, breakfast.",
+            "text": "Very well. We'll just have to experiment on you \nthis afternoon instead. For now, breakfast.",
             "choice_data_list": [
                 "Wait, you're going to experiment on me anyway!?",
                 "Wait, you're going to experiment on me anyway!?"
@@ -220,22 +221,22 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Naturally! That is a guinea pig's job, is it not? Just as managing my nutrition is a trainer's job."
+            "text": "Naturally! That is a guinea pig's job, is it not? \nJust as managing my nutrition is a trainer's job."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The cafeteria is so very, very far… until breakfast is ready, I believe I will take a nap."
+            "text": "The cafeteria is so very, very far… until breakfast \nis ready, I believe I will take a nap."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, come now, I'm not asking much. I don't mind if you use whatever you have left over from yesterday. You do HAVE something left over, don't you?"
+            "text": "Oh, come now, I'm not asking much. I don't mind if \nyou use whatever you have left over from yesterday. \nYou do HAVE something left over, don't you?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hurry up. Come on. I said hurry! Get cooking, go!"
+            "text": "Hurry up. Come on. \nI said hurry! Get cooking, go!"
         },
         {
-            "text": "It's good that she was finally getting a balanced diet… even if it meant I had to make all her meals for her…"
+            "text": "It's good that she was finally getting a balanced diet… even if \nit meant I had to make all her meals for her…"
         }
     ]
 }

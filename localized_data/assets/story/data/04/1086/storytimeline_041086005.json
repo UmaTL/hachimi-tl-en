@@ -2,15 +2,15 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――Oh, you came at just the right time.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "――Oh, you came at just the right time."
         },
         {
             "text": "During a lunch break, I was walking around \nschool when I ran in to Mejiro Ramonu."
         },
         {
-            "text": "Would you mind modeling for my Croquis drawing?",
             "name": "Mejiro Ramonu",
+            "text": "Would you mind modeling for my Croquis drawing?",
             "choice_data_list": [
                 "Model……? Okay"
             ]
@@ -23,15 +23,15 @@
             ]
         },
         {
-            "text": "……Of course it isn't.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "……Of course it isn't."
         },
         {
             "text": "I happened to notice another drawing board leaning against a tree. \nYou could tell she was skilled at just a glance."
         },
         {
-            "text": "What?",
             "name": "Mejiro Ramonu",
+            "text": "What?",
             "choice_data_list": [
                 "Can you show me those……?!"
             ]
@@ -40,27 +40,27 @@
             "text": "There were several pictures stacked together. \nThey were very realistic, and strangely, you could \nalmost feel the atmosphere coming from them……"
         },
         {
-            "text": "Are you finished yet?",
             "name": "Mejiro Ramonu",
+            "text": "Are you finished yet?",
             "choice_data_list": [
                 "Yeah, thank you……",
                 "Yeah, thank you……"
             ]
         },
         {
-            "text": "A perfect tableau, requires perfect scrutiny.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "A perfect tableau, requires perfect scrutiny."
         },
         {
-            "text": "With only passion, love just becomes ego. \nRaces are the same……",
             "name": "Mejiro Ramonu",
+            "text": "With only passion, love just becomes ego. \nRaces are the same……",
             "choice_data_list": [
                 "……!"
             ]
         },
         {
-            "text": "Alright……over there.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Alright……over there."
         },
         {
             "text": "『Change poses every 30 seconds』 is what she said as \nshe set the alarm on her smartphone and started drawing.",
@@ -69,15 +69,15 @@
             ]
         },
         {
-            "text": "……………………",
             "name": "Mejiro Ramonu",
+            "text": "……………………",
             "choice_data_list": [
                 "Um, is something wrong……?"
             ]
         },
         {
-            "text": "……observing is more important than drawing. \nTake a look……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "……observing is more important than drawing. \nTake a look……"
         },
         {
             "text": "What she showed me was multiple human-shaped figures \ndrawn with simple lines. Eyes and noses were barely \ndrawn and the faces only had two intersecting lines.",
@@ -86,8 +86,8 @@
             ]
         },
         {
-            "text": "Is that so? ――We're continuing.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Is that so? ――We're continuing."
         },
         {
             "text": "――And now we were about 20 poses in. \nWe should be almost done, right……?",
@@ -99,8 +99,8 @@
             "text": "I didn't really know much about drawing anyways. \nAfter thinking for a bit, a few ideas came to \nmind, based on paintings I had seen before……"
         },
         {
-            "text": "Oh, that's………… Heh……",
             "name": "Mejiro Ramonu",
+            "text": "Oh, that's………… Heh……",
             "choice_data_list": [
                 "Ah, um, this is……"
             ]
@@ -109,8 +109,8 @@
             "text": "It was a pose from a painting about races done by a \nfamous painter from my hometown. I fell in love with \nit the moment I saw it in some local official building."
         },
         {
-            "text": "Hmmmm……I love it too. That painting.",
             "name": "Mejiro Ramonu",
+            "text": "Hmmmm……I love it too. That painting.",
             "choice_data_list": [
                 "Really? What a coincidence!",
                 "Really? What a coincidence!"
@@ -120,8 +120,8 @@
             "text": "I couldn't help but speak passionately. The painting \nwas not only beautiful, but it was about the racing \nworld. Each brush stroke was beautiful――!"
         },
         {
-            "text": "…………I see.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "…………I see."
         },
         {
             "text": "Before I realized it, Mejiro Ramonu had \npacked up her tools as the afternoon bell rang.",
@@ -131,12 +131,12 @@
             ]
         },
         {
-            "text": "It's fine? I don't see an issue……",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "It's fine? I don't see an issue……"
         },
         {
-            "text": "With that kind of love……",
             "name": "Mejiro Ramonu",
+            "text": "With that kind of love……",
             "choice_data_list": [
                 "……!"
             ]
@@ -145,19 +145,19 @@
             "text": "However, several days after that. \nWhile we were discussing the schedule as usual――"
         },
         {
-            "text": "……So, you won't be here on these days.",
             "name": "Mejiro Ramonu",
+            "text": "……So, you won't be here on these days.",
             "choice_data_list": [
                 "Heading back home for a bit"
             ]
         },
         {
-            "text": "Oh, I see.",
-            "name": "Mejiro Ramonu"
+            "name": "Mejiro Ramonu",
+            "text": "Oh, I see."
         },
         {
-            "text": " I don't know where it is but……it must be far, huh.",
             "name": "Mejiro Ramonu",
+            "text": " I don't know where it is but……it must be far, huh.",
             "choice_data_list": [
                 "(……I guess she wouldn't remember)"
             ]

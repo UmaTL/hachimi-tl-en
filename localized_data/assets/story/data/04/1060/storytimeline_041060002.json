@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "After that race, I'd signed up Nice Nature, and we began training in earnest."
+            "text": "After that race, I'd signed up Nice Nature, \nand we began training in earnest."
         },
         {
             "name": "Nice Nature",
-            "text": "Yeeeowww! My muscles are like jelly already. I guess with a real trainer, you get real training, huh."
+            "text": "Yeeeowww! My muscles are like jelly already. I guess with a real \ntrainer, you get real training, huh."
         },
         {
             "name": "Nice Nature",
             "text": "I'm gonna be sore in the morning! Alright. What's next?"
         },
         {
-            "text": "She didn't strike me as the enthusiastic type when we'd first met, but once we got down to it, Nice Nature was serious and diligent about her training."
+            "text": "She didn't strike me as the enthusiastic type when we'd first \nmet, but once we got down to it, Nice Nature was serious and \ndiligent about her training."
         },
         {
             "name": "Nice Nature",
@@ -23,7 +24,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "What!? No, well, I mean… I'll do what needs doing, you know? This is Tracen academy, after all."
+            "text": "What!? No, well, I mean… I'll do what needs doing, \nyou know? This is Tracen academy, after all."
         },
         {
             "name": "Nice Nature",
@@ -34,7 +35,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Huff, huff, huff…!! … Haaa―"
+            "text": "Huff, huff, huff…!! \n… Haaa―"
         },
         {
             "name": "Nice Nature",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "My own personal trainer… all that work… and that's all I've got, huh…",
+            "text": "My own personal trainer… all that work… \nand that's all I've got, huh…",
             "choice_data_list": [
                 "You were so close that time, though!",
                 "You were so close that time, though!"
@@ -50,30 +51,30 @@
         },
         {
             "name": "Nice Nature",
-            "text": "A-hahaha… nah. I don't know… maybe third place is as good as it gets for me."
+            "text": "A-hahaha… nah. I don't know… maybe third \nplace is as good as it gets for me."
         },
         {
             "name": "Nice Nature",
-            "text": "I'm not going to stand here saying stuff like \"The Twinkle Series is mine for the taking!\", \"Second is just the first loser!\"… you know?",
+            "text": "I'm not going to stand here saying stuff like \"The \nTwinkle Series is mine for the taking!\", \"Second \nis just the first loser!\"… you know?",
             "choice_data_list": [
                 "Why not?"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Oh, come on now, Trainer-san, there's no need for that. It's like I told you: nature just didn't give me a whole lot to work with."
+            "text": "Oh, come on now, Trainer-san, there's no need for that. It's like \nI told you: nature just didn't give me a whole lot to work with."
         },
         {
             "name": "Nice Nature",
-            "text": "Don't get me wrong. I'll do my training, and you can be sure I won't hold anything back on race day."
+            "text": "Don't get me wrong. I'll do my training, and you can be sure I \nwon't hold anything back on race day."
         },
         {
             "name": "Nice Nature",
-            "text": "But nobody knows me better than I do. What I can do… what I can't…"
+            "text": "But nobody knows me better than I \ndo. What I can do… what I can't…"
         },
         {
             "name": "Nice Nature",
-            "text": "Anyway. I think that's enough of that. Are we done for the day, or…?"
+            "text": "Anyway. I think that's enough of that. \nAre we done for the day, or…?"
         },
         {
             "text": "(Grrrr)"
@@ -92,18 +93,18 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Tell you what, why don't you come with me? I know somewhere real nice!"
+            "text": "Tell you what, why don't you come with \nme? I know somewhere real nice!"
         },
         {
-            "text": "Before I could point out that I was, in fact, quite a few years older than her, she'd dragged me off to…"
+            "text": "Before I could point out that I was, in fact, quite a few years \nolder than her, she'd dragged me off to…"
         },
         {
             "name": "Nice Nature",
-            "text": "Mmmm, that smells good! Evenin', gramps! You got any of those nice chicken sticks?"
+            "text": "Mmmm, that smells good! Evenin', gramps! You \ngot any of those nice chicken sticks?"
         },
         {
             "name": "Neighborhood yakitori guy",
-            "text": "Oh, Nay-chan! I sure do! Got some nice gizzard fresh off the grill too!"
+            "text": "Oh, Nay-chan! I sure do! Got some nice \ngizzard fresh off the grill too!"
         },
         {
             "name": "Nice Nature",
@@ -111,11 +112,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Trainer-san here needs a little something. You couldn't put him together a wee selection of whatever's good today, could you?"
+            "text": "Trainer-san here needs a little something. You couldn't put him \ntogether a wee selection of whatever's good today, could you?"
         },
         {
             "name": "Neighborhood yakitori guy",
-            "text": "Comin' right up…! W… wait, WHAT!? You've got your own trainer!? That who you are, son?"
+            "text": "Comin' right up…! W… wait, WHAT!? You've got \nyour own trainer!? That who you are, son?"
         },
         {
             "name": "Nice Nature",
@@ -123,15 +124,15 @@
         },
         {
             "name": "Neighborhood yakitori guy",
-            "text": "This is amazing! W… wait here, trainer-san! Every shop in the street will have something for you when they hear about this!!"
+            "text": "This is amazing! W… wait here, trainer-san! Every shop in the \nstreet will have something for you when they hear about this!!"
         },
         {
             "name": "Nice Nature",
-            "text": "A-aaah! There's no need to make… a… ahh. He's pretty fast for an old guy. Maybe I should let him run some of my races for me…"
+            "text": "A-aaah! There's no need to make… a… ahh. He's pretty fast for an \nold guy. Maybe I should let him run some of my races for me…"
         },
         {
             "name": "Nice Nature",
-            "text": "See, this is why I was trying not to tell anyone. Little late for that now, though.",
+            "text": "See, this is why I was trying not to tell anyone. \nLittle late for that now, though.",
             "choice_data_list": [
                 "The locals really love you here, don't they?",
                 "The locals really love you here, don't they?"
@@ -139,31 +140,31 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Eh, I don't know about \"love\", exactly. But it's like… even though I go to the fancy academy with all the famous horse girls, they can just come up and say \"hi\" to me in the street like it's no big deal."
+            "text": "Eh, I don't know about \"love\", exactly. But it's like… \neven though I go to the fancy academy with all the \nfamous horse girls, they can just come up and say \"hi\" \nto me in the street like it's no big deal."
         },
         {
             "name": "Nice Nature",
-            "text": "You know, I actually grew up on a street just like this one. My Mom ran a little bar, and I used to help her out ever since I was small."
+            "text": "You know, I actually grew up on a street just like \nthis one. My Mom ran a little bar, and I used to \nhelp her out ever since I was small."
         },
         {
             "name": "Nice Nature",
-            "text": "So I spent a lot of time talking to all the old regulars… the neighbors at the other stores…"
+            "text": "So I spent a lot of time talking to all the old \nregulars… the neighbors at the other stores…"
         },
         {
             "name": "Nice Nature",
-            "text": "So you might say my upbringing was a little unusual. Maybe that's why I ended up, y'know… like this."
+            "text": "So you might say my upbringing was a little unusual. Maybe that's \nwhy I ended up, y'know… like this."
         },
         {
             "name": "Nice Nature",
-            "text": "Anyway, that meant I could make a lot of friends down here, so I can't complain."
+            "text": "Anyway, that meant I could make a lot of \nfriends down here, so I can't complain."
         },
         {
             "name": "Nice Nature",
-            "text": "Talking about it brings back memories. Like that old lady from the sweet shop across the street… I wonder how her back's doing these days…"
+            "text": "Talking about it brings back memories. Like that \nold lady from the sweet shop across the street… \nI wonder how her back's doing these days…"
         },
         {
             "name": "Nice Nature",
-            "text": "She looks kind of scary but she she's actually a real sweetheart. She always made sure I got the sweets with prizes in 'em!",
+            "text": "She looks kind of scary but she she's actually a real sweetheart. \nShe always made sure I got the sweets with prizes in 'em!",
             "choice_data_list": [
                 "They love you back home too, huh.",
                 "They love you back home too, huh."
@@ -171,7 +172,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Ehehe… it's like I keep telling you, I'm not that special. Really."
+            "text": "Ehehe… it's like I keep telling you, \nI'm not that special. Really."
         },
         {
             "name": "Nice Nature",
@@ -179,15 +180,15 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Just because I was a little faster than the other girls, everyone always came out to cheer me on… and before I knew it, I ended up here!"
+            "text": "Just because I was a little faster than the other \ngirls, everyone always came out to cheer me on… \nand before I knew it, I ended up here!"
         },
         {
             "name": "Nice Nature",
-            "text": "You should have seen the send-off they gave me. They hung flags and bunting up all over town… anyone would think it was some kind of festival."
+            "text": "You should have seen the send-off they gave me. They \nhung flags and bunting up all over town… anyone would \nthink it was some kind of festival."
         },
         {
             "name": "Nice Nature",
-            "text": "And I'm sure everyone back home is expecting me to win a lot of big races, bring home a lot of trophies, but…"
+            "text": "And I'm sure everyone back home is expecting me to win a lot of \nbig races, bring home a lot of trophies, but…"
         },
         {
             "name": "Nice Nature",
@@ -195,7 +196,7 @@
         },
         {
             "name": "Neighborhood yakitori guy",
-            "text": "Trainer-san, trainer-san! Here, take this. Don't be shy, fill your boots! And you look after Nay-chan for us, you hear!?"
+            "text": "Trainer-san, trainer-san! Here, take this. Don't be shy, fill \nyour boots! And you look after Nay-chan for us, you hear!?"
         },
         {
             "name": "Nice Nature",
@@ -203,7 +204,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "Ah! There you are! Heeey! Nature! Aah! I've been looking all over for you!"
+            "text": "Ah! There you are! Heeey! Nature! \nAah! I've been looking all over for you!"
         },
         {
             "name": "Nice Nature",
@@ -211,15 +212,15 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "They posted the start lists for the big race meeting. You didn't see yet?"
+            "text": "They posted the start lists for the big \nrace meeting. You didn't see yet?"
         },
         {
             "name": "Neighborhood man",
-            "text": "You talking about Tracen academy's famous semiannual race competition? When they let the public come and watch? I can hardly wait!"
+            "text": "You talking about Tracen academy's famous semiannual \nrace competition? When they let the public come \nand watch? I can hardly wait!"
         },
         {
             "name": "Neighborhood man",
-            "text": "And you'd better believe everyone here is going to come out and cheer you on, Nay-chan!"
+            "text": "And you'd better believe everyone here is going \nto come out and cheer you on, Nay-chan!"
         },
         {
             "name": "Nice Nature",
@@ -227,15 +228,15 @@
         },
         {
             "name": "Nice Nature",
-            "text": "But… why did you come all the way down here just to tell me that…?"
+            "text": "But… why did you come all the way \ndown here just to tell me that…?"
         },
         {
             "name": "Tokai Teio",
-            "text": "You put your name down for the 2000m turf race, right? Well, so did I!"
+            "text": "You put your name down for the 2000m \nturf race, right? Well, so did I!"
         },
         {
             "name": "Tokai Teio",
-            "text": "And we're in the same group! So I'm laying it on the line right here, right now!"
+            "text": "And we're in the same group! So I'm laying \nit on the line right here, right now!"
         },
         {
             "name": "Nice Nature",

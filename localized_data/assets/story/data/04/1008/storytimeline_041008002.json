@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Vodka",
@@ -9,10 +10,10 @@
             "text": "What's next, Trainer? Come on, give me orders!"
         },
         {
-            "text": "My training with Vodka, who was more honest than I had imagined, was proceeding very smoothly."
+            "text": "My training with Vodka, who was more honest than \nI had imagined, was proceeding very smoothly."
         },
         {
-            "text": "A large stretcher, a body that gives off a strong feeling of flexibility―― With enough potential, it looks like I'll have high hopes for the future.",
+            "text": "A large stretcher, a body that gives off a \nstrong feeling of flexibility―― With enough \npotential, it looks like I'll have high hopes \nfor the future.",
             "choice_data_list": [
                 "Let's just level up the menu.",
                 "Let's raise the level of the menu a little."
@@ -27,38 +28,38 @@
         },
         {
             "name": "Vodka",
-            "text": "Oh, crap. I haven't submitted an application for the event yet. I need to fill it out and submit it…",
+            "text": "Oh, crap. I haven't submitted an application \nfor the event yet. I need to fill \nit out and submit it…",
             "choice_data_list": [
                 "Race events?"
             ]
         },
         {
             "name": "Vodka",
-            "text": "Huh? You don't know? Oh, right, you haven't held it since you came to Academy."
+            "text": "Huh? You don't know? Oh, right, you haven't held \nit since you came to Academy."
         },
         {
             "name": "Vodka",
-            "text": "Twice a year, it's a major event within Trecen Academy. Every student registers for their favorite event and races."
+            "text": "Twice a year, it's a major event within Trecen \nAcademy. Every student registers for their \nfavorite event and races."
         },
         {
             "name": "Vodka",
-            "text": "We've got a lot of customers from outside the Academy, so we're gonna have a blast!"
+            "text": "We've got a lot of customers from outside the \nAcademy, so we're gonna have a blast!"
         },
         {
             "name": "Vodka",
-            "text": "Also, this is a rare opportunity for us to have a real fight with those strong guys who have already made their debut."
+            "text": "Also, this is a rare opportunity for us to have \na real fight with those strong guys who have \nalready made their debut."
         },
         {
             "name": "Vodka",
-            "text": "If you apply for the same event and you're assigned to the same group, you'll be able to run before and after your debut!"
+            "text": "If you apply for the same event and you're \nassigned to the same group, you'll be able to \nrun before and after your debut!"
         },
         {
             "name": "Vodka",
-            "text": "Ugh, I'm really looking forward to this! I've gotta show them how cool I am!"
+            "text": "Ugh, I'm really looking forward to this! I've \ngotta show them how cool I am!"
         },
         {
             "name": "Vodka",
-            "text": "…Ah, that's right, Trainer! Let's go eat something good outside to cheer up!",
+            "text": "…Ah, that's right, Trainer! Let's go eat \nsomething good outside to cheer up!",
             "choice_data_list": [
                 "All right, here's your reward \nfor always working so hard!",
                 "Alright, here's your reward \nfor always working so hard!"
@@ -66,14 +67,14 @@
         },
         {
             "name": "Vodka",
-            "text": "Oh, you don't get it! Then let's go right away! I'll go get changed, so wait a minute!"
+            "text": "Oh, you don't get it! Then let's go right away! \nI'll go get changed, so wait a minute!"
         },
         {
             "text": "And so, Vodka and I went out to eat."
         },
         {
             "name": "Vodka",
-            "text": "Phew, I ate, I ate! I have to be careful about my weight, but this is nice every once in a while!"
+            "text": "Phew, I ate, I ate! I have to be \ncareful about my weight, but this \nis nice every once in a while!"
         },
         {
             "name": "Vodka",
@@ -84,7 +85,7 @@
             "text": "Wh-What's with that cool poster?!"
         },
         {
-            "text": "Vodka followed her gaze, which had been glued to it, and saw a poster of a horsegirl riding a large motorcycle.",
+            "text": "Vodka followed her gaze, which had been glued to \nit, and saw a poster of a horsegirl riding a \nlarge motorcycle.",
             "choice_data_list": [
                 "Looks like a movie poster.",
                 "Looks like a movie poster."
@@ -92,7 +93,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Heh, a movie, huh…? So such a cool bike is coming out……heeeeh……!!",
+            "text": "Heh, a movie, huh…? So such a cool bike is \ncoming out……heeeeh……!!",
             "choice_data_list": [
                 "Why don't we go see it?",
                 "Why don't we go see it?"
@@ -108,7 +109,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Did you see the bike chase at the climax!? When it was curved, my body was stretched across the ground!!",
+            "text": "Did you see the bike chase at the climax!? \nWhen it was curved, my body was stretched \nacross the ground!!",
             "choice_data_list": [
                 "You like motorcycles that much?",
                 "I didn't know you liked motorcycles that much."
@@ -116,19 +117,19 @@
         },
         {
             "name": "Vodka",
-            "text": "Huh? But it's cool!! Like that heavy engine sound, or that glaring body!!"
+            "text": "Huh? But it's cool!! Like that heavy engine \nsound, or that glaring body!!"
         },
         {
             "name": "Vodka",
-            "text": "My dad's got a big bike like that, too. She used to ride behind me a lot when I was little."
+            "text": "My dad's got a big bike like that, too. She used \nto ride behind me a lot when I was little."
         },
         {
             "name": "Vodka",
-            "text": "It's so nice, isn't it? A bike! How do I put this? …Yeah, it's so romantic!!"
+            "text": "It's so nice, isn't it? A bike! How do I put \nthis? …Yeah, it's so romantic!!"
         },
         {
             "name": "Vodka",
-            "text": "…Come to think of it, when I first went to see Derby, she used to ride my dad's bike.",
+            "text": "…Come to think of it, when I first went to see \nDerby, she used to ride my dad's bike.",
             "choice_data_list": [
                 "Did your father let you meet the race?",
                 "Your father let you meet the race."
@@ -136,11 +137,11 @@
         },
         {
             "name": "Vodka",
-            "text": "Yeah, my dad loves racing! She said 'Woof, there's only cool guys over there.'"
+            "text": "Yeah, my dad loves racing! She said 'Woof, \nthere's only cool guys over there.'"
         },
         {
             "name": "Vodka",
-            "text": "When I first heard it, I thought I didn't really know. But when I saw the race…"
+            "text": "When I first heard it, I thought I didn't really \nknow. But when I saw the race…"
         },
         {
             "name": "Vodka",
@@ -148,15 +149,15 @@
         },
         {
             "name": "Vodka",
-            "text": "I don't even remember blinking until the match. Seriously, it wasn't amazing……!"
+            "text": "I don't even remember blinking until the match. \nSeriously, it wasn't amazing……!"
         },
         {
             "name": "Vodka",
-            "text": "『I won't let you win!』 『Open the front door!』 『First place is yours!』 All of them were giving off that kind of aura……!!"
+            "text": "『I won't let you win!』 『Open the front door!』 \n『First place is yours!』 All of them were giving \noff that kind of aura……!!"
         },
         {
             "name": "Vodka",
-            "text": "On the way home, Dad was always yelling 'Hey, you're so cool!', but she seemed really happy as she drove her bike.",
+            "text": "On the way home, Dad was always yelling 'Hey, \nyou're so cool!', but she seemed really happy as \nshe drove her bike.",
             "choice_data_list": [
                 "That's why you decided to race.",
                 "That's why I decided to race."
@@ -164,11 +165,11 @@
         },
         {
             "name": "Vodka",
-            "text": "Yeah. I run as coolly as those guys I saw back then!!"
+            "text": "Yeah. I run as coolly as those \nguys I saw back then!!"
         },
         {
             "name": "Vodka",
-            "text": "Heheh, I'm really pumped. I'm glad I watched the movie! Thanks for inviting me, Trainer."
+            "text": "Heheh, I'm really pumped. I'm glad I watched the \nmovie! Thanks for inviting me, Trainer."
         },
         {
             "name": "Vodka",
@@ -176,11 +177,11 @@
         },
         {
             "name": "Vodka",
-            "text": "Yeah, well, how do I put this…? Well, I guess I'll have to give up."
+            "text": "Yeah, well, how do I put this…? Well, I guess \nI'll have to give up."
         },
         {
             "name": "Vodka",
-            "text": "I prefer stiffer ones. Such soft ones… ki, ki… scenes……",
+            "text": "I prefer stiffer ones. Such \nsoft ones… ki, ki… scenes……",
             "choice_data_list": [
                 "You mean the kiss scene?",
                 "You mean the kiss scene?"
@@ -188,7 +189,7 @@
         },
         {
             "name": "Vodka",
-            "text": "D-Don't be so blunt!! Ahhhh, I'm starting to remember…!!"
+            "text": "D-Don't be so blunt!! Ahhhh, \nI'm starting to remember…!!"
         },
         {
             "name": "Vodka",
@@ -206,7 +207,7 @@
         },
         {
             "name": "Horsegirl A",
-            "text": "Oh, Vodka! It's about the event… You're in the 10th group of 2000 meters of grass, right?"
+            "text": "Oh, Vodka! It's about the event… You're in the \n10th group of 2000 meters of grass, right?"
         },
         {
             "name": "Vodka",
@@ -214,7 +215,7 @@
         },
         {
             "name": "Horsegirl A",
-            "text": "No, I'm just wondering if it's okay if I don't have to change my application… It looks like they'll still accept it now."
+            "text": "No, I'm just wondering if it's okay if I don't \nhave to change my application… It looks like \nthey'll still accept it now."
         },
         {
             "name": "Vodka",
@@ -222,7 +223,7 @@
         },
         {
             "name": "Horsegirl A",
-            "text": "Why…? Don't tell me you haven't seen the flight manifest!?"
+            "text": "Why…? Don't tell me you haven't \nseen the flight manifest!?"
         },
         {
             "name": "Horsegirl A",

@@ -2,92 +2,92 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "-That's why. I'm sorry. The running \nstyle you taught me, for me is…",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "-That's why. I'm sorry. The running \nstyle you taught me, for me is…"
         },
         {
-            "text": "I see… I'm sorry, I must have caused you a lot of distress. And \nyou, Trainer-san, thank you for being concerned about her.",
             "name": "Suzuka's Trainer",
+            "text": "I see… I'm sorry, I must have caused you a lot of distress. And \nyou, Trainer-san, thank you for being concerned about her.",
             "choice_data_list": [
-                "<size=34>Please expand her potenial as much as possible</size>"
+                "Please expand her potenial as much as possible"
             ]
         },
         {
-            "text": "I'd like to but… My instruction style is a \nbit rigid, so I might end up putting you through \nthis uncomfortable situation again.",
-            "name": "Suzuka's Trainer"
+            "name": "Suzuka's Trainer",
+            "text": "I'd like to but… My instruction style is a \nbit rigid, so I might end up putting you through \nthis uncomfortable situation again."
         },
         {
-            "text": "So… how about this, Suzuka? How about transferring and being \nunder the supervision of this trainer?",
-            "name": "Suzuka's Trainer"
+            "name": "Suzuka's Trainer",
+            "text": "So… how about this, Suzuka? How about transferring and being \nunder the supervision of this trainer?"
         },
         {
-            "text": "Eh? Transfer…?",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Yes. Having flexible thinking, and above all, \nhaving deep consideration for Uma Musume… for \nyou. I think she's a wonderful person.",
-            "name": "Suzuka's Trainer"
-        },
-        {
-            "text": "Um… I-is that okay with you? With someone like me…",
             "name": "Silence Suzuka",
+            "text": "Eh? Transfer…?"
+        },
+        {
+            "name": "Suzuka's Trainer",
+            "text": "Yes. Having flexible thinking, and above all, \nhaving deep consideration for Uma Musume… for \nyou. I think she's a wonderful person."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um… I-is that okay with you? With someone like me…",
             "choice_data_list": [
                 "If that's what you want, absolutely…!",
                 "If that's what you want, absolutely…!"
             ]
         },
         {
-            "text": "…Ah!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "…Ah!"
         },
         {
-            "text": "Thank you… very much. Please treat me well, Trainer-san…!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Thank you… very much. Please treat me well, Trainer-san…!"
         },
         {
-            "text": "How wonderful, Suzuka! From the bottom of my heart, \nI'm looking forward to your performance.",
-            "name": "Suzuka's Trainer"
+            "name": "Suzuka's Trainer",
+            "text": "How wonderful, Suzuka! From the bottom of my heart, \nI'm looking forward to your performance."
         },
         {
-            "text": "Oh, but it's a different story if it's against a girl I'm \nsupervising. At that time, we'll come at you with our full \nstrength, so make sure you're prepared.",
-            "name": "Suzuka's Trainer"
+            "name": "Suzuka's Trainer",
+            "text": "Oh, but it's a different story if it's against a girl I'm \nsupervising. At that time, we'll come at you with our full \nstrength, so make sure you're prepared."
         },
         {
-            "text": "Yes!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Yes!"
         },
         {
-            "text": "Um… I know it's a bit sudden, Trainer-san. But, my debut was \nplanned for next month. What should we do…?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Um… I know it's a bit sudden, Trainer-san. But, my debut was \nplanned for next month. What should we do…?"
         },
         {
             "text": "Silence Suzuka's wavering gaze was full of motiviation. Suddenly \nstopping her here probably wouldn't be a good idea.",
             "choice_data_list": [
-                "<size=42>Let's enter the debut race, as planned!</size>"
+                "Let's enter the debut race, as planned!"
             ]
         },
         {
-            "text": "It's okay for me to run…?! Thank you very much!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "It's okay for me to run…?! Thank you very much!"
         },
         {
-            "text": "Then… what should I do in regards to my running strategy…?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Then… what should I do in regards to my running strategy…?"
         },
         {
-            "text": "I understand what I've learned. 'Escape' is high risk. As I am \nnow, someday I might not be able to continue running in the lead.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "I understand what I've learned. 'Escape' is high risk. As I am \nnow, someday I might not be able to continue running in the lead."
         },
         {
             "text": "Silence Suzuka's words are correct. But-"
         },
         {
-            "text": "…I want to run out in front.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "…I want to run out in front."
         },
         {
-            "text": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!"
         },
         {
             "text": "Her stubborness about leading… that point aside, Silence Suzuka \nalready posesses strength second to none."
@@ -103,38 +103,38 @@
             "text": "\"Lead from start to finish without slowing\"- It will be \ndifficult, but by no means is it impossible."
         },
         {
-            "text": "…you believe in my running, it seems.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "…you believe in my running, it seems."
         },
         {
-            "text": "Understood. I will meet your expectations, without fail.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Understood. I will meet your expectations, without fail."
         },
         {
             "text": "And with that, we turned towards preparation for \nher debut race with some special training…!"
         },
         {
-            "text": "Run in the lead from the start until the end without slowing \ndown… how should I actualize this?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Run in the lead from the start until the end without slowing \ndown… how should I actualize this?"
         },
         {
-            "text": "\"The energy required to accelerate is limited, \nso running to preserve stamina is necessary\" \nwas what I was told before though…",
             "name": "Silence Suzuka",
+            "text": "\"The energy required to accelerate is limited, \nso running to preserve stamina is necessary\" \nwas what I was told before though…",
             "choice_data_list": [
-                "<size=40>I guess we need to maximize that energy</size>",
-                "<size=40>I guess we need to maximize that energy</size>"
+                "I guess we need to maximize that energy",
+                "I guess we need to maximize that energy"
             ]
         },
         {
             "text": "For the sake of training her instantaneous power and stamina in a \nbalanced manner, I suggested Hill Sprints"
         },
         {
-            "text": "Hill Sprints is it? Understood. But… doesn't \nthe school course seem a little lacking?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Hill Sprints is it? Understood. But… doesn't \nthe school course seem a little lacking?"
         },
         {
-            "text": "How about… climbing a mountain? Since \nwe have the opportunity…!",
             "name": "Silence Suzuka",
+            "text": "How about… climbing a mountain? Since \nwe have the opportunity…!",
             "choice_data_list": [
                 "(Her eyes are serious…!?)"
             ]
@@ -146,99 +146,99 @@
             "text": "And then, finally…!"
         },
         {
-            "text": "Oh, Air Groove! You came?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Oh, Air Groove! You came?"
         },
         {
-            "text": "Yeah, to be honest, I was a little worried.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Yeah, to be honest, I was a little worried."
         },
         {
-            "text": "Hu… but, seeing your expression, it seems it was unnecessary.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Hu… but, seeing your expression, it seems it was unnecessary."
         },
         {
-            "text": "Fufuu…I'll be starting soon, so I'm heading out.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Fufuu…I'll be starting soon, so I'm heading out."
         },
         {
-            "text": "Yeah. I'm looking forward to it.",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Yeah. I'm looking forward to it."
         },
         {
-            "text": "Now, gathering under this blue sky are the Uma Musume \neager to compete in the Twinkle Series!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "Now, gathering under this blue sky are the Uma Musume \neager to compete in the Twinkle Series!"
         },
         {
-            "text": "The participating Uma Musume are in \ntheir gates… Debut Race, Start!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "The participating Uma Musume are in \ntheir gates… Debut Race, Start!"
         },
         {
-            "text": "Haa, haa, haa…!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Haa, haa, haa…!"
         },
         {
-            "text": "Right at the start with unbelieveable speed, \njumping ahead and leaving everyone behind is \nthe girl #1 in popularity, Silence Suzuka!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "Right at the start with unbelieveable speed, \njumping ahead and leaving everyone behind is \nthe girl #1 in popularity, Silence Suzuka!"
         },
         {
-            "text": "That girl, Suzuka, is amazing isn't she?! Do escape-type Uma \nMusume normally go that fast at the start?!",
-            "name": "Spectator A"
+            "name": "Spectator A",
+            "text": "That girl, Suzuka, is amazing isn't she?! Do escape-type Uma \nMusume normally go that fast at the start?!"
         },
         {
-            "text": "But, this isn't just a debut race, it's the Twinkle Series! Using \nthat much power at the start, she shouldn't be able to make it…",
-            "name": "Spectator B"
+            "name": "Spectator B",
+            "text": "But, this isn't just a debut race, it's the Twinkle Series! Using \nthat much power at the start, she shouldn't be able to make it…"
         },
         {
-            "text": "(Still… still, it's too noisy. Not yet. More…!)",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "(Still… still, it's too noisy. Not yet. More…!)"
         },
         {
-            "text": "Fuu…!!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Fuu…!!"
         },
         {
-            "text": "We're entering the final stages of the race, but Silence \nSuzuka doesn't falter! She surges ahead, extending \nher lead, further and further forward!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "We're entering the final stages of the race, but Silence \nSuzuka doesn't falter! She surges ahead, extending \nher lead, further and further forward!"
         },
         {
-            "text": "No way…! At this rate, is she seriously going to do it…?!",
-            "name": "Spectator B"
+            "name": "Spectator B",
+            "text": "No way…! At this rate, is she seriously going to do it…?!"
         },
         {
-            "text": "(I won't let anyone stand in my way. I won't yield, to anyone.)",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "(I won't let anyone stand in my way. I won't yield, to anyone.)"
         },
         {
-            "text": "The scenery from the lead… belongs to me!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "The scenery from the lead… belongs to me!"
         },
         {
-            "text": "Silence Suzuka, with a 7 length lead, goooooaaal in! With a \nlogic-defying escape run, the crowd goes wild!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "Silence Suzuka, with a 7 length lead, goooooaaal in! With a \nlogic-defying escape run, the crowd goes wild!"
         },
         {
             "text": "WHOOOOAAA!!"
         },
         {
-            "text": "Suzuka, someone like you…! You've \nbecome quite a fearsome opponent!",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Suzuka, someone like you…! You've \nbecome quite a fearsome opponent!"
         },
         {
-            "text": "Haa…",
             "name": "Silence Suzuka",
+            "text": "Haa…",
             "choice_data_list": [
                 "Satisfied?",
                 "Satisfied?"
             ]
         },
         {
-            "text": "Satisfied?",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Satisfied?"
         },
         {
-            "text": "Let's go see even better scenery, together…Trainer-san!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Let's go see even better scenery, together…Trainer-san!"
         }
     ]
 }

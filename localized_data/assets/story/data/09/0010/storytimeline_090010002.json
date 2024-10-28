@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "All 4",
-            "text": "…………。 …………。"
+            "text": "…………。 \n…………。"
         },
         {
             "text": "—Time, a few hours ago."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "So, without further ado, let's begin the second meeting of the Yuushun Chocolate Contest Task Force. I, Mihono Bourbon, will take the lead."
+            "text": "So, without further ado, let's begin the second meeting of the \nYuushun Chocolate Contest Task Force. I, Mihono Bourbon, \nwill take the lead."
         },
         {
             "name": "Tosen Jordan",
@@ -17,7 +18,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Yes, they turned out great and I was surprised too. We decided that we should get used to wearing them."
+            "text": "Yes, they turned out great and I was surprised too. \nWe decided that we should get used to wearing them."
         },
         {
             "name": "Nishino Flower",
@@ -25,11 +26,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I am honored. Thank you for advising me with the \"choice\", that this one suited me best."
+            "text": "I am honored. Thank you for advising me with \nthe \"choice\", that this one suited me best."
         },
         {
             "name": "Eishin Flash",
-            "text": "—Oh dear, it's 1 minute past the start time. Let's get right to it."
+            "text": "—Oh dear, it's 1 minute past the start \ntime. Let's get right to it."
         },
         {
             "name": "Mihono Bourbon",
@@ -41,19 +42,19 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "We conducted a questionnaire, asking all the students \"What is your image of Tracen Academy?\"."
+            "text": "We conducted a questionnaire, asking all the \nstudents \"What is your image of Tracen Academy?\"."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Of these, we selected \"the grounds\" as the top and most feasible motif, and drew up a design."
+            "text": "Of these, we selected \"the grounds\" as the top and most feasible \nmotif, and drew up a design."
         },
         {
             "name": "Eishin Flash",
-            "text": "Our goal is to have a detailed recipe completed 5 days before the show. I believe we can reach this goal through plenty of trial and error."
+            "text": "Our goal is to have a detailed recipe completed \n5 days before the show. I believe we can reach this \ngoal through plenty of trial and error."
         },
         {
             "name": "Eishin Flash",
-            "text": "Should you have any other ideas, please tell us. It would be very helpful to find something that we have not thought of."
+            "text": "Should you have any other ideas, please tell us. It would be very \nhelpful to find something that we have not thought of."
         },
         {
             "name": "Nishino Flower",
@@ -61,15 +62,15 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Of course. Let's split up then: me, Ms. Bourbon and Ms. Bakushin O, and Ms. Flower and Ms. Jordan."
+            "text": "Of course. Let's split up then: me, Ms. Bourbon \nand Ms. Bakushin O, and Ms. Flower and Ms. Jordan."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha-ha-ha! I'm in charge of the whipped cream? Leave it to me! I'll set a world record in cream whipping!"
+            "text": "Ha-ha-ha! I'm in charge of the whipped cream? Leave it to \nme! I'll set a world record in cream whipping!"
         },
         {
             "name": "Eishin Flash",
-            "text": "Ms. Bakushin O, I have a cooled whisk in the fridge, you can use that."
+            "text": "Ms. Bakushin O, I have a cooled whisk in \nthe fridge, you can use that."
         },
         {
             "name": "Sakura Bakushin O",
@@ -77,7 +78,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Hah hah, apologies. When it's warm, the structure of the milk fat in the cream softens, and as a result it won't hold air as well."
+            "text": "Hah hah, apologies. When it's warm, the structure of the milk fat \nin the cream softens, and as a result it won't hold air as well."
         },
         {
             "name": "Mihono Bourbon",
@@ -85,11 +86,11 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "(… A-amazing… With her knowledge and hands, Flash looks like a pro…)"
+            "text": "(… A-amazing… With her knowledge \nand hands, Flash looks like a pro…)"
         },
         {
             "name": "Nishino Flower",
-            "text": "(…! This is not the time to be staring! I was lucky enough to be invited, so I have to be useful!)"
+            "text": "(…! This is not the time to be staring! \nI was lucky enough to be invited, so I have to be useful!)"
         },
         {
             "name": "Nishino Flower",
@@ -97,15 +98,15 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "We have reached the time target for completed prototypes. We will now begin the evaluation of each prototype. Let's start with yours, Ms. Flash."
+            "text": "We have reached the time target for completed prototypes. \nWe will now begin the evaluation of each prototype. \nLet's start with yours, Ms. Flash."
         },
         {
             "name": "Eishin Flash",
-            "text": "Yes, this is a Scoop Cake that resembles the \"grounds\". It represents the actual grounds in miniature."
+            "text": "Yes, this is a Scoop Cake that resembles the \"grounds\". \nIt represents the actual grounds in miniature."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Next, we will view and evaluate Flower's and Jordan's prototypes. …? Um, where are your prototypes?"
+            "text": "Next, we will view and evaluate Flower's and Jordan's prototypes. \n…? Um, where are your prototypes?"
         },
         {
             "name": "Nishino Flower",
@@ -113,11 +114,11 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "(I want to make something that can help Ms. Flash… So it's best to make something fancy, right…!?)"
+            "text": "(I want to make something that can help Ms. Flash… So it's best \nto make something fancy, right…!?)"
         },
         {
             "name": "Nishino Flower",
-            "text": "We'll make an Opera! I think the shiny chocolate could represent the 'gravitas' of Tracen Academy!"
+            "text": "We'll make an Opera! I think the shiny chocolate could \nrepresent the 'gravitas' of Tracen Academy!"
         },
         {
             "name": "Tosen Jordan",
@@ -125,11 +126,11 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Buttercream, ganache cream, coffee syrup, glaçage prepped! The dough has been chilled too!"
+            "text": "Buttercream, ganache cream, coffee syrup, glaçage \nprepped! The dough has been chilled too!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Cray～, you pretty much made it on your own, Flower. What else was there to do, assemble this?"
+            "text": "Cray～, you pretty much made it on your own, Flower. \nWhat else was there to do, assemble this?"
         },
         {
             "name": "Nishino Flower",
@@ -137,7 +138,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Gently, gently… Okay, I'm done with the coffee syrup. Let's see, now for the buttercream—"
+            "text": "Gently, gently… Okay, I'm done with the coffee \nsyrup. Let's see, now for the buttercream—"
         },
         {
             "name": "Nishino Flower",
@@ -145,7 +146,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "(Oh no, I've been going too slow. What should I do…! I'll have to melt it in hot water first—)"
+            "text": "(Oh no, I've been going too slow. What should I do…! I'll \nhave to melt it in hot water first—)"
         },
         {
             "name": "Nishino Flower",
@@ -156,7 +157,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "And… in my haste, I dropped the dough and… I didn't finish it. I'm sorry."
+            "text": "And… in my haste, I dropped the dough \nand… I didn't finish it. I'm sorry."
         },
         {
             "name": "Eishin Flash",
@@ -164,7 +165,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Just remember… failure is inevitable in baking. Please don't be discouraged."
+            "text": "Just remember… failure is inevitable in \nbaking. Please don't be discouraged."
         },
         {
             "name": "Nishino Flower",
@@ -176,7 +177,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Oh, I've gotten off track…! Please continue with the prototype checks!"
+            "text": "Oh, I've gotten off track…! Please continue \nwith the prototype checks!"
         },
         {
             "name": "Eishin Flash",
@@ -184,15 +185,15 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "… Now that I've made it, I realise… Does this really represent \"Tracen Academy\"?"
+            "text": "… Now that I've made it, I realise… Does this \nreally represent \"Tracen Academy\"?"
         },
         {
             "name": "Eishin Flash",
-            "text": "It's certainly our grounds with all its varied courses. That's not wrong, but — it's kind of literally just the school grounds…"
+            "text": "It's certainly our grounds with all its varied courses. That's \nnot wrong, but — it's kind of literally just the school grounds…"
         },
         {
             "name": "Eishin Flash",
-            "text": "I'd like to hear your opinions. When you see this Scoop Cake, do you feel that it represents Tracen Academy?"
+            "text": "I'd like to hear your opinions. When you see this Scoop Cake, do \nyou feel that it represents Tracen Academy?"
         },
         {
             "name": "All 4",
@@ -204,15 +205,15 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "…Thanks. I'm convinced. This is not enough to reach the grand prize."
+            "text": "…Thanks. I'm convinced. \nThis is not enough to reach the grand prize."
         },
         {
             "name": "Eishin Flash",
-            "text": "Perhaps… it should be a deeper expression of the concept of Tracen Academy… The first thing we need to—"
+            "text": "Perhaps… it should be a deeper expression of the concept of \nTracen Academy… The first thing we need to—"
         },
         {
             "name": "Eishin Flash",
-            "text": "—Excuse me, there's only 30 minutes and 20 seconds left. Let's move on to tasting and clean up. Please come back next time."
+            "text": "—Excuse me, there's only 30 minutes and 20 seconds left. Let's \nmove on to tasting and clean up. Please come back next time."
         },
         {
             "name": "Tosen Jordan",
@@ -228,7 +229,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "I was just thinking that I need to get it together… That's all! I-I'm sorry for making you worry!"
+            "text": "I was just thinking that I need to get it together… That's \nall! I-I'm sorry for making you worry!"
         },
         {
             "name": "Tosen Jordan",
@@ -240,15 +241,15 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "I'm saying! You gotta have fun and eat the yummies and you'll feel better in no time!"
+            "text": "I'm saying! You gotta have fun and eat the yummies \nand you'll feel better in no time!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "I heard you had some trouble with your trainer and all! Let's go grab a burger!"
+            "text": "I heard you had some trouble with your trainer \nand all! Let's go grab a burger!"
         },
         {
             "name": "Docile Classmate",
-            "text": "…Sorry. I can't switch mood that quickly. So… I'll pass. But thanks."
+            "text": "…Sorry. I can't switch mood that quickly. \nSo… I'll pass. But thanks."
         },
         {
             "name": "Tosen Jordan",

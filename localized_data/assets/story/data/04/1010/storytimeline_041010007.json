@@ -5,32 +5,32 @@
             "text": "To increase her abilities even more, \nTaiki Shuttle is attending Summer Training Camp."
         },
         {
-            "text": "Haaa… haaa… and, Goal!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Haaa… haaa… and, Goal!"
         },
         {
-            "text": "Haa, haa… fuuu. \nWith this, am I finished with training?",
             "name": "Taiki Shuttle",
+            "text": "Haa, haa… fuuu. \nWith this, am I finished with training?",
             "choice_data_list": [
                 "Yeah, good work",
                 "Yeah, good work"
             ]
         },
         {
-            "text": "Okay! Truth is, \nthere's something I want to do together.",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Okay! Truth is, \nthere's something I want to do together."
         },
         {
-            "text": "When it comes to training camp… there's also barbeques! \nI've been really, really looking forward to it because of that!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "When it comes to training camp… there's also barbeques! \nI've been really, really looking forward to it because of that!"
         },
         {
-            "text": "I was so excited that I looked up some things on the net! \nThere's lots of delicious things to be found in nature!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "I was so excited that I looked up some things on the net! \nThere's lots of delicious things to be found in nature!"
         },
         {
-            "text": "That's why-… \nlet's find some really fresh ingredients, and have a barbeque!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "That's why-… \nlet's find some really fresh ingredients, and have a barbeque!"
         },
         {
             "text": "Since training's over, she should probably be \nresting now, but… Taiki Shuttle was gazing \nat me with eyes filled with expectations.",
@@ -39,46 +39,46 @@
             ]
         },
         {
-            "text": "Fuooooo~~! Good! \nThank you! Let's get going then!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Funfunfuuun!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Looking right and looking left. \nIf this is the place, then there should be mushrooms around here.",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "They should be way more fresh than the ones sold in stores. \nLet's look for the ultimate mushrooms!",
             "name": "Taiki Shuttle",
+            "text": "Fuooooo~~! Good! \nThank you! Let's get going then!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Funfunfuuun!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Looking right and looking left. \nIf this is the place, then there should be mushrooms around here."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "They should be way more fresh than the ones sold in stores. \nLet's look for the ultimate mushrooms!",
             "choice_data_list": [
                 "Be careful of ones with poison-"
             ]
         },
         {
-            "text": "Aaaaahhh?! Trainer-san! \nLook at this!!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Red with white dots…! Don't tell me, if you eat these \nyou'll become giant like those legendary mushrooms?!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Trainer-san, keep your eyes opened too! \nDo you want to eat these? Okay! Let's get them!",
             "name": "Taiki Shuttle",
+            "text": "Aaaaahhh?! Trainer-san! \nLook at this!!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Red with white dots…! Don't tell me, if you eat these \nyou'll become giant like those legendary mushrooms?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer-san, keep your eyes opened too! \nDo you want to eat these? Okay! Let's get them!",
             "choice_data_list": [
                 "Those are poison mushrooms!"
             ]
         },
         {
-            "text": "Poison?! Oh… they're so cool though, that's too bad…",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Poison?! Oh… they're so cool though, that's too bad…"
         },
         {
-            "text": "Ah! How about those? \nThey're rainbow-colored and look so tasty!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Ah! How about those? \nThey're rainbow-colored and look so tasty!"
         },
         {
             "text": "…maybe she just wanted to go gather mushrooms. \nTaiki Shuttle was in high spirits and when I followed after her-"
@@ -87,8 +87,8 @@
             "text": "…at some point we ended up at the beach."
         },
         {
-            "text": "Oh! Trainer-san! It's the ocean! When you think of the ocean you \nthink of… shellfish! Sea urchin! Let's go!",
             "name": "Taiki Shuttle",
+            "text": "Oh! Trainer-san! It's the ocean! When you think of the ocean you \nthink of… shellfish! Sea urchin! Let's go!",
             "choice_data_list": [
                 "Eh?"
             ]
@@ -97,68 +97,68 @@
             "text": "Before I could stop her, Taiki Shuttle ran towards the ocean!"
         },
         {
-            "text": "Fuu~! I found a lot of shellfish! \nTrainer-san's favorites are probably mixed in too!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Fuu~! I found a lot of shellfish! \nTrainer-san's favorites are probably mixed in too!"
         },
         {
-            "text": "Alright, please follow me!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Alright, please follow me!"
         },
         {
             "text": "Even though it's summer, if she's this soaked \nshe might still catch a cold…",
             "choice_data_list": [
-                "<size=40>Wouldn't it be easier to just buy some…?</size>"
+                "Wouldn't it be easier to just buy some…?"
             ]
         },
         {
-            "text": "No! These are fresh, you know! Fresh! \nI want the tastiest ones!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Alright, let's keep hunting! Here we go!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Wow! Trainer-san, it's a field! There's lots of treasures here! \nJapan's vegetables are tasty so I love them!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Looks like there's an old man working there right now. \nLet's see if he'll share some with us if we help him out!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Let's go! Go go goooo!!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "And, heave-ho!… Fuo. Old man! \nWith this, we've finished pulling all the weeds!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Oh yeah! Both of you, thanks for helping. \nAs promised, take whichever vegetables you'd like.",
-            "name": "Elder Farmer"
-        },
-        {
-            "text": "Yeaaaah! Thank you!…fufu! \nTrainer-san, which vegetables should we pick?",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Once we choose these~…we'll finally be ready for the finale!",
             "name": "Taiki Shuttle",
+            "text": "No! These are fresh, you know! Fresh! \nI want the tastiest ones!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Alright, let's keep hunting! Here we go!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow! Trainer-san, it's a field! There's lots of treasures here! \nJapan's vegetables are tasty so I love them!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Looks like there's an old man working there right now. \nLet's see if he'll share some with us if we help him out!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Let's go! Go go goooo!!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And, heave-ho!… Fuo. Old man! \nWith this, we've finished pulling all the weeds!"
+        },
+        {
+            "name": "Elder Farmer",
+            "text": "Oh yeah! Both of you, thanks for helping. \nAs promised, take whichever vegetables you'd like."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeaaaah! Thank you!…fufu! \nTrainer-san, which vegetables should we pick?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Once we choose these~…we'll finally be ready for the finale!",
             "choice_data_list": [
                 "Starting prep for a barbeque now is…"
             ]
         },
         {
-            "text": "No problem! Leave it to me! \nC'mon, Trainer-san! Hurry up!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "No problem! Leave it to me! \nC'mon, Trainer-san! Hurry up!"
         },
         {
             "text": "With Taiki Shuttle hurrying me, we chose some vegetables. \nAnd then what awaited was-"
         },
         {
-            "text": "Welcome to a Happy Barbeque Party—!!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Welcome to a Happy Barbeque Party—!!"
         },
         {
             "text": "On the beach, probably borrowed from the training camp \nfacilities, there was a barbeque set already prepared…!",
@@ -167,67 +167,67 @@
             ]
         },
         {
-            "text": "Truth is, I woke up early to get prepared!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "That's why, I was glad you didn't say [No] \nwhen I asked you to come with me.",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "We were able to safely gather all the ingredients so, \nit'll definitely be an especially tasty barbeque!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "Please accept this hospitality from me!!",
             "name": "Taiki Shuttle",
+            "text": "Truth is, I woke up early to get prepared!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's why, I was glad you didn't say [No] \nwhen I asked you to come with me."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We were able to safely gather all the ingredients so, \nit'll definitely be an especially tasty barbeque!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Please accept this hospitality from me!!",
             "choice_data_list": [
                 "So it was for me…?",
                 "So it was for me…?"
             ]
         },
         {
-            "text": "Fufuu, Trainer-san, thank you for helping me!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "…whenever I'm feeling lonely and sad. \nYou're always there for me, Trainer-san.",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "That's why, even if my family isn't here, \neveryday I'm full of smiles!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "And that's why, I realized. \nTo me, Trainer-san is definitely-",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "My important, \"Japanese Family\"!",
-            "name": "Taiki Shuttle"
-        },
-        {
-            "text": "That's why, I'm treating you to the barbeque my family in America \nloves, so Trainer-san can learn about it too!",
             "name": "Taiki Shuttle",
+            "text": "Fufuu, Trainer-san, thank you for helping me!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "…whenever I'm feeling lonely and sad. \nYou're always there for me, Trainer-san."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's why, even if my family isn't here, \neveryday I'm full of smiles!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And that's why, I realized. \nTo me, Trainer-san is definitely-"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "My important, \"Japanese Family\"!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "That's why, I'm treating you to the barbeque my family in America \nloves, so Trainer-san can learn about it too!",
             "choice_data_list": [
                 "Thank you, I'm happy!"
             ]
         },
         {
-            "text": "Fufu, yes! My surprise was a success!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Fufu, yes! My surprise was a success!"
         },
         {
-            "text": "Alright! Trainer-san, what do you want to eat first? \nLeave the service to me!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "Alright! Trainer-san, what do you want to eat first? \nLeave the service to me!"
         },
         {
-            "text": "These ingredients are all for you, Trainer-san! \nThese are all here so Trainer-san can eat them!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "These ingredients are all for you, Trainer-san! \nThese are all here so Trainer-san can eat them!"
         },
         {
-            "text": "I'll put my heart in to cooking these for you. \nPlease eat your fill!",
-            "name": "Taiki Shuttle"
+            "name": "Taiki Shuttle",
+            "text": "I'll put my heart in to cooking these for you. \nPlease eat your fill!"
         },
         {
             "text": "Taiki Shuttle's barbeque filled not only my stomach, \nbut my heart as well."

@@ -8,8 +8,8 @@
             "text": "I couldn't reach her phone, so I decided \nto check up on her at her place."
         },
         {
-            "text": "I-I'll be right there…! Oh dear, is that another package? \nI'm sorry, give me a min—… uaaaaah!?",
             "name": "Maruzensky",
+            "text": "I-I'll be right there…! Oh dear, is that another package? \nI'm sorry, give me a min—… uaaaaah!?",
             "choice_data_list": [
                 "Are you okay!?",
                 "Are you okay!?"
@@ -22,117 +22,117 @@
             "text": "… There, buried in cardboard, laid Maruzensky."
         },
         {
-            "text": "… Sorry for startling you earlier.",
             "name": "Maruzensky",
+            "text": "… Sorry for startling you earlier.",
             "choice_data_list": [
-                "<size=40>Why was there a mountain of cardboard…</size>"
+                "Why was there a mountain of cardboard…"
             ]
         },
         {
-            "text": "You know how when you order online, it arrives in cardboard \nboxes? And, umm… they don't disappear on their own?",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "You know…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "… Ugh! Fine, I haven't gotten around to cleaning up! \nIt was all packages you saw…!",
             "name": "Maruzensky",
+            "text": "You know how when you order online, it arrives in cardboard \nboxes? And, umm… they don't disappear on their own?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You know…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "… Ugh! Fine, I haven't gotten around to cleaning up! \nIt was all packages you saw…!",
             "choice_data_list": [
                 "You don't like cleaning?",
                 "I take it tidying up isn't your forte?"
             ]
         },
         {
-            "text": "Ummm… how do I put it.",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I can get all stoked for it when I have guests over, you know? \nThen I'm cleaning every nook and cranny.",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "But when I'm alone, I just can't get in the groove…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "This morning I dropped my cell somewhere on cardboard mountain, \nand I was looking for it when you came over…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "This morning I dropped my cell somewhere on cardboard mountain, \nand I was looking for it when you came over…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I can't believe you saw that mess on top of me being late. \nHaa, I should keep the place tidy…",
             "name": "Maruzensky",
+            "text": "Ummm… how do I put it."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can get all stoked for it when I have guests over, you know? \nThen I'm cleaning every nook and cranny."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But when I'm alone, I just can't get in the groove…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "This morning I dropped my cell somewhere on cardboard mountain, \nand I was looking for it when you came over…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "This morning I dropped my cell somewhere on cardboard mountain, \nand I was looking for it when you came over…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can't believe you saw that mess on top of me being late. \nHaa, I should keep the place tidy…",
             "choice_data_list": [
                 "I'll help you tidy it up."
             ]
         },
         {
-            "text": "Wha!? My place? Are you sure?",
             "name": "Maruzensky",
+            "text": "Wha!? My place? Are you sure?",
             "choice_data_list": [
                 "It's more fun with two, right?",
                 "It's more fun with two, right?"
             ]
         },
         {
-            "text": "… Yeah. If you're down with it, then I'm down with it!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "… Yeah. If you're down with it, then I'm down with it!"
         },
         {
-            "text": "… Yeah. If you're down with it, then let's jive!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "… Yeah. If you're down with it, then let's jive!"
         },
         {
-            "text": "Thankies♪ Let's go, trainer!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Thankies♪ Let's go, trainer!"
         },
         {
-            "text": "Thankies♪ Let's go, trainer!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Thankies♪ Let's go, trainer!"
         },
         {
             "text": "We went back to her place and for a few hours, packages were \nsorted and cardboard put in piles."
         },
         {
-            "text": "Thanks, trainer! It's so much nicer now!",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "Thanks, trainer! It's so much more refreshing now!",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I'll treat you to whatever you want \nin return. Don't be shy♪",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "In fact, why don't I make you something myself? This morning \naside, I can whip up a mean plate!",
             "name": "Maruzensky",
+            "text": "Thanks, trainer! It's so much nicer now!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Thanks, trainer! It's so much more refreshing now!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'll treat you to whatever you want \nin return. Don't be shy♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "In fact, why don't I make you something myself? This morning \naside, I can whip up a mean plate!",
             "choice_data_list": [
                 "So you usually do cook?",
                 "So cooking you do feel like?"
             ]
         },
         {
-            "text": "Mmm～ about as much as I clean. It's hard to \nfeel like it when I'm alone, same thing.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Mmm～ about as much as I clean. It's hard to \nfeel like it when I'm alone, same thing."
         },
         {
-            "text": "But today, you're here! So what would you like? \nEastern, Western, just say the word♪",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "But today, you're here! So what would you like? \nEastern, Western, just say the word♪"
         },
         {
-            "text": "But today, you're here! So what would you like? \nEastern, Western, just say the word♪",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "But today, you're here! So what would you like? \nEastern, Western, just say the word♪"
         },
         {
-            "text": "I'm going to go all out, look forward to it!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "I'm going to go all out, look forward to it!"
         },
         {
             "text": "Having gone out of her way to even buy new seasonings, Maruzensky \nstarted on dinner. She wasn't kidding about her cooking skills, \nand one by one dishes appeared—"
@@ -141,135 +141,135 @@
             "text": "Neither presentation nor taste would \nbe out of place in a restaurant!"
         },
         {
-            "text": "Whoo! That was great. What did you think, are you satisfied?",
             "name": "Maruzensky",
+            "text": "Whoo! That was great. What did you think, are you satisfied?",
             "choice_data_list": [
                 "It was delicious!"
             ]
         },
         {
-            "text": "Whoo! That was great. What did you think, are you satisfied?",
             "name": "Maruzensky",
+            "text": "Whoo! That was great. What did you think, are you satisfied?",
             "choice_data_list": [
                 "It was delicious!"
             ]
         },
         {
-            "text": "Hehehe, great♪",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Hehehe, great♪"
         },
         {
-            "text": "You helped me out so much today and I'm still regretting this \nmorning, so I wanted to make it up to you.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "You helped me out so much today and I'm still regretting this \nmorning, so I wanted to make it up to you."
         },
         {
-            "text": "You helped me out so much today and I'm still ashamed of this \nmorning, so I wanted to make it up to you.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "You helped me out so much today and I'm still ashamed of this \nmorning, so I wanted to make it up to you."
         },
         {
-            "text": "I'm so relieved you liked it! Now I just need to—",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "I'm so relieved you liked it! Now I just need to—"
         },
         {
-            "text": "… make sure that those packages don't become a problem again.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "… make sure that those packages don't become a problem again."
         },
         {
-            "text": "But that's the hard part, isn't it～? \nHow do I get motivated to tidy up?",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "But that's the hard part, isn't it～? \nHow do I get motivated to tidy up?"
         },
         {
-            "text": "I don't mind it, but I can't bring myself to \njust do it like I can running or dancing.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "I don't mind it, but I can't bring myself to \njust do it like I can running or dancing."
         },
         {
+            "name": "Maruzensky",
             "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?",
-            "name": "Maruzensky",
             "choice_data_list": [
                 "Fine with me."
             ]
         },
         {
-            "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?",
             "name": "Maruzensky",
+            "text": "… Oh! How about you drop by to check on me \nonce in a while? Wouldn't that work?",
             "choice_data_list": [
                 "All right."
             ]
         },
         {
-            "text": "Really? Then in return… I'll treat you to home-cooked meals♪",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "You dropping by, and cooking for you means…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "You dropping by, and cooking for you means…",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I can keep my place neat, and we can enjoy meals together!",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I'm so happy. Motivation aside, eating alone \nis so dull I couldn't enjoy the taste!",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "Problems solved and fun times ahead! Thanks, trainer♪",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "Problems solved and fun times ahead! Thanks, trainer♪",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "Well, it's about time to go home.",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "… We tidied up together and ate dinner together.",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "It doesn't sound like much but I really enjoyed our time. I \nalready can't wait to do it again!",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "Hmhm. I really shouldn't be happy for someone \nto come checking my place for clutter.",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "… I know! Why don't you just move in next door? You wouldn't have \nto go back and forth to drop by… Cool?",
-            "name": "Maruzensky"
-        },
-        {
-            "text": "I'm pretty sure the room next door is vacant \nright now, I'll go check it out!",
             "name": "Maruzensky",
+            "text": "Really? Then in return… I'll treat you to home-cooked meals♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You dropping by, and cooking for you means…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You dropping by, and cooking for you means…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I can keep my place neat, and we can enjoy meals together!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm so happy. Motivation aside, eating alone \nis so dull I couldn't enjoy the taste!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Problems solved and fun times ahead! Thanks, trainer♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Problems solved and fun times ahead! Thanks, trainer♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, it's about time to go home."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "… We tidied up together and ate dinner together."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "It doesn't sound like much but I really enjoyed our time. I \nalready can't wait to do it again!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmhm. I really shouldn't be happy for someone \nto come checking my place for clutter."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "… I know! Why don't you just move in next door? You wouldn't have \nto go back and forth to drop by… Cool?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I'm pretty sure the room next door is vacant \nright now, I'll go check it out!",
             "choice_data_list": [
                 "W-whoa there!"
             ]
         },
         {
-            "text": "Aww, boo♪",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Aww, boo♪"
         },
         {
-            "text": "… Hehe. Oh you're so cute getting all flustered, trainer!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "… Hehe. Oh you're so cute getting all flustered, trainer!"
         },
         {
-            "text": "… Hehe. Oh you're so cute getting all flustered, trainer!",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "… Hehe. Oh you're so cute getting all flustered, trainer!"
         },
         {
-            "text": "Well anyway… \nI'd be happy for you to drop by whenever.",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Well anyway… \nI'd be happy for you to drop by whenever."
         },
         {
-            "text": "Even every day… ♪",
-            "name": "Maruzensky"
+            "name": "Maruzensky",
+            "text": "Even every day… ♪"
         },
         {
             "text": "With a mischievous smile, Maruzensky got \ninto her beloved car and drove off…"

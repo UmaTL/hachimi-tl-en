@@ -1,34 +1,35 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Finally, a precious day off. I had planned to use this day to improve myself."
+            "text": "Finally, a precious day off. \nI had planned to use this day to improve myself."
         },
         {
-            "text": "I thought that if I wanted to support Daiichi Ruby, who is always striving to be the best, I also need to improve myself."
+            "text": "I thought that if I wanted to support Daiichi Ruby, \nwho is always striving to be the best, I also need \nto improve myself."
         },
         {
-            "text": "I meet Daiichi Ruby at a large bookstore I visited. I carry a large number of books that I have bought in a variety of genres."
+            "text": "I meet Daiichi Ruby at a large bookstore I visited. \nI carry a large number of books that I have \nbought in a variety of genres."
         },
         {
             "name": "Daiichi Ruby",
             "text": "……I see, for the sake of improvement?"
         },
         {
-            "text": "I thought she would be appalled by the number of book, but that didn't happen. It look like she is looking for a book too.",
+            "text": "I thought she would be appalled by the \nnumber of book, but that didn't happen. \nIt look like she is looking for a book too.",
             "choice_data_list": [
                 "What are Ruby looking for?"
             ]
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Today, I came here to purchase the catalogue of the current art exhibition."
+            "text": "Today, I came here to purchase the catalogue of \nthe current art exhibition."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "It was already sold out in the exhibition hall where it is being held, It's this one…"
+            "text": "It was already sold out in the exhibition hall \nwhere it is being held, It's this one…"
         },
         {
-            "text": "Daiichi Ruby showed me a thick book filled with detailed explanations along with photographs of the paintings."
+            "text": "Daiichi Ruby showed me a thick book filled \nwith detailed explanations along with \nphotographs of the paintings."
         },
         {
             "name": "Daiichi Ruby",
@@ -36,21 +37,21 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "It is a great way to quickly access expert opinions, the explanations and supplements are substantial, it's very informative."
+            "text": "It is a great way to quickly access expert opinions, \nthe explanations and supplements are substantial, \nit's very informative."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Trainer-san also seems to have purchased art history books. If you are interested, you may find these catalogs helpful―",
+            "text": "Trainer-san also seems to have purchased art \nhistory books. If you are interested, you may \nfind these catalogs helpful―",
             "choice_data_list": [
                 "I'll take it!!"
             ]
         },
         {
             "name": "Daiichi Ruby",
-            "text": "…It's not my intention to point it out but, I see that you have already purchased quite a few books."
+            "text": "…It's not my intention to point it out but, \nI see that you have already purchased quite a few books."
         },
         {
-            "text": "It's true that I already pick up a lot of thing. The expense will be considerable. But this is also for study ……",
+            "text": "It's true that I already pick up a lot of thing. \nThe expense will be considerable. But this is also for study ……",
             "choice_data_list": [
                 "Because I want to try my best to match you",
                 "Because I want to try my best to match you"
@@ -62,39 +63,39 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "…Trainer-san, do you have plan after this? If you have time, I would like to bring you somewhere."
+            "text": "…Trainer-san, do you have plan after this? \nIf you have time, I would like to bring you somewhere."
         },
         {
-            "text": "I was allowed to ride in Daiichi Ruby's car, after that we arrived at an art museum where an exhibition of the catalog I had purchased is being held."
-        },
-        {
-            "name": "Daiichi Ruby",
-            "text": "I was planning to visit this art exhibition today. Catalogs are nothing more than a stepping stone for understanding the works."
+            "text": "I was allowed to ride in Daiichi Ruby's car, after that \nwe arrived at an art museum where an exhibition \nof the catalog I had purchased is being held."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "There are lessons you can only learn from seeing the real thing. Now, let's go."
-        },
-        {
-            "text": "Daiichi Ruby guided me through the museum. She seemed to have done a lot of research before, her explanations are very thorough."
+            "text": "I was planning to visit this art exhibition today. \nCatalogs are nothing more than a stepping \nstone for understanding the works."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "―All of the works on display today are by the same artist, who hails from Tohoku."
+            "text": "There are lessons you can only learn from seeing \nthe real thing. Now, let's go."
+        },
+        {
+            "text": "Daiichi Ruby guided me through the museum. \nShe seemed to have done a lot of research before, \nher explanations are very thorough."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "The realistic brushwork and ethereal expression are the essence of his work, it is highly regarded for its profound and subtle style."
+            "text": "―All of the works on display today are by the \nsame artist, who hails from Tohoku."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "The realistic brushwork and ethereal expression \nare the essence of his work, it is highly \nregarded for its profound and subtle style."
         },
         {
             "name": "Daiichi Ruby",
             "text": "Also in the exhibit over there―"
         },
         {
-            "text": "Even after leaving the exhibition I can still feel the excitement. Thanks to Daiichi Ruby's explanation, I feel I was able to appreciate the paintings more deeply."
+            "text": "Even after leaving the exhibition I can still feel the excitement. \nThanks to Daiichi Ruby's explanation, I feel I was able to \nappreciate the paintings more deeply."
         },
         {
-            "text": "Although I felt tired because we spent so much time on each point, but I was able to spend a day filled with a sense of fulfillment.",
+            "text": "Although I felt tired because we spent so much \ntime on each point, but I was able to spend a \nday filled with a sense of fulfillment.",
             "choice_data_list": [
                 "It was very informative!"
             ]
@@ -108,10 +109,10 @@
             ]
         },
         {
-            "text": "Daiichi Ruby lives on a minute-by-minute schedule. She too spend her free time free time enjoying things she likes."
+            "text": "Daiichi Ruby lives on a minute-by-minute schedule. \nShe too spend her free time free time enjoying \nthings she likes."
         },
         {
-            "text": "I am more than happy to know that. That's what I was thinking―"
+            "text": "I am more than happy to know that. \nThat's what I was thinking―"
         },
         {
             "name": "Daiichi Ruby",
@@ -119,51 +120,51 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "I heard that the guest of honor at the next gathering was from the same hometown as today's artist, so I went to see it."
+            "text": "I heard that the guest of honor at the next gathering \nwas from the same hometown as today's artist, \nso I went to see it."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "I hope it will be a good conversation piece. Because there are people who have a deep knowledge of art."
+            "text": "I hope it will be a good conversation piece. \nBecause there are people who have a deep knowledge of art."
         },
         {
-            "text": "Daiichi Ruby was enthusiastically taking notes during the viewing. That's why I thought that this is her favorite artist―",
+            "text": "Daiichi Ruby was enthusiastically taking notes \nduring the viewing. That's why I thought that \nthis is her favorite artist―",
             "choice_data_list": [
                 "All of that for just a single meeting?"
             ]
         },
         {
             "name": "Daiichi Ruby",
-            "text": "I believe that meticulous preparation in advance is the best form of courtesy."
+            "text": "I believe that meticulous preparation in advance \nis the best form of courtesy."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Besides, this kind of experience will be my own food for thought. I want to make full use of the opportunity to learn."
+            "text": "Besides, this kind of experience will be my own \nfood for thought. I want to make full use of the \nopportunity to learn."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "The guideline for deciding actions is whether it is necessary or not, not likes or dislikes. I only feel that it is \"necessary\" to visit here today."
+            "text": "The guideline for deciding actions is whether it is \nnecessary or not, not likes or dislikes. \nI only feel that it is \"necessary\" to visit here today."
         },
         {
-            "text": "Daiichi Ruby said that and stretched her back. I understood that this integrity of her is the core of who she was."
+            "text": "Daiichi Ruby said that and stretched her back. I \nunderstood that this integrity of her is the \ncore of who she was."
         },
         {
             "text": "Still, at that time――"
         },
         {
-            "text": "It was in front of a painting of a starry sky. It was unusual that she didn't say anything, just looked straight at it."
+            "text": "It was in front of a painting of a starry sky. \nIt was unusual that she didn't say anything, \njust looked straight at it."
         },
         {
             "name": "Daiichi Ruby",
             "text": "……Scorpion's Fire……"
         },
         {
-            "text": "Only that painting seemed to show her something other than family obligations. When I asked her she would not give me an answer."
+            "text": "Only that painting seemed to show her something \nother than family obligations. When I asked her \nshe would not give me an answer."
         },
         {
-            "text": "After returning home. I looked up the painting that she was looking at in the catalogue. The title is \"Antares\" - the heart of Scorpius, the star of summer."
+            "text": "After returning home. I looked up the painting that she \nwas looking at in the catalogue. The title is \n\"Antares\" - the heart of Scorpius, the star of summer."
         },
         {
-            "text": "Among the stars that glitter white, there is a single solitary star that shines bright red. It feel similar to her… that's what I thought."
+            "text": "Among the stars that glitter white, there is a \nsingle solitary star that shines bright red. \nIt feel similar to her… that's what I thought."
         }
     ]
 }

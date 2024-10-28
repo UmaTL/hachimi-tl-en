@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "On one certain night―"
@@ -16,11 +17,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Ah, Trainer. Yes, that's right. Just a little review to prepare for tomorrow's quiz."
+            "text": "Ah, Trainer. Yes, that's right. Just a little \nreview to prepare for tomorrow's quiz."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But there were some difficult parts, and it took longer than I expected.",
+            "text": "But there were some difficult parts, \nand it took longer than I expected.",
             "choice_data_list": [
                 "In that case, should we reduce \ntraining time tomorrow?",
                 "In that case, should we reduce \ntraining time tomorrow?"
@@ -28,14 +29,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, there's no need to go that far. As a Mejiro horsegirl, it's only natural to be able to balance both academics and training."
+            "text": "No, there's no need to go that far. As a Mejiro horsegirl, it's only \nnatural to be able to balance both academics and training."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Therefore, let's proceed with tomorrow's training as usual. I look forward to it."
+            "text": "Therefore, let's proceed with tomorrow's \ntraining as usual. I look forward to it."
         },
         {
-            "text": "As per the request of Mejiro Mcqueen, training continued as usual the following day."
+            "text": "As per the request of Mejiro Mcqueen, training \ncontinued as usual the following day."
         },
         {
             "text": "However…"
@@ -45,7 +46,7 @@
             "text": "…………"
         },
         {
-            "text": "Perhaps due to exhaustion from last night's study, Mejiro Mcqueen looked sleepy during the meeting after training.",
+            "text": "Perhaps due to exhaustion from last night's study, Mejiro \nMcqueen looked sleepy during the meeting after training.",
             "choice_data_list": [
                 "…… Are you awake?",
                 "…… Are you awake?"
@@ -57,14 +58,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "W-why of course I'm awake! A horsegirl of the proud Mejiro family would never doze off!"
+            "text": "W-why of course I'm awake! A horsegirl of the \nproud Mejiro family would never doze off!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "If I'm not mistaken, we were reflecting on today's training…?"
         },
         {
-            "text": "Given the situation, it might be a good idea to go over this again. Thinking that, I began to review the training once more, but―"
+            "text": "Given the situation, it might be a good idea to go over this again. \nThinking that, I began to review the training once more, but―"
         },
         {
             "name": "Mejiro McQueen",
@@ -84,7 +85,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So, please go ahead and continue. I will make sure to pay attention.",
+            "text": "So, please go ahead and continue. \nI will make sure to pay attention.",
             "choice_data_list": [
                 "Let's call it a day."
             ]
@@ -127,14 +128,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have been getting proper sleep, and I certainly wasn't dozing off just then, either!"
+            "text": "I have been getting proper sleep, and I certainly \nwasn't dozing off just then, either!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "At least that much is true! I really, really, mean it!!"
         },
         {
-            "text": "It seems like Mejiro McQueen, who keeps her weaknesses to herself, will need continued support to ensure she doesn't push herself too hard."
+            "text": "It seems like Mejiro McQueen, who keeps her weaknesses \nto herself, will need continued support to ensure she doesn't \npush herself too hard."
         }
     ]
 }

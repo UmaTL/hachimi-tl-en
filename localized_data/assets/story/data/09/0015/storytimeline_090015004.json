@@ -1,64 +1,65 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Zenno Rob Roy",
-            "text": "\"A rowan tree with a large hollow near its base stands out…\" ……Mm, this is the \"Lonely River\" for sure!"
+            "text": "\"A rowan tree with a large hollow near its base stands out…\" \n……Mm, this is the \"Lonely River\" for sure!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "A large hollow…… that thing? Oh, sorry I keep asking stuff! I really wanted to prepare for what's in store!"
+            "text": "A large hollow…… that thing? Oh, sorry I keep asking stuff! \nI really wanted to prepare for what's in store!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "But I couldn't quite find the original movie. I may have to rely on you today, Rob Roy."
+            "text": "But I couldn't quite find the original movie. \nI may have to rely on you today, Rob Roy."
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "(That's right… I'm the only one who knows the story. …… I-I have to stand firm……!)"
+            "text": "(That's right… I'm the only one who knows the story. \n…… I-I have to stand firm……!)"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "T-The challenge for us here is to cross the stone path over the river and retrieve the stone from the pedestal."
+            "text": "T-The challenge for us here is to cross the stone path over \nthe river and retrieve the stone from the pedestal."
         },
         {
             "name": "El Condor Pasa",
-            "text": "¿Que? But I don't see a stone path or pedestal anywheeere!"
+            "text": "¿Que? \nBut I don't see a stone path or pedestal anywheeere!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "There's actually a mechanism for that……! When you flip a switch, the stones and pedestal rise up from the river!"
+            "text": "There's actually a mechanism for that……! When you flip \na switch, the stones and pedestal rise up from the river!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "And that switch is right here, in the hollow at the base of this big tree— ……Huh?"
+            "text": "And that switch is right here, in the hollow at the base \nof this big tree— ……Huh?"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "T-That's strange… there should be a switch here… Instead, there's something written… \"The forest's longest beard\"…?"
+            "text": "T-That's strange… there should be a switch here… Instead, \nthere's something written… \"The forest's longest beard\"…?"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Maybe they changed it because there wouldn't be much riddle solving if it was the same as the movie?"
+            "text": "Maybe they changed it because there wouldn't be much \nriddle solving if it was the same as the movie?"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Ahh…! Of course……! Uuuh… ummm… Let's start by looking for it……!"
+            "text": "Ahh…! Of course……! Uuuh… ummm… \nLet's start by looking for it……!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "¡Uuuf, It is nowhere to be found! What is \"the forest's longest beard\" anywayyy?"
+            "text": "¡Uuuf, It is nowhere to be found! \nWhat is \"the forest's longest beard\" anywayyy?"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Hey, El-chan, El-chan! Lookie here, this ivy is crazy thick and long～! Stretches from the top of this tree… all the way to the river!?"
+            "text": "Hey, El-chan, El-chan! Lookie here, this ivy is \ncrazy thick and long～! Stretches from the top \nof this tree… all the way to the river!?"
         },
         {
             "name": "El Condor Pasa",
-            "text": "It's so thick you can swing on iiit! Tannhäuser, go!"
+            "text": "It's so thick you can swing on iiit! \nTannhäuser, go!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Roger! Swingy-swing shingali～ng! Ahaha, <i>I'll be the best ape ever</i>―"
+            "text": "Roger! Swingy-swing shingali～ng! \nAhaha, <i>I'll be the best ape ever</i>―"
         },
         {
             "text": "(……CLICK)"
@@ -84,51 +85,51 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Has someone found the switch? Let's see, when the stone appears…… what do we do again?"
+            "text": "Has someone found the switch? \nLet's see, when the stone appears…… what do we do again?"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "I-I'm sorry! Um, we have to go right away. I-I'll be right there—"
+            "text": "I-I'm sorry! \nUm, we have to go right away. I-I'll be right there—"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Calm down, Rob Roy! What's going on?"
+            "text": "Calm down, Rob Roy! \nWhat's going on?"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "…… Well, if this contraption is the same as in \"Rhodonite\", the stone will only be up for a few minutes……!"
+            "text": "…… Well, if this contraption is the same as in \"Rhodonite\", \nthe stone will only be up for a few minutes……!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "So it's time-limited. Then can't we press the switch agai—"
+            "text": "So it's time-limited. \nThen can't we press the switch agai—"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "That won't work. \"By moonlight, the magic replenishes―\" In other words, this contraption can only move once a day…!"
+            "text": "That won't work. \"By moonlight, the magic replenishes―\" \nIn other words, this contraption can only move once a day…!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Wao!? Then we can't miss it! <i>Okay</i>, I'm confident in my speed!"
+            "text": "Wao!? Then we can't miss it! \n<i>Okay</i>, I'm confident in my speed!"
         },
         {
             "name": "Both",
-            "text": "Wait, hey……!? Ah, T-Taiki……!"
+            "text": "Wait, hey……!? \nAh, T-Taiki……!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "―Quickly, carefully…! Hop hop…… hup! Whoa, it's pretty slippery."
+            "text": "―Quickly, carefully…! Hop hop…… hup! \nWhoa, it's pretty slippery."
         },
         {
             "name": "Mejiro Dober",
-            "text": "I-is she going to be okay… If she doesn't get back quick the stone will sink, right?"
+            "text": "I-is she going to be okay… \nIf she doesn't get back quick the stone will sink, right?"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Yes…! I believe you are actually supposed to get there holding a long ivy that stretches all the way here as a safety precaution, but we haven't found that yet……!"
+            "text": "Yes…! I believe you are actually supposed to get there \nholding a long ivy that stretches all the way here as a \nsafety precaution, but we haven't found that yet……!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ohh! Is that so!? But…… <i>don't worry</i>! I've almost reached this rock―"
+            "text": "Ohh! Is that so!? But…… <i>don't worry</i>! \nI've almost reached this rock―"
         },
         {
             "text": "(Zb…… Shzszs……)"
@@ -146,7 +147,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "―Pwaah! What!? I-I'm drifting away!?"
+            "text": "―Pwaah! \nWhat!? I-I'm drifting away!?"
         },
         {
             "name": "Matikanetannhauser",
@@ -158,7 +159,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "I think I just hit the switchy thing, sorry! ……You got a hold of me, Taiki? Then here we go!"
+            "text": "I think I just hit the switchy thing, sorry! \n……You got a hold of me, Taiki? Then here we go!"
         },
         {
             "name": "Matikanetannhauser",

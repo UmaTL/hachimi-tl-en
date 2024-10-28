@@ -1,0 +1,242 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today, Rice Shower and I were at the beach for the first \nday of summer training camp. Wasting no time, we dove \nstraight into our training, however ——"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big brother?",
+            "choice_data_list": [
+                "You're making steady progress, but…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big sister?",
+            "choice_data_list": [
+                "You're making steady progress, but…",
+                "You're making steady progress, but…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahh… we haven't quite reached our goal, right? \nI'm sorry… it's because I'm not good enough…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… But, you know, I understand where I'm having issues. \nS-So I want to keep trying until I overcome them.",
+            "choice_data_list": [
+                "Good stuff! Keep giving it your all!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah! If I keep working on one weakness at a time… \nkeep learning new things, then slowly, but surely……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… Even someone like me can run faster!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm going to go for one more lap, big brother!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm going to go for one more lap, big sister!"
+        },
+        {
+            "text": "Eyes filled with determination, Rice Shower sprinted ahead \nwith bold strides that reflected her unwavering resolve. \nWhile watching over her, I heard a little voice ——"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "… Wow, that's so amazing! Even though she's \nbeen at it for a while, she's still running!",
+            "choice_data_list": [
+                "You are…?",
+                "You are…?"
+            ]
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "… Ah! E-Excuse me. Please ignore what I said…!"
+        },
+        {
+            "text": "The small horsegirl frantically dashed away into the distance…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahhh, I'm beat…!!",
+            "choice_data_list": [
+                "Well done, Rice! We reached our goal!",
+                "Well done, Rice! We reached our goal!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah… R-Really?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-Yay… Yaaaaayyy～!!! We did it!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It took a while… but I'm glad I was able to pull it off in the end!"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "… Wow, that's incredible."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hmm…?"
+        },
+        {
+            "text": "As I glanced over to Rice Shower, I noticed the small \nhorsegirl from earlier was standing by her side."
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "You're Rice, right? You're so amazing… \nI've never seen anyone work so hard before!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Amazing? Huh… me?! \n… N-No way, not at all! Far from it…!"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "It's true though! I saw you running this whole time \nwithout taking any breaks. Completely different from \nme, who easily gives up……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "T-There's been many times when I want to give up, too! \n… Really… lots of times……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You see, I'm always failing, and I'm not very talented… \nBecause I don't like that about myself, I keep thinking, \n\"I want to change! I'm done with staying like this!\"."
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "Is that so? But… But then, how are you able to work so hard?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Well, that's because ——"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…… Because I found my ideal self that I want to pursue."
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "Your ideal self…?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, that's right. I wanted to become someone who \ncould do all sorts of things, like being good at racing, \nmaking everyone happy. Those kind of things!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Once I made up my mind there was no turning back. \nTo achieve my goal, I needed to push myself further. \nI wanted to run… I <i>had</i> to run. Harder, and faster…!"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "……!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "A-Ah, umm… I'm sorry. I'm not very good with words…! \nSo I might not have answered your question very well!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-Huh…… <i>whaaaaa</i>?!"
+        },
+        {
+            "text": "(<i>WOOOOOOSHHH</i>!!)"
+        },
+        {
+            "text": "Out of nowhere, a massive wave came roaring \ndown and drenched all of us from head to toe!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Cough, cough…! </i> Aaaaahhhh, I'm so sorry! \nIt's because you're with me this happened…!"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "<i>Cough, cough! </i> \n…… Pfffftt, bahahahahaha!!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-Huh? What's so funny…?"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "Ahahaha, sorry. Maybe it's because of that big wave hitting it, \nbut my head feels all clear and refreshed now!"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "Thank you, Rice… Thanks to you, I was able \nto remember something very important."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hm… Hmm…?"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "I almost forgot the feeling of wanting to become stronger, \nto become faster… If I hold on to those feelings, then that \nmeans there's no time to be thinking about giving up, right?"
+        },
+        {
+            "name": "Small Horsegirl",
+            "text": "I get it now! I'm gonna go for a quick run～! \nThanks for the help, Rice! I'll see you in a race next!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-Why…? It's because of me that she's all drenched like this… \nSo… why is she thanking me…?",
+            "choice_data_list": [
+                "Because you're the one who inspired her."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-Huh, me? I… inspired her…? \n<i>Sob… sob…</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Uwaaaahh!!</i>"
+        },
+        {
+            "text": "The weight of all her struggles and emotions came \ncrashing down on her at once. I decided to stay with \nher to give her comfort until night time."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sorry… for suddenly crying on you like that… \nBut… I was just so happy."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That was my first time. To be able to inspire someone \nlike that instead of bringing them unhappiness…",
+            "choice_data_list": [
+                "You definitely lit up her world!",
+                "You definitely lit up her world!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "……! Mm… If that's the case then I'm really happy about that…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You see, up until now, I've always hated myself for who I am…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But, maybe… maybe, just a <i>tiny</i> bit, I don't \nmind myself that much today… Ehehe."
+        },
+        {
+            "text": "Rice Shower's slightly bashful smile illuminated the night \nsky more than any of its twinkling stars, radiating warmth \nand joy amidst the cool night air."
+        }
+    ]
+}

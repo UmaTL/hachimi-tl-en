@@ -5,50 +5,50 @@
             "text": "One day, in the afternoon. I was heading to the \ntrainers' offices when I heard a familiar voice."
         },
         {
-            "text": "――You over there. \n――A notice for you.",
-            "name": "Symboli Kris S"
-        },
-        {
-            "text": "Hiii……!? A notice…… \np-punishment……!?",
-            "name": "Uma Musume A"
-        },
-        {
-            "text": "No―――…………",
             "name": "Symboli Kris S",
+            "text": "――You over there. \n――A notice for you."
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Hiii……!? A notice…… \np-punishment……!?"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "No―――…………",
             "choice_data_list": [
                 "Is something wrong?",
                 "Is something wrong?"
             ]
         },
         {
-            "text": "――There's something ――I need to hand this person. \n…………Documents. ――from the committee.",
-            "name": "Symboli Kris S"
-        },
-        {
-            "text": "Committee――……Ah! It was a requisition form \nfor club activities!? Um…… I-I'll hold on to it……!",
-            "name": "Uma Musume A"
-        },
-        {
-            "text": "――Case 1, resolved.",
             "name": "Symboli Kris S",
+            "text": "――There's something ――I need to hand this person. \n…………Documents. ――from the committee."
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Committee――……Ah! It was a requisition form \nfor club activities!? Um…… I-I'll hold on to it……!"
+        },
+        {
+            "name": "Symboli Kris S",
+            "text": "――Case 1, resolved.",
             "choice_data_list": [
                 "In the middle of an errand?"
             ]
         },
         {
-            "text": "……Student council work. ――Rudolf is busy. So―― she asked me.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……Student council work. ――Rudolf is busy. So―― she asked me."
         },
         {
             "text": "Seems like she noticed how busy the student council president \nwas and offered to help. She was as dutiful as ever."
         },
         {
-            "text": "I want to become my mentor's results―― is what I thought.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "I want to become my mentor's results―― is what I thought."
         },
         {
-            "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission."
         },
         {
             "text": "It was repayment of gratitude to the Symboli family―― I could \nrespect that. ……But, this would probably be tough for her.",
@@ -57,71 +57,71 @@
             ]
         },
         {
-            "text": "Ahahaa, thenー that's when my dadーー whoa!? \nS-s-s-s-sorry, were we being noisy!?",
-            "name": "Uma Musume B"
+            "name": "Horsegirl B",
+            "text": "Ahahaa, thenー that's when my dadーー whoa!? \nS-s-s-s-sorry, were we being noisy!?"
         },
         {
-            "text": "No―― documents.",
             "name": "Symboli Kris S",
+            "text": "No―― documents.",
             "choice_data_list": [
                 "From the committee――"
             ]
         },
         {
-            "text": "From the committee!? T-that's a relief, I thought you were mad―― \n……Ah…… A-anyways! Thank you very much!",
-            "name": "Uma Musume C"
+            "name": "Horsegirl C",
+            "text": "From the committee!? T-that's a relief, I thought you were mad―― \n……Ah…… A-anyways! Thank you very much!"
         },
         {
             "text": "And so, the distribution of documents went smoothly, but――"
         },
         {
-            "text": "Whoa whoa! ……Huu…… I guess carrying 3 buckets is too much. \nBut I need to hurry――",
-            "name": "Uma Musume D"
+            "name": "Horsegirl D",
+            "text": "Whoa whoa! ……Huu…… I guess carrying 3 buckets is too much. \nBut I need to hurry――"
         },
         {
-            "text": "――Wait. You over there.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――Wait. You over there."
         },
         {
-            "text": "Hyaa!? Ah……!",
-            "name": "Uma Musume D"
+            "name": "Horsegirl D",
+            "text": "Hyaa!? Ah……!"
         },
         {
             "text": "(Slam! ――Splash!)"
         },
         {
-            "text": "……――――",
             "name": "Symboli Kris S",
+            "text": "……――――",
             "choice_data_list": [
                 "The water! A-are you okay!?",
                 "The water! A-are you okay!?"
             ]
         },
         {
-            "text": "……The documents didn't get wet.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……The documents didn't get wet."
         },
         {
+            "name": "Horsegirl D",
             "text": "I-……I-I-I-I'm soooo sorry!!! \n……T-towel, a towel! I'll go get a towelーー!!!",
-            "name": "Uma Musume D",
             "choice_data_list": [
                 "For now, why don't you go change?"
             ]
         },
         {
-            "text": "――――Yeah.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――――Yeah."
         },
         {
-            "text": "…………I didn't hand over the documents.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "…………I didn't hand over the documents."
         },
         {
             "text": "Looks like she was more worried about the documents \nthan herself. Once again―― I couldn't help but \nsee her as a sincere but awkward girl."
         },
         {
-            "text": "Mission Accomplished――……I appreciate your cooperation.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "Mission Accomplished――……I appreciate your cooperation."
         },
         {
             "text": "Certainly, we were able to complete all our tasks safely. \nHowever――",
@@ -130,23 +130,23 @@
             ]
         },
         {
-            "text": "――？ \n…………What do you mean?",
             "name": "Symboli Kris S",
+            "text": "――？ \n…………What do you mean?",
             "choice_data_list": [
-                "<size=35>That there were a lot of misunderstandings……</size>"
+                "That there were a lot of misunderstandings……"
             ]
         },
         {
-            "text": "……――But we finished our tasks.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "……――But we finished our tasks."
         },
         {
-            "text": "――That there was a misunderstanding…… and causing \na scene in the hallway―― I'm reflecting on it. \n……But――other than that――no problems.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――That there was a misunderstanding…… and causing \na scene in the hallway―― I'm reflecting on it. \n……But――other than that――no problems."
         },
         {
-            "text": "――I'll go report.",
-            "name": "Symboli Kris S"
+            "name": "Symboli Kris S",
+            "text": "――I'll go report."
         },
         {
             "text": "Even if she was misunderstood, she didn't seem to care. \nThat made me a little worried though――"

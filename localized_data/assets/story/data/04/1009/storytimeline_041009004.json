@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Daiwa Scarlet. A horse girl who takes being \"number one\" very seriously."
+            "text": "Daiwa Scarlet. \nA horse girl who takes being \"number one\" very seriously."
         },
         {
-            "text": "Placing 2nd on the Selection Race weighed heavily on her mind, and she had lost all confidence. Let's do something about that…"
+            "text": "Placing 2nd on the Selection Race weighed heavily on her mind, \nand she had lost all confidence. Let's do something about that…"
         },
         {
             "name": "Daiwa Scarlet",
@@ -12,7 +13,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…You mean as revenge for the Selection Race? What's the point in that?",
+            "text": "…You mean as revenge for the Selection Race? \nWhat's the point in that?",
             "choice_data_list": [
                 "To get the \"number one\" spot back."
             ]
@@ -23,11 +24,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just so you know, it won't be easy. You have a plan, don't you?"
+            "text": "Just so you know, it won't be easy. \nYou have a plan, don't you?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Like, instead of letting me be the front runner I usually am, you're going to tell me to save my stamina. But changing how I do things all of a sudden won't do me any good against her…",
+            "text": "Like, instead of letting me be the front runner I usually am, \nyou're going to tell me to save my stamina. But changing how I do \nthings all of a sudden won't do me any good against her…",
             "choice_data_list": [
                 "Speed up one furlong earlier than usual."
             ]
@@ -38,7 +39,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "What the heck! Do you even know what \"stamina management\" is?? If anyone went all out that early, they'd obviously get exhausted and lose!",
+            "text": "What the heck! Do you even know what \"stamina management\" \nis?? If anyone went all out that early, they'd \nobviously get exhausted and lose!",
             "choice_data_list": [
                 "You're not just \"anyone\", you're \"number one\".",
                 "You're not just \"anyone\", you're \"number one\"."
@@ -50,22 +51,22 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…AAHHH, SERIOUSLY!! Fine, I just have to do what you say, right!?"
+            "text": "…AAHHH, SERIOUSLY!! \nFine, I just have to do what you say, right!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well don't just stand there! Let's go train! You have a training plan focused on stamina ready, right!?"
+            "text": "Well don't just stand there! Let's go train! \nYou have a training plan focused on stamina ready, right!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I will say this though, I won't accept any half-assed instructions!"
+            "text": "I will say this though, I won't accept \nany half-assed instructions!"
         },
         {
-            "text": "And so, Daiwa Scarlet and I did nothing but do stamina training for days. Finally, on the day of the race-"
+            "text": "And so, Daiwa Scarlet and I did nothing but do stamina training \nfor days. Finally, on the day of the race-"
         },
         {
             "name": "Tokai Teio",
-            "text": "Hm? Oh, Air Groove's here too! Heya!!"
+            "text": "Hm? Oh, Air Groove's here too! \nHeya!!"
         },
         {
             "name": "Air Groove",
@@ -73,7 +74,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "I mean, a one-on-one with Scarlet and Vodka is bound to be interesting!…Ah, looks like they're about to start!"
+            "text": "I mean, a one-on-one with Scarlet and Vodka is bound to be \ninteresting!…Ah, looks like they're about to start!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -93,7 +94,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Scarlet. …You ready?"
+            "text": "Scarlet. \n…You ready?"
         },
         {
             "name": "Daiwa Scarlet",
@@ -101,10 +102,10 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'll be back. …Just watch me, Trainer."
+            "text": "I'll be back. \n…Just watch me, Trainer."
         },
         {
-            "text": "And thus, the revenge match between Daiwa Scarlet and Vodka begins…!"
+            "text": "And thus, the revenge match between \nDaiwa Scarlet and Vodka begins…!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -112,15 +113,15 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "Ah, Scarlet's in the front!! I knew she'd keep doing her front runner shtick."
+            "text": "Ah, Scarlet's in the front!! \nI knew she'd keep doing her front runner shtick."
         },
         {
             "name": "Tokai Teio",
-            "text": "But isn't this going exactly like the Selection Race? Won't she just get overtaken by Vodka again on the homestretch?"
+            "text": "But isn't this going exactly like the Selection Race? \nWon't she just get overtaken by Vodka again on the homestretch?"
         },
         {
             "name": "Air Groove",
-            "text": "No, wait. Things seem to be going different this time."
+            "text": "No, wait. \nThings seem to be going different this time."
         },
         {
             "name": "Daiwa Scarlet",
@@ -132,11 +133,11 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "Ueehh!? She's speeding up that early!? Her front running strategy barely lost her the race last time… how is she going to last with that!?"
+            "text": "Ueehh!? She's speeding up that early!? Her front \nrunning strategy barely lost her the race last time… \nhow is she going to last with that!?"
         },
         {
             "name": "Air Groove",
-            "text": "Yeah, she's mostly just running recklessly. But look…!"
+            "text": "Yeah, she's mostly just running recklessly. \nBut look…!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -148,15 +149,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(lt killed my ego and tore my pride to shreds. It made me whiny when I shouldn't have.)"
+            "text": "(lt killed my ego and tore my pride to shreds. \nIt made me whiny when I shouldn't have.)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(To be honest… it's painful even now! It's so hot! My throat hurts! I can't even feel my legs! But…)"
+            "text": "(To be honest… it's painful even now! \nIt's so hot! My throat hurts! I can't even feel my legs! But…)"
         },
         {
             "name": "Vodka",
-            "text": "God… dammit…!! Why… the hell…"
+            "text": "God… dammit…!! \nWhy… the hell…"
         },
         {
             "name": "Vodka",
@@ -164,15 +165,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(But I still want to win! I wanna be the winner!! I don't want to give \"number one\" away to anybody!!"
+            "text": "(But I still want to win! I wanna be the winner!! \nI don't want to give \"number one\" away to anybody!!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(This might just be my stubborn pride talking, but… In that case!)"
+            "text": "(This might just be my stubborn pride \ntalking, but… In that case!)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(I just have to keep being stubborn with all I have!! HAAAAAAAAAH!!!"
+            "text": "(I just have to keep being stubborn with all I have!! \nHAAAAAAAAAH!!!"
         },
         {
             "name": "Vodka",
@@ -180,10 +181,10 @@
         },
         {
             "name": "Vodka",
-            "text": "…Heh. I'm not going to let you win that easily! UUUUOOOOOOHHH!!"
+            "text": "…Heh. I'm not going to let you win that easily! \nUUUUOOOOOOHHH!!"
         },
         {
-            "text": "Daiwa Scarlet leads in front using what little strength she has left, with Vodka chasing behind. And the winner of the race is-"
+            "text": "Daiwa Scarlet leads in front using what little strength she has \nleft, with Vodka chasing behind. And the winner of the race is-"
         },
         {
             "name": "Air Groove",
@@ -191,11 +192,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant…!!</i> Did… I win…?"
+            "text": "<i>Pant… pant…!!</i> \nDid… I win…?"
         },
         {
             "name": "Vodka",
-            "text": "…AAAHHH!! Freaking hell! I lost, dammit!"
+            "text": "…AAAHHH!! Freaking hell! \nI lost, dammit!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -207,18 +208,18 @@
         },
         {
             "name": "Vodka",
-            "text": "Listen up - I'll win next time! I definitely won't lose to you, Ms. Honor Student!"
+            "text": "Listen up - I'll win next time! \nI definitely won't lose to you, Ms. Honor Student!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hehe. I like the sound of that. Bring it! Just so you know, I'll be \"number one\" again next time!"
+            "text": "…Hehe. I like the sound of that. Bring it! \nJust so you know, I'll be \"number one\" again next time!"
         },
         {
             "name": "Daiwa Scarlet",
             "text": "Isn't that right, Trainer?"
         },
         {
-            "text": "And so, my days of aiming for number one with Daiwa Scarlet began."
+            "text": "And so, my days of aiming for number \none with Daiwa Scarlet began."
         }
     ]
 }

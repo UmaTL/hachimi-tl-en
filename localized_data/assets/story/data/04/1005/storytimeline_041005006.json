@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "In the school building at dusk, I found Fuji Kiseki looking out the window with a somewhat melancholy look on her face."
+            "text": "In the school building at dusk, I found Fuji Kiseki looking out \nthe window with a somewhat melancholy look on her face."
         },
         {
             "name": "Fuji Kiseki",
@@ -13,11 +14,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The field. The juniors are doing extra practice."
+            "text": "The field. \nThe juniors are doing extra practice."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Every single girl runs through with a glint in their eye. Down the final straight, toward their dreams…"
+            "text": "Every single girl runs through with a glint in their eye. \nDown the final straight, toward their dreams…"
         },
         {
             "name": "Fuji Kiseki",
@@ -25,7 +26,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I want to run to entertain someone. But… I feel as if that's not enough."
+            "text": "I want to run to entertain someone. \nBut… I feel as if that's not enough."
         },
         {
             "name": "Fuji Kiseki",
@@ -37,7 +38,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Goodness, I just can't help wearing my heart on my sleeve around you, can't I. If I may take you up on that offer, I actually have a place I'd like to go."
+            "text": "Goodness, I just can't help wearing my heart on my sleeve \naround you, can't I. \nIf I may take you up on that offer, I actually have a place I'd like \nto go."
         },
         {
             "name": "Fuji Kiseki",
@@ -48,7 +49,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Tonight, we invite Trainer to join us here at the Crown Classic Hotel.",
+            "text": "Tonight, we invite Trainer to join us here at the Crown Classic \nHotel.",
             "choice_data_list": [
                 "That's one of the most exclusive hotels in the country…!",
                 "That's one of the most exclusive hotels in the country…!"
@@ -60,19 +61,19 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…Joking. Actually, this hotel has a theater attached to it!"
+            "text": "…Joking. \nActually, this hotel has a theater attached to it!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Today is an important performance. My friend――no, my former rival――is playing the lead role for the first time."
+            "text": "Today is an important performance. \nMy friend――no, my former rival――is playing the lead role for \nthe first time."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "We were childhood friends from the children's theatre troupe. We were always, always competing for the lead roles."
+            "text": "We were childhood friends from the children's theatre troupe. \nWe were always, always competing for the lead roles."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "When she laughs, the audience laughs. When she cries, the audience cries. She possesses such outstanding talent."
+            "text": "When she laughs, the audience laughs. When she cries, the \naudience cries. She possesses such outstanding talent."
         },
         {
             "name": "Fuji Kiseki",
@@ -84,11 +85,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Yes, I was terrified. She was an extraordinary talent, but she was never satisfied."
+            "text": "Yes, I was terrified. \nShe was an extraordinary talent, but she was never satisfied."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I never felt defeated by the desire to entertain someone. Still, there was a definite difference between me and her."
+            "text": "I never felt defeated by the desire to entertain someone. \nStill, there was a definite difference between me and her."
         },
         {
             "name": "Fuji Kiseki",
@@ -98,18 +99,18 @@
             "text": "―and then, the curtain rose."
         },
         {
-            "text": "The leading lady put on a stunning performance. Like the brightest star in the night sky, she captivated everyone who watched her."
+            "text": "The leading lady put on a stunning performance. \nLike the brightest star in the night sky, she captivated \neveryone who watched her."
         },
         {
-            "text": "Her gaze and every gesture radiated tremendous passion. On stage, she was the most powerful top star."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "――\"Eclipse, incomparable goddess, please smile on me. Give me the strength to stand once again, my dreams broken.\""
+            "text": "Her gaze and every gesture radiated tremendous passion. \nOn stage, she was the most powerful top star."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "\"If I can win this war, I will give my soul. Above my head, now, is my crown!\"",
+            "text": "――\"Eclipse, incomparable goddess, please smile on me. \nGive me the strength to stand once again, my dreams broken.\""
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "\"If I can win this war, I will give my soul. Above my head, now, \nis my crown!\"",
             "choice_data_list": [
                 "That was a great show.",
                 "That was a great show."
@@ -121,7 +122,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Each and every word she spun made my body hot with passion. Sometimes they were in a whisper, sometimes it felt as if they would burst forth, others were so compelling."
+            "text": "Each and every word she spun made my body hot with passion. \nSometimes they were in a whisper, sometimes it felt as if they \nwould burst forth, others were so compelling."
         },
         {
             "name": "Fuji Kiseki",
@@ -129,11 +130,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Yes, that's it――passion. It was the passion for the play, for pursuing the version of myself that I want to fulfill."
+            "text": "Yes, that's it――passion. \nIt was the passion for the play, for pursuing the version of \nmyself that I want to fulfill."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "And, a passion to be the best. A strong, strong feeling, almost like an obsession, to pursue one's dreams."
+            "text": "And, a passion to be the best. \nA strong, strong feeling, almost like an obsession, to pursue \none's dreams."
         },
         {
             "name": "Fuji Kiseki",
@@ -153,50 +154,50 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "It was a great performance; one to remember. Congratulations on your first starring role."
+            "text": "It was a great performance; one to remember. \nCongratulations on your first starring role."
         },
         {
             "name": "Fuji's Childhood Friend",
-            "text": "…Fuji-chan! I'm so glad you came to see it! Oh, I wanted you to see it more than anyone else."
+            "text": "…Fuji-chan! I'm so glad you came to see it! \nOh, I wanted you to see it more than anyone else."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I was mesmerized to the point of being dizzy. It pains me to say, but you are the best Entertainer I've seen tonight."
+            "text": "I was mesmerized to the point of being dizzy. \nIt pains me to say, but you are the best Entertainer I've seen \ntonight."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But, I don't intend to lose, either. Someday, I will entertain everyone enough to surpass you!"
+            "text": "But, I don't intend to lose, either. \nSomeday, I will entertain everyone enough to surpass you!"
         },
         {
             "name": "Fuji's Childhood Friend",
-            "text": "I'm going to be the best in the world of acting. Even though we're on different stages, you and I are eternal rivals."
+            "text": "I'm going to be the best in the world of acting. \nEven though we're on different stages, you and I are eternal \nrivals."
         },
         {
             "name": "Fuji Kiseki",
             "text": "I am honored. I shall follow my dreams with you."
         },
         {
-            "text": "Upon hearing Fuji Kiseki's words, the girl happily shook hands with her and left, waving over her shoulder."
+            "text": "Upon hearing Fuji Kiseki's words, the girl happily shook hands \nwith her and left, waving over her shoulder."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "It's strange, my very core is fired up. I just want to start running, right now."
+            "text": "It's strange, my very core is fired up. \nI just want to start running, right now."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hey, Trainer. I'm glad I got to see the show with you."
+            "text": "Hey, Trainer. \nI'm glad I got to see the show with you."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The truth is, I was afraid. I had to face what I lacked."
+            "text": "The truth is, I was afraid. \nI had to face what I lacked."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But, with you by my side, Trainer, I was able to find what I wanted to be and beyond."
+            "text": "But, with you by my side, Trainer, I was able to find what I \nwanted to be and beyond."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Thanks to you, my doubts are gone. I will never forget what you did today."
+            "text": "Thanks to you, my doubts are gone. \nI will never forget what you did today."
         },
         {
             "name": "Fuji Kiseki",
@@ -207,11 +208,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "What's this? Did I manage to make you fall in love with me? If I did, I'd have completed my goal!"
+            "text": "What's this? Did I manage to make you fall in love with me? \nIf I did, I'd have completed my goal!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Joo～king! I'd better get home, or I'll be breaking curfew!"
+            "text": "Joo～king! \nI'd better get home, or I'll be breaking curfew!"
         },
         {
             "text": "She looked down at her watch, and rushed off to the station."

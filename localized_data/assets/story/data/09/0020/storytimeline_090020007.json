@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Event Manager",
@@ -10,31 +11,31 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(―I should be running far away, but I can hear her breath. I'm sure it's because……I remember it on the grass.)"
+            "text": "(―I should be running far away, but I \ncan hear her breath. I'm sure it's because……I \nremember it on the grass.)"
         },
         {
             "name": "Vodka",
-            "text": "(We don't mesh at all. But there's one time when it fits perfectly. It's on the turf.)"
+            "text": "(We don't mesh at all. But there's one time when \nit fits perfectly. It's on the turf.)"
         },
         {
             "name": "Vodka",
-            "text": "――She's got perfect control of her pace. She's probably keeping her initial momentum. Me too……!"
+            "text": "――She's got perfect control of her pace. She's \nprobably keeping her initial momentum. Me too……!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…I'm sure she's right on top of you. She's probably swelling up in the corner, so… I need to make it bigger too!"
+            "text": "…I'm sure she's right on top of you. She's \nprobably swelling up in the corner, so… I need \nto make it bigger too!"
         },
         {
             "name": "Vodka",
-            "text": "Crap! Did I overexert myself?! …No, it's not a problem. I know her. At this rate…!"
+            "text": "Crap! Did I overexert myself?! …No, it's not a \nproblem. I know her. At this rate…!"
         },
         {
             "name": "Vodka",
-            "text": "(It's true that we're bumpy. That's why we're seriously clashing, and each time…… we're firmly in sync.)"
+            "text": "(It's true that we're bumpy. That's \nwhy we're seriously clashing, and each \ntime…… we're firmly in sync.)"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "(That annoyed me, irritated me…… I absolutely didn't want to lose! No matter how much I denied it…… with words! We――)"
+            "text": "(That annoyed me, irritated me…… I absolutely \ndidn't want to lose! No matter how much I denied \nit…… with words! We――)"
         },
         {
             "name": "Both",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Sakura Laurel",
-            "text": "Wow…! They're in perfect sync! We can't see each other at all!"
+            "text": "Wow…! They're in perfect sync! \nWe can't see each other at all!"
         },
         {
             "name": "Narita Brian",
@@ -50,7 +51,7 @@
         },
         {
             "name": "Event Manager",
-            "text": "――Now, soon! Two Santas are trying to reach the top……!"
+            "text": "――Now, soon! Two Santas are \ntrying to reach the top……!"
         },
         {
             "name": "Both",
@@ -58,15 +59,15 @@
         },
         {
             "name": "Event Moderator",
-            "text": "Look! Santa has made it to the top, and the entirety of Harron Tower is lit up!"
+            "text": "Look! Santa has made it to the top, and the \nentirety of Harron Tower is lit up!"
         },
         {
             "name": "Event Moderator",
-            "text": "Light radiates from the top and pours down on us like a present!"
+            "text": "Light radiates from the top and pours down on us \nlike a present!"
         },
         {
             "name": "Crowd",
-            "text": "Wow, that's amazing! It's so pretty! Thanks, Santa!"
+            "text": "Wow, that's amazing! It's \nso pretty! Thanks, Santa!"
         },
         {
             "name": "Event Manager",
@@ -85,11 +86,11 @@
         },
         {
             "name": "Air Groove",
-            "text": "Thank you both for your hard work. You've done a wonderful job as an official ambassador. They were very grateful to you."
+            "text": "Thank you both for your hard work. You've done a \nwonderful job as an official ambassador. They \nwere very grateful to you."
         },
         {
             "name": "Air Groove",
-            "text": "Brian, Laurel, and I will help you clean up. You can rest here and enjoy the night view."
+            "text": "Brian, Laurel, and I will help you clean up. You \ncan rest here and enjoy the night view."
         },
         {
             "name": "Daiwa Scarlet",
@@ -97,15 +98,15 @@
         },
         {
             "name": "Air Groove",
-            "text": "Do I look inhuman enough to put you guys to work for a great service?"
+            "text": "Do I look inhuman enough to put you guys to work \nfor a great service?"
         },
         {
             "name": "Air Groove",
-            "text": "…I'd like to thank you too. Thank you for making the event a lot more exciting. We can have a nice chat once in a while."
+            "text": "…I'd like to thank you too. Thank you for making \nthe event a lot more exciting. We can have a \nnice chat once in a while."
         },
         {
             "name": "Vodka",
-            "text": "…………Umm… What do you mean……talk to each other? Haha……"
+            "text": "…………Umm… What do you mean……talk \nto each other? Haha……"
         },
         {
             "name": "Daiwa Scarlet",
@@ -117,7 +118,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I said I'm sorry! I said it was lame, and made fun of you."
+            "text": "I said I'm sorry! I said it was \nlame, and made fun of you."
         },
         {
             "name": "Daiwa Scarlet",
@@ -133,7 +134,7 @@
         },
         {
             "name": "Vodka",
-            "text": "I said something terrible. I think… I felt the same way as you."
+            "text": "I said something terrible. I think… I felt the \nsame way as you."
         },
         {
             "name": "Vodka",
@@ -145,7 +146,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Even if this happens again, I'll understand! I… I really don't like you!"
+            "text": "Even if this happens again, I'll understand! I… \nI really don't like you!"
         },
         {
             "name": "Vodka",
@@ -153,11 +154,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But I don't want to lose because it pisses me off. It's because you're here that I'm stronger."
+            "text": "But I don't want to lose because it pisses me \noff. It's because you're here that I'm stronger."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "To me, you… make me want to win… I hate to admit it, but you're the person I want to be."
+            "text": "To me, you… make me want to win… I hate to admit \nit, but you're the person I want to be."
         },
         {
             "name": "Daiwa Scarlet",
@@ -177,11 +178,11 @@
         },
         {
             "name": "Vodka",
-            "text": "…It's the same. I think of you as my one and only rival."
+            "text": "…It's the same. I think of you \nas my one and only rival."
         },
         {
             "name": "Vodka",
-            "text": "…Also! Let me just say this! That outfit… It really suits you!!"
+            "text": "…Also! Let me just say this! That outfit… It \nreally suits you!!"
         },
         {
             "name": "Daiwa Scarlet",

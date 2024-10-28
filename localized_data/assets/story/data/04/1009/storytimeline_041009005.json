@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "After school. I came to pick up Daiwa Scarlet for training, when…"
+            "text": "After school. \nI came to pick up Daiwa Scarlet for training, when…"
         },
         {
             "name": "Teacher A",
-            "text": "I'm really sorry for asking you to do so many things since early this morning. But you've really been a huge help, so thank you."
+            "text": "I'm really sorry for asking you to do so many things since early \nthis morning. But you've really been a huge help, so thank you."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh no, it's no big deal. Please tell me whenever you need any help!"
+            "text": "Oh no, it's no big deal. \nPlease tell me whenever you need any help!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -17,7 +18,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Phew. People have been asking me favors all day… I've got to start getting ready for training-",
+            "text": "…Phew. People have been asking me favors all day… \nI've got to start getting ready for training-",
             "choice_data_list": [
                 "You look a bit tired.",
                 "You look a bit tired."
@@ -29,15 +30,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Sheesh, you went out your way to pick me up? I was about to start heading there anyway. Mind your own business."
+            "text": "…Sheesh, you went out your way to pick me up? I was about to \nstart heading there anyway. Mind your own business."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Also, I'm not tired at all. You're just imagining things."
+            "text": "…Also, I'm not tired at all. \nYou're just imagining things."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Doing favors for people is part of my daily routine so this is nothing to me.",
+            "text": "Doing favors for people is part of my daily \nroutine so this is nothing to me.",
             "choice_data_list": [
                 "Don't overdo it, okay?",
                 "Don't overdo it, okay?"
@@ -49,11 +50,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "More relied on than anyone else, and never failing anyone's expectations. The best horse girl in terms of lifestyle, academics and racing: Number one."
+            "text": "More relied on than anyone else, and never failing anyone's \nexpectations. The best horse girl in terms of lifestyle, \nacademics and racing: Number one."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That's what it means to be Daiwa Scarlet! I can handle something as small as this myself."
+            "text": "That's what it means to be Daiwa Scarlet! \nI can handle something as small as this myself."
         },
         {
             "name": "Daiwa Scarlet",
@@ -65,11 +66,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "That was all the way back when you scouted me…! Well… I did say I was going to be number one, but…!"
+            "text": "That was all the way back when you scouted me…! \nWell… I did say I was going to be number one, but…!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But that… doesn't mean you have to concern yourself with something like this…"
+            "text": "But that… doesn't mean you have to concern \nyourself with something like this…"
         },
         {
             "name": "Classmate A",
@@ -81,15 +82,15 @@
         },
         {
             "name": "Classmate A",
-            "text": "Actually, we need to get some appliances in place for tomorrow's home-ec class… Sorry to bother you, but… I was wondering if you could help us with that."
+            "text": "Actually, we need to get some appliances in place for tomorrow's \nhome-ec class… Sorry to bother you, but… I was wondering if \nyou could help us with that."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Yeah, I don't mind! I'll be right there, so could you start without me?"
+            "text": "Yeah, I don't mind! \nI'll be right there, so could you start without me?"
         },
         {
             "name": "Classmate A",
-            "text": "Wow, thanks! I knew I should have asked you! See you at the storage room, then!"
+            "text": "Wow, thanks! I knew I should have asked you! \nSee you at the storage room, then!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -100,11 +101,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "No, I don't need any help… It's got nothing to do with you, but… I just don't want to rely on anyone else for something I got asked to do."
+            "text": "No, I don't need any help… It's got nothing to \ndo with you, but… I just don't want to rely on \nanyone else for something I got asked to do."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You should just focus on getting stuff ready for training! I'll be there soon, okay?"
+            "text": "You should just focus on getting stuff ready for training! \nI'll be there soon, okay?"
         },
         {
             "text": "I got driven out by her…"
@@ -114,11 +115,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Phew… That sure took longer than I thought it would. Anyway, let's get started."
+            "text": "Phew… That sure took longer than I thought it would. \nAnyway, let's get started."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hey, what's with you? You've been staring… are you angry at me? Well, sorry for making you wait.",
+            "text": "…Hey, what's with you? You've been staring… are you angry at \nme? Well, sorry for making you wait.",
             "choice_data_list": [
                 "Don't push yourself so hard.",
                 "Don't push yourself so hard."
@@ -126,11 +127,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I-I'm not! I can't stay number one if I can't even do something like that!"
+            "text": "I-I'm not! \nI can't stay number one if I can't even do something like that!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "The same goes for my training. I'll just have to make up for how long I've been late-",
+            "text": "The same goes for my training. \nI'll just have to make up for how long I've been late-",
             "choice_data_list": [
                 "You've got to rely on me more!",
                 "You've got to rely on me more!"
@@ -138,18 +139,18 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "What the heck… Don't make it sound like I'm the one being stubborn!"
+            "text": "What the heck… Don't make it sound \nlike I'm the one being stubborn!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well… You're my trainer after all… If that's the case, then…"
+            "text": "Well… You're my trainer after all… \nIf that's the case, then…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ughh, jeez! This is pissing me off! Let's just get this thing started already!"
+            "text": "Ughh, jeez! This is pissing me off! \nLet's just get this thing started already!"
         },
         {
-            "text": "Daiwa Scarlet, the horse girl obsessed with being number one. It looks like there's still a long way to go before she learns to trust and depend on me."
+            "text": "Daiwa Scarlet, the horse girl obsessed with being number one. It \nlooks like there's still a long way to go before she learns to \ntrust and depend on me."
         }
     ]
 }

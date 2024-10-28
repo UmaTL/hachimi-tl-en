@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "One day while training with Vivlos――"
@@ -13,58 +14,58 @@
         },
         {
             "name": "Vivlos",
-            "text": "Hmmm-……it feels like something is off today? Like my body feels heavy. It kind of felt like I couldn't hit my stride~.",
+            "text": "Hmmm-……it feels like something is off today? Like my body \nfeels heavy. It kind of felt like I couldn't hit my stride~.",
             "choice_data_list": [
                 "Then, let's call it a day"
             ]
         },
         {
-            "text": "If she was feeling off, then it was probably better not to push it. I was curious about the cause……"
+            "text": "If she was feeling off, then it was probably better \nnot to push it. I was curious about the cause……"
         },
         {
             "name": "Vivlos",
-            "text": "Ah, it's not that something feels wrong with my body though! At times like these, you see~"
+            "text": "Ah, it's not that something feels wrong with \nmy body though! At times like these, you see~"
         },
         {
             "name": "Vivlos",
-            "text": "The only cure is that♡ C'mon, Tore-cchi, let's go, let's go!",
+            "text": "The only cure is that♡ \nC'mon, Tore-cchi, let's go, let's go!",
             "choice_data_list": [
                 "Eh!? Go? Go where――"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Kyaa~ so cute! This is another new product, isn't it♡?"
+            "text": "Kyaa~ so cute! \nThis is another new product, isn't it♡?"
         },
         {
             "name": "Shop Clerk",
-            "text": "Yes♪ These ear cuffs can also be used like rings, and they work well with other accessories from the same series!"
+            "text": "Yes♪ These ear cuffs can also be used like rings, and \nthey work well with other accessories from the same series!"
         },
         {
             "name": "Vivlos",
-            "text": "No way, no way, something like that would definitely be cute! Onee-san, can you wrap them both up♪?",
+            "text": "No way, no way, something like that would definitely \nbe cute! Onee-san, can you wrap them both up♪?",
             "choice_data_list": [
                 "(No way, a brand name shop!?)"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Tore-cchi, pick something that'll go well with these! With so many good products, it's hard to make a decision, you know?"
+            "text": "Tore-cchi, pick something that'll go well with these! With \nso many good products, it's hard to make a decision, you know?"
         },
         {
             "name": "Vivlos",
-            "text": "Alright, let's go look at some clothes next! Which one do you think looks good? Maybe those white shorts and that pink tucked mini♪?",
+            "text": "Alright, let's go look at some clothes next! \nWhich one do you think looks good? Maybe those \nwhite shorts and that pink tucked mini♪?",
             "choice_data_list": [
                 "Y-yeah? They both look good……"
             ]
         },
         {
             "name": "Shop Clerk",
-            "text": "That tuck mini skirt arrived just today! The fabric is quite durable so you could use it all the way until early autumn♪"
+            "text": "That tuck mini skirt arrived just today! The fabric is quite \ndurable so you could use it all the way until early autumn♪"
         },
         {
             "name": "Vivlos",
-            "text": "Ohh, I see! Then I'll go with this♪ In that case, I want a top to go with it! Which ones are new products?"
+            "text": "Ohh, I see! Then I'll go with this♪ In that case, \nI want a top to go with it! Which ones are new products?"
         },
         {
             "name": "Vivlos",
@@ -72,7 +73,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "I managed to buy a bunch of new stuff. Yeah, with this, tomorrow I'll be full of energy♪",
+            "text": "I managed to buy a bunch of new stuff. \nYeah, with this, tomorrow I'll be full of energy♪",
             "choice_data_list": [
                 "It was all new stuff wasn't it?",
                 "It was all new stuff wasn't it?"
@@ -84,15 +85,15 @@
         },
         {
             "name": "Vivlos",
-            "text": "That excitement helps me feel amazing! Like I could do anything♡ or something like that~"
+            "text": "That excitement helps me feel amazing! \nLike I could do anything♡ or something like that~"
         },
         {
             "name": "Vivlos",
-            "text": "Ehe♡ I'll show you the power of that excitement tomorrow, Tore-cchi♪"
+            "text": "Ehe♡ I'll show you the power of that \nexcitement tomorrow, Tore-cchi♪"
         },
         {
             "name": "Vivlos",
-            "text": "Haa――haa――! ……Not yet, not yet, I can keep going~~~~~~!!",
+            "text": "Haa――haa――! \n……Not yet, not yet, I can keep going~~~~~~!!",
             "choice_data_list": [
                 "!? Amazing acceleration……!"
             ]
@@ -106,11 +107,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "You got that right♡ I'm so filled with excitement that I can run like whooosh!"
+            "text": "You got that right♡ I'm so filled with \nexcitement that I can run like whooosh!"
         },
         {
             "name": "Vivlos",
-            "text": "Ehe! If i'm filled with so much excitement like this, then someday――"
+            "text": "Ehe! If i'm filled with so much \nexcitement like this, then someday――"
         },
         {
             "name": "Vivlos",
@@ -118,11 +119,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "All sparkly! Like a super celeb! Like a bright dream that'll never fade……that world!"
+            "text": "All sparkly! Like a super celeb! \nLike a bright dream that'll never fade……that world!"
         },
         {
             "name": "Vivlos",
-            "text": "For that I'll need more……way moooooore! With this excitement, I'll need to keep doing my best!",
+            "text": "For that I'll need more……way moooooore! \nWith this excitement, I'll need to keep doing my best!",
             "choice_data_list": [
                 "So that's what motivates you",
                 "So that's what motivates you"
@@ -130,7 +131,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "That's right! So Tore-cchi, you need to reaaaally help me stay excited――"
+            "text": "That's right! So Tore-cchi, \nyou need to reaaaally help me stay excited――"
         },
         {
             "name": "Vivlos",
@@ -138,17 +139,17 @@
         },
         {
             "name": "Vivlos",
-            "text": "Aaaahーー! Oh no!! That shop we went to yesterday has another new product!"
+            "text": "Aaaahーー! Oh no!! \nThat shop we went to yesterday has another new product!"
         },
         {
             "name": "Vivlos",
-            "text": "How much more is left of today's training? I'll work hard so afterwards, come shopping with me! Okay, please!?",
+            "text": "How much more is left of today's training? I'll work hard \nso afterwards, come shopping with me! Okay, please!?",
             "choice_data_list": [
                 "Of course!"
             ]
         },
         {
-            "text": "All of this was for Vivlos' dream, and her motivation. I felt that raising her 『Excitement』 was going to be important."
+            "text": "All of this was for Vivlos' dream, and her motivation. \nI felt that raising her 『Excitement』 was going to be important."
         }
     ]
 }

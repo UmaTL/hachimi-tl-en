@@ -2,28 +2,28 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "――10th one finished! \nHuu-……Trainer-san, how's my time……?",
             "name": "Sakura Laurel",
+            "text": "――10th one finished! \nHuu-……Trainer-san, how's my time……?",
             "choice_data_list": [
                 "It's getting better. Looking good.",
                 "It's getting better. Looking good."
             ]
         },
         {
-            "text": "Fufu, maybe it's because Trainer-san \nis standing at the goal? Just kidding.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Fufu, maybe it's because Trainer-san \nis standing at the goal? Just kidding."
         },
         {
-            "text": "Anyways! With this, we're done for today, right!? \nAnd so……after this, are you free?",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Anyways! With this, we're done for today, right!? \nAnd so……after this, are you free?"
         },
         {
-            "text": "You see, I'm part of the committee for the Test of Courage event! \nAnd, today I'm going to be making the final checks on the course.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "You see, I'm part of the committee for the Test of Courage event! \nAnd, today I'm going to be making the final checks on the course."
         },
         {
-            "text": "Trainer-san, could you do a trial run of the course? \nAnd if you could tell me your thoughts, I'd be really glad!",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Trainer-san, could you do a trial run of the course? \nAnd if you could tell me your thoughts, I'd be really glad!"
         },
         {
             "text": "So I'd be previewing the Test of Courage…… \nSince she was so hard working and positive, \nthis might be a good opportunity to help her out.",
@@ -36,8 +36,8 @@
             "text": "――And so, we made our way to the starting point of the Test \nof Courage. A student was already there to act as a guide."
         },
         {
-            "text": "Just go straight down this path. Place this candle-shaped light \nat the shrine near the goal to clear the test. Good luck out there!",
-            "name": "Guide-role Uma Musume"
+            "name": "Guide-role Uma Musume",
+            "text": "Just go straight down this path. Place this candle-shaped light \nat the shrine near the goal to clear the test. Good luck out there!"
         },
         {
             "text": "There was an eerie sound of dripping water coming \nfrom somewhere……it sent a chill down my spine……"
@@ -57,12 +57,12 @@
         {
             "text": "(Tap……tap……――click, click……step, step, step――)",
             "choice_data_list": [
-                "<size=36>(What's that……? It's coming from behind……)</size>"
+                "(What's that……? It's coming from behind……)"
             ]
         },
         {
-            "text": "Ah……Aaah, Aaaaaaaahhh~~~……!",
             "name": "???",
+            "text": "Ah……Aaah, Aaaaaaaahhh~~~……!",
             "choice_data_list": [
                 "UWAAAAAAAAAAAAHHH!?",
                 "IYAAAAAAAAAAAAHHH!?"
@@ -72,26 +72,26 @@
             "text": "(Step step step step step! ――Pull!)"
         },
         {
-            "text": "――――Ahaa, did I scare you?",
-            "name": "???"
+            "name": "???",
+            "text": "――――Ahaa, did I scare you?"
         },
         {
-            "text": "It's me, Trainer-san!",
             "name": "Sakura Laurel",
+            "text": "It's me, Trainer-san!",
             "choice_data_list": [
                 "……!! Y-y-y-y-y-you scared me……"
             ]
         },
         {
-            "text": "Oh dear……the goal is right ahead though―― \n……shall we go together?",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Oh dear……the goal is right ahead though―― \n……shall we go together?"
         },
         {
             "text": "I was struggling to get my heartbeat under control…… \nbut Sakura Laurel led me and we soon arrived at the shrine."
         },
         {
-            "text": "Okay, here's the goal! \nGood job out there! So, how was it?",
             "name": "Sakura Laurel",
+            "text": "Okay, here's the goal! \nGood job out there! So, how was it?",
             "choice_data_list": [
                 "It was super terrifying……!"
             ]
@@ -127,34 +127,34 @@
             "text": "Weren't we supposed to already be at the goal!? \nI was being dragged through the dark, confused \nand scared with no idea what was happening――"
         },
         {
-            "text": "Fufuu♪",
-            "name": "???"
+            "name": "???",
+            "text": "Fufuu♪"
         },
         {
             "text": "――Suddenly I could see again."
         },
         {
-            "text": "Tadaa! \nIt's beautiful isn't it, Trainer-san!?",
-            "name": "???"
+            "name": "???",
+            "text": "Tadaa! \nIt's beautiful isn't it, Trainer-san!?"
         },
         {
-            "text": "Did I scare you? \nMy surprise was a big success then, huh♪",
             "name": "Sakura Laurel",
+            "text": "Did I scare you? \nMy surprise was a big success then, huh♪",
             "choice_data_list": [
                 "This is……?"
             ]
         },
         {
-            "text": "My gratitude towards Trainer-san!",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "It's a special scenery that I found―― \nand I wanted to show it to Trainer-san first.",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "Do you like it?",
             "name": "Sakura Laurel",
+            "text": "My gratitude towards Trainer-san!"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "It's a special scenery that I found―― \nand I wanted to show it to Trainer-san first."
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Do you like it?",
             "choice_data_list": [
                 "I-it's amazing……but――"
             ]
@@ -163,68 +163,68 @@
             "text": "I couldn't think of why she was that grateful. \nToday, all I did was help with her Test of Courage――"
         },
         {
-            "text": "Fufuu, you were scared through and through, huh♪",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Fufuu, you were scared through and through, huh♪"
         },
         {
-            "text": "――But because you're like that, you're really helping me.",
             "name": "Sakura Laurel",
+            "text": "――But because you're like that, you're really helping me.",
             "choice_data_list": [
                 "Eh?"
             ]
         },
         {
-            "text": "Like earlier, when we went out together――",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "Trainer-san, you were really interested in all the things \nI loved. You were having fun just listening to me talk――",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "And when you said French cuisine was like magic―― \nI was surprised. Because……I believe that too!",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "Today was like that too. The Test of Courage course that \nI made, you challenged it head-on, and got scared by it――",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "The Test of Courage will be a great success! \nI'm convinced of that.",
             "name": "Sakura Laurel",
+            "text": "Like earlier, when we went out together――"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Trainer-san, you were really interested in all the things \nI loved. You were having fun just listening to me talk――"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "And when you said French cuisine was like magic―― \nI was surprised. Because……I believe that too!"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "Today was like that too. The Test of Courage course that \nI made, you challenged it head-on, and got scared by it――"
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "The Test of Courage will be a great success! \nI'm convinced of that.",
             "choice_data_list": [
                 "Laurel……"
             ]
         },
         {
-            "text": "And also――do you remember? \nWhen there was some trouble with the gym equipment?",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "And also――do you remember? \nWhen there was some trouble with the gym equipment?"
         },
         {
-            "text": "At that time, you said it right? \nMy positivity is what made sure everything went so well.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "At that time, you said it right? \nMy positivity is what made sure everything went so well."
         },
         {
-            "text": "But, the reason I can keep running with that positivity――",
-            "name": "Sakura Laurel"
-        },
-        {
-            "text": "『I can help with that! Let's do it!』"
+            "name": "Sakura Laurel",
+            "text": "But, the reason I can keep running with that positivity――"
         },
         {
             "text": "『I can help with that! Let's do it!』"
         },
         {
-            "text": "Is because……Trainer-san is always there, \nworking hard to support me.",
-            "name": "Sakura Laurel"
+            "text": "『I can help with that! Let's do it!』"
         },
         {
-            "text": "That's why……I can keep running forward. \nBecause Trainer-san is with me.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "Is because……Trainer-san is always there, \nworking hard to support me."
         },
         {
-            "text": "……and that part of you reminds me of my dad.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "That's why……I can keep running forward. \nBecause Trainer-san is with me."
+        },
+        {
+            "name": "Sakura Laurel",
+            "text": "……and that part of you reminds me of my dad."
         },
         {
             "text": "With a giggle, she turned to look up at the sky. As she said, \nthis was special, there was a spectacular view of the sky."
@@ -233,15 +233,15 @@
             "text": "The night sky was lit up by the brilliant stars. \nBut to me, there was something that shined brighter――"
         },
         {
-            "text": "――I can still keep getting stronger.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "――I can still keep getting stronger."
         },
         {
             "text": "Sakura Laurel declared that silently, but with conviction. \nThere was true belief reflected in those eyes."
         },
         {
-            "text": "――Because I have you.",
-            "name": "Sakura Laurel"
+            "name": "Sakura Laurel",
+            "text": "――Because I have you."
         },
         {
             "text": "She was radiant――Brighter, stronger, and more \ndazzling than anyone……――As a trainer, I wanted \nto continue to support a girl that brilliant."

@@ -1,0 +1,260 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "――Under the blazing sun came a \nsudden announcement of a competition.",
+            "choice_data_list": [
+                "『Tracen Academy Strongest Pair Tournament』?"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "That's what they're calling the 『Arm Wrestling Tournament』, \nyou see. Seems like the prize is dinner at a resort."
+        },
+        {
+            "text": "Tilting my head, I read over the pamphlet that was handed \nto me. The only event is 『Arm Wrestling』. Looks like it's \nseparated in to Uma Musume and Trainer divisions……"
+        },
+        {
+            "text": "The format is round robin. The winning team is \ndecided by which pair has the most wins combined."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "――Only if you can exert it fully at the right \ntime, can Power be called a trump card.",
+            "choice_data_list": [
+                "!"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Seems like you've been keeping up with your training, \nsince your body looks a bit more defined……",
+            "choice_data_list": [
+                "There'd be no point, if I didn't"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Fufuu. \n……Well then, just how much have you obtained?"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Will it be a Joker, or just a Pierrot?"
+        },
+        {
+            "text": "And so, the two of us decided to enter the tournament, but――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Hmmph!"
+        },
+        {
+            "name": "Participating Uma Musume A",
+            "text": "Uwaaaah!?"
+        },
+        {
+            "name": "Organizer",
+            "text": "T-the victor is……Gentildonnaーー! \nThe 『Uma Musume Division』 winner is Gentildonna～～!!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Fuu……child's play."
+        },
+        {
+            "name": "Participating Uma Musume A",
+            "text": "No way! I-I couldn't even last a second……!?"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Even against other Uma Musume, there's that much of a difference……? \nShe-……she's in an entirely different dimension……!",
+            "choice_data_list": [
+                "(I see……)"
+            ]
+        },
+        {
+            "text": "Power can only be called a trump card if it can be used \ncorrectly in the right place is what she said. But why \nis that? ……probably because there are secondary effects."
+        },
+        {
+            "text": "By showing off your power, you could control \nyour own heart. Only then, for the first time, \ncan Power become the ultimate trump card!"
+        },
+        {
+            "name": "Participating Uma Musume A",
+            "text": "Kuuu～～! An unexpected defeat……! \nSorry! Trainer!!"
+        },
+        {
+            "name": "Participating Trainer A",
+            "text": "No, the competition isn't over yet! This is a battle \nto decide the strongest 『Pair』! Which means――"
+        },
+        {
+            "text": "(Stare……!)"
+        },
+        {
+            "name": "Participating Trainers",
+            "text": "We just need to win against them!",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "……Ara ara."
+        },
+        {
+            "name": "Organizer",
+            "text": "――What's this!? Gentildonna's Trainer is suddenly \nthe focus of attention!? This could get ugly～!"
+        },
+        {
+            "name": "Participating Trainer A",
+            "text": "……Hey, everyone, how about cooperating? To win this one, \neveryone needs to at least win against them, right?"
+        },
+        {
+            "name": "Participating Trainer A",
+            "text": "So when it's their turn, let's stand behind them and make \nweird faces, try and make them flinch, and create an opening \nand drain their energy so everyone can win! How's that sound!?"
+        },
+        {
+            "name": "Macho Trainer",
+            "text": "……Hm. It's a bit cowardly, but we can't just give \nup on being the strongest. Alright! Count us in!"
+        },
+        {
+            "name": "Organizer",
+            "text": "S-so this is their plan to turn things around! \nIt's not really against the rules but……just what \nwill happen with this many people involved～!?"
+        },
+        {
+            "text": "(Whoooooooooooaaaa!!!!)"
+        },
+        {
+            "text": "The entire venue was buzzing with a sense of mayhem. \nI could feel the intense stares coming from every direction."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Oh my, someone's in trouble.",
+            "choice_data_list": [
+                "No, it's no problem",
+                "No, it's no problem"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Ara. Do you have a plan?"
+        },
+        {
+            "text": "I nod. The primary focus is stamina management. \nIf I run out of stamina early and then lose every \ngame in the second half, I wouldn't be able to face her."
+        },
+        {
+            "text": "Focus on your opponent but be prepared to lose……only \nuse your full power on someone you really need to beat. \nThat was theoretically the optimal solution. However――",
+            "choice_data_list": [
+                "But……for me",
+                "But……for me"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "…………Heh."
+        },
+        {
+            "name": "Participating Trainers",
+            "text": "Uooooooh!! With this we can win! I'll definitely win!! \nFuhahahahaa! My muscles are getting pumped up!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "……Fufu. Fufufu. \nLooks like you're having fun, but unfortunately for you――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "That person……is 『My』 trainer, you know?"
+        },
+        {
+            "text": "(Bang!!)"
+        },
+        {
+            "name": "Organizer",
+            "text": "M-match over……! \nGentildonna's Trainer is victorious!!!"
+        },
+        {
+            "name": "Participating Trainer A",
+            "text": "Guaaah……N-no way…… \nTo think there'd be……no chance to use our plan……!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "……――"
+        },
+        {
+            "text": "If you think about it realistically, you should \nassess your opponent and adjust accordingly. But――",
+            "choice_data_list": [
+                "If you have Power, that's unnecessary!"
+            ]
+        },
+        {
+            "text": "(Bang!!!)",
+            "choice_data_list": [
+                "I'll just crush them first!"
+            ]
+        },
+        {
+            "text": "(Baaang!!!!)"
+        },
+        {
+            "name": "Macho Trainer",
+            "text": "Fuu. You're good……but your final opponent is me, \nTracen's Strongest Super Macho Trainer! ……Hmmmmmph!"
+        },
+        {
+            "text": "Looking at his muscles glistening under the sun, I take \na deep breath. ……This is where I need to go full power.",
+            "choice_data_list": [
+                "Then, I'll switch to my dominant hand!"
+            ]
+        },
+        {
+            "name": "Macho Trainer",
+            "text": "Ha ha ha! I see, I see! \nSo here you'll have to use――wait, huh? Your dominant hand?"
+        },
+        {
+            "name": "Macho Trainer",
+            "text": "Then, does that mean you weren't serious……――U-ugyaaaaaaa!!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "――I see you've started to understand it a little now? \nPower, and it's true essence.",
+            "choice_data_list": [
+                "……just a little bit.",
+                "……just a little bit."
+            ]
+        },
+        {
+            "text": "But, I'm still nowhere near seeing things from her perspective. \nIt was too presumptuous to say I could stand next to her……However――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "――Here. I'll give this to you.",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "text": "I took the iron weight from her. \nThis was probably the one she bought that time――"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "This 『Super Heavy Class』 iron weight……how is it? \nIt's got quite a comfortable weight to it, right?",
+            "choice_data_list": [
+                "……Yeah. Surprisingly",
+                "……Yeah. Surprisingly"
+            ]
+        },
+        {
+            "text": "I rolled it around in my hands, remembering that \nit used to be so heavy. ……It was a good weight!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Hehe…… If you're going to walk around with that, \nyou probably need a carrying case, don't you?",
+            "choice_data_list": [
+                "I can stop by that shop next time!"
+            ]
+        },
+        {
+            "name": "Gentildonna",
+            "text": "……Heh."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Quite the commendable spirit."
+        }
+    ]
+}

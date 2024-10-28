@@ -1,0 +1,275 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today was a day off. I had been browsing through a \nbookstore and before I realized it, it was this late."
+        },
+        {
+            "text": "I wanted to hurry home and start studying the books I \nbought. I took a shortcut, heading down a back alley――"
+        },
+        {
+            "text": "……I couldn't say I had a good feeling about this. Even though \nI couldn't see anyone, I felt like someone was watching me.",
+            "choice_data_list": [
+                "(I need to get out of here――)"
+            ]
+        },
+        {
+            "text": "Thinking that, I moved forward but then I heard a voice behind me."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Trainer-san."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "What a coincidence. \nAre you on your way home from shopping too?",
+            "choice_data_list": [
+                "Oh, you too?",
+                "Oh, you too?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Yes. I was looking for an accessory \nthat would look good on my little sister."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "However, when it comes to off-the-shelf products, I can't seem to \nfind anything suitable for her. Today's search resulted in zero.",
+            "choice_data_list": [
+                "That's unfortunate",
+                "That's unfortunate"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Yes. I was disappointed, but since I bumped \nin to Trainer-san, things are looking up."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……If you'd like, how about returning to the academy together?"
+        },
+        {
+            "text": "Of course I agree. However, it would be better to \navoid this path. I didn't want to put her in danger――"
+        },
+        {
+            "name": "Man in Pain",
+            "text": "Ugh, my stomach……help me……",
+            "choice_data_list": [
+                "Eh……?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…… Is something wrong?"
+        },
+        {
+            "text": "That pained voice just now……did Dream Journey not hear it?"
+        },
+        {
+            "text": "I looked around, and then saw a man on his \nhands and knees on the ground in front of us."
+        },
+        {
+            "name": "Man in Pain",
+            "text": "I-it hurts……"
+        },
+        {
+            "text": "There were a few other people around besides us, but nobody moved \nto help him. They all glanced at him but quickly looked away.",
+            "choice_data_list": [
+                "Are you okay!?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…………"
+        },
+        {
+            "name": "Man in Pain",
+            "text": "Y-yeah…… Sorry about that, my stomach hurts……ugh.",
+            "choice_data_list": [
+                "Hold on to my shoulder"
+            ]
+        },
+        {
+            "name": "Man in Pain",
+            "text": "Thanks……you can just leave me by that door. \nI'll be fine if you can get me there……"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Trainer-san."
+        },
+        {
+            "text": "Dream Journey's voice was calm and matter-of-fact. \nIt was quite strange considering where we were.",
+            "choice_data_list": [
+                "Just wait a moment!"
+            ]
+        },
+        {
+            "text": "I helped the man sit down beside the \ndoor before turning back to her."
+        },
+        {
+            "name": "Man in Pain",
+            "text": "Yeah, here is fine. \nThanks. Ow ow……",
+            "choice_data_list": [
+                "What about a hospital……?"
+            ]
+        },
+        {
+            "name": "Man in Pain",
+            "text": "No, I just drank too much. I'll be fine after resting a bit. \nLook, the girl with you is still waiting."
+        },
+        {
+            "text": "I looked back towards Dream Journey. Her eyes narrowed \nsharply for a moment but then her smile returned."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……seems like he's used to this place, \nand that he's more worried about you."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Let's head back, Trainer-san.",
+            "choice_data_list": [
+                "Yeah……okay.",
+                "Yeah……okay."
+            ]
+        },
+        {
+            "text": "I looked back at the man one last time, he waved \nhis hand but he looked slightly annoyed."
+        },
+        {
+            "text": "It seemed kind of rude but I was sure it was because he was drunk \nand had a stomach ache. And so we silently left that place."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…………"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……Trainer-san is……",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Just as kind as you were back then, huh."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "The same as when you offered me your spot……even though \nyou were helping him, you were still worried about me."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "It wasn't a safe place, so you kept looking \naround to make sure nothing happened."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Fufu. It's not that you're unaware, \nbut you still try to be kind.",
+            "choice_data_list": [
+                "Helping someone is……"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Normal, is it? \n……Yes, that's true."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Certainly……you won't betray your own sense of right and wrong.",
+            "choice_data_list": [
+                "……What do you mean?"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "…………"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "I meant what I said."
+        },
+        {
+            "text": "When we returned to the dorms, we exchanged a quick \ngoodbye. Dream Journey showed me the same smile as always."
+        },
+        {
+            "text": "I looked at the book I had with me. Since the \nbag was clear, the title was visible so it \nwas obvious that the book was about training."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "That――",
+            "choice_data_list": [
+                "L-leave it to me!"
+            ]
+        },
+        {
+            "text": "I attempted to interrupt Dream Journey before she could speak. \nI was sure that her words would be to show concern for me."
+        },
+        {
+            "text": "I didn't want her to think I was unreliable…… \nmaybe that feeling was obvious in my awkwardness."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……――Fufu."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "So honest and sincere…… \nmaybe it was something you were born with?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "From the bottom of my heart, I think it's something \nastonishing. And then, that……it should never be \nsomething lost due to malicious intent."
+        },
+        {
+            "text": "After saying that, Dream Journey left."
+        },
+        {
+            "text": "……I was certain her words were not a lie. It's just that \nthere was another meaning behind those words as well."
+        },
+        {
+            "text": "――However",
+            "choice_data_list": [
+                "Be careful on your way back!"
+            ]
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……Fufu. But the dorms are right here."
+        },
+        {
+            "text": "There didn't seem to be any hidden meaning \nbehind the soft voice she replied with."
+        },
+        {
+            "text": "After I got home……I was putting down my things \nand was putting my keys away when I noticed.",
+            "choice_data_list": [
+                "I-it's not here……!?"
+            ]
+        },
+        {
+            "text": "I empty out my bags and my pockets, but it's not here. \n――My wallet. I was sure I put it away properly. I \ndidn't put it in a place it could easily fall out of.",
+            "choice_data_list": [
+                "I-I have no idea――……Ha!?"
+            ]
+        },
+        {
+            "text": "The events from the back alley flash through \nmy mind. Maybe, that was……a pickpocket……",
+            "choice_data_list": [
+                "No way……",
+                "No way……"
+            ]
+        },
+        {
+            "text": "I sag my shoulders. There was no evidence to report to the \npolice. Alone in the quiet room, I let out a big sigh……"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "……the more important it is that something \nnot be lost, the more delicate it is."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "And the more essential the object, the more \nlikely it will be shrouded in that scent."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "If something were to happen, I couldn't bear \nto watch. It hurts your heart……doesn't it?"
+        }
+    ]
+}

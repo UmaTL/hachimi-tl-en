@@ -1,0 +1,191 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Today is the day of the Selection Race, where trainers come to \nscout out Tracen's horsegirls and approach promising talents. \nIt's an important event which decides many a horsegirl's future."
+        },
+        {
+            "text": "In the early hours of morning on this important day, \nI spot a lone horsegirl running intently on the track."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>Phoo…!</i> Good, one more… no, ten more laps!!",
+            "choice_data_list": [
+                "Don't hurt yourself before the race, aye?",
+                "Try not to get hurt before the race, yeah?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "No, no, this doesn't even count as warmup to me!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "For I am El Condor Pasa! A horsegirl who will spread \nher wings through the whole world's skies one day!!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Uy! I casually started responding, but who are you!?",
+            "choice_data_list": [
+                "I'm just a trainer, here for the race."
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "A trainer?!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That means… could it be, could it be… \nYou're here to scout me, are you!?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The Selection Race hasn't even started yet, but you've \nalready been drawn in by El's power, talent, potential!?",
+            "choice_data_list": [
+                "No, uhh…"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Bueno! I'm so glad you came to see me! \nYour passion is greatly impressive!"
+        },
+        {
+            "text": "She's not listening…!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But I'm sorry, my answer right now is <i>no</i>."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "… Why is that, you ask? I rushed over here wanting to \nscout her right now, yet why, why won't El agree to it!?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "The answer is simple! Trainer, you must watch the \nrace today and judge El's ability for yourself first!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "A trusting and passionate bond with her trainer! \nThat is an essential ingredient to make a world-class horsegirl!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "That's why, Trainer, I want you to consider this carefully!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "…… Ah, but I can definitely feel the passion that drove you \nto talk to me before the race♪ You deserve 1 El point for that!",
+            "choice_data_list": [
+                "T-Thanks……?"
+            ]
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Ay! It's almost time for the race, too. \nI'm off, ciao～♪"
+        },
+        {
+            "text": "El Condor Pasa took off like a bird……"
+        },
+        {
+            "text": "Regardless of all that, the Selection Race had \nnow begun, and its standout performer was ——"
+        },
+        {
+            "name": "Commentator",
+            "text": "El Condor Pasa! Her lead is stretching further and further! \nNo one can keep pace with her!"
+        },
+        {
+            "name": "Commentator",
+            "text": "What amazing running talents!! \nEl Condor Pasa takes an impressive first place!!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Glorious! Meritorious! El's victorious!! \nThis is my true poweeeer!!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "She just left them all behind on the final straight……! \nThat one's head and shoulders above the rest……!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "She could turn out to be one hell of a horsegirl in the future…!?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Hehehen… I can hear the sounds of praise, the murmurs \nabout world's mightiest horsegirl…!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Venga, I'll listen to your offers! Who will be the trainer \nto take on the world with meee?!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "El Condor Pasa! I have a proposal to discuss with you!!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "Bollocks, you got nothing! <i>I</i> will see to it \nthat you can take flight into the skies!!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "<i>Ooooh</i>, bueno♪ I'm so happy to have your attentiooon!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But but but! El is looking for a partner she can trust! \nAnd that means ——"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Get rready to rrumbleee! It's Scout Championship tiiime!"
+        },
+        {
+            "name": "Trainers",
+            "text": "Scout Championship……?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Yes! Training menus form an important \nelement of being a trainer!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "So everyone, get thinking on a menu to make \nEl the strongest in the world, please!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Create one that flares up El's heart and she will join you!!"
+        },
+        {
+            "name": "Veteran Trainer B",
+            "text": "So that's what she's after…! \nWe've got ourselves a \"Training Menu Showdown\"!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Bring it on! I got this in the bag…!"
+        },
+        {
+            "text": "And so, the exuberant trainers dispersed ——"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Who's that still standing there…? Ah, of course! \nYou with your overflowing passion!!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "But nooo can do, sorry! I can't treat you differently!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Let me tell you a little secret though… \nI'm excited to see your training menu♪"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Because you wanted to scout me so badly you \nmade a <i>flying</i> false start just to try!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I'll be waiting for you, Trainer!!"
+        },
+        {
+            "text": "… So it came to be that I started thinking \nof a training menu for El Condor Pasa."
+        }
+    ]
+}

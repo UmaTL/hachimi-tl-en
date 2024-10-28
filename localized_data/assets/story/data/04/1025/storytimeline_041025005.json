@@ -1,13 +1,14 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The weather forecast had been wrong and it was pouring with rain. I was in the office, throwing together an indoor training plan for the day…",
+            "text": "The weather forecast had been wrong and it was pouring \nwith rain. I was in the office, throwing together \nan indoor training plan for the day…",
             "choice_data_list": [
                 "(Where'd that pen go…?)"
             ]
         },
         {
-            "text": "It felt like I'd been losing things a lot recently. The pen today. Those papers from the academy yesterday…"
+            "text": "It felt like I'd been losing things a lot recently. The pen \ntoday. Those papers from the academy yesterday…"
         },
         {
             "text": "I got up to get another one… when…"
@@ -19,13 +20,13 @@
             ]
         },
         {
-            "text": "A sudden shove, like someone was trying to push me over… but there was no one in the room but me…",
+            "text": "A sudden shove, like someone was trying to push me over… but \nthere was no one in the room but me…",
             "choice_data_list": [
                 "(Maybe I'm just… tired…?)"
             ]
         },
         {
-            "text": "No time to worry about that now though. A trainer can't keep their Uma Musume waiting! I gave myself a quick pep-talk, and got to work."
+            "text": "No time to worry about that now though. A trainer \ncan't keep their Uma Musume waiting! I gave myself \na quick pep-talk, and got to work."
         },
         {
             "name": "Manhattan Cafe",
@@ -33,13 +34,13 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Um…… trainer-san… …the music's stopped…",
+            "text": "Um…… trainer-san… \n…the music's stopped…",
             "choice_data_list": [
                 "…… hmm? What?"
             ]
         },
         {
-            "text": "(I'd put on some music to help her tempo while she ran laps of the gym. When had it stopped? I hadn't even noticed…)",
+            "text": "(I'd put on some music to help her tempo while she ran laps of \nthe gym. When had it stopped? I hadn't even noticed…)",
             "choice_data_list": [
                 "Sorry! I was miles away…"
             ]
@@ -87,11 +88,11 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "That… won't be necessary… You… should go home…"
+            "text": "That… won't be necessary… \nYou… should go home…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Straight home. Don't stop. And…"
+            "text": "Straight home. Don't stop. \nAnd…"
         },
         {
             "name": "Manhattan Cafe",
@@ -102,13 +103,13 @@
             "text": "You must not visit me… at night…"
         },
         {
-            "text": "When I got outside, the rain had stopped. As I walked home, I thought back on what Manhattan Cafe had said.",
+            "text": "When I got outside, the rain had stopped. As I walked home, I \nthought back on what Manhattan Cafe had said.",
             "choice_data_list": [
                 "(I mustn't see her…?)"
             ]
         },
         {
-            "text": "Maybe she was mad at me for messing up earlier. \"I've got to do better tomorrow\" I told myself, when…"
+            "text": "Maybe she was mad at me for messing up earlier. \"I've got to do \nbetter tomorrow\" I told myself, when…"
         },
         {
             "text": "Suddenly a chill run down my back… I was being watched…",
@@ -118,7 +119,7 @@
             ]
         },
         {
-            "text": "I turned back to look, but there was nothing but darkness. Darkness… and the unmistakable sense that someone was right behind me…!"
+            "text": "I turned back to look, but there was nothing \nbut darkness. Darkness… and the unmistakable \nsense that someone was right behind me…!"
         },
         {
             "name": "???",
@@ -152,7 +153,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "But why? What don't they like about him? Or… could it be…"
+            "text": "But why? What don't they like about him? \nOr… could it be…"
         }
     ]
 }

@@ -1,11 +1,12 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, after training was over. I saw Fuji Kiseki with some underclassmen."
+            "text": "One day, after training was over. \nI saw Fuji Kiseki with some underclassmen."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Goodness, you're awfully naughty. You called me out here, in the middle of nowhere――"
+            "text": "Goodness, you're awfully naughty. \nYou called me out here, in the middle of nowhere――"
         },
         {
             "name": "Fuji Kiseki",
@@ -17,23 +18,23 @@
         },
         {
             "name": "Junior Horsegirl",
-            "text": "I decided, today. I'm going to tell Senpai how I feel about her…"
+            "text": "I decided, today. \nI'm going to tell Senpai how I feel about her…"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…That's quite alright. I'll accept it to the best of my ability."
+            "text": "…That's quite alright. \nI'll accept it to the best of my ability."
         },
         {
             "name": "Junior Horsegirl",
-            "text": "Fuji-senpai… I really like you, Senpai!"
+            "text": "Fuji-senpai… \nI really like you, Senpai!"
         },
         {
             "name": "Junior Horsegirl",
-            "text": "As a first grade junior, I've always followed your back, Senpai. Someday, I'll catch up with that back… and then…"
+            "text": "As a first grade junior, I've always followed your back, Senpai. \nSomeday, I'll catch up with that back… and then…"
         },
         {
             "name": "Junior Horsegirl",
-            "text": "We'll stand side by side and… together… together we'll run… I, I thought."
+            "text": "We'll stand side by side and… together… together we'll \nrun… I, I thought."
         },
         {
             "name": "Fuji Kiseki",
@@ -41,7 +42,7 @@
         },
         {
             "name": "Junior Horsegirl",
-            "text": "That's why… I said this it was too much… And that I was so frustrated…"
+            "text": "That's why… I said this it was too much… \nAnd that I was so frustrated…"
         },
         {
             "name": "Fuji Kiseki",
@@ -49,7 +50,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I gathered from the President that you're leaving the Academy today. …She said you have a leg injury."
+            "text": "I gathered from the President that you're leaving the Academy \ntoday. \n…She said you have a leg injury."
         },
         {
             "name": "Junior Horsegirl",
@@ -57,11 +58,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You were one of the most talented of the younger class. I knew that one day, you would be a formidable rival."
+            "text": "You were one of the most talented of the younger class. \nI knew that one day, you would be a formidable rival."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Above all, you were practicing harder than anyone else, weren't you? That's why I'm frustrated, too."
+            "text": "Above all, you were practicing harder than anyone else, \nweren't you? \nThat's why I'm frustrated, too."
         },
         {
             "name": "Fuji Kiseki",
@@ -73,7 +74,7 @@
         },
         {
             "name": "Junior Horsegirl",
-            "text": "I wanted to run more… I wanted to keep running, get lots of wins, and one day…"
+            "text": "I wanted to run more… \nI wanted to keep running, get lots of wins, and one day…"
         },
         {
             "name": "Fuji Kiseki",
@@ -81,36 +82,36 @@
         },
         {
             "name": "Junior Horsegirl",
-            "text": "…Can I entrust my dream to you, Senpai? As an Uma Musume, can I entrust my dream to…"
+            "text": "…Can I entrust my dream to you, Senpai? \nAs an Uma Musume, can I entrust my dream to…"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I've most certainly received your feelings. Let's run, together. No matter how far."
+            "text": "I've most certainly received your feelings. \nLet's run, together. No matter how far."
         },
         {
-            "text": "A faint cry echoed in the evening glow of sunset. In the end, the junior left with a smile on her face."
+            "text": "A faint cry echoed in the evening glow of sunset. \nIn the end, the junior left with a smile on her face."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "It looks as if you've seen my secret. I know you're in there, aren't you? Trainer.",
+            "text": "It looks as if you've seen my secret. \nI know you're in there, aren't you? Trainer.",
             "choice_data_list": [
                 "I noticed."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…On occasion, there are girls that leave the academy like that. I feel tormented by a feeling of utter helplessness."
+            "text": "…On occasion, there are girls that leave the academy like that. \nI feel tormented by a feeling of utter helplessness."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "How can I entertain a girl whose dreams have been dashed? I made her smile so sadly."
+            "text": "How can I entertain a girl whose dreams have been dashed? \nI made her smile so sadly."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Entrust me with your dream \"as an Uma Musume\"――so she said."
+            "text": "Entrust me with your dream \"as an Uma Musume\"――so she \nsaid."
         },
         {
-            "text": "――Speaking of which, Fuji Kiseki once told me that she gave up her dream of becoming an actor and chose racing…",
+            "text": "――Speaking of which, Fuji Kiseki once told me that she gave \nup her dream of becoming an actor and chose racing…",
             "choice_data_list": [
                 "What's your dream, right now?",
                 "What's your dream, right now?"
@@ -118,21 +119,21 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "My dream? That, of course, is to \"Make \"Miracles\" happen, and to entertain all.\"――"
+            "text": "My dream? That, of course, is to \"Make \"Miracles\" happen, \nand to entertain all.\"――"
         },
         {
-            "text": "But… as soon as she said that, Fuji Kiseki fell silent. A sort of thoughtful expression appeared on her face.",
+            "text": "But… as soon as she said that, Fuji Kiseki fell silent. \nA sort of thoughtful expression appeared on her face.",
             "choice_data_list": [
                 "…Are you alright?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Whoops, that's no good, no good at all. It's at times like this that \"Fuji Kiseki\" must laugh!"
+            "text": "Whoops, that's no good, no good at all. \nIt's at times like this that \"Fuji Kiseki\" must laugh!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Please, keep what you saw today a secret. Look, it's just a promise between you and me――"
+            "text": "Please, keep what you saw today a secret. \nLook, it's just a promise between you and me――"
         },
         {
             "text": "Fuji Kiseki smiled as best she could."

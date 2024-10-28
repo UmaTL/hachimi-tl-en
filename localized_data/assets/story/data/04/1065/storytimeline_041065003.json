@@ -2,41 +2,41 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "We～～～～～i♪",
             "name": "Daitaku Helios",
+            "text": "We～～～～～i♪",
             "choice_data_list": [
                 "This is……"
             ]
         },
         {
-            "text": "Helios! You brought an unfamiliar face with ya today. \nFriend?",
-            "name": "Young Woman"
+            "name": "Young Woman",
+            "text": "Helios! You brought an unfamiliar face with ya today. \nFriend?"
         },
         {
-            "text": "Yep! Name's Trai-pi. \nWe tight～☆",
             "name": "Daitaku Helios",
+            "text": "Yep! Name's Trai-pi. \nWe tight～☆",
             "choice_data_list": [
                 "Tight!?"
             ]
         },
         {
-            "text": "Ever since our eyes met! \nEven our breathing's in sync☆",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Ever since our eyes met! \nEven our breathing's in sync☆"
         },
         {
-            "text": "Oh! It's here, it's here～～!! \nI really like this song!! Let's dance!",
             "name": "Daitaku Helios",
+            "text": "Oh! It's here, it's here～～!! \nI really like this song!! Let's dance!",
             "choice_data_list": [
                 "!? By dance you mean……!"
             ]
         },
         {
-            "text": "Like this. Ride the rhythm～…… \nJust move with it! And flow!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Like this. Ride the rhythm～…… \nJust move with it! And flow!"
         },
         {
-            "text": "Just dance like boom boom♪ is what I'm saying! If that's too \nhard, just match me! If you don't it'll be a real bummer～",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Just dance like boom boom♪ is what I'm saying! If that's too \nhard, just match me! If you don't it'll be a real bummer～"
         },
         {
             "text": "If I ruin the mood, then there's a chance I \nwon't get to talk to her. Besides, when in Rome……",
@@ -45,57 +45,57 @@
             ]
         },
         {
-            "text": "Hyuuu, that's the spirit～☆ Trai-pi livin' it up, lookin' good☆ \nTeam Heli-T is gonna tear it up!!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Hyuuu, that's the spirit～☆ Trai-pi livin' it up, lookin' good☆ \nTeam Heli-T is gonna tear it up!!"
         },
         {
             "text": "And so, I got caught up in Daitaku Helios' antics…… \nNo, maybe I was drawn in like a moth to the flame―"
         },
         {
-            "text": "―So, about the next \"Fireside-chat Party\"! \nThe association chairman suggested a potluck picnic!",
-            "name": "Shopper A"
+            "name": "Shopper A",
+            "text": "―So, about the next \"Fireside-chat Party\"! \nThe association chairman suggested a potluck picnic!"
         },
         {
-            "text": "Sounds awesome～! When I cook I always end up burning everything! \nIf ya need something bitter, leave it to me!☆",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "Ufufuu, a little charring makes it spicy! ……or something! \nEver since Helios-chan started joining in, it's been more fun.",
-            "name": "Shopper A"
-        },
-        {
-            "text": "Cooperation between other associations has been \ngoing smoothly too. The picnic too, sounds like \nthere's going to be a lot of people!",
-            "name": "Shopper B"
-        },
-        {
-            "text": "Hyuuu～♪ Instead of a park maybe we need a dome!? \nA Fireside-chat picnic in a dome sounds wild☆",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "True that☆",
-            "name": "Everyone"
-        },
-        {
-            "text": "―And then, you line up some vinyl pools! \nDon't you wanna make a beach for Gramps and Granny!? Count me in!",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "Fufu, that sounds fun. \nSeems like Summer will be coming for even an old man like me.",
-            "name": "Old Man"
-        },
-        {
-            "text": "Helios-chan, I wanna help too! \nI'll get the other kids from my school too～ ehehe♪",
-            "name": "Small Child"
-        },
-        {
-            "text": "＠×゛＆＃〇☆×％×☆×％×＆゛＃％〇％＊×＠゛＋☆＃",
-            "name": "Silver Person？？"
-        },
-        {
-            "text": "We～i, everyone's welcome☆ \nThe entire world is my friend-!",
             "name": "Daitaku Helios",
+            "text": "Sounds awesome～! When I cook I always end up burning everything! \nIf ya need something bitter, leave it to me!☆"
+        },
+        {
+            "name": "Shopper A",
+            "text": "Ufufuu, a little charring makes it spicy! ……or something! \nEver since Helios-chan started joining in, it's been more fun."
+        },
+        {
+            "name": "Shopper B",
+            "text": "Cooperation between other associations has been \ngoing smoothly too. The picnic too, sounds like \nthere's going to be a lot of people!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Hyuuu～♪ Instead of a park maybe we need a dome!? \nA Fireside-chat picnic in a dome sounds wild☆"
+        },
+        {
+            "name": "Everyone",
+            "text": "True that☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "―And then, you line up some vinyl pools! \nDon't you wanna make a beach for Gramps and Granny!? Count me in!"
+        },
+        {
+            "name": "Elder Man",
+            "text": "Fufu, that sounds fun. \nSeems like Summer will be coming for even an old man like me."
+        },
+        {
+            "name": "Small Child",
+            "text": "Helios-chan, I wanna help too! \nI'll get the other kids from my school too～ ehehe♪"
+        },
+        {
+            "name": "Silver Person？？",
+            "text": "＠×゛＆＃〇☆×％×☆×％×＆゛＃％〇％＊×＠゛＋☆＃"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "We～i, everyone's welcome☆ \nThe entire world is my friend-!",
             "choice_data_list": [
-                "<size=43>(Everyone seems to be enjoying it……)</size>"
+                "(Everyone seems to be enjoying it……)"
             ]
         },
         {
@@ -105,8 +105,8 @@
             ]
         },
         {
-            "text": "Ah～ Good times, good times☆ \nToday was extra lit!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Ah～ Good times, good times☆ \nToday was extra lit!"
         },
         {
             "text": "After spending the day with her, I felt I understood her a little \nbetter. An endless well of brightness, a girl that drew everyone \nto her like the Sun. But, still……",
@@ -122,64 +122,64 @@
             ]
         },
         {
-            "text": "Alright, on to the last event! \nTime for a race～!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Alright, on to the last event! \nTime for a race～!"
         },
         {
-            "text": "―Yooooo. \nRight, let's get started～☆",
             "name": "Daitaku Helios",
+            "text": "―Yooooo. \nRight, let's get started～☆",
             "choice_data_list": [
                 "Deja vu……!?"
             ]
         },
         {
-            "text": "The heck's that!? \nSounds rough～ hilarious!!",
             "name": "Daitaku Helios",
+            "text": "The heck's that!? \nSounds rough～ hilarious!!",
             "choice_data_list": [
-                "<size=43>Didn't you run a mock race yesterday?</size>",
-                "<size=43>Didn't you run a mock race yesterday?</size>"
+                "Didn't you run a mock race yesterday?",
+                "Didn't you run a mock race yesterday?"
             ]
         },
         {
-            "text": "Well, the day ain't over 'til I've run. \nGotta wrap it all up with the most fun thing of all, right!?",
             "name": "Daitaku Helios",
+            "text": "Well, the day ain't over 'til I've run. \nGotta wrap it all up with the most fun thing of all, right!?",
             "choice_data_list": [
                 "The most fun?"
             ]
         },
         {
-            "text": "'Course! Today was an absolute blast though～, \nbut nothin' beats a race☆",
             "name": "Daitaku Helios",
+            "text": "'Course! Today was an absolute blast though～, \nbut nothin' beats a race☆",
             "choice_data_list": [
                 "……Why's that?"
             ]
         },
         {
-            "text": "'Cuz I can hit it with everything? And it really \ngets the blood pumpin'!? It's wicked how all those \nemotions clash!! And it feels great～☆",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "Wait…… that's wild! You don't know how awesome \nraces are? Eh, that has to be it, otherwise \nnormally you wouldn't ask that, right!?",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "Heeey, everyone's ready-. \nHelios, you need to Gate In too～.",
-            "name": "Helios' Classmate A"
-        },
-        {
-            "text": "……guess there's no helping it☆ Hey～! \nI'm gonna run carrying this person!",
             "name": "Daitaku Helios",
+            "text": "'Cuz I can hit it with everything? And it really \ngets the blood pumpin'!? It's wicked how all those \nemotions clash!! And it feels great～☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Wait…… that's wild! You don't know how awesome \nraces are? Eh, that has to be it, otherwise \nnormally you wouldn't ask that, right!?"
+        },
+        {
+            "name": "Helios' Classmate A",
+            "text": "Heeey, everyone's ready-. \nHelios, you need to Gate In too～."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "……guess there's no helping it☆ Hey～! \nI'm gonna run carrying this person!",
             "choice_data_list": [
                 "…………Ehh"
             ]
         },
         {
-            "text": "Haaaa～～～!?",
-            "name": "Helios' Classmate A"
+            "name": "Helios' Classmate A",
+            "text": "Haaaa～～～!?"
         },
         {
-            "text": "Hyuu～～～～!! \nBlast off――――!!",
             "name": "Daitaku Helios",
+            "text": "Hyuu～～～～!! \nBlast off――――!!",
             "choice_data_list": [
                 "……！？！？！？！？"
             ]
@@ -191,8 +191,8 @@
             ]
         },
         {
-            "text": "Ahahaa!! It ain't scary! \nFeel it with your whole body! It's theeeeeee beeeeeeeest～～～～!!!!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Ahahaa!! It ain't scary! \nFeel it with your whole body! It's theeeeeee beeeeeeeest～～～～!!!!"
         },
         {
             "text": "Urged on by her words, I steeled myself and then opened my eyes. \nWhen I did…… the wind, breath, footsteps, the beating in my \nchest…… hit me all at once―",
@@ -201,12 +201,12 @@
             ]
         },
         {
-            "text": "Weeeee～～～～～i!!!! \nWild, right!?",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "Weeeee～～～～～i!!!! \nWild, right!?"
         },
         {
-            "text": "Is there anything as awesome as this!? \nI love racing! I'm really down bad～～☆",
             "name": "Daitaku Helios",
+            "text": "Is there anything as awesome as this!? \nI love racing! I'm really down bad～～☆",
             "choice_data_list": [
                 "(I see. She's…… serious)"
             ]
@@ -218,15 +218,15 @@
             ]
         },
         {
-            "text": "―And so, I'm last again!? \nAin't that too tragic!?",
             "name": "Daitaku Helios",
+            "text": "―And so, I'm last again!? \nAin't that too tragic!?",
             "choice_data_list": [
-                "<size=42>I mean, you were carrying a person……</size>"
+                "I mean, you were carrying a person……"
             ]
         },
         {
-            "text": "Ain't that the truth☆ But it was still lit!! \nSee, racing's the best, right!?",
             "name": "Daitaku Helios",
+            "text": "Ain't that the truth☆ But it was still lit!! \nSee, racing's the best, right!?",
             "choice_data_list": [
                 "I guess so……",
                 "I guess so……"
@@ -248,24 +248,24 @@
             ]
         },
         {
-            "text": "Hey, let's go again! \nThis time without carrying someone! Hey, sounds great, right!?",
-            "name": "Daitaku Helios"
-        },
-        {
-            "text": "Eh～!? No way! Besides, \nnormally it's not something you can do multiple days in a row!",
-            "name": "Helios' Classmate A"
-        },
-        {
-            "text": "Then, Trai-pi! I choose you! \nUse Parallel Running!",
             "name": "Daitaku Helios",
+            "text": "Hey, let's go again! \nThis time without carrying someone! Hey, sounds great, right!?"
+        },
+        {
+            "name": "Helios' Classmate A",
+            "text": "Eh～!? No way! Besides, \nnormally it's not something you can do multiple days in a row!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Then, Trai-pi! I choose you! \nUse Parallel Running!",
             "choice_data_list": [
                 "Me!?",
                 "Me!?"
             ]
         },
         {
-            "text": "The race was awesome, right!? Then, this time use your own two \nfeet～ and battle it out with me～☆ Gate In, wei!",
-            "name": "Daitaku Helios"
+            "name": "Daitaku Helios",
+            "text": "The race was awesome, right!? Then, this time use your own two \nfeet～ and battle it out with me～☆ Gate In, wei!"
         }
     ]
 }

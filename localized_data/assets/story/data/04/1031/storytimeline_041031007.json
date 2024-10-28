@@ -1,11 +1,12 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Ines Fujin",
-            "text": "<i>Haa, haah, haa……! </i>Finally done with beach running～"
+            "text": "<i>Haa, haah, haa……! \n</i>Finally done with beach running～"
         },
         {
-            "text": "The annual summer training camp had begun. I hoped to gain a burst of improvement here to take into races, however —"
+            "text": "The annual summer training camp had begun. \nI hoped to gain a burst of improvement here to \ntake into races, however —"
         },
         {
             "name": "Beach Bar Owner",
@@ -13,29 +14,29 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>Hueeh!?</i> Is that you, Mister Beach?!",
+            "text": "<i>Hueeh!?</i> \nIs that you, Mister Beach?!",
             "choice_data_list": [
                 "Someone you know?"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Yeah! He often helped me out back home! I heard he'd moved, but I never thought I'd find him here……!"
+            "text": "Yeah! He often helped me out back home! \nI heard he'd moved, but I never thought I'd find him here……!"
         },
         {
             "name": "Beach Bar Owner",
-            "text": "That's what I wanna say! I knew you attended Tracen Academy but to think I'd see you again like this～"
+            "text": "That's what I wanna say! I knew you attended Tracen Academy \nbut to think I'd see you again like this～"
         },
         {
             "name": "Beach Bar Owner",
-            "text": "I'm running a beach bar here nowdays. Do come drop by later if you got time!"
+            "text": "I'm running a beach bar here nowdays. \nDo come drop by later if you got time!"
         },
         {
             "name": "Ines Fujin",
             "text": "For sure! We'll be there!"
         },
         {
-            "text": "After training, we made good on the invitation and headed to the beach bar, but —"
+            "text": "After training, we made good on the invitation \nand headed to the beach bar, but —"
         },
         {
             "name": "Ines Fujin",
@@ -47,7 +48,7 @@
         },
         {
             "name": "Beach Bar Owner",
-            "text": "It's ain't like this most days, but when the summer festival rolls 'round there's always a big increase in customers…"
+            "text": "It's ain't like this most days, but when the summer festival \nrolls 'round there's always a big increase in customers…"
         },
         {
             "name": "Ines Fujin",
@@ -96,11 +97,11 @@
         },
         {
             "name": "Beach Bar Owner",
-            "text": "You good, kid? It don't look like you got a lot of experience doing this……"
+            "text": "You good, kid? It don't look like you got \na lot of experience doing this……"
         },
         {
             "name": "Beach Bar Owner",
-            "text": "You alright there? It don't look like you got a lot of experience doing this……"
+            "text": "You alright there? It don't look like you got \na lot of experience doing this……"
         },
         {
             "name": "Ines Fujin",
@@ -108,13 +109,13 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "It might not be immediately clear, but my trainer can be quite reliable♪",
+            "text": "It might not be immediately clear, \nbut my trainer can be quite reliable♪",
             "choice_data_list": [
                 "(Ines……!)"
             ]
         },
         {
-            "text": "I thought to myself that I had to live up to her expectations no matter what and returned direction kitchen."
+            "text": "I thought to myself that I had to live up to her expectations \nno matter what and returned direction kitchen."
         },
         {
             "text": "By the time of the summer festival —",
@@ -124,11 +125,11 @@
         },
         {
             "name": "Young Woman B",
-            "text": "Whoa, already? Thank you～!"
+            "text": "Whoa, already? \nThank you～!"
         },
         {
             "name": "Young Woman B",
-            "text": "Whoa, already? Thank you～!"
+            "text": "Whoa, already? \nThank you～!"
         },
         {
             "name": "Beach Bar Owner",
@@ -140,7 +141,7 @@
         },
         {
             "name": "Beach Bar Owner",
-            "text": "It's been a big help having you both here. The crowds have calmed a bit now so why don't the two of you head off to the festival!"
+            "text": "It's been a big help having you both here. \nThe crowds have calmed a bit now so why \ndon't the two of you head off to the festival!"
         },
         {
             "name": "Ines Fujin",
@@ -155,7 +156,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You too♪ Thanks for coming with me!",
+            "text": "You too♪ \nThanks for coming with me!",
             "choice_data_list": [
                 "I thought you were about to run \noff to help on your own at first."
             ]
@@ -166,7 +167,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You always seemed kind of a klutz and in need of help more often than helping, you know?",
+            "text": "You always seemed kind of a klutz and in need of help \nmore often than helping, you know?",
             "choice_data_list": [
                 "R-Really…"
             ]
@@ -177,25 +178,25 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You don't always look it, but I know you're someone who can do it when you put your mind to it, Trainer!"
+            "text": "You don't always look it, but I know you're someone \nwho can do it when you put your mind to it, Trainer!"
         },
         {
             "name": "Ines Fujin",
-            "text": "That's why I felt I could rely on you a little today. Wasn't wrong, was I?",
+            "text": "That's why I felt I could rely on you a little today. \nWasn't wrong, was I?",
             "choice_data_list": [
                 "You bet!"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Aah, and you were so unreliable when we first met～ Really, where's all that gone?",
+            "text": "Aah, and you were so unreliable when we first met～ \nReally, where's all that gone?",
             "choice_data_list": [
                 "I want you to be able to count on me, \nand run to your heart's content."
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>! </i>"
+            "text": "<i>! \n</i>"
         },
         {
             "name": "Ines Fujin",
@@ -203,7 +204,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Oh what a siiight! There's fireworks all over the sky!",
+            "text": "Oh what a siiight! \nThere's fireworks all over the sky!",
             "choice_data_list": [
                 "It's beautiful.",
                 "It's beautiful."
@@ -215,11 +216,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "But you know… if I had to do everything alone… I think I'd have been too busy to pay attention to summer festivals and fireworks."
+            "text": "But you know… if I had to do everything alone… \nI think I'd have been too busy to pay attention to \nsummer festivals and fireworks."
         },
         {
             "name": "Ines Fujin",
-            "text": "Maybe summer festivals are fun and the fireworks so beautiful because of a certain someone, hmm?",
+            "text": "Maybe summer festivals are fun and the fireworks so \nbeautiful because of a certain someone, hmm?",
             "choice_data_list": [
                 "Ines……"
             ]
@@ -230,11 +231,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "I'm glad I enrolled at the academy. I'm glad I could come to summer camp. ……I'm glad I met you!"
+            "text": "I'm glad I enrolled at the academy. I'm glad I could \ncome to summer camp. ……I'm glad I met you!"
         },
         {
             "name": "Bandaged Up Horsegirl",
-            "text": "If I'd known… I don't want it to end like this…… I wish I'd never met you……!"
+            "text": "If I'd known… I don't want it to end like this…… \nI wish I'd never met you……!"
         },
         {
             "name": "Ines Fujin",
@@ -245,10 +246,10 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Maan, look at your face! If you're happy then smile, smile!"
+            "text": "Maan, look at your face! \nIf you're happy then smile, smile!"
         },
         {
-            "text": "Glad she met me… Having been told that, I need to become a more reliable trainer, for her.",
+            "text": "Glad she met me… Having been told that, I need \nto become a more reliable trainer, for her.",
             "choice_data_list": [
                 "Yeah! I'll keep working hard for yoy —",
                 "Yeah! I'll keep working hard for yoy —"
@@ -256,18 +257,18 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>Pffft! </i>"
+            "text": "<i>Pffft! \n</i>"
         },
         {
             "name": "Ines Fujin",
-            "text": "<i>Maaaan～!</i> You have to be cool the whole way through if you're gonna say stuff like that!"
+            "text": "<i>Maaaan～!</i> You have to be cool the whole way \nthrough if you're gonna say stuff like that!"
         },
         {
             "name": "Ines Fujin",
             "text": "I'll keep counting on you, Trainer♪"
         },
         {
-            "text": "There's a mischievous smile on Ines Fujin's face, but her eyes are full of warmth."
+            "text": "There's a mischievous smile on Ines Fujin's face, \nbut her eyes are full of warmth."
         }
     ]
 }

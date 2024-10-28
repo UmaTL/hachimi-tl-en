@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Rice Shower",
-            "text": "Trainer…",
+            "text": "Ahh… Trainer……",
             "choice_data_list": [
-                "Do you think you can make it to today's race?",
-                "Do you think you can make it to today's race?"
+                "Do you feel up to the race today?",
+                "Think you're up to the race today?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm sorry, I'm sorry, I'm sorry…"
+            "text": "…………! I-I'm so sorry. \nI'm so sorry, I'm so sorry…!"
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm so sorry!",
+            "text": "I-I'm so…… sorry! \n…… I'm just so—",
             "choice_data_list": [
                 "You don't need to apologize.",
                 "You don't need to apologize."
@@ -22,30 +23,30 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Why?"
+            "text": "…… Why?"
         },
         {
             "name": "Rice Shower",
-            "text": "Why are you so nice to me? Even though I'm such a useless girl.",
+            "text": "Why are you so nice to me? \nEven though I'm… I'm such a good-for-nothing.",
             "choice_data_list": [
-                "You're not a useless girl."
+                "You're not a good-for-nothing."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "No that's wrong! I'm a useless girl! A useless useless girl!"
+            "text": "No, it's true!! I'm so useless… \nsuch a useless good-for-nothing…!"
         },
         {
             "name": "Rice Shower",
-            "text": "I've wanted to change. More times than I can count."
+            "text": "I told myself that I wanted to change… over and over again…"
         },
         {
             "name": "Rice Shower",
-            "text": "Even though I was scared, I left my mom in order to come to Tracen Academy. I've done so much training and even got into races."
+            "text": "Even though I didn't want to be away from my mother, \nI came all the way to Tracen Academy. I did so much \ntraining and even signed up for races!"
         },
         {
             "name": "Rice Shower",
-            "text": "But it was all for nothing. Whenever I think about entering into a race I become so scared… during the Selection Race, and even now I'm still scared…",
+            "text": "But… that wasn't enough. Just thinking about entering \nthe race fills me with so much fear, just like that time \nduring the Selection Race…!",
             "choice_data_list": [
                 "What are you afraid of?",
                 "What are you afraid of?"
@@ -53,224 +54,224 @@
         },
         {
             "name": "Rice Shower",
-            "text": "…That I'll never become a blue rose."
+            "text": "…… I'm afraid of realizing I'll never be able to \nachieve my dream of becoming the blue rose."
         },
         {
             "name": "Rice Shower",
-            "text": "That even if I were to enter a race, I wouldn't be able to make anybody happy."
+            "text": "I'm afraid that even if I were to enter a race, \nI wouldn't be able to make anyone happy…"
         },
         {
             "name": "Rice Shower",
-            "text": "If I were to enter a race I would find out the truth. The truth that no matter what I do, I'll always be a useless girl…"
+            "text": "I'm afraid of learning the truth… that no matter \nwhat I do, I'll always be a good-for-nothing……"
         },
         {
             "name": "Rice Shower",
-            "text": "When I think about that I become so scared that I can't stop shaking!…"
+            "text": "Whenever those thoughts cross my mind, I become \nso afraid that I start shaking all over…!"
         },
         {
             "name": "Rice Shower",
-            "text": "I'm sorry Trainer. But it's ok. Because I'm so useless, it's ok to give up on me!",
+            "text": "I'm just… I'm sorry, Trainer, for being so useless… \nYou should just give up on me…!",
             "choice_data_list": [
-                "You were willing to go that far to change.",
-                "You were willing to go that far to change."
+                "<size=34>It shows how desperately you wanted to change.</size>",
+                "It proves how far you were willing to go."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "huh?",
+            "text": "……… Huh?",
             "choice_data_list": [
-                "Being scared just shows how much you wanted to change.",
-                "Being scared just shows how much you wanted to change."
+                "Feeling scared is proof of that desire.",
+                "You feel scared because you \nlong so hard to change."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "But that's…",
+            "text": "B-But… that's……",
             "choice_data_list": [
-                "As long as you don't give up on yourself, \nI'll never give up on you.",
-                "As long as you don't give up on yourself, \nI'll never give up on you."
+                "As long as you don't give up on yourself, \nI won't give up on you.",
+                "As long as you don't give up on yourself, \nI won't give up on you."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Trainer…"
+            "text": "……! R-Really?"
         },
         {
             "name": "Rice Shower",
-            "text": "You're saying that it's ok to not give up…? You really think that I can change…?",
+            "text": "You're telling me it's okay for me to keep trying? \nYou really believe in me…? That I can change…?",
             "choice_data_list": [
-                "I'll be waiting for you at the race track!",
-                "I'll be waiting for you at the race track!"
+                "I'll be waiting for you at the racetrack!",
+                "I'll be waiting for you at the racetrack!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "!"
+            "text": "Ah……!!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hmmhumhumhmm…"
+            "text": "<i>La-lalala～♪ Lalala～♪</i>"
         },
         {
             "name": "Rice Shower",
-            "text": "I can do this. I can do this…!"
+            "text": "You can do this. You can do this, Rice! \n… You got this!"
         },
         {
             "name": "Haru Urara",
-            "text": "Rice! You came out!"
+            "text": "Ah, Rice! You came out～!!"
         },
         {
             "name": "Rice Shower",
-            "text": "Urara… You waited for me…?"
+            "text": "Ah, Urara…! \nY-You were waiting for me…?"
         },
         {
             "name": "Haru Urara",
-            "text": "Of course! You're going to do your best right? If that's the case I'll be rooting for you! Go Rice… Go!!!"
+            "text": "Yep! You're going to try your hardest, right? \nThen of course I'll be rooting for you! \nGo, go, Rice, gooo～!!"
         },
         {
             "name": "Rice Shower",
-            "text": "Thank you Urara-chan…"
+            "text": "Urara…! Yeah! Thank you so much……"
         },
         {
             "name": "Rice Shower",
-            "text": "Go Rice… Go!!!"
+            "text": "You can do this, Rice… Yeah!!"
         },
         {
             "name": "Rice Shower",
-            "text": "Haah…"
+            "text": "Ahh……"
         },
         {
             "name": "Rice Shower",
-            "text": "(My hands and legs are still shaking, and my fingers feel frozen…)"
+            "text": "(My legs, my hands… they're still trembling. \nMy fingers feel so cold…!)"
         },
         {
             "name": "Rice Shower",
-            "text": "(But even still!)",
+            "text": "(But even so, this is something I must do…!)",
             "choice_data_list": [
                 "Rice!!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Trainer!"
+            "text": "Trainer……!!"
         },
         {
             "name": "Rice Shower",
-            "text": "I, I…!",
+            "text": "I, um… ah… \nYou know, I —",
             "choice_data_list": [
-                "It's ok! You will definitely become a blue rose!",
-                "It's ok! You will definitely become a blue rose!"
+                "You got this! You'll bloom \ninto a beautiful blue rose!",
+                "You got this! You'll bloom \ninto a beautiful blue rose!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "!"
+            "text": "……!"
         },
         {
             "name": "Rice Shower",
-            "text": "Right! Here I go!"
+            "text": "You're right… I'm going to show them what I'm made of!!"
         },
         {
             "name": "Rice Shower",
-            "text": "(I really hate myself)"
+            "text": "(I've… always hated myself……)"
         },
         {
             "name": "Rice Shower",
-            "text": "(Always causing trouble for others, bringing misfortune to people because I'm a useless girl. I've always, always hated myself."
+            "text": "(For the longest time, I've despised how I'm always causing \ntrouble for others, bringing misfortune to people, all because \nI'm a worthless good-for-nothing.)"
         },
         {
             "name": "Rice Shower",
-            "text": "(But even so…!)"
+            "text": "(But today is different—!!)"
         },
         {
             "name": "Rice Shower",
-            "text": "Haah, haaah, haaah…!!"
+            "text": "<i>Hah, haa, hah, haa…!!</i>"
         },
         {
             "name": "Commentator",
-            "text": "This race will be decided at the 3rd corner! Moving up from the outside is the jet black horse girl Rice Shower…!!"
+            "text": "The front-runners are storming past the third corner!! \nHowever, a jet-black figure appears to be making a bold \nmove from the outside! It's none other than Rice Shower!"
         },
         {
             "name": "Rice Shower",
-            "text": "(I want to change! I refuse to give up! I don't want to be a useless girl any more!!)"
+            "text": "(I want to change! I refuse to give up! \nI hate to remain a good-for-nothing!!)"
         },
         {
             "name": "Rice Shower",
-            "text": "(I can make people happy, just like the blue rose…!)"
+            "text": "(I want to believe that even someone \nlike me can bring happiness to people, \njust like the blue rose…!)"
         },
         {
             "name": "Commentator",
-            "text": "With just 200 meters left in this race we have contestant Rice Shower leading the pack! The final stretch is going to be a close match between the 1st and 2nd place!!"
+            "text": "With 200m remaining, Rice Shower forces her way to the front!! \nIt's an intense showdown between first and second place!!"
         },
         {
             "name": "Commentator",
-            "text": "With just 100 meters left in the straight, this race is reaching its conclusion!"
+            "text": "Only 100m remain! Who's it going to be? \nWho's going to take home the victory?!"
         },
         {
             "name": "Rice Shower",
-            "text": "I can change! I can become a blue rose!"
+            "text": "I want to change… \n<b>No, I will change!!!!!</b>"
         },
         {
             "name": "Commentator",
-            "text": "Gooooooal!!! The one who managed to grasp victory in the end was Rice Shower!! It was a hard fight but in the end she managed to keep her lead until the end!"
+            "text": "They've crossed the finish line!! And it's Rice Shower who \ntriumphs in the end !! Her unwavering resolve to take the lead \nat the final showdown was truly remarkable!!"
         },
         {
-            "text": "(Wooooooooo!!!)"
+            "text": "(YEAAAAAHHHHH!!!)"
         },
         {
             "name": "Spectator A",
-            "text": "Nice going Rice Shower! That was an amazing race!"
+            "text": "Amazing stuff, Rice Shower!! \nThat was such an exhilarating race!!"
         },
         {
             "name": "Spectator B",
-            "text": "That was so exciting! I'll definitely come watch again!"
+            "text": "That had my heart pumping!! \nI'll definitely come to watch you race again!!"
         },
         {
             "name": "Rice Shower",
-            "text": "!"
+            "text": "<i>Ahh……!!</i>"
         },
         {
             "name": "Rice Shower",
-            "text": "Trainer… Could I make a selfish request?",
+            "text": "U-Um, Trainer… Would you let me make a selfish request…?",
             "choice_data_list": [
                 "A selfish request?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah… If it's ok with you…"
+            "text": "Yeah. If you're okay with it…"
         },
         {
             "name": "Rice Shower",
-            "text": "Would it be alright if I called you big brother?"
+            "text": "Would you let me call you <i>big brother</i>…?"
         },
         {
             "name": "Rice Shower",
-            "text": "Would it be alright if I called you big sister?"
+            "text": "Would you let me call you <i>big sister</i>…?"
         },
         {
             "name": "Rice Shower",
-            "text": "Or is that not ok?",
+            "text": "Or… is that too weird…?",
             "choice_data_list": [
-                "If that's what you want, than I'm ok with that.",
-                "If that's what you want, than I'm ok with that."
+                "If that's what you want, sure thing.",
+                "If that's what you want, it's good with me."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "R-really!? Than…"
+            "text": "R-Really!? T-Then……!"
         },
         {
             "name": "Rice Shower",
-            "text": "Please take care of me from here on out…"
+            "text": "Please continue to look after me from now on!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother!"
+            "text": "—— Big brother!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister!"
+            "text": "—— Big sister!"
         }
     ]
 }

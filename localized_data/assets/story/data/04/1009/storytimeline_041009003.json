@@ -1,30 +1,31 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "For some time <i>after</i> the Selection Race, Daiwa Scarlet was surrounded by trainers looking to scout her."
+            "text": "For some time <i>after</i> the Selection Race, \nDaiwa Scarlet was surrounded by trainers looking to scout her."
         },
         {
             "text": "But now…"
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "Wait, is no one really going to approach Scarlet with an offer?"
         },
         {
             "name": "Rookie Trainer A",
-            "text": "I've decided to just focus my efforts on Vodka. No matter how great Daiwa Scarlet is on the field, it'd be hard for anyone to take her to the next level with that temper of hers…"
+            "text": "I've decided to just focus my efforts on Vodka. No matter how \ngreat Daiwa Scarlet is on the field, it'd be hard for anyone to \ntake her to the next level with that temper of hers…"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Well, you're not exactly wrong. I guess I'll give scouting Vodka a shot too."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Hmph, good riddance! Now that the crowd that's been following me is gone, I can finally focus on training-"
+            "name": "Experienced Trainer A",
+            "text": "Well, you're not exactly wrong. \nI guess I'll give scouting Vodka a shot too."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…is what I've been wanting to say, but… You! Why are you still here!?",
+            "text": "Hmph, good riddance! Now that the crowd that's been following me \nis gone, I can finally focus on training-"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "…is what I've been wanting to say, but… \nYou! Why are you still here!?",
             "choice_data_list": [
                 "I wanted to talk to you.",
                 "I wanted to talk to you."
@@ -32,19 +33,19 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh?…Oh, could it be that you still think I'm some sort of obedient honor student?"
+            "text": "Huh?…Oh, could it be that you still think \nI'm some sort of obedient honor student?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Well, I might as well say it at this point. That's just me pretending."
+            "text": "Well, I might as well say it at this point. \nThat's just me pretending."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "This is the real me. …Like those guys said, I'm a selfish, stubborn pain in the ass."
+            "text": "This is the real me. \n…Like those guys said, I'm a selfish, stubborn pain in the ass."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Let me guess, not what you expected? It's fine, you can go away now.",
+            "text": "Let me guess, not what you expected? \nIt's fine, you can go away now.",
             "choice_data_list": [
                 "I'm not going anywhere."
             ]
@@ -55,38 +56,38 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm not who you think I am! Why don't you get it already!?"
+            "text": "I'm not who you think I am! \nWhy don't you get it already!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "There's so many other fast horse girls in Tracen Academy! I'm just some poser who acts big and got humiliated!",
+            "text": "There's so many other fast horse girls in Tracen Academy! \nI'm just some poser who acts big and got humiliated!",
             "choice_data_list": [
                 "It wasn't humiliating at all!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You're so persistent. I never asked for you to console me!"
+            "text": "You're so persistent. \nI never asked for you to console me!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Even I'm not that clueless… I get it. I know that me saying \"I'm number one\" over and over was just a bunch of empty words!"
+            "text": "Even I'm not that clueless… I get it. I know that me saying \n\"I'm number one\" over and over was just a bunch of empty words!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just because I lost to Vodka once, I got depressed and started doing long training runs out of desperation… Even I know I was being stupid!"
+            "text": "Just because I lost to Vodka once, I got depressed \nand started doing long training runs out of desperation… \nEven I know I was being stupid!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But what else could I have done!? I couldn't forgive myself unless I was number one!"
+            "text": "But what else could I have done!? \nI couldn't forgive myself unless I was number one!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "The fastest, strongest, most popular horse girl around… I hate being anything other than that kind of number one."
+            "text": "The fastest, strongest, most popular horse girl around… \nI hate being anything other than that kind of number one."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I couldn't be satisfied with myself unless I was exactly that… That's just how I am, so that was the only way I could react…!"
+            "text": "I couldn't be satisfied with myself unless I was exactly that… \nThat's just how I am, so that was the only way I could react…!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -102,26 +103,26 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Wait. Even after hearing all that… Are you genuinely stupid?"
+            "text": "Wait. Even after hearing all that… \nAre you genuinely stupid?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Take the hint already! I'm just a stubborn kid who only ever obsesses over being number one!!",
+            "text": "Take the hint already! I'm just a stubborn kid who \nonly ever obsesses over being number one!!",
             "choice_data_list": [
                 "Then let's aim for that number one together."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I told you no already!! Why are you still talking like you're going to scout me!?"
+            "text": "I told you no already!! \nWhy are you still talking like you're going to scout me!?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Just so you know, I'm not going to be some obedient girl who just listens to you!"
+            "text": "Just so you know, \nI'm not going to be some obedient girl who just listens to you!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Also, I'm going to complain a lot if I don't like your training plan! Can you handle that!?",
+            "text": "Also, I'm going to complain a lot if I don't like \nyour training plan! Can you handle that!?",
             "choice_data_list": [
                 "Then we'll discuss and adjust it until you like it!",
                 "Then we'll discuss and adjust it until you like it!"
@@ -133,7 +134,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "You want to support me? You want to do this together? Are you serious?",
+            "text": "You want to support me? You want to \ndo this together? Are you serious?",
             "choice_data_list": [
                 "I'm the \"number one\" trainer for you.",
                 "I'm the \"number one\" trainer for you."
@@ -145,14 +146,14 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hmph. \"Number one\" is my thing, don't copy me."
+            "text": "…Hmph. \n\"Number one\" is my thing, don't copy me."
         },
         {
             "name": "Daiwa Scarlet",
             "text": "Seriously… Why am I stuck with such a weird guy like you…"
         },
         {
-            "text": "As if all that she's been bottling up inside in started overflowing, Daiwa Scarlet started crying."
+            "text": "As if all that she's been bottling up inside in started \noverflowing, Daiwa Scarlet started crying."
         },
         {
             "text": "And after some time has passed…"
@@ -163,17 +164,17 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh…</i> I lost my motivation to train. …I'll just go home."
+            "text": "<i>Sigh…</i> I lost my motivation to train. \n…I'll just go home."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "To be honest, my body's been feeling pretty heavy lately. I think… I'll go to bed early for once."
+            "text": "To be honest, my body's been feeling pretty heavy lately. \nI think… I'll go to bed early for once."
         },
         {
-            "text": "I could no longer feel the same drive for victory from Daiwa Scarlet as she was leaving. It seems like her placement in the Selection Race was still weighing on her mind."
+            "text": "I could no longer feel the same drive for victory from Daiwa \nScarlet as she was leaving. It seems like her placement in the \nSelection Race was still weighing on her mind."
         },
         {
-            "text": "As I was wondering if I could do anything to help regain her confidence, I happened to overhear something in the cafe…"
+            "text": "As I was wondering if I could do anything to help regain her \nconfidence, I happened to overhear something in the cafe…"
         },
         {
             "name": "Tokai Teio",
@@ -185,7 +186,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "What do you mean \"just you\"!? …Vodka, you're no fun these days."
+            "text": "What do you mean \"just you\"!? \n…Vodka, you're no fun these days."
         },
         {
             "name": "Vodka",
@@ -193,11 +194,11 @@
         },
         {
             "name": "Vodka",
-            "text": "It's just… she keeps having that disappointed look on her face…"
+            "text": "It's just… she keeps having that \ndisappointed look on her face…"
         },
         {
             "name": "Tokai Teio",
-            "text": "\"She?\" Oh, you mean Scarlet? She's not just your roommate but your rival as well, of course you'd be worried about her!"
+            "text": "\"She?\" Oh, you mean Scarlet? She's not just your roommate but \nyour rival as well, of course you'd be worried about her!"
         },
         {
             "name": "Vodka",
@@ -205,11 +206,11 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "But yeah, she does look pretty down. Did losing to you in the Selection Race really bum her out that bad?"
+            "text": "But yeah, she does look pretty down. Did losing to you in the \nSelection Race really bum her out that bad?"
         },
         {
             "name": "Vodka",
-            "text": "…I never thought she was the kind to let that sort of thing get her down."
+            "text": "…I never thought she was the kind to \nlet that sort of thing get her down."
         },
         {
             "name": "Tokai Teio",
@@ -217,7 +218,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Tch, whatever man. I just can't imagine myself losing to her if she's being like that. That's all."
+            "text": "Tch, whatever man. I just can't imagine myself losing to her if \nshe's being like that. That's all."
         },
         {
             "name": "Tokai Teio",

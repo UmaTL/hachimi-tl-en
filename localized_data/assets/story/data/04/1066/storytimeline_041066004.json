@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Twin Turbo",
@@ -6,25 +7,25 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Ahaha…… so happy about traveling is she an elementary school student? But Trainer, why Fukushima?",
+            "text": "Ahaha…… so happy about traveling \nis she an elementary school student? \nBut Trainer, why Fukushima?",
             "choice_data_list": [
                 "Because there are many places where you can train \nwhile playing."
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Ah, I see. There are mountains, valleys and lakes. On top of that, there is even the Fukushima Racecourse. You can just let her run anywhere as she please…"
+            "text": "Ah, I see. There are mountains, valleys and lakes. \nOn top of that, there is even the Fukushima Racecourse. \nYou can just let her run anywhere as she please…"
         },
         {
             "name": "Twin Turbo",
-            "text": "Trainer! Nature! Let's play! There are so many things Turbo want to do!!"
+            "text": "Trainer! Nature! Let's play! \nThere are so many things Turbo want to do!!"
         },
         {
-            "text": "Like a squirrel unleashed into the wild. Twin Turbo ran around the sightseeing spots as fast as she could."
+            "text": "Like a squirrel unleashed into the wild. \nTwin Turbo ran around the sightseeing \nspots as fast as she could."
         },
         {
             "name": "Twin Turbo",
-            "text": "Haa, haa… these stone steps are long～～～! No matter how much I climb, I never reach the top. but……!"
+            "text": "Haa, haa… these stone steps are long～～～! \nNo matter how much I climb, I never reach the top. but……!"
         },
         {
             "name": "Twin Turbo",
@@ -32,22 +33,22 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "GO～AL!! Ah, Trainer, I can see the castle! Hey, castle!!!!!!"
+            "text": "GO～AL!! Ah, Trainer, I can see the castle! \nHey, castle!!!!!!"
         },
         {
             "name": "Nice Nature",
-            "text": "Ahaha…… Come to think of it, a long time ago I heard that the young samurai realized their defeat when they saw the castle burning from here."
+            "text": "Ahaha…… Come to think of it, a long time ago \nI heard that the young samurai realized their \ndefeat when they saw the castle burning from here."
         },
         {
             "name": "Nice Nature",
-            "text": "That's not the point! Running nearly 200 stone steps up all at once… Trainer-san?",
+            "text": "That's not the point! Running nearly 200 stone \nsteps up all at once… Trainer-san?",
             "choice_data_list": [
                 "Yeah, just as I thought.",
                 "Yeah, just like I thought."
             ]
         },
         {
-            "text": "When Twin Turbo wish to run, no matter how harsh it is she won't hate it. No, rather…"
+            "text": "When Twin Turbo wish to run, no matter how harsh \nit is she won't hate it. No, rather…"
         },
         {
             "name": "Twin Turbo",
@@ -59,27 +60,27 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Trainer-san…… doesn't it look like she is having fun instead?",
+            "text": "Trainer-san…… doesn't it look like \nshe is having fun instead?",
             "choice_data_list": [
                 "…………"
             ]
         },
         {
-            "text": "Far from disliking it, it look like she enjoy the suffering. No, it's not just look like…"
+            "text": "Far from disliking it, it look like she enjoy \nthe suffering. No, it's not just look like…"
         },
         {
             "name": "Twin Turbo",
-            "text": "Not yet… I can still go. Turbo does not burn out! My heart is bursting! I will keep going until I collapse!!!"
+            "text": "Not yet… I can still go. Turbo does not burn out! \nMy heart is bursting! I will keep going until I collapse!!!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Daaaaaaaaaaaaaaaaaaa!! It's painful! It's so fun! Ahahahaha…!",
+            "text": "Daaaaaaaaaaaaaaaaaaa!! \nIt's painful! It's so fun! Ahahahaha…!",
             "choice_data_list": [
                 "――！？"
             ]
         },
         {
-            "text": "By letting her run as she pleases to the limit, I realized. The greatest duality of the twin turbo. It is―"
+            "text": "By letting her run as she pleases to the limit, \nI realized. The greatest duality of the twin turbo. It is―"
         },
         {
             "text": "S but - M!"
@@ -93,28 +94,28 @@
             ]
         },
         {
-            "text": "If it's in the pain that she chose herself, she can push on to the end. You can even say that she is seeking for that pain."
+            "text": "If it's in the pain that she chose herself, she can \npush on to the end. You can even say that \nshe is seeking for that pain."
         },
         {
-            "text": "This Fukushima training camp was a big hint. Now we only need to apply this to race."
+            "text": "This Fukushima training camp was a big hint. \nNow we only need to apply this to race."
         },
         {
             "text": "One day―"
         },
         {
             "name": "Twin Turbo",
-            "text": "It's been a while since I've done a mock race…… I wonder if it's ok."
+            "text": "It's been a while since I've done a mock race…… \nI wonder if it's ok."
         },
         {
             "name": "Twin Turbo",
-            "text": "I was just playing around with Trainer and Nature. If I get riled up again just like before…",
+            "text": "I was just playing around with Trainer and Nature. \nIf I get riled up again just like before…",
             "choice_data_list": [
                 "Listen Turbo, here's today's plan.",
                 "Listen up Turbo, here's today's plan."
             ]
         },
         {
-            "text": "The way to go has been decided. There is no reason to hesitate anymore.",
+            "text": "The way to go has been decided. \nThere is no reason to hesitate anymore.",
             "choice_data_list": [
                 "Once you get out of the gate, just run!",
                 "Once you leave the gate, just run!"
@@ -122,7 +123,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Eh, run away… is that really okay? That's how I lost before……",
+            "text": "Eh, run away… is that really okay? \nThat's how I lost before……",
             "choice_data_list": [
                 "Today you are competing with yourself. Let's burn it all \ncompletely",
                 "Today you are competing with yourself. Let's burn it all \ncompletely"
@@ -134,10 +135,10 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "yes! If it's like that Turbo can do it! I want to do it! All right let's run, run, run, and burn completely!!"
+            "text": "yes! If it's like that Turbo can do it! I want to do it! \nAll right let's run, run, run, and burn completely!!"
         },
         {
-            "text": "The fact that she running around at full speed should have improved her breathing capability. The only thing left is to see how far she can immerse herself."
+            "text": "The fact that she running around at full speed should \nhave improved her breathing capability. The only \nthing left is to see how far she can immerse herself."
         },
         {
             "name": "Twin Turbo",
@@ -145,26 +146,26 @@
         },
         {
             "name": "Experienced Trainer A",
-            "text": "Oh… Twin Turbo, is it another great escape this time too? is it going to be like the other day…"
+            "text": "Oh… Twin Turbo, is it another great escape this time too? \nis it going to be like the other day…"
         },
         {
             "name": "Twin Turbo",
-            "text": "Let's go, let's go, let's go. Turbo Full throttle! Ta～aaaaaaaaaaa!"
+            "text": "Let's go, let's go, let's go. Turbo Full throttle! \nTa～aaaaaaaaaaa!"
         },
         {
-            "text": "At first glance, it's the same as before, but this time it's different. Twin turbo escapes on her own accord. And this is where the real highlight begin!"
-        },
-        {
-            "name": "Twin Turbo",
-            "text": "Haa……Haa……No more……I can't do it～. but……!"
+            "text": "At first glance, it's the same as before, but this time \nit's different. Twin turbo escapes on her own accord. \nAnd this is where the real highlight begin!"
         },
         {
             "name": "Twin Turbo",
-            "text": "I'll go as far as I can…! Turbo is… Turbo is still… not burnt out～～～! !"
+            "text": "Haa……Haa……No more……I can't do it～. \nbut……!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "I'll go as far as I can…! \nTurbo is… Turbo is still… not burnt out～～～! !"
         },
         {
             "name": "Experienced Trainer A",
-            "text": "Final straight line! Well, as expected they are caught up… But the gap is bigger than last time! And most of all――"
+            "text": "Final straight line! Well, as expected they are \ncaught up… But the gap is bigger than last time! \nAnd most of all――"
         },
         {
             "name": "Twin Turbo",
@@ -176,10 +177,10 @@
         },
         {
             "name": "Experienced Trainer B",
-            "text": "She won!! Just barely, but until the very end!!"
+            "text": "She won!! \nJust barely, but until the very end!!"
         },
         {
-            "text": "A truly throwaway goal. I rushed over to the twin-turbo that had completed the form of victory.",
+            "text": "A truly throwaway goal. I rushed over \nto the twin-turbo that had completed \nthe form of victory.",
             "choice_data_list": [
                 "Well done Turbo!",
                 "Turbo, well done!"
@@ -190,7 +191,7 @@
             "text": "Huh huh… oeghhh…"
         },
         {
-            "text": "She fell down with her face planted to the ground. I couldn't understand what she was saying. But she finally lay down on her back and said one word which I heard clearly."
+            "text": "She fell down with her face planted to the ground. \nI couldn't understand what she was saying. \nBut she finally lay down on her back and said \none word which I heard clearly."
         },
         {
             "name": "Twin Turbo",
@@ -198,25 +199,25 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Teio!! Did you see Turbo race!!"
+            "text": "Teio!! \nDid you see Turbo race!!"
         },
         {
             "name": "Twin Turbo",
-            "text": "In the Twinkle series, I'll escape from you! Hehe, were you scared!?"
+            "text": "In the Twinkle series, I'll escape from you! \nHehe, were you scared!?"
         },
         {
             "name": "Tokai Teio",
-            "text": "…I have to do my best, for the sake of Legend of Teio. First goal is \"Satsuki-shō\"!"
+            "text": "…I have to do my best, for the sake of Legend of Teio. \nFirst goal is \"Satsuki-shō\"!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Oi you didn't see it!? Listen Teio!! Listen to me～!!"
+            "text": "Oi you didn't see it!? Listen Teio!! \nListen to me～!!"
         },
         {
-            "text": "――It seems like there is still a long time until her lifelong rival Tokai Teio notice her. But…"
+            "text": "――It seems like there is still a long time until \nher lifelong rival Tokai Teio notice her. But…"
         },
         {
-            "text": "Surprise your rivals and fans with this outrageous escape. Yes, until she burns her everything."
+            "text": "Surprise your rivals and fans with this outrageous escape. \nYes, until she burns her everything."
         }
     ]
 }

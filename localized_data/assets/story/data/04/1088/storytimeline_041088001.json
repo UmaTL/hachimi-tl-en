@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It was a fateful encounter. The weather had been terrible since the morning and I was feeling a little melancholic."
+            "text": "It was a fateful encounter. The weather had been terrible \nsince the morning and I was feeling a little melancholic."
         },
         {
-            "text": "After the rain let up, I was strolling around campus to stretch my legs after a day of desk work……"
+            "text": "After the rain let up, I was strolling around campus \nto stretch my legs after a day of desk work……"
         },
         {
             "name": "???",
@@ -14,7 +15,7 @@
             ]
         },
         {
-            "text": "Today, most Uma Musume were probably doing indoor training. It seemed like she was the first one to come to the grounds after the rain had stopped……"
+            "text": "Today, most Uma Musume were probably doing indoor \ntraining. It seemed like she was the first one to \ncome to the grounds after the rain had stopped……"
         },
         {
             "name": "???",
@@ -25,7 +26,7 @@
             "text": "――Haaaaaaa!!"
         },
         {
-            "text": "She had been running in a light manner as if checking her condition. Suddenly that changed and she accelerated rapidly, rounding the corner and showing the strength of her legs.",
+            "text": "She had been running in a light manner as if checking her \ncondition. Suddenly that changed and she accelerated rapidly, \nrounding the corner and showing the strength of her legs.",
             "choice_data_list": [
                 "(……! What sharpness……!)",
                 "(……! What sharpness……!)"
@@ -33,7 +34,7 @@
         },
         {
             "name": "???",
-            "text": "――Huu……wonder if I'm all warmed up? Looks like I can keep going♪",
+            "text": "――Huu……wonder if I'm all warmed up? \nLooks like I can keep going♪",
             "choice_data_list": [
                 "You can keep going!? Who……!?",
                 "You can keep going!? Who……!?"
@@ -41,14 +42,14 @@
         },
         {
             "name": "???",
-            "text": "Oh, you were watching? Guess I……don't need to ask what you thought. Judging by that reaction."
+            "text": "Oh, you were watching? Guess I……don't need to \nask what you thought. Judging by that reaction."
         },
         {
             "name": "???",
-            "text": "Fufufuu, but, this is nothing compared to during a race. For the real thing, I'd be even better!"
+            "text": "Fufufuu, but, this is nothing compared to during a race. \nFor the real thing, I'd be even better!"
         },
         {
-            "text": "There was a strong look in her eyes as she said that. She truly believed in herself……and that left a dazzling impression."
+            "text": "There was a strong look in her eyes as she said that. She truly \nbelieved in herself……and that left a dazzling impression."
         },
         {
             "name": "???",
@@ -58,29 +59,29 @@
             ]
         },
         {
-            "text": "My intuition screamed 『It has to be her!』. If I were to team up with anyone it had to be her. The melancholy had cleared. My heart was pounding. This was almost like……",
+            "text": "My intuition screamed 『It has to be her!』. If I were to \nteam up with anyone it had to be her. The melancholy had \ncleared. My heart was pounding. This was almost like……",
             "choice_data_list": [
                 "(\"Love at first sight\")"
             ]
         },
         {
-            "text": "A few days later, after looking in to her with the few clues I had, I found out she was participating in today's mock race. I took a chance and came to watch……!"
+            "text": "A few days later, after looking in to her with the few \nclues I had, I found out she was participating in \ntoday's mock race. I took a chance and came to watch……!"
         },
         {
             "name": "Satono Crown",
-            "text": "Good afternoon, trainers! I'm Satono Crown. Make sure you get a good look at my running today!"
+            "text": "Good afternoon, trainers! I'm Satono Crown. \nMake sure you get a good look at my running today!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "So she's here, that Satano family Elite Uma Musume. There's no doubt she'll be the main character today."
+            "text": "So she's here, that Satano family Elite Uma Musume. \nThere's no doubt she'll be the main character today."
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "Her mock race results so far have been great. To think she's undefeated! A bright personality and full of confidence……everything about her is exceptional."
+            "name": "Experienced Trainer A",
+            "text": "Her mock race results so far have been great. To \nthink she's undefeated! A bright personality and full \nof confidence……everything about her is exceptional."
         },
         {
             "name": "Satono Diamond",
-            "text": "Waaah, you're the center of attention. As expected of Kura-chan!"
+            "text": "Waaah, you're the center of attention. \nAs expected of Kura-chan!"
         },
         {
             "name": "Satono Crown",
@@ -88,68 +89,68 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "Of course, as someone from the Satono family, I couldn't miss Kura-chan's race!"
+            "text": "Of course, as someone from the Satono family, \nI couldn't miss Kura-chan's race!"
         },
         {
             "name": "Satono Diamond",
-            "text": "Our dream…… the Satono's long-held wish, you're the closest one to it after all Kura-chan."
+            "text": "Our dream…… the Satono's long-held wish, \nyou're the closest one to it after all Kura-chan."
         },
         {
             "name": "Satono Crown",
-            "text": "Dia……thank you. I'll definitely debut soon and show you I can win a G1."
+            "text": "Dia……thank you. \nI'll definitely debut soon and show you I can win a G1."
         },
         {
             "name": "Satono Crown",
-            "text": "Get a good look at me today, okay? Once your career starts, it's a path you'll be treading too!"
+            "text": "Get a good look at me today, okay? \nOnce your career starts, it's a path you'll be treading too!"
         },
         {
-            "text": "『The Satono Family's long-held wish』……it was well-known in racing circles. The Satono family was relatively new, but they have already made great contributions to the racing world."
+            "text": "『The Satono Family's long-held wish』……it was well-known in \nracing circles. The Satono family was relatively new, but they \nhave already made great contributions to the racing world."
         },
         {
-            "text": "However, there was one thing they had not accomplished. 『Raising a G1 Uma Musume』"
+            "text": "However, there was one thing they had not accomplished. \n『Raising a G1 Uma Musume』"
         },
         {
-            "text": "As a result, the Satono Family's long-held wish was to produce an Uma Musume that can win G1 races."
+            "text": "As a result, the Satono Family's long-held wish was \nto produce an Uma Musume that can win G1 races."
         },
         {
             "text": "――While I was thinking about that, the race started."
         },
         {
-            "text": "Satono Crown looked around from the middle of the pack with a relaxed expression on her face. Then, with a bold smile, she made her move at the perfect moment."
+            "text": "Satono Crown looked around from the middle of the pack \nwith a relaxed expression on her face. Then, with a \nbold smile, she made her move at the perfect moment."
         },
         {
             "name": "Satono Crown",
             "text": "Haaaaaーーーー!!"
         },
         {
-            "text": "On the final straight, she quickly pulled away, easily winning first place. It was a brilliant way to win……!",
+            "text": "On the final straight, she quickly pulled away, easily \nwinning first place. It was a brilliant way to win……!",
             "choice_data_list": [
                 "As I thought, she's good……!"
             ]
         },
         {
             "name": "Trainers",
-            "text": "That was wonderful! Won't you join our team? I can bring out more of your talent!",
+            "text": "That was wonderful! Won't you join our team? \nI can bring out more of your talent!",
             "choice_data_list": [
                 "No, me! Together, for your dream……!",
                 "No, me! Together, for your dream……!"
             ]
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "In the past, I was responsible for a Derby Uma Musume. Using that experience, I can guide you well……!"
+            "name": "Experienced Trainer A",
+            "text": "In the past, I was responsible for a Derby Uma Musume. \nUsing that experience, I can guide you well……!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "If you're considering going overseas, I have plenty of contacts……! We also have the latest training equipment……!"
+            "text": "If you're considering going overseas, I have plenty of \ncontacts……! We also have the latest training equipment……!"
         },
         {
             "name": "Satono Crown",
-            "text": "Alright, alright. Everyone. Thank you very much! But could I have you all calm down a bit?"
+            "text": "Alright, alright. Everyone. Thank you very much! \nBut could I have you all calm down a bit?"
         },
         {
             "name": "Satono Crown",
-            "text": "For me……in regards to training and race planning, I would like to examine each of these carefully."
+            "text": "For me……in regards to training and race planning, \nI would like to examine each of these carefully."
         },
         {
             "name": "Satono Crown",
@@ -159,28 +160,28 @@
             ]
         },
         {
-            "name": "Mid-rank Trainer A",
-            "text": "……The Satono group's wish huh……that's true. Even if we become the trainer, if we were unable to accomplish that……"
+            "name": "Experienced Trainer A",
+            "text": "……The Satono group's wish huh……that's true. Even if we \nbecome the trainer, if we were unable to accomplish that……"
         },
         {
-            "text": "Everyone remained quiet, likely intimidated by Satono Crown's words. You probably wouldn't be able to support her properly with a half-hearted determination."
-        },
-        {
-            "name": "Satono Crown",
-            "text": "Therefore, everyone, whether you'd be willing to walk this path with me, I'd like you all to consider it deeply."
+            "text": "Everyone remained quiet, likely intimidated by Satono \nCrown's words. You probably wouldn't be able to support \nher properly with a half-hearted determination."
         },
         {
             "name": "Satono Crown",
-            "text": "I'll be waiting for someone with that kind of resolve to reach out to me! Well then, I'll be excusing myself here――",
+            "text": "Therefore, everyone, whether you'd be willing to walk \nthis path with me, I'd like you all to consider it deeply."
+        },
+        {
+            "name": "Satono Crown",
+            "text": "I'll be waiting for someone with that kind of resolve to \nreach out to me! Well then, I'll be excusing myself here――",
             "choice_data_list": [
                 "Ah……!"
             ]
         },
         {
-            "text": "I wasn't able to speak up, unable to properly make the case for myself. But even then, my heart remained unchanged."
+            "text": "I wasn't able to speak up, unable to properly make the \ncase for myself. But even then, my heart remained unchanged."
         },
         {
-            "text": "At the very least, I wanted to convey my determination and thoughts. That was the one thing I had over everyone else……! With that in my mind, I followed after her.",
+            "text": "At the very least, I wanted to convey my determination \nand thoughts. That was the one thing I had over everyone \nelse……! With that in my mind, I followed after her.",
             "choice_data_list": [
                 "Wait……Satono Crown!"
             ]
@@ -202,11 +203,11 @@
             ]
         },
         {
-            "text": "――I passionately spoke about my plans to help her get closer to her dream. I surprised myself too, I just couldn't stop the words from coming forth……"
+            "text": "――I passionately spoke about my plans to help her \nget closer to her dream. I surprised myself too, \nI just couldn't stop the words from coming forth……"
         },
         {
             "name": "Satono Crown",
-            "text": "Huu……I understand your reasoning. But the thing that stands out to me most is……"
+            "text": "Huu……I understand your reasoning. \nBut the thing that stands out to me most is……"
         },
         {
             "name": "Satono Crown",
@@ -217,36 +218,36 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Rather……to break the 『Satono Jinx』, unexpectedly, it just might take something illogical like that kind of passion……"
+            "text": "Rather……to break the 『Satono Jinx』, unexpectedly, it just \nmight take something illogical like that kind of passion……"
         },
         {
             "name": "Satono Crown",
-            "text": "Yeah, okay. How about we start with a provisional contract? Show me what you can do.",
+            "text": "Yeah, okay. How about we start with a provisional contract? \nShow me what you can do.",
             "choice_data_list": [
                 "……! Thank you, looking forward to it!",
                 "……! Thank you, looking forward to it!"
             ]
         },
         {
-            "text": "And so, the days spent struggling to get her approval began! However, during our first meeting I was told something unexpected……"
+            "text": "And so, the days spent struggling to get her approval began! \nHowever, during our first meeting I was told something unexpected……"
         },
         {
             "name": "Satono Crown",
-            "text": "……And so, I'll be really busy helping with my father's business soon. For now, we'll have to do some adjustment on how long I can spend on training.",
+            "text": "……And so, I'll be really busy helping with my father's \nbusiness soon. For now, we'll have to do some adjustment \non how long I can spend on training.",
             "choice_data_list": [
                 "Business……like what?"
             ]
         },
         {
             "name": "Satono Crown",
-            "text": "I occasionally help out with my father's business operations. Once I make my debut I won't have as much time, so I want to study as much as I can for now."
+            "text": "I occasionally help out with my father's business \noperations. Once I make my debut I won't have as much \ntime, so I want to study as much as I can for now."
         },
         {
             "name": "Satono Crown",
-            "text": "I've already created a training plan that I can do in my spare time……Here, I'd like you to take a look too."
+            "text": "I've already created a training plan that I can do in \nmy spare time……Here, I'd like you to take a look too."
         },
         {
-            "text": "Now that I think about it……I still don't know much about her. I felt that if I didn't come to understand her better, I wouldn't be able to support her properly.",
+            "text": "Now that I think about it……I still don't know much \nabout her. I felt that if I didn't come to understand \nher better, I wouldn't be able to support her properly.",
             "choice_data_list": [
                 "Can I……help with that work?",
                 "Can I……help with that work?"
@@ -254,7 +255,7 @@
         },
         {
             "name": "Satono Crown",
-            "text": "Oh, are you interested? Sounds good! That'll really help, so please!"
+            "text": "Oh, are you interested? Sounds good! \nThat'll really help, so please!"
         }
     ]
 }

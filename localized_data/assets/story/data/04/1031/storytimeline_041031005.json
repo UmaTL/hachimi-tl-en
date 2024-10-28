@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "As the season marched into summer I gradually started getting used to this partnership with Ines Fujin."
+            "text": "As the season marched into summer I gradually started \ngetting used to this partnership with Ines Fujin."
         },
         {
             "name": "Ines Fujin",
@@ -13,11 +14,11 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You've seen nothing yet! I'll show you what a big sister is capable of!!"
+            "text": "You've seen nothing yet! \nI'll show you what a big sister is capable of!!"
         },
         {
             "name": "Ines Fujin",
-            "text": "Hmm, my time didn't change…… Did I start my spurt too late?",
+            "text": "Hmm, my time didn't change…… \nDid I start my spurt too late?",
             "choice_data_list": [
                 "Want to try again?",
                 "One more run?"
@@ -33,17 +34,17 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "It's almost closing time and I have some stuff to do…… Yeah! I'll just try again tomorrow!"
+            "text": "It's almost closing time and I have some stuff to do…… \nYeah! I'll just try again tomorrow!"
         },
         {
             "name": "Ines Fujin",
-            "text": "Alright, I'll go put away the equipment! See you later, Trainer!"
+            "text": "Alright, I'll go put away the equipment! \nSee you later, Trainer!"
         },
         {
-            "text": "…… And so I was cheerfully sent on my way. But was it really alright not to continue training?"
+            "text": "…… And so I was cheerfully sent on my way. \nBut was it really alright not to continue training?"
         },
         {
-            "text": "If I wasn't imagining it, she looked like she still wanted to run. What \"stuff\" could possibly take higher priority than —"
+            "text": "If I wasn't imagining it, she looked like she still wanted to run. \nWhat \"stuff\" could possibly take higher priority than —"
         },
         {
             "name": "Ines Fujin",
@@ -57,18 +58,18 @@
             "text": "I see. Well, then, leaving the desk for later～……"
         },
         {
-            "text": "Barely finished speaking, Ines Fujin began cleaning up the trainer's office with a deft hand."
+            "text": "Barely finished speaking, Ines Fujin began cleaning up \nthe trainer's office with a deft hand."
         },
         {
             "name": "Ines Fujin",
-            "text": "Nnthere we go… Ah, the copier is running out of paper! I'll need to drop by the clerk's office on my way home."
+            "text": "Nnthere we go… Ah, the copier is running out of paper! \nI'll need to drop by the clerk's office on my way home."
         },
         {
             "name": "Ines Fujin",
-            "text": "Oh now, look at all this dust～ Swish swish♪"
+            "text": "Oh now, look at all this dust～ \nSwish swish♪"
         },
         {
-            "text": "Come to think of it, the trainer's office always was clean, and I never ran out of anything.",
+            "text": "Come to think of it, the trainer's office always \nwas clean, and I never ran out of anything.",
             "choice_data_list": [
                 "Have you always been doing this!?",
                 "It was you who kept the room clean!?"
@@ -76,10 +77,10 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Yeah, well～ It bothers me to see it be a mess! You like shared spaces to be kept clean, right?"
+            "text": "Yeah, well～ It bothers me to see it be a mess! \nYou like shared spaces to be kept clean, right?"
         },
         {
-            "text": "I certainly appreciate her helping hand, but as a trainer I need her to focus on training over cleaning rooms.",
+            "text": "I certainly appreciate her helping hand, but as a trainer \nI need her to focus on training over cleaning rooms.",
             "choice_data_list": [
                 "I'm sorry. I'll take it from here!",
                 "I'm sorry. I'll take it from here!"
@@ -87,7 +88,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You will? …On your own? Are you gonna be okay without help??",
+            "text": "You will? …On your own? \nAre you gonna be okay without help??",
             "choice_data_list": [
                 "Yeah. I want you to have more time to run.",
                 "Mmm, I want to give you more time to run."
@@ -95,7 +96,7 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "You will? …On your own? Are you gonna be okay without help??",
+            "text": "You will? …On your own? \nAre you gonna be okay without help??",
             "choice_data_list": [
                 "Yeah. I want you to have more time to run.",
                 "Mmm, I want to give you more time to run."
@@ -110,15 +111,15 @@
         },
         {
             "name": "Ines Fujin",
-            "text": "Ah, the dust cloth's over there! And the broom and dustpan are a little further back, tucked neatly away in the corner!"
+            "text": "Ah, the dust cloth's over there! And the broom and dustpan \nare a little further back, tucked neatly away in the corner!"
         },
         {
             "name": "Ines Fujin",
-            "text": "That should be on this shelf! No good will come from scattering things around so keep stuff together～"
+            "text": "That should be on this shelf! No good will come from \nscattering things around so keep stuff together～"
         },
         {
             "name": "Ines Fujin",
-            "text": "I left spares for those supplies over there. If you run out, you'll be okay just asking the clerk!",
+            "text": "I left spares for those supplies over there. \nIf you run out, you'll be okay just asking the clerk!",
             "choice_data_list": [
                 "T-This is tougher than I thought……!",
                 "T-This is tougher than I thought……!"
@@ -129,31 +130,31 @@
             "text": "Eheheh. Keep at it, keep at it～♪"
         },
         {
-            "text": "That's how, with Ines Fujin's constant advice, I got through most of the work, but—",
+            "text": "That's how, with Ines Fujin's constant advice, \nI got through most of the work, but—",
             "choice_data_list": [
                 "I ended up relying almost entirely on you…!!"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Huhuhumph, impressed, are you♪ This is the big sister power I developed at home!"
+            "text": "Huhuhumph, impressed, are you♪ \nThis is the big sister power I developed at home!"
         },
         {
             "name": "Ines Fujin",
-            "text": "But anyway, I'd feel bad making you do all the work so why don't we do it together? We both use this office after all.",
+            "text": "But anyway, I'd feel bad making you do all the work so why \ndon't we do it together? We both use this office after all.",
             "choice_data_list": [
                 "Okay……"
             ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Come on, don't be so down about it! Want to join me for a cup of tea? I made some."
+            "text": "Come on, don't be so down about it! \nWant to join me for a cup of tea? I made some."
         },
         {
-            "text": "I had intended to help Ines out, but instead ended up feeling like a little kid relying on his big sister."
+            "text": "I had intended to help Ines out, but instead ended up \nfeeling like a little kid relying on his big sister."
         },
         {
-            "text": "I had intended to help Ines out, but instead ended up feeling like a little kid relying on her big sister."
+            "text": "I had intended to help Ines out, but instead ended up \nfeeling like a little kid relying on her big sister."
         }
     ]
 }

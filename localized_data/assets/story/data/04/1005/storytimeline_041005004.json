@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Fuji Kiseki",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…What a coincidence, Trainer. Out on an evening walk? Actually, I, too, was just――",
+            "text": "…What a coincidence, Trainer. \nOut on an evening walk? Actually, I, too, was just――",
             "choice_data_list": [
                 "You don't look like you're here to take a walk.",
                 "You don't look like you're here to take a walk."
@@ -22,7 +23,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "N, no!! I am the Uma Musume that makes \"miracles\" happen! That's…!"
+            "text": "N, no!! I am the Uma Musume that makes \"miracles\" happen! \nThat's…!"
         },
         {
             "name": "Fuji Kiseki",
@@ -30,10 +31,10 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Haah… I suppose you saw right through to my panic. I've still got a ways to go, it seems."
+            "text": "Haah… \nI suppose you saw right through to my panic. I've still got a \nways to go, it seems."
         },
         {
-            "text": "Smiling a little awkwardly, Fuji Kiseki took a deep breath and spoke calmly."
+            "text": "Smiling a little awkwardly, Fuji Kiseki took a deep breath and \nspoke calmly."
         },
         {
             "name": "Fuji Kiseki",
@@ -41,11 +42,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Only those who have reached the point where they are ready to truly run as Uma Musume, and are ready to take the first clear step toward the Twinkle Series, can step onto the track――"
+            "text": "Only those who have reached the point where they are ready \nto truly run as Uma Musume, and are ready to take the first \nclear step toward the Twinkle Series, can step onto the \ntrack――"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Of course, this is a different story from the mock race the other day. The expectations, and the level of the girls participating, they're different."
+            "text": "Of course, this is a different story from the mock race the \nother day. \nThe expectations, and the level of the girls participating, \nthey're different."
         },
         {
             "name": "Fuji Kiseki",
@@ -53,7 +54,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "…Trainer, how do you think I've looked so far? Was I able to produce a show of a \"Fuji Kiseki\" with great ability, overflowing with confidence in herself?",
+            "text": "…Trainer, how do you think I've looked so far? \nWas I able to produce a show of a \"Fuji Kiseki\" with great \nability, overflowing with confidence in herself?",
             "choice_data_list": [
                 "It sure looked that way to me."
             ]
@@ -68,21 +69,21 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Today's incident is no different. If I had paid more attention to that girl every day, she might not have snuck out of her dorm."
+            "text": "Today's incident is no different. If I had paid more attention to \nthat girl every day, she might not have snuck out of her dorm."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Even now… I know I should rest, but when I think about tomorrow… I can't, be still…"
+            "text": "Even now… I know I should rest, but when I think about \ntomorrow… I can't, be still…"
         },
         {
-            "text": "Fuji Kiseki fell silent, an anxious look on her face. Unless she clears her mind, she might continue to push herself too far."
+            "text": "Fuji Kiseki fell silent, an anxious look on her face. \nUnless she clears her mind, she might continue to push herself \ntoo far."
         },
         {
-            "text": "What can we do for her…? How can we cheer up the one who aspires to be an entertainer――?"
+            "text": "What can we do for her…? \nHow can we cheer up the one who aspires to be an \nentertainer――?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "As long as there is an audience expecting the \"Miracle Kiseki,\" it is the entertainer's duty to satisfy their expectations to the best of her ability.",
+            "text": "As long as there is an audience expecting the \"Miracle Kiseki,\" \nit is the entertainer's duty to satisfy their expectations to the \nbest of her ability.",
             "choice_data_list": [
                 "(An \"audience\"…!!)"
             ]
@@ -101,7 +102,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Oh, it's you! That face… Could it be, maybe ya found Fuji!?",
+            "text": "Oh, it's you! \nThat face… Could it be, maybe ya found Fuji!?",
             "choice_data_list": [
                 "Yeah, about that, I need a little favor.",
                 "Yeah, about that, I need a little favor."
@@ -119,11 +120,11 @@
             "text": "Hmmm… Let me hear it all."
         },
         {
-            "text": "I explained the situation to Hishi Amazon and asked for her cooperation. Then――"
+            "text": "I explained the situation to Hishi Amazon and asked for her \ncooperation. \nThen――"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ah, Trainer! What on earth are you doing he… Wait, eh!?"
+            "text": "Ah, Trainer! \nWhat on earth are you doing he… Wait, eh!?"
         },
         {
             "name": "Fuji Kiseki",
@@ -131,27 +132,27 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Nothin' you can do about it. That Trainer told me to get this lot together to root for you in your Selection Race."
+            "text": "Nothin' you can do about it. That Trainer told me to get this lot \ntogether to root for you in your Selection Race."
         },
         {
             "name": "Hishi Amazon",
-            "text": "And then, more of them kept coming and coming… They were all going to write an apology letter afterwards for staying out past curfew, what an odd bunch."
+            "text": "And then, more of them kept coming and coming… \nThey were all going to write an apology letter afterwards for \nstaying out past curfew, what an odd bunch."
         },
         {
             "name": "Biko Pegasus",
-            "text": "Fuji-senpai, did you really train in secret!? Just the kind of thing you'd expect from Senpai!! You're always helping everyone, you're like a hero!"
+            "text": "Fuji-senpai, did you really train in secret!? Just the kind of \nthing you'd expect from Senpai!! \nYou're always helping everyone, you're like a hero!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "So, tomorrow, I'm going to shout, \"Senpai, you've got thiiis!\" with all my might!!"
+            "text": "So, tomorrow, I'm going to shout, \"Senpai, you've got thiiis!\" \nwith all my might!!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Maya too, Maya too! Your races are always so cool!! I'll be cheering for you while having lots of fun!!"
+            "text": "Maya too, Maya too! Your races are always so cool!! \nI'll be cheering for you while having lots of fun!!"
         },
         {
             "name": "Junior Horsegirls",
-            "text": "Fuji-senpai! Fuji-senpai, you can do it! Fuji-senpai…!!"
+            "text": "Fuji-senpai! Fuji-senpai, you can do it! \nFuji-senpai…!!"
         },
         {
             "name": "Fuji Kiseki",
@@ -179,7 +180,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I can't show these girls something unseemly. No, I <i>definitely</i> don't want to show them that."
+            "text": "I can't show these girls something unseemly. \nNo, I <i>definitely</i> don't want to show them that."
         },
         {
             "name": "Fuji Kiseki",
@@ -193,7 +194,7 @@
         },
         {
             "name": "Commentator",
-            "text": "Here comes the third corner! Coming up from the outside in a flash is… The \"Black Meteor\" Fuji Kiseki! She makes up for her slow start!"
+            "text": "Here comes the third corner! Coming up from the outside in a \nflash is… \nThe \"Black Meteor\" Fuji Kiseki! She makes up for her slow start!"
         },
         {
             "name": "Junior Students",
@@ -201,19 +202,19 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "(…My worries are not all gone. I am, after all, just a novice… who isn't enough to be \"Fuji Kiseki.\")"
+            "text": "(…My worries are not all gone. I am, after all, just a \nnovice… who isn't enough to be \"Fuji Kiseki.\")"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "(Though――nevertheless, I'm still in front of an audience! In front of the girls watching! As the Entertainer, I'll never give up… my last pride!)"
+            "text": "(Though――nevertheless, I'm still in front of an audience! In \nfront of the girls watching! \nAs the Entertainer, I'll never give up… my last pride!)"
         },
         {
             "name": "Commentator",
-            "text": "Fuji Kiseki, in the lead, speeds down the final straight! The gap between the second-place finisher is an astonishing 8 lengths! This was, truly, her one-man show!!"
+            "text": "Fuji Kiseki, in the lead, speeds down the final straight! The \ngap between the second-place finisher is an astonishing 8 \nlengths! This was, truly, her one-man show!!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "(Forget about your fatigue, play it cool and smile! That's what \"Fuji Kiseki\" would do! Come on, until the very last, let's enchant them all…!)"
+            "text": "(Forget about your fatigue, play it cool and smile! That's what \n\"Fuji Kiseki\" would do! Come on, until the very last, let's \nenchant them all…!)"
         },
         {
             "name": "Fuji Kiseki",
@@ -221,15 +222,15 @@
         },
         {
             "name": "Commentator",
-            "text": "Fuji Kiseki, in first place, takes the goooooaaaaallll!! An absolutely thunderous round of applause for her stunning performance!!"
+            "text": "Fuji Kiseki, in first place, takes the goooooaaaaallll!! \nAn absolutely thunderous round of applause for her stunning \nperformance!!"
         },
         {
             "name": "Junior Horsegirl C",
-            "text": "Fuji Kiseki-senpai, thank you… for the wonderful race. Thanks to you, I remembered… what I longed for, what my dreams were!"
+            "text": "Fuji Kiseki-senpai, thank you… for the wonderful race. \nThanks to you, I remembered… what I longed for, what my \ndreams were!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Haah… Goodness, I'm beat. I'm not much of a sore muscle kind of Uma, but I'm dreading tomorrow, indeed.",
+            "text": "Haah… Goodness, I'm beat. \nI'm not much of a sore muscle kind of Uma, but I'm dreading \ntomorrow, indeed.",
             "choice_data_list": [
                 "Good job, we saw a great \"Kiseki Miracle\" out there.",
                 "Good job, we saw a great \"Kiseki Miracle\" out there."
@@ -241,26 +242,26 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "The audience's expectations are a burden you must shoulder, something that you must meet. That's what I thought, but――"
+            "text": "The audience's expectations are a burden you must shoulder, \nsomething that you must meet. \nThat's what I thought, but――"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "At the same time, it can be something that gives you the greatest power of all. …You taught me that."
+            "text": "At the same time, it can be something that gives you the \ngreatest power of all. \n…You taught me that."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Trainer. If only you could… from now on, continue to guide me?"
+            "text": "Trainer. If only you could… \nfrom now on, continue to guide me?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I think you and I, we could entertain everyone with even more wonderful \"Miracles\"…!",
+            "text": "I think you and I, we could entertain everyone with even more \nwonderful \"Miracles\"…!",
             "choice_data_list": [
                 "Of course! Let's do this!!",
                 "Of course! Let's do this!!"
             ]
         },
         {
-            "text": "Thus, I signed an exclusive contract with Fuji Kiseki, the Entertainer that delights everyone…!"
+            "text": "Thus, I signed an exclusive contract with Fuji Kiseki, the \nEntertainer that delights everyone…!"
         }
     ]
 }

@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Gold City",
-            "text": "…It’s you again? Look here, you are being annoying. Why did you come here this far?",
+            "text": "…It’s you again? Look here, you are being annoying. \nWhy did you come here this far?",
             "choice_data_list": [
                 "I want to you to hear me out",
                 "I want to you to hear me out"
@@ -14,11 +15,11 @@
         },
         {
             "name": "Gold City",
-            "text": "For me you hear, I’m nothing. Nothing. An empty doll for others to see. That’s me."
+            "text": "For me you hear, I’m nothing. Nothing. An \nempty doll for others to see. That’s me."
         },
         {
             "name": "Gold City",
-            "text": "…Working as a model was fun at first. The facial expressions and gestures that were required, when I did well I praised, it made me proud."
+            "text": "…Working as a model was fun at first. The facial \nexpressions and gestures that were required, when \nI did well I praised, it made me proud."
         },
         {
             "name": "Gold City",
@@ -26,11 +27,11 @@
         },
         {
             "name": "Gold City",
-            "text": "…But one day, in the city, I found myself staring at an advertisement featuring me, and I thought『That, who is it』."
+            "text": "…But one day, in the city, I found myself staring at an \nadvertisement featuring me, and I thought『That, who is it』."
         },
         {
             "name": "Gold City",
-            "text": "『It was full with the serious image, who is the one pretending to be beautiful』."
+            "text": "『It was full with the serious image, who \nis the one pretending to be beautiful』."
         },
         {
             "name": "Gold City",
@@ -38,11 +39,11 @@
         },
         {
             "name": "Gold City",
-            "text": "I don’t know who it isー The one standing up and jumping, is also me."
+            "text": "I don’t know who it isー The one standing \nup and jumping, is also me."
         },
         {
             "name": "Gold City",
-            "text": "And then I became really scared, and I wanted to scream, anyway I couldn’t stay still."
+            "text": "And then I became really scared, and I wanted \nto scream, anyway I couldn’t stay still."
         },
         {
             "name": "Gold City",
@@ -54,7 +55,7 @@
         },
         {
             "name": "Gold City",
-            "text": "I arrived at a place I never knew before. I fell so much that my legs and stuff were muddy, and the one-piece I liked was in tatters."
+            "text": "I arrived at a place I never knew before. I fell \nso much that my legs and stuff were muddy, and \nthe one-piece I liked was in tatters."
         },
         {
             "name": "Gold City",
@@ -66,11 +67,11 @@
         },
         {
             "name": "Gold City",
-            "text": "My legs ached and my lungs were about to collapse. Butー right now, I’m just “my own self”."
+            "text": "My legs ached and my lungs were about to collapse. \nButー right now, I’m just “my own self”."
         },
         {
             "name": "Gold City",
-            "text": "That’s why I came to Tracen Academy. To run and run and become “my own self”. To engrave the proof of “Me” in everyone’s memory."
+            "text": "That’s why I came to Tracen Academy. To run and run and become \n“my own self”. To engrave the proof of “Me” in everyone’s memory."
         },
         {
             "name": "Gold City",
@@ -81,15 +82,15 @@
         },
         {
             "name": "City's Manager",
-            "text": "City! Thank goodness, you were here! I rang the phone a couple of times, didn’t you notice? It’s about time for work. "
+            "text": "City! Thank goodness, you were here! I rang the phone a couple of \ntimes, didn’t you notice? It’s about time for work. "
         },
         {
             "name": "Gold City",
-            "text": "Manager… Ah, sorry, I was a bit distracted in talking… Wow, seriously, my call history is full."
+            "text": "Manager… Ah, sorry, I was a bit distracted in talking… Wow, \nseriously, my call history is full."
         },
         {
             "name": "City's Manager",
-            "text": "Well, anyway I’m glad to see you… Something happened? With that trainer."
+            "text": "Well, anyway I’m glad to see you… Something \nhappened? With that trainer."
         },
         {
             "name": "Gold City",
@@ -97,11 +98,11 @@
         },
         {
             "name": "Gold City",
-            "text": "Ahh, but can I go back to the academy once? I just need to book a training course…"
+            "text": "Ahh, but can I go back to the academy once? \nI just need to book a training course…"
         },
         {
             "name": "City's Manager",
-            "text": "…Hey, City. Isn’t that enough? Your mind and body are in tatters, you worked hard enough. Aren’t you… tired already."
+            "text": "…Hey, City. Isn’t that enough? Your mind and body are in \ntatters, you worked hard enough. Aren’t you… tired already."
         },
         {
             "name": "Gold City",
@@ -109,15 +110,15 @@
         },
         {
             "name": "City's Manager",
-            "text": "Everyone judges you by appearance… This is already a case that can’t be helped. So let’s be prepared, City."
+            "text": "Everyone judges you by appearance… This is already a case that \ncan’t be helped. So let’s be prepared, City."
         },
         {
             "name": "City's Manager",
-            "text": "I’ll be sure to guide you to be a top model. You should choose a stage where you can shine. Stop hurting yourself in a world that is not suitable for you."
+            "text": "I’ll be sure to guide you to be a top model. You should choose a \nstage where you can shine. Stop hurting yourself in a world that \nis not suitable for you."
         },
         {
             "name": "Gold City",
-            "text": "Gold City:『World that isn’t suitable』…is it. Haha, maybe so. It was a good feeling to be dreaming, and the result is this."
+            "text": "Gold City:『World that isn’t suitable』…is it. Haha, maybe so. It \nwas a good feeling to be dreaming, and the result is this."
         },
         {
             "name": "Gold City",
@@ -127,16 +128,16 @@
             "text": "(Engine start! Car Go Skrrr…)"
         },
         {
-            "text": "Watching the car leaving, I noticed that something fell on the ground.",
+            "text": "Watching the car leaving, I noticed \nthat something fell on the ground.",
             "choice_data_list": [
                 "City’s cell phone…"
             ]
         },
         {
-            "text": "The home screen had a picture of the sky. The hands were surely trembling a little, it’s just, it was a very beautiful sunset sky."
+            "text": "The home screen had a picture of the sky. The \nhands were surely trembling a little, it’s just, \nit was a very beautiful sunset sky."
         },
         {
-            "text": "『I want to be “myself” by running and running』Those words of Gold City crossed my mind.",
+            "text": "『I want to be “myself” by running and running』Those \nwords of Gold City crossed my mind.",
             "choice_data_list": [
                 "…Let’s go after her!!"
             ]
@@ -151,7 +152,7 @@
         },
         {
             "name": "Gold City",
-            "text": "…Management is amazing. That cameraman-san is a famous person I know. He is able to get them to take a beautiful picture…"
+            "text": "…Management is amazing. That cameraman-san is a famous person I \nknow. He is able to get them to take a beautiful picture…"
         },
         {
             "name": "Gold City",
@@ -173,11 +174,11 @@
             "text": "Dream…? What, I don’t understand what you mean…"
         },
         {
-            "text": "I showed the homescreen of the mobile phone that I brought to Gold City who was puzzled."
+            "text": "I showed the homescreen of the mobile phone that \nI brought to Gold City who was puzzled."
         },
         {
             "name": "Gold City",
-            "text": "Wait, haaaah!? Wait, you! Why do you have my smartphone…! Wait you… did you look…!"
+            "text": "Wait, haaaah!? Wait, you! Why do you have \nmy smartphone…! Wait you… did you look…!"
         },
         {
             "name": "Gold City",
@@ -192,7 +193,7 @@
         },
         {
             "name": "Gold City",
-            "text": "That’s enough, I already quit, I gave up! This picture, I’m gonna erase it…!"
+            "text": "That’s enough, I already quit, I gave up! \nThis picture, I’m gonna erase it…!"
         },
         {
             "name": "Gold City",
@@ -216,11 +217,11 @@
         },
         {
             "name": "Gold City",
-            "text": "You’re vexing. Annoying. Good natured. Stalker. Stealer. Phone peeper. Lacks delicacy. Nagging. Annoying, annoying, annoying!"
+            "text": "You’re vexing. Annoying. Good natured. Stalker. Stealer. Phone \npeeper. Lacks delicacy. Nagging. Annoying, annoying, annoying!"
         },
         {
             "name": "Gold City",
-            "text": "I told you my story, I told you I want to abandon myself!! I don’t understand why I told you all those things!! You, just what is your deal!!",
+            "text": "I told you my story, I told you I want to abandon \nmyself!! I don’t understand why I told you all those \nthings!! You, just what is your deal!!",
             "choice_data_list": [
                 "I’m just a trainer scouting for Gold City!",
                 "I’m just a trainer scouting for Gold City!"
@@ -232,7 +233,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Then try it, you! Become my trainer, let me run with all my heart!"
+            "text": "Then try it, you! Become my trainer, \nlet me run with all my heart!"
         },
         {
             "name": "Gold City",
@@ -247,15 +248,15 @@
         },
         {
             "name": "City's Manager",
-            "text": "City, sorry to keep you waiting! Wait… huh? The one was with you a while ago…"
+            "text": "City, sorry to keep you waiting! Wait… huh? \nThe one was with you a while ago…"
         },
         {
             "name": "Gold City",
-            "text": "Oh, okay, I’ll talk to you later. First It’s work, right… So, you wait here."
+            "text": "Oh, okay, I’ll talk to you later. First It’s \nwork, right… So, you wait here."
         },
         {
             "name": "Gold City",
-            "text": "I’ll introduce you my worrywart manager. As my… as my trainer in charge."
+            "text": "I’ll introduce you my worrywart manager. \nAs my… as my trainer in charge."
         }
     ]
 }

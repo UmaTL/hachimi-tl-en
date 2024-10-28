@@ -14,12 +14,12 @@
             "text": "It was during that time that I happened to see \na certain Uma Musume on the training course. She \nhadn't debuted yet, but something caught my eye."
         },
         {
-            "text": "Haa…… Haa…… Ahaa☆ Ahahaa★",
-            "name": "？？？"
+            "name": "???",
+            "text": "Haa…… Haa…… Ahaa☆ Ahahaa★"
         },
         {
-            "text": "Ahahahahaa, Mar~vel~~ous☆★☆",
-            "name": "？？？"
+            "name": "???",
+            "text": "Ahahahahaa, Mar~vel~~ous☆★☆"
         },
         {
             "text": "Cheerfully laughing while running, I was \ncaptivated. She seemed to be delighted, \nhaving fun while she was running. That Uma Musume――"
@@ -28,15 +28,15 @@
             "text": "Suddenly, in the middle of the course \nshe collapsed and layed sprawled out!"
         },
         {
+            "name": "???",
             "text": "Zeh……Aha ……Hahaa ……zeh, Haa…… Ahahaha, haa.",
-            "name": "？？？",
             "choice_data_list": [
                 "A-are you okay!?"
             ]
         },
         {
-            "text": "Haa…… Ahaha…… Yeah☆ \nI'm just Marvelous★ Ahahaa☆",
-            "name": "？？？"
+            "name": "???",
+            "text": "Haa…… Ahaha…… Yeah☆ \nI'm just Marvelous★ Ahahaa☆"
         },
         {
             "text": "I was worried she had overexerted herself, but this Uma Musume was \nstill laughing while out of breath. ……It was a little unnerving.",
@@ -46,78 +46,78 @@
             ]
         },
         {
-            "text": "Oh geez~, you did it again, are you okay?",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "Can't you do something about that habit of yours of running 'til \nyou drop? It's dangerous to fall on the course, don't you think?",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "But you see, Nature, today…… it felt like \n――Haa ……it'd be especially Marvelous!",
-            "name": "？？？"
-        },
-        {
-            "text": "Yeah, yeah. I figured you'd say that but, if you keep \ncollapsing like that, it'll make everyone else worry!",
             "name": "Nice Nature",
+            "text": "Oh geez~, you did it again, are you okay?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Can't you do something about that habit of yours of running 'til \nyou drop? It's dangerous to fall on the course, don't you think?"
+        },
+        {
+            "name": "???",
+            "text": "But you see, Nature, today…… it felt like \n――Haa ……it'd be especially Marvelous!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Yeah, yeah. I figured you'd say that but, if you keep \ncollapsing like that, it'll make everyone else worry!",
             "choice_data_list": [
                 "Um…… is she okay?"
             ]
         },
         {
-            "text": "Eh? ……Ah~, were you observing, Trainer-san? \nI guess it would be surprising if she suddenly \nfell~, but it's something that happens all the time!",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "Eh? ……Ah~, were you observing, Trainer-san? \nI guess it would be surprising if she suddenly \nfell~, but it's something that happens all the time!"
         },
         {
-            "text": "This girl―― her name's Marvelous Sunday but, \nI guess you could say she's the type that \ndoesn't know her own limits and just runs frantically?",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "This girl―― her name's Marvelous Sunday but, \nI guess you could say she's the type that \ndoesn't know her own limits and just runs frantically?"
         },
         {
-            "text": "She never puts on the brakes, so she ends up \nmoving until she runs out of energy. She's like \na little kid and ends up falling asleep mid-meal.",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "She never puts on the brakes, so she ends up \nmoving until she runs out of energy. She's like \na little kid and ends up falling asleep mid-meal."
         },
         {
-            "text": "Anyways, it's not like she's sick or injured so there's no need to \nworry! I'm sure she'll be able to move after she rests for a bit!",
-            "name": "Nice Nature"
+            "name": "Nice Nature",
+            "text": "Anyways, it's not like she's sick or injured so there's no need to \nworry! I'm sure she'll be able to move after she rests for a bit!"
         },
         {
             "text": "Because it was such a memorable encounter, now, everytime I see a \nred ribbon, I can't help but follow it with my eyes. When I do――"
         },
         {
-            "text": "Ahahahahaa, Ahahaa☆ \nThe wax is so slippery~, the hallway's so shiny, Marvelous★",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Geez, you're really energetic today too~. \nMake sure it's safe before you start running, okay?",
-            "name": "Nice Nature"
-        },
-        {
-            "text": "Okaaa~y☆ \nAhahaa~, slide slide~, Marvelous★",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Mystery tea!",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Mystery tea! ――gulp…… gulp……puhaa!",
-            "name": "Mayano Top Gun"
-        },
-        {
-            "text": "Ahahahaa, it's not good at all~!",
-            "name": "Mayano Top Gun"
-        },
-        {
-            "text": "Ahahaa, you're right, it's not tasty at all☆ \nSo mysterious and so yucky, but still very Marvelous★",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Ahahahahaa, my arms feel like putty! My legs are shaking! \nI can't move~, Ma-rvelous☆★☆",
-            "name": "Marvelous Sunday"
-        },
-        {
-            "text": "Muscle soreness is Marvelous☆ Tomorrow will be more~ Marvelous★ \nOw ow ow oww, Ahahahahaa☆",
             "name": "Marvelous Sunday",
+            "text": "Ahahahahaa, Ahahaa☆ \nThe wax is so slippery~, the hallway's so shiny, Marvelous★"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Geez, you're really energetic today too~. \nMake sure it's safe before you start running, okay?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Okaaa~y☆ \nAhahaa~, slide slide~, Marvelous★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Mystery tea!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Mystery tea! ――gulp…… gulp……puhaa!"
+        },
+        {
+            "name": "Mayano Top Gun",
+            "text": "Ahahahaa, it's not good at all~!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahahaa, you're right, it's not tasty at all☆ \nSo mysterious and so yucky, but still very Marvelous★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahahahahaa, my arms feel like putty! My legs are shaking! \nI can't move~, Ma-rvelous☆★☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Muscle soreness is Marvelous☆ Tomorrow will be more~ Marvelous★ \nOw ow ow oww, Ahahahahaa☆",
             "choice_data_list": [
                 "(……So, what exactly is marvelous!?)"
             ]
@@ -132,42 +132,42 @@
             "text": "Maybe for her, the word had a different meaning than the one in the \ndictionary. I realized that I wanted to know what that meaning was."
         },
         {
-            "text": "C'mon~~, just when I felt like training today! \nI hate the rain, Maya's bored!",
-            "name": "Mayano Top Gun"
+            "name": "Mayano Top Gun",
+            "text": "C'mon~~, just when I felt like training today! \nI hate the rain, Maya's bored!"
         },
         {
-            "text": "But Mayano, the rain is really~ Marvelous, you know?☆ \nEspecially when it's raining hard like this, it's even more Marvelous★",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "But Mayano, the rain is really~ Marvelous, you know?☆ \nEspecially when it's raining hard like this, it's even more Marvelous★"
         },
         {
-            "text": "Eh~, how? If it's raining this hard, we might not be able \nto train tomorrow either, you know? Maya wants to run!",
-            "name": "Mayano Top Gun"
+            "name": "Mayano Top Gun",
+            "text": "Eh~, how? If it's raining this hard, we might not be able \nto train tomorrow either, you know? Maya wants to run!"
         },
         {
-            "text": "That's true, if you can't run because it's \nraining, it's boring, huh?☆ But if you wait, \nand wait, and wait a little more for the sun then――",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "That's true, if you can't run because it's \nraining, it's boring, huh?☆ But if you wait, \nand wait, and wait a little more for the sun then――"
         },
         {
             "text": "Then…… what? Maybe now I'll finally figure out what she means by \nmarvelous. That's what I thought while lisenting closely, but――"
         },
         {
-            "text": "Ahh, Maya's got it! You're right, I guess if you think \nabout that then the rain might just be marvelous♪",
             "name": "Mayano Top Gun",
+            "text": "Ahh, Maya's got it! You're right, I guess if you think \nabout that then the rain might just be marvelous♪",
             "choice_data_list": [
                 "！？"
             ]
         },
         {
-            "text": "Right!? Ahahaa, rain, rain falling Marvelous~☆ \nSplish splash, splish splash Marve~lous★",
-            "name": "Marvelous Sunday"
+            "name": "Marvelous Sunday",
+            "text": "Right!? Ahahaa, rain, rain falling Marvelous~☆ \nSplish splash, splish splash Marve~lous★"
         },
         {
-            "text": "Marve~lous☆",
-            "name": "Mayano Top Gun"
+            "name": "Mayano Top Gun",
+            "text": "Marve~lous☆"
         },
         {
-            "text": "Ahahahahaa, let's go!",
-            "name": "Both"
+            "name": "Both",
+            "text": "Ahahahahaa, let's go!"
         },
         {
             "text": "My shoulders dropped because I didn't get my answer. Once again, \ntoday I was still unable to figure out what 『Marvelous』 meant."

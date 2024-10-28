@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Game NPC",
-            "text": "<i>Mnmomn</i>… curry… shg- good… <i>monchnomch… pfaaah</i>! … Hoowee～～～! That was delicious!"
+            "text": "<i>Mnmomn</i>… curry… shg- good… <i>monchnomch… pfaaah</i>! \n… Hoowee～～～! That was delicious!"
         },
         {
             "name": "Game NPC",
-            "text": "Sorry about this! But thanks to you I feel alive again!"
+            "text": "Sorry about this! \nBut thanks to you I feel alive again!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm glad you are feeling better. But… just how did you come to collapse from hunger like that?"
+            "text": "I'm glad you are feeling better. But… just how \ndid you come to collapse from hunger like that?"
         },
         {
             "name": "Game NPC",
-            "text": "Uuuhh… I was so engrossed in my research, I just kinda forgot to eat. Ahahaha!"
+            "text": "Uuuhh… I was so engrossed in my research, \nI just kinda forgot to eat. Ahahaha!"
         },
         {
             "name": "Winning Ticket",
@@ -30,23 +31,23 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "New airplane!? You're making airplanes!? That's awesome! Show Turbo!!"
+            "text": "New airplane!? You're making airplanes!? \nThat's awesome! Show Turbo!!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Hey but… I have airplane piloting skills… So that means airplanes already exist, right?"
+            "text": "Hey but… I have airplane piloting skills… \nSo that means airplanes already exist, right?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Mmm, we saw some on the way here. Their wooden wings made them look like toys. I take it those are the old ones?"
+            "text": "Mmm, we saw some on the way here. Their wooden wings \nmade them look like toys. I take it those are the old ones?"
         },
         {
             "name": "Airplane Researcher",
-            "text": "That's right. Those only fly a short distance. I'm developing airplanes that can fly much higher, and further! Made of iron!"
+            "text": "That's right. Those only fly a short distance. \nI'm developing airplanes that can fly much \nhigher, and further! Made of iron!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Iron… Can that actually fly? Everything here works on steam engines doesn't it? The engine alone would weigh—"
+            "text": "Iron… Can that actually fly? Everything here works on \nsteam engines doesn't it? The engine alone would weigh—"
         },
         {
             "name": "Airplane Researcher",
@@ -54,43 +55,43 @@
         },
         {
             "name": "Airplane Researcher",
-            "text": "A plane of iron was heading towards the mountains! Those enormous mountains around the city! I couldn't stop watching, to see if it could fly over them!"
+            "text": "A plane of iron was heading towards the mountains! \nThose enormous mountains around the city! \nI couldn't stop watching, to see if it could fly over them!"
         },
         {
             "name": "Airplane Researcher",
-            "text": "I ran after it as fast as I could! And I asked to be master's apprentice when he landed!"
+            "text": "I ran after it as fast as I could! And I asked to be \nmaster's apprentice when he landed!"
         },
         {
             "name": "Airplane Researcher",
-            "text": "It dawned on me then… staring at those planes. That I didn't know anything about the world beyond those mountains."
+            "text": "It dawned on me then… staring at those planes. That I didn't \nknow anything about the world beyond those mountains."
         },
         {
             "name": "Airplane Researcher",
-            "text": "We have cars and locomotives, so travel and distribution isn't an issue. But there are no roads or railways leading beyond the mountains."
+            "text": "We have cars and locomotives, so travel and distribution \nisn't an issue. But there are no roads or railways leading \nbeyond the mountains."
         },
         {
             "name": "Airplane Researcher",
-            "text": "Nobody knows what lies further than those peaks… And I want to see what it is!"
+            "text": "Nobody knows what lies further than those peaks… \nAnd I want to see what it is!"
         },
         {
             "name": "Airplane Researcher",
-            "text": "And I want to tell everyone about it! I want to inspire them! That's why I wanna cross the mountains with a plane of iron!"
+            "text": "And I want to tell everyone about it! I want to inspire them! \nThat's why I wanna cross the mountains with a plane of iron!"
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Uo… Uuooooaaahh</i>!! I get youuuu! I so get how you feeeel～～!!"
+            "text": "<i>Uo… Uuooooaaahh</i>!! \nI get youuuu! I so get how you feeeel～～!!"
         },
         {
             "name": "Winning Ticket",
-            "text": "To follow your ambitions! And inspire everyone to do the same! We have the same dream!!"
+            "text": "To follow your ambitions! And inspire everyone \nto do the same! We have the same dream!!"
         },
         {
             "name": "Winning Ticket",
-            "text": "To think you were so invested you collapsed from hunger… That's so amaszuiiiing～～! I'm so toouuwcheeedd～～!!"
+            "text": "To think you were so invested you collapsed from hunger… \nThat's so amaszuiiiing～～! I'm so toouuwcheeedd～～!!"
         },
         {
             "name": "Winning Ticket",
-            "text": "You really absolutely have to make that dream come true for real!! We'll help out too!"
+            "text": "You really absolutely have to make that dream \ncome true for real!! We'll help out too!"
         },
         {
             "name": "Narita Taishin",
@@ -98,11 +99,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "'Cause!! Can't you see how hard she's trying!? Don't you wanna cheer her on!!?"
+            "text": "'Cause!! Can't you see how hard she's trying!? \nDon't you wanna cheer her on!!?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Doubtless, until she collapses in the street. I think she could use someone to support her."
+            "text": "Doubtless, until she collapses in the street. \nI think she could use someone to support her."
         },
         {
             "name": "Narita Taishin",
@@ -110,19 +111,19 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "Sure, but you know! This is probably a mission, right? So even in game teeerms… It's our way forward, don't you think?"
+            "text": "Sure, but you know! This is probably a mission, right? So even \nin game teeerms… It's our way forward, don't you think?"
         },
         {
             "name": "Narita Taishin",
-            "text": "… You saying we should cooperate with this woman? <i>Haa… agh</i>, whatever."
+            "text": "… You saying we should cooperate with this woman? \n<i>Haa… agh</i>, whatever."
         },
         {
             "name": "Twin Turbo",
-            "text": "Turbo's here for it! Turbo will help too!! I wanna build a plane! And brrrrrr over the mountains!!"
+            "text": "Turbo's here for it! Turbo will help too!! \nI wanna build a plane! And brrrrrr over the mountains!!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That does it then. With 5 new aides I am sure you will be able to do your research with proper meals and sleep."
+            "text": "That does it then. With 5 new aides I am sure you will be able \nto do your research with proper meals and sleep."
         },
         {
             "name": "Airplane Researcher",
@@ -130,11 +131,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Yeah!! I want to support your dream! Let us help you build your plane!"
+            "text": "Yeah!! I want to support your dream! \nLet us help you build your plane!"
         },
         {
             "name": "Narita Taishin",
-            "text": "…… Ah, we have a new mission. \"Help the researcher fulfil her dreams\"… You were right."
+            "text": "…… Ah, we have a new mission. \n\"Help the researcher fulfil her dreams\"… You were right."
         },
         {
             "name": "Winning Ticket",
@@ -142,19 +143,19 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Wooaaooaaoh! Here's the plane being built! There's no seat! And all the machiney bits are visible inside! <i>Heeee</i>～～!"
+            "text": "Wooaaooaaoh! Here's the plane being built! There's no seat! \nAnd all the machiney bits are visible inside! <i>Heeee</i>～～!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "T-Turbo! Don't carelessly too——ouuucch! … That was… close……"
+            "text": "T-Turbo! Don't carelessly too——ouuucch! \n… That was… close……"
         },
         {
             "name": "Tokai Teio",
-            "text": "… Hmm? There's no one else here? Where's that \"master\" person?"
+            "text": "… Hmm? There's no one else here? \nWhere's that \"master\" person?"
         },
         {
             "name": "Tokai Teio",
-            "text": "Didn't you say you asked to be that airplane creator's apprentice after you chased his plane?"
+            "text": "Didn't you say you asked to be that airplane creator's \napprentice after you chased his plane?"
         },
         {
             "name": "Airplane Researcher",
@@ -162,15 +163,15 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "You're doing all this by yourself!? No wonder you're falling over!"
+            "text": "You're doing all this by yourself!? \nNo wonder you're falling over!"
         },
         {
             "name": "Airplane Researcher",
-            "text": "…… Actually, I've not really touched most of this… I can't find time to raise funds and my research is just barely getting done… eheheh."
+            "text": "…… Actually, I've not really touched most of this… \nI can't find time to raise funds and my research is just \nbarely getting done… eheheh."
         },
         {
             "name": "Winning Ticket",
-            "text": "Uuooooo～～n! Don't force yourself to do it all alone! We're here to help you nooowwww!"
+            "text": "Uuooooo～～n! Don't force yourself to do it all alone! \nWe're here to help you nooowwww!"
         },
         {
             "name": "Winning Ticket",
@@ -178,11 +179,11 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "For the time being, you need funds most? It will be troublesome to even buy parts without money after all."
+            "text": "For the time being, you need funds most? It will be \ntroublesome to even buy parts without money after all."
         },
         {
             "name": "Tokai Teio",
-            "text": "Then let's help raise some funds! …I'm pretty sure you get paid for doing requests for townspeople, so let's do that!"
+            "text": "Then let's help raise some funds! …I'm pretty sure you \nget paid for doing requests for townspeople, so let's do that!"
         },
         {
             "name": "Narita Taishin",
@@ -190,15 +191,15 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "I'll do deliveries!! We'll have money in no time with all the packages I'm about to move! And it'll make the townfolk happy to boot!"
+            "text": "I'll do deliveries!! We'll have money in no time with \nall the packages I'm about to move! And it'll \nmake the townfolk happy to boot!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Hey hey Hayahide, what else is there? What's Turbo doing?"
+            "text": "Hey hey Hayahide, what else is there? \nWhat's Turbo doing?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hmmm…… We have no jobs, so I presume we should take advantage of our inherent skills? Alright, let's make a plan."
+            "text": "Hmmm…… We have no jobs, so I presume we should take \nadvantage of our inherent skills? Alright, let's make a plan."
         }
     ]
 }

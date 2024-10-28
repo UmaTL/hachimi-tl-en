@@ -1,17 +1,18 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I'd been feeling rough for a while now, with no signs of things getting any better."
+            "text": "I'd been feeling rough for a while now, with \nno signs of things getting any better."
         },
         {
-            "text": "It wasn't for lack of rest - I did as Manhattan Cafe asked, and went straight home after training every day, but…",
+            "text": "It wasn't for lack of rest - I did as Manhattan Cafe asked, and \nwent straight home after training every day, but…",
             "choice_data_list": [
                 "(It's the weekend, I should go somewhere!)",
                 "(It's the weekend, I should go somewhere!)"
             ]
         },
         {
-            "text": "Maybe I'd spent too long cooped up inside. Time to blow away the cobwebs! I opened the door and…"
+            "text": "Maybe I'd spent too long cooped up inside. Time to \nblow away the cobwebs! I opened the door and…"
         },
         {
             "name": "Manhattan Cafe",
@@ -21,7 +22,7 @@
             ]
         },
         {
-            "text": "Manhattan Cafe was standing in the hallway! Just how long had she been waiting out there…?!",
+            "text": "Manhattan Cafe was standing in the hallway! Just \nhow long had she been waiting out there…?!",
             "choice_data_list": [
                 "Sorry! Were we going to do something today…?"
             ]
@@ -51,14 +52,14 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Yes…… Perhaps it's best if we stay together…"
+            "text": "Yes…… \nPerhaps it's best if we stay together…"
         },
         {
             "name": "Manhattan Cafe",
             "text": "Very well. I'll come with you."
         },
         {
-            "text": "Since I had a companion, I thought it might be nice to go a little further afield. But where would Manhattan Cafe would like to go…?"
+            "text": "Since I had a companion, I thought it might be \nnice to go a little further afield. But where \nwould Manhattan Cafe would like to go…?"
         },
         {
             "name": "Manhattan Cafe",
@@ -69,7 +70,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I do… it's just… It's… darker than I expected…"
+            "text": "I do… it's just… \nIt's… darker than I expected…"
         },
         {
             "name": "Manhattan Cafe",
@@ -84,14 +85,14 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Whatever you do… don't let go… Shall we…?"
+            "text": "Whatever you do… don't let go… \nShall we…?"
         },
         {
-            "text": "Manhattan Cafe and I held hands and made our way around. There were a lot of people that day, and a particularly big crowd had gathered in front of the big shark tank…"
+            "text": "Manhattan Cafe and I held hands and made our way around. There \nwere a lot of people that day, and a particularly big crowd had \ngathered in front of the big shark tank…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "It's… beautiful… And with this many people around, I think we should be…"
+            "text": "It's… beautiful… \nAnd with this many people around, I think we should be…"
         },
         {
             "name": "Manhattan Cafe",
@@ -105,10 +106,10 @@
             "text": "No…! Trainer-san…!"
         },
         {
-            "text": "Before I knew what was happening I was swept away by the crowd. I found myself in a dark corridor, alone. A maintenance corridor? Here, away from the exhibits, the silence was stark."
+            "text": "Before I knew what was happening I was swept away by the crowd. \nI found myself in a dark corridor, alone. A maintenance corridor? \nHere, away from the exhibits, the silence was stark."
         },
         {
-            "text": "Maybe it was just the air conditioning, but I suddenly felt a cold sensation rising up my spine.",
+            "text": "Maybe it was just the air conditioning, but I suddenly felt a \ncold sensation rising up my spine.",
             "choice_data_list": [
                 "(I'd better get back…)"
             ]
@@ -120,7 +121,7 @@
             "text": "(potch!)"
         },
         {
-            "text": "Someone… or something… grabbed my ankles! I struggled, but it was no use… its grip was too strong!"
+            "text": "Someone… or something… grabbed my ankles! I struggled, but it \nwas no use… its grip was too strong!"
         },
         {
             "name": "Some…things? Voice",
@@ -130,7 +131,7 @@
             ]
         },
         {
-            "text": "I could feel it pulling on me, pulling me back into the darkness… I looked down at my feet… and saw nothing but black…!"
+            "text": "I could feel it pulling on me, pulling me back into the \ndarkness… I looked down at my feet… and saw nothing but black…!"
         },
         {
             "name": "Manhattan Cafe",
@@ -138,14 +139,14 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Trainer-san… You're alright…"
+            "text": "Trainer-san… \nYou're alright…"
         },
         {
             "name": "Manhattan Cafe",
             "text": "We… should go…"
         },
         {
-            "text": "Emerging into the sunlight, I felt the warmth gradually return to my body. But just what had happened back there…?"
+            "text": "Emerging into the sunlight, I felt the warmth gradually return \nto my body. But just what had happened back there…?"
         },
         {
             "name": "Manhattan Cafe",
@@ -157,11 +158,11 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Good. I… don't think that will happen again. Not for a while, at least."
+            "text": "Good. \nI… don't think that will happen again. Not for a while, at least."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I'm… sorry. I let my guard down. Normally, if there are people around… that sort of thing doesn't happen…"
+            "text": "I'm… sorry. I let my guard down. Normally, if there are people \naround… that sort of thing doesn't happen…"
         },
         {
             "name": "Manhattan Cafe",
@@ -185,11 +186,11 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "They are… not good… Like a memory… or a scar… Seared… deeply… into this reality…"
+            "text": "They are… not good… Like a memory… or a scar… \nSeared… deeply… into this reality…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Perhaps it's better if we don't talk about them… Our interest could… excite them…"
+            "text": "Perhaps it's better if we don't talk about them… \nOur interest could… excite them…"
         },
         {
             "name": "Manhattan Cafe",
@@ -200,14 +201,14 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Then… for now… be on your guard… Try to stay near other people…"
+            "text": "Then… for now… be on your guard… \nTry to stay near other people…"
         },
         {
             "name": "Manhattan Cafe",
             "text": "Give me just a little more time…"
         },
         {
-            "text": "Her face was deadly serious. It felt like I'd seen that expression a lot recently.",
+            "text": "Her face was deadly serious. It felt like \nI'd seen that expression a lot recently.",
             "choice_data_list": [
                 "It's a shame about our trip to the aquarium, though.",
                 "It's a shame about our trip to the aquarium, though."
@@ -215,7 +216,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "For now… it can't be helped… I need you to be patient.",
+            "text": "For now… it can't be helped… \nI need you to be patient.",
             "choice_data_list": [
                 "I hoped I could show you a nice time, but…",
                 "I hoped I could show you a nice time, but…"
@@ -227,7 +228,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Me…? I thought… it was you that wanted to go…"
+            "text": "Me…? \nI thought… it was you that wanted to go…"
         },
         {
             "name": "Manhattan Cafe",
@@ -235,21 +236,21 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You put yourself in danger… just for me… Perhaps that's why…",
+            "text": "You put yourself in danger… just for me… \nPerhaps that's why…",
             "choice_data_list": [
                 "Did you say something?"
             ]
         },
         {
             "name": "Manhattan Cafe",
-            "text": "No… it's nothing… Trainer-san…"
+            "text": "No… it's nothing… \nTrainer-san…"
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Let's come back again… after this is all over."
+            "text": "Let's come back again… \nafter this is all over."
         },
         {
-            "text": "After that, I walked Manhattan Cafe back to her room. She barely looked up from the floor, so I couldn't read her expression."
+            "text": "After that, I walked Manhattan Cafe back to her room. She barely \nlooked up from the floor, so I couldn't read her expression."
         },
         {
             "name": "Manhattan Cafe",

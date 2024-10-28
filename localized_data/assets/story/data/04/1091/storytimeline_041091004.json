@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Vivlos",
-            "text": "Hey~~~~ Tore-cchi~~~. Do I really have to eat all of this?",
+            "text": "Hey~~~~ Tore-cchi~~~. \nDo I really have to eat all of this?",
             "choice_data_list": [
                 "Yeah, all of it",
                 "Yeah, all of it"
@@ -10,11 +11,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "Uhee~……Ramen, avocado salad, sweet potatoes, a ton of hard boiled eggs……and there's still more……"
+            "text": "Uhee~……Ramen, avocado salad, sweet potatoes, \na ton of hard boiled eggs……and there's still more……"
         },
         {
             "name": "Vivlos",
-            "text": "If I take in all these calories, it'll ruin my style though! At the very least can I swap the noodles to konnyaku?",
+            "text": "If I take in all these calories, it'll ruin my style though! \nAt the very least can I swap the noodles to konnyaku?",
             "choice_data_list": [
                 "No, you need the calories!",
                 "No, you need the calories!"
@@ -22,7 +23,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "『Sensei, is this on? Yaaaay♪ Hey hey, are there any filters on?』"
+            "text": "『Sensei, is this on? Yaaaay♪ \nHey hey, are there any filters on?』"
         },
         {
             "name": "Vivlos' Instructor",
@@ -33,13 +34,13 @@
             "text": "『I got it! 1600m right? I'll go run it now~』"
         },
         {
-            "text": "When I was watching Vivlos' training videos…… I felt that if I were to work together with her, she would need to build up some more stamina."
+            "text": "When I was watching Vivlos' training videos…… \nI felt that if I were to work together with her, \nshe would need to build up some more stamina."
         },
         {
-            "text": "Races were an intense thing. After a run, you would be extremely exhausted and it could take weeks to recover. It would be even tougher on someone dainty like Vivlos."
+            "text": "Races were an intense thing. After a run, you would be \nextremely exhausted and it could take weeks to recover. \nIt would be even tougher on someone dainty like Vivlos."
         },
         {
-            "text": "Particularly if you were considering an overseas campaign, it was essential to build up your body to endure that racing life……so for now, she should eat.",
+            "text": "Particularly if you were considering an overseas \ncampaign, it was essential to build up your body to \nendure that racing life……so for now, she should eat.",
             "choice_data_list": [
                 "It's to prepare you for Dubai!",
                 "It's to prepare you for Dubai!"
@@ -51,7 +52,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "I got it……I'll do my best to eat! For the sake of being a Celeb, thanks for the meal!"
+            "text": "I got it……I'll do my best to eat! \nFor the sake of being a Celeb, thanks for the meal!"
         },
         {
             "name": "Vivlos",
@@ -83,62 +84,62 @@
         },
         {
             "name": "Vivlos",
-            "text": "Hehee…… kind of like Onee-chan♪",
+            "text": "Hehee…… \nkind of like Onee-chan♪",
             "choice_data_list": [
                 "Which one?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "My oldest sister! Chevacchi never spoils me after all."
+            "text": "My oldest sister! \nChevacchi never spoils me after all."
         },
         {
             "name": "Vivlos",
-            "text": "Onee-chan is cool, pretty, and really kind. And more than that, super strong……――"
+            "text": "Onee-chan is cool, pretty, and really kind. \nAnd more than that, super strong……――"
         },
         {
             "name": "Vivlos",
-            "text": "……Hey, Trainer-san. Can you spoil me just a little bit more?"
+            "text": "……Hey, Trainer-san. \nCan you spoil me just a little bit more?"
         },
         {
             "name": "Vivlos",
-            "text": "You see, I……have another goal other than Dubai. And that's……the Triple Tiara!",
+            "text": "You see, I……have another goal other than Dubai. \nAnd that's……the Triple Tiara!",
             "choice_data_list": [
                 "The Triple Tiara……!"
             ]
         },
         {
-            "text": "A title given to the one that wins the 『Oka Sho』, 『Oaks』, and 『Shuuka Sho』……there was an Uma Musume that had recently achieved that."
+            "text": "A title given to the one that wins the 『Oka Sho』, \n『Oaks』, and 『Shuuka Sho』……there was an Uma Musume \nthat had recently achieved that."
         },
         {
-            "text": "Gentildonna――she had magnificently become a Triple Tiara Uma Musume. And the one that had come in second each time……was Verxina."
-        },
-        {
-            "name": "Vivlos",
-            "text": "To become a sparkly Celeb in Dubai, first I need to become Queen in Japan, after all."
+            "text": "Gentildonna――she had magnificently become a Triple Tiara Uma Musume. \nAnd the one that had come in second each time……was Verxina."
         },
         {
             "name": "Vivlos",
-            "text": "……and they're the races that Onee-chan lost in too. As a little sister, it'd be something like revenge ……if I won, it'd be pretty emotional right?",
+            "text": "To become a sparkly Celeb in Dubai, \nfirst I need to become Queen in Japan, after all."
+        },
+        {
+            "name": "Vivlos",
+            "text": "……and they're the races that Onee-chan lost in too. \nAs a little sister, it'd be something like revenge \n……if I won, it'd be pretty emotional right?",
             "choice_data_list": [
                 "I suppose it would be emotional……"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Ah, you're thinking that I haven't thought this through aren't you? It's fine, I know already! Because, Onee-chan……she's really really strong."
+            "text": "Ah, you're thinking that I haven't thought this \nthrough aren't you? It's fine, I know already! \nBecause, Onee-chan……she's really really strong."
         },
         {
             "name": "Vivlos",
-            "text": "But she didn't win. Chevacchi is super strong too, and even now I think she's struggling……"
+            "text": "But she didn't win. Chevacchi is super strong too, \nand even now I think she's struggling……"
         },
         {
             "name": "Vivlos",
-            "text": "Even those two have trouble, so I know races are incredible. But that's why! I'm the one that has to do it, right?"
+            "text": "Even those two have trouble, so I know races are incredible. \nBut that's why! I'm the one that has to do it, right?"
         },
         {
             "name": "Vivlos",
-            "text": "Besides, I definitely have the talent, right!? Right!?"
+            "text": "Besides, I definitely have \nthe talent, right!? Right!?"
         },
         {
             "name": "Verxina",
@@ -150,21 +151,21 @@
         },
         {
             "name": "Verxina",
-            "text": "I thought you were feeling down lately but……looks like you're feeling better now. That's great but……"
+            "text": "I thought you were feeling down lately but……looks like \nyou're feeling better now. That's great but……"
         },
         {
             "name": "Verxina",
-            "text": "But, regarding the Triple Tiara, that's the first I've heard about it from you. But you see…… the Twinkle Series is quite difficult you know?"
+            "text": "But, regarding the Triple Tiara, that's the first \nI've heard about it from you. But you see…… \nthe Twinkle Series is quite difficult you know?"
         },
         {
             "name": "Vivlos",
-            "text": "Muuu. I already――",
+            "text": "Muuu. \nI already――",
             "choice_data_list": [
                 "I think Vivlos already knows that"
             ]
         },
         {
-            "text": "Of course, she'd realize just how difficult it was herself, but she was an intelligent girl and had a good grasp of her surroundings. She also had alot of respect for her sisters.",
+            "text": "Of course, she'd realize just how difficult it was herself, \nbut she was an intelligent girl and had a good grasp of her \nsurroundings. She also had alot of respect for her sisters.",
             "choice_data_list": [
                 "You don't need to worry"
             ]
@@ -175,7 +176,7 @@
         },
         {
             "name": "Vivlos",
-            "text": "Ehehee. Ain't that right, Tore-cchi♪ Keep the headpats coming~"
+            "text": "Ehehee. Ain't that right, Tore-cchi♪ \nKeep the headpats coming~"
         },
         {
             "name": "Verxina",
@@ -187,11 +188,11 @@
         },
         {
             "name": "Verxina",
-            "text": "But, she wouldn't let her guard down like that if she didn't trust them. So……"
+            "text": "But, she wouldn't let her guard down like \nthat if she didn't trust them. So……"
         },
         {
             "name": "Verxina",
-            "text": "……I'm sorry about that Vivlos. I already know that too. I know that you're someone who thinks things through."
+            "text": "……I'm sorry about that Vivlos. I already know that too. \nI know that you're someone who thinks things through."
         },
         {
             "name": "Vivlos",
@@ -199,41 +200,41 @@
         },
         {
             "name": "Verxina",
-            "text": "But I still can't help worrying. To me, you'll always be like a flighty little girl who's always smiling."
+            "text": "But I still can't help worrying. To me, you'll always \nbe like a flighty little girl who's always smiling."
         },
         {
             "name": "Verxina",
-            "text": "Cheval, you too. That's why, when it comes to you two, I can't help but step in…… But, now you're both walking your own paths."
+            "text": "Cheval, you too. That's why, when it comes to you two, I can't \nhelp but step in…… But, now you're both walking your own paths."
         },
         {
             "name": "Verxina",
-            "text": "Trainer-san, please take good care of Vivlos! Your big sisters will be watching over you, you know? We'll be cheering you on! Right?"
+            "text": "Trainer-san, please take good care of Vivlos! \nYour big sisters will be watching over you, \nyou know? We'll be cheering you on! Right?"
         },
         {
             "name": "Cheval Grand",
-            "text": "……if it's you, you'll probably be fine though. D-do your best……"
+            "text": "……if it's you, you'll probably be fine though. \nD-do your best……"
         },
         {
             "name": "Vivlos",
-            "text": "……Yeah. Onee-chan, Chevacchi……thank you!"
+            "text": "……Yeah. \nOnee-chan, Chevacchi……thank you!"
         },
         {
             "name": "Vivlos",
-            "text": "Hey, since we've finally formed a contract after all~. Don't you think we should celebrate with a party boat?",
+            "text": "Hey, since we've finally formed a contract after all~. \nDon't you think we should celebrate with a party boat?",
             "choice_data_list": [
                 "A party boat!?"
             ]
         },
         {
             "name": "Vivlos",
-            "text": "Ah, wait. Don't you think a normal party limousine would work? Tore-cchi, which do you think is better? Should we rent out a pool?"
+            "text": "Ah, wait. Don't you think a normal party limousine would work? \nTore-cchi, which do you think is better? Should we rent out a pool?"
         },
         {
             "name": "Vivlos",
-            "text": "But, but, as a future celeb, it has to be a party boat! Looking forward to it, Tore-cchi♪"
+            "text": "But, but, as a future celeb, it has to be a party boat! \nLooking forward to it, Tore-cchi♪"
         },
         {
-            "text": "……I have a feeling that saving money is going to be important from now on, but I've decided to take on the Twinkle Series with Vivlos. However――",
+            "text": "……I have a feeling that saving money is going to \nbe important from now on, but I've decided to take \non the Twinkle Series with Vivlos. However――",
             "choice_data_list": [
                 "Before that……"
             ]
@@ -247,11 +248,11 @@
         },
         {
             "name": "Vivlos",
-            "text": "I won't stop♪ Besides~……it's not like you hate it, right?"
+            "text": "I won't stop♪ \nBesides~……it's not like you hate it, right?"
         },
         {
             "name": "Vivlos",
-            "text": "Nihihi, I can tell just by looking at your eyes♪ Together, we'll fly all around the world, right, Tore-cchi♡?"
+            "text": "Nihihi, I can tell just by looking at your eyes♪ \nTogether, we'll fly all around the world, right, Tore-cchi♡?"
         }
     ]
 }

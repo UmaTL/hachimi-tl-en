@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "While having lunch in the cafeteria, I spotted Mejiro Mcqueen."
@@ -9,14 +10,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "… No, I can't give in! I have to limit my diet to the meal plan I decided on…!"
+            "text": "… No, I can't give in! I have to limit \nmy diet to the meal plan I decided on…!"
         },
         {
-            "text": "She's still struggling with her dietary restriction it seems. I wish I could help her somehow, but―"
+            "text": "She's still struggling with her dietary restriction it seems. \nI wish I could help her somehow, but―"
         },
         {
             "name": "Gold Ship",
-            "text": "That girl… she's <i>still</i> doing the whole restriction thing! Being able to resist all those irresistibly sugary treats right in front of her, I'm truly amazed by her display of willpower～",
+            "text": "That girl… she's <i>still</i> doing the whole restriction thing! \nBeing able to resist all those irresistibly sugary treats right \nin front of her, I'm truly amazed by her display of willpower～",
             "choice_data_list": [
                 "Does McQueen have a sweet tooth?",
                 "Does McQueen have a sweet tooth?"
@@ -28,21 +29,21 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Look here, mate. When you think of freedom and equality, you think of me, Goldship! It's the same idea as when you think of sweets, you think of Mcqueen."
+            "text": "Look here, mate. When you think of freedom and equality, \nyou think of me, Goldship! It's the same idea as when \nyou think of sweets, you think of Mcqueen."
         },
         {
             "name": "Gold Ship",
-            "text": "But y'know, all I'm seeing is someone holding back constantly every day. Since the Selection Race, she ain't been eating much, 'ey?"
+            "text": "But y'know, all I'm seeing is someone holding back \nconstantly every day. Since the Selection Race, she \nain't been eating much, 'ey?"
         },
         {
             "name": "Gold Ship",
-            "text": "…… Oops, gotta go. Time to go save the 13th planet. Well then, bye bye～"
+            "text": "…… Oops, gotta go. Time to go save the 13th planet. \nWell then, bye bye～"
         },
         {
             "text": "… I may have received some valuable information."
         },
         {
-            "text": "After returning to my room that day, I spent some time researching meal menus…"
+            "text": "After returning to my room that day, I spent \nsome time researching meal menus…"
         },
         {
             "name": "Mejiro McQueen",
@@ -61,7 +62,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "This menu plan has so many different options that will help reduce fat… did you research all of this, Trainer?"
+            "text": "This menu plan has so many different options that will \nhelp reduce fat… did you research all of this, Trainer?"
         },
         {
             "name": "Mejiro McQueen",
@@ -69,7 +70,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "There are sweets included in this meal plan…?! W-would it be okay for me to eat some?!",
+            "text": "There are sweets included in this meal plan…?! \nW-would it be okay for me to eat some?!",
             "choice_data_list": [
                 "That will give you more energy \nand let you run with all your might.",
                 "That will give you more energy \nand let you run with all your might."
@@ -81,7 +82,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "… Thank you so much. Even though you're not officially my trainer yet, you would go out of your way to do this much."
+            "text": "… Thank you so much. Even though you're not officially \nmy trainer yet, you would go out of your way to do this much."
         },
         {
             "name": "Mejiro McQueen",
@@ -89,7 +90,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And then after that… yes. Would you consider coming to oversee my training again in a week?",
+            "text": "And then after that… yes. Would you consider coming \nto oversee my training again in a week?",
             "choice_data_list": [
                 "Of course!"
             ]
@@ -118,7 +119,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Ha, ha, ha, ha…! </i>"
+            "text": "<i>Ha, ha, ha, ha…! \n</i>"
         },
         {
             "name": "Mejiro McQueen",
@@ -145,38 +146,38 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The reason I was able to muster this much strength… is all thanks to your meal plan."
+            "text": "The reason I was able to muster this much \nstrength… is all thanks to your meal plan."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "When it came to dietary restrictions, I had a tendency to be fixated on the idea of fasting―"
+            "text": "When it came to dietary restrictions, I had a \ntendency to be fixated on the idea of fasting―"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Your menu plan was designed with a good understanding of the characteristics of the food, careful calculation of calories, and structured in a way that encourages one to eat."
+            "text": "Your menu plan was designed with a good understanding of the \ncharacteristics of the food, careful calculation of calories, and \nstructured in a way that encourages one to eat."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thanks to that, I can even have sweets… Haha, I still have plenty of energy left to run!"
+            "text": "Thanks to that, I can even have sweets… \nHaha, I still have plenty of energy left to run!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "… Anyhow, I hope you have come to recognize my true running ability.",
+            "text": "… Anyhow, I hope you have come to \nrecognize my true running ability.",
             "choice_data_list": [
                 "Of course!"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you very much. ― Now then, allow me to reintroduce myself."
+            "text": "Thank you very much. \n― Now then, allow me to reintroduce myself."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I am a horsegirl of the proud Mejiro bloodline. My name carries the weight of responsibility, demanding that I achieve victory with elegance, grace, and perfection."
+            "text": "I am a horsegirl of the proud Mejiro bloodline. My name carries \nthe weight of responsibility, demanding that I achieve victory \nwith elegance, grace, and perfection."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "If you take charge of me, that you must realize that you will also be assuming the role of a trainer for the Mejiro family."
+            "text": "If you take charge of me, that you must realize that you will \nalso be assuming the role of a trainer for the Mejiro family."
         },
         {
             "name": "Mejiro McQueen",
@@ -195,7 +196,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "From here on, I humbly ask for your continued guidance and encouragement. I look forward to working with you."
+            "text": "From here on, I humbly ask for your continued guidance and \nencouragement. I look forward to working with you."
         },
         {
             "text": "― That was how my days with Mejiro Mcqueen began!"

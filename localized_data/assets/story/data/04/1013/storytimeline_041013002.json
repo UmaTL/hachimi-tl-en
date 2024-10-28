@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day following the Selection Race, I visited the training course to check on Mejiro Mcqueen."
+            "text": "The day following the Selection Race, I visited \nthe training course to check on Mejiro Mcqueen."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Haa… haa… haa… </i>"
+            "text": "<i>Haa… haa… haa… \n</i>"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "This is not good. I can't muster strength into my legs… This is the same unpleasant feeling as yesterday."
+            "text": "This is not good. I can't muster strength into my legs… \nThis is the same unpleasant feeling as yesterday."
         },
         {
             "name": "Mejiro McQueen",
@@ -25,7 +26,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "You are… Excuse me, who are you?",
+            "text": "You are… \nExcuse me, who are you?",
             "choice_data_list": [
                 "Nice to meet you, I'm a new trainer.",
                 "Nice to meet you, I'm a new trainer."
@@ -41,11 +42,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However… I would like to ask you one question. Why did you become interested in me?"
+            "text": "However… I would like to ask you one question. \nWhy did you become interested in me?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "In the recent Selection Race, I displayed a pathetic performance that brought disgrace to the Mejiro name."
+            "text": "In the recent Selection Race, I displayed a pathetic performance \nthat brought disgrace to the Mejiro name."
         },
         {
             "name": "Mejiro McQueen",
@@ -56,11 +57,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "My spirit…? I see, you were able to see my inner spirit. Thank you for the kind words."
+            "text": "My spirit…? I see, you were able to see my \ninner spirit. Thank you for the kind words."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "A proud horsegirl of the Mejiro family must possess a strong and unwavering spirit at all times…"
+            "text": "A proud horsegirl of the Mejiro family must possess \na strong and unwavering spirit at all times…"
         },
         {
             "name": "Mejiro McQueen",
@@ -68,11 +69,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, whether you decide to be my trainer or not, I would like to request that you make your decision after observing my performance."
+            "text": "However, whether you decide to be my trainer or not, \nI would like to request that you make your decision after \nobserving my performance."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "As a horsegirl from the Mejiro bloodline, I have ambitious goals that I must achieve.",
+            "text": "As a horsegirl from the Mejiro bloodline, I \nhave ambitious goals that I must achieve.",
             "choice_data_list": [
                 "Goals?"
             ]
@@ -83,19 +84,19 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course, this is a feat that cannot be accomplished without a proper relationship of trust with my trainer."
+            "text": "Of course, this is a feat that cannot be accomplished without \na proper relationship of trust with my trainer."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "In other words, I cannot realize my goals if my trainer does not believe in my ability."
+            "text": "In other words, I cannot realize my goals if \nmy trainer does not believe in my ability."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Therefore, please finalize your decision after judging my running performance."
+            "text": "Therefore, please finalize your decision \nafter judging my running performance."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Should you believe you will be able to raise me to become a horsegirl worthy of the Mejiro name.",
+            "text": "Should you believe you will be able to raise me to \nbecome a horsegirl worthy of the Mejiro name.",
             "choice_data_list": [
                 "You must be very proud of the Mejiro name.",
                 "You must be very proud of the Mejiro name."
@@ -107,7 +108,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Being surrounded by a wonderful family and carrying the expectations of those who have supported us for generations…"
+            "text": "Being surrounded by a wonderful family and carrying the \nexpectations of those who have supported us for generations…"
         },
         {
             "name": "Mejiro McQueen",
@@ -115,11 +116,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Therefore, I want to fulfill my role as a Mejiro horsegirl by securing victory."
+            "text": "Therefore, I want to fulfill my role as \na Mejiro horsegirl by securing victory."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "For that reason, I humbly request that you make your decision after judging my running performance.",
+            "text": "For that reason, I humbly request that you make your \ndecision after judging my running performance.",
             "choice_data_list": [
                 "Okay, I will.",
                 "Okay, I will."
@@ -127,25 +128,25 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you very much. I may have shown a rather disappointing performance the other day, but allow me to make up for it here!"
+            "text": "Thank you very much. I may have shown a rather disappointing \nperformance the other day, but allow me to make up for it here!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Then, I will be on my way. Please witness the result of the training that has been instilled in me by the Mejiro family!"
+            "text": "Then, I will be on my way. Please witness the result of the \ntraining that has been instilled in me by the Mejiro family!"
         },
         {
-            "text": "Mejiro Mcqueen commenced training with a determined look on her face."
+            "text": "Mejiro Mcqueen commenced training \nwith a determined look on her face."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Ha! Ha! Ha! Ha! Ha! </i>"
+            "text": "<i>Ha! Ha! Ha! Ha! Ha! \n</i>"
         },
         {
             "name": "Mejiro McQueen",
             "text": "Whew…"
         },
         {
-            "text": "Perhaps due to being trained from a young age, her form was incredibly beautiful with no wasted movements."
+            "text": "Perhaps due to being trained from a young age, her form \nwas incredibly beautiful with no wasted movements."
         },
         {
             "name": "Mejiro McQueen",
@@ -155,14 +156,14 @@
             "text": "The endurance and mental fortitude required in long distance…"
         },
         {
-            "text": "Certainly, with her abilities it wouldn't be out of reach to win the prestigious stayer's race, \"Tenno Sho (Spring)\"."
+            "text": "Certainly, with her abilities it wouldn't be out of reach to win \nthe prestigious stayer's race, \"Tenno Sho (Spring)\"."
         },
         {
             "text": "However…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Huff… huff… </i> What did you think of my training?",
+            "text": "<i>Huff… huff… </i> \nWhat did you think of my training?",
             "choice_data_list": [
                 "Do you have difficulty getting \nstrength into your legs?",
                 "Do you have difficulty getting \nstrength into your legs?"
@@ -170,7 +171,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Hehh</i>? Oh… um, well, that is—"
+            "text": "<i>Hehh</i>? \nOh… um, well, that is—"
         },
         {
             "name": "Mejiro McQueen",
@@ -185,14 +186,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "It's um… I sincerely apologize! I'm off to run another lap!"
+            "text": "It's um… I sincerely apologize! \nI'm off to run another lap!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "This time for sure…!"
         },
         {
-            "text": "Even after continuing her training, Mejiro Mcqueen's condition did not seem to improve much."
+            "text": "Even after continuing her training, Mejiro Mcqueen's \ncondition did not seem to improve much."
         }
     ]
 }

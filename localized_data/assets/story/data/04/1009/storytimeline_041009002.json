@@ -1,14 +1,15 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after the Selection Race. I really am concerned about Daiwa Scarlet. I want to try again and have a proper talk with her…"
+            "text": "The day after the Selection Race. I really am \nconcerned about Daiwa Scarlet. I want to try \nagain and have a proper talk with her…"
         },
         {
-            "text": "I came to see her with those intentions in mind, but she was already surrounded by a bunch of trainers."
+            "text": "I came to see her with those intentions in mind, but she was \nalready surrounded by a bunch of trainers."
         },
         {
-            "name": "Average Trainer A",
-            "text": "It's a shame you were this close to winning the Selection Race, but… I'm sure you also have what it takes to win the G1!"
+            "name": "Experienced Trainer A",
+            "text": "It's a shame you were this close to winning the Selection Race, \nbut… I'm sure you also have what it takes to win the G1!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -16,7 +17,7 @@
         },
         {
             "name": "Rookie Trainer A",
-            "text": "I've got a plan! Instead of going full speed right off the gate, how about you save your stamina? If you can do that, you can win the race just like Vodka did―"
+            "text": "I've got a plan! Instead of going full speed right off the gate, \nhow about you save your stamina? If you can do that, you can win \nthe race just like Vodka did―"
         },
         {
             "name": "Daiwa Scarlet",
@@ -28,18 +29,18 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Excuse me, but I will be taking my leave now. …Good day, sirs."
+            "text": "Excuse me, but I will be taking my leave now. \n…Good day, sirs."
         },
         {
             "text": "Daiwa Scarlet left the area with an alarming smile on her face."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Hmm… I was told she's supposed to be a \"well-mannered honor student,\" but… It seems to me that she has quite a temper?"
+            "name": "Experienced Trainer A",
+            "text": "Hmm… I was told she's supposed to be a \"well-mannered honor \nstudent,\" but… It seems to me that she has quite a temper?"
         },
         {
             "name": "Rookie Trainer A",
-            "text": "With an attitude like that… She'll be quite the trouble to train, no matter how talented she is…"
+            "text": "With an attitude like that… She'll be quite the trouble to \ntrain, no matter how talented she is…"
         },
         {
             "text": "…I'll just try to catch up to her."
@@ -50,23 +51,23 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Hm? Where's all that noise coming from?"
+            "text": "…Hm? \nWhere's all that noise coming from?"
         },
         {
             "name": "Vodka",
-            "text": "Aahhh! Stop following me all day! I told you to give me some time to think about it!"
+            "text": "Aahhh! Stop following me all day! \nI told you to give me some time to think about it!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "You say that but all you've been doing is running! Come and join my team, Vodka! I even have overseas offers lined up for you, you know!?"
+            "text": "You say that but all you've been doing is running! \nCome and join my team, Vodka! I even have overseas \noffers lined up for you, you know!?"
         },
         {
             "name": "Vodka",
-            "text": "Yeah, yeah, I got it! Just leave me alone for a bit!!"
+            "text": "Yeah, yeah, I got it! \nJust leave me alone for a bit!!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Ah… wait, Vodka…! I won't give up… I swear I'll make you into the number one fastest horse girl!"
+            "text": "Ah… wait, Vodka…! I won't give up… I swear I'll make you \ninto the number one fastest horse girl!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -82,7 +83,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh? Ah… Air Groove-senpai!? Um… do you need anything from me?"
+            "text": "Huh? Ah… Air Groove-senpai!? \nUm… do you need anything from me?"
         },
         {
             "name": "Air Groove",
@@ -94,7 +95,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "As vice-president of the student council, I've come to give you a strict warning… Daiwa Scarlet, you've been sneaking out of the dorms every night lately."
+            "text": "As vice-president of the student council, I've come to give you a \nstrict warning… Daiwa Scarlet, you've been sneaking out of the \ndorms every night lately."
         },
         {
             "name": "Daiwa Scarlet",
@@ -102,15 +103,15 @@
         },
         {
             "name": "Air Groove",
-            "text": "Without any sort of prior notice… Breaking curfew and going out at night is inexcusable behavior."
+            "text": "Without any sort of prior notice… \nBreaking curfew and going out at night is inexcusable behavior."
         },
         {
             "name": "Air Groove",
-            "text": "An honor student like yourself should be well aware of these rules, Daiwa Scarlet."
+            "text": "An honor student like yourself should be well \naware of these rules, Daiwa Scarlet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…I understand. I'm very sorry… for my behavior."
+            "text": "…I understand. \nI'm very sorry… for my behavior."
         },
         {
             "name": "Air Groove",
@@ -118,7 +119,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "I take it you've been running? And for a considerable amount of time every night, too."
+            "text": "I take it you've been running? \nAnd for a considerable amount of time every night, too."
         },
         {
             "name": "Daiwa Scarlet",
@@ -130,7 +131,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "I'm sure you're aware of this, but you're overworking yourself. You should stop before it's too late."
+            "text": "I'm sure you're aware of this, but you're overworking yourself. \nYou should stop before it's too late."
         },
         {
             "name": "Daiwa Scarlet",
@@ -138,31 +139,31 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I… got second place… even though my goal has always been being \"number one\"… I had to be \"number one\"…!"
+            "text": "I… got second place… even though my goal has always been \nbeing \"number one\"… I had to be \"number one\"…!"
         },
         {
             "name": "Air Groove",
-            "text": "\"All horse girls eventually experience kneeling on the turf in defeat.\" Just something my mother used to say."
+            "text": "\"All horse girls eventually experience kneeling on the turf in \ndefeat.\" Just something my mother used to say."
         },
         {
             "name": "Air Groove",
-            "text": "What's more important is how they stand up afterwards. Don't be so afraid of failure."
+            "text": "What's more important is how they stand up afterwards. \nDon't be so afraid of failure."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But it's never been the case until now! I've always been \"number one!\" I've put in all my effort just so it could stay that way!"
+            "text": "But it's never been the case until now! I've always been \"number \none!\" I've put in all my effort just so it could stay that way!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…Senpai. Are you finding all of this… ridiculous?"
+            "text": "…Senpai. \nAre you finding all of this… ridiculous?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Could I be the fool all along? Just because I was a bit faster than all the other kids… I ran around telling everyone I was number one, that I'm some kind of honor student…"
+            "text": "Could I be the fool all along? Just because I was a bit faster \nthan all the other kids… I ran around telling everyone I was \nnumber one, that I'm some kind of honor student…"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "…but once I finally got to Tracen Academy… I immediately lost to someone who was <i>actually</i> fast, like Vodka."
+            "text": "…but once I finally got to Tracen Academy… I immediately lost \nto someone who was <i>actually</i> fast, like Vodka."
         },
         {
             "name": "Daiwa Scarlet",
@@ -178,7 +179,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Don't say another word. …You mustn't finish that sentence."
+            "text": "Don't say another word. \n…You mustn't finish that sentence."
         },
         {
             "name": "Air Groove",

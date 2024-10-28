@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "—— It's summer training camp, and the horsegirls of Tracen Academy, including Symboli Rudolf, are staying at a seaside facility, fully immersed in their training."
+            "text": "—— It's summer training camp, and the horsegirls of Tracen \nAcademy, including Symboli Rudolf, are staying at a seaside \nfacility, fully immersed in their training."
         },
         {
             "name": "Symboli Rudolf",
@@ -9,25 +10,25 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "But remember it's only the first day, we shouldn't push ourselves too hard. Let's make sure to warm up properly.",
+            "text": "But remember it's only the first day, we shouldn't push \nourselves too hard. Let's make sure to warm up properly.",
             "choice_data_list": [
                 "How about we take a break \nand do something fun?"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hahah, you always come up with interesting ideas. Sure, let's take a breather."
+            "text": "Hahah, you always come up with interesting ideas. \nSure, let's take a breather."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Overexerting ourselves is never a good idea. There's a beachside restaurant nearby, let us grab lunch there."
+            "text": "Overexerting ourselves is never a good idea. There's a \nbeachside restaurant nearby, let us grab lunch there."
         },
         {
-            "text": "Some time after having had lunch with Symboli Rudolf and completing the day's training…"
+            "text": "Some time after having had lunch with Symboli Rudolf \nand completing the day's training…"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Oh, it's you, Trainer. You're quite dedicated, working even during your free time.",
+            "text": "Oh, it's you, Trainer. You're quite dedicated, \nworking even during your free time.",
             "choice_data_list": [
                 "What are you doing here?",
                 "What are you doing here?"
@@ -35,7 +36,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Just taking a leisurely stroll and keeping an eye out. Well, to put it simply, I've got nothing to do."
+            "text": "Just taking a leisurely stroll and keeping an eye out. \nWell, to put it simply, I've got nothing to do."
         },
         {
             "name": "Symboli Rudolf",
@@ -43,7 +44,7 @@
         },
         {
             "name": "???",
-            "text": "<i>Kyaa～～～～～～～～～～～～～！！！！ </i>"
+            "text": "<i>Kyaa～～～～～～～～～～～～～！！！！ \n</i>"
         },
         {
             "name": "Symboli Rudolf",
@@ -58,11 +59,11 @@
         },
         {
             "name": "???",
-            "text": "<i>Kyaaa～～～～～～～～～～～～～！！！！ </i>"
+            "text": "<i>Kyaaa～～～～～～～～～～～～～！！！！ \n</i>"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I'm hearing screams from all directions! What on earth is happening…!?"
+            "text": "I'm hearing screams from all directions! \nWhat on earth is happening…!?"
         },
         {
             "name": "Symboli Rudolf",
@@ -82,7 +83,7 @@
         },
         {
             "name": "Horsegirls",
-            "text": "<i>Baaaah～～～～ ！！！！ </i>"
+            "text": "<i>Baaaah～～～～ ！！！！ \n</i>"
         },
         {
             "name": "Symboli Rudolf",
@@ -90,15 +91,15 @@
         },
         {
             "name": "Horsegirl A",
-            "text": "Huh… Whoa!? P-President……!? We're so sorry! We mistook you for one of our classmates…!!"
+            "text": "Huh… Whoa!? P-President……!? We're so sorry! \nWe mistook you for one of our classmates…!!"
         },
         {
             "name": "Horsegirl B",
-            "text": "I-I-I'm so sorry! I didn't expect the Student Council President to get involved in the Haunted Challenge! I don't even know how to apologize……!!"
+            "text": "I-I-I'm so sorry! I didn't expect the Student Council \nPresident to get involved in the Haunted Challenge! \nI don't even know how to apologize……!!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Haunted Challenge…? So, there was no real danger to you all, then?"
+            "text": "Haunted Challenge…? So, there was \nno real danger to you all, then?"
         },
         {
             "name": "Horsegirls",
@@ -110,7 +111,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hahahah! So that's what's been happening! I guess I ended up giving you all quite a scare!"
+            "text": "Hahahah! So that's what's been happening! \nI guess I ended up giving you all quite a scare!"
         },
         {
             "name": "Horsegirl A",
@@ -118,7 +119,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hahahah… Well, as long as you're all having fun, I'm genuinely pleased."
+            "text": "Hahahah… Well, as long as you're all \nhaving fun, I'm genuinely pleased."
         },
         {
             "name": "Symboli Rudolf",
@@ -130,7 +131,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hmm? Hey, what's wrong? You all look a bit stunned…",
+            "text": "Hmm? Hey, what's wrong? \nYou all look a bit stunned…",
             "choice_data_list": [
                 "I think they thought you'd be mad at them.",
                 "I think they thought you'd be mad at them."
@@ -138,19 +139,19 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Why would I be angry? They've done nothing wrong. After all, this is their free time. What's there to be upset about?"
+            "text": "Why would I be angry? They've done nothing wrong. After all, \nthis is their free time. What's there to be upset about?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "We are all students. There's more to it than races and training; the days we spend with friends will become important memories for our future."
+            "text": "We are all students. There's more to it than races \nand training; the days we spend with friends will \nbecome important memories for our future."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Besides, a day like this won't come again. It's a precious night during our summer camp, so it's only natural to want to create enjoyable memories while we have the chance."
+            "text": "Besides, a day like this won't come again. It's a precious \nnight during our summer camp, so it's only natural to want \nto create enjoyable memories while we have the chance."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "The same goes for me…… Heheh, I'd be lying if I said I weren't a little more excited than usual.",
+            "text": "The same goes for me…… Heheh, I'd be lying if I said \nI weren't a little more excited than usual.",
             "choice_data_list": [
                 "Since we're here, why don't you join them?"
             ]
@@ -165,7 +166,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Don't you worry, girls. The training camp is long. Enjoy tonight to the fullest and recharge your spirits ——"
+            "text": "Don't you worry, girls. The training camp is long. \nEnjoy tonight to the fullest and recharge your spirits ——"
         },
         {
             "name": "Horsegirl A",
@@ -173,7 +174,7 @@
         },
         {
             "name": "Horsegirl B",
-            "text": "If you're okay with it… Would you… like to join us for the Haunted Challenge…?"
+            "text": "If you're okay with it… Would you… like to \njoin us for the Haunted Challenge…?"
         },
         {
             "name": "Symboli Rudolf",
@@ -185,7 +186,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It is no trouble at all. Heheh… well then, I'll gladly accept your offer!"
+            "text": "It is no trouble at all. Heheh… well then, \nI'll gladly accept your offer!"
         },
         {
             "name": "Symboli Rudolf",
@@ -197,11 +198,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Thank you. Class B, check for any danger zones and get to the site."
+            "text": "Thank you. Class B, check for any \ndanger zones and get to the site."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Once you find a blind spot, hide yourselves. Afterward… you know what to do, right?"
+            "text": "Once you find a blind spot, hide yourselves. \nAfterward… you know what to do, right?"
         },
         {
             "name": "Horsegirl B",
@@ -221,11 +222,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Oh? What are you saying? This is all to make it the best event possible."
+            "text": "Oh? What are you saying? \nThis is all to make it the best event possible."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Showing something half-baked would be unfair to the participants, wouldn't it? With everyone coordinated, we'll create an unparalleled sense of terror.",
+            "text": "Showing something half-baked would be unfair to the \nparticipants, wouldn't it? With everyone coordinated, \nwe'll create an unparalleled sense of terror.",
             "choice_data_list": [
                 "You look like you're enjoying yourself.",
                 "You look like you're enjoying yourself."
@@ -233,10 +234,10 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Heheh, indeed… I've never had a training camp that was this exciting."
+            "text": "Heheh, indeed… I've never had a training \ncamp that was this exciting."
         },
         {
-            "text": "The following day, the students were buzzing about how the \"Haunted Challenge\" had been even scarier and more enjoyable than in previous years."
+            "text": "The following day, the students were buzzing about how the \n\"Haunted Challenge\" had been even scarier and more \nenjoyable than in previous years."
         }
     ]
 }

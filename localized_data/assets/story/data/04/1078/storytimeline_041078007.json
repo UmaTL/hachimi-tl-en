@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "In the morning of the summer training camp. It's still early, but Zephyr is nowhere to be seen.",
+            "text": "In the morning of the summer training camp. \nIt's still early, but Zephyr is nowhere to be seen.",
             "choice_data_list": [
                 "Is she looking for wind?"
             ]
@@ -15,11 +16,11 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yeah. I was invited by an unfamiliar breeze melded with the heat of the sun. So I looked for a place to find cool breeze but…"
+            "text": "Yeah. I was invited by an unfamiliar breeze \nmelded with the heat of the sun. So I looked \nfor a place to find cool breeze but…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I can feel the morning sea breeze blowing now. From… you?"
+            "text": "I can feel the morning sea breeze blowing now. \nFrom… you?"
         },
         {
             "name": "Yamanin Zephyr",
@@ -27,7 +28,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It… must be a wind from a different season. Anyway, let's start today's training."
+            "text": "It… must be a wind from a different season. \nAnyway, let's start today's training."
         },
         {
             "name": "Yamanin Zephyr",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Thank you. In order to become a heavenly wind, I must not let go of this wind―…oh."
+            "text": "Thank you. In order to become a heavenly wind, \nI must not let go of this wind―…oh."
         },
         {
             "name": "Yamanin Zephyr",
@@ -54,25 +55,25 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Um… trainer. Can I ask you a favor?"
+            "text": "Um… trainer. \nCan I ask you a favor?"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It's ok if you are 'calm wind' at night, I'd like you to come with me to wait for the wind."
+            "text": "It's ok if you are 'calm wind' at night, \nI'd like you to come with me to wait for the wind."
         },
         {
             "name": "Yamanin Zephyr",
             "text": "There is something I really want to confirm."
         },
         {
-            "text": "The wind that Yamanin Zephyr wants to wait… If I meet the 'wind' she was talking about, I might get to know her better.",
+            "text": "The wind that Yamanin Zephyr wants to wait… If I meet the \n'wind' she was talking about, I might get to know her better.",
             "choice_data_list": [
                 "Yes, of course!"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Wow, that was 'Sorai'(spring wind), thank you. See you later tonight…"
+            "text": "Wow, that was 'Sorai'(spring wind), thank you. \nSee you later tonight…"
         },
         {
             "text": "I followed Zephyr along the road near the training camp."
@@ -82,7 +83,7 @@
             "text": "The calmness of the evening breeze… is very nice at times."
         },
         {
-            "text": "Zephr seemed satisfied. However, there were no wind blowing, and the sky is cloudy with no stars to be seen.",
+            "text": "Zephr seemed satisfied. However, there were no wind blowing, \nand the sky is cloudy with no stars to be seen.",
             "choice_data_list": [
                 "This feels like we're just taking a walk.",
                 "This feels like we're just taking a walk."
@@ -90,11 +91,11 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yah… we're 'waiting' for the wind. It takes time for the evening breeze to pass and the 'wind' to start blowing."
+            "text": "Yah… we're 'waiting' for the wind. It takes time for the \nevening breeze to pass and the 'wind' to start blowing."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "But that's just for a little while. Soon, we should be able to meet the 'wind' I felt this morning.",
+            "text": "But that's just for a little while. \nSoon, we should be able to meet the 'wind' I felt this morning.",
             "choice_data_list": [
                 "The 'wind' from this morning…"
             ]
@@ -104,25 +105,25 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Yeah. I was invited by an unfamiliar breeze melded with the heat of the sun. So I looked for a place to find cool breeze but…"
+            "text": "Yeah. I was invited by an unfamiliar breeze \nmelded with the heat of the sun. So I looked \nfor a place to find cool breeze but…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I can feel the morning sea breeze blowing now. From… you?"
+            "text": "I can feel the morning sea breeze blowing now. \nFrom… you?"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The sea breeze in the morning becomes the land breeze after the evening breeze passes. I'm sure if we wait here…"
+            "text": "The sea breeze in the morning becomes the land breeze after \nthe evening breeze passes. I'm sure if we wait here…"
         },
         {
-            "text": "The wind that blew from the sea to the land this morning, returns to the sea at night. I guess that's why she thinks she will feel the same 'wind' if she wait in the same location."
+            "text": "The wind that blew from the sea to the land this morning, \nreturns to the sea at night. I guess that's why she thinks \nshe will feel the same 'wind' if she wait in the same location."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I want to feel it and find out. How did that 'cool breeze' come about?"
+            "text": "I want to feel it and find out. \nHow did that 'cool breeze' come about?"
         },
         {
-            "text": "Looking at her being so desperate to meet this 'wind'. I can't help myself to pray for the wind to come soon."
+            "text": "Looking at her being so desperate to meet this 'wind'. \nI can't help myself to pray for the wind to come soon."
         },
         {
             "text": "(*whoosh)",
@@ -132,7 +133,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh dear…? Fufu, it's Handkerchief-san. I didn't expect to see you here.",
+            "text": "Oh dear…? Fufu, it's Handkerchief-san. \nI didn't expect to see you here.",
             "choice_data_list": [
                 "It… It's a flying squirrel…"
             ]
@@ -146,14 +147,14 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "No, it's Megane-san. If Megane-san is here, then this must be a place of 'sunny wind'."
+            "text": "No, it's Megane-san. If Megane-san is here, \nthen this must be a place of 'sunny wind'."
         },
         {
-            "text": "From the location where Zephy was looking at― The voice of an owl hoots out…"
+            "text": "From the location where Zephy was looking at― \nThe voice of an owl hoots out…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "There's even Patapata-san over there. Fufu, everyone seems to be enjoying the waltz…"
+            "text": "There's even Patapata-san over there. \nFufu, everyone seems to be enjoying the waltz…"
         },
         {
             "name": "Yamanin Zephyr",
@@ -161,7 +162,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "This is a nice forest… The 'sunny breeze' here is just like the one back at home. The air is… clear.",
+            "text": "This is a nice forest… The 'sunny breeze' here is just like \nthe one back at home. The air is… clear.",
             "choice_data_list": [
                 "It would be perfect if the wind starts blowing.",
                 "It would be perfect if the wind starts blowing."
@@ -173,7 +174,7 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The wind… yes… The air is still calm… But―"
+            "text": "The wind… yes… The air is still calm… \nBut―"
         },
         {
             "name": "Yamanin Zephyr",
@@ -185,39 +186,39 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It felt so strange. I was wondering why I could feel… the 'cool breeze' so well?"
+            "text": "It felt so strange. \nI was wondering why I could feel… the 'cool breeze' so well?"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It was the same this morning. There was no pine wind. A dry wind was about to creep into my heart. That is until…"
+            "text": "It was the same this morning. There was no pine wind. A dry \nwind was about to creep into my heart. That is until…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The wind ran away. A cool stream of air blew along the sea breeze… it was from you."
+            "text": "The wind ran away. A cool stream of air blew \nalong the sea breeze… it was from you."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "That's why I thought… maybe I could meet the 'cool breeze' again if I'm around you. But…"
+            "text": "That's why I thought… maybe I could meet the 'cool breeze' \nagain if I'm around you. But…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "There is no wind blowing now, yet I can feel the 'wind' in my heart. …Trainer."
+            "text": "There is no wind blowing now, yet I can feel the 'wind' in \nmy heart. …Trainer."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "It was you all along. You are the breath. The pleasant breeze…",
+            "text": "It was you all along. You are the breath. \nThe pleasant breeze…",
             "choice_data_list": [
                 "Zephyr…"
             ]
         },
         {
-            "text": "The girl who always chased after the wind of freedom, who preferred to be alone… is feeling comfortable being around me.",
+            "text": "The girl who always chased after the wind of freedom, who \npreferred to be alone… is feeling comfortable being around me.",
             "choice_data_list": [
                 "…I will continue to send you good winds from now on."
             ]
         },
         {
-            "text": "In order to respond to her feelings, I must do my best to make her feel the best 'wind'. Just when I made up my mind… suddenly―!"
+            "text": "In order to respond to her feelings, I must \ndo my best to make her feel the best 'wind'. \nJust when I made up my mind… suddenly―!"
         },
         {
             "text": "(Swooosh―!)"
@@ -227,7 +228,7 @@
             "text": "Oh dear, trainer! Come! To the sound of the wind!"
         },
         {
-            "text": "Following the wind, we found ourselves by the the ocean. The starry sky, which seems to have been cleared by the wind earlier, is shining the surface of the water."
+            "text": "Following the wind, we found ourselves by the the ocean. \nThe starry sky, which seems to have been cleared by \nthe wind earlier, is shining the surface of the water."
         },
         {
             "name": "Yamanin Zephyr",
@@ -245,7 +246,7 @@
             ]
         },
         {
-            "text": "Zephyr nodded softly and looked up at the star-filled sky for a while. The wind blowing towards the sea was gentle."
+            "text": "Zephyr nodded softly and looked up at the star-filled sky \nfor a while. The wind blowing towards the sea was gentle."
         }
     ]
 }

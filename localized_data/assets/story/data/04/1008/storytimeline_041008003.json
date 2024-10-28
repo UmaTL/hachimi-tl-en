@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Just a little longer until the main event of the event――"
+            "text": "Just a little longer until the \nmain event of the event――"
         },
         {
             "name": "Horsegirl A",
-            "text": "Did you hear? It looks like a lot of girls declined just because Bryan-senpai was in the 10th group…"
+            "text": "Did you hear? It looks like a lot \nof girls declined just because Bryan-senpai \nwas in the 10th group…"
         },
         {
             "name": "Horsegirl B",
-            "text": "I heard, I heard! That group was the only ones in the GI class. I'm so glad I declined…"
+            "text": "I heard, I heard! That group was the only ones \nin the GI class. I'm so glad I declined…"
         },
         {
             "name": "Vodka",
@@ -29,15 +30,15 @@
         },
         {
             "name": "Vodka",
-            "text": "It doesn't matter what the others do! I'm leaving."
+            "text": "It doesn't matter what the \nothers do! I'm leaving."
         },
         {
             "name": "Vodka",
-            "text": "You're right. Brian's a dangerous opponent. She's not even good enough to be called a GI-Class."
+            "text": "You're right. Brian's a dangerous \nopponent. She's not even good enough \nto be called a GI-Class."
         },
         {
             "name": "Vodka",
-            "text": "Even in the event race, the teachers and trainers were watching closely, so I could understand what they were saying."
+            "text": "Even in the event race, the teachers and \ntrainers were watching closely, so I could \nunderstand what they were saying."
         },
         {
             "name": "Vodka",
@@ -52,14 +53,14 @@
         },
         {
             "name": "Vodka",
-            "text": "…I'm going to be a cool girl. Then I can't be scared here!"
+            "text": "…I'm going to be a cool girl. \nThen I can't be scared here!"
         },
         {
             "name": "Vodka",
-            "text": "Come on, let's go, Trainer! The real battle's coming up soon, so we need to train hard!"
+            "text": "Come on, let's go, Trainer! The real battle's \ncoming up soon, so we need to train hard!"
         },
         {
-            "text": "Several days passed as I watched Vodka devote herself to her training."
+            "text": "Several days passed as I watched Vodka devote \nherself to her training."
         },
         {
             "text": "The main event of the event has finally come."
@@ -69,7 +70,7 @@
         },
         {
             "name": "Commentator",
-            "text": "Please listen to this cheer! The star of the 10th race, 2000 meters of grass, is just as excited as the GI race!"
+            "text": "Please listen to this cheer! The star of the \n10th race, 2000 meters of grass, is just as \nexcited as the GI race!"
         },
         {
             "name": "Commentator",
@@ -88,7 +89,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, are you ready to withdraw? I'll go talk to the committee."
+            "text": "Oh, are you ready to withdraw? \nI'll go talk to the committee."
         },
         {
             "name": "Vodka",
@@ -103,8 +104,8 @@
             "text": "Alright, alright, I'll keep an eye on you. …Geez."
         },
         {
-            "name": "Average Trainer A",
-            "text": "She was loudly declaring that she'd win, but…… Wohka, are you trying to beat Naritabrian?"
+            "name": "Experienced Trainer A",
+            "text": "She was loudly declaring that she'd win, but…… \nWohka, are you trying to beat Naritabrian?"
         },
         {
             "name": "Veteran Trainer A",
@@ -126,7 +127,7 @@
         },
         {
             "name": "Vodka",
-            "text": "(I'll do it, too……! If I beat Senpai here……I won't be cool!)"
+            "text": "(I'll do it, too……! If I beat Senpai here……I \nwon't be cool!)"
         },
         {
             "name": "Vodka",
@@ -134,10 +135,10 @@
         },
         {
             "name": "Commentator",
-            "text": "Vodka stepped forward here! She dodged the group with supple acceleration!!"
+            "text": "Vodka stepped forward here! She dodged the group \nwith supple acceleration!!"
         },
         {
-            "text": "It was a fast pace from the beginning, since it was a race with all the power, but vodka was doing her best to keep up."
+            "text": "It was a fast pace from the beginning, since it \nwas a race with all the power, but vodka was \ndoing her best to keep up."
         },
         {
             "text": "But when the race comes to an end…"
@@ -160,7 +161,7 @@
         },
         {
             "name": "Commentator",
-            "text": "She's here, Naritablyan! She's here, she's here, she's here, she's here, she's here, she's here, she's here, she's here!"
+            "text": "She's here, Naritablyan! She's here, she's here, \nshe's here, she's here, she's here, she's here, \nshe's here, she's here!"
         },
         {
             "name": "Vodka",
@@ -168,7 +169,7 @@
         },
         {
             "name": "Commentator",
-            "text": "Vodka's going to pick up speed, too! But is the gap going to be tough?! She's headed by Naritabrian, and she's only five to six!"
+            "text": "Vodka's going to pick up speed, too! But is the \ngap going to be tough?! She's headed by \nNaritabrian, and she's only five to six!"
         },
         {
             "name": "Vodka",
@@ -180,18 +181,18 @@
         },
         {
             "name": "Commentator",
-            "text": "Naritabrian, goooooooh!! You showed me a magnificent run worthy of being overwhelming!!"
+            "text": "Naritabrian, goooooooh!! You showed me a \nmagnificent run worthy of being overwhelming!!"
         },
         {
             "text": "…Unfortunately, Vodka ended up in fifth place."
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "That was a pretty reckless challenge."
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Yes. If she had chosen the right stage, she would have been the star.",
+            "text": "Yes. If she had chosen the right stage, she \nwould have been the star.",
             "choice_data_list": [
                 "Hey, if you insult her already――",
                 "If you insult her a little…"
@@ -199,7 +200,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Hey now, what's with that scary look on your face, trainer?",
+            "text": "Hey now, what's with that scary \nlook on your face, trainer?",
             "choice_data_list": [
                 "Vodka…"
             ]
@@ -213,7 +214,7 @@
             "text": "I'm……seriously useless right now……"
         },
         {
-            "text": "『That's not true』……I was about to tell her that, but Vodka left."
+            "text": "『That's not true』……I was about to tell her that, \nbut Vodka left."
         }
     ]
 }

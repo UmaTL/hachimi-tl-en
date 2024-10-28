@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Winning Ticket",
-            "text": "<i>This is Ticket! Go straight for a while, then cyuuu diagonally left and after you're through the byooo part you should see the plane!</i>"
+            "text": "<i>This is Ticket! Go straight for a while, then cyuuu \ndiagonally left and after you're through the byooo part \nyou should see the plane!</i>"
         },
         {
             "name": "Tokai Teio",
-            "text": "<i>Teio here! I have no clue what you're saying, get me some directions. Over!</i>"
+            "text": "<i>Teio here! I have no clue what you're saying, \nget me some directions. Over!</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Here it is… the wings are wrecked but the power unit looks essentially intact. I think we can make great use of that."
+            "text": "Here it is… the wings are wrecked but the power unit looks \nessentially intact. I think we can make great use of that."
         },
         {
             "name": "Biwa Hayahide",
@@ -18,15 +19,15 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Mm, I just need to take it apart into chunks that fit on the truck, right? I'll fix any small issues while at it."
+            "text": "Mm, I just need to take it apart into chunks that fit \non the truck, right? I'll fix any small issues while at it."
         },
         {
             "name": "Narita Taishin",
-            "text": "Whoa…… Amazing…… …………"
+            "text": "Whoa…… Amazing…… \n…………"
         },
         {
             "name": "Narita Taishin",
-            "text": "(Even the welding angles have been considered in detail. These marks are from constant readjustments… As Hayahide said, you can feel just how much work went into this…)"
+            "text": "(Even the welding angles have been considered in detail. \nThese marks are from constant readjustments… As Hayahide \nsaid, you can feel just how much work went into this…)"
         },
         {
             "name": "Narita Taishin",
@@ -34,19 +35,19 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "How's it, Taishin!? See anything useful as a mechanical engineer?"
+            "text": "How's it, Taishin!? \nSee anything useful as a mechanical engineer?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Hm? Umm… hmm? There's something here not on the researcher's plane… This the part she said lead it to crash maybe? But—"
+            "text": "Hm? Umm… hmm? There's something here \nnot on the researcher's plane… This the part \nshe said lead it to crash maybe? But—"
         },
         {
             "name": "Narita Taishin",
-            "text": "This can't be it… if anything, it's what let it fly this far. And the improvements to be made are actually really obvious."
+            "text": "This can't be it… if anything, it's what let it fly this far. \nAnd the improvements to be made are actually really obvious."
         },
         {
             "name": "Winning Ticket",
-            "text": "Really!? What a relieeeeeff! That should take a load off her shoulders too!"
+            "text": "Really!? What a relieeeeeff! \nThat should take a load off her shoulders too!"
         },
         {
             "name": "Narita Taishin",
@@ -54,7 +55,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "(I hated failing… I didn't want to lose. I thought it only showed my own weakness.)"
+            "text": "(I hated failing… I didn't want to lose. \nI thought it only showed my own weakness.)"
         },
         {
             "name": "Narita Taishin",
@@ -62,7 +63,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Everything has been loaded up. It's on you now, chauffeur Teio!"
+            "text": "Everything has been loaded up. \nIt's on you now, chauffeur Teio!"
         },
         {
             "name": "Tokai Teio",
@@ -70,7 +71,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It would seem the heavy load is quite troubling. … I forgot a truck like this drives very differently."
+            "text": "It would seem the heavy load is quite troubling. \n… I forgot a truck like this drives very differently."
         },
         {
             "name": "Tokai Teio",
@@ -78,15 +79,15 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "We won't lose! Won't give up!! And we're flying that plane!"
+            "text": "We won't lose! Won't give up!! \nAnd we're flying that plane!"
         },
         {
             "name": "Tokai Teio",
-            "text": "Prodigal Driver Teio's on the scene!! Her driving skills will make short work of tow trucks!"
+            "text": "Prodigal Driver Teio's on the scene!! \nHer driving skills will make short work of tow trucks!"
         },
         {
             "name": "Tokai Teio",
-            "text": "We worked our asses off to get this thing running. I'm not letting anything break up this chain of dreams and wishes!"
+            "text": "We worked our asses off to get this thing running. I'm not \nletting anything break up this chain of dreams and wishes!"
         },
         {
             "name": "Tokai Teio",
@@ -94,7 +95,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "<i>Twin Turbo</i>!! ―Ah, she got it half right……!?"
+            "text": "<i>Twin Turbo</i>!! \n―Ah, she got it half right……!?"
         },
         {
             "name": "Tokai Teio",
@@ -106,11 +107,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "…… Hmm? Was that a voice? ………Ahh!"
+            "text": "…… Hmm? Was that a voice? \n………Ahh!"
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>This is Ticket! A car's approaching Teio! I think they're trying to say something!</i>"
+            "text": "<i>This is Ticket! A car's approaching Teio! \nI think they're trying to say something!</i>"
         },
         {
             "name": "Tokai Teio",
@@ -126,15 +127,15 @@
         },
         {
             "name": "???",
-            "text": "―I see. You people work for the owner of this craft, yes? Ok, I understand."
+            "text": "―I see. You people work for the owner of this craft, yes? \nOk, I understand."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm glad we cleared up that thief misunderstanding. And you are? What do you want with us… no, this plane?"
+            "text": "I'm glad we cleared up that thief misunderstanding. \nAnd you are? What do you want with us… no, this plane?"
         },
         {
             "name": "Metal Researcher",
-            "text": "Studying metals is my calling. I've been coming here to research this abandoned craft, and I'd appreciate if you didn't take away my research subject!"
+            "text": "Studying metals is my calling. I've been coming here to \nresearch this abandoned craft, and I'd appreciate if you \ndidn't take away my research subject!"
         },
         {
             "name": "Narita Taishin",
@@ -142,27 +143,27 @@
         },
         {
             "name": "Metal Researcher",
-            "text": "Well yes, it would seem that way. So hand it over please!"
+            "text": "Well yes, it would seem that way. \nSo hand it over please!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "We cannot do that. As you can see, we are recovering this aircraft. The technology it holds must be incorporated into a new model."
+            "text": "We cannot do that. As you can see, we are \nrecovering this aircraft. The technology it holds \nmust be incorporated into a new model."
         },
         {
             "name": "Metal Researcher",
-            "text": "Oho, now that's great news! You see, I've been so very impressed looking at this engine!"
+            "text": "Oho, now that's great news! You see, I've been \nso very impressed looking at this engine!"
         },
         {
             "name": "Metal Researcher",
-            "text": "To try and make a box of metal fly, oh the madness! But this craft holds the potential to make it reality!"
+            "text": "To try and make a box of metal fly, oh the madness! \nBut this craft holds the potential to make it reality!"
         },
         {
             "name": "Metal Researcher",
-            "text": "Wouldn't it fly if you changed the material of the fuselage…? With the iron-based alloy I came up with!!"
+            "text": "Wouldn't it fly if you changed the material of the fuselage…? \nWith the iron-based alloy I came up with!!"
         },
         {
             "name": "Metal Researcher",
-            "text": "That's been on my mind, you see. I want a plane to fly by using my alloy!!"
+            "text": "That's been on my mind, you see. \nI want a plane to fly by using my alloy!!"
         },
         {
             "name": "Winning Ticket",
@@ -170,7 +171,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "She's just like her!! They're connected through this plane! Ooooh the dramaaa! Owwooooohh!!"
+            "text": "She's just like her!! They're connected through this plane! \nOoooh the dramaaa! Owwooooohh!!"
         },
         {
             "name": "Narita Taishin",
@@ -178,15 +179,15 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "(Without going through the failures… and coming to retrieve them now… we would've never met this researcher.)"
+            "text": "(Without going through the failures… and coming to retrieve \nthem now… we would've never met this researcher.)"
         },
         {
             "name": "Narita Taishin",
-            "text": "(Hayahide said failures are part of a history…… Is this what she meant?)"
+            "text": "(Hayahide said failures are part of a history…… \nIs this what she meant?)"
         },
         {
             "name": "Narita Taishin",
-            "text": "(… I'm here because of what I've gone through as well. If I'd won all my races easily…)"
+            "text": "(… I'm here because of what I've gone through as well. \nIf I'd won all my races easily…)"
         },
         {
             "name": "Narita Taishin",
@@ -202,7 +203,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "We have… another researcher for you to meet. Come with us."
+            "text": "We have… another researcher for you to meet. \nCome with us."
         },
         {
             "name": "Winning Ticket",
@@ -210,7 +211,7 @@
         },
         {
             "name": "Metal Researcher",
-            "text": "―Ohoho, you were a step ahead of me, huh. But a joint research project is music to my ears!"
+            "text": "―Ohoho, you were a step ahead of me, huh. \nBut a joint research project is music to my ears!"
         }
     ]
 }

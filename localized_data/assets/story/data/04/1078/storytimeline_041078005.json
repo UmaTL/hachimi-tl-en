@@ -1,50 +1,51 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I felt a sudden scent of greenery and looked up. Yamanin Zephyr appeared as if she was chasing the early summer wind."
+            "text": "I felt a sudden scent of greenery and looked up. Yamanin \nZephyr appeared as if she was chasing the early summer wind."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh? Were you also invited by the white south wind? It's such a joyful feeling isn't it?",
+            "text": "Oh? Were you also invited by the white south wind? \nIt's such a joyful feeling isn't it?",
             "choice_data_list": [
                 "Are you going somewhere?"
             ]
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Not really. I have business with Nagi. So, I thought I'd try to find the best place to catch this white south wind."
+            "text": "Not really. I have business with Nagi. So, I thought I'd try \nto find the best place to catch this white south wind."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh, I'm confusing you again. Excuse me, trainer."
+            "text": "Oh, I'm confusing you again. \nExcuse me, trainer."
         },
         {
-            "text": "[Business with nagi]…Judging from the context, it seems that she had no particular plan. I've seen her walking freely around the school from time to time."
+            "text": "[Business with nagi]…Judging from the context, it seems that \nshe had no particular plan. I've seen her walking freely \naround the school from time to time."
         },
         {
             "text": "And there comes―"
         },
         {
             "name": "Horsegirl A",
-            "text": "Ms. Zephyr! Please reply if you are here! … Ugh… She's not here either…",
+            "text": "Ms. Zephyr! Please reply if you are here! \n… Ugh… She's not here either…",
             "choice_data_list": [
                 "Zephyr was here just a moment ago…"
             ]
         },
         {
             "name": "Horsegirl A",
-            "text": "Wha!? If I remember correctly… You're Ms. Zephyr's trainer aren't you?"
+            "text": "Wha!? If I remember correctly… \nYou're Ms. Zephyr's trainer aren't you?"
         },
         {
             "name": "Horsegirl A",
-            "text": "Can you help me find Ms. Zephyr!? I would like to ask her to join the class social gathering…!"
+            "text": "Can you help me find Ms. Zephyr!? \nI would like to ask her to join the class social gathering…!"
         },
         {
-            "text": "Considering the direction Zephyr walked, I first looked into the cafeteria, but…"
+            "text": "Considering the direction Zephyr walked, \nI first looked into the cafeteria, but…"
         },
         {
             "name": "Horsegirl B",
-            "text": "Zephyr? hm… she just was just here a moment ago～. She left after saying something about the evening breeze…",
+            "text": "Zephyr? hm… she just was just here a moment ago～. \nShe left after saying something about the evening breeze…",
             "choice_data_list": [
                 "'Evening Breze' huh…"
             ]
@@ -55,10 +56,10 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "This is the place where the best wind blows in the school. You can feel the most refreshing breeze during this season, this time."
+            "text": "This is the place where the best wind blows \nin the school. You can feel the most refreshing \nbreeze during this season, this time."
         },
         {
-            "text": "Yes… that's what she said when I first met her. Which means she must be at―!"
+            "text": "Yes… that's what she said when I first met her. \nWhich means she must be at―!"
         },
         {
             "name": "Horsegirl C",
@@ -73,7 +74,7 @@
             "text": "Eh～, how is that possible! Why can't we catch up to her～!?"
         },
         {
-            "text": "She was like a drifting wind, we were unable to catch up to her. We then looked around on the rooftop and―",
+            "text": "She was like a drifting wind, we were unable to catch up to her. \nWe then looked around on the rooftop and―",
             "choice_data_list": [
                 "There she was!!"
             ]
@@ -84,25 +85,25 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "Oh my, you look like you're in quite a 'blue storm'. Is there something I can help you?"
+            "text": "Oh my, you look like you're in quite a 'blue storm'. \nIs there something I can help you?"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "―I'm really sorry about that. I should've told you that it's a 'calm wind'."
+            "text": "―I'm really sorry about that. \nI should've told you that it's a 'calm wind'."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I didn't know where the wind was blowing, so I thought it would be better to not cause a storm in the clear sky."
+            "text": "I didn't know where the wind was blowing, so I thought it \nwould be better to not cause a storm in the clear sky."
         },
         {
             "name": "Horsegirl A",
             "text": "…huh?"
         },
         {
-            "text": "Zephyr's words were hard to understand as usual… she uses the word 'calm wind' whenever someone asks her about her schedule."
+            "text": "Zephyr's words were hard to understand as usual… \nshe uses the word 'calm wind' whenever someone \nasks her about her schedule."
         },
         {
-            "text": "'Plan is a calm wind' meant that she has something to do that day. Which means―",
+            "text": "'Plan is a calm wind' meant that she has something \nto do that day. Which means―",
             "choice_data_list": [
                 "You're not gonna participate in social gathering?"
             ]
@@ -113,11 +114,11 @@
         },
         {
             "name": "Horsegirl A",
-            "text": "Predict… unable to predict… Oh! Does that mean you're not sure about your schedule? or something…?"
+            "text": "Predict… unable to predict… Oh! Does that mean you're not \nsure about your schedule? or something…?"
         },
         {
             "name": "Horsegirl A",
-            "text": "I see, you must have training that day. Roger that! Thanks for helping me today trainer!"
+            "text": "I see, you must have training that day. \nRoger that! Thanks for helping me today trainer!"
         },
         {
             "text": "(*pata *pata *pata…)",
@@ -127,19 +128,19 @@
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "…No. I want to stay where the wind blows."
+            "text": "…No. \nI want to stay where the wind blows."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "I would love to spend time with everyone. But, I want to take care of the lonely 'hikata wind' as well."
+            "text": "I would love to spend time with everyone. \nBut, I want to take care of the lonely 'hikata wind' as well."
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "The color of the wind changes from time to time. I want to leave room for decisions unaffected by the weather vane…"
+            "text": "The color of the wind changes from time to time. I want to \nleave room for decisions unaffected by the weather vane…"
         },
         {
             "name": "Yamanin Zephyr",
-            "text": "…I want to be my true self. Future is unpredictable. Will it be a down wind or a light breeze? We may never know.",
+            "text": "…I want to be my true self. Future is unpredictable. Will it \nbe a down wind or a light breeze? We may never know.",
             "choice_data_list": [
                 "That's why you didn't make any promise?"
             ]
@@ -153,10 +154,10 @@
             "text": "The wind is free… and so am I…"
         },
         {
-            "text": "'To be your true self, and be free'… She was unable to make any promises because of those thoughts. She has a very unique sense of value."
+            "text": "'To be your true self, and be free'… She was unable to make \nany promises because of those thoughts. She has a very \nunique sense of value."
         },
         {
-            "text": "What does she mean by 'nature' and 'freedom'? As her trainer, I wanted to know."
+            "text": "What does she mean by 'nature' and 'freedom'? \nAs her trainer, I wanted to know."
         }
     ]
 }

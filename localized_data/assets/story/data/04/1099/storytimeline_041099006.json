@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "On my day off, I decided to take a hike for a break from work and was wandering around a store when I bumped into a Hokko Tarumae."
+            "text": "On my day off, I decided to take a hike for \na break from work and was wandering around \na store when I bumped into a Hokko Tarumae."
         },
         {
             "name": "Hokko Tarumae",
@@ -9,11 +10,11 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "There are hiking trails for beginners, and it would be fun to gradually move on to larger mountains."
+            "text": "There are hiking trails for beginners, and it would be fun \nto gradually move on to larger mountains."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(Ummm, is that too serious…… ? Ummm, nah, just my opinion. And the trainer doesn't look as troubled as they did at the time ……)",
+            "text": "(Ummm, is that too serious…… ? Ummm, nah, just \nmy opinion. And the trainer doesn't look as \ntroubled as they did at the time ……)",
             "choice_data_list": [
                 "You know a lot about it. \nI'd like to know more if you don't mind.",
                 "You know a lot about it, don't you? \nI'd like to know more if you don't mind."
@@ -25,36 +26,36 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(What should I do?…… If I say something weird again and make it less exciting, ……)"
+            "text": "(What should I do?…… If I say something weird again and make \nit less exciting, ……)"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(But…… it's an opportunity for me to thank for their daily support.…… As long as I don't say anything insensitive―)",
+            "text": "(But…… it's an opportunity for me to thank for their daily \nsupport.…… As long as I don't say anything insensitive―)",
             "choice_data_list": [
                 "Tarumae?"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "…… Oh, sorry, it's nothing! If you are okay with me, I'll show you around!"
+            "text": "…… Oh, sorry, it's nothing! If you are \nokay with me, I'll show you around!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "First of all, you need to choose the right shoes! There are many different types of mountaineering shoes."
+            "text": "First of all, you need to choose the right shoes! There are \nmany different types of mountaineering shoes."
         },
         {
-            "text": "Hokko Tarumae seems to know quite a bit about mountaineering. At this point, I would like to ask and learn a lot.",
+            "text": "Hokko Tarumae seems to know quite a bit \nabout mountaineering. At this point, I \nwould like to ask and learn a lot.",
             "choice_data_list": [
                 "What about those big, strong shoes over here?"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Oh, those are called high-cut shoes, and they're heavy mountaineering shoes……!"
+            "text": "Oh, those are called high-cut shoes, and they're heavy \nmountaineering shoes……!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "…… Uh, good for climbing snowy or difficult mountains! If you're hiking, I also recommend this mid-cut ……!",
+            "text": "…… Uh, good for climbing snowy or difficult mountains! If \nyou're hiking, I also recommend this mid-cut ……!",
             "choice_data_list": [
                 "I see, I'll take that one then!",
                 "Okay, I'll take that one then!"
@@ -62,11 +63,11 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(Good thing…… I chose the right shoes! The mood isn't getting any worse, is it? Yeah, it looks fine ……)"
+            "text": "(Good thing…… I chose the right shoes! The mood isn't \ngetting any worse, is it? Yeah, it looks fine ……)"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Next up is to pick out some clothes! Well, are there any products you are interested in, Trainer?",
+            "text": "Next up is to pick out some clothes! Well, are there any \nproducts you are interested in, Trainer?",
             "choice_data_list": [
                 "I'd love to hear Tarumae's recommendations."
             ]
@@ -77,18 +78,18 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(In terms of maintaining body temperature, dry innerwear is still essential. The more novice you are, the more you should focus on function over design, but ……)"
+            "text": "(In terms of maintaining body temperature, dry innerwear is \nstill essential. The more novice you are, the more you \nshould focus on function over design, but ……)"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "(This is boring, isn't it? It would be more exciting to choose a stylish design that you like. ……)"
+            "text": "(This is boring, isn't it? It would be more exciting to \nchoose a stylish design that you like. ……)"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "How about this jacket? It's a new product from a popular brand, and I thought Trainer might like it!"
+            "text": "How about this jacket? It's a new product from a popular \nbrand, and I thought Trainer might like it!"
         },
         {
-            "text": "I don't know if it's my imagination, but I feel that the recommendations she gives me are not like her. It's also strange that she seems to be looking at my faces."
+            "text": "I don't know if it's my imagination, but I feel that the \nrecommendations she gives me are not like her. It's also \nstrange that she seems to be looking at my faces."
         },
         {
             "text": "In times like this―!",
@@ -105,51 +106,51 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "―Oh, yes, I think it's great! It's fashionable…… let's take a look at that store over there!",
+            "text": "―Oh, yes, I think it's great! It's fashionable…… let's take \na look at that store over there!",
             "choice_data_list": [
                 "Tarumae! Wait, sorry, I'm just kidding ……!"
             ]
         },
         {
-            "text": "It was a comment intended to soften her up, but it was taken seriously. While I hurried to keep her back, I was still concerned about her attitude……"
+            "text": "It was a comment intended to soften her up, but it was taken \nseriously. While I hurried to keep her back, I was still \nconcerned about her attitude……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Let's see…… with all this, I think you can climb any beginner mountain……!"
+            "text": "Let's see…… with all this, I think you can climb any \nbeginner mountain……!"
         },
         {
-            "text": "Thanks to Hokko Tarumae's choice, I have all the hiking gear I need. I would like to thank her in some way."
+            "text": "Thanks to Hokko Tarumae's choice, I have all the hiking gear \nI need. I would like to thank her in some way."
         },
         {
-            "text": "Besides, I think she's been acting a little strange since a while ago. Let's recover from our earlier mistake here.",
+            "text": "Besides, I think she's been acting a little strange since a \nwhile ago. Let's recover from our earlier mistake here.",
             "choice_data_list": [
                 "Tarumae, if you don't mind ……!"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "―Whew…… the air is fresh…… The trails here are pretty well paved, so it's an easy walk."
+            "text": "―Whew…… the air is fresh…… The trails here are pretty well \npaved, so it's an easy walk."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Ah! There, there's a wild bird's nest…… Hmmm. The little birds flying over there were chicks not too long ago.",
+            "text": "Ah! There, there's a wild bird's nest…… Hmmm. The little \nbirds flying over there were chicks not too long ago.",
             "choice_data_list": [
                 "Are they practicing catching bait or something?"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Maybe so! Hmmm, being able to slowly observe this kind of natural activity is one of the best parts of mountain climbing, isn't it?"
+            "text": "Maybe so! Hmmm, being able to slowly observe this kind of \nnatural activity is one of the best parts of mountain \nclimbing, isn't it?"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "I have climbed my local mountain…… many times like this. In mount Tarumae there is a bird called \"Binzui\" which is very cute.",
+            "text": "I have climbed my local mountain…… many times \nlike this. In mount Tarumae there is a bird \ncalled \"Binzui\" which is very cute.",
             "choice_data_list": [
                 "(It's the usual Tarumae…… I'm glad I invited her)"
             ]
         },
         {
-            "text": "Suddenly, I spotted a cluster of beautiful flowers growing along the side of the track. I reached out to show them to her, thinking that they might cheer her up even more―"
+            "text": "Suddenly, I spotted a cluster of beautiful flowers growing \nalong the side of the track. I reached out to show them to \nher, thinking that they might cheer her up even more―"
         },
         {
             "name": "Hokko Tarumae",
@@ -160,15 +161,15 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "The injuries―!…… seems to be fine, I guess. Thank goodness……"
+            "text": "The injuries―!…… seems to be fine, \nI guess. Thank goodness……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "…… Some mountain plants are dangerous to touch. There are even poisonous insects."
+            "text": "…… Some mountain plants are dangerous to touch. There are \neven poisonous insects."
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Of course, you can't just pick it and bring it home ……! From an ecosystem protection standpoint, It should never be done!",
+            "text": "Of course, you can't just pick it and bring it home ……! From \nan ecosystem protection standpoint, It should never be done!",
             "choice_data_list": [
                 "I'm sorry! I was rash!"
             ]
@@ -192,10 +193,10 @@
             "text": "Oh…… yes, sorry…… Pictures, I think it's okay."
         },
         {
-            "text": "Hokko Tarumae smiles awkwardly. I took a picture of the cluster of flowers and moved on."
+            "text": "Hokko Tarumae smiles awkwardly. I took a picture of the \ncluster of flowers and moved on."
         },
         {
-            "text": "We arrived at the rest area. Before we knew it, the sun was beginning to set and the view from the hill was beautiful.",
+            "text": "We arrived at the rest area. Before we knew it, the sun was \nbeginning to set and the view from the hill was beautiful.",
             "choice_data_list": [
                 "Sunset, it's beautiful.",
                 "Sunset, it's beautiful."
@@ -203,10 +204,10 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "…… Ah, yes. I'm glad you liked it. It's the best part of hiking, isn't it? ……"
+            "text": "…… Ah, yes. I'm glad you liked it. It's the best part of \nhiking, isn't it? ……"
         },
         {
-            "text": "Hokko Tarumae's expression was somewhat gloomy. I invited her with the intention of cheering her up……",
+            "text": "Hokko Tarumae's expression was somewhat gloomy. I invited \nher with the intention of cheering her up……",
             "choice_data_list": [
                 "I'm sorry. I'm sorry I wore you out.",
                 "I'm sorry. I'm sorry I wore you out."
@@ -218,28 +219,28 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Oh no, not at all! I'm just so happy to be enjoying my hobby with my trainer……!"
+            "text": "Oh no, not at all! I'm just so happy to \nbe enjoying my hobby with my trainer……!"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Rather… it's Trainer that, um…… was trying to enjoy the nature, but I ……"
+            "text": "Rather… it's Trainer that, um…… was trying \nto enjoy the nature, but I ……"
         },
         {
-            "text": "『I was trying to enjoy nature.』…… The only thing that comes to mind when she say that is―.",
+            "text": "『I was trying to enjoy nature.』…… The only thing that comes \nto mind when she say that is―.",
             "choice_data_list": [
                 "About the flower earlier?"
             ]
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Yes……I'm sorry I was too hard on you, no matter how dangerous it is……"
+            "text": "Yes……I'm sorry I was too hard on you, \nno matter how dangerous it is……"
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Besides, it's no fun to be told about ecosystems and…… such rigid things."
+            "text": "Besides, it's no fun to be told about \necosystems and…… such rigid things."
         },
         {
-            "text": "That's not true. She will warn you of dangerous thing and teach you the right knowledge - that's her compassion and kindness.",
+            "text": "That's not true. She will warn you of dangerous \nthing and teach you the right knowledge - \nthat's her compassion and kindness.",
             "choice_data_list": [
                 "I'm rather impressed, and I've even learned a lot."
             ]
@@ -250,7 +251,7 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "……After all, Trainer is very kind. You always take care of me like this."
+            "text": "……After all, Trainer is very kind. You \nalways take care of me like this."
         },
         {
             "name": "Hokko Tarumae",
@@ -261,10 +262,10 @@
         },
         {
             "name": "Hokko Tarumae",
-            "text": "Well, I'm hungry! Why don't we go down the mountain and eat something delicious?"
+            "text": "Well, I'm hungry! Why don't we go down the mountain and eat \nsomething delicious?"
         },
         {
-            "text": "Hokko Tarumae made the suggestion in a cheerful tone. However, her expression looked somewhat like a fake smile - a smile that was not quite right."
+            "text": "Hokko Tarumae made the suggestion in a cheerful tone. \nHowever, her expression looked somewhat like a fake smile - \na smile that was not quite right."
         }
     ]
 }

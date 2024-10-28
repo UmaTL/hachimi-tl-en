@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after the failed scout of Gold City. While I was walking along the tree-lined streetー"
+            "text": "The day after the failed scout of Gold City. While \nI was walking along the tree-lined streetー"
         },
         {
             "name": "Horsegirl A",
-            "text": "After all, the one who was arguing on the course a while ago was City-san, right?"
+            "text": "After all, the one who was arguing on the course \na while ago was City-san, right?"
         },
         {
             "name": "Horsegirl B",
-            "text": "The other party she was arguing with was a trainer, right? It was pretty loud, I wonder if it’s okay…"
+            "text": "The other party she was arguing with was a trainer, right? It was \npretty loud, I wonder if it’s okay…"
         },
         {
             "text": "I wonder if something happened. Let’s go check it out…!"
@@ -19,24 +20,24 @@
             "text": "ーThen, you mean. I don’t need to train!?"
         },
         {
-            "name": "Average Trainer A",
-            "text": "No-no, that’s not what I mean. I just don’t want to put on extra muscles and break down your current body figure, I told you I wouldn’t do anything that would hurt your body!"
+            "name": "Experienced Trainer A",
+            "text": "No-no, that’s not what I mean. I just don’t want to put on extra \nmuscles and break down your current body figure, I told you I \nwouldn’t do anything that would hurt your body!"
         },
         {
-            "name": "Average Trainer A",
-            "text": "More importantly let’s polish your form more! After all, you have to run beautifully. Oh, you have to practice winning live too!"
+            "name": "Experienced Trainer A",
+            "text": "More importantly let’s polish your form more! After all, you have \nto run beautifully. Oh, you have to practice winning live too!"
         },
         {
             "name": "Gold City",
             "text": "…Then, will I get faster? Will I be able to win a race?"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Ah, you mean that? It will be okay-okay, I’ll do the rest well there. All you have to do is run and win the race."
+            "name": "Experienced Trainer A",
+            "text": "Ah, you mean that? It will be okay-okay, I’ll do the rest well \nthere. All you have to do is run and win the race."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Then your fame won’t be hurt! More beautiful than anyone, everyone will be captivated by Gold City’s run and win! It’s the perfect plan, right?"
+            "name": "Experienced Trainer A",
+            "text": "Then your fame won’t be hurt! More beautiful than \nanyone, everyone will be captivated by Gold City’s \nrun and win! It’s the perfect plan, right?"
         },
         {
             "name": "Gold City",
@@ -48,18 +49,18 @@
         },
         {
             "name": "Gold City",
-            "text": "You said that. “I will make you the top Horse Girl there is”. “The No. 1 Horse Girl who shines on the turf”"
+            "text": "You said that. “I will make you the top Horse Girl there is”. \n“The No. 1 Horse Girl who shines on the turf”"
         },
         {
             "name": "Gold City",
             "text": "But… why are you…!"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Ehh? Well, my feelings haven’t changed. I mean you, you are “Gold City” right?"
+            "name": "Experienced Trainer A",
+            "text": "Ehh? Well, my feelings haven’t changed. \nI mean you, you are “Gold City” right?"
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "You are that famous, cool and composed model!"
         },
         {
@@ -67,12 +68,12 @@
             "text": "……Ah!!"
         },
         {
-            "name": "Average Trainer A",
-            "text": "It will be okay I said, leave it all to me! I’ll think about everything, about your image, and how to make it shine."
+            "name": "Experienced Trainer A",
+            "text": "It will be okay I said, leave it all to me! I’ll think about \neverything, about your image, and how to make it shine."
         },
         {
-            "name": "Average Trainer A",
-            "text": "All you have to do is follow the instructions! That’s for your sake too. That’s what a trainer is for, right?",
+            "name": "Experienced Trainer A",
+            "text": "All you have to do is follow the instructions! That’s for your \nsake too. That’s what a trainer is for, right?",
             "choice_data_list": [
                 "That’s not a trainer!"
             ]
@@ -82,15 +83,15 @@
             "text": "Huh…? A, you… why…"
         },
         {
-            "name": "Average Trainer A",
-            "text": "…Hoy, who the hell are you. Would you mind as an outsider to shut your mouth?",
+            "name": "Experienced Trainer A",
+            "text": "…Hoy, who the hell are you. Would you mind \nas an outsider to shut your mouth?",
             "choice_data_list": [
                 "If you’re a trainer, listen to her more!",
                 "If you’re a trainer, listen to her more!"
             ]
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "What did you say? You arrogant…!"
         },
         {
@@ -98,18 +99,18 @@
             "text": "……ah."
         },
         {
-            "name": "Average Trainer A",
-            "text": "A, hoy!…What is it, you don’t understand. Even though I will be going all the way to make you shine."
+            "name": "Experienced Trainer A",
+            "text": "A, hoy!…What is it, you don’t understand. Even though I will \nbe going all the way to make you shine."
         },
         {
-            "name": "Average Trainer A",
-            "text": "What a bad temper~… That’s enough, I’ll find another horse girl."
+            "name": "Experienced Trainer A",
+            "text": "What a bad temper~… That’s enough, \nI’ll find another horse girl."
         },
         {
             "text": "…I couldn’t possibly leave Gold City alone. Let’s go after her!"
         },
         {
-            "text": "I searched all over the school, but I couldn’t find her. Where else is leftー",
+            "text": "I searched all over the school, but I couldn’t \nfind her. Where else is leftー",
             "choice_data_list": [
                 "Gold City!"
             ]
@@ -120,10 +121,10 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "You startled me~… seriously, what’s going on~? Are you going after City?"
+            "text": "You startled me~… seriously, what’s going \non~? Are you going after City?"
         },
         {
-            "text": "I explained the situation, and asked her if she had any idea of where Gold City could be."
+            "text": "I explained the situation, and asked her if she \nhad any idea of where Gold City could be."
         },
         {
             "name": "Tosen Jordan",
@@ -131,11 +132,11 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "You want to scout City because of her good looks anyway too, right~? Ya, seriously her looks are good. But this is hella bad."
+            "text": "You want to scout City because of her good looks anyway too, \nright~? Ya, seriously her looks are good. But this is hella bad."
         },
         {
             "name": "Tosen Jordan",
-            "text": "But then, the difference between manager-san and you won’t change if you know what I mean~…"
+            "text": "But then, the difference between manager-san and \nyou won’t change if you know what I mean~…"
         },
         {
             "name": "Tosen Jordan",
@@ -150,7 +151,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "By the way, that, have you thought about how『I want to support her』?",
+            "text": "By the way, that, have you thought \nabout how『I want to support her』?",
             "choice_data_list": [
                 "Nothing yet"
             ]
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "text": "ーAfter that, I want to discuss and decide what to do with her. So I appealed to Tosen Jordan."
+            "text": "ーAfter that, I want to discuss and decide what to \ndo with her. So I appealed to Tosen Jordan."
         },
         {
             "name": "Tosen Jordan",
@@ -215,11 +216,11 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Ahh~! Geez, I don’t know, I don’t know! Even if you ask me, I’m in trouble~!"
+            "text": "Ahh~! Geez, I don’t know, I don’t know! \nEven if you ask me, I’m in trouble~!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "I don’t know where City could have gone, other than about the riverbed…"
+            "text": "I don’t know where City could have gone, \nother than about the riverbed…"
         },
         {
             "name": "Tosen Jordan",
@@ -234,7 +235,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Hey, don’t tell her that I was the one who told you!? For real don’t tell, okay~!? When City gets mad she is seriously scary!"
+            "text": "Hey, don’t tell her that I was the one who told you!? For real \ndon’t tell, okay~!? When City gets mad she is seriously scary!"
         },
         {
             "name": "Tosen Jordan",

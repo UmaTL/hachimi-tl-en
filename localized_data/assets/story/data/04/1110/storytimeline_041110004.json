@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Air Groove",
+            "text": "I see…… \nCesario seems to have quite a grand dream."
+        },
+        {
+            "name": "Air Groove",
+            "text": "And you've been thinking constantly about that Cesario. \nNo wonder you seem desperate.",
+            "choice_data_list": [
+                "……and so, what do you think?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Really, it was the right decision to ask me. \nIf it's someone like me, then I can understand \nCesario's goals for the future and her determination."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Two people with different values being able to understand \neach other, it's quite the difficult hurdle. I can understand \nwhy she's being careful about selecting a trainer, too."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Based on that, if I were to give my honest opinion…… \n『What's there to be hesitant about?』 probably sums it up.",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "You want to help Cesario to realize her dream, right? \nThen can't you just support her? As a trainer."
+        },
+        {
+            "name": "Air Groove",
+            "text": "If it's someone as invested in it as you, then \nyou're probably already well qualified. Why not \njust tell Cesario everything you feel about that?",
+            "choice_data_list": [
+                "Will that really be enough for Cesario……?"
+            ]
+        },
+        {
+            "name": "Mid-rank Trainer B",
+            "text": "Cesario-san, let me scout you! If it's the Tiara rotation, \nI have experience. I won't make you regret it!"
+        },
+        {
+            "text": "So many trainers were trying their best to be acknowledged by her. \nBut, even the experienced veterans haven't been able to do that."
+        },
+        {
+            "text": "I need to understand Cesario more. \nSo that I can become that 『Partner』 that she's seeking."
+        },
+        {
+            "text": "Her talent is real. Anyone who runs in the Twinkle Series \nwill have Cesario's name carved in to their memory."
+        },
+        {
+            "text": "Even if I'm able to help her with that, what \nhappens next? When she retires, will the contract \njust end? I don't want to just watch from afar……!",
+            "choice_data_list": [
+                "I want to support her future too!",
+                "I want to support her future too!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "That's right. Just wanting to support her in \nto the future is the bare minimum requirement."
+        },
+        {
+            "text": "As soon as she said that, I was stunned. That's \nright, the future! Wanting to support Cesario \nall throughout her future is what's important."
+        },
+        {
+            "text": "Then, there was only one thing left to do. \nI was already prepared to give it my all.",
+            "choice_data_list": [
+                "……I need to go to Cesario"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Looks like you finally have your answer. I just saw Cesario heading \ntowards the dorm. Hurry, there isn't much time until curfew."
+        },
+        {
+            "text": "I thank Air Groove and then hurry to the front of the Academy \ndorms. I saw that Cesario was just about to enter the building.",
+            "choice_data_list": [
+                "Wait, Cesario!",
+                "Wait, Cesario!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Trainer……! What's wrong? Why are you in such a hurry?",
+            "choice_data_list": [
+                "I know what kind of 『Partner』 you're looking for",
+                "I know what kind of 『Partner』 you're looking for"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Ehh.",
+            "choice_data_list": [
+                "That's why I want to form a contract",
+                "That's why I want to form a contract"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……is that so? Then, I'll hear you out. \nThe answer you've arrived at, just what kind of 『Partner』 is it?"
+        },
+        {
+            "text": "I took a deep breath to calm myself. It was simple. I just needed \nto tell her what I had realized while talking to Air Groove.",
+            "choice_data_list": [
+                "First, we'll win the Triple Tiara",
+                "First, we'll win the Triple Tiara"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……and then?",
+            "choice_data_list": [
+                "Even after retirement, I'll support your dream",
+                "Even after retirement, I'll support your dream"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……? What does that mean?",
+            "choice_data_list": [
+                "The girls you raise, I'll help them win",
+                "The girls you raise, I'll help them win"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "…………what did you just say?"
+        },
+        {
+            "text": "It was probably an unexpected offer. \nSo I needed to explain it more clearly――"
+        },
+        {
+            "text": "That time during the Selection race, she ran like \nthe wind right before the goal. I want to prove to \nthe world that she's the real thing. As a trainer."
+        },
+        {
+            "text": "And someday, when she retires and has a student of her \nown, then at that time, I will do my best to make \nCesario a 『Teacher』 whose name will be left in history."
+        },
+        {
+            "text": "Right, that was the whole point. Once Cesario \nretires, she'll use her knowledge and what \nshe's learned to help the next girl succeed."
+        },
+        {
+            "text": "Of course, the next girl would be the one that was \nCesario's student. Her evaluation as a 『Teacher』 \nwould be determined by her students' performance."
+        },
+        {
+            "text": "Therefore, she would need a skilled 『Trainer』 to \nhelp her students. The trainer that helped the famous \nathlete, Cesario, would be the natural choice."
+        },
+        {
+            "text": "Raise one, help her win, raise another, and help her \nwin too――and the cycle would continue. In that way, \nshe would truly grow to become a 『Guiding Light』"
+        },
+        {
+            "text": "In that way, the name of a queen, of Cesario, would \nbe carved in to that history, passed down from generation \nto generation……I want to be beside her even then!"
+        },
+        {
+            "name": "Cesario",
+            "text": "………………To think you'd empathize with me to that degree……",
+            "choice_data_list": [
+                "You want to connect to the future, right?",
+                "You want to connect to the future, right?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……those words, once more, no, \nI want to hear them again and again.",
+            "choice_data_list": [
+                "If you're spending a lifetime, then I am too",
+                "If you're spending a lifetime, then I am too"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "…………Really? Are you sure? For me."
+        },
+        {
+            "text": "Rather than be restricted to inaction by common sense, \nI would prefer to be thought a fool. I was already prepared……!",
+            "choice_data_list": [
+                "Let's be that 『Guiding Light』 together!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "………………!!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Yes, yes……! Likewise! \nI'm looking forward to it, Trainer!"
+        },
+        {
+            "text": "Before I realized it, I had held out my hand, and \nCesario had taken it. I could feel my heart soaring."
+        },
+        {
+            "name": "Returning Uma Musume",
+            "text": "What's that? Practicing for a play? In this place?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Um, Trainer……we're really standing out it seems.",
+            "choice_data_list": [
+                "Ah…………! S-sorry!"
+            ]
+        },
+        {
+            "text": "I let go of Cesario's hand and take one step back. \nI apologized to Cesario for getting too excited."
+        },
+        {
+            "name": "Cesario",
+            "text": "Fufu, I don't mind. I kind of felt like a heroine from a story, \nso I was a little excited. It almost feels like I'm dreaming……"
+        },
+        {
+            "text": "It was past curfew so we decided to part ways. The next day, \nI called Cesario to the trainers' room and drew up a contract."
+        },
+        {
+            "name": "Cesario",
+            "text": "……so this means our contract has been formalized, doesn't it?",
+            "choice_data_list": [
+                "Looking forward to it, Cesario",
+                "Looking forward to it, Cesario"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Likewise. ……it's a mysterious feeling. With just this one \npiece of paper, we're not just a student and trainer anymore……",
+            "choice_data_list": [
+                "Shall we confirm the current plan?",
+                "Shall we confirm the current plan?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "……Yes. Generally speaking, it seems that most Uma Musume in \nthe Tiara rotation tend to train their juniors one-on-one."
+        },
+        {
+            "name": "Cesario",
+            "text": "That's exactly it――the type of 『Teacher』 I've been \naiming for. By making great achievements on the \nTiara rotation, I'll prove my abilities as a leader.",
+            "choice_data_list": [
+                "So achieving the Triple Tiara then",
+                "So achieving the Triple Tiara then"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Yes. However, achieving that won't be simple. \nTrainer, you saw it with your own eyes too."
+        },
+        {
+            "name": "Cesario",
+            "text": "Rhein Kraft, Air Messiah-san, Daring Heart-san――the girls I ran the \nSelection race with, they are also challenging the Tiara rotation."
+        },
+        {
+            "text": "I had heard that from other trainers. A high barrier \nstood in our way. It was almost like she was being \ntested to see if she truly could be a 『Guiding Light』"
+        },
+        {
+            "text": "But there was no reason to be afraid. The run \nthat Cesario had inherited from her 『Teacher』, \nshe just had to properly use it during her races.",
+            "choice_data_list": [
+                "I'll help you get the Tiara!",
+                "I'll help you get the Tiara!"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Yes. For these first 3 years, I'm looking forward to it."
+        },
+        {
+            "text": "And so, with this shared feeling, the drama \nreached its finale. However, Cesario's story \nhad just begun. And now, let the curtain rise!"
+        }
+    ]
+}

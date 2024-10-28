@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "[Demon]",
@@ -6,7 +7,7 @@
         },
         {
             "name": "[Demon]",
-            "text": "The time is here. Offer up your pure and precious soul to me, and fulfill your century-old desire. …Now, where is my soul!"
+            "text": "The time is here. Offer up your pure and precious soul to me, \nand fulfill your century-old desire. …Now, where is my soul!"
         },
         {
             "name": "[Mechanical Doll]",
@@ -18,47 +19,47 @@
         },
         {
             "name": "[Demon]",
-            "text": "… Huh? Do you really think I don't know? I know you have it."
+            "text": "… Huh? Do you really think I don't know? \nI know you have it."
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "…… I do, but ―― Ah, I get it now."
+            "text": "…… I do, but ―― \nAh, I get it now."
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "Because I experienced being touched. I've come to understand… the shape of this heart."
+            "text": "Because I experienced being touched. \nI've come to understand… the shape of this heart."
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "… I am… … I am ending our deal."
+            "text": "… I am… \n… I am ending our deal."
         },
         {
             "name": "[Demon]",
-            "text": "What's wrong with you? After waiting alone for a century, you suddenly don't want to know your reason for existence!?"
+            "text": "What's wrong with you? After waiting alone for a century, \nyou suddenly don't want to know your reason for existence!?"
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "It doesn't matter anymore. I… It doesn't matter who or what I am."
+            "text": "It doesn't matter anymore. \nI… It doesn't matter who or what I am."
         },
         {
             "name": "[Demon]",
-            "text": "You're still a monster, you know? Neither alive nor dead, not even a name!"
+            "text": "You're still a monster, you know? \nNeither alive nor dead, not even a name!"
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "—— \"Friend\"… My name is the \"Friend\" of that girl, and that's enough."
+            "text": "—— \"Friend\"… \nMy name is the \"Friend\" of that girl, and that's enough."
         },
         {
             "name": "[Demon]",
-            "text": "…… Haha! Was it such a joy for you to have been entertained? You seem to have forgotten that you could only enter the village on Hallowe'en."
+            "text": "…… Haha! Was it such a joy for you to have been entertained? \nYou seem to have forgotten that you could only enter the \nvillage on Hallowe'en."
         },
         {
             "name": "[Demon]",
-            "text": "Once your true identity is revealed, you'll not only be alone again, but shunned as well. And that girl who got involved with you might face consequences too ——"
+            "text": "Once your true identity is revealed, you'll not only be alone \nagain, but shunned as well. And that girl who got involved \nwith you might face consequences too ——"
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "I will leave the village. Demon, it's time for us to part ways here. Farewell……"
+            "text": "I will leave the village. Demon, it's time \nfor us to part ways here. Farewell……"
         },
         {
             "name": "[Mechanical Doll]",
@@ -66,11 +67,11 @@
         },
         {
             "name": "[Young Girl]",
-            "text": "I've been waiting for you! Guess what, I'm finally going on a journey!"
+            "text": "I've been waiting for you! \nGuess what, I'm finally going on a journey!"
         },
         {
             "name": "[Young Girl]",
-            "text": "Will you come with me? We promised, remember?"
+            "text": "Will you come with me? \nWe promised, remember?"
         },
         {
             "name": "[Mechanical Doll]",
@@ -78,39 +79,39 @@
         },
         {
             "name": "[Young Girl]",
-            "text": "You're my friend, that's all that matters! The memories we're going to make together will prove it."
+            "text": "You're my friend, that's all that matters! \nThe memories we're going to make together will prove it."
         },
         {
             "name": "[Young Girl]",
-            "text": "Let's make lots of memories together. We'll see so many things in the world, … and experience so many more!"
+            "text": "Let's make lots of memories together. \nWe'll see so many things in the world, \n… and experience so many more!"
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "—— Yes… My… friend…"
+            "text": "—— Yes… \nMy… friend…"
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "…… Farewell. Farewell. To become \"myself\", I must say goodbye to \"myself\"."
+            "text": "…… Farewell. Farewell. \nTo become \"myself\", I must say goodbye to \"myself\"."
         },
         {
             "name": "[Mechanical Doll]",
-            "text": "—— To the lonely \"Mechanical Doll\", farewell. Farewell……"
+            "text": "—— To the lonely \"Mechanical Doll\", farewell. \nFarewell……"
         },
         {
             "name": "[Demon]",
-            "text": "… Speaking of it sounds cliché, just another mundane farewell. Tch, I've told such a dull story ——"
+            "text": "… Speaking of it sounds cliché, just another mundane farewell. \nTch, I've told such a dull story ——"
         },
         {
             "name": "[Demon]",
-            "text": "……? Hey, weirdo. Where did you go? ……… So, as always, that's how it is. I'm so……"
+            "text": "……? Hey, weirdo. Where did you go? \n……… So, as always, that's how it is. I'm so……"
         },
         {
             "name": "[Bard]",
-            "text": "Fret not, my friend, for I've lingered in this midst, an audience enthralled. Your narrative, enchanting in its essence, eclipses even the grandest sagas of inebriated valor!"
+            "text": "Fret not, my friend, for I've lingered in this midst, an audience \nenthralled. Your narrative, enchanting in its essence, eclipses \neven the grandest sagas of inebriated valor!"
         },
         {
             "name": "[Bard]",
-            "text": "In the wake of the demon's usurpation, as the bard's essence wanes, I shall willingly take part to continue the ending!"
+            "text": "In the wake of the demon's usurpation, as the bard's essence \nwanes, I shall willingly take part to continue the ending!"
         },
         {
             "name": "[Demon]",
@@ -118,23 +119,23 @@
         },
         {
             "name": "[Bard]",
-            "text": "Aye, I am familiar with the entirety of that tale. Its continuation, and its conclusion. My presence in this village is a testament to my quest to fathom your story's depths."
+            "text": "Aye, I am familiar with the entirety of that tale. Its continuation, \nand its conclusion. My presence in this village is a testament to \nmy quest to fathom your story's depths."
         },
         {
             "name": "[Bard]",
-            "text": "—— Nestled beneath a sea of clovers, it was discovered. Solitary, yet radiating a serene demeanor."
+            "text": "—— Nestled beneath a sea of clovers, it was discovered. \nSolitary, yet radiating a serene demeanor."
         },
         {
             "name": "[Bard]",
-            "text": "\"I've beheld a century's worth of this world\". Its voice, timeworn and coarse, reverberated. But as the final moments drew near, a single lingering worry it whispered into the air ——"
+            "text": "\"I've beheld a century's worth of this world\". Its voice, timeworn \nand coarse, reverberated. But as the final moments drew near, \na single lingering worry it whispered into the air ——"
         },
         {
             "name": "[Bard]",
-            "text": "The demon, a lone soul, treads twixt life and death's thread. Through the ages, he persists…… like a visitor in a strange mansion, loneliness widespread."
+            "text": "The demon, a lone soul, treads twixt life and death's thread. \nThrough the ages, he persists…… like a visitor in a strange \nmansion, loneliness widespread."
         },
         {
             "name": "[Bard]",
-            "text": "So I forged a solemn pledge with him. ―― Aye, dear friend, my journey to this village was destined to be in your name."
+            "text": "So I forged a solemn pledge with him. \n―― Aye, dear friend, my journey to this \nvillage was destined to be in your name."
         },
         {
             "name": "[Demon]",
@@ -142,27 +143,27 @@
         },
         {
             "name": "[Bard]",
-            "text": "Yes. A bard and a demon touring through hell together… It has quite an intriguing ring to it. In truth, I was getting weary of merely composing poetry in the tavern."
+            "text": "Yes. A bard and a demon touring through hell together… \nIt has quite an intriguing ring to it. In truth, I was \ngetting weary of merely composing poetry in the tavern."
         },
         {
             "name": "[Demon]",
-            "text": "…… Do you know what it means to go down to hell with me? You'll die and roam a world filled with screams… for eternity."
+            "text": "…… Do you know what it means to go down to hell with me? \nYou'll die and roam a world filled with screams… for eternity."
         },
         {
             "name": "[Bard]",
-            "text": "Life is transient anyway. It lacks purpose — God didn't assign one. That's why I prefer hell. I can ascribe it my own value."
+            "text": "Life is transient anyway. It lacks purpose — God didn't assign \none. That's why I prefer hell. I can ascribe it my own value."
         },
         {
             "name": "[Demon]",
-            "text": "… Hah. Bards are unquestionably crazy."
+            "text": "… Hah. \nBards are unquestionably crazy."
         },
         {
             "name": "[Bard]",
-            "text": "Not exactly. I'm the one who's eccentric. Doesn't that make a fitting friend for you? Embracing the never-ending monotony, willingly plunging myself into it."
+            "text": "Not exactly. I'm the one who's eccentric. Doesn't that make a \nfitting friend for you? Embracing the never-ending monotony, \nwillingly plunging myself into it."
         },
         {
             "name": "[Bard]",
-            "text": "Now, my friend, let's take a leisurely stroll. Hallowe'en for this year is coming to an end. Before another tranquil day begins, let's bid farewell to tonight's stage……"
+            "text": "Now, my friend, let's take a leisurely stroll. Hallowe'en for this \nyear is coming to an end. Before another tranquil day begins, \nlet's bid farewell to tonight's stage……"
         },
         {
             "name": "[Bard]",
@@ -180,15 +181,15 @@
         },
         {
             "name": "Air Shakur",
-            "text": "… Uuugh, I'm freakin' exhausted. How much longer is this going to go on for?"
+            "text": "… Uuugh, I'm freakin' exhausted. \nHow much longer is this going to go on for?"
         },
         {
             "name": "Tap Dance City",
-            "text": "Ahaha! Forever, Shakur! In the memories of one and all, this applause is fixin' to linger."
+            "text": "Ahaha! Forever, Shakur! In the memories \nof one and all, this applause is fixin' to linger."
         },
         {
             "name": "Tap Dance City",
-            "text": "Kris S, what 'bout you? What's stirrin' inside of you at this moment?"
+            "text": "Kris S, what 'bout you? \nWhat's stirrin' inside of you at this moment?"
         },
         {
             "name": "Symboli Kris S",

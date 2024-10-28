@@ -1,23 +1,24 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The rain that had been falling yesterday stopped in the afternoon, and it was finally time for King Halo's mock race."
+            "text": "The rain that had been falling yesterday stopped in the \nafternoon, and it was finally time for King Halo's mock race."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Ohh, it's pretty crowded! Well that-s to be expected I guess. That Grass Wonder is gonna be participating!"
+            "name": "Experienced Trainer A",
+            "text": "Ohh, it's pretty crowded! Well that-s to be expected I guess. \nThat Grass Wonder is gonna be participating!"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "The track condition isn't very good cause of the rain… Well, if it's Grass Wonder it shouldn't be a problem. Oh, here she comes!"
+            "text": "The track condition isn't very good cause of the rain… Well, if \nit's Grass Wonder it shouldn't be a problem. Oh, here she comes!"
         },
         {
             "name": "Grass Wonder",
-            "text": "Good morning. King-chan～. Good luck out there today."
+            "text": "Good morning. King-chan～. \nGood luck out there today."
         },
         {
             "name": "King Halo",
-            "text": "I'll give you the right to challenge me. Grass-san! I'll show you the running of a first-class!"
+            "text": "I'll give you the right to challenge me. Grass-san! \nI'll show you the running of a first-class!"
         },
         {
             "name": "King Halo",
@@ -29,11 +30,11 @@
         },
         {
             "name": "King Halo",
-            "text": "Hmm… You're more rebellious than I thought."
+            "text": "Hmm… \nYou're more rebellious than I thought."
         },
         {
             "name": "King Halo",
-            "text": "…Well, fine. If you want to see King run so badly I'll entertain you as many times as you like! Ohhohoho!"
+            "text": "…Well, fine. If you want to see King run so badly I'll \nentertain you as many times as you like! Ohhohoho!"
         },
         {
             "name": "Seiun Sky",
@@ -45,42 +46,42 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Nyahaha, it's not like that～. I was just free, so I came to kill some time."
+            "text": "Nyahaha, it's not like that～. \nI was just free, so I came to kill some time."
         },
         {
             "name": "Seiun Sky",
-            "text": "That aside, it looks like it's starting～. We'll probably get scorned if we don't pay attention. so wouldn't it be better to watch properly?"
+            "text": "That aside, it looks like it's starting～. We'll \nprobably get scorned if we don't pay attention. \nso wouldn't it be better to watch properly?"
         },
         {
             "name": "King Halo",
             "text": "Clear the way! King is coming through!!"
         },
         {
-            "name": "Average Trainer A",
-            "text": "Oh, King Halo came again! Is she good at courses that require power like her mother?"
+            "name": "Experienced Trainer A",
+            "text": "Oh, King Halo came again! Is she good at \ncourses that require power like her mother?"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Well, who knows… it's too early to say right now We'll have to watch a bit more-"
+            "text": "Well, who knows… it's too early to say right now \nWe'll have to watch a bit more-"
         },
         {
             "name": "King Halo",
-            "text": "Ha… Ha…! I, have to leave results… as a first class…!"
+            "text": "Ha… Ha…! \nI, have to leave results… as a first class…!"
         },
         {
             "name": "Seiun Sky",
-            "text": "Oh, this is a rare development for King. During the selection race she was buried in the group, I wonder what changed～?"
+            "text": "Oh, this is a rare development for King. During the selection \nrace she was buried in the group, I wonder what changed～?"
         },
         {
             "name": "Seiun Sky",
-            "text": "But her form is kinda breaking. Like she's putting too much strength into it. Her being too motivated and hard-working isn't anything new though."
+            "text": "But her form is kinda breaking. Like she's putting \ntoo much strength into it. Her being too motivated \nand hard-working isn't anything new though."
         },
         {
             "name": "Seiun Sky",
-            "text": "What a waste… She should just run a little freely."
+            "text": "What a waste… \nShe should just run a little freely."
         },
         {
-            "name": "Average Trainer A",
+            "name": "Experienced Trainer A",
             "text": "Straight line…! Here she comes. it's Grass Wonder!"
         },
         {
@@ -89,7 +90,7 @@
         },
         {
             "name": "Veteran Trainer A",
-            "text": "What strong power!! She's running in a way that stops her from putting the stress on her legs!! The gap with King just keeps widening…!"
+            "text": "What strong power!! She's running in a way that \nstops her from putting the stress on her legs!! \nThe gap with King just keeps widening…!"
         },
         {
             "name": "Seiun Sky",
@@ -104,29 +105,29 @@
         },
         {
             "name": "Veteran Trainer A",
-            "text": "It seems she's not accepting scouts right now but… Next Selection Race she's absolutely someone I'd want to talk to."
+            "text": "It seems she's not accepting scouts right now but… \nNext Selection Race she's absolutely someone I'd want to talk to."
         },
         {
-            "name": "Average Trainer A",
-            "text": "Right! As for King Halo… well, I suspect she'll start taking a more realistic perspective soon."
-        },
-        {
-            "name": "King Halo",
-            "text": "Ha… Ha… …Ngh!"
+            "name": "Experienced Trainer A",
+            "text": "Right! As for King Halo… well, I suspect she'll \nstart taking a more realistic perspective soon."
         },
         {
             "name": "King Halo",
-            "text": "Ohhohoho! I won't give up first next time! Prepare yourself, this isn't all there is to King's running!"
+            "text": "Ha… Ha… \n…Ngh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohhohoho! I won't give up first next time! \nPrepare yourself, this isn't all there is to King's running!"
         },
         {
             "text": "As usual, the trainers turn their dismayed faces towards her."
         },
         {
             "name": "King Halo",
-            "text": "That's right! Pay attention to me and remember this well! I'm King Halo, the first-class horse girl!"
+            "text": "That's right! Pay attention to me and remember this well! \nI'm King Halo, the first-class horse girl!"
         },
         {
-            "text": "No matter how much she loses. how frustrated she gets, or how disappointed. she continues to call herself \"first-class\". Because, that's the strength of her will."
+            "text": "No matter how much she loses. how frustrated she gets, or how \ndisappointed. she continues to call herself \"first-class\". \nBecause, that's the strength of her will."
         },
         {
             "text": "Then, her trainer should carry the same will!",
@@ -148,12 +149,12 @@
             ]
         },
         {
-            "name": "Average Trainer A",
-            "text": "Umm… are you okay? Grass Wonder isn't here y'know?"
+            "name": "Experienced Trainer A",
+            "text": "Umm… are you okay? \nGrass Wonder isn't here y'know?"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "Which would mean… The only one in front of your eyes is King Halo?",
+            "text": "Which would mean… \nThe only one in front of your eyes is King Halo?",
             "choice_data_list": [
                 "That's right! She is!"
             ]
@@ -168,30 +169,30 @@
         },
         {
             "name": "King Halo",
-            "text": "Do you have the iron will to prove King's overwhelming birth-given talent to the world."
+            "text": "Do you have the iron will to prove King's overwhelming \nbirth-given talent to the world."
         },
         {
             "name": "King Halo",
-            "text": "And do you have the determination to rack up countless victories, and make the name \"King Halo\" roar!?",
+            "text": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?",
             "choice_data_list": [
                 "I do!!"
             ]
         },
         {
             "name": "King Halo",
-            "text": "…Then, it's decided. Everyone here, listen up!"
+            "text": "…Then, it's decided. \nEveryone here, listen up!"
         },
         {
             "name": "King Halo",
-            "text": "Just now, the first-class King Halo has decided to pair up with this first-class trainer!"
+            "text": "Just now, the first-class King Halo has \ndecided to pair up with this first-class trainer!"
         },
         {
             "name": "King Halo",
-            "text": "We'll enter the Twinkle Series, bringing victory to every race. And you'll all watch that glorious journey in awe!"
+            "text": "We'll enter the Twinkle Series, bringing victory to \nevery race. And you'll all watch that glorious journey in awe!"
         },
         {
             "name": "King Halo",
-            "text": "…Now, it's a contract. Come with me, trainer!"
+            "text": "…Now, it's a contract. \nCome with me, trainer!"
         },
         {
             "name": "King Halo",
@@ -199,11 +200,11 @@
         },
         {
             "name": "King Halo",
-            "text": "To shout you're a \"first-class\" while everyone is watching. Do you really understand what you're taking on by doing that?"
+            "text": "To shout you're a \"first-class\" while everyone is watching. \nDo you really understand what you're taking on by doing that?"
         },
         {
             "name": "King Halo",
-            "text": "To be called a fool with a big mouth, pointed at behind your back, laughed at. But, you can't take back what you've said.",
+            "text": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said.",
             "choice_data_list": [
                 "That's why I have no choice but to become a real first-class.",
                 "That's why I have no choice but to become a real first-class."
@@ -211,7 +212,7 @@
         },
         {
             "name": "King Halo",
-            "text": "…Hmph, aren't you stupid! You're more rebellious and more clumsy than I expected!"
+            "text": "…Hmph, aren't you stupid! You're more rebellious \nand more clumsy than I expected!"
         },
         {
             "name": "King Halo",
@@ -236,18 +237,18 @@
         },
         {
             "name": "King Halo",
-            "text": "…Ufufu. I don't hate that sort of thing either!"
+            "text": "…Ufufu. \nI don't hate that sort of thing either!"
         },
         {
             "name": "King Halo",
-            "text": "Then, I'm gonna pick up now. You're ready right? One, two…!"
+            "text": "Then, I'm gonna pick up now. \nYou're ready right? One, two…!"
         },
         {
-            "text": "And so, my days of aiming to prove I'm first-class with King Halo began."
+            "text": "And so, my days of aiming \nto prove I'm first-class with King Halo began."
         },
         {
             "name": "King Halo",
-            "text": "Hello? Mother. I'm not coming home. That aside let me introduce you, listen well. This person is my trainer!"
+            "text": "Hello? Mother. I'm not coming home. That aside \nlet me introduce you, listen well. This person is my trainer!"
         }
     ]
 }

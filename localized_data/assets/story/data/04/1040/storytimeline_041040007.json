@@ -1,19 +1,20 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Gold City",
-            "text": "Whoa, is this the training camp? It got a good feeling. This atmosphere too. It looks like it can be used for shooting!",
+            "text": "Whoa, is this the training camp? It got a good feeling. This \natmosphere too. It looks like it can be used for shooting!",
             "choice_data_list": [
                 "Welcome to the summer camp, Gold City!"
             ]
         },
         {
             "name": "Gold City",
-            "text": "Mm-hmm. I joined you in the middle of it, well, I've got to take my time back."
+            "text": "Mm-hmm. I joined you in the middle of it, \nwell, I've got to take my time back."
         },
         {
             "name": "City's Manager",
-            "text": "Thank you for your hard work, Trainer-san. I’m sorry the delivery arrived late, our work got pushed.",
+            "text": "Thank you for your hard work, Trainer-san. I’m sorry the delivery \narrived late, our work got pushed.",
             "choice_data_list": [
                 "I’ll take care of her"
             ]
@@ -27,7 +28,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Yes? I’ll be there in 10 minutes? Don’t underestimate the preparation speed of a model."
+            "text": "Yes? I’ll be there in 10 minutes? Don’t underestimate \nthe preparation speed of a model."
         },
         {
             "name": "City's Manager",
@@ -42,11 +43,11 @@
         },
         {
             "name": "Gold City",
-            "text": "Are we all cooking today? Huh? I have never cooked before. Wait, I can’t! I can’t! I can’t!"
+            "text": "Are we all cooking today? Huh? I have never cooked \nbefore. Wait, I can’t! I can’t! I can’t!"
         },
         {
             "name": "Horsegirl A",
-            "text": "It will be okay! Just calm down. Eh, I’ve never seen such a panicked face before. Hehe."
+            "text": "It will be okay! Just calm down. Eh, I’ve never \nseen such a panicked face before. Hehe."
         },
         {
             "name": "Horsegirl B",
@@ -54,7 +55,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Ah~… sleep. I don’t have to practice early in the morning. Seriously, not possible…"
+            "text": "Ah~… sleep. I don’t have to practice early \nin the morning. Seriously, not possible…"
         },
         {
             "name": "Gold City",
@@ -69,15 +70,15 @@
             "text": "That’s my line! I’m in!"
         },
         {
-            "text": "After dinner, I was asked to meet outside by Gold City. We came to the beach together because she wanted to talk."
+            "text": "After dinner, I was asked to meet outside by Gold City. We came \nto the beach together because she wanted to talk."
         },
         {
             "name": "Gold City",
-            "text": "…You know I, before I gave up on this training camp. I had more work and work, I wondered if I would ever participate."
+            "text": "…You know I, before I gave up on this training camp. I had more \nwork and work, I wondered if I would ever participate."
         },
         {
             "name": "Gold City",
-            "text": "But, I made a fitting schedule with you and talked to the manager. Then, I was able to participate in this way.",
+            "text": "But, I made a fitting schedule with you and talked to the \nmanager. Then, I was able to participate in this way.",
             "choice_data_list": [
                 "It was good!",
                 "It was good!"
@@ -85,7 +86,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Mm-hmm, it was good. Really… I think the me from before, would just have complained about being frustrated that she could not participate.",
+            "text": "Mm-hmm, it was good. Really… I think the me from \nbefore, would just have complained about being \nfrustrated that she could not participate.",
             "choice_data_list": [
                 "You’ve grown so much!",
                 "You’ve grown so much!"
@@ -97,15 +98,15 @@
         },
         {
             "name": "Gold City",
-            "text": "Even if I participated in the middle, I learned a lot. I was also able to know what the other horse girls are like."
+            "text": "Even if I participated in the middle, I learned a lot. I was also \nable to know what the other horse girls are like."
         },
         {
             "name": "Gold City",
-            "text": "I was able to see a lot of the “unknown side to others” . I realized I was also looking at the others just by their image…"
+            "text": "I was able to see a lot of the “unknown side to others” . I \nrealized I was also looking at the others just by their image…"
         },
         {
             "name": "Gold City",
-            "text": "Come to think of it, there’s a festival in the neighborhood soon. Would you like to go? I want to see the faces of all kinds of people!"
+            "text": "Come to think of it, there’s a festival in the \nneighborhood soon. Would you like to go? I want \nto see the faces of all kinds of people!"
         },
         {
             "name": "Girl",
@@ -120,7 +121,7 @@
             "text": "Here, take this. It’s delicious!"
         },
         {
-            "text": "Gold City sure is popular. She returned a smile to the people who called her out, in a familiar manner. "
+            "text": "Gold City sure is popular. She returned a smile to the people who \ncalled her out, in a familiar manner. "
         },
         {
             "name": "Boy",
@@ -140,7 +141,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Model and race, I wonder which one of those efforts you are watching. Although, I only want you to see my racing abilities.",
+            "text": "Model and race, I wonder which one of those efforts you are \nwatching. Although, I only want you to see my racing abilities.",
             "choice_data_list": [
                 "Modelling should also contribute to the race"
             ]
@@ -158,7 +159,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Why should I run here until the end of the festival…!? I don’t know, seriously, I don’t know what it means…!",
+            "text": "Why should I run here until the end of the festival…!? I don’t \nknow, seriously, I don’t know what it means…!",
             "choice_data_list": [
                 "Well then, I’ll take the time",
                 "Well then, I’ll take the time"
@@ -194,7 +195,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Huh? Ah, Trainer… like that. But… speaking of which, at the festival…"
+            "text": "Huh? Ah, Trainer… like that. But… speaking \nof which, at the festival…"
         },
         {
             "name": "Boy",
@@ -216,7 +217,7 @@
         },
         {
             "name": "Gold City",
-            "text": "*Pant*… *Pant*… After I heard your voice. I remembered the cheering of the children. And then, my legs moved forward…",
+            "text": "*Pant*… *Pant*… After I heard your voice. I remembered the \ncheering of the children. And then, my legs moved forward…",
             "choice_data_list": [
                 "That’s the power of the fans",
                 "That’s the power of the fans"
@@ -224,22 +225,22 @@
         },
         {
             "name": "Gold City",
-            "text": "You mean that power is going to help me step further? Then, then you see…"
+            "text": "You mean that power is going to help me \nstep further? Then, then you see…"
         },
         {
             "name": "Gold City",
-            "text": "If you could bring the fans who gathered in the face of a model to the raceー",
+            "text": "If you could bring the fans who gathered \nin the face of a model to the raceー",
             "choice_data_list": [
                 "There’s no doubt about it!"
             ]
         },
         {
             "name": "Gold City",
-            "text": "Ahaha wow, such impure motives! You’re going to use the fans. You pretend to be kind but you sure are calculating."
+            "text": "Ahaha wow, such impure motives! You’re going to use the fans. You \npretend to be kind but you sure are calculating."
         },
         {
             "name": "Gold City",
-            "text": "But… haha, how interesting. I can show off my run to the fans who only know me as a model."
+            "text": "But… haha, how interesting. I can show off my \nrun to the fans who only know me as a model."
         },
         {
             "name": "Gold City",
@@ -251,7 +252,7 @@
         },
         {
             "name": "Gold City",
-            "text": "…Yeah-yeah. I’ll be sure to follow. In order to win, It seems I need your power."
+            "text": "…Yeah-yeah. I’ll be sure to follow. In order \nto win, It seems I need your power."
         },
         {
             "name": "Gold City",
