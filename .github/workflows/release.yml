@@ -18,7 +18,9 @@ jobs:
           ref: release
 
       - name: Merge changes
-        run: git merge -X theirs main
+        run: |
+          git fetch origin main
+          git merge -X theirs origin/main
 
       - uses: actions/setup-python@v5
         with:
