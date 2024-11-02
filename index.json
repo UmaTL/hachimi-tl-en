@@ -1059,6 +1059,16 @@
       "size": 524
     },
     {
+      "path": "assets/lyrics/m1095_lyrics.json",
+      "hash": "9758ea19b6c91143a961a1ab8e7c9f8203b27314ac4e61080c19d2dd9cf659f7",
+      "size": 945
+    },
+    {
+      "path": "assets/lyrics/m1152_lyrics.json",
+      "hash": "66b98881e5ea5b6d66e2e6b66ff49e260c1fb5c61ed75464963968c6527a4f9d",
+      "size": 2260
+    },
+    {
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "4699ae66cdceb5e731cc41a1fc00ec6dbed0f9ebb71695a344a446892552373a",
       "size": 516
@@ -1197,6 +1207,21 @@
       "path": "assets/race/storyrace/text/storyrace_020201132.json",
       "hash": "c31fe4e07335909323b1fb76fb7ab644160e95477999b1f2efa5b85c1447f588",
       "size": 2521
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020202032.json",
+      "hash": "6e14284a4beff8e751b0e60056fb61b5a0c018f5011aa185de8662275142de4b",
+      "size": 2916
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020202062.json",
+      "hash": "0807c2ae294d96a7786fbb1c3779d53f2b3deb01857c60dea379e21c407e9781",
+      "size": 2194
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020202132.json",
+      "hash": "d92e880ad382ac6f40cf3e051d5779eb5d25ca0ec8b3ab65fcffb400e71e9a18",
+      "size": 2855
     },
     {
       "path": "assets/story/data/00/0008/storytimeline_000008001.json",
@@ -2067,6 +2092,86 @@
       "path": "assets/story/data/02/0201/storytimeline_020201133.json",
       "hash": "c4355e96f1a06bb2a29b89a6b2907a617132bc3fa6442b70daae88450f76cb98",
       "size": 4355
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202011.json",
+      "hash": "cbc7ba9435130bef0731deeac9560bc460d1f5f5081ad00783cbc1d0b302eac1",
+      "size": 8166
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202021.json",
+      "hash": "6b9f4e73919c1c2b0ffbdb30f4d041a18b5f3be12387de5c5e1ffd3b24d1dc70",
+      "size": 8804
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202031.json",
+      "hash": "685b011e966fcf3b4abdcbaf9d69f6e06d605e2a6954b72655eebcbca48501ea",
+      "size": 6170
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202033.json",
+      "hash": "9f35463dfc9f0ce81a339b931685ff66a8f9eb9d2473cfa2fe803075f07dada3",
+      "size": 4435
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202041.json",
+      "hash": "1ad8c902c37fa60e7692ee88f146761aca1a0ef3458c87fcb7782d8a37eb8c55",
+      "size": 13092
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202051.json",
+      "hash": "cb9aa310af062caa8b2ca2a2507b05e6de815ea955b679099ef8f6995a722d76",
+      "size": 9815
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202061.json",
+      "hash": "488ce429f38cda4c9bf62d8a0c91037596f1b6f8a66968dd903fe6663d1561da",
+      "size": 8085
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202063.json",
+      "hash": "cc128d00b2c15760edaf54841f6e9a8dbfe3360278ee0dd4606b9bce8c72c84c",
+      "size": 5264
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202071.json",
+      "hash": "40a7f1db8c484cb70873611cf6ac7f9ed88f9346e53edcc9fbac59cbe0e2e050",
+      "size": 11405
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202081.json",
+      "hash": "3cc07e0c1dcfbe9d5c2b4d461b307aa57c350fc06b297da170ffc0473b11b162",
+      "size": 13938
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202091.json",
+      "hash": "8925108afd57e820bf36a8bc25f83477639587c0b095251571bf42b8b34e959d",
+      "size": 8609
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202101.json",
+      "hash": "3957c6bc9fbadebe073fc878db1c1ab728a6e1bc4edf14108246a79a2366acf3",
+      "size": 12739
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202111.json",
+      "hash": "583ae08964c304375a62dc5bf71e9d984f360c0086bf91ad5ae06887ae4d1f27",
+      "size": 7872
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202121.json",
+      "hash": "ea491940b94e9a5256164b70f466792958f921fe6877d3b0e803a1cfa5dd97a8",
+      "size": 19853
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202131.json",
+      "hash": "024b8546d07424d7b1608225e5fea341ffea440618c3ee9112f7da55bc1511cc",
+      "size": 4684
+    },
+    {
+      "path": "assets/story/data/02/0202/storytimeline_020202133.json",
+      "hash": "ca80ef94d321366988b3bceb1ea13356d78bb38415f9cc2867a3bab126bdf713",
+      "size": 6188
     },
     {
       "path": "assets/story/data/04/1001/storytimeline_041001001.json",
@@ -9260,7 +9365,7 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "93cd4fc38671b0301fc657705e05e5399d20e07a005e8e18708f81ec0953008d",
+      "hash": "fb1bc9c039bfa7bd8b4ab82d77db7b4791f00d8846bb0716412138bc26df228d",
       "size": 5196
     },
     {
@@ -9270,8 +9375,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "f8228f6adb8b1007e6e9ac7cf51bf9bb7acaf36fc6f753cd349e99165efe2260",
-      "size": 83886
+      "hash": "905a925504de53de0781af40ccc633488e2301e0173b8cdb75c68ab8ddc71bb9",
+      "size": 211883
     },
     {
       "path": "race_jikkyo_comment_dict.json",
