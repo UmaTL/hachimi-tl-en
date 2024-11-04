@@ -7,15 +7,18 @@ This is a continuation of the [UmaTL] project's translations for use with the [H
 Support UmaTL's *own* translations on [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
 
 # Install / Use
-If you're already using Hachimi, do only steps 4 and 5, then let Hachimi update when you play the game.
+If you're already using Hachimi, do only step 4, then let Hachimi update when you play the game.
 
-1. Uninstall any current patches. 
+1. Uninstall any current patches.
     - For UmaTL, run update.bat (recent improvements for uninstalling) followed by uninstall.bat
 1. Download and install [Hachimi].
 1. Start the game, select a repo, then **cancel** the update Hachimi offers.
-    - If this repo is listed, select it, accept the update/download, and skip the other steps.
-1. Go to your game install folder (with umamusume.exe) and open the config.json file in a text editor.
-1. Change the link in "**translation_repo_index**" to `https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json`
+    - If this UmaTL repo is listed, select it, accept the update/download, and skip the rest of the steps.
+1. Adjust Hachimi's config *or* [use our release](../../releases/tag/config).
+    1. Go to your game install folder (with umamusume.exe, something like `C:\DMMGames\Umamusume`)
+    1. Open the `config.json` file found in the `hachimi` folder there in a text editor.
+    1. Change the `"localized_data_dir"` from `null` to `localized_data`.
+    1. Change the link in `"translation_repo_index"` to `https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json`
 1. Use `right arrow` key in game to open Hachimi.
 1. In the Hachimi menu, press `Reload config` followed by `Check updates` and download the update.
 
