@@ -1,0 +1,81 @@
+{
+    "windows": {
+        "bundle_name": "F26ZV3QXZWTRUFZCEG4IYM3XCB3SI22J"
+    },
+    "android": {
+        "bundle_name": "WOWTRLWEF2VJ55NIWCAHL35HUWOC6SUU"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "4": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": 3.025,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "left"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Turns"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "End"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Upgrade Exam\nafter turn"
+                    }
+                }
+            },
+            "14": {
+                "text_param_list": {
+                    "0": {
+                        "position_offset": {
+                            "x": -7,
+                            "y": -0.025,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "turn(s)",
+                        "position_offset": {
+                            "x": -1.975,
+                            "y": 0,
+                            "z": 0
+                        }
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Upgrade Exam"
+                    }
+                }
+            }
+        }
+    }
+}
