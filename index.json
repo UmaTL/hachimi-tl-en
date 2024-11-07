@@ -224,6 +224,116 @@
       "size": 6303
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_btn_overdrive00/tx_uTex_fl_singlemode_mecha_btn_overdrive00_0.diff.png",
+      "hash": "cf3fdf849f85d1b69a1b139d2dbe790fe46fb5a65ee1984b90ea8324ad5bd096",
+      "size": 61140
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_btn_trainingmenu00/tx_uTex_fl_singlemode_mecha_btn_trainingmenu00_0.diff.png",
+      "hash": "577b6a361308e529bf24dc3970dd3291bbea5261dcdd1d6d7e701e0ab3f5596b",
+      "size": 7934
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_event_join00/tx_uTex_fl_singlemode_mecha_event_join00_0.diff.png",
+      "hash": "075ee771c525d8da5d8f6657f83b4d11fb9d9e3b37709aefd3bf01a407372377",
+      "size": 93135
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_event_uptrainingeffect00/tx_uTex_fl_singlemode_mecha_event_uptrainingeffect00_0.diff.png",
+      "hash": "ba5364ef8d9df9eb72ef1af98ae7383776dedd1753f74b3754b4885212a1d291",
+      "size": 109407
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_header_hpgauge00/tx_uTex_fl_singlemode_mecha_header_hpgauge00_0.diff.png",
+      "hash": "972e0c36a102bba6fc391fa7d506b82eeb128214ec01e227eae4498eb37e4090",
+      "size": 11260
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_header_turncounter00/tx_uTex_fl_singlemode_mecha_header_turncounter00_0.diff.png",
+      "hash": "88193127238f31a1df2d12a1849696f5606e9386599e942dd0cfa880d229ca0f",
+      "size": 8682
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_overdrive_recovery00/tx_uTex_fl_singlemode_mecha_overdrive_recovery00_0.diff.png",
+      "hash": "2c51751fc03a742d7e219350577bfa0b46b243cceef26592df7e498914285b56",
+      "size": 257410
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_overdrive_text00/tx_uTex_fl_singlemode_mecha_overdrive_text00_0.diff.png",
+      "hash": "4e43fd2fce7313c6d045700024d1b1cc1ba06452b5c8d1db4ed1dc88489162b7",
+      "size": 867422
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_remind_turn00/tx_uTex_fl_singlemode_mecha_remind_turn00_0.diff.png",
+      "hash": "cf839daa6cf398bc4ffbca5ae41a0feda38363530d24869346e78cc5b66d3da2",
+      "size": 34370
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_research_lv_maxup00/tx_uTex_fl_singlemode_mecha_research_lv_maxup00_0.diff.png",
+      "hash": "1e03a6ab27ef68f3eee11e94b42214466887d2435015d96625de5cdf6fb5c5d7",
+      "size": 95291
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_research_progress00/tx_uTex_fl_singlemode_mecha_research_progress00_0.diff.png",
+      "hash": "6f00556b377b8bdc7076b6f3d57d232ee9c989b5df7f479f1a3b305c31e1e90c",
+      "size": 81661
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_research_progress_text00/tx_uTex_fl_singlemode_mecha_research_progress_text00_0.diff.png",
+      "hash": "4b9314f1a28a37b214b56dd801e08bd5ab0f502bd1b41081063ff1e4cfd08fd6",
+      "size": 262349
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_sp_overdrive_activation00/tx_uTex_fl_singlemode_mecha_sp_overdrive_activation00_0.diff.png",
+      "hash": "3d9c915436f5fcca206b265a6cafb4e74a4c60b2615d7b734d15d163b95d3c67",
+      "size": 496784
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_sp_overdrive_btn00/tx_uTex_fl_singlemode_mecha_sp_overdrive_btn00_0.diff.png",
+      "hash": "cff550e14d1823f167aff26de76212e7e852174b3ad76a7d9182229032b6b127",
+      "size": 344130
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_sp_overdrive_continuation00/tx_uTex_fl_singlemode_mecha_sp_overdrive_continuation00_0.diff.png",
+      "hash": "e272f86033ade82ec6bac0a67ab8207ae86de69479ed0e82ab975a6689977710",
+      "size": 53690
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_target_research_level00/tx_uTex_fl_singlemode_mecha_target_research_level00_0.diff.png",
+      "hash": "2c9d82dc871c90ed861a3f99ccdebb9cdf1edd24b22f5fc31bd5e28540113d1a",
+      "size": 28511
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_trainingmenu_base00/tx_uTex_fl_singlemode_mecha_trainingmenu_base00_0.diff.png",
+      "hash": "597708d677ccd024728834ac91fd43bacbdefe34cc98030d9d8285c8b8f0fca5",
+      "size": 15393
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_tuning_text00/tx_uTex_fl_singlemode_mecha_tuning_text00_0.diff.png",
+      "hash": "a7c804e80058d3109ec72c37065f851c885932d85e57a2bf135cb184981a656b",
+      "size": 580130
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_tuning_transition00/tx_uTex_fl_singlemode_mecha_tuning_transition00_0.diff.png",
+      "hash": "bea3f57d5c667718383318c387c55d89386218550f3c74472755eeed1a5e8319",
+      "size": 212319
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_txt_upgraderesult00/tx_uTex_fl_singlemode_mecha_txt_upgraderesult00_0.diff.png",
+      "hash": "7734f00a0eb26429e5f27f6f906d4b2d215a12beb50ab5302094ed2a4182bbba",
+      "size": 419707
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_upgradeexam_btn00/tx_uTex_fl_singlemode_mecha_upgradeexam_btn00_0.diff.png",
+      "hash": "fe86d934a7b886f953c5e786eb209e26b0d8485ce27177c76aab9cdd38ddf8ad",
+      "size": 76652
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_mecha_upgradeexam_start00/tx_uTex_fl_singlemode_mecha_upgradeexam_start00_0.diff.png",
+      "hash": "8dc00416372f5fdfc3c7921b212be937247e4f34e33a6829e8cdf19d0f638c6a",
+      "size": 67247
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_next_target00/tx_uTex_fl_singlemode_next_target00_0.diff.png",
       "hash": "fef55939d571ed3176f2d1c536a2a1f50078a7dba015562808f0ac085ecfcb9a",
       "size": 94746
@@ -451,6 +561,16 @@
     {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.json",
       "hash": "d6881ecb564f82ae95b264dc3f219cdf22a00e247b922ae7aa8db7b1c18543d1",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.diff.png",
+      "hash": "29403f06840299a2b46b00a6dfe6e4ff3380ae9cd9315f5327b4cb1bcd56b20d",
+      "size": 108626
+    },
+    {
+      "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.json",
+      "hash": "4303ff20def7025f1af3a4a04b633a2fa754a9cc5016493439ad771b55697ce5",
       "size": 166
     },
     {
@@ -8969,6 +9089,11 @@
       "size": 183954
     },
     {
+      "path": "assets/textures/single/scenariomecha/utx_txt_chip_open_dialog.png",
+      "hash": "ae4058f795527c3efebc75f3d7b1a4440855d2c30330ab0ead5ce5d3ef24fb7b",
+      "size": 129800
+    },
+    {
       "path": "assets/textures/single/scenariosport/utx_txt_advice_update_00.png",
       "hash": "8ab7c0e19201d86ac053fb4accc8044c2debf16cbb8fc8e2ed3793cad85945f8",
       "size": 72851
@@ -9147,6 +9272,116 @@
       "path": "assets/uianimation/flash/singlemode/live/pf_fl_singlemode_live_header_turncounter00.json",
       "hash": "c6d89191f0ed8c2c43cae7f59d3315aa6518820a650acfab05f70a92bd7566a1",
       "size": 2157
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_overdrive00.json",
+      "hash": "197576c2667c95a83bb04c6da211236d1d501a76b0b29d0e2f23c725506133e6",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_btn_trainingmenu00.json",
+      "hash": "438120d905a97fc950ba83ca21302f88a1428f3a377ce0cf461a983d24e34d34",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_event_join00.json",
+      "hash": "93d4f9a4302519b4f7bc7463ed97d6b2b2f497454c19acd4a4b0f0b2e9000043",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_event_uptrainingeffect00.json",
+      "hash": "45731716a9e0632a98f855ad1258b4e8c20eb896627128fc072bdc4ffb4c597a",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_hpgauge00.json",
+      "hash": "cd1f14878a324d44c5b8b60e338b7adc5b81b384e44abd2202f43eddb4e3045b",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_turncounter00.json",
+      "hash": "b24bd9f4d791f002e5796077dc1d8cd6e2ec402ac978e98337964613ed549571",
+      "size": 2160
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_overdrive_recovery00.json",
+      "hash": "5cacb74fd1d8ae048b01bbdf60bd5971f99c77acf77d6345f7ad398c195479d7",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_overdrive_text00.json",
+      "hash": "903bcab92fdd88fba103f16b7f23a08b02b5bf32adb0d8573db894a0f4a65892",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_remind_turn00.json",
+      "hash": "9b2b3ab9fb728f9a7fc8babf2af955201eb028cb40fbd02d98dc695bc59e23e5",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_lv_maxup00.json",
+      "hash": "d4c2e416c1c454dec5661f03e0379194a7fa473b4da395f9ef1e2b01b47efa27",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_progress00.json",
+      "hash": "81f34507e1da55199c558ed2b24b93afc3f1730c21c99885158e7c2877105ca3",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_research_progress_text00.json",
+      "hash": "ae00b93f803cef2ce6e27bbe9b45ce30006231c0df14f509a16b534370de3e98",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_activation00.json",
+      "hash": "e4153bd7e9e920f954c321732966af2df78c0f3999b4f48b2e8e579160f95f83",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_btn00.json",
+      "hash": "8a20142ccc10ccd37f8b96b3b31e5c0430e42446c5be79de9fcc8c0ac2b6d381",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_sp_overdrive_continuation00.json",
+      "hash": "38bd518989a458f0934fa8a4a5ddb234e2da7f85bc74e664684d1d35e2ed1204",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_target_research_level00.json",
+      "hash": "3057dc85a0a1e21702ee3f3f19029cc78f607ec653c904cbd39be78a3091142e",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_trainingmenu_base00.json",
+      "hash": "0d1b537b8a0d94974297a5e5f0c579e5ce55d836399e8f660b296286c3c5ebd0",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_tuning_text00.json",
+      "hash": "94c199645ed575f74503f94610821a8b262a79596517dfde5b747927ba11b91d",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_tuning_transition00.json",
+      "hash": "0ebd9858d1a17fd945486591d856397bf79408f341a784e0c24ab00782021ece",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_txt_upgraderesult00.json",
+      "hash": "7d7f748f5d906711e665ee15637b2e900154a26812b9ba0177fd09b36173f2f6",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_upgradeexam_btn00.json",
+      "hash": "662966e8e8dc66b8cad6ab6237cdd110b932e8b1cdc1afa76bb7346d07f6ee89",
+      "size": 166
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_upgradeexam_start00.json",
+      "hash": "d3fa51a8a117eda474b670a049568843f40f324c3d38e366a290cc6b9274c6ee",
+      "size": 166
     },
     {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
@@ -9365,8 +9600,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "fb1bc9c039bfa7bd8b4ab82d77db7b4791f00d8846bb0716412138bc26df228d",
-      "size": 5196
+      "hash": "239ba41b2e9a05881165157c9c5b6c767276da5c850f183ace61a2acd95db007",
+      "size": 5649
     },
     {
       "path": "includes",
@@ -9375,8 +9610,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "905a925504de53de0781af40ccc633488e2301e0173b8cdb75c68ab8ddc71bb9",
-      "size": 211883
+      "hash": "add3a33451c29e4119c77cbdc31a9f93097982ab881b2f35f6802e4e1391575b",
+      "size": 217707
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -9390,8 +9625,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "608079ca510622d0c95ad330d07fe7cf660b905041f24062f988f7377d9bc348",
-      "size": 2496607
+      "hash": "ef3fb29de4630dc10d3f693c266eab47943135823e0d97e50dad26dafbb3476e",
+      "size": 2509776
     }
   ]
 }
