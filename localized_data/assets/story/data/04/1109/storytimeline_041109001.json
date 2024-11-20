@@ -1,0 +1,246 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "As a new trainer, I was extremely busy but I had \ndecided to take a day off. I was completely exhausted \nwhile taking a walk when I noticed something――",
+            "choice_data_list": [
+                "Someone collapsed over there!?"
+            ]
+        },
+        {
+            "text": "I rushed down to the riverside. An Uma Musume was laying \nthere with her eyes closed. Maybe she was feeling sick……!?",
+            "choice_data_list": [
+                "A-are you okay!?",
+                "A-are you okay!?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "…………Huh?"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Eh, ah……no! I'm totally fine. \nI was just sunbathing~……",
+            "choice_data_list": [
+                "S-sunbathing……?"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Mmmmm~~……sorry for confusing you. \nEhehe, thanks for worrying about me.",
+            "choice_data_list": [
+                "No, I'm glad it was nothing serious"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Yeah, rather I feel fully recharged! I was \nable to bask in the sun for so long, my body's \nall warmed up, and all that exhaustion――"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Ah, that's right. \nIf you want, how about you try it too? Sunbathing.",
+            "choice_data_list": [
+                "Ehh"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Fufufuu, sorry for asking that. But, it just seemed like, \njudging by your face……that maybe you were really tired."
+        },
+        {
+            "text": "That's true, lately I've been working almost non-stop…… \njust laying in the sun like that might feel really nice."
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "If you lay down and take it easy, you'll feel better. \nNow, now, if you'd like, just for a little bit.",
+            "choice_data_list": [
+                "T-then……maybe a little bit"
+            ]
+        },
+        {
+            "text": "And so, I laid in the soft grass beside her. \nThe sunlight was warm and felt nice……"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Howaaa……it's so warm, huh~……"
+        },
+        {
+            "text": "I woke up a short while later. \nMy whole body felt warm and refreshed."
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Upsy-daisy! Onii-san, how was it? \n……Fufuu, looks like you're feeling a lot better!",
+            "choice_data_list": [
+                "I guess I was really tired……!"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Upsy-daisy! Onee-san, how was it? \n……Fufuu, looks like you're feeling a lot better!",
+            "choice_data_list": [
+                "I guess I was really tired……!"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "After relaxing for a bit, if you take a short \nwalk you'll feel even better! After some \nsunbathing I usually wander around over there."
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "If you have time, how about joining me?",
+            "choice_data_list": [
+                "Sounds good, okay",
+                "Sounds good, okay"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "There are always a bunch of families here so it's always lively. \nFufuu, there are so many kids around, they're all so cute~.",
+            "choice_data_list": [
+                "It's heartwarming",
+                "It's heartwarming"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Isn't it? \nIt almost feels like they're giving me energy……Hm?"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Wah! It's a kitty. Looks like it's used to being around people. \nFufufu, nyaan nyan. Do you want to walk with us?"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "……Hm? What? Where are you going?"
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Wah, so pretty……! I didn't know there was a path like this. \nKitty, did you want to show us this? ……Oh, it's not here.",
+            "choice_data_list": [
+                "Haha, it's quite whimsical",
+                "Haha, it's quite whimsical"
+            ]
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Ahahaa, I guess so. \nI guess I'll have to thank it next time."
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "But, it's really wide open here. Maybe we should walk a \nlap and look……Wah, over there, there's alot of big flowers~!"
+        },
+        {
+            "text": "And like that, we took our time wandering around……before I \nrealized it, because of her, I was feeling fully refreshed."
+        },
+        {
+            "name": "Carefree Uma Musume",
+            "text": "Haa, that was alot of fun, wasn't it!? I――ah, now that \nI think about it, I haven't introduced myself yet."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "I'm Rhein Kraft! \nAnd you're……wait, huh? That badge……!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "I-I just realized it, but……! Are you a trainer at the academy? \nI'm also a student at Tracen Academy~!",
+            "choice_data_list": [
+                "You are?",
+                "You are?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Ehehe, I haven't debuted yet so I guess it's not \nsurprising you didn't know. Besides, at school there's \nalready lots of other flashy more famous Uma Musume~."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Like Mejiro Ramonu-san and Air Groove-san…… \nHave you ever seen one of their races? They're \nboth strong, beautiful, and stunning!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Nishino Flower-san's 『Oka Sho』 and Mejiro Dober's 『Oaks』 \nand 『Shuuka Sho』! I can't help but admire their running……!"
+        },
+        {
+            "text": "All the Uma Musume she was talking about with a sparkle in \nher eyes, were all participating in the Triple Tiara rotation.",
+            "choice_data_list": [
+                "You really like Tiara Uma Musume",
+                "You really like Tiara Uma Musume"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "They're all so beautiful and dignified! It's like \na dream that I can go to the same school as them…… \nI can't help but get excited when I walk by them~!",
+            "choice_data_list": [
+                "You're aiming for the Tiara too?",
+                "You're aiming for the Tiara too?"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Of course! I want to get stronger and \nshine just like my senpais. And then――"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "In the 『Oka Sho』 『Oaks』 and 『Shuuka Sho』 I'll win! \nI'll earn the title of \"Triple Tiara\"!",
+            "choice_data_list": [
+                "(Oooh, she said it……!)"
+            ]
+        },
+        {
+            "text": "It's not something easy to do――only two others had done it \nin history. Accomplishing that would be quite the feat."
+        },
+        {
+            "text": "One could say her aspiration was childish and \nwasn't grounded in reality at all, however――"
+        },
+        {
+            "text": "Having a big dream wasn't a bad thing. For these girls that \nran for the tiara, that may even be the most important thing.",
+            "choice_data_list": [
+                "I hope you can get the Triple Tiara",
+                "I hope you can get the Triple Tiara"
+            ]
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah, thank you very much!! \nAlright, I'll show you I can do it!!"
+        },
+        {
+            "text": "She was so bright it was almost blinding…… \nA few days after that――"
+        },
+        {
+            "text": "A mock race was held that was open to the public……among the \nUma Musume running on the course was a familiar face.",
+            "choice_data_list": [
+                "(Is that……Rhein Kraft?)"
+            ]
+        },
+        {
+            "text": "――And she definitely had an amazing run"
+        },
+        {
+            "text": "The first thing that caught my eye was her \noutstanding start. It was clean and she quickly \ntook a good position――it was overwhelming."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Her concentration at the start and her positioning are \nboth top notch. Rhein Kraft has quite the talent……!",
+            "choice_data_list": [
+                "(S-she does……!)"
+            ]
+        },
+        {
+            "text": "Her pacing was also good. She continued to maintain \na good position all the way to the end――"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Now! Fuu--Haaaaaaaaa!!"
+        },
+        {
+            "text": "She pulled ahead quickly and reached a high speed―― \nHer strength was on another level and her result \nwas an astounding victory by 5 lengths……!",
+            "choice_data_list": [
+                "So this is how she runs……!?",
+                "So this is how she runs……!?"
+            ]
+        },
+        {
+            "text": "I clutch at my chest. ……it was beyond just calling \nthis a childish admiration. Rhein Kraft was \nsomeone who possessed a tremendous talent――!"
+        }
+    ]
+}
