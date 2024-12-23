@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mr. C.B.",
-            "text": "Hehe, I'm thinking about what I'll send mom and dad this time."
+            "text": "Hehe, I'm thinking about what \nI'll send mom and dad this time."
         },
         {
             "name": "Mr. C.B.",
-            "text": "Last time, I sent them a ticket to the final day of a show that reminded me of how they first met……"
+            "text": "Last time, I sent them a ticket to the \nfinal day of a show that reminded me \nof how they first met……"
         },
         {
             "name": "Mr. C.B.",
-            "text": "And before that, I think I sent some <i>amazake</i> that ended up tasting good when I tried copying mom's…….?"
+            "text": "And before that, I think I sent some \n<i>amazake</i> that ended up tasting good \nwhen I tried copying mom's…….?"
         },
         {
             "name": "Mr. C.B.",
-            "text": "Ah, well. I'll just send whatever comes to mind, like I've always done!"
+            "text": "Ah, well. I'll just send whatever comes \nto mind, like I've always done!"
         }
     ]
 }

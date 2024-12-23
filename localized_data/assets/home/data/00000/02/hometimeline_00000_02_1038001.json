@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Curren Chan",
-            "text": "Ayabeee… Have you seen a little elephant mascot lying around?"
+            "text": "Ayabeee… Have you seen a little \nelephant mascot lying around?"
         },
         {
             "name": "Admire Vega",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "I found it in the dorm's hallway so I left it on your desk."
+            "text": "I found it in the dorm's hallway \nso I left it on your desk."
         },
         {
             "name": "Curren Chan",
@@ -18,11 +19,11 @@
         },
         {
             "name": "Curren Chan",
-            "text": "Hehe, you remembered it was on my bag, did you?♪"
+            "text": "Hehe, you remembered it was \non my bag, did you?♪"
         },
         {
             "name": "Admire Vega",
-            "text": "N-No… Uhh, anyone would remember that ugly elephant…"
+            "text": "N-No… Uhh, anyone would remember \nthat ugly elephant…"
         },
         {
             "name": "Curren Chan",

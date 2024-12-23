@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Daiichi Ruby",
-            "text": "The French lesson at 5:00 PM tomorrow is cancelled because of the teacher's circumstances……"
+            "text": "The French lesson at 5:00 PM tomorrow \nis cancelled because of the teacher's \ncircumstances……"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "At 6:30 PM I have a lesson on tea ceremony, and at 8 PM I have a party to attend ——"
+            "text": "At 6:30 PM I have a lesson on tea ceremony, \nand at 8 PM I have a party to attend ——"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "As there will be many influential finance and business figures attending…… I will set aside the time before the tea ceremony lesson to ascertain the current economic climate."
+            "text": "As there will be many influential finance and \nbusiness figures attending…… I will set aside \nthe time before the tea ceremony lesson to \nascertain the current economic climate."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "As a member of our clan, I must avoid bringing disgrace to our name by my actions."
+            "text": "As a member of our clan, I must \navoid bringing disgrace to our \nname by my actions."
         }
     ]
 }

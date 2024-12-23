@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hishi Miracle",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Hishi Miracle",
-            "text": "Ah, I know! Do you want me to share some of the things I recommend for relaxing?"
+            "text": "Ah, I know! Do you want me to share some \nof the things I recommend for relaxing?"
         },
         {
             "name": "Hishi Miracle",
-            "text": "Aromatics, herb teas, and bath bombs～ …… Ehehe, I have plenty of stuff～♪"
+            "text": "Aromatics, herb teas, and bath bombs～ \n…… Ehehe, I have plenty of stuff～♪"
         },
         {
             "name": "Hishi Miracle",
-            "text": "It's important to take breaks everyday! Because it's only natural that you'll get tired while working or studying～"
+            "text": "It's important to take breaks everyday! \nBecause it's only natural that you'll get \ntired while working or studying～"
         }
     ]
 }

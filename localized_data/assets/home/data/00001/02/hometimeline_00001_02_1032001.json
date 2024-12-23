@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Daiwa Scarlet",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oh, right. Thanks for the reminder, I'll have to update my documents with the details."
+            "text": "Oh, right. Thanks for the reminder, I'll have \nto update my documents with the details."
         },
         {
             "name": "Daiwa Scarlet",
@@ -14,35 +15,35 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Well, age is important for research. Significantly, time changes one's physical body, so it's important to keep a daily record of these changes."
+            "text": "Well, age is important for research. \nSignificantly, time changes one's physical \nbody, so it's important to keep a daily \nrecord of these changes."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Are you sure, you don't wanna have a… birthday celebration?!"
+            "text": "Are you sure, you don't wanna \nhave a… birthday celebration?!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Mm? I guess not… I'll at least take a gift, but I don't see the need for one in the first place."
+            "text": "Mm? I guess not… I'll at least take a gift, but \nI don't see the need for one in the first place."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Alright, let's have a birthday party!! I'm gonna go gather everyone now!"
+            "text": "Alright, let's have a birthday party!! \nI'm gonna go gather everyone now!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "No, listen. I like it when the subjects of my research gather together, but it's hard to do any research if everyone's eyes are on me."
+            "text": "No, listen. I like it when the subjects of my \nresearch gather together, but it's hard to do \nany research if everyone's eyes are on me."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'll also prepare lots of food and drinks. Oh, and I already have a present for you. I hope you're looking forward to it!"
+            "text": "I'll also prepare lots of food and drinks. \nOh, and I already have a present for you. \nI hope you're looking forward to it!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'm going to make this the best birthday party you've ever had!"
+            "text": "I'm going to make this the best \nbirthday party you've ever had!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "…I've always wondered if your eagerness and inability to listen to others is something you inherited from your parents."
+            "text": "…I've always wondered if your eagerness \nand inability to listen to others is something \nyou inherited from your parents."
         }
     ]
 }

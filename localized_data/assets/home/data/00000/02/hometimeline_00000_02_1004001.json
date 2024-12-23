@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Maruzensky",
-            "text": "Hey, Rudolph? I think our current uniform is cute, but…"
+            "text": "Hey, Rudolph? I think our \ncurrent uniform is cute, but…"
         },
         {
             "name": "Maruzensky",
-            "text": "I think a teensy change could really bring the good vibes!"
+            "text": "I think a teensy change could \nreally bring the good vibes!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Uniforms aren't something you change on a moment's notice, but I will hear you out."
+            "text": "Uniforms aren't something you \nchange on a moment's notice, but \nI will hear you out."
         },
         {
             "name": "Maruzensky",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "There are these items that make you look more dignified, cool and strong just by adding them, you see."
+            "text": "There are these items that make you look \nmore dignified, cool and strong just by \nadding them, you see."
         },
         {
             "name": "Maruzensky",
@@ -26,19 +27,19 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I've heard of \"shoulder pads\"… It's interesting to hear how silhouette changes one's impression."
+            "text": "I've heard of \"shoulder pads\"… It's \ninteresting to hear how silhouette \nchanges one's impression."
         },
         {
             "name": "Maruzensky",
-            "text": "Totally! Firm shoulders are a sign of strength☆"
+            "text": "Totally! Firm shoulders are a \nsign of strength☆"
         },
         {
             "name": "Maruzensky",
-            "text": "With a confident silhouette, everyone will become even more nifty!"
+            "text": "With a confident silhouette, \neveryone will become even more nifty!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hmmm… I will bring it up at the next student council meeting."
+            "text": "Hmmm… I will bring it up at the \nnext student council meeting."
         }
     ]
 }

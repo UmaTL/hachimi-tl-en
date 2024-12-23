@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Tanino Gimlet",
-            "text": "—— Books are great. Do you partake in reading?"
+            "text": "—— Books are great. \nDo you partake in reading?"
         },
         {
             "name": "Tanino Gimlet",
-            "text": "Tales or tomes — even a lexicon will do. Knowledge is nourishment, leading to eventual phronesis."
+            "text": "Tales or tomes — even a lexicon will do. \nKnowledge is nourishment, leading to \neventual phronesis."
         },
         {
             "name": "Tanino Gimlet",
-            "text": "The unsage dressing themselves in flowery rhetoric is like dressing up a skeleton with beautiful clothes — \"<i>vanitas vanitatum</i>\"."
+            "text": "The unsage dressing themselves in flowery \nrhetoric is like dressing up a skeleton with \nbeautiful clothes — \"<i>vanitas vanitatum</i>\"."
         },
         {
             "name": "Tanino Gimlet",
-            "text": "Only the truly wise are worthy of being adorned with wisdom……!"
+            "text": "Only the truly wise are worthy of \nbeing adorned with wisdom……!"
         }
     ]
 }

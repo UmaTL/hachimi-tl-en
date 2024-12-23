@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Top Road",
-            "text": "Hello, Trainer! Please, take a seat opposite me."
+            "text": "Hello, Trainer! \nPlease, take a seat opposite me."
         },
         {
             "name": "Narita Top Road",
-            "text": "What do you want to talk about today? Your friends? Or maybe tomorrow's dinner? … You can talk to me about anything."
+            "text": "What do you want to talk about today? \nYour friends? Or maybe tomorrow's dinner? \n… You can talk to me about anything."
         },
         {
             "name": "Narita Top Road",
-            "text": "…… Oh, could it be that you just wanted to say hi?"
+            "text": "…… Oh, could it be that you \njust wanted to say hi?"
         },
         {
             "name": "Narita Top Road",
-            "text": "Ahh, I'm sorry! I always listen to my friends' stories here…… P-please forget about it～"
+            "text": "Ahh, I'm sorry! I always listen \nto my friends' stories here…… \nP-please forget about it～"
         }
     ]
 }

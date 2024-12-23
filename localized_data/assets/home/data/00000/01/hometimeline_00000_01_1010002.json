@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Taiki Shuttle",
@@ -6,19 +7,19 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What, you're not? No—! You can't fool my eyes!"
+            "text": "What, you're not? No—! \nYou can't fool my eyes!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Okay! It's settled then. Tomorrow's training will be \"Taiki's Special Happy Course\"!"
+            "text": "Okay! It's settled then. Tomorrow's training \nwill be \"Taiki's Special Happy Course\"!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "And a very happy version at that! I'll get 500 crackers ready!"
+            "text": "And a very happy version at that! \nI'll get 500 crackers ready!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That'll definitely cheer you up! Look forward to it♪"
+            "text": "That'll definitely cheer you up! \nLook forward to it♪"
         }
     ]
 }

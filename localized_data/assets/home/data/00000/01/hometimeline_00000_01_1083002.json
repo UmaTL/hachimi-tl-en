@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Symboli Kris S",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Symboli Kris S",
-            "text": "…… Apologies, I meant <i>donburi</i>. The type? Pickled. Ingredient? Salmon."
+            "text": "…… Apologies, I meant <i>donburi</i>. \nThe type? Pickled. Ingredient? Salmon."
         },
         {
             "name": "Symboli Kris S",
-            "text": "—— Eyes met. A discounted pack, salmon, three cuts…… in the fresh seafood corner."
+            "text": "—— Eyes met. A discounted pack, \nsalmon, three cuts…… in the fresh \nseafood corner."
         },
         {
             "name": "Symboli Kris S",
-            "text": "I borrowed a recipe book from Rob Roy. There was nothing wrong with the taste. I would like your assistance in not letting the result be \"discounted\"."
+            "text": "I borrowed a recipe book from Rob Roy. \nThere was nothing wrong with the taste. \nI would like your assistance in not letting \nthe result be \"discounted\"."
         }
     ]
 }

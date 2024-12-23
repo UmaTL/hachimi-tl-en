@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Marvelous Sunday",
@@ -6,11 +7,11 @@
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Marvelous☆ S…… Spectacular surprises★"
+            "text": "Marvelous☆ \nS…… Spectacular surprises★"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "S…… Sunny-side-up eggs with two yolks☆ S…… Sparkling sunlight beam★"
+            "text": "S…… Sunny-side-up eggs with two yolks☆ \nS…… Sparkling sunlight beam★"
         },
         {
             "name": "Marvelous Sunday",

@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Gold Ship",
-            "text": "From here to Saturn is approximately 80 light minutes…… So the distance of about 140 million 10cm-sized doughnuts."
+            "text": "From here to Saturn is approximately 80 \nlight minutes…… So the distance of about \n140 million 10cm-sized doughnuts."
         },
         {
             "name": "Gold Ship",
-            "text": "Okay, if we get serious, we can get there by the day after tomorrow!"
+            "text": "Okay, if we get serious, we can get there \nby the day after tomorrow!"
         },
         {
             "name": "Gold Ship",
-            "text": "Hey bud, we're taking off right now! And don't forget the spare donuts!"
+            "text": "Hey bud, we're taking off right now! \nAnd don't forget the spare donuts!"
         },
         {
             "name": "Gold Ship",
-            "text": "The only thing you can count on in an emergency is a donut, don't you know……"
+            "text": "The only thing you can count on in an \nemergency is a donut, don't you know……"
         }
     ]
 }

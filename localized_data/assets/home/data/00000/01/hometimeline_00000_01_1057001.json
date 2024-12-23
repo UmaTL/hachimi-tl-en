@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mr. C.B.",
-            "text": "Man, today cut it close. I was almost late! I got distracted on the way ——"
+            "text": "Man, today cut it close. I was almost late! \nI got distracted on the way ——"
         },
         {
             "name": "Mr. C.B.",
-            "text": "Did you know? If you look closely at the morning dew on the grass near the river, you can see the world upside-down."
+            "text": "Did you know? If you look closely at the \nmorning dew on the grass near the river, \nyou can see the world upside-down."
         },
         {
             "name": "Mr. C.B.",
-            "text": "You think I could just come straight to school? That's boring. When a whole world could be right where I'm standing."
+            "text": "You think I could just come straight \nto school? That's boring. When a whole \nworld could be right where I'm standing."
         },
         {
             "name": "Mr. C.B.",
-            "text": "Well, I made it in time anyway! Hehe, I'm glad I'm a horsegirl."
+            "text": "Well, I made it in time anyway! \nHehe, I'm glad I'm a horsegirl."
         }
     ]
 }

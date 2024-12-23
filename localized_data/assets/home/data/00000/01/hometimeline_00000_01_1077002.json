@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Top Road",
-            "text": "Trainer, have you had a look at the bulletin board yet? There's a lot of information on it!"
+            "text": "Trainer, have you had a look at the bulletin \nboard yet? There's a lot of information on it!"
         },
         {
             "name": "Narita Top Road",
-            "text": "Sure, social media is convenient, but there's something comforting and wonderful about posters."
+            "text": "Sure, social media is convenient, \nbut there's something comforting \nand wonderful about posters."
         },
         {
             "name": "Narita Top Road",
-            "text": "And isn't it nice? You know… having people standing beside you, looking at the same thing?"
+            "text": "And isn't it nice? You know… \nhaving people standing beside \nyou, looking at the same thing?"
         },
         {
             "name": "Narita Top Road",
-            "text": "I like that. It feels similar to… when I'm heading toward the same goal with you!"
+            "text": "I like that. It feels similar to… when I'm \nheading toward the same goal with you!"
         }
     ]
 }

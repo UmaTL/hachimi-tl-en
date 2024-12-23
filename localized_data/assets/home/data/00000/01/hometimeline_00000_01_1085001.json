@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Daiichi Ruby",
-            "text": "You heard the sound of a violin from the school building……?"
+            "text": "You heard the sound of a violin \nfrom the school building……?"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "Indeed, that seems to be the time that I was playing. Did the sound interfere with your work?"
+            "text": "Indeed, that seems to be the time \nthat I was playing. Did the sound \ninterfere with your work?"
         },
         {
             "name": "Daiichi Ruby",
-            "text": "…… I understand. I will keep that in mind next time."
+            "text": "…… I understand. I will keep \nthat in mind next time."
         },
         {
             "name": "Daiichi Ruby",

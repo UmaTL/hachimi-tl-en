@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Maruzensky",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Anyway, I have to do something before the cutie juniors come over tomorrow!"
+            "text": "Anyway, I have to do something before the \ncutie juniors come over tomorrow!"
         },
         {
             "name": "Maruzensky",
-            "text": "Time to evacuate this mess on the floor into a closet! Yep!"
+            "text": "Time to evacuate this mess on the \nfloor into a closet! Yep!"
         }
     ]
 }

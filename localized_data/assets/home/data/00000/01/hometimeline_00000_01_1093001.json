@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "K.S.Miracle",
-            "text": "Umm…… Sorry for suddenly asking, but could you let me see your hands?"
+            "text": "Umm…… Sorry for suddenly asking, \nbut could you let me see your hands?"
         },
         {
             "name": "K.S.Miracle",
-            "text": "I've been wondering for a while now since you do a lot of work at your desk. Let's see……"
+            "text": "I've been wondering for a while now since \nyou do a lot of work at your desk. \nLet's see……"
         },
         {
             "name": "K.S.Miracle",
-            "text": "Yeah…… Looks like the areas from your wrists to your fingers are particularly stiff…… Um, would you let me massage them for you?"
+            "text": "Yeah…… Looks like the areas from \nyour wrists to your fingers are \nparticularly stiff…… Um, would \nyou let me massage them for you?"
         },
         {
             "name": "K.S.Miracle",
-            "text": "I've learned a massage that can help with swelling because I want you to stay healthy, Trainer."
+            "text": "I've learned a massage that can help \nwith swelling because I want you to \nstay healthy, Trainer."
         }
     ]
 }

@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Laurel",
-            "text": "Even among the <i>sakura</i> cherry trees there are a lot of different kinds."
+            "text": "Even among the <i>sakura</i> cherry trees \nthere are a lot of different kinds."
         },
         {
             "name": "Sakura Laurel",
-            "text": "You have Yoshino, \"Weeping\", \"Japanese\", Formosan, and a lot more cherry varieties."
+            "text": "You have Yoshino, \"Weeping\", \"Japanese\", \nFormosan, and a lot more cherry varieties."
         },
         {
             "name": "Sakura Laurel",
-            "text": "Baku's always moving forward, so she's like a Formosan. Little Chiyo has the perseverance of the \"Japanese\" cherry. While they're all <i>Sakuras</i>, the flowers that bloom are different."
+            "text": "Baku's always moving forward, so she's like a \nFormosan. Little Chiyo has the perseverance \nof the \"Japanese\" cherry. While they're all \n<i>Sakuras</i>, the flowers that bloom are different."
         },
         {
             "name": "Sakura Laurel",
-            "text": "Hehe. I wonder what kind of flowers will bloom from me. … What do you think, Trainer?"
+            "text": "Hehe. I wonder what kind of \nflowers will bloom from me. \n… What do you think, Trainer?"
         }
     ]
 }

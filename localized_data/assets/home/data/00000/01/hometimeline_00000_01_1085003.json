@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Daiichi Ruby",
@@ -6,11 +7,11 @@
         },
         {
             "name": "Daiichi Ruby",
-            "text": "…… My state of affairs? I am kept fairly busy with preparations for an important party."
+            "text": "…… My state of affairs? I am kept fairly busy \nwith preparations for an important party."
         },
         {
             "name": "Daiichi Ruby",
-            "text": "If you have no particular need, I will have to excuse myself……"
+            "text": "If you have no particular need, \nI will have to excuse myself……"
         }
     ]
 }

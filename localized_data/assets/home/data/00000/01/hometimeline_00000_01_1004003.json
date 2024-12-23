@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Maruzensky",
-            "text": "These days peeps post pictures of the food and sweets on the Internet for everyone to see, right?"
+            "text": "These days peeps post \npictures of the food and sweets on \nthe Internet for everyone to see, right?"
         },
         {
             "name": "Maruzensky",
-            "text": "If that's the case, big sis knows the trendiest Equinstable foods～…!"
+            "text": "If that's the case, big sis knows the \ntrendiest Equinstable foods～…!"
         },
         {
             "name": "Maruzensky",
-            "text": "Their names are… nata de coco and tiramisu! They're absolutely fab with Italian food☆"
+            "text": "Their names are… nata de coco and tiramisu! \nThey're absolutely fab with Italian food☆"
         },
         {
             "name": "Maruzensky",
-            "text": "They'll bring you tons of, what were they, \"Me Gustas\" for sure!"
+            "text": "They'll bring you tons of, what were \nthey, \"Me Gustas\" for sure!"
         }
     ]
 }
