@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Praise! Your attitude of striving together towards your dreams!"
+            "text": "Praise! Your attitude of striving\ntogether towards your dreams!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "I'll be cheering you on from the shadows! —Encouragement!"
+            "text": "I'll be cheering you on from the\nshadows! —Encouragement!"
         },
         {
-            "text": "… She was very impressed with the way we practiced."
+            "text": "… She was very impressed with\nthe way we practiced."
         }
     ]
 }

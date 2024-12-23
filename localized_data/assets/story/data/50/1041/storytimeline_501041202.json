@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "The Spring Stakes is 1800 meters… Which is short compared to the races that await us later!"
+            "text": "The Spring Stakes is 1800 meters… \nWhich is short compared to the \nraces that await us later!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With my speed, I could run through it in a flash!"
+            "text": "With my speed, I could run \nthrough it in a flash!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -22,11 +23,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After this win, the next is the Satsuki Sho. After that, the Japan Derby…"
+            "text": "After this win, the next is the Satsuki Sho. \nAfter that, the Japan Derby…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, this is the gateway to my Classic battlefield! Now that's something that fills you with that fighting spirit!",
+            "text": "Yes, this is the gateway to my Classic \nbattlefield! Now that's something that fills \nyou with that fighting spirit!",
             "choice_data_list": [
                 "Depending on the results… You haven't forgotten, \nhave you?",
                 "Depending on the results… You haven't forgotten, \nhave you?"
@@ -34,15 +35,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I haven't forgotten! Depending on the results, it could be all about the short distances this year."
+            "text": "Of course I haven't forgotten! \nDepending on the results, it could be all \nabout the short distances this year."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But that's not going to happen! There is no way I'm going to lose!"
+            "text": "But that's not going to happen! There is no \nway I'm going to lose!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, then! Please do expect a winning run!"
+            "text": "Well, then! \nPlease do expect a winning run!"
         }
     ]
 }

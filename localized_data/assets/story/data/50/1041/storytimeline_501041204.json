@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,39 +7,39 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You look like you're on edge. What's wrong?",
+            "text": "You look like you're on edge. \nWhat's wrong?",
             "choice_data_list": [
                 "I want you to win…"
             ]
         },
         {
-            "text": "If you're a sprinter, this is the pinnacle stage that everyone dreams of standing on, at least once. This is a race I really want her to win."
+            "text": "If you're a sprinter, this is the pinnacle stage \nthat everyone dreams of standing on, at \nleast once. \nThis is a race I really want her to win."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, I'll win it. Because I'm the class president."
+            "text": "Well, I'll win it. Because I'm the class \npresident."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Besides, we've got to get back on track from here on out!"
+            "text": "Besides, we've got to get \nback on track from here on out!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm a little off the Bakushin Road that I started out on…"
+            "text": "I'm a little off the Bakushin Road that I \nstarted out on…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With my overwhelming speed, I'll win this Sprinters Stakes in a world record!!"
+            "text": "With my overwhelming speed, I'll win this \nSprinters Stakes in a world record!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Then, we'll head to the Tenno Sho and Arima Kinen, as originally planned!"
+            "text": "Then, we'll head to the Tenno Sho and \nArima Kinen, as originally planned!"
         },
         {
-            "text": "…She wants to call it quits on short distances, once and for all."
+            "text": "…She wants to call it quits on short \ndistances, once and for all."
         },
         {
-            "text": "But I'd love to see her run next year, when she'll be even faster than she is now. How to convince her…… Ah, over there."
+            "text": "But I'd love to see her run next year, \nwhen she'll be even faster than she \nis now. How to convince her…… \nAh, over there."
         },
         {
             "text": "(Knock, knock)"
@@ -49,47 +50,47 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Certainly, go right ahead! We'll take you any time at all!"
+            "text": "Certainly, go right ahead! \nWe'll take you any time at all!"
         },
         {
             "name": "Nishino Flower",
             "text": "Hello, Ms. Bakushin O."
         },
         {
-            "text": "Nishino Flower. A sprinter who debuted at the same time as Sakura Bakushin O. She's a talented Uma who is rapidly making a name for herself.",
+            "text": "Nishino Flower. A sprinter who debuted at \nthe same time as Sakura Bakushin O. \nShe's a talented Uma who is rapidly making \na name for herself.",
             "color_text_info_list": [
                 "Nishino Flower"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oya, Ms. Nishino Flower! Welcome to the class president's humble abode!"
+            "text": "Oya, Ms. Nishino Flower! \nWelcome to the class president's humble \nabode!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What can I do for you? You can count on me for anything at all―and don't hold back!"
+            "text": "What can I do for you? \nYou can count on me for anything at \nall―and don't hold back!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Huh? No, I just wanted to say hello to you…"
+            "text": "Huh? \nNo, I just wanted to say hello to you…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Is it about today's race? If so, ask me anything!"
+            "text": "Is it about today's race? \nIf so, ask me anything!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll give advice to my rivals, because I'm an honor student!"
+            "text": "I'll give advice to my rivals, because I'm an \nhonor student!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Uuuh… um, I'm glad to hear you're doing well!"
+            "text": "Uuuh… um, I'm glad to hear you're \ndoing well!"
         },
         {
-            "text": "Her meek demeanor belies the fact that she has great speed. She'll be Bakushin's biggest rival in today's race."
+            "text": "Her meek demeanor belies the fact that she \nhas great speed. She'll be Bakushin's \nbiggest rival in today's race."
         },
         {
-            "text": "Competing against Nishino Flower will surely be an inspiration for Sakura Bakushin O. I can't wait to see it!",
+            "text": "Competing against Nishino Flower will surely \nbe an inspiration for Sakura Bakushin O. \nI can't wait to see it!",
             "choice_data_list": [
                 "Do your best today, both of you.",
                 "Do your best today, both of you."
@@ -97,15 +98,15 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Yes! I'm looking forward to it."
+            "text": "Yes! \nI'm looking forward to it."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now then, let's get to it! For the sake of going down the Bakushin Road…!"
+            "text": "Now then, let's get to it! \nFor the sake of going down the Bakushin \nRoad…!"
         },
         {
             "name": "Nishino Flower",
-            "text": "Bakushin Road? …What is that?"
+            "text": "Bakushin Road? \n…What is that?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -113,7 +114,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "…? Is, is that… so?"
+            "text": "…? \nIs, is that… so?"
         },
         {
             "text": "…I'm looking forward to this!"

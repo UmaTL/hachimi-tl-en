@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Admiration! The way you train yourself so diligently is truly graceful!"
+            "text": "Admiration! The way you train yourself so\ndiligently is truly graceful!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Allow me to observe for a while! —Now, back to training… and work hard!"
+            "text": "Allow me to observe for a while!\n—Now, back to training… and work hard!"
         },
         {
             "text": "… She was impressed with our practice."

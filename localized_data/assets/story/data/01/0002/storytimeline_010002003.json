@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "You've met some wonderful horsegirls! Before we get to training, look at this!"
+            "text": "You've met some wonderful horsegirls! \nBefore we get to training, look at this!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I will also be explaining the support card gacha.",
+            "text": "I will also be explaining \nthe support card gacha.",
             "color_text_info_list": [
                 "support card"
             ]

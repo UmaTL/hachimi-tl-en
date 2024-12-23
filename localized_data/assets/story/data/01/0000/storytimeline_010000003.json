@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day after I watched the race with Tazuna—"
+            "text": "The day after I watched \nthe race with Tazuna—"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Once again… Welcome, Trainer-san! This is the Japan Horsegirl Training Center Academy.",
+            "text": "Once again… Welcome, Trainer-san! \nThis is the Japan Horsegirl \nTraining Center Academy.",
             "color_text_info_list": [
                 "Japan Horsegirl \nTraining Center Academy"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is Japan's premier horsegirl training organization, where girls who dream of entering the world of racing gather!"
+            "text": "This is Japan's premier horsegirl training \norganization, where girls who dream of \nentering the world of racing gather!"
         },
         {
             "name": "???",
@@ -23,52 +24,52 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Hey, Principal Akikawa…! Don't scare us like that!",
+            "text": "Hey, Principal Akikawa…! \nDon't scare us like that!",
             "color_text_info_list": [
                 "Akikawa"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "My apologies! I was distracted by the sight of a promising trainer!!"
+            "text": "My apologies! I was distracted by the sight \nof a promising trainer!!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Once again, I am the principal of this school, Akikawa! It is nice to meet you, New Trainer-kun!",
+            "text": "Once again, I am the principal of \nthis school, Akikawa! It is nice \nto meet you, New Trainer-kun!",
             "color_text_info_list": [
                 "Akikawa"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "First off… Come on! Tell me more about yourself!"
+            "text": "First off… Come on! Tell \nme more about yourself!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Welcome! Trainer <username>, you're now a member of Tracen Academy!"
+            "text": "Welcome! Trainer <username>, you're now a \nmember of Tracen Academy!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Your expectations!! Please use your skills to make your horsegirls' dreams come true, together!"
+            "text": "Your expectations!! Please use your \nskills to make your horsegirls' \ndreams come true, together!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "What the horsegirls at this academy aspire to is… their greatest stage as runners; the Twinkle Series.",
+            "text": "What the horsegirls at this academy aspire to \nis… their greatest stage as runners; the \nTwinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "It's your job as trainer to help your horsegirl. To teach her! To guide her! To support her!"
+            "text": "It's your job as trainer to help \nyour horsegirl. To teach her! To \nguide her! To support her!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "And more! Endeavor to live up to that trainer badge on your chest!!"
+            "text": "And more! Endeavor to live up \nto that trainer badge on your chest!!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Well then, without further ado… let's get to training, Trainer <username>!"
+            "text": "Well then, without further ado… let's get to \ntraining, Trainer <username>!"
         }
     ]
 }

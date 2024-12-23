@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "But first — let's go visit the statue of the Three Goddesses.",
+            "text": "But first — let's go visit the \nstatue of the Three Goddesses.",
             "color_text_info_list": [
                 "statue of the Three Goddesses"
             ]

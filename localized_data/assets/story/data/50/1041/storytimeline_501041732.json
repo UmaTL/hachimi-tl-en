@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaaah～ Another day full of Bakushin-ness～"
+            "text": "Haaaah～ Another day full of \nBakushin-ness～"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……Hmm! Did someone call me!?"
+            "text": "……Hmm! \nDid someone call me!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……There doesn't seem to be anyone here, is there?"
+            "text": "……There doesn't seem to be anyone here, \nis there?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Three female gods!! Do you three know who called for me!?"
+            "text": "Three female gods!! \nDo you three know who called for me!?"
         }
     ]
 }

@@ -1,21 +1,22 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It's been quite the ride with Gold Ship in her quest for Eden so far, but—"
+            "text": "It's been quite the ride with Gold Ship \nin her quest for Eden so far, but—"
         },
         {
-            "text": "We somehow managed to get ready for her debut…"
+            "text": "We somehow managed to \nget ready for her debut…"
         },
         {
-            "text": "If there's anything to be concerned about, it's Gold Ship's mood. However—"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Yeah, that's it! Awesome, go for it!"
+            "text": "If there's anything to be concerned about, \nit's Gold Ship's mood. However—"
         },
         {
             "name": "Gold Ship",
-            "text": "Now when's she gonna <i>shake</i>…! Aaah, I can't look away from this!",
+            "text": "Yeah, that's it! \nAwesome, go for it!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Now when's she gonna <i>shake</i>…! \nAaah, I can't look away from this!",
             "choice_data_list": [
                 "What are you looking at……?",
                 "What are you looking at……?"
@@ -23,22 +24,22 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Huh? What, you say? A chihuahua through a chikuwa."
+            "text": "Huh? What, you say? A chihuahua \nthrough a chikuwa."
         },
         {
             "name": "Gold Ship",
-            "text": "There are things to be learned by peering through the narrow field of view of the chikuwa's hole."
+            "text": "There are things to be learned by peering \nthrough the narrow field of view of the \nchikuwa's hole."
         },
         {
             "name": "Gold Ship",
-            "text": "That chihuahua must have thought long and hard about the timing to give its paw."
+            "text": "That chihuahua must have thought long \nand hard about the timing to give its paw."
         },
         {
             "name": "Gold Ship",
-            "text": "The same way horsegirls think about when to start spurting, how to make their moves."
+            "text": "The same way horsegirls think about when \nto start spurting, how to make their moves."
         },
         {
-            "text": "I'm not sure I follow but it seems Gold Ship is thinking about the race in her own way… I believe?"
+            "text": "I'm not sure I follow but it seems \nGold Ship is thinking about the race \nin her own way… I believe?"
         },
         {
             "name": "Gold Ship",
@@ -46,10 +47,10 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Yooo what the, she went with <i>down</i> instead! You're supposed to <i>shake</i>!"
+            "text": "Yooo what the, she went with <i>down</i> \ninstead! You're supposed to <i>shake</i>!"
         },
         {
-            "text": "Either way for now it seems all I can do is pray she takes the race seriously…!"
+            "text": "Either way for now it seems all I can do \nis pray she takes the race seriously…!"
         }
     ]
 }

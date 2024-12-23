@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, as I was heading to the trainer's office…"
+            "text": "One day, as I was heading to the \ntrainer's office…"
         },
         {
             "name": "Vodka",
-            "text": "『The heavens, Yui, and I alone……I'll beat you!!』"
+            "text": "『The heavens, Yui, and I \nalone……I'll beat you!!』"
         },
         {
             "name": "Vodka",
-            "text": "That's kinda weird. Let's do it a little more… ”I'll beat you to a pulp!!”",
+            "text": "That's kinda weird. Let's \ndo it a little more… ”I'll \nbeat you to a pulp!!”",
             "choice_data_list": [
                 "Bullied…?"
             ]
@@ -20,11 +21,11 @@
         },
         {
             "name": "Vodka",
-            "text": "Wait a minute, don't tell anyone, okay?! It's stupid to be able to watch cool practice!"
+            "text": "Wait a minute, don't tell anyone, \nokay?! It's stupid to be able to \nwatch cool practice!"
         },
         {
             "name": "Vodka",
-            "text": "Besides, it's actually way cooler than that. I didn't even finish it!",
+            "text": "Besides, it's actually way cooler \nthan that. I didn't even finish it!",
             "choice_data_list": [
                 "What's that supposed to mean?",
                 "What's that supposed to mean?"
@@ -32,15 +33,15 @@
         },
         {
             "name": "Vodka",
-            "text": "Yeah, it's a scene from one of my favorite delinquent manga. I swear on Gekokujou and declare war on the top."
+            "text": "Yeah, it's a scene from one \nof my favorite delinquent manga. \nI swear on Gekokujou and declare \nwar on the top."
         },
         {
             "name": "Vodka",
-            "text": "“I'm the only one in the whole world who can do this!”"
+            "text": "“I'm the only one in the whole \nworld who can do this!”"
         },
         {
             "name": "Vodka",
-            "text": "But it's kinda different when I say it… Maybe it's not wild enough…",
+            "text": "But it's kinda different when I \nsay it… Maybe it's not wild enough…",
             "choice_data_list": [
                 "Why don't you make it look wild?",
                 "Why don't you try striking \na wild pose?"
@@ -48,33 +49,33 @@
         },
         {
             "name": "Vodka",
-            "text": "Look at what they look like…! So that's what they're up to! That's right, those guys from the manga are really mad!"
+            "text": "Look at what they look like…! So \nthat's what they're up to! That's \nright, those guys from the manga \nare really mad!"
         },
         {
             "name": "Vodka",
-            "text": "You might be able to tell what kind of world she's looking at!"
+            "text": "You might be able to tell what \nkind of world she's looking at!"
         },
         {
             "name": "Vodka",
-            "text": "Alright, alright! I'm gonna get a little excited! Thanks!"
+            "text": "Alright, alright! I'm gonna get a \nlittle excited! Thanks!"
         },
         {
-            "text": "After that, I heard a rumor that Vodka was working out at the gym."
-        },
-        {
-            "name": "Vodka",
-            "text": "A wild pose, huh……? That was definitely a cool pose……"
+            "text": "After that, I heard a rumor that \nVodka was working out at the gym."
         },
         {
             "name": "Vodka",
-            "text": "Like this? Or like this? Would you prefer this? You're striking a surprisingly pose! Don't use your muscles!"
+            "text": "A wild pose, huh……? That was \ndefinitely a cool pose……"
         },
         {
             "name": "Vodka",
-            "text": "I'm so excited! I'm gonna go get a mirror! Thanks!"
+            "text": "Like this? Or like this? Would \nyou prefer this? You're striking \na surprisingly pose! Don't \nuse your muscles!"
         },
         {
-            "text": "It looked like Vodka's research into poses had been enthusiastically conducted until late at night."
+            "name": "Vodka",
+            "text": "I'm so excited! I'm gonna go get a \nmirror! Thanks!"
+        },
+        {
+            "text": "It looked like Vodka's research \ninto poses had been \nenthusiastically conducted until \nlate at night."
         }
     ]
 }

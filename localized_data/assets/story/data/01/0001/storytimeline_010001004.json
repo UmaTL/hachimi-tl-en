@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Splendid!! You've completed your goal!! Applause!! Applause!!!!"
+            "text": "Splendid!! You've completed your goal!! \nApplause!! Applause!!!!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Depending on the horsegirl you're training, their goals will be different."
+            "text": "Depending on the horsegirl you're training, \ntheir goals will be different."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "When you're training, please train your horse girl with the aim of achieving her goals!"
+            "text": "When you're training, please train your horse \ngirl with the aim of achieving her goals!"
         }
     ]
 }

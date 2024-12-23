@@ -1,26 +1,27 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let's have your finished \"hall of fame\" horsegirl partake in some racing action!"
+            "text": "Let's have your finished \"hall of fame\" \nhorsegirl partake in some racing action!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "In the \"Daily Races\" you can earn money and support points, among a few other things.",
+            "text": "In the \"Daily Races\" you can earn money and \nsupport points, among a few other things.",
             "color_text_info_list": [
                 "Daily Races"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You can only enter these a few times per day so make sure to remember them!",
+            "text": "You can only enter these a few times per day \nso make sure to remember them!",
             "color_text_info_list": [
                 "enter these a few times per day"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Let me introduce you to the \"Team Stadium\" as well. Here, horsegirls can compete in a team format.",
+            "text": "Let me introduce you to the \"Team Stadium\" \nas well. Here, horsegirls can compete \nin a team format.",
             "color_text_info_list": [
                 "Team Stadium"
             ]

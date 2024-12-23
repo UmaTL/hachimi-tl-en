@@ -2,36 +2,35 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Haaa… haaaa… \nD-don't leave me behind~…",
-            "name": "Special Week"
+            "name": "Special Week",
+            "text": "Haaa… haaaa… \nD-don't leave me behind~…"
         },
         {
-            "text": "You're late, Spe. What the heck were you doing?",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "You're late, Spe. What the heck were you doing?"
         },
         {
-            "text": "I'm sorry! Even though it's Suzuka-san's race, \nfor some reason I was the one that couldn't sleep…",
-            "name": "Special Week"
+            "name": "Special Week",
+            "text": "I'm sorry! Even though it's Suzuka-san's race, \nfor some reason I was the one that couldn't sleep…"
         },
         {
-            "text": "Looks like you're more nervous than the \none that's supposed to be running…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Looks like you're more nervous than the \none that's supposed to be running…"
         },
         {
-            "text": "It'd be a huge problem if Suzuka was treated as late and had her \nentry revoked because of you, you know?",
-            "name": "Winning Ticket"
+            "name": "Winning Ticket",
+            "text": "It'd be a huge problem if Suzuka was treated as late and had her \nentry revoked because of you, you know?"
         },
         {
-            "text": "Fufufuu…",
-            "name": "Rice Shower"
+            "name": "Rice Shower",
+            "text": "Fufufuu…"
         },
         {
-            "text": "Alright, shall we head to the race track?",
-            "name": "<username>"
+            "text": "Alright, shall we head to the race track?"
         },
         {
-            "text": "Yes.",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Yes."
         },
         {
             "text": "Several months after the [Takarazuka Kinen], on this day-"
@@ -40,76 +39,72 @@
             "text": "[Fall Tenno Sho] is being held at the Tokyo race course, \nSilence Suzuka is participating and is the favorite to win."
         },
         {
-            "text": "Suzuka!",
-            "name": "Air Groove"
+            "name": "Air Groove",
+            "text": "Suzuka!"
         },
         {
-            "text": "Air Groove, and Fukukitaru.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "We came to cheer you on, Suzuka-san!",
-            "name": "Matikanefukukitaru"
-        },
-        {
-            "text": "At [Takarazuka Kinen], you got me. \nToday, I'm here to research your running style for next time.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Wait…? This was for research purposes? I'm pretty sure you \nsaid [Let's go cheer her on] when you invited me…",
-            "name": "Matikanefukukitaru"
-        },
-        {
-            "text": "R-researching your opponents, is just one type of cheering!",
-            "name": "Air Groove"
-        },
-        {
-            "text": "I'll be the one to beat Suzuka, so you'd better make sure to win.",
-            "name": "Air Groove"
-        },
-        {
-            "text": "Yeah, I'll stay in front and make it to the goal.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I'll be praying and cheering for you! Please, do your best!",
-            "name": "Matikanefukukitaru"
-        },
-        {
-            "text": "Fufufuu… I see you believe in providence.",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here.",
-            "name": "<username>"
-        },
-        {
-            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here.",
-            "name": "<username>"
-        },
-        {
-            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!",
-            "name": "<username>"
-        },
-        {
-            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!",
-            "name": "<username>"
-        },
-        {
-            "text": "Running to my heart's content, enjoying the \"scenery\", \nshowing that \"scenery\" to Trainer-san, and finally-",
-            "name": "Silence Suzuka"
-        },
-        {
-            "text": "I swear I'll return to Trainer-san's side.",
             "name": "Silence Suzuka",
+            "text": "Air Groove, and Fukukitaru."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We came to cheer you on, Suzuka-san!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "At [Takarazuka Kinen], you got me. \nToday, I'm here to research your running style for next time."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait…? This was for research purposes? I'm pretty sure you \nsaid [Let's go cheer her on] when you invited me…"
+        },
+        {
+            "name": "Air Groove",
+            "text": "R-researching your opponents, is just one type of cheering!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I'll be the one to beat Suzuka, so you'd better make sure to win."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Yeah, I'll stay in front and make it to the goal."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'll be praying and cheering for you! Please, do your best!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Fufufuu… I see you believe in providence."
+        },
+        {
+            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here."
+        },
+        {
+            "text": "Alright, up ahead is the course, so we'll \nhave to see you off from here."
+        },
+        {
+            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!"
+        },
+        {
+            "text": "But, my \"feelings\" are with you. \nTogether, we'll see that \"scenery\"!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Running to my heart's content, enjoying the \"scenery\", \nshowing that \"scenery\" to Trainer-san, and finally-"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "I swear I'll return to Trainer-san's side.",
             "choice_data_list": [
                 "I believe in you!",
                 "I believe in you!"
             ]
         },
         {
-            "text": "Understood…!",
-            "name": "Silence Suzuka"
+            "name": "Silence Suzuka",
+            "text": "Understood…!"
         }
     ]
 }

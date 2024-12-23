@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Nice Nature",
-            "text": "… Ah, well, you know… chocolates are kind of… standard? Fine, I ran away. But… this is a proper \"Valentine\", alright?"
+            "text": "… Ah, well, you know… chocolates are kind \nof… standard? Fine, I ran away. But… \nthis is a proper \"Valentine\", alright?"
         }
     ]
 }

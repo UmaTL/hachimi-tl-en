@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, we came to the infirmary to have <chrname> checked out."
+            "text": "One day, we came to the infirmary to have \n<chrname> checked out."
         },
         {
             "name": "???",
@@ -9,21 +10,21 @@
         },
         {
             "name": "???",
-            "text": "Injury? Illness? Or mental care? No matter, just leave it all to me!",
+            "text": "Injury? Illness? Or mental care? \nNo matter, just leave it all to me!",
             "choice_data_list": [
                 "…Who are you!?"
             ]
         },
         {
             "name": "???",
-            "text": "Huh? Well, I'm in the infirmary. …I'm a little bit of a fantastic health teacher? Sort of?",
+            "text": "Huh? Well, I'm in the infirmary. \n…I'm a little bit of a fantastic \nhealth teacher? Sort of?",
             "choice_data_list": [
                 "Is that right…?"
             ]
         },
         {
             "name": "???",
-            "text": "A-haha, I can't fool you, can I? I think I'll just go with a normal name."
+            "text": "A-haha, I can't fool you, can I? \nI think I'll just go with a normal name."
         },
         {
             "name": "???",
@@ -31,11 +32,11 @@
         },
         {
             "name": "???",
-            "text": "The savior who (supposedly) guides many Uma Musume! The (self-proclaimed) legendary bamboo needle-er with miraculous skills!"
+            "text": "The savior who (supposedly) guides many \nUma Musume! \nThe (self-proclaimed) legendary \nbamboo needle-er with miraculous skills!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Her name is Shinzami Anshinnzawa! ! Whoa, Anshi～n☆",
+            "text": "Her name is Shinzami Anshinnzawa! ! \nWhoa, Anshi～n☆",
             "choice_data_list": [
                 "………"
             ],
@@ -45,34 +46,34 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Senseeei!! A suspicious person!! There's a suspicious person heeeere!!!!!!"
+            "text": "Senseeei!! A suspicious person!! \nThere's a suspicious person heeeere!!!!!!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Wow, it really doesn't look like you're worried.☆"
+            "text": "Wow, it really doesn't look like you're \nworried.☆"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Wellwellwellwell, for the time being. Now that we've introduced ourselves, let's get ugly, shall we?"
+            "text": "Wellwellwellwell, for the time being. \nNow that we've introduced ourselves, let's \nget ugly, shall we?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hisss! What's with the… stab-er!? W-w-w-what are your intentions with that thing!?"
+            "text": "Hisss! What's with the… stab-er!? \nW-w-w-what are your intentions with that \nthing!?"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "A-ha-ha! Don't sweat it, alright? Just poking a little secret hole with my secret bamboo needle."
+            "text": "A-ha-ha! Don't sweat it, alright? \nJust poking a little secret hole with \nmy secret bamboo needle."
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Then, you'll beee――, super-duper fast… super-duper tough… Anyways, you'll have a ton of suuuuper great things happen to you!",
+            "text": "Then, you'll beee――, super-duper fast… \nsuper-duper tough… \nAnyways, you'll have a ton of suuuuper \ngreat things happen to you!",
             "choice_data_list": [
                 "(Very suspicious…)"
             ]
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Ah! For the record, I'm not suspicious! I've never failed at anything even once before!"
+            "text": "Ah! For the record, I'm not suspicious! I've \nnever failed at anything even once before!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -83,11 +84,11 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Well, well, well, this is my first job, I've never made a mistake in the broadest sense of the word!"
+            "text": "Well, well, well, this is my first \njob, I've never made a mistake in the \nbroadest sense of the word!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "I've had the experience of taking a class on tea with… no, sorry, training under a legendary master for 10 years."
+            "text": "I've had the experience of taking a class on \ntea with… no, sorry, training under a \nlegendary master for 10 years."
         },
         {
             "name": "Anshinzawa Sasami",
@@ -97,7 +98,7 @@
             ]
         },
         {
-            "text": "There was no way I was going to get sucked into this story. I was about to leave with <chrname>, but――"
+            "text": "There was no way I was going to \nget sucked into this story. I was \nabout to leave with <chrname>, but――"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -105,30 +106,30 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "You're Sakura Bakushin O, aren't you!? You're the class president who's always chasing speed, trying to be a role model for anyone and everyone!",
+            "text": "You're Sakura Bakushin O, aren't you!? \nYou're the class president who's always \nchasing speed, trying to be a role \nmodel for anyone and everyone!",
             "choice_data_list": [
                 "…You know of her."
             ]
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Of course I know! I've watched her!! I'm a fan!!"
+            "text": "Of course I know! I've watched her!! \nI'm a fan!!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "I'm here to cheer you on! I'm here to help you, with this!!"
+            "text": "I'm here to cheer you on! I'm \nhere to help you, with this!!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "So pleaaaaase～～～!! Please give me a chaaance～!!"
+            "text": "So pleaaaaase～～～!! \nPlease give me a chaaance～!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I… If it's the kindness of such a passionate fan, I can't let it go unnoticed…"
+            "text": "I… If it's the kindness of such a \npassionate fan, I can't let it go unnoticed…"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Pleasepleasepleaaase! I'll even let you pick which vital point you want me to prick!"
+            "text": "Pleasepleasepleaaase! \nI'll even let you pick which vital \npoint you want me to prick!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -143,14 +144,14 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Oh, no, not probably, maybe close to absolutely? Sort of? …Well, the details don't matter!"
+            "text": "Oh, no, not probably, maybe close to \nabsolutely? Sort of? \n…Well, the details don't matter!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "What kind of secrets will you aim for!? There's the ability boost, the health boost… Charm boost, you name it!!"
+            "text": "What kind of secrets will you aim for!? \nThere's the ability boost, the health boost… \nCharm boost, you name it!!"
         },
         {
-            "text": "…This reeks of danger, but there's a possibility that it could be very effective… a possibility."
+            "text": "…This reeks of danger, but there's \na possibility that it could be very \neffective… a possibility."
         },
         {
             "text": "What should I do…?",
@@ -164,11 +165,11 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Hm-hm, the \"vital point that'll make a strong Uma Musume,\" is it!"
+            "text": "Hm-hm, the \"vital point that'll \nmake a strong Uma Musume,\" is it!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? Is that alright? …Is that reeeeaaaaaaally alright?",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
@@ -176,7 +177,7 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "OK, OK, leave it to me! Come on, bamboo needle! Find the secret vital point!"
+            "text": "OK, OK, leave it to me! Come \non, bamboo needle! Find the secret \nvital point!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -199,7 +200,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm brimming with Bakushin Power…! I feel like I'm going to Baku-explode!!"
+            "text": "I'm brimming with Bakushin Power…! \nI feel like I'm going to Baku-explode!!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -207,13 +208,13 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "No waaay～～～!! How did I just do that, seriously!?!? I'm a genius～～～～!!"
+            "text": "No waaay～～～!! \nHow did I just do that, seriously!?!? \nI'm a genius～～～～!!"
         },
         {
             "text": "<chrname> had a newfound sense of power!"
         },
         {
-            "text": "Apparently, it seems we've seized the possibility. I felt like we made great strides towards our dream…!"
+            "text": "Apparently, it seems we've seized the \npossibility. \nI felt like we made great strides towards \nour dream…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -221,7 +222,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this… I don't feel like I can Bakushin in the slightest… Hooehhh…"
+            "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
         },
         {
             "text": "<chrname> is visibly out of shape…"
@@ -235,15 +236,15 @@
             "text": "…Wao, farewell～☆"
         },
         {
-            "text": "I shouldn't have gone along with such a suspicious offer… And I felt quite a bit of regret."
+            "text": "I shouldn't have gone along with such \na suspicious offer… And I felt quite \na bit of regret."
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Hm-hm, the \"vital point that'll win races,\" is it!"
+            "text": "Hm-hm, the \"vital point that'll \nwin races,\" is it!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? Is that alright? …Is that reeeeaaaaaaally alright?",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
@@ -251,7 +252,7 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "OK, OK, leave it to me! Come on, bamboo needle! Find the secret vital point!"
+            "text": "OK, OK, leave it to me! Come \non, bamboo needle! Find the secret \nvital point!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -274,7 +275,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm brimming with Bakushin Power…! I feel like I'm going to Baku-explode!!"
+            "text": "I'm brimming with Bakushin Power…! \nI feel like I'm going to Baku-explode!!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -282,13 +283,13 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "No waaay～～～!! How did I just do that, seriously!?!? I'm a genius～～～～!!"
+            "text": "No waaay～～～!! \nHow did I just do that, seriously!?!? \nI'm a genius～～～～!!"
         },
         {
-            "text": "I sensed a big improvement in <chrname>'s skills!"
+            "text": "I sensed a big improvement \nin <chrname>'s skills!"
         },
         {
-            "text": "Apparently, it seems we've seized the possibility. I felt like we made great strides towards our dream…!"
+            "text": "Apparently, it seems we've seized the \npossibility. \nI felt like we made great strides towards \nour dream…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -296,7 +297,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this… I don't feel like I can Bakushin in the slightest… Hooehhh…"
+            "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
         },
         {
             "text": "<chrname> is visibly out of shape…"
@@ -310,15 +311,15 @@
             "text": "…Wao, farewell～☆"
         },
         {
-            "text": "I shouldn't have gone along with such a suspicious offer… And I felt quite a bit of regret."
+            "text": "I shouldn't have gone along with such \na suspicious offer… And I felt quite \na bit of regret."
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Hm-hm, the \"vital point of energy and health,\" is it!"
+            "text": "Hm-hm, the \"vital point of energy \nand health,\" is it!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? Is that alright? …Is that reeeeaaaaaaally alright?",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
@@ -326,7 +327,7 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "OK, OK, leave it to me! Come on, bamboo needle! Find the secret vital point!"
+            "text": "OK, OK, leave it to me! Come \non, bamboo needle! Find the secret \nvital point!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -349,7 +350,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm brimming with Bakushin Power…! I feel like I'm going to Baku-explode!!"
+            "text": "I'm brimming with Bakushin Power…! \nI feel like I'm going to Baku-explode!!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -357,13 +358,13 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "No waaay～～～!! How did I just do that, seriously!?!? I'm a genius～～～～!!"
+            "text": "No waaay～～～!! \nHow did I just do that, seriously!?!? \nI'm a genius～～～～!!"
         },
         {
-            "text": "<chrname>'s whole body was so shiny it, looked like it was about to start glowing! A healthy burst of energy surged within her…!"
+            "text": "<chrname>'s whole body was so shiny it, \nlooked like it was about to start glowing! \nA healthy burst of energy surged \nwithin her…!"
         },
         {
-            "text": "Apparently, it seems we've seized the possibility. I felt like we made great strides towards our dream…!"
+            "text": "Apparently, it seems we've seized the \npossibility. \nI felt like we made great strides towards \nour dream…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -371,7 +372,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this… I don't feel like I can Bakushin in the slightest… Hooehhh…"
+            "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
         },
         {
             "text": "<chrname> is visibly out of shape…"
@@ -385,15 +386,15 @@
             "text": "…Wao, farewell～☆"
         },
         {
-            "text": "I shouldn't have gone along with such a suspicious offer… And I felt quite a bit of regret."
+            "text": "I shouldn't have gone along with such \na suspicious offer… And I felt quite \na bit of regret."
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Hm-hm, the \"vital point that'll bring increased charm,\" is it!"
+            "text": "Hm-hm, the \"vital point that'll \nbring increased charm,\" is it!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Then, I'm gonna go stabby-stab, right? Is that alright? …Is that reeeeaaaaaaally alright?",
+            "text": "Then, I'm gonna go stabby-stab, right? \nIs that alright? \n…Is that reeeeaaaaaaally alright?",
             "choice_data_list": [
                 "Yes",
                 "No"
@@ -401,7 +402,7 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "OK, OK, leave it to me! Come on, bamboo needle! Find the secret vital point!"
+            "text": "OK, OK, leave it to me! Come \non, bamboo needle! Find the secret \nvital point!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -424,7 +425,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm brimming with Bakushin Power…! I feel like I'm going to Baku-explode!!"
+            "text": "I'm brimming with Bakushin Power…! \nI feel like I'm going to Baku-explode!!"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -432,13 +433,13 @@
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "No waaay～～～!! How did I just do that, seriously!?!? I'm a genius～～～～!!"
+            "text": "No waaay～～～!! \nHow did I just do that, seriously!?!? \nI'm a genius～～～～!!"
         },
         {
-            "text": "<chrname> exuded a charm that made everyone on the street want to do a double take!"
+            "text": "<chrname> exuded a charm that made \neveryone on the street want to do \na double take!"
         },
         {
-            "text": "Apparently, it seems we've seized the possibility. I felt like we made great strides towards our dream…!"
+            "text": "Apparently, it seems we've seized the \npossibility. \nI felt like we made great strides towards \nour dream…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -446,7 +447,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this… I don't feel like I can Bakushin in the slightest… Hooehhh…"
+            "text": "What's this… I don't feel like I can \nBakushin in the slightest… Hooehhh…"
         },
         {
             "text": "<chrname> is visibly out of shape…"
@@ -460,7 +461,7 @@
             "text": "…Wao, farewell～☆"
         },
         {
-            "text": "I shouldn't have gone along with such a suspicious offer… And I felt quite a bit of regret."
+            "text": "I shouldn't have gone along with such \na suspicious offer… And I felt quite \na bit of regret."
         },
         {
             "name": "Anshinzawa Sasami",
@@ -472,7 +473,7 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "――Hey, you! Aren't you trespassing on campus!?"
+            "text": "――Hey, you! \nAren't you trespassing on campus!?"
         },
         {
             "name": "Anshinzawa Sasami",
@@ -488,30 +489,30 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What speed…! Just as I expected of a fan who's been watching me run!!"
+            "text": "What speed…! \nJust as I expected of a fan who's been \nwatching me run!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I must continue to show you my exemplary Bakushin!!",
+            "text": "I must continue to show you \nmy exemplary Bakushin!!",
             "choice_data_list": [
                 "Guess so.",
                 "Guess so."
             ]
         },
         {
-            "text": "I've decided to forget about today's incident, since it seems there's no point in thinking about who Anshinzawa was…"
+            "text": "I've decided to forget about today's \nincident, since it seems there's no point in \nthinking about who Anshinzawa was…"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "Oh, my, did you make a mistake? Weeell, it happens, it happens, doesn't it!"
+            "text": "Oh, my, did you make a mistake? \nWeeell, it happens, it happens, doesn't it!"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "So, tell me one more time. Which vital point will you aim for!?"
+            "text": "So, tell me one more time. \nWhich vital point will you aim for!?"
         },
         {
             "name": "Anshinzawa Sasami",
-            "text": "You're making me nervous! No, but wait, if you're taking this long—"
+            "text": "You're making me nervous! No, but wait, if \nyou're taking this long—"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -530,10 +531,10 @@
             "text": "Oh, no! Wait, wait, wait, wait!"
         },
         {
-            "text": "… If you've been worrying about it for any length of time, it's kind of fizzled out."
+            "text": "… If you've been worrying \nabout it for any length of time, \nit's kind of fizzled out."
         },
         {
-            "text": "She and… <chrname> looked at each other and twisted their heads to see what was going on."
+            "text": "She and… <chrname> looked at \neach other and twisted their heads \nto see what was going on."
         }
     ]
 }

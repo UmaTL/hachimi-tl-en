@@ -5,22 +5,16 @@
             "text": "Our training for the \nSpring Tennō Shō has begun in earnest."
         },
         {
-            "text": "Controlling my breathing \nhas gotten much easier.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Controlling my breathing \nhas gotten much easier."
         },
         {
-            "text": "Now that we've finished today's regimen, \nwhat do we do now?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Now that we've finished today's regimen, \nwhat do we do now?"
         },
         {
-            "text": "If it's okay with you, \nI'd like to continue running.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Hmm, there doesn't seem to be any harm in it, \nand she looks like she really wants to…",
-            "choice_data_list": [
-                "Okay, one more lap!"
-            ]
+            "name": "Mejiro McQueen",
+            "text": "If it's okay with you, \nI'd like to continue running."
         },
         {
             "text": "Hmm, there doesn't seem to be any harm in it, \nand she looks like she really wants to…",
@@ -29,12 +23,18 @@
             ]
         },
         {
-            "text": "Hehe, thank you. \nI could never be satisfied with that amount of training.",
-            "name": "Mejiro McQueen"
+            "text": "Hmm, there doesn't seem to be any harm in it, \nand she looks like she really wants to…",
+            "choice_data_list": [
+                "Okay, one more lap!"
+            ]
         },
         {
-            "text": "Here I go!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hehe, thank you. \nI could never be satisfied with that amount of training."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Here I go!"
         },
         {
             "text": "It feels as though this is the first time I've truly trained with \nMejiro McQueen since inheriting this team."
@@ -46,16 +46,14 @@
             "text": "I guess this is because we finally have a \ngoal we're striving towards, together."
         },
         {
-            "text": "Trainer-san, hello! \nMcQueen is looking great!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Trainer-san, hello! \nMcQueen is looking great!"
         },
         {
-            "text": "Oh, hey Ryan.",
-            "name": "<username>"
+            "text": "Oh, hey Ryan."
         },
         {
-            "text": "Oh, hey Ryan.",
-            "name": "<username>"
+            "text": "Oh, hey Ryan."
         },
         {
             "text": "Mejiro Ryan looked so happy for her."
@@ -64,19 +62,19 @@
             "text": "The only reason that Mejiro McQueen was able to recover was \nbecause of the advice you gave me, Mejiro Ryan."
         },
         {
-            "text": "Now that my rival is back in form, I have to do my best to try \nand win the Spring Tennō Shō as well!",
             "name": "Mejiro Ryan",
+            "text": "Now that my rival is back in form, I have to do my best to try \nand win the Spring Tennō Shō as well!",
             "choice_data_list": [
                 "Ryan, thank you."
             ]
         },
         {
-            "text": "Ehehe, thank you too. \nI'm so glad I talked you.",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Ehehe, thank you too. \nI'm so glad I talked you."
         },
         {
-            "text": "This race is getting exciting, huh? \nEven though I'll be the one winning it!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "This race is getting exciting, huh? \nEven though I'll be the one winning it!"
         },
         {
             "text": "In order to win the Spring Tennō Shō, we need to make sure that \nMejiro McQueen is in top condition."
@@ -88,44 +86,40 @@
             "text": "A few days later… the day that Mejiro McQueen had been longing \nfor finally arrived, the Spring Tennō Shō."
         },
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…"
         },
         {
-            "text": "…",
-            "name": "<username>"
+            "text": "…"
         },
         {
-            "text": "So what do you want to eat after the race?",
-            "name": "<username>"
+            "text": "So what do you want to eat after the race?"
         },
         {
-            "text": "Eh…? Err, well… We are in Kyoto, \nso how about some local cuisine?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Eh…? Err, well… We are in Kyoto, \nso how about some local cuisine?"
         },
         {
-            "text": "Okay…",
-            "name": "<username>"
+            "text": "Okay…"
         },
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…"
         },
         {
-            "text": "Um… that was an awful \nattempt at relieving the tension.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Um… that was an awful \nattempt at relieving the tension."
         },
         {
-            "text": "Seems so…",
-            "name": "<username>"
+            "text": "Seems so…"
         },
         {
-            "text": "Jeez, get it together. Keeping calm is an \nimportant skill for trainers you know.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Jeez, get it together. Keeping calm is an \nimportant skill for trainers you know."
         },
         {
-            "text": "I'm worried that you've already \nlost all of your motivation.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I'm worried that you've already \nlost all of your motivation."
         },
         {
             "text": "It's times like this that make \nme envy Sensei's sociable nature."
@@ -143,19 +137,19 @@
             ]
         },
         {
-            "text": "…Hehe. Please do.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…Hehe. Please do."
         },
         {
-            "text": "My dream is finally within my grasp. \nNow I just need to reach out and grab it.",
             "name": "Mejiro McQueen",
+            "text": "My dream is finally within my grasp. \nNow I just need to reach out and grab it.",
             "choice_data_list": [
                 "You can do it, McQueen!"
             ]
         },
         {
-            "text": "I'll definitely win, just you wait!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I'll definitely win, just you wait!"
         }
     ]
 }

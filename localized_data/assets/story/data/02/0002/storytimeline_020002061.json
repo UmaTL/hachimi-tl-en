@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Commentator",
-            "text": "Towards the Triple crown horse girl, Mihono Bourbon appears here at the Keito racetrack!"
+            "text": "Towards the Triple crown horse girl, Mihono Bourbon appears here \nat the Keito racetrack!"
         },
         {
             "name": "Cheers",
@@ -10,14 +11,14 @@
         },
         {
             "name": "Spectator A",
-            "text": "Mihono Bourbon! show me the moment of the Triple Crown horse girl's birth!"
+            "text": "Mihono Bourbon! show me the moment of \nthe Triple Crown horse girl's birth!"
         },
         {
             "name": "Spectator B",
             "text": "I believe in your victory!"
         },
         {
-            "text": "The (Kikkashou). The day of the confrontation between Rice Shower and Mihono Bourbon has finally arrived."
+            "text": "The (Kikkashou). The day of the confrontation between Rice Shower \nand Mihono Bourbon has finally arrived."
         },
         {
             "name": "Rice Shower",
@@ -41,11 +42,11 @@
         },
         {
             "name": "Horsegirl with Black Bob-cut",
-            "text": "The (Kikkashou). its 3000m in turf, there is a chance for Rice, who is good at long distance, right?"
+            "text": "The (Kikkashou). its 3000m in turf, there is a chance for Rice, \nwho is good at long distance, right?"
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "However, there is no reason that Bourbon has not planned any countermeasures."
+            "text": "However, there is no reason that Bourbon \nhas not planned any countermeasures."
         },
         {
             "name": "Gold Ship",
@@ -64,18 +65,18 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, rather than Bourbon herself, I'm worried about how the fans will react, when Rice wins they might――"
+            "text": "However, rather than Bourbon herself, I'm worried about how the \nfans will react, when Rice wins they might――"
         },
         {
             "name": "Cheers",
             "text": "(Cheering!!)"
         },
         {
-            "text": "As if to block Mejiro McQueen's words, The cheers before the start echoed in the race field."
+            "text": "As if to block Mejiro McQueen's words, The cheers before the \nstart echoed in the race field."
         },
         {
             "name": "Commentator",
-            "text": "it's now the start of The Kikkashou Award for the last glory of the classic race."
+            "text": "it's now the start of The Kikkashou Award \nfor the last glory of the classic race."
         }
     ]
 }

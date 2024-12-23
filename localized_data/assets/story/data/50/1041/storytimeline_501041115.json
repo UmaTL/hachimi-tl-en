@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, while I was training with Sakura Bakushin O for the race, I received some great news."
+            "text": "One day, while I was training with \nSakura Bakushin O for the race, \nI received some great news."
         },
         {
-            "text": "Sakura Bakushin O has been selected as the \"Hottest Uma Musume of the Year.\" I'm looking for her to report it to her…"
+            "text": "Sakura Bakushin O has been selected as \nthe \"Hottest Uma Musume of the Year.\" \nI'm looking for her to report it to her…"
         },
         {
             "name": "Classmate A",
@@ -12,7 +13,7 @@
         },
         {
             "name": "Classmate B",
-            "text": "It's amazing to be published in such a prestigious magazine. Looks like speed really is the most important thing, huh?"
+            "text": "It's amazing to be published in such a \nprestigious magazine. Looks like speed \nreally is the most important thing, huh?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -20,26 +21,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As expected of such a brilliant class president, I seem to have impressed you all!"
+            "text": "As expected of such a brilliant class \npresident, I seem to have impressed you all!"
         },
         {
             "name": "Classmate B",
             "text": "I didn't say that much…"
         },
         {
-            "text": "There seems to be some kind of buzz around her classmates. I'll talk to her later…"
+            "text": "There seems to be some kind of buzz \naround her classmates. \nI'll talk to her later…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah, Trainer! Greetings!"
+            "text": "Ah, Trainer! \nGreetings!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You've come to the right place! I'm getting a ton of compliments right now!"
+            "text": "You've come to the right place! I'm getting \na ton of compliments right now!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, I am brilliant, so it's only natural! Trainer, come join us!",
+            "text": "Well, I am brilliant, so it's only natural! \nTrainer, come join us!",
             "choice_data_list": [
                 "What was she complimenting you on?",
                 "What was she complimenting you on?"
@@ -55,7 +56,7 @@
         },
         {
             "name": "Classmate A",
-            "text": "Bakushin O-chan was chosen as the \"Featured Uma Musume of the Year\" by a magazine…"
+            "text": "Bakushin O-chan was chosen as the \n\"Featured Uma Musume of the Year\" by a \nmagazine…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -63,7 +64,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Spectacular! Everyone in the media, you have an excellent eye!"
+            "text": "Spectacular! \nEveryone in the media, you have an \nexcellent eye!"
         },
         {
             "name": "Classmate A",
@@ -71,22 +72,22 @@
         },
         {
             "name": "Classmate B",
-            "text": "You knew she was like this. Trainer, I'll ask you to take care of the rest."
+            "text": "You knew she was like this. \nTrainer, I'll ask you to take care of the rest."
         },
         {
-            "text": "Her classmates simply left. I can see why she's usually standing on her own…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It seems the times have finally caught up with my Bakushin-ing!"
+            "text": "Her classmates simply left. \nI can see why she's usually standing on \nher own…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let me take a look at that magazine straightaway――"
+            "text": "It seems the times have finally caught up \nwith my Bakushin-ing!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!? Where is everyone!?",
+            "text": "Let me take a look at that magazine \nstraightaway――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eh!? \nWhere is everyone!?",
             "choice_data_list": [
                 "They left.",
                 "They left."
@@ -94,25 +95,25 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see! Then, I must go and look for the magazine!",
+            "text": "I see! \nThen, I must go and look for the magazine!",
             "choice_data_list": [
                 "It's in the Trainers' office.",
                 "It's in the Trainers' office."
             ]
         },
         {
-            "text": "I told Sakura Bakushin O that I was looking for her just to talk about it."
+            "text": "I told Sakura Bakushin O that I was looking \nfor her just to talk about it."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Is that so!! Now, to the Trainer's office!"
+            "text": "Is that so!! \nNow, to the Trainer's office!"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Bakushin!"
         },
         {
-            "text": "――and, thus far, Sakura Bakushin O had been in a good mood, however…"
+            "text": "――and, thus far, Sakura Bakushin O had \nbeen in a good mood, however…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -120,53 +121,53 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's all this! This is… In the name of class president, I must object!",
+            "text": "What's all this! \nThis is… In the name of class president, \nI must object!",
             "choice_data_list": [
                 "There's some pretty good stuff in there."
             ]
         },
         {
-            "text": "Big journalists voted on the most popular Uma Musume. If you look at the comments on her, they're all rave reviews, but…"
+            "text": "Big journalists voted on the most popular \nUma Musume. If you look at the comments \non her, they're all rave reviews, but…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No! You're overlooking something very important!"
+            "text": "No! \nYou're overlooking something very \nimportant!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To begin with! Why did they put me in the \"short distance\" category?!"
+            "text": "To begin with! Why did they put me in the \n\"short distance\" category?!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Saying I'm the \"Sprint Favourite\" and so on… Those media folk are short-sighted! No, blind!",
+            "text": "Saying I'm the \"Sprint Favourite\" and so \non… Those media folk are short-sighted! \nNo, blind!",
             "choice_data_list": [
                 "(I guess the pun wasn't intentional.)"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Is this really okay? I'm an Uma Musume who can't be confined in such a small category as \"short-distance\"!"
+            "text": "Is this really okay? \nI'm an Uma Musume who can't be confined \nin such a small category as \n\"short-distance\"!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If you want to know why! It's because I'm the class president!"
+            "text": "If you want to know why! \nIt's because I'm the class president!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And yet, to be shoved into a box like this… is frustrating!"
+            "text": "And yet, to be shoved into a box like \nthis… is frustrating!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This year, we'll definitely, absolutely win the Classic and show them what we're made of!"
+            "text": "This year, we'll definitely, absolutely \nwin the Classic and show them what \nwe're made of!"
         },
         {
-            "text": "…Apparently, the praise from the reporters only served to ignite Sakura Bakushin O's competitive spirit."
+            "text": "…Apparently, the praise from the \nreporters only served to ignite Sakura \nBakushin O's competitive spirit."
         },
         {
-            "text": "As much as I'd love to let her win the Classic, at this point I can't see her getting results outside of sprints."
+            "text": "As much as I'd love to let her win the \nClassic, at this point I can't see her \ngetting results outside of sprints."
         },
         {
-            "text": "…I've got to convince Sakura Bakushin O to do whatever it takes!",
+            "text": "…I've got to convince Sakura Bakushin O \nto do whatever it takes!",
             "choice_data_list": [
                 "I have an idea."
             ]
@@ -181,24 +182,24 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Huuh…? Mm, what is the meaning of this?"
+            "text": "Huuh…? \nMm, what is the meaning of this?"
         },
         {
-            "text": "<i>I</i> believe that Sakura Bakushin O is an amazingly talented Uma Musume who can win every single race."
+            "text": "<i>I</i> believe that Sakura Bakushin O is \nan amazingly talented Uma Musume who \ncan win every single race."
         },
         {
-            "text": "However, it's true, she's still developing. Depending on the Spring Stakes results, I may need to rethink her training."
+            "text": "However, it's true, she's still developing. \nDepending on the Spring Stakes results, \nI may need to rethink her training."
         },
         {
-            "text": "Depending on the results, I'd like to develop her exceptional speed on shorter distances, mainly. That's what I told her…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Does that mean that there is a possibility that… I won't run the Classic this year!?"
+            "text": "Depending on the results, I'd like to develop \nher exceptional speed on shorter distances, \nmainly. That's what I told her…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's going to be a big pileup on Bakushin Road, isn't it!?",
+            "text": "Does that mean that there is a possibility \nthat… I won't run the Classic this year!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That's going to be a big pileup on \nBakushin Road, isn't it!?",
             "choice_data_list": [
                 "We have to go through thick and thin to reach our goal!!"
             ]
@@ -212,29 +213,29 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh… Ohhhhh…! I'm not sure I understand, but――"
+            "text": "Oh… Ohhhhh…! \nI'm not sure I understand, but――"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "――that's kind of cool!!"
         },
         {
-            "text": "…I think I'm starting to understand how to handle her, or rather, how to guide her."
+            "text": "…I think I'm starting to understand how to \nhandle her, or rather, how to guide her."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Okay, I understand… Let's swear on it! You are a trustworthy person."
+            "text": "Okay, I understand… Let's swear on it! \nYou are a trustworthy person."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In the unlikely event that I lose, I'll focus on short distance training."
+            "text": "In the unlikely event that I lose, I'll focus \non short distance training."
         },
         {
             "name": "Sakura Bakushin O",
             "text": "If it leads to the future!"
         },
         {
-            "text": "I'm not lying when I say it's the future. Anyway, now I had the means to convince her to train for the short distance."
+            "text": "I'm not lying when I say it's the future. \nAnyway, now I had the means to convince \nher to train for the short distance."
         }
     ]
 }

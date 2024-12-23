@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One weekend, on my way out, I passed by the Academy gate…"
+            "text": "One weekend, on my way out, I \npassed by the Academy gate…"
         },
         {
             "name": "Vodka",
@@ -9,7 +10,7 @@
         },
         {
             "name": "Vodka",
-            "text": "D-D-D-Don't do something so soft in the middle of town, you idiot!"
+            "text": "D-D-D-Don't do something so soft \nin the middle of town, you idiot!"
         },
         {
             "name": "Vodka",
@@ -21,11 +22,11 @@
         },
         {
             "name": "Vodka",
-            "text": "D-Dammit… If we don't hurry, we're gonna run out of photo books!"
+            "text": "D-Dammit… If we don't hurry, we're \ngonna run out of photo books!"
         },
         {
             "name": "Vodka",
-            "text": "Hey, you! Don't you know how to avoid the guys on the main street?!",
+            "text": "Hey, you! Don't you know how to \navoid the guys on the main street?!",
             "choice_data_list": [
                 "Use side roads",
                 "At full speed."
@@ -33,11 +34,11 @@
         },
         {
             "name": "Vodka",
-            "text": "A side road…! Oh, right! I forgot there was another way!"
+            "text": "A side road…! Oh, right! I forgot \nthere was another way!"
         },
         {
             "name": "Vodka",
-            "text": "It's a bit of a mess, but it can't be helped! Hurry up and go around!"
+            "text": "It's a bit of a mess, but it can't \nbe helped! Hurry up and go around!"
         },
         {
             "name": "Vodka",
@@ -45,15 +46,15 @@
         },
         {
             "name": "Vodka",
-            "text": "…Just so you know, I'm not scared of you or anything! Don't get the wrong idea!"
+            "text": "…Just so you know, I'm not scared \nof you or anything! Don't get the \nwrong idea!"
         },
         {
             "name": "Vodka",
-            "text": "Sprinting at full speed……! You want me to run through before I see you!?"
+            "text": "Sprinting at full speed……! \nYou want me to run through \nbefore I see you!?"
         },
         {
             "name": "Vodka",
-            "text": "No, I can do it! I can do it! I can run faster than the light!"
+            "text": "No, I can do it! I can do it! I \ncan run faster than the light!"
         },
         {
             "name": "Vodka",
@@ -61,7 +62,7 @@
         },
         {
             "name": "Vodka",
-            "text": "…No, don't be scared. I just hate soft stuff! Don't get the wrong idea!"
+            "text": "…No, don't be scared. I \njust hate soft stuff! Don't \nget the wrong idea!"
         }
     ]
 }

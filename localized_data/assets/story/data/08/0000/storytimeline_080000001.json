@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "—This is Tracen Academy.",
@@ -7,13 +8,13 @@
             ]
         },
         {
-            "text": "Many promising Uma Musume gather here, running for the \"Twinkle Series\", the glorious stage they all long for…",
+            "text": "Many promising Uma Musume gather here, \nrunning for the \"Twinkle Series\", the \nglorious stage they all long for…",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
-            "text": "They spend their days in friendly competition, learning with friends, training body and mind…"
+            "text": "They spend their days in friendly \ncompetition, learning with friends, \ntraining body and mind…"
         },
         {
             "text": "… However—"
@@ -32,14 +33,14 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Tazuna! As chairwoman of Tracen Academy, loving Uma Musume with all my heart…",
+            "text": "Tazuna! As chairwoman of Tracen Academy, \nloving Uma Musume with all my heart…",
             "color_text_info_list": [
                 "Tazuna"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Concern! I'm very concerned about the current situation, where they can't fully display their shining individuality!"
+            "text": "Concern! I'm very concerned about the \ncurrent situation, where they can't fully \ndisplay their shining individuality!"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -47,7 +48,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Proposal! I'm planning to organize a new race!",
+            "text": "Proposal! I'm planning to \norganize a new race!",
             "color_text_info_list": [
                 "new race"
             ]
@@ -58,11 +59,11 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Affirmation! Beyond the Twinkle Series they all aspire to!"
+            "text": "Affirmation! Beyond the Twinkle \nSeries they all aspire to!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "I'm creating a new big race, with all distances and all courses!",
+            "text": "I'm creating a new big race, with \nall distances and all courses!",
             "color_text_info_list": [
                 "all distances",
                 "all courses"
@@ -89,7 +90,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Without delay! Get ready for the press conference to share this great news!"
+            "text": "Without delay! Get ready for the press \nconference to share this great news!"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -100,16 +101,16 @@
             "text": "—Yes, ma'am. I'll make the arrangements!"
         },
         {
-            "text": "… This is how the new race — URA Finals — was conceived."
+            "text": "… This is how the new race — \nURA Finals — was conceived."
         },
         {
-            "text": "This race was set up as a stage for all kinds of horse girls to shine."
+            "text": "This race was set up as a stage for \nall kinds of horse girls to shine."
         },
         {
-            "text": "The story of you and your horse girl begins now!"
+            "text": "The story of you and your \nhorse girl begins now!"
         },
         {
-            "text": "The story of you and your horse girl begins now!"
+            "text": "The story of you and your \nhorse girl begins now!"
         }
     ]
 }

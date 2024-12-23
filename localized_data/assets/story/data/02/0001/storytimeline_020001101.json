@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The winner of the race, Mejiro McQueen, unfortunately blocked the \nUma Musume behind her from progressing through the course…",
-            "name": "Announcer"
+            "name": "Announcer",
+            "text": "The winner of the race, Mejiro McQueen, unfortunately blocked the \nUma Musume behind her from progressing through the course…"
         },
         {
-            "text": "Therefore, we will be lowering her placement to 18th place.",
-            "name": "Announcer"
+            "name": "Announcer",
+            "text": "Therefore, we will be lowering her placement to 18th place."
         },
         {
             "text": "On that day, Mejiro Mcqueen had an amazing start and rushed into \nthe inside of the track to ensure she'd be able to stay in a \ngood position moving forward in the race."
@@ -19,135 +19,131 @@
             "text": "This devastating incident was the result of the Uma Musume that \nwas most favored to win, Mejiro McQueen. As such, her actions \nwere widely reported in the media."
         },
         {
-            "text": "McQueen… Are you okay?",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "McQueen… Are you okay?"
         },
         {
-            "text": "Eh!? Oh, of course I am.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Eh!? Oh, of course I am."
         },
         {
-            "text": "While it is true that I was unable to live up \nto my fan's expectations, and that I put the other \nUma Musume in that race in danger…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "While it is true that I was unable to live up \nto my fan's expectations, and that I put the other \nUma Musume in that race in danger…"
         },
         {
-            "text": "That is exactly why I mustn't feel dejected.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "That is exactly why I mustn't feel dejected."
         },
         {
-            "text": "I will make up for my blunder during that race.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I will make up for my blunder during that race."
         },
         {
-            "text": "You're beating yourself up over this, aren't you? Please don't \nblame yourself more than necessary.",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "You're beating yourself up over this, aren't you? Please don't \nblame yourself more than necessary."
         },
         {
-            "text": "I agree! You're going to do great in the next race, I know it!",
-            "name": "Horsegirl with Straight-cut Bangs"
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "I agree! You're going to do great in the next race, I know it!"
         },
         {
-            "text": "You can do it, McQueen-san!",
             "name": "Droopy-eyed Horsegirl",
+            "text": "You can do it, McQueen-san!",
             "choice_data_list": [
-                "<size=42>Let's use this as a learning experience.</size>"
+                "Let's use this as a learning experience."
             ]
         },
         {
-            "text": "Yes, of course I will.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Yes, of course I will."
         },
         {
-            "text": "Oye, I'm back!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Oye, I'm back!"
         },
         {
-            "text": "There were some people out there with cameras and stuff. Don't \nworry though, I caused a scene by calling ‘em degenerates for ya!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "There were some people out there with cameras and stuff. Don't \nworry though, I caused a scene by calling ‘em degenerates for ya!"
         },
         {
-            "text": "Those were reporters… weren't they?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Those were reporters… weren't they?"
         },
         {
-            "text": "They must have been waiting outside to interview me.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "They must have been waiting outside to interview me."
         },
         {
-            "text": "Hmm? Isn't it better this way then? To come this far into campus \nwithout being a student, there's no doubt they were scoundrels.",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Hmm? Isn't it better this way then? To come this far into campus \nwithout being a student, there's no doubt they were scoundrels."
         },
         {
-            "text": "I'd imagine they'd leave soon enough, but maybe we should call \noff training for today since they're here…",
-            "name": "<username>"
+            "text": "I'd imagine they'd leave soon enough, but maybe we should call \noff training for today since they're here…"
         },
         {
-            "text": "I don't mind if they're here. In fact, if they have any questions \nI would be happy to answer them with sincerity.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I don't mind if they're here. In fact, if they have any questions \nI would be happy to answer them with sincerity."
         },
         {
-            "text": "Moreover, I need to make sure that I win my next race so that we \ncan have some favorable news coverage.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Moreover, I need to make sure that I win my next race so that we \ncan have some favorable news coverage."
         },
         {
-            "text": "Now then, I've gotten myself all excited for some \nexercise. I'm heading out, Trainer-san!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Now then, I've gotten myself all excited for some \nexercise. I'm heading out, Trainer-san!"
         },
         {
-            "text": "Ah… okay…",
-            "name": "<username>"
+            "text": "Ah… okay…"
         },
         {
-            "text": "Ah… okay…",
-            "name": "<username>"
+            "text": "Ah… okay…"
         },
         {
-            "text": "The dormitory is right there, you know? I won't \nget lost, so you don't need to walk me back…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "The dormitory is right there, you know? I won't \nget lost, so you don't need to walk me back…"
         },
         {
-            "text": "But I'm sure the reporters will by lying in wait for you.",
-            "name": "<username>"
+            "text": "But I'm sure the reporters will by lying in wait for you."
         },
         {
-            "text": "I told you that I didn't mind answering them though…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I told you that I didn't mind answering them though…"
         },
         {
-            "text": "Ah, McQueen-san! Do you have a comment regarding \nwhat happened durin the Spring Tenno Sho?",
-            "name": "Reporter A"
+            "name": "Reporter A",
+            "text": "Ah, McQueen-san! Do you have a comment regarding \nwhat happened durin the Spring Tenno Sho?"
         },
         {
-            "text": "Why did you run in such a dangerous manner!?",
-            "name": "Reporter B"
+            "name": "Reporter B",
+            "text": "Why did you run in such a dangerous manner!?"
         },
         {
-            "text": "I apologize immensely for any inconvenience my actions may have \ncaused to the other individuals participating in that race.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I apologize immensely for any inconvenience my actions may have \ncaused to the other individuals participating in that race."
         },
         {
-            "text": "I lacked experience, and as such was not conscious of those \naround me, which led to that incident occurring.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I lacked experience, and as such was not conscious of those \naround me, which led to that incident occurring."
         },
         {
-            "text": "What have you done to appease those that \nyou have hindered with your actions?",
-            "name": "Reporter A"
+            "name": "Reporter A",
+            "text": "What have you done to appease those that \nyou have hindered with your actions?"
         },
         {
-            "text": "I have apologized to each and every one of them.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I have apologized to each and every one of them."
         },
         {
-            "text": "Is it true that your trainer instructed you to force \nyour way into the inside of the course?",
-            "name": "Reporter B"
+            "name": "Reporter B",
+            "text": "Is it true that your trainer instructed you to force \nyour way into the inside of the course?"
         },
         {
-            "text": "Trainer-san instructed me to do that!? I \ncan assure you that is not the case!!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san instructed me to do that!? I \ncan assure you that is not the case!!"
         },
         {
-            "text": "My actions were purely based on my own judgement! Trainer-san has \nnothing to do with what happened!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "My actions were purely based on my own judgement! Trainer-san has \nnothing to do with what happened!"
         },
         {
             "text": "Until now, all of Mejiro McQueen's answers were filled with \ncomposure. However, that all changed in an instant."
@@ -168,64 +164,57 @@
             ]
         },
         {
-            "text": "But if we do that, they'll think that \nyou're to blame for what I did…!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "But if we do that, they'll think that \nyou're to blame for what I did…!"
         },
         {
-            "text": "Regardless of what I instructed her to do, the \nresponsibility lies with me since I am her trainer. \nFor that, I too apologize.",
-            "name": "<username>"
+            "text": "Regardless of what I instructed her to do, the \nresponsibility lies with me since I am her trainer. \nFor that, I too apologize."
         },
         {
-            "text": "Trainer-san!!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san!!"
         },
         {
-            "text": "Now let's go, McQueen.",
-            "name": "<username>"
+            "text": "Now let's go, McQueen."
         },
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…"
         },
         {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it.",
-            "name": "<username>"
+            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
         },
         {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it.",
-            "name": "<username>"
+            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
         },
         {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead.",
-            "name": "<username>"
+            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
         },
         {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead.",
-            "name": "<username>"
+            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
         },
         {
-            "text": "Understood…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Understood…"
         },
         {
-            "text": "Umm… Trainer-san…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Umm… Trainer-san…"
         },
         {
-            "text": "I know that we had planned for the Arima Kinen to be my next \nrace, but I would like to race in the Japan Cup before that.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I know that we had planned for the Arima Kinen to be my next \nrace, but I would like to race in the Japan Cup before that."
         },
         {
-            "text": "Are you sure? You're probably still \nfatigued from your previous race…",
-            "name": "<username>"
+            "text": "Are you sure? You're probably still \nfatigued from your previous race…"
         },
         {
-            "text": "Don't worry about that. I'm already ready for another race.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Don't worry about that. I'm already ready for another race."
         },
         {
-            "text": "So please allow me to race in the Japan Cup.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "So please allow me to race in the Japan Cup."
         },
         {
             "text": "Mejiro McQueen likely wanted to make up for her blunder at the \nSpring Tenno Sho as soon as possible by entering the Japan Cup."
@@ -233,24 +222,24 @@
         {
             "text": "She would use this race as a way to atone for what she did to \nappease those who had put their faith in her, and to appease \nthose who she had inconvenienced.",
             "choice_data_list": [
-                "<size=39>Fine… You can race in the Japan Cup next.</size>",
-                "<size=39>Fine… You can race in the Japan Cup next.</size>"
+                "Fine… You can race in the Japan Cup next.",
+                "Fine… You can race in the Japan Cup next."
             ]
         },
         {
-            "text": "Thank you. I will… I will definitely win this race.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Thank you. I will… I will definitely win this race."
         },
         {
             "text": "(Wooooooaaaaah!!)"
         },
         {
-            "text": "McQueen is struggling to bridge the gap! In fact, the gap between \nher and first place is only widening!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "McQueen is struggling to bridge the gap! In fact, the gap between \nher and first place is only widening!"
         },
         {
-            "text": "The favorite to win, Mejiro McQueen, has finished in 4th place!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "The favorite to win, Mejiro McQueen, has finished in 4th place!"
         }
     ]
 }

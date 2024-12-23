@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,18 +7,18 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "How did you spend your day off!? I helped keep the peace downtown with Ms. Biko!"
+            "text": "How did you spend your day off!? \nI helped keep the peace downtown with \nMs. Biko!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We picked up trash, patrolled…… And even did a hero show in the park!"
+            "text": "We picked up trash, patrolled…… \nAnd even did a hero show in the park!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What do you think? As class president and honor student, I've had quite the wonderful and fulfilling holiday!"
+            "text": "What do you think? As class president and \nhonor student, I've had quite the wonderful \nand fulfilling holiday!"
         },
         {
-            "text": "In her own way, Sakura Bakushin O seems to have……enjoyed her holiday!"
+            "text": "In her own way, Sakura Bakushin O seems \nto have……enjoyed her holiday!"
         }
     ]
 }

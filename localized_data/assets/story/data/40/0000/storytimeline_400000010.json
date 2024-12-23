@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "I'm impressed! I'm so proud to have you as a student of our school!"
+            "text": "I'm impressed! I'm so proud to have you as a\nstudent of our school!"
         },
         {
             "name": "Chairwoman Akikawa",
             "text": "Keep up the good work, and push forwards!"
         },
         {
-            "text": "She was very pleased with the way we practiced …"
+            "text": "She was very pleased with\nthe way we practiced …"
         }
     ]
 }

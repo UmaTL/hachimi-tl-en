@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Cheers",
@@ -9,7 +10,7 @@
             "text": "Tickezou! Tickezou!"
         },
         {
-            "text": "After the goal, from the stand to the winner “Tickezou call” was heard."
+            "text": "After the goal, from the stand to the \nwinner “Tickezou call” was heard."
         },
         {
             "name": "Gold Ship",
@@ -37,11 +38,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "It was the best race ever… It was the best Derby ever! Our own Derby!"
+            "text": "It was the best race ever… It was the \nbest Derby ever! Our own Derby!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "However, this is not going to happen next. It's my turn to show my back in the “Kikkashou”."
+            "text": "However, this is not going to happen next. It's my turn to show \nmy back in the “Kikkashou”."
         },
         {
             "name": "Narita Taishin",
@@ -49,17 +50,17 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Of course! Let's continue running with the three of us from now on! Alright! Aim, beyond the Derby～～～!"
+            "text": "Of course! Let's continue running with the three of us from now \non! Alright! Aim, beyond the Derby～～～!"
         },
         {
-            "text": "The voices honoring Winning Ticket echoed in the underground bar in the racetrack."
+            "text": "The voices honoring Winning Ticket echoed \nin the underground bar in the racetrack."
         },
         {
             "name": "Hayakawa Tazuna",
             "text": "It's a great call. You can hear it anywhere on the racetrack."
         },
         {
-            "text": "It may be that Tickezou's feelings were conveyed to the people who supported her."
+            "text": "It may be that Tickezou's feelings were conveyed \nto the people who supported her."
         },
         {
             "name": "Winning Ticket",
@@ -70,25 +71,25 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "I did it! I won the Derby!! Even now it still feels like a dream～!"
+            "text": "I did it! I won the Derby!! Even now \nit still feels like a dream～!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Congratulations, Winning Ticket-san. Ehehe, didn't you want to get more cheering?"
+            "text": "Congratulations, Winning Ticket-san. Ehehe, \ndidn't you want to get more cheering?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Ehehe, that may be right, but there will be an interview after this."
+            "text": "Ehehe, that may be right, but there \nwill be an interview after this."
         },
         {
             "name": "Winning Ticket",
-            "text": "Besides, that's not the end of the goal. I have a chance to get a lot of calls from now on!"
+            "text": "Besides, that's not the end of the goal. I have a chance to get a \nlot of calls from now on!"
         },
         {
-            "text": "Yes, “Winning the Derby” no matter what dream you fulfill, this is not the end."
+            "text": "Yes, “Winning the Derby” no matter what dream \nyou fulfill, this is not the end."
         },
         {
-            "text": "Winning Ticket races will still continueーBecause the drama is still going on.",
+            "text": "Winning Ticket races will still continueーBecause \nthe drama is still going on.",
             "choice_data_list": [
                 "Let's get a lot of calls in the future!"
             ]
@@ -99,7 +100,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Then, Tazuna-san! Let's go to the interview! I refused the interview before the Derby, so I have to respond to that!"
+            "text": "Then, Tazuna-san! Let's go to the interview! I refused the \ninterview before the Derby, so I have to respond to that!"
         },
         {
             "name": "Interviewer",
@@ -111,15 +112,15 @@
         },
         {
             "name": "Interviewer",
-            "text": "After the race's big call, what kind of feeling were you listening to?"
+            "text": "After the race's big call, what kind \nof feeling were you listening to?"
         },
         {
             "name": "Winning Ticket",
-            "text": "I wanted to make it a great Derby, so I was happy that it was transmitted to everyone!"
+            "text": "I wanted to make it a great Derby, so I was happy that it was \ntransmitted to everyone!"
         },
         {
             "name": "Interviewer",
-            "text": "What was the key to winning the battle against your rivals called “BNW”?"
+            "text": "What was the key to winning the battle \nagainst your rivals called “BNW”?"
         },
         {
             "name": "Winning Ticket",
@@ -127,11 +128,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "My feelings for the Derby and my desire to write as a friend and respond to my promises with my rivals in a great way, and thenー"
+            "text": "My feelings for the Derby and my desire to write as a friend and \nrespond to my promises with my rivals in a great way, and thenー"
         },
         {
             "name": "Winning Ticket",
-            "text": "My feelings to make the trainer who supported me so much into a “Derby Trainer”!"
+            "text": "My feelings to make the trainer who supported \nme so much into a “Derby Trainer”!"
         },
         {
             "name": "Interviewer",

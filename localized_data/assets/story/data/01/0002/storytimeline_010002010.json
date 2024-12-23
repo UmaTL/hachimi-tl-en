@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Now, let's choose the second successor horsegirl."
+            "text": "Now, let's choose the second \nsuccessor horsegirl."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Until you get used to it, you can also use the convenient \"auto\" organization method.",
+            "text": "Until you get used to it, you can also use \nthe convenient \"auto\" organization method.",
             "color_text_info_list": [
                 "auto"
             ]

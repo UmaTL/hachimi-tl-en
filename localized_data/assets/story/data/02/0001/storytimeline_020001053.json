@@ -2,28 +2,25 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "McQueen, congratulations! \nThat race…! It was amazing!",
-            "name": "<username>"
+            "text": "McQueen, congratulations! \nThat race…! It was amazing!"
         },
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…"
         },
         {
-            "text": "McQueen…?",
-            "name": "<username>"
+            "text": "McQueen…?"
         },
         {
-            "text": "I did it!!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I did it!!"
         },
         {
-            "text": "Uwaah!?",
-            "name": "<username>"
+            "text": "Uwaah!?"
         },
         {
-            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!"
         },
         {
             "text": "I was shocked by \nMejiro McQueen's display of joy."
@@ -32,16 +29,16 @@
             "text": "I guess it's because the immense amount of pressure that she had \non her to win has finally been lifted."
         },
         {
-            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy."
         },
         {
-            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san."
         },
         {
-            "text": "You devoted everything for me, \nand for that I am grateful.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "You devoted everything for me, \nand for that I am grateful."
         },
         {
             "text": "I should be thanking you. Despite being inexperienced, you still \nfollowed my orders. And in the end, you gave me the best present \npossible, this amazing victory."
@@ -49,17 +46,17 @@
         {
             "text": "…But if I were to say that, she'd get upset and say “please \nhave a bit more confidence in yourself.”",
             "choice_data_list": [
-                "<size=43>Our reborn Sirius will continue to win!</size>",
-                "<size=43>Our reborn Sirius will continue to win!</size>"
+                "Our reborn Sirius will continue to win!",
+                "Our reborn Sirius will continue to win!"
             ]
         },
         {
-            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!"
         },
         {
-            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!"
         }
     ]
 }

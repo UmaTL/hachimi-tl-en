@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Haaa-ha-ha-ha! I've done it again in spectacular style!",
+            "text": "Haaa-ha-ha-ha! I've done it again in \nspectacular style!",
             "choice_data_list": [
                 "……It hurts, doesn't it?",
                 "……It hurts, doesn't it?"
@@ -10,11 +11,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes! I feel like I want to turn a somersault and cry all at once! This is truly a Bakushin-level of pain!!!!"
+            "text": "Yes! I feel like I want to turn a somersault \nand cry all at once! This is truly a \nBakushin-level of pain!!!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm? Wait, then maybe that means, if I Bakushin under these conditions……"
+            "text": "Hm? Wait, then maybe that means, if I \nBakushin under these conditions……"
         },
         {
             "name": "Sakura Bakushin O",
@@ -22,7 +23,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This crisis is, in fact, an opportunity! My chance to grow as class president has arrived!",
+            "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!",
             "choice_data_list": [
                 "As class president, you should rest!",
                 "……Want to take a bet on that chance?",
@@ -31,7 +32,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This crisis is, in fact, an opportunity! My chance to grow as class president has arrived!",
+            "text": "This crisis is, in fact, an opportunity! \nMy chance to grow as class president has \narrived!",
             "choice_data_list": [
                 "As class president, you should rest!",
                 "……Want to take a bet on that chance?",
@@ -47,7 +48,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What you're saying is… I should show everyone in my class……how I became a huge worrywart……?"
+            "text": "What you're saying is… I should show \neveryone in my class……how I became a \nhuge worrywart……?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -62,14 +63,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sniff……No, that's not it…… The pain… is in my heart!"
+            "text": "Sniff……No, that's not it…… \nThe pain… is in my heart!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm… I'm crying because I'm so…… unworthy, my heart hurts!"
+            "text": "I'm… I'm crying because I'm so…… \nunworthy, my heart hurts!"
         },
         {
-            "text": "Sakura Bakushin O was very sorry and tried to recuperate……"
+            "text": "Sakura Bakushin O was very sorry and \ntried to recuperate……"
         },
         {
             "name": "Sakura Bakushin O",
@@ -81,62 +82,62 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Stoooooop!! No bet, no bet! No betting-on-it now!!"
+            "text": "Stoooooop!! \nNo bet, no bet! No betting-on-it now!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was a close call! I was about to do something bad, betting on something!",
+            "text": "That was a close call! I was about to do \nsomething bad, betting on something!",
             "choice_data_list": [
                 "No, it's a figure of speech…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No! I am the ever well-behaved class president! Now that you've noticed my almost-foul deed, you'll have to crack down on me!"
+            "text": "No! I am the ever well-behaved class \npresident! Now that you've noticed my \nalmost-foul deed, you'll have to crack \ndown on me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "B, but… maybe, technically, I can consider it just a tiiiny bit of a social study of sorts――"
+            "text": "B, but… maybe, technically, I can consider \nit just a tiiiny bit of a social study of sorts――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――Wait, nononononono, no! If I do that, I can't Bakushin down the elite road!"
+            "text": "――Wait, nononononono, no! If I do that, \nI can't Bakushin down the elite road!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wake up! Sakura Bakushin Ooooo!"
+            "text": "Wake up! \nSakura Bakushin Ooooo!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hah… Haah… All of the sudden… I'm kind of… tired……"
+            "text": "Hah… Haah… \nAll of the sudden… I'm kind of… tired……"
         },
         {
-            "text": "Maybe it was the strenuous effort of her constantly trying to be class president that had tired her out… But her injury wasn't healing well either."
+            "text": "Maybe it was the strenuous effort of her \nconstantly trying to be class president that \nhad tired her out… But her injury wasn't \nhealing well either."
         },
         {
-            "text": "She said she'd start with some stretches to see how her body felt."
+            "text": "She said she'd start with some stretches to \nsee how her body felt."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hooooow's that! This supple movement! It's more polished than before, isn't it?",
+            "text": "Hooooow's that! This supple movement! \nIt's more polished than before, isn't it?",
             "choice_data_list": [
                 "Amazing!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course it is, of course it is! I knew my theory was correct!"
+            "text": "Of course it is, of course it is! \nI knew my theory was correct!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "……Thank you sincerely, Trainer! For believing in me!"
+            "text": "……Thank you sincerely, Trainer! \nFor believing in me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Watch this! The power of the New and Improved Class President, who overcame injury and… evolved even further!"
+            "text": "Watch this! The power of the New and \nImproved Class President, who overcame \ninjury and… evolved even further!"
         },
         {
-            "text": "The \"New and Improved Class President\" was so powerful that she resumed her training soon after!"
+            "text": "The \"New and Improved Class President\" \nwas so powerful that she resumed her \ntraining soon after!"
         }
     ]
 }

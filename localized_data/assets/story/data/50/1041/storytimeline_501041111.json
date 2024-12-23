@@ -1,24 +1,25 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Sakura Bakushin O managed to finish the Twinkle Series in style."
+            "text": "Sakura Bakushin O managed to finish the \nTwinkle Series in style."
         },
         {
-            "text": "We were able to get through the very important \"first three years\" together――"
+            "text": "We were able to get through the very \nimportant \"first three years\" together――"
         },
         {
-            "text": "One day, I was basking in the afterglow of such a big milestone."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer! It's over this way, this way this way!"
-        },
-        {
-            "text": "Sakura Bakushin O had invited me to visit a shrine."
+            "text": "One day, I was basking in the afterglow \nof such a big milestone."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The sakura mochi here is aaaabsolutely delicious! You're almost sure to be completely and totally amazed!"
+            "text": "Trainer! \nIt's over this way, this way this way!"
+        },
+        {
+            "text": "Sakura Bakushin O had invited me to visit a \nshrine."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The sakura mochi here is aaaabsolutely \ndelicious! \nYou're almost sure to be completely and \ntotally amazed!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -29,7 +30,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nono! It's a thank-you day for Trainer, so I'll do it!"
+            "text": "Nono! It's a thank-you day for Trainer, so \nI'll do it!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -37,18 +38,18 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please lend me some money!! I have forgotten my wallet!!"
+            "text": "Please lend me some money!! \nI have forgotten my wallet!!"
         },
         {
-            "text": "Sakura Bakushin O bought me some sakura mochi, which was, indeed, delicious, with a little hint of sweetness."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Haaah, this place takes the first place cake for sakura mochi!"
+            "text": "Sakura Bakushin O bought me some sakura \nmochi, which was, indeed, delicious, with \na little hint of sweetness."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's almost as perfect as my mom's homemade ones. It's superb!",
+            "text": "Haaah, this place takes the first place cake \nfor sakura mochi!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's almost as perfect as my mom's \nhomemade ones. It's superb!",
             "choice_data_list": [
                 "Your mom sounds kind.",
                 "Your mom sounds kind."
@@ -56,58 +57,58 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! She is an excellent mother to me!"
+            "text": "Affirmative! \nShe is an excellent mother to me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I've actually been thinking about something. I haven't told anyone about it yet, but…"
+            "text": "I've actually been thinking about something. \nI haven't told anyone about it yet, but…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sakura mochi is one of the best rice cakes in the world, isn't it?"
+            "text": "Sakura mochi is one of the best rice cakes \nin the world, isn't it?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Could it be, perhaps they're…… named after me!?",
+            "text": "Could it be, perhaps they're…… \nnamed after me!?",
             "choice_data_list": [
                 "Huh??"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In honor of me, a top class person, it was dubbed \"Sakura\" mochi, don't you think…?"
+            "text": "In honor of me, a top class person, \nit was dubbed \"Sakura\" mochi, don't \nyou think…?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "When you think about it, somehow it makes it taste even better!"
+            "text": "When you think about it, somehow it makes \nit taste even better!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Surely, that's how my mother felt when she made it for me."
+            "text": "Surely, that's how my mother felt when \nshe made it for me."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And surely, even now she's still waiting, kneading rice cakes."
+            "text": "And surely, even now she's still waiting, \nkneading rice cakes."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I hope that I can be a shining example to you all…"
+            "text": "I hope that I can be a shining example to \nyou all…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, I'm already a pretty amazing, exemplary role model!"
+            "text": "Well, I'm already a pretty amazing, \nexemplary role model!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, it was Trainer who helped me grow even more."
+            "text": "But, it was Trainer who helped me grow \neven more."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To be honest, there were times when I doubted Trainer on the way."
+            "text": "To be honest, there were times when I \ndoubted Trainer on the way."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Does my Trainer want me to stay on the short track forever, just like everyone else? I wondered.",
+            "text": "Does my Trainer want me to stay on the \nshort track forever, just like everyone \nelse? I wondered.",
             "choice_data_list": [
                 "(Oh, no.)"
             ]
@@ -118,11 +119,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And it's because of that that I've been able to run this far."
+            "text": "And it's because of that that I've been able \nto run this far."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In fact, I ran the whole 3600 meters! I think I set quite the good example!",
+            "text": "In fact, I ran the whole 3600 meters! \nI think I set quite the good example!",
             "choice_data_list": [
                 "……That's right!",
                 "……That's right!"
@@ -138,45 +139,45 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Spring and Autumn Tennoushou, Arima Kinen, and so on…",
+            "text": "Spring and Autumn Tennoushou, Arima \nKinen, and so on…",
             "color_text_info_list": [
                 "Tennoushou"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You believe I can win all those other races… don't you?"
+            "text": "You believe I can win all those other \nraces… don't you?"
         },
         {
-            "text": "I could answer that question without any hesitation.",
+            "text": "I could answer that question without any \nhesitation.",
             "choice_data_list": [
                 "Of course I do!"
             ]
         },
         {
-            "text": "If she can keep up her speed and get off to a fast start, no one else will be able to catch up…"
+            "text": "If she can keep up her speed and get off \nto a fast start, no one else will be able to \ncatch up…"
         },
         {
-            "text": "I'm sure she'll be able to win any race thrown at her… Someday!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fufu, I only wanted to hear you say it properly!"
+            "text": "I'm sure she'll be able to win any race \nthrown at her… Someday!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Then, thank you for your continued support of me!"
+            "text": "Fufu, I only wanted to hear you say it \nproperly!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's aim for complete domination of the Bakushin Road! Onwaaaards―!",
+            "text": "Then, thank you for your continued \nsupport of me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Let's aim for complete domination of the \nBakushin Road! \nOnwaaaards―!",
             "choice_data_list": [
                 "Onwaards―!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "We're going to Bakushin together, you and me, until we win our dream!"
+            "text": "We're going to Bakushin together, you and \nme, until we win our dream!"
         }
     ]
 }

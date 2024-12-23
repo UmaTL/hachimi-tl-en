@@ -1,13 +1,14 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Happy New Year, trainer! I hope to have a good year together again♪"
+            "text": "Happy New Year, trainer! I hope \nto have a good year together again♪"
         },
         {
-            "text": "Well then, as new year's demands… you should go pull a fortune slip!"
+            "text": "Well then, as new year's demands… \nyou should go pull a fortune slip!"
         },
         {
-            "text": "What fortune will your year hold… It's a great time to find out!"
+            "text": "What fortune will your year hold… \nIt's a great time to find out!"
         }
     ]
 }

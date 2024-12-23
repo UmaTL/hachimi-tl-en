@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Speaking as an honors student, I'd say it's not so bad."
+            "text": "Speaking as an honors student, I'd say it's \nnot so bad."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, everyone fought very well this time! Indeed, they did!"
+            "text": "Well, everyone fought very well this time! \nIndeed, they did!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I'm happy to see that your sweat and tears have been rewarded!",
+            "text": "As class president, I'm happy to see that \nyour sweat and tears have been rewarded!",
             "choice_data_list": [
                 "Bakushin O did her best, too!",
                 "Is that really all you want?",
@@ -23,7 +24,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I'm happy to see that your sweat and tears have been rewarded!",
+            "text": "As class president, I'm happy to see that \nyour sweat and tears have been rewarded!",
             "choice_data_list": [
                 "Bakushin O did her best, too!",
                 "Is that really all you want?",
@@ -32,19 +33,19 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, I did my best. I did my best, too……"
+            "text": "Indeed, I did my best. \nI did my best, too……"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Howeveeeer! It is my solemn duty to be first place, even when everyone else is working so hard!!"
+            "text": "Howeveeeer! It is my solemn duty to be \nfirst place, even when everyone else is \nworking so hard!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I just have to be the first one to reach the goal so I can properly welcome everyone!"
+            "text": "As class president, I just have to be the first \none to reach the goal so I can properly \nwelcome everyone!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Next time, every last one of my rivals! I'll be there to greet you at the goal!!"
+            "text": "Next time, every last one of my rivals! \nI'll be there to greet you at the goal!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -52,11 +53,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "King of Speed Award! The King of Exemplary Figures award must go to me!"
+            "text": "King of Speed Award! The King of Exemplary \nFigures award must go to me!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Next time, I shall aim for an exemplary and complete victory…… Alright, now! Bakushiiiiiii――n！！！！！"
+            "text": "Next time, I shall aim for an exemplary and \ncomplete victory…… Alright, now! \nBakushiiiiiii――n！！！！！"
         }
     ]
 }

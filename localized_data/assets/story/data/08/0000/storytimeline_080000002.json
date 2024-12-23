@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Commentator",
@@ -8,14 +9,14 @@
             ]
         },
         {
-            "text": "Aoharu Hai — another drama that runs parallel to the Twinkle Series.",
+            "text": "Aoharu Hai — another drama that runs \nparallel to the Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Commentator",
-            "text": "A team competition organized by Tracen Academy! Your team's strength will be tested even more than your own abilities!",
+            "text": "A team competition organized by Tracen \nAcademy! Your team's strength will be tested \neven more than your own abilities!",
             "color_text_info_list": [
                 "Tracen Academy"
             ]
@@ -25,11 +26,11 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "The school is in danger, and we must save it!"
+            "text": "The school is in danger, \nand we must save it!"
         },
         {
             "name": "Haru Urara",
-            "text": "Does that mean that Urara and the others are going to be heroes?"
+            "text": "Does that mean that Urara and the \nothers are going to be heroes?"
         },
         {
             "name": "Rice Shower",
@@ -45,7 +46,7 @@
         },
         {
             "name": "Little Cocon",
-            "text": "Heh… If that's all it took to win, nobody would struggle."
+            "text": "Heh… If that's all it took to \nwin, nobody would struggle."
         },
         {
             "name": "Bitter Glasse",
@@ -56,10 +57,10 @@
             "text": "— Can you defeat my team?"
         },
         {
-            "text": "The tumultuous team story surrounding the Aoharu Hai begins now —!"
+            "text": "The tumultuous team story surrounding \nthe Aoharu Hai begins now —!"
         },
         {
-            "text": "The tumultuous team story surrounding the Aoharu Hai begins now —!"
+            "text": "The tumultuous team story surrounding \nthe Aoharu Hai begins now —!"
         }
     ]
 }

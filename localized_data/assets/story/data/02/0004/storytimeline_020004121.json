@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "Good work out there, Brian."
@@ -32,10 +33,10 @@
             "text": "…Did you know?"
         },
         {
-            "text": "No, I was watching the race and I noticed it. Looking at your figure, running desperately while struggling."
+            "text": "No, I was watching the race and I noticed it. Looking at your \nfigure, running desperately while struggling."
         },
         {
-            "text": "No, I was watching the race and I noticed it. Looking at your figure, running desperately while struggling."
+            "text": "No, I was watching the race and I noticed it. Looking at your \nfigure, running desperately while struggling."
         },
         {
             "name": "Narita Brian",
@@ -43,17 +44,17 @@
         },
         {
             "name": "Narita Brian",
-            "text": "However, although it is slight, there is a thread in the sense, which makes me not run like before."
+            "text": "However, although it is slight, there is a thread in the sense, \nwhich makes me not run like before."
         },
         {
             "text": "Narita Brian's run feeling got forgotten due to the injuryー"
         },
         {
-            "text": "It affected her form, and in addition left her in the cruel reality of losing her run so far."
+            "text": "It affected her form, and in addition left her in the cruel \nreality of losing her run so far."
         },
         {
             "name": "Narita Brian",
-            "text": "I'm sorry for keeping quiet. But I thought if I told you this, you would stop me from running."
+            "text": "I'm sorry for keeping quiet. But I thought if I told you this, \nyou would stop me from running."
         },
         {
             "text": "That's right, I could have stopped you."
@@ -62,16 +63,16 @@
             "text": "That's right, I could have stopped you."
         },
         {
-            "text": "But now it's different. Even if you can't run like before, you haven't changed at all."
+            "text": "But now it's different. Even if you can't run like before, you \nhaven't changed at all."
         },
         {
-            "text": "But now it's different. Even if you can't run like before, you haven't changed at all."
+            "text": "But now it's different. Even if you can't run like before, you \nhaven't changed at all."
         },
         {
-            "text": "I want to win, and I want to go straight to the finish line. Narita Brian who stole my heart, is still in front of me."
+            "text": "I want to win, and I want to go straight to the finish line. \nNarita Brian who stole my heart, is still in front of me."
         },
         {
-            "text": "I want to win, and I want to go straight to the finish line. Narita Brian who stole my heart, is still in front of me."
+            "text": "I want to win, and I want to go straight to the finish line. \nNarita Brian who stole my heart, is still in front of me."
         },
         {
             "name": "Narita Brian",
@@ -79,7 +80,7 @@
         },
         {
             "name": "Narita Brian",
-            "text": "…My big-sister was right, you really are a trainer who puts Horse Girls first.",
+            "text": "…My big-sister was right, you really are \na trainer who puts Horse Girls first.",
             "choice_data_list": [
                 "Let's do our best together!"
             ]
@@ -89,43 +90,43 @@
             "text": "Yeah… I'll keep running from now on!"
         },
         {
-            "text": "Brian's next race is the “Haishin Grand Prize”, How to win with her so far…"
+            "text": "Brian's next race is the “Haishin Grand \nPrize”, How to win with her so far…"
         },
         {
             "name": "Winning Ticket",
             "text": "Oh, so you were here! Trainer-san, I'm done warming up!"
         },
         {
-            "text": "Oh, I'm sorry. I was just thinking about something. About what to do with Brian's training."
+            "text": "Oh, I'm sorry. I was just thinking about something. About what to \ndo with Brian's training."
         },
         {
-            "text": "In order for her to give 100% of her power now, it's important that she learn to race differently than ever before…"
+            "text": "In order for her to give 100% of her power now, it's important \nthat she learn to race differently than ever before…"
         },
         {
             "name": "Winning Ticket",
             "text": "Mmm… this talk sounds a bit difficult."
         },
         {
-            "text": "I don't have time to try everything, and the more I think about training the more I realize that nothing makes sense."
+            "text": "I don't have time to try everything, and the more I think about \ntraining the more I realize that nothing makes sense."
         },
         {
-            "text": "I don't have time to try everything, and the more I think about training the more I realize that nothing makes sense."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hmm～mm～… Even if you say it makes no sense, if I have a good enough head to think about it!!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "After all it was you Ticket. You're the only girl whose voice I can hear from far away."
+            "text": "I don't have time to try everything, and the more I think about \ntraining the more I realize that nothing makes sense."
         },
         {
             "name": "Winning Ticket",
-            "text": "Woaaah～!! There is it, Trainer-san! The one with a big enough head to think is here!"
+            "text": "Hmm～mm～… Even if you say it makes no sense, if I have a good \nenough head to think about it!!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hoy! I'm always saying that my head is not big… big enough head to think?"
+            "text": "After all it was you Ticket. You're the only girl whose voice I \ncan hear from far away."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Woaaah～!! There is it, Trainer-san! The one with a big enough \nhead to think is here!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hoy! I'm always saying that my head is \nnot big… big enough head to think?"
         },
         {
             "text": "I see, you are Hayahide of theory, you may be qualified…!"
@@ -136,7 +137,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "How lively. I heard that Brian's next race was decided, so I made some Onigiri to boost performance."
+            "text": "How lively. I heard that Brian's next race was decided, so I made \nsome Onigiri to boost performance."
         },
         {
             "text": "Right! In addition, we also got Brian's opponent to think about!"
@@ -153,13 +154,13 @@
             "text": "Big-sister, and Amazon…?"
         },
         {
-            "text": "I thought I'd ask Biwa Hayahide to think about training and running for the current Brian together with me."
+            "text": "I thought I'd ask Biwa Hayahide to think about training and \nrunning for the current Brian together with me."
         },
         {
-            "text": "And on the other side of the race is Hishi Amazon, who knows you well, it's okay for you, right?"
+            "text": "And on the other side of the race is Hishi Amazon, who knows you \nwell, it's okay for you, right?"
         },
         {
-            "text": "And on the other side of the race is Hishi Amazon, who knows you well, it's okay for you, right?"
+            "text": "And on the other side of the race is Hishi Amazon, who knows you \nwell, it's okay for you, right?"
         },
         {
             "name": "Hishi Amazon",
@@ -167,11 +168,11 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I don't know if a theory-based approach is right for you, but it's definitely a shortcut rather than groping and running."
+            "text": "I don't know if a theory-based approach is right for you, but \nit's definitely a shortcut rather than groping and running."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "As strong as before… No, I need you to be stronger than before, otherwise it won't be a challenge for me."
+            "text": "As strong as before… No, I need you to be stronger than before, \notherwise it won't be a challenge for me."
         },
         {
             "name": "Narita Brian",
@@ -186,11 +187,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "I've been watching Hayahide's odd training! This is like, in 1 month, you're going to be crazy, right?"
+            "text": "I've been watching Hayahide's odd training! This is like, in 1 \nmonth, you're going to be crazy, right?"
         },
         {
             "name": "Narita Brian",
-            "text": "Seriously, those are what people wearing glasses are like. There is no shortage of training."
+            "text": "Seriously, those are what people wearing glasses are like. There \nis no shortage of training."
         },
         {
             "text": "You're proud of your older-sister."
@@ -204,11 +205,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Both of your personalities are completely different, but it is indispensable to be conscious of each other's race and to be selected as “Annual representative Horse Girl” together."
+            "text": "Both of your personalities are completely different, but it is \nindispensable to be conscious of each other's race and to be \nselected as “Annual representative Horse Girl” together."
         },
         {
             "name": "Gold Ship",
-            "text": "Oh! Isn't it about time that this year's URA Award will be announced?"
+            "text": "Oh! Isn't it about time that this year's \nURA Award will be announced?"
         },
         {
             "text": "It should be announced in the program, let's watch it."
@@ -218,11 +219,11 @@
         },
         {
             "name": "Announcer",
-            "text": "At the “Kikkashou” you updated Narita Brian's record, you also won the following “Arima Kinen” brilliantly!"
+            "text": "At the “Kikkashou” you updated Narita Brian's record, you also \nwon the following “Arima Kinen” brilliantly!"
         },
         {
             "name": "Announcer",
-            "text": "Mayano Top Gun, who's momentum has not stopped, was selected as the “Annual Representative Horse Girl”!"
+            "text": "Mayano Top Gun, who's momentum has not stopped, was selected as \nthe “Annual Representative Horse Girl”!"
         },
         {
             "name": "Mayano Top Gun",
@@ -230,11 +231,11 @@
         },
         {
             "name": "Announcer",
-            "text": "It was probably your best first year, but what would you like to have this year?"
+            "text": "It was probably your best first year, but \nwhat would you like to have this year?"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "It's of course, I want to have a lot of races that can make everyone and Maya herself get excited while watching!"
+            "text": "It's of course, I want to have a lot of races that can make \neveryone and Maya herself get excited while watching!"
         },
         {
             "name": "Announcer",
@@ -242,7 +243,7 @@
         },
         {
             "name": "Announcer",
-            "text": "By the way, Mayano Top Gun do you have a partner that can make you excited right now?"
+            "text": "By the way, Mayano Top Gun do you have a partner that can make \nyou excited right now?"
         },
         {
             "name": "Mayano Top Gun",
@@ -250,7 +251,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "In last year's “Hanshin Grand Prize” The race of that person was really great…!"
+            "text": "In last year's “Hanshin Grand Prize” The \nrace of that person was really great…!"
         },
         {
             "name": "Mayano Top Gun",
@@ -258,11 +259,11 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Hmm～, I want to feel the throbbing excitement～! Maybe, I should have gone back to school without going to seeー"
+            "text": "Hmm～, I want to feel the throbbing excitement～! Maybe, I should \nhave gone back to school without going to seeー"
         },
         {
             "name": "Commentator",
-            "text": "Pushing forward!! The difference with the subsequent one is opening up more and more!"
+            "text": "Pushing forward!! The difference with the subsequent one is \nopening up more and more!"
         },
         {
             "name": "Mayano Top Gun",
@@ -270,7 +271,7 @@
         },
         {
             "name": "Commentator",
-            "text": "No one can catch up with her anymore! Now it's just a stand-alone state!! 6 lengths, 7 lengths difference now, Goal!"
+            "text": "No one can catch up with her anymore! Now it's just a stand-alone \nstate!! 6 lengths, 7 lengths difference now, Goal!"
         },
         {
             "name": "Mayano Top Gun",
@@ -278,7 +279,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "I was really excited, my heart was pounding, and that's when Maya said she wanted to run with her one day and race like that!"
+            "text": "I was really excited, my heart was pounding, and that's when Maya \nsaid she wanted to run with her one day and race like that!"
         },
         {
             "name": "Mayano Top Gun",
@@ -286,11 +287,11 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "But-but! I understood when I ran together with her in the “Arima Kinen”!"
+            "text": "But-but! I understood when I ran together \nwith her in the “Arima Kinen”!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "The excitement that I felt on that day and the power that I felt so excited about have not changed anything from that time, so Mayaー"
+            "text": "The excitement that I felt on that day and the \npower that I felt so excited about have not changed \nanything from that time, so Mayaー"
         },
         {
             "name": "Mayano Top Gun",
@@ -298,11 +299,11 @@
         },
         {
             "name": "Announcer",
-            "text": "Is it a confrontation between the old and new “Annual representative horse girl”!? This will raise expectations!"
+            "text": "Is it a confrontation between the old and new “Annual \nrepresentative horse girl”!? This will raise expectations!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "How would have thought… She is the same as Brian-san, she is a powerful girl enough to conquer the “Arima Kinen” in the classic class."
+            "text": "How would have thought… She is the same as Brian-san, \nshe is a powerful girl enough to conquer the “Arima \nKinen” in the classic class."
         },
         {
             "name": "Narita Brian",
@@ -310,7 +311,7 @@
         },
         {
             "name": "Narita Brian",
-            "text": "Supported by this much, the desire for victoryー is just a play to me!",
+            "text": "Supported by this much, the desire for \nvictoryー is just a play to me!",
             "choice_data_list": [
                 "Brian, we're gonna win!",
                 "Brian, we're gonna win!"

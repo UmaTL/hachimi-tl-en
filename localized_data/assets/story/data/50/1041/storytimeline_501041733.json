@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm overflowing with power!! I feel like I could Bakushin forever now!"
+            "text": "I'm overflowing with power!! \nI feel like I could Bakushin forever now!"
         },
         {
             "name": "Sakura Bakushin O",

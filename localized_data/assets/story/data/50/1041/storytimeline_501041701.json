@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,11 +7,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "For the day off, I thank you sincerely! Thanks to you, I got an excellent night's sleep!"
+            "text": "For the day off, I thank you sincerely! \nThanks to you, I got an excellent night's \nsleep!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's right! How about you, Traniner? It's recommended to read a book before bed to have a peaceful slumber…"
+            "text": "That's right! How about you, Traniner? \nIt's recommended to read a book before \nbed to have a peaceful slumber…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -18,10 +19,10 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Not only does it prep you for a review, but it also puts you to sleep… As expected of every honor roll student's bible!"
+            "text": "Not only does it prep you for a review, \nbut it also puts you to sleep… \nAs expected of every honor roll student's \nbible!"
         },
         {
-            "text": "Looks like Sakura Bakushin O got a good night's sleep on her day off!"
+            "text": "Looks like Sakura Bakushin O got a good \nnight's sleep on her day off!"
         }
     ]
 }

@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "There will certianly be plenty of races lined up, so be proactive in entering them!"
+            "text": "There will certianly be plenty of races \nlined up, so be proactive in entering them!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "After training a horsegirl, you can enter her in races. And with the rewards from those, you can strenghten your girls or supports—"
+            "text": "After training a horsegirl, you can enter her \nin races. And with the rewards from those, \nyou can strenghten your girls or supports—"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Training and racing, this flow is the key to raising strong horsegirls! Remember that well!",
+            "text": "Training and racing, this flow is \nthe key to raising strong horsegirls! \nRemember that well!",
             "color_text_info_list": [
                 "Training and racing"
             ]

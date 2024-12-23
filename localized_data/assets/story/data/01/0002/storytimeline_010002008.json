@@ -1,32 +1,33 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Trainer-san, do you know about the statue of the Three Goddesses?"
+            "text": "Trainer-san, do you know about the \nstatue of the Three Goddesses?"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "The Three Goddesses… there's a legend that these three are the original horsegirls."
+            "text": "The Three Goddesses… there's a legend \nthat these three are the original horsegirls."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "They watch over the horsegirls, protecting and guiding them. Just as gods would."
+            "text": "They watch over the horsegirls, protecting \nand guiding them. Just as gods would."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Per tradition, the students of Tracen Academy entrust their thoughts and wishes to this statue."
+            "text": "Per tradition, the students of Tracen \nAcademy entrust their thoughts and \nwishes to this statue."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "The feelings they had drawn in their dreams, the image of their trajectory to achieve it… they entrust those thoughts to this statue—"
+            "text": "The feelings they had drawn in their dreams, \nthe image of their trajectory to achieve it… \nthey entrust those thoughts to this statue—"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "The girls who are about to start their races will turn these feelings into strength in front of this statue."
+            "text": "The girls who are about to start their races \nwill turn these feelings into strength in \nfront of this statue."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Sometimes, other horsegirls inherit these continuously spun feelings… It's very mysterious!",
+            "text": "Sometimes, other horsegirls inherit \nthese continuously spun feelings… \nIt's very mysterious!",
             "color_text_info_list": [
                 "inherit"
             ]

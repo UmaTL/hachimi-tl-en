@@ -1,45 +1,46 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "During training one day. I felt a gaze and looked up to see…"
+            "text": "During training one day. I felt\na gaze and looked up to see…"
         },
         {
-            "text": "The person looking at me was someone I didn't recognize. I assumed it was a fan or a visitor."
+            "text": "The person looking at me was someone\nI didn't recognize. I assumed it\nwas a fan or a visitor."
         },
         {
-            "text": "At the end of training, she was still looking at me. … Is there something she wants to talk about?",
+            "text": "At the end of training, she was still\nlooking at me. … Is there something she\nwants to talk about?",
             "choice_data_list": [
                 "… Um, can I help you?"
             ]
         },
         {
             "name": "???",
-            "text": "Ah… I'm sorry. I hope I didn't interrupt your practice.",
+            "text": "Ah… I'm sorry. I hope I didn't\ninterrupt your practice.",
             "choice_data_list": [
                 "No, we're done."
             ]
         },
         {
             "name": "???",
-            "text": "I'm glad to hear that! Actually, there is something I would like to talk to you about."
+            "text": "I'm glad to hear that! Actually, there is\nsomething I would like to talk to you about."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I'm Etsuko Otonashi, a reporter for \"Twinkle Monthly\"."
+            "text": "I'm Etsuko Otonashi, a reporter\nfor \"Twinkle Monthly\"."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "… I watched your training and was greatly impressed. I would love to support you both with articles. I have been waiting to discuss this with you."
+            "text": "… I watched your training and was greatly\nimpressed. I would love to support you both\nwith articles. I have been waiting to\ndiscuss this with you."
         },
         {
-            "text": "She seems polite and sincere. With her considered articles, she may be able to gain <chrname> some fans.",
+            "text": "She seems polite and sincere. With her\nconsidered articles, she may be able to gain\n<chrname> some fans.",
             "choice_data_list": [
                 "It would be my pleasure!"
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Thank you for your willingness. So, let's get right to it… What do you consider when deciding on a training plan?",
+            "text": "Thank you for your willingness. So, let's\nget right to it… What do you consider when\ndeciding on a training plan?",
             "choice_data_list": [
                 "I'm always considering her aspirations."
             ]
@@ -64,21 +65,21 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "In other words, you're prepared to do whatever it takes to make sure that the horse girl in your charge reaches her dream!"
+            "text": "In other words, you're prepared to do\nwhatever it takes to make sure that the\nhorse girl in your charge reaches her dream!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "When she trains you train with her, when she's tired you provide hot springs, when she's thirsty you would scoop water from mountains!",
+            "text": "When she trains you train with her,\nwhen she's tired you provide hot springs,\nwhen she's thirsty you would scoop\nwater from mountains!",
             "choice_data_list": [
                 "(Is that what I said…!?)"
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Ahh… I'm floored… with your determination as trainer. I'll turn this into an article that will blow their minds…!"
+            "text": "Ahh… I'm floored… with your determination as\ntrainer. I'll turn this into an article that\nwill blow their minds…!"
         },
         {
-            "text": "This is how I came to know a — in many ways— powerful supporter…!"
+            "text": "This is how I came to know a — in \nmany ways— powerful supporter…!"
         }
     ]
 }

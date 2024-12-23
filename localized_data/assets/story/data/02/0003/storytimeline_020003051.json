@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Taishin",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "We promised to aim for the Derby together! Then I think we should do the training together～."
+            "text": "We promised to aim for the Derby together! Then I think we should \ndo the training together～."
         },
         {
             "name": "Narita Taishin",
@@ -26,7 +27,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm saying you need to use your mind! I'm fine, so focus on your own race! You idiot!"
+            "text": "I'm saying you need to use your mind! I'm fine, so focus on your \nown race! You idiot!"
         },
         {
             "name": "Winning Ticket",
@@ -37,25 +38,25 @@
             "text": "You were quite persistent so it was only a matter of time."
         },
         {
-            "text": "On that day, an “Emergency meeting” organized by Winning Ticket was held in order to encourage Narita Taishin who lost the race."
+            "text": "On that day, an “Emergency meeting” organized by Winning Ticket \nwas held in order to encourage Narita Taishin who lost the race."
         },
         {
             "name": "Winning Ticket",
-            "text": "It was for the sake of Taishin's power! Because I want to run with her in the derby!"
+            "text": "It was for the sake of Taishin's power! Because I want to run \nwith her in the derby!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I understand what you mean, even if you don't tell me. Of course, Taishin, too."
+            "text": "I understand what you mean, even if you don't \ntell me. Of course, Taishin, too."
         },
         {
             "name": "Winning Ticket",
-            "text": "Ahh～… does she really understand～… Even though she called me an idiot ～?"
+            "text": "Ahh～… does she really understand～… Even \nthough she called me an idiot ～?"
         },
         {
-            "text": "As Biwa Hayahide said, she surely understands that Winning Ticket wants to run the Derby together."
+            "text": "As Biwa Hayahide said, she surely understands that Winning Ticket \nwants to run the Derby together."
         },
         {
-            "text": "And it was probably hard for her to give encouragement to Winning Ticket.",
+            "text": "And it was probably hard for her to give \nencouragement to Winning Ticket.",
             "choice_data_list": [
                 "I guess she refused because she wanted to run together with you.",
                 "I guess she refused because she wanted to run together with you."
@@ -63,7 +64,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yeah, that's what it is. We promised to run together in the Derby but as rivals, didn't we?"
+            "text": "Yeah, that's what it is. We promised to run together in the Derby \nbut as rivals, didn't we?"
         },
         {
             "name": "Winning Ticket",
@@ -78,13 +79,13 @@
             "text": "Hmm… hmm～～～～hm… After all, I still don't understand."
         },
         {
-            "text": "Rice Shower followed the back of Mihono Bourbon and overtook her in the “Kikkashou”."
+            "text": "Rice Shower followed the back of Mihono Bourbon \nand overtook her in the “Kikkashou”."
         },
         {
-            "text": "Instead of lining up side by side, showing your back is something you can do as a rival."
+            "text": "Instead of lining up side by side, showing your back is something \nyou can do as a rival."
         },
         {
-            "text": "Instead of lining up side by side, showing your back is something you can do as a rival."
+            "text": "Instead of lining up side by side, showing your back is something \nyou can do as a rival."
         },
         {
             "name": "Winning Ticket",
@@ -92,7 +93,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Both me and Taishin woke up when we saw you overcome the tough conditions and win."
+            "text": "Both me and Taishin woke up when we saw you \novercome the tough conditions and win."
         },
         {
             "name": "Biwa Hayahide",
@@ -100,24 +101,24 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "I see… Taishin is not someone who needs my help. I want to do my best to run with all 3 of us!"
+            "text": "I see… Taishin is not someone who needs my help. I want to do my \nbest to run with all 3 of us!"
         },
         {
             "name": "Winning Ticket",
-            "text": "I got it! I'm going to run a whole lot! Run-run, wait for Taishin to catch up!"
+            "text": "I got it! I'm going to run a whole lot! \nRun-run, wait for Taishin to catch up!"
         },
         {
-            "text": "That Nightー I heard the running footsteps from the training course."
+            "text": "That Nightー I heard the running footsteps \nfrom the training course."
         },
         {
             "name": "Winning Ticket",
             "text": "heh… heh… heh… heh…"
         },
         {
-            "text": "To show your back to your rivals, encouraged by that Winning Ticket started doing her own self-training."
+            "text": "To show your back to your rivals, encouraged by that Winning \nTicket started doing her own self-training."
         },
         {
-            "text": "As I was watching over the situation, 2 footsteps then new 3 footsteps got added."
+            "text": "As I was watching over the situation, 2 footsteps then new 3 \nfootsteps got added."
         },
         {
             "name": "Narita Taishin",
@@ -128,21 +129,21 @@
             "text": "heh… heh… heh… heh…"
         },
         {
-            "text": "I'm sure they didn't plan to meet beforehand. Coincidentally, these 3 girls came here at the same time with the same feelings."
+            "text": "I'm sure they didn't plan to meet beforehand. Coincidentally, \nthese 3 girls came here at the same time with the same feelings."
         },
         {
-            "text": "3 girls who keep running silently, without exchanging a word. But the overlapping footsteps sounded like a conversation between rivals."
+            "text": "3 girls who keep running silently, without exchanging \na word. But the overlapping footsteps sounded \nlike a conversation between rivals."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Geez… It's already past the training course closing time, what troublesome girls.",
+            "text": "Geez… It's already past the training course \nclosing time, what troublesome girls.",
             "choice_data_list": [
                 "Please overlook it for today"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Haha, it can't be helped. Then at least, let me watch over them from here."
+            "text": "Haha, it can't be helped. Then at least, \nlet me watch over them from here."
         },
         {
             "name": "Hayakawa Tazuna",
@@ -182,7 +183,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "It's because Taishin really started to run! I mean, in the first place Hayahide!"
+            "text": "It's because Taishin really started to run! \nI mean, in the first place Hayahide!"
         },
         {
             "name": "Biwa Hayahide",
@@ -190,7 +191,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? I didn't pull you! Rather, wasn't it Ticket who moved out first!?"
+            "text": "Huh? I didn't pull you! Rather, wasn't \nit Ticket who moved out first!?"
         },
         {
             "name": "Winning Ticket",
@@ -202,7 +203,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "huh, why are you turning your head? Don't tell me, are you laughing?"
+            "text": "huh, why are you turning your head? \nDon't tell me, are you laughing?"
         },
         {
             "name": "Biwa Hayahide",
@@ -222,35 +223,35 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "I've been longing for that stage all along. A stage where people who dream of winning the Derby gather."
+            "text": "I've been longing for that stage all along. A stage where people \nwho dream of winning the Derby gather."
         },
         {
             "name": "Winning Ticket",
-            "text": "Aiming for the glory, everyone's hard work, hit them with all my might, I'll put my everything on that 2400m."
+            "text": "Aiming for the glory, everyone's hard work, hit them with all my \nmight, I'll put my everything on that 2400m."
         },
         {
             "name": "Winning Ticket",
-            "text": "I want to win by standing on such a stage where my heart is moved just by looking at it."
+            "text": "I want to win by standing on such a stage where my heart is moved \njust by looking at it."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "For me… I also have opponents who I want to show my back to in addition to you guys. I have to get stronger for her."
+            "text": "For me… I also have opponents who I want to show my back to in \naddition to you guys. I have to get stronger for her."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Me winning the Derby is proof of the strength to be the strongest. I will surely win."
+            "text": "Me winning the Derby is proof of the strength to be the \nstrongest. I will surely win."
         },
         {
             "name": "Narita Taishin",
-            "text": "… As for more, before I entered school, I was told by people around me that I lacked ability."
+            "text": "… As for more, before I entered school, I was told by people \naround me that I lacked ability."
         },
         {
             "name": "Narita Taishin",
-            "text": "I was not able to produce results, that's why it is not strange to be seen like that, but it would be frustrating if you admitted that. You would get sick of yourself."
+            "text": "I was not able to produce results, that's why it is not strange \nto be seen like that, but it would be frustrating if you admitted \nthat. You would get sick of yourself."
         },
         {
             "name": "Narita Taishin",
-            "text": "That's why, I want to get back at them. Winning the Derby, will be my proof that I'm not lacking in ability."
+            "text": "That's why, I want to get back at them. Winning the Derby, will \nbe my proof that I'm not lacking in ability."
         },
         {
             "name": "Winning Ticket",

@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Good job, trainer! You are working hard every day."
+            "text": "Good job, trainer! You are\nworking hard every day."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "By the way… it's finally that time of year again!"
+            "text": "By the way… it's finally that\ntime of year again!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "It's almost time for the annual \"Summer Camp\" at Tracen Academy!",
+            "text": "It's almost time for the annual\n\"Summer Camp\" at Tracen Academy!",
             "choice_data_list": [
                 "Summer Camp…!"
             ],
@@ -20,21 +21,21 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is a different kind of training, where you stay overnight at the facility…",
+            "text": "This is a different kind of training, where\nyou stay overnight at the facility…",
             "color_text_info_list": [
                 "a different kind of training"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I'm sure your horse girl will grow even more than usual!",
+            "text": "I'm sure your horse girl will\ngrow even more than usual!",
             "color_text_info_list": [
                 "grow even more"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "… So please make sure she's in good shape for the summer camp in July.",
+            "text": "… So please make sure she's in good shape\nfor the summer camp in July.",
             "color_text_info_list": [
                 "July",
                 "in good shape"
@@ -42,14 +43,14 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Summer camp goes by so fast! There's no time to take a \"break\".",
+            "text": "Summer camp goes by so fast! There's\nno time to take a \"break\".",
             "choice_data_list": [
                 "Yes, ma'am!"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Good reply! Hehe… I'm looking forward to it… Summer camp ♪"
+            "text": "Good reply! Hehe… I'm looking\nforward to it… Summer camp ♪"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -57,38 +58,38 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Sometimes it's nice to take a break and \"go out\" to the beach!"
+            "text": "Sometimes it's nice to take a break\nand \"go out\" to the beach!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "I'm sure it will refresh your horse girl and relieve her fatigue!",
+            "text": "I'm sure it will refresh your horse\ngirl and relieve her fatigue!",
             "choice_data_list": [
                 "I see…"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "It's only a short two months from July to August, but…",
+            "text": "It's only a short two months\nfrom July to August, but…",
             "color_text_info_list": [
                 "from July to August"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Please spend a fruitful \"summer camp\" with your horse girl."
+            "text": "Please spend a fruitful \"summer\ncamp\" with your horse girl."
         },
         {
             "text": "Tazuna told me about the \"summer camp\"!"
         },
         {
-            "text": "I should pay attention to <chrname>'s condition and energy to prepare for the camp…",
+            "text": "I should pay attention to <chrname>'s\ncondition and energy to prepare\nfor the camp…",
             "color_text_info_list": [
                 "condition",
                 "energy"
             ]
         },
         {
-            "text": "It starts in two turns, in the first half of July, so we'd better start preparing now.",
+            "text": "It starts in two turns, in the first half of\nJuly, so we'd better start preparing now.",
             "color_text_info_list": [
                 "in two turns",
                 "preparing now"

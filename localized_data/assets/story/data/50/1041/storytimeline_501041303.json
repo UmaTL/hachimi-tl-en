@@ -1,31 +1,32 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmhm… Hmmmhmhmhm…!"
+            "text": "Hmhm… \nHmmmhmhmhm…!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ack―!! I could see it!!",
+            "text": "Ack―!! \nI could see it!!",
             "choice_data_list": [
                 "What?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm the one who's going to run down the Bakushin Road with my overwhelming speed!"
+            "text": "I'm the one who's going to run down the \nBakushin Road with my overwhelming \nspeed!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Come, now, Trainer, let's get this thing going!"
+            "text": "Come, now, Trainer, let's \nget this thing going!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "First of all, which race shall we run for next year's Satsuki Sho!"
+            "text": "First of all, which race shall we run for \nnext year's Satsuki Sho!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Since I'm the one running it, it's got to be a G1! Asahi Hai FS? Maybe the Hanshin JF!",
+            "text": "Since I'm the one running it, it's got to be \na G1! \nAsahi Hai FS? Maybe the Hanshin JF!",
             "choice_data_list": [
                 "(GI fixation!?)"
             ],
@@ -35,7 +36,7 @@
             ]
         },
         {
-            "text": "It's impossible for her to run in a G1 race if she hasn't proven herself yet. If that's the case, what she should be running now is…",
+            "text": "It's impossible for her to run in a G1 \nrace if she hasn't proven herself yet. \nIf that's the case, what she should be \nrunning now is…",
             "choice_data_list": [
                 "I have a suggestion."
             ]
@@ -57,31 +58,31 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Isn't that a little short to be aiming for the Satsuki Sho and other Classic races!?",
+            "text": "Isn't that a little short to be aiming for the \nSatsuki Sho and other Classic races!?",
             "choice_data_list": [
                 "The Junior class races are \nall short distances.",
                 "The Junior class races are \nall short distances."
             ]
         },
         {
-            "text": "To be honest, I think even 1400m is too long for Sakura Bakushin O…"
+            "text": "To be honest, I think even 1400m is too \nlong for Sakura Bakushin O…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmmm…! For that matter――",
+            "text": "Hmmm…! \nFor that matter――",
             "choice_data_list": [
                 "As class president, you have to show your good faith."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm…!? Faith?"
+            "text": "Hm…!? \nFaith?"
         },
         {
-            "text": "It's cool to jump into a G1 race out of nowhere, but some people may be so surprised by Sakura Bakushin O's speed that they'll collapse."
+            "text": "It's cool to jump into a G1 race out of \nnowhere, but some people may be so \nsurprised by Sakura Bakushin O's speed \nthat they'll collapse."
         },
         {
-            "text": "So, I explained to her that she would first show her face in the Keio Haiyu Junior Stakes and then gradually let her speed be known…",
+            "text": "So, I explained to her that she would first \nshow her face in the Keio Haiyu Junior \nStakes and then gradually let her speed \nbe known…",
             "choice_data_list": [
                 "That's kindness, don't you think?",
                 "That's kindness, don't you think?"
@@ -100,14 +101,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood. In my next target race, I'm going to bring my speed to the world!"
+            "text": "Understood. In my next target race, I'm \ngoing to bring my speed to the world!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, let's get you used to hearing people say \"too fast\"!"
+            "text": "So, let's get you used to hearing \npeople say \"too fast\"!"
         },
         {
-            "text": "At any rate, this is how I decided our next target would be the Keio Haiyu Junior S."
+            "text": "At any rate, this is how I decided our next \ntarget would be the Keio Haiyu Junior S."
         },
         {
             "name": "Sakura Bakushin O",

@@ -1,17 +1,18 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "The day of the Fan Appreciation Festival had arrived."
+            "text": "The day of the Fan Appreciation Festival \nhad arrived."
         },
         {
-            "text": "The school was already crowded with fans. Even so, even more people are still expected to come……"
+            "text": "The school was already crowded with \nfans. Even so, even more people are still \nexpected to come……"
         },
         {
-            "text": "So, it was inevitable that that Uma would make her move."
+            "text": "So, it was inevitable that that Uma would \nmake her move."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Greetings! Hello everyone! Class president, super-honor student, that's me!"
+            "text": "Greetings! Hello everyone! Class president, \nsuper-honor student, that's me!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -19,7 +20,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There's a lot of people out here today, so be sure to watch out for one another!",
+            "text": "There's a lot of people out here today, \nso be sure to watch out for one another!",
             "choice_data_list": [
                 "You're working hard.",
                 "You're working hard."
@@ -31,25 +32,25 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course, the class president should keep a watchful eye on these kinds of events."
+            "text": "Of course, the class president should keep \na watchful eye on these kinds of events."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But though that may be so, today is going to be my day to shine even brighter!",
+            "text": "But though that may be so, today is going \nto be my day to shine even brighter!",
             "choice_data_list": [
                 "What does that mean?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I've registered to run in all sorts of events! Roughly thirty different ones!",
+            "text": "I've registered to run in all sorts of \nevents! Roughly thirty different ones!",
             "choice_data_list": [
                 "Thirty?!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I just wanted to show off my speed to as many attendees as possible!",
+            "text": "I just wanted to show off my speed to \nas many attendees as possible!",
             "choice_data_list": [
                 "D, don't do anything rash.",
                 "D, don't do anything rash."
@@ -61,18 +62,18 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To start with, I'm going to take first place in the \"Spinning Dash\" right after this!"
+            "text": "To start with, I'm going to take first place \nin the \"Spinning Dash\" right after this!"
         },
         {
-            "text": "Sakura Bakushin O was awfully enthusiastic, but…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmmm!? There's something noisy around here!"
+            "text": "Sakura Bakushin O was awfully enthusiastic, \nbut…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Who is it that piques the class president's curiosity―?!"
+            "text": "Hmmm!? There's something noisy around \nhere!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Who is it that piques the class president's \ncuriosity―?!"
         },
         {
             "text": "After that…"
@@ -83,7 +84,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Engineering dubious drugs without permission is strictly prohibited! You must ask for permissiooon!"
+            "text": "Engineering dubious drugs without \npermission is strictly prohibited! You must \nask for permissiooon!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -95,15 +96,15 @@
         },
         {
             "name": "Female Fan",
-            "text": "Ah, my ice cream fell…! Awww…."
+            "text": "Ah, my ice cream fell…! \nAwww…."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hm! A voice coming from an unused classroom!?"
+            "text": "Hm! A voice coming from an unused \nclassroom!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hiyaaah! Reveal yourseelf!"
+            "text": "Hiyaaah! \nReveal yourseelf!"
         },
         {
             "name": "Horsegirl A",
@@ -111,14 +112,14 @@
         },
         {
             "name": "Horsegirl B",
-            "text": "Th, the wind blew the poster! It totally ripped it… ahh……"
+            "text": "Th, the wind blew the poster! \nIt totally ripped it… ahh……"
         },
         {
             "text": "At this rate, I'll finally……"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Whew… I can settle down at last! Well, it's about time to get to the competi……"
+            "text": "Whew… I can settle down at last! \nWell, it's about time to get to the \ncompeti……"
         },
         {
             "name": "Sakura Bakushin O",
@@ -126,15 +127,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The competition is already over!? This can't beee～～!"
+            "text": "The competition is already over!? \nThis can't beee～～!"
         },
         {
             "name": "Air Groove",
-            "text": "There you are, Bakushin O. I've been looking for you."
+            "text": "There you are, Bakushin O. I've been \nlooking for you."
         },
         {
             "name": "Air Groove",
-            "text": "The award ceremony is about to begin. Follow me."
+            "text": "The award ceremony is about to begin. \nFollow me."
         },
         {
             "name": "Sakura Bakushin O",
@@ -146,46 +147,46 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah, maybe it's the honor student first prize! Then, that makes sense!"
+            "text": "Ah, maybe it's the honor student first \nprize! Then, that makes sense!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But then, I think I should be winning that award every day!"
+            "text": "But then, I think I should be winning that \naward every day!"
         },
         {
             "name": "Air Groove",
-            "text": "You're a noisy one, aren't you… Just stop talking and follow me!"
+            "text": "You're a noisy one, aren't you… \nJust stop talking and follow me!"
         },
         {
             "name": "Host",
-            "text": "――So, today's \"Best Sprinter\" is Ms. Sakura Bakushin O!"
+            "text": "――So, today's \"Best Sprinter\" is Ms. \nSakura Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehh!? \"Best Sprinter\"!?"
+            "text": "Ehh!? \n\"Best Sprinter\"!?"
         },
         {
             "name": "Host",
-            "text": "The reason for her vote was that she was \"faster than anyone else today.\" Congratulations!"
+            "text": "The reason for her vote was that she was \n\"faster than anyone else today.\" \nCongratulations!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Th-this can't be! Although it's true that I'm faster than anyone else!"
+            "text": "Th-this can't be! Although it's true that \nI'm faster than anyone else!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A sprinter award? Not an honor student award?"
+            "text": "A sprinter award? Not an honor student \naward?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Huuuuh～… Bummer."
+            "text": "Huuuuh～… \nBummer."
         },
         {
-            "text": "Sakura Bakushin O's spirits were a little low, but in the end, the fan appreciation event was a success."
+            "text": "Sakura Bakushin O's spirits were a little \nlow, but in the end, the fan appreciation \nevent was a success."
         },
         {
             "name": "Host",
-            "text": "――So, the special award from the student council, the \"Good Work\" award, goes to Sakura Bakushin O!"
+            "text": "――So, the special award from the student \ncouncil, the \"Good Work\" award, goes to \nSakura Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -193,27 +194,27 @@
         },
         {
             "name": "Host",
-            "text": "The way you spent the day running all around the school was simply exemplary! Congratulations!"
+            "text": "The way you spent the day running all \naround the school was simply exemplary! \nCongratulations!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh…! Ohhhh～!!"
+            "text": "Oh…! \nOhhhh～!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Exemplary!! And that's a seal of approval from the student council!!"
+            "text": "Exemplary!! And that's a seal of approval \nfrom the student council!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I can now say that I am a super-honor student! And, well, I guess you could say I'm a brilliant class president!"
+            "text": "I can now say that I am a super-honor \nstudent! And, well, I guess you could say \nI'm a brilliant class president!"
         },
         {
             "name": "Air Groove",
-            "text": "You'll get an extra prize. The student council has a gift for you."
+            "text": "You'll get an extra prize. The student \ncouncil has a gift for you."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaay! It must be a shield, or maybe a trophy!"
+            "text": "Yaay! \nIt must be a shield, or maybe a trophy!"
         },
         {
             "name": "Air Groove",
@@ -221,11 +222,11 @@
         },
         {
             "name": "Air Groove",
-            "text": "――It's cleaning up the mess you made while you were running around!"
+            "text": "――It's cleaning up the mess you made while \nyou were running around!"
         },
         {
             "name": "Air Groove",
-            "text": "In the hallway! In front of the school gate! The classroom! The racecourse! I'll have every last one of them spotless!"
+            "text": "In the hallway! In front of the school gate! \nThe classroom! The racecourse! I'll have \nevery last one of them spotless!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -233,15 +234,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, let us accept this! It is said that \"the bird that rises rides on the wind.\""
+            "text": "But, let us accept this! It is said that \"the \nbird that rises rides on the wind.\""
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm Sakura Bakushin O, receiver of the \"Good Work\" award! Let us clean with grace!"
+            "text": "I'm Sakura Bakushin O, receiver of the \n\"Good Work\" award! Let us clean with \ngrace!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Bakushiiiin! Flapflaaaaap!!"
+            "text": "Bakushiiiin! \nFlapflaaaaap!!"
         },
         {
             "text": "(Thump, crash, bang!!)"
@@ -251,7 +252,7 @@
             "text": "I told you not to make an even larger mess!"
         },
         {
-            "text": "At any rate, the Fan Appreciation Festival ended up being a huge success!"
+            "text": "At any rate, the Fan Appreciation Festival \nended up being a huge success!"
         }
     ]
 }

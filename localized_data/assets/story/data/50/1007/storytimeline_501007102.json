@@ -1,50 +1,51 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "I came for the year's first shrine visit with Gold Ship, but…"
+            "text": "I came for the year's first shrine visit \nwith Gold Ship, but…"
         },
         {
             "name": "Gold Ship",
-            "text": "Damnation……!! Why must it…!! Damn it, damn it……!!"
+            "text": "Damnation……!! Why must it…!! \nDamn it, damn it……!!"
         },
         {
-            "text": "― Since arriving at the shrine, Gold Ship has been angry about something!"
+            "text": "― Since arriving at the shrine, Gold Ship \nhas been angry about something!"
         },
         {
             "name": "Gold Ship",
-            "text": "What happened in a measly year……!? Why did things turn out like this!?",
+            "text": "What happened in a measly year……!? \nWhy did things turn out like this!?",
             "choice_data_list": [
                 "What are you on about?"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Can't you tell!!? I'm talking about yakisoba!!",
+            "text": "Can't you tell!!? \nI'm talking about yakisoba!!",
             "choice_data_list": [
                 "Yakisoba…?"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Oh, mercy! This time every year, countless stalls are lined up…! And among all them, there was a yakisoba stall!"
+            "text": "Oh, mercy! This time every year, countless \nstalls are lined up…! And among all them, \nthere was a yakisoba stall!"
         },
         {
             "name": "Gold Ship",
-            "text": "And yet…… this year, I can't find it anywhere!!"
+            "text": "And yet…… this year, \nI can't find it anywhere!!"
         },
         {
             "name": "Gold Ship",
-            "text": "Why for? Are you telling me the yakisoba did something wrong?! Did they…?!",
+            "text": "Why for? Are you telling me the yakisoba \ndid something wrong?! Did they…?!",
             "choice_data_list": [
                 "W-who knows…"
             ]
         },
         {
-            "text": "… I have no clue what's up with the stall. Though I think they sometimes just don't have one."
+            "text": "… I have no clue what's up with \nthe stall. Though I think they \nsometimes just don't have one."
         },
         {
             "name": "Gold Ship",
-            "text": "Damn…… damn it……!! Treating yakisoba so carelessly!!"
+            "text": "Damn…… damn it……!! \nTreating yakisoba so carelessly!!"
         },
         {
             "name": "Gold Ship",
@@ -52,22 +53,22 @@
         },
         {
             "name": "Gold Ship",
-            "text": "I've made up my mind! This year, I'll give my all to become the horsegirl leading the yakisoba world to new heights!!"
+            "text": "I've made up my mind! This year, I'll give \nmy all to become the horsegirl leading \nthe yakisoba world to new heights!!"
         },
         {
             "name": "Gold Ship",
-            "text": "I will re-introduce the public to the wonders of yakisoba, educate and enlighten them—"
+            "text": "I will re-introduce the public to the \nwonders of yakisoba, educate \nand enlighten them—"
         },
         {
             "name": "Gold Ship",
-            "text": "I'm gonna push yakisoba back to the world's number one junk food spot!!"
+            "text": "I'm gonna push yakisoba back to the \nworld's number one junk food spot!!"
         },
         {
             "name": "Gold Ship",
-            "text": "You're gonna help me, of course!? With that said, where do you think we should start?"
+            "text": "You're gonna help me, of course!? \nWith that said, where do you think \nwe should start?"
         },
         {
-            "text": "I don't know what answer she's expecting but for the moment…",
+            "text": "I don't know what answer she's expecting \nbut for the moment…",
             "choice_data_list": [
                 "Have some to put the taste fresh in our minds.",
                 "Learn how to prepare it.",
@@ -80,15 +81,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "That's true, I need to be the one who best understands yakisoba…"
+            "text": "That's true, I need to be the one who \nbest understands yakisoba…"
         },
         {
             "name": "Gold Ship",
-            "text": "If not, I won't be able to convince others of its wonders…"
+            "text": "If not, I won't be able to convince \nothers of its wonders…"
         },
         {
             "name": "Gold Ship",
-            "text": "So, I will understand you, yakisoba!! I'll give you my love… deeper, and more intensely than anyone!!"
+            "text": "So, I will understand you, yakisoba!! \nI'll give you my love… deeper, and \nmore intensely than anyone!!"
         },
         {
             "name": "Gold Ship",
@@ -96,15 +97,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "I see, what's lacking is charismatic techniques…!!"
+            "text": "I see, what's lacking is \ncharismatic techniques…!!"
         },
         {
             "name": "Gold Ship",
-            "text": "If I could cook up yakisoba out of thin air with my divine technique… That would be hit news for sure…!!"
+            "text": "If I could cook up yakisoba out of \nthin air with my divine technique… \nThat would be hit news for sure…!!"
         },
         {
             "name": "Gold Ship",
-            "text": "A'ight! I'm gonna take the yakisoba world by storm with my illusionist skills!!"
+            "text": "A'ight! I'm gonna take the yakisoba world \nby storm with my illusionist skills!!"
         },
         {
             "name": "Gold Ship",
@@ -112,15 +113,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "You're absolutely right.…… Stereotypical yakisoba ain't gonna change the world…!"
+            "text": "You're absolutely right.…… Stereotypical \nyakisoba ain't gonna change the world…!"
         },
         {
             "name": "Gold Ship",
-            "text": "Fortunately, we have freedom of expression. To use sweets, to get rid of the noodles entirely… I can do whatever I want!!"
+            "text": "Fortunately, we have freedom of expression. \nTo use sweets, to get rid of the noodles \nentirely… I can do whatever I want!!"
         },
         {
             "name": "Gold Ship",
-            "text": "Let's do it, dive into the endless ocean! I'll bring the colours of the rainbow to yakisoba!!"
+            "text": "Let's do it, dive into the endless ocean! \nI'll bring the colours of the rainbow \nto yakisoba!!"
         }
     ]
 }

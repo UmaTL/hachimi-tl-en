@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Could it be that I… Have lost!?",
+            "text": "Could it be that I… \nHave lost!?",
             "choice_data_list": [
                 "You've lost…",
                 "You've lost…"
@@ -18,15 +19,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "How can that be when… I'm the spectacular class president!?"
+            "text": "How can that be when… \nI'm the spectacular class president!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Iiiiiiiiiiiiii!? Iiiiii, iiiii, iiiimpossible!"
+            "text": "Iiiiiiiiiiiiii!? \nIiiiii, iiiii, iiiimpossible!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, but, but, I truly did lose…",
+            "text": "But, but, but, \nI truly did lose…",
             "choice_data_list": [
                 "Let's calm down."
             ]
@@ -41,34 +42,34 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I truly can't run long distances like everyone says! Nonono, I'm the class president, I can't――"
+            "text": "I truly can't run long distances like everyone \nsays! Nonono, I'm the class president, \nI can't――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Wait, could it be, I am… the class president……no longer!?"
+            "text": "Wait, could it be, I am… \nthe class president……no longer!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Because if I can't be the envy of everyone, then I'm… no longer the class president……"
+            "text": "Because if I can't be the envy of \neveryone, then I'm… no longer the \nclass president……"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I, if that's true!! If I'm not the class president, I'm not me anymore!!"
+            "text": "I, if that's true!! \nIf I'm not the class president, I'm not me \nanymore!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Then, who am I!? Nice to meet you, hello!?"
+            "text": "Then, who am I!? \nNice to meet you, hello!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You're Sakura Bakushin O, the girl who's going to be class president!?",
+            "text": "You're Sakura Bakushin O, the girl who's \ngoing to be class president!?",
             "choice_data_list": [
                 "Let's calm down!!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Down…!? You want me to fall down!?",
+            "text": "Down…!? \nYou want me to fall down!?",
             "choice_data_list": [
                 "Breathe in, breathe out!!"
             ]
@@ -83,10 +84,10 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah, the air feels good… It's underground, though."
+            "text": "Ah, the air feels good… \nIt's underground, though."
         },
         {
-            "text": "She's finally calmed down, but the damage from the loss is still too great. If that's the case…",
+            "text": "She's finally calmed down, but the \ndamage from the loss is still too \ngreat. \nIf that's the case…",
             "choice_data_list": [
                 "Right now, you're still in the \nprocess of growing up.",
                 "Right now, you're still in the \nprocess of growing up."
@@ -101,33 +102,33 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's true, too! I still had a lot of room to grow!"
+            "text": "That's true, too! \nI still had a lot of room to grow!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, it's not that I'm not good enough. It's just that I haven't grown enough!"
+            "text": "Yes, it's not that I'm not good enough. \nIt's just that I haven't grown enough!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Carelessly, I had completely forgot that I'm such a spectacular Uma Musume. Thoughtlessly!"
+            "text": "Carelessly, I had completely forgot that \nI'm such a spectacular Uma Musume. \nThoughtlessly!"
         },
         {
-            "text": "……I'm grateful things got better so quickly."
+            "text": "……I'm grateful things got \nbetter so quickly."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, I'm going to <i>spriiiing</i> up. So, your instructions, please!",
+            "text": "Trainer, I'm going to <i>spriiiing</i> up. \nSo, your instructions, please!",
             "choice_data_list": [
                 "What?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In this case, asking for guidance from Trainer would be a good and objective decision."
+            "text": "In this case, asking for guidance \nfrom Trainer would be a good \nand objective decision."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After all, I'm the perfect class president, with a side of honesty!",
+            "text": "After all, I'm the perfect class president, \nwith a side of honesty!",
             "choice_data_list": [
                 "Then, let's train again! In short distances!"
             ]
@@ -145,24 +146,24 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I seeeee! That is very true!",
+            "text": "I seeeee! \nThat is very true!",
             "choice_data_list": [
                 "Then, let's run the Aoi Stakes next!"
             ]
         },
         {
-            "text": "It's a lower grade, but it's a 1200 meter race that should be a steady winner."
+            "text": "It's a lower grade, but it's a 1200 meter \nrace that should be a steady winner."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood. I'll win by a huge margin!"
+            "text": "Understood. \nI'll win by a huge margin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And restore the wounded pride of the class president!!"
+            "text": "And restore the wounded \npride of the class president!!"
         },
         {
-            "text": "Thus, the next race was decided to be the Aoi Stakes!",
+            "text": "Thus, the next race was decided \nto be the Aoi Stakes!",
             "color_text_info_list": [
                 "Aoi Stakes"
             ]

@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Chiyono O",
-            "text": "<i>Aichi prefecture is famous for the Chukyo racetrack, home to the Takamatsunomiya Kinen G1 race</i> —"
+            "text": "<i>Aichi prefecture is famous for the \nChukyo racetrack, home to the \nTakamatsunomiya Kinen G1 race</i> —"
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Takamatsunomiya Kinen is a 1200m short distance race on turf…"
+            "text": "Takamatsunomiya Kinen is a 1200m \nshort distance race on turf…"
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "I'm certain Bakushin would do amazingly well in that…! She is, after all, unrivaled in sprints♪"
+            "text": "I'm certain Bakushin would do \namazingly well in that…! She is, \nafter all, unrivaled in sprints♪"
         }
     ]
 }

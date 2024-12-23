@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Haahahahaha! I've been waiting for you, trainer <username>!"
+            "text": "Haahahahaha! I've been waiting\nfor you, trainer <username>!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "The look on her face as she takes on the final… Mmm! She's practically glowing with motivation."
+            "text": "The look on her face as she takes\non the final… Mmm! She's practically\nglowing with motivation."
         },
         {
             "name": "Chairwoman Akikawa",
@@ -14,13 +15,13 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Believe in the strength of your horse girl, and grasp victory together!",
+            "text": "Believe in the strength of your horse girl,\nand grasp victory together!",
             "choice_data_list": [
                 "Yes…!"
             ]
         },
         {
-            "text": "The gate to the finals of the URA Finals is finally open!"
+            "text": "The gate to the finals of the\nURA Finals is finally open!"
         }
     ]
 }

@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One afternoon, I get a notification on my phone, so I take a look, and――"
+            "text": "One afternoon, I get a notification on my \nphone, so I take a look, and――"
         },
         {
             "name": "???",
@@ -22,22 +23,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaah～! I apologize for the abruptness of my assault! Trainer!"
+            "text": "Aaaah～! I apologize for the abruptness of \nmy assault! Trainer!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "Please forgive her! My senpai only did it because her righteous heart is burning to catch this criminal…!",
+            "text": "Please forgive her! My senpai only did it \nbecause her righteous heart is burning \nto catch this criminal…!",
             "choice_data_list": [
                 "Uh, criminal?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My classmate's horseshoe has been stolen! As the class president, I cannot turn a blind eye!"
+            "text": "My classmate's horseshoe has been stolen! \nAs the class president, I cannot turn a \nblind eye!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "The same thing is happening all over school… I, too, as a hero of justice, am pursuing the culprit!"
+            "text": "The same thing is happening all over \nschool… I, too, as a hero of justice, am \npursuing the culprit!"
         },
         {
             "name": "Biko Pegasus",
@@ -49,22 +50,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, no! Not at all! That phone, it looked like the stolen horseshoe…"
+            "text": "No, no, no! Not at all! \nThat phone, it looked like the stolen \nhorseshoe…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Just now! Compleeetely! I forgot that the culprit was a crow!"
+            "text": "Just now! Compleeetely! \nI forgot that the culprit was a crow!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Howeeeeever! Next time, without fail, I'll get the horseshoe back from that cro――"
+            "text": "Howeeeeever! Next time, without fail, I'll \nget the horseshoe back from that cro――"
         },
         {
             "text": "(Kaaaaack! Caaaw!)"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There it is! A crow with a horseshoe in its mouth! This time, in the name of the class president, I shall capture you!"
+            "text": "There it is! A crow with a horseshoe in its \nmouth! \nThis time, in the name of the class \npresident, I shall capture you!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -72,67 +73,67 @@
         },
         {
             "name": "Classmate A",
-            "text": "Horseshoes and… huh? This menko, the one I lost and was looking for…!"
+            "text": "Horseshoes and… huh? \nThis menko, the one I lost and was looking \nfor…!"
         },
         {
             "name": "Classmate B",
-            "text": "Aahh!? There's my hoof hammer, too! It was just the crows' doing…! Thank goodness!"
+            "text": "Aahh!? There's my hoof hammer, too! \nIt was just the crows' doing…! \nThank goodness!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "That crow was the school's great thief! That's amazin', Bakushin O-senpai!"
+            "text": "That crow was the school's great thief! \nThat's amazin', Bakushin O-senpai!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fu-fu-fu! Isn't it!? This is――"
+            "text": "Fu-fu-fu! Isn't it!? \nThis is――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The Bakushin-esque power of the class president!"
+            "text": "The Bakushin-esque power of the class \npresident!"
         },
         {
             "name": "Classmates",
-            "text": "As expected, Bakushi―n! That's our class president～～!"
+            "text": "As expected, Bakushi―n! \nThat's our class president～～!"
         },
         {
-            "text": "Sakura Bakushinoh's fame was further enhanced!"
+            "text": "Sakura Bakushinoh's fame was further \nenhanced!"
         },
         {
             "name": "Classmate",
-            "text": "Whoa! Thanks, class president! For getting my horseshoe back!"
+            "text": "Whoa! Thanks, class president! \nFor getting my horseshoe back!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "Those crows were shakin' in their boots so bad, they must have changed their minds! Now we've successfully kept the peace at the school!"
+            "text": "Those crows were shakin' in their boots so \nbad, they must have changed their minds! \nNow we've successfully kept the peace at \nthe school!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh no, no, this is nothing! With my superb swiftness, I can do this stuff without breaking a sweat!"
+            "text": "Oh no, no, this is nothing! With my superb \nswiftness, I can do this stuff without \nbreaking a sweat!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please do keep counting on me for anything at all, one thing after the other!"
+            "text": "Please do keep counting on me for \nanything at all, one thing after the other!"
         },
         {
-            "text": "Sakura Bakushin O's class was excited by her success."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Whhaaaah―!? Being able to fly isn't fair―!!"
+            "text": "Sakura Bakushin O's class was excited by \nher success."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuugh… I missed. I should have polished up on my Bakushin more…"
+            "text": "Whhaaaah―!? \nBeing able to fly isn't fair―!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However, if I simply give up like this, I'll ruin my reputation as class president! What should I do!",
+            "text": "Uuuugh… I missed. \nI should have polished up on my Bakushin \nmore…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, if I simply give up like this, I'll \nruin my reputation as class president! \nWhat should I do!",
             "choice_data_list": [
                 "We'll use traps to lure them out."
             ]
         },
         {
-            "text": "Earlier, she said \"I mistook a horseshoe for a cell phone.\" …Using what she said as a hint, I set up a phone as a decoy――"
+            "text": "Earlier, she said \"I mistook a horseshoe for \na cell phone.\" \n…Using what she said as a hint, I set up a \nphone as a decoy――"
         },
         {
             "name": "Sakura Bakushin O",
@@ -140,22 +141,22 @@
         },
         {
             "name": "Classmate",
-            "text": "Whoa! Thanks, class president! For getting my horseshoe back!"
+            "text": "Whoa! Thanks, class president! \nFor getting my horseshoe back!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "Those crows were shakin' in their boots so bad, they must have changed their minds! Now we've successfully kept the peace at the school!"
+            "text": "Those crows were shakin' in their boots so \nbad, they must have changed their minds! \nNow we've successfully kept the peace at \nthe school!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fufu, I'd like to thank you, too! This has been a great learning experience!"
+            "text": "Fufu, I'd like to thank you, too! \nThis has been a great learning experience!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Not only must I Bakushin… It's also quite necessary to work out a plan!"
+            "text": "Not only must I Bakushin… \nIt's also quite necessary to work out a plan!"
         },
         {
-            "text": "While she regretted that she couldn't solve the problem, she seemed to have made a new discovery."
+            "text": "While she regretted that she couldn't solve \nthe problem, she seemed to have made a \nnew discovery."
         }
     ]
 }

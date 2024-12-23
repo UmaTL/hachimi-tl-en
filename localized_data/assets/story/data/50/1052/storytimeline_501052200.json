@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "Finally, it's time for Haru Urara's debut race.",
@@ -8,7 +9,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Urara debut～♪ Urara debut♪ It's time for the debut～!",
+            "text": "Urara debut～♪ \nUrara debut♪ It's time for the debut～!",
             "choice_data_list": [
                 "You're in a good mood!",
                 "You're in a good mood!"
@@ -16,37 +17,37 @@
         },
         {
             "name": "Haru Urara",
-            "text": "It's because I can finally make my debut! Debuting is amazing!"
+            "text": "It's because I can finally make my debut! \nDebuting is amazing!"
         },
         {
             "name": "Haru Urara",
-            "text": "When I make my debut, I'll be able to run a lot more than now!"
+            "text": "When I make my debut, I'll be able \nto run a lot more than now!"
         },
         {
             "name": "Haru Urara",
-            "text": "I love running! That's why I'm so happy～!"
+            "text": "I love running! \nThat's why I'm so happy～!"
         },
         {
             "name": "Haru Urara",
-            "text": "Besides, I feel like I've become much stronger than before!"
+            "text": "Besides, I feel like I've become \nmuch stronger than before!"
         },
         {
             "name": "Haru Urara",
-            "text": "I had a lot of matches with the trainer, and I didn't lose even once!",
+            "text": "I had a lot of matches with the trainer, \nand I didn't lose even once!",
             "choice_data_list": [
                 "Haha…"
             ]
         },
         {
-            "text": "If the result of our races gave her confidence, then the days of sore muscles will be worth it…"
+            "text": "If the result of our races gave her \nconfidence, then the days of sore muscles \nwill be worth it…"
         },
         {
             "name": "Haru Urara",
-            "text": "That's why I'm sure I'll be able to get first place today!"
+            "text": "That's why I'm sure I'll be able \nto get first place today!"
         },
         {
             "name": "Haru Urara",
-            "text": "No, I'll definitely get the first place! Time to go!"
+            "text": "No, I'll definitely get the first place! \nTime to go!"
         }
     ]
 }

@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I cannot express…… how sorry I am about my last race!!"
+            "text": "I cannot express…… \nhow sorry I am about my last race!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was not an honor roll student run! I must be a better role model!!"
+            "text": "That was not an honor roll student run! \nI must be a better role model!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyooooone!! Today, I'd like to show you all the class president's comeback kid ruuuun―!",
+            "text": "Everyooooone!! Today, I'd like to show \nyou all the class president's comeback \nkid ruuuun―!",
             "choice_data_list": [
                 "Go on!",
                 "Go on!"

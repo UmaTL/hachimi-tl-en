@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "The final day of the summer training camp…"
@@ -9,30 +10,30 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "How was that, Trainer?! Wasn't it brilliantly fast!?",
+            "text": "How was that, Trainer?! \nWasn't it brilliantly fast!?",
             "choice_data_list": [
                 "That speed in the sand is amazing!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Isn't it! Ha-ha-haaa―!"
+            "text": "Isn't it! \nHa-ha-haaa―!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I think I've improved quite a bit at this training camp!"
+            "text": "I think I've improved quite a bit at \nthis training camp!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "She was fast to begin with, but now she's even faster! Truly a Bakushin-worthy speed!"
+            "text": "She was fast to begin with, but now she's \neven faster! Truly a Bakushin-worthy \nspeed!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is as good as a promise! Victory in the Sprinter's Stakes!"
+            "text": "This is as good as a promise! \nVictory in the Sprinter's Stakes!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If I don't win by a landslide, I'll change my name to Sakura O!!",
+            "text": "If I don't win by a landslide, I'll \nchange my name to Sakura O!!",
             "choice_data_list": [
                 "Don't do that.",
                 "Don't do that."
@@ -40,14 +41,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I will! That's the only way to win!"
+            "text": "Of course I will! \nThat's the only way to win!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please look forward to it, as a sort of spectator!"
+            "text": "Please look forward to it, \nas a sort of spectator!"
         },
         {
-            "text": "…This is how the, hot? summer training camp with Sakura Bakushin O came to an end."
+            "text": "…This is how the, hot? summer training \ncamp with Sakura Bakushin O came \nto an end."
         }
     ]
 }

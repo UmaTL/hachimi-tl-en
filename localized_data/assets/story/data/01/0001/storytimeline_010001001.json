@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "I see you were talking to your support horsegirls!"
+            "text": "I see you were talking to \nyour support horsegirls!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Every single encounter is a precious experience. Please make the most of them when training your horsegirls!"
+            "text": "Every single encounter is a precious \nexperience. Please make the most of them when \ntraining your horsegirls!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "… Incidentally, this academy is very extensive. It's not unlikely you could run into horsegirls not part of your support group～"
+            "text": "… Incidentally, this academy is \nvery extensive. It's not unlikely \nyou could run into horsegirls not \npart of your support group～"
         }
     ]
 }

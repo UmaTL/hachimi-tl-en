@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,29 +7,29 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Nn… I'm sorry, I was in a… meeting. An intellectual evil… kind of situation.",
+            "text": "Nn… I'm sorry, I was in a… meeting. \nAn intellectual evil… kind of situation.",
             "choice_data_list": [
                 "Intellectual, evil…?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes… Last night, the beverage that Bakushins one's thoughts… Coffee, I drank too much of it."
+            "text": "Yes… Last night, the beverage that \nBakushins one's thoughts… \nCoffee, I drank too much of it."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "\"Stay sharp, keep that drowsiness away!\" the label said… but I didn't expect it to go this far…"
+            "text": "\"Stay sharp, keep that drowsiness away!\" \nthe label said… but I didn't expect it to go \nthis far…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaaawn～… Trainer, please do be careful around coffee."
+            "text": "Yaaaawn～… \nTrainer, please do be careful around coffee."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Only one cup, and it has this effect… …I'll… only get through half of the day today."
+            "text": "Only one cup, and it has this effect… \n…I'll… only get through half of the day today."
         },
         {
-            "text": "Perhaps because of her overly straight- laced nature, Sakura Bakushin O was unable to sleep well after just one cup of coffee…"
+            "text": "Perhaps because of her overly straight- \nlaced nature, Sakura Bakushin O was unable \nto sleep well after just one cup of coffee…"
         }
     ]
 }

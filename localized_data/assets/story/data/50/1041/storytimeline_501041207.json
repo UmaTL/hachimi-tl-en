@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,14 +11,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Gallop, gallop… Oya, perfect!",
+            "text": "Gallop, gallop… \nOya, perfect!",
             "choice_data_list": [
                 "Are you restless?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no! I'm completely prepared!"
+            "text": "No, no! \nI'm completely prepared!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -25,7 +26,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm still in the middle of running towards the 3600m goal!!",
+            "text": "I'm still in the middle of \nrunning towards the 3600m goal!!",
             "choice_data_list": [
                 "……You're right!",
                 "……You're right!"
@@ -33,7 +34,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With the momentum from the Hakodate Sprint Stakes, I'll go on to win the CBC Sho!"
+            "text": "With the momentum from the Hakodate \nSprint Stakes, I'll go on to win the CBC Sho!"
         },
         {
             "name": "Sakura Bakushin O",

@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Laurel",
-            "text": "『Naritasan Fudoson』…… I don't know why, but it's a place I had in my mind for a long time."
+            "text": "『Naritasan Fudoson』…… \nI don't know why, but it's a place \nI had in my mind for a long time."
         },
         {
             "name": "Sakura Laurel",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Sakura Laurel",
-            "text": "Ah, yes. I should buy some souvenir for Brianchan♪"
+            "text": "Ah, yes. I should buy some souvenir \nfor Brianchan♪"
         },
         {
             "name": "Sakura Laurel",
-            "text": "If I remember correctly, this place is famous for receiving blessings for traffic safety… I wonder if it applies to racing as well?"
+            "text": "If I remember correctly, this place \nis famous for receiving blessings for \ntraffic safety… \nI wonder if it applies to racing as well?"
         }
     ]
 }

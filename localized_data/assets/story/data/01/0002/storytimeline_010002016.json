@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Here you can strenghten your horsegirls and support cards, as well as manage your finished \"Hall of Fame\" horsegirls after training."
+            "text": "Here you can strenghten your horsegirls \nand support cards, as well as manage \nyour finished \"Hall of Fame\" horsegirls \nafter training."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Strenghtening your horsegirls or support cards before training with them will lead to better results!"
+            "text": "Strenghtening your horsegirls or support \ncards before training with them will lead to \nbetter results!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Also, you can obtain the materials required mostly from races.",
+            "text": "Also, you can obtain the materials \nrequired mostly from races.",
             "color_text_info_list": [
                 "obtain the materials",
                 "from races"

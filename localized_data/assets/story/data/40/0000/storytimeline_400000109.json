@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Bitter Glasse",
-            "text": "Oh, there you are! Good work! I wanted to talk to you!"
+            "text": "Oh, there you are! Good work! I\nwanted to talk to you!"
         },
         {
             "name": "Bitter Glasse",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Bitter Glasse",
-            "text": "I look forward to fighting with you guys again! See you in the \"Aoharu Hai\"!"
+            "text": "I look forward to fighting with you guys\nagain! See you in the \"Aoharu Hai\"!"
         },
         {
             "name": "Little Cocon",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Little Cocon",
-            "text": "… I'm not trying to comfort you or anything. Really."
+            "text": "… I'm not trying to comfort\nyou or anything. Really."
         },
         {
             "name": "Little Cocon",

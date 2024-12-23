@@ -1,36 +1,37 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, on a day out with Sakura Bakushin O――"
+            "text": "One day, on a day out with Sakura \nBakushin O――"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Oya, that's…"
         },
         {
-            "text": "Sakura Bakushin O was looking at a stuffed Uma Musume doll―a prize for the crane game."
+            "text": "Sakura Bakushin O was looking at \na stuffed Uma Musume doll―a prize for \nthe crane game."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's the stuffed doll that's all the rage in my class!"
+            "text": "That's the stuffed doll that's all the rage in \nmy class!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I must keep up with the class trends!"
+            "text": "As class president, I must keep up with the \nclass trends!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "All right, now let's Bakushin this arm and try to get that stuffed doll!!",
+            "text": "All right, now let's Bakushin this arm and \ntry to get that stuffed doll!!",
             "choice_data_list": [
                 "Bakushin your arm……?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! I'm going to get that stuffed doll with the power of Bakushin!"
+            "text": "Affirmative! I'm going to get that stuffed \ndoll with the power of Bakushin!"
         },
         {
-            "text": "I can easily imagine that it would be impossible to get a stuffed doll by using \"the power of Bakushin\" as she says……",
+            "text": "I can easily imagine that it would be \nimpossible to get a stuffed doll by using \"the \npower of Bakushin\" as she says……",
             "choice_data_list": [
                 "Leave it to me.",
                 "Leave it to me."
@@ -38,15 +39,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohh, what dependable words! You seem to be quite capable!"
+            "text": "Ohh, what dependable words! \nYou seem to be quite capable!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And, if you top it off with my support as class president――"
+            "text": "And, if you top it off with my support as \nclass president――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Surely we'll be invincible! Trainer, let's do our best!"
+            "text": "Surely we'll be invincible! \nTrainer, let's do our best!"
         },
         {
             "text": "――I won't lose this game!"

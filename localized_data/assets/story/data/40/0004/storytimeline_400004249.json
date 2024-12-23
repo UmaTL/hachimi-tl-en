@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "I have a great idea!!! This year, let's rent out an island while the cherry blossoms are in full bloom, and make the most of it!"
+            "text": "I have a great idea!!! This year, let's rent \nout an island while the cherry blossoms are \nin full bloom, and make the most of it!"
         },
         {
             "name": "Nice Nature",
-            "text": "―― I was told to get on a boat, but it looks like there's been a bit of an accident."
+            "text": "―― I was told to get on a boat, but it looks \nlike there's been a bit of an accident."
         },
         {
             "name": "Seiun Sky",
-            "text": "Sei-chan loves this～. It's an island full of cats instead of cherry blossoms."
+            "text": "Sei-chan loves this～. It's an island full of \ncats instead of cherry blossoms."
         },
         {
             "name": "Seiun Sky",
-            "text": "Kitty cat, kitty cat, lets take a little nap together me～ow ♪"
+            "text": "Kitty cat, kitty cat, lets take a little nap \ntogether me～ow ♪"
         },
         {
             "name": "White Cat",
@@ -22,7 +23,7 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Well, what a warm welcome～. I might stay here for a while meow～."
+            "text": "Well, what a warm welcome～. I might stay here \nfor a while meow～."
         },
         {
             "name": "Narita Taishin",
@@ -34,7 +35,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Hmmm… This picture turned out pretty nice, a cat on a deserted island."
+            "text": "Hmmm… This picture turned out pretty nice, a \ncat on a deserted island."
         },
         {
             "name": "Black Cat",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Wah!? They keep getting too close, I can't get a good picture, so I'm going to go…"
+            "text": "Wah!? They keep getting too close, I can't \nget a good picture, so I'm going to go…"
         },
         {
             "name": "Cats",
@@ -54,11 +55,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Well, I guess panicking wont get us anywhere. I think I'll take a little nap too."
+            "text": "Well, I guess panicking wont get us anywhere. \nI think I'll take a little nap too."
         },
         {
             "name": "Nice Nature",
-            "text": "Luckily, I don't think Sky or Taishin-san are around either."
+            "text": "Luckily, I don't think Sky or Taishin-san are \naround either."
         },
         {
             "name": "Striped Cat",
@@ -66,14 +67,14 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Haaaah…! I know this isn't the time or place for this… but I feel like I'm being healed～."
+            "text": "Haaaah…! I know this isn't the time or place \nfor this… but I feel like I'm being healed～."
         },
         {
             "name": "Nice Nature",
-            "text": "Fluffy… fluffy… This must be what heaven feels like…"
+            "text": "Fluffy… fluffy… This must be \nwhat heaven feels like…"
         },
         {
-            "text": "A few hours later, the three were found by a search and rescue team. They were all sleeping happily with the cats."
+            "text": "A few hours later, the three were found by a \nsearch and rescue team. They were all \nsleeping happily with the cats."
         }
     ]
 }

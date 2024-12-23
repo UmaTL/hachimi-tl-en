@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Chiyono O",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "I remember Maruzen-san saying before, \"Mount Akagi is my holy land!♪\" ――!"
+            "text": "I remember Maruzen-san saying before, \n\"Mount Akagi is my holy land!♪\" ――!"
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Wow, that slope looks like it would be a challenging run! It might be the perfect spot to train my stamina and power!!"
+            "text": "Wow, that slope looks like it would be a \nchallenging run! It might be the perfect spot \nto train my stamina and power!!"
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Alright, for a commemorative run…! Fight, O-! Chiyono, O-!!"
+            "text": "Alright, for a commemorative run…! \nFight, O-! Chiyono, O-!!"
         }
     ]
 }

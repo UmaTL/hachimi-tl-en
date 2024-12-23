@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "For inheritance, their “compatibility” is determined by the relationship between the trained horsegirl and her successors.",
+            "text": "For inheritance, their “compatibility” is \ndetermined by the relationship between \nthe trained horsegirl and her successors.",
             "color_text_info_list": [
                 "compatibility"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "If they have good compatibility, you're a little more likely to have good things happen to them!",
+            "text": "If they have good compatibility, \nyou're a little more likely to have \ngood things happen to them!",
             "color_text_info_list": [
                 "you're a little more likely to have",
                 "good things"
@@ -17,7 +18,7 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You may want to keep this in mind as a reference for future combinations! ♪"
+            "text": "You may want to keep this in mind as a \nreference for future combinations! ♪"
         }
     ]
 }

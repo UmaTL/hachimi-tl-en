@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is the entrance of Tracen Academy, and the homescreen."
+            "text": "This is the entrance of Tracen Academy, \nand the homescreen."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You can access various places in Tracen Academy from the homescreen."
+            "text": "You can access various places in \nTracen Academy from the homescreen."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "To start training your horsegirl, let's start here."
+            "text": "To start training your horsegirl, \nlet's start here."
         }
     ]
 }

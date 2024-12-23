@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Sakura Bakushin O is now ready to take on the Sprinter's Stakes for a second time."
+            "text": "Sakura Bakushin O is now ready \nto take on the Sprinter's Stakes \nfor a second time."
         },
         {
-            "text": "In the waiting room before the race, there was something going on that I didn't quite understand."
+            "text": "In the waiting room before the race, \nthere was something going on that \nI didn't quite understand."
         },
         {
             "name": "Sakura Bakushin O",
@@ -16,22 +17,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Please do wait a moment. I'm thinking a little right now!"
+            "text": "Please do wait a moment. \nI'm thinking a little right now!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Errm, well, in this case… <i>Mumblemumblemumble.</i>"
+            "text": "Errm, well, in this case… \n<i>Mumblemumblemumble.</i>"
         },
         {
             "name": "Nishino Flower",
-            "text": "Um, Ms. Bakushin O's Trainer. What's the meaning of all this…?",
+            "text": "Um, Ms. Bakushin O's Trainer. \nWhat's the meaning of all this…?",
             "choice_data_list": [
                 "I wonder that, too…",
                 "I wonder that, too…"
             ]
         },
         {
-            "text": "Sakura Bakushin O suddenly ran out of the waiting room and pulled Nishino Flower with her. I'm sure she has some sort of agenda…"
+            "text": "Sakura Bakushin O suddenly ran out of the \nwaiting room and pulled Nishino Flower with \nher. I'm sure she has some sort of agenda…"
         },
         {
             "name": "Sakura Bakushin O",
@@ -47,7 +48,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From now on, I'm declaring you chief advisor to the class president!!"
+            "text": "From now on, I'm declaring you chief \nadvisor to the class president!!"
         },
         {
             "name": "Nishino Flower",
@@ -55,30 +56,30 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this!? My message wasn't received!?",
+            "text": "What's this!? \nMy message wasn't received!?",
             "choice_data_list": [
                 "Do you mean declare victory?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ah, yes, that! I declare victory!!"
+            "text": "Ah, yes, that! \nI declare victory!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I swear to you that I will run fair and square in this Sprinter's Stakes and best you outright!"
+            "text": "I swear to you that I will run fair and \nsquare in this Sprinter's Stakes and \nbest you outright!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And… with this victory, I'll prove just how much I've grown!"
+            "text": "And… with this victory, I'll prove \njust how much I've grown!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, Ms. Flower, please allow me to race against such a skilled Uma as you!"
+            "text": "So, Ms. Flower, please allow me to \nrace against such a skilled Uma as you!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Allow this Class Stayer, who ran the whole 3600 meters!"
+            "text": "Allow this Class Stayer, who \nran the whole 3600 meters!"
         },
         {
             "name": "Nishino Flower",
@@ -86,7 +87,7 @@
         },
         {
             "name": "Nishino Flower",
-            "text": "Um, anyway, with all I can, I'll do my best, too!"
+            "text": "Um, anyway, with all I can, \nI'll do my best, too!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -97,7 +98,7 @@
             "text": "Now, let's fight like we always do!"
         },
         {
-            "text": "Thanking the kind Nishino Flower, I sent Sakura Bakushin O off."
+            "text": "Thanking the kind Nishino Flower, \nI sent Sakura Bakushin O off."
         }
     ]
 }

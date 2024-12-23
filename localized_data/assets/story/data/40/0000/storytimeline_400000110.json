@@ -1,24 +1,25 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Newscaster",
-            "text": "Now, the curtain is finally lifting on the URA Finals!"
+            "text": "Now, the curtain is finally lifting\non the URA Finals!"
         },
         {
             "name": "Newscaster",
-            "text": "This is the dream stage where the star horse girls of the Twinkle series compete for the top spot!"
+            "text": "This is the dream stage where the\nstar horse girls of the Twinkle series\ncompete for the top spot!"
         },
         {
             "name": "Newscaster",
-            "text": "Today, I'm pleased to announce our illustrious runners! First up—"
+            "text": "Today, I'm pleased to announce our\nillustrious runners! First up—"
         },
         {
             "name": "Horsegirl Fan A",
-            "text": "Hey hey hey, did you see what's trending!? It's almost exclusively URA Finals runners!"
+            "text": "Hey hey hey, did you see what's trending!?\nIt's almost exclusively URA Finals runners!"
         },
         {
             "name": "Horsegirl Fan B",
-            "text": "The hype's really building! Hey, hey, who do you have your eye on?"
+            "text": "The hype's really building! Hey, hey, who\ndo you have your eye on?"
         },
         {
             "name": "Horsegirl Fan A",
@@ -28,13 +29,13 @@
             "text": "<chrname>!!"
         },
         {
-            "text": "<chrname> has been recognized for her spectacular achievements thus far."
+            "text": "<chrname> has been recognized for her\nspectacular achievements thus far."
         },
         {
-            "text": "And accepted to participate in the grand tournament where star Uma Musume gather, the URA Finals!"
+            "text": "And accepted to participate in the\ngrand tournament where star Uma Musume\ngather, the URA Finals!"
         },
         {
-            "text": "I'll get <chrname> through the qualifyiers and aim to win the whole thing!"
+            "text": "I'll get <chrname> through the qualifyiers\nand aim to win the whole thing!"
         }
     ]
 }
