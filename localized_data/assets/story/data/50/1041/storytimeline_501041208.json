@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,19 +11,19 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This will take us to the farthest point, 3600 meters…!"
+            "text": "This will take us to the farthest \npoint, 3600 meters…!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If I win today… I'm a stayer, aren't I?"
+            "text": "If I win today… I'm \na stayer, aren't I?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I can even conquer the entire Bakushin Road now, don't you think!?"
+            "text": "I can even conquer the entire \nBakushin Road now, don't you think!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Because I'm going to run the whole 3600 meters!!",
+            "text": "Because I'm going to run \nthe whole 3600 meters!!",
             "choice_data_list": [
                 "……Yeah!",
                 "……Yeah!"
@@ -30,7 +31,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I guess that's Trainer's habit! Lots of nodding, thank you very much for that!"
+            "text": "I guess that's Trainer's habit! \nLots of nodding, thank you very much for \nthat!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -38,7 +39,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――The strongest stayer who simultaneously possesses speed will have her Baku-birthday today!!"
+            "text": "――The strongest stayer who simultaneously \npossesses speed will have her \nBaku-birthday today!!"
         }
     ]
 }

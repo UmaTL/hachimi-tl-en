@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Otonashi Etsuko",
-            "text": "Congratulations! A splendid victory. … I'm very impressed.",
+            "text": "Congratulations! A splendid victory.\n… I'm very impressed.",
             "choice_data_list": [
                 "It's because of her hard work."
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "As I thought, you're the only ones who can make this issue's big cover feature!"
+            "text": "As I thought, you're the only ones who can\nmake this issue's big cover feature!"
         },
         {
-            "text": "… A feature in Twinkle Monthly. We can expect a big response!"
+            "text": "… A feature in Twinkle Monthly. We can\nexpect a big response!"
         },
         {
             "text": "She praised <chrname> for her victory."

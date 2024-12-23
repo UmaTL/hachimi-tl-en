@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "After Sakura Bakushin O didn't show up to practice, the next morning……when I headed to the Trainer's office, I heard a strange voice."
+            "text": "After Sakura Bakushin O didn't show up to \npractice, the next morning……when I headed \nto the Trainer's office, I heard a strange \nvoice."
         },
         {
             "name": "???",
@@ -9,25 +10,25 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Welcome, Trainer! We have just finished the banners for the press conference!"
+            "text": "Welcome, Trainer! \nWe have just finished the banners for the \npress conference!"
         },
         {
-            "text": "Surprised, I look down at her feet and saw a banner that read…… \"Sakura Bakushin O, Apology Conference!\" spread out on the floor.",
+            "text": "Surprised, I look down at her feet and saw \na banner that read…… \n\"Sakura Bakushin O, Apology Conference!\" \nspread out on the floor.",
             "choice_data_list": [
                 "You don't have to go that far…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But I do! As the exemplary class president, I have to draw the line!"
+            "text": "But I do! As the exemplary class president, \nI have to draw the line!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, I will begin my apology conference! I am well and truly, deeply, honestly…… sorry!"
+            "text": "Now, I will begin my apology conference! \nI am well and truly, deeply, honestly…… \nsorry!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "On the Bakushin road that goes straight down… I forgot myself, I began to run… and before I knew it, it was night…!",
+            "text": "On the Bakushin road that goes straight \ndown… I forgot myself, I began to run… \nand before I knew it, it was night…!",
             "choice_data_list": [
                 "Alright, just be careful next time.",
                 "Okay, just be careful next time."
@@ -35,14 +36,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I promise! I will never be tempted again!"
+            "text": "I promise! \nI will never be tempted again!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And now! I plan to use this banner as a quilt!!"
+            "text": "And now! \nI plan to use this banner as a quilt!!"
         },
         {
-            "text": "…She expressed enough remorse that I stopped her from going that far."
+            "text": "…She expressed enough remorse that I \nstopped her from going that far."
         }
     ]
 }

@@ -2,16 +2,16 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "That's it over there. That island is \nhome to the Mejiro Family's villa.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "That's it over there. That island is \nhome to the Mejiro Family's villa."
         },
         {
-            "text": "That island's full of villas! You know what that means, we can \ndig up some treasure under there!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "That island's full of villas! You know what that means, we can \ndig up some treasure under there!"
         },
         {
-            "text": "Please do not destroy the island!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Please do not destroy the island!"
         },
         {
             "text": "The members of Team Sirius decided to host a training \ncamp during their summer vacation."
@@ -20,117 +20,115 @@
             "text": "Since it was for the team, Mejiro McQueen allowed us to use the \nMejiro Family's villa. However…"
         },
         {
-            "text": "Yahoo!! This island's entirely deserted! Now \nwe can have as much fun as we want!",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Yahoo!! This island's entirely deserted! Now \nwe can have as much fun as we want!"
         },
         {
-            "text": "Jeez, we didn't come here to mess around you know.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Jeez, we didn't come here to mess around you know."
         },
         {
             "text": "I guess she can't help but get excited…",
             "choice_data_list": [
-                "<size=37>Since it's the first day, let's just take it easy.</size>",
-                "<size=37>Since it's the first day, let's just take it easy.</size>"
+                "Since it's the first day, let's just take it easy.",
+                "Since it's the first day, let's just take it easy."
             ]
         },
         {
-            "text": "Haa… Trainer-san, even you're saying things like that?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Haa… Trainer-san, even you're saying things like that?"
         },
         {
-            "text": "Hey, is it really okay for us to have come along? \nWe aren't a part of your team after all…",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "Hey, is it really okay for us to have come along? \nWe aren't a part of your team after all…"
         },
         {
-            "text": "McQueen and Trainer-san invited us, so it won't be a problem!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "McQueen and Trainer-san invited us, so it won't be a problem!"
         },
         {
-            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome.",
-            "name": "<username>"
+            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome."
         },
         {
-            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome.",
-            "name": "<username>"
+            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome."
         },
         {
-            "text": "Thank you very much!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Thank you very much!"
         },
         {
             "text": "And thus began the start of Team Sirius' training camp, including \ntwo members of the Mejiro Family."
         },
         {
-            "text": "Okay everyone, let's do one more lap!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "McQueen, if you don't pick up the pace I'm going to overtake you!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "Huh!? It's my job to lead the way though!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Hey now, Dober, you need to pick up the pace too!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "B-But I can't really focus on running \nright now… everyone's staring…",
-            "name": "Mejiro Dober"
-        },
-        {
-            "text": "Dober, there's nothing to worry about! \nYou're really cute after all!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "P-Please don't try and compliment me! I know \nbetter than anyone else that I'm not cute!",
-            "name": "Mejiro Dober"
-        },
-        {
-            "text": "Gold Ship-san! What on Earth are you doing!?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "When training at the beach you've gotta \ndress the part, doncha think?",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "We don't often get to train at the beach so this \nis the perfect time for some intense training!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "All I can see is that you're trying to do some intense playing!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "All right, it's time for me to accelerate!",
-            "name": "Mejiro Ryan"
-        },
-        {
-            "text": "W-Wait up! You're running too fast!!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Haa… Haa… Haa…",
             "name": "Mejiro McQueen",
+            "text": "Okay everyone, let's do one more lap!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "McQueen, if you don't pick up the pace I'm going to overtake you!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh!? It's my job to lead the way though!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hey now, Dober, you need to pick up the pace too!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "B-But I can't really focus on running \nright now… everyone's staring…"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Dober, there's nothing to worry about! \nYou're really cute after all!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "P-Please don't try and compliment me! I know \nbetter than anyone else that I'm not cute!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Gold Ship-san! What on Earth are you doing!?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "When training at the beach you've gotta \ndress the part, doncha think?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "We don't often get to train at the beach so this \nis the perfect time for some intense training!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "All I can see is that you're trying to do some intense playing!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "All right, it's time for me to accelerate!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "W-Wait up! You're running too fast!!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Haa… Haa… Haa…",
             "choice_data_list": [
                 "Good work, everyone."
             ]
         },
         {
-            "text": "I think we may have gone a bit too hard. \nIt is only the first day after all.",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "I think we may have gone a bit too hard. \nIt is only the first day after all."
         },
         {
-            "text": "That being said, McQueen is truly amazing, isn't she? She managed \nto keep up with your sudden spurt easily.",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "That being said, McQueen is truly amazing, isn't she? She managed \nto keep up with your sudden spurt easily."
         },
         {
-            "text": "I can't lose to Ryan again. She already beat \nme in the Takarazuka Kinen after all.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I can't lose to Ryan again. She already beat \nme in the Takarazuka Kinen after all."
         },
         {
             "text": "For context, prior to this summer camp Mejiro McQueen came into \nthe Takarazuka Kinen, the race that closes off the first half of \nthe year, as the most likely to win."
@@ -139,82 +137,79 @@
             "text": "However, she was unable to fend off Mejiro \nRyan and ended up coming in second."
         },
         {
-            "text": "McQueen's running never ceases to amaze me! Whether \nit be during training or during races!",
-            "name": "Horsegirl with Straight-cut Bangs"
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "McQueen's running never ceases to amaze me! Whether \nit be during training or during races!"
         },
         {
-            "text": "Well she is the reason we joined this team～",
-            "name": "Droopy-eyed Horsegirl"
+            "name": "Droopy-eyed Horsegirl",
+            "text": "Well she is the reason we joined this team～"
         },
         {
-            "text": "Ugh… How long is this going to last?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ugh… How long is this going to last?"
         },
         {
-            "text": "There's a reason that they love you so much. It's \nsomething you can be proud of, you know?",
-            "name": "Mejiro Dober"
+            "name": "Mejiro Dober",
+            "text": "There's a reason that they love you so much. It's \nsomething you can be proud of, you know?"
         },
         {
-            "text": "That's right, you're truly incredible. It makes \nme so happy when people praise you.",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "That's right, you're truly incredible. It makes \nme so happy when people praise you."
         },
         {
-            "text": "Okay then, I'm going to go for another run so I can make sure to \ndefeat the super popular McQueen once again!",
-            "name": "Mejiro Ryan"
+            "name": "Mejiro Ryan",
+            "text": "Okay then, I'm going to go for another run so I can make sure to \ndefeat the super popular McQueen once again!"
         },
         {
-            "text": "Ah, don't go on without me! I'm going for a run too!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Ah, don't go on without me! I'm going for a run too!"
         },
         {
             "text": "The sun began to set, and that's when we realized just how late \nit had gotten. Time truly flies when one is having fun."
         },
         {
-            "text": "…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Is everything alright? Everyone's already \nheaded back to the villa.",
-            "name": "<username>"
-        },
-        {
-            "text": "Ah… I'm fine. I was just thinking about our team's members.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Just a little while ago we were a shell of our \nformer selves, but now we have new members.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "They all saw how I ran, and that made \nthem want to run alongside me.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race.",
-            "name": "<username>"
-        },
-        {
-            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race.",
-            "name": "<username>"
-        },
-        {
-            "text": "When I think about it I get mixed feelings. \nOn one hand I'm incredibly proud, but on the \nother hand it's quite embarrassing.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "We were able to win the Spring Tenno Sho \nand preserve the team, however…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Trainer-san, there is still something that I need to do.",
             "name": "Mejiro McQueen",
+            "text": "…"
+        },
+        {
+            "text": "Is everything alright? Everyone's already \nheaded back to the villa."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah… I'm fine. I was just thinking about our team's members."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Just a little while ago we were a shell of our \nformer selves, but now we have new members."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "They all saw how I ran, and that made \nthem want to run alongside me."
+        },
+        {
+            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race."
+        },
+        {
+            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "When I think about it I get mixed feelings. \nOn one hand I'm incredibly proud, but on the \nother hand it's quite embarrassing."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "We were able to win the Spring Tenno Sho \nand preserve the team, however…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san, there is still something that I need to do.",
             "choice_data_list": [
                 "And what would that be?"
             ]
         },
         {
-            "text": "I need to continue running so as not to betray the \nexpectations that everyone else has of me.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "I need to continue running so as not to betray the \nexpectations that everyone else has of me."
         },
         {
             "text": "The expression on Mejiro McQueen's face, which was smiling yet \nexuding confidence, reassured me.",
@@ -223,8 +218,8 @@
             ]
         },
         {
-            "text": "Of course, you can count on me.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Of course, you can count on me."
         }
     ]
 }

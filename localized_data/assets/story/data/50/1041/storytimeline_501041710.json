@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaaaargghhh―!! I, I've… What a mess I've made of this run!!"
+            "text": "Aaaaaargghhh―!! \nI, I've… What a mess I've made of this run!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was ab-so-lutely not! By any means! an exemplary run!"
+            "text": "That was ab-so-lutely not! By any means! \nan exemplary run!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was the run of a flunk-student! Now, I'm Bakushin-ing down the road to becoming a delinqueeeent―!!"
+            "text": "That was the run of a flunk-student! \nNow, I'm Bakushin-ing down the road to \nbecoming a delinqueeeent―!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -21,22 +22,22 @@
             ]
         },
         {
-            "text": "Can you recover from failure? That's the real key to success, I told her."
+            "text": "Can you recover from failure? That's the \nreal key to success, I told her."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…So, in other words, what you're saying is, I'm still Bakushin-ing down the glorious honor student road at this very moment!?",
+            "text": "…So, in other words, what you're saying is, \nI'm still Bakushin-ing down the glorious \nhonor student road at this very moment!?",
             "choice_data_list": [
                 "That's exactly what I'm saying!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I seeee! ……I won't let this happen again! Let's start training straightaway!!"
+            "text": "I seeee! ……I won't let this happen again! \nLet's start training straightaway!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I have to set an example for everyone! There's no time to stand still!!"
+            "text": "I have to set an example for everyone! \nThere's no time to stand still!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -48,15 +49,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Yes, I have not yet resigned from my position as class president……!"
+            "text": "…Yes, I have not yet resigned from my \nposition as class president……!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In order to carry out my solemn duty of guiding each and every Uma Musume, I must keep going with everything I've got!!"
+            "text": "In order to carry out my solemn duty of \nguiding each and every Uma Musume, \nI must keep going with everything I've got!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A model student from cradle to grave!! Because that's exactly what Sakura Bakushin O is!"
+            "text": "A model student from cradle to grave!! \nBecause that's exactly what Sakura \nBakushin O is!"
         }
     ]
 }

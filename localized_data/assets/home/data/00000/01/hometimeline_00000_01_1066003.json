@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Twin Turbo",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Ah, Trainer! Look at this, it's a new carbonated juice drink!"
+            "text": "Ah, Trainer! Look at this, it's a \nnew carbonated juice drink!"
         },
         {
             "name": "Twin Turbo",
-            "text": "I really wanted to try it so I went full turbo while coming back! I'm so thirsty!"
+            "text": "I really wanted to try it so I went full turbo \nwhile coming back! I'm so thirsty!"
         },
         {
             "name": "Twin Turbo",
-            "text": "…… Huh, did this bottle always bulge out like this? Ah, whatever, time for my juice!"
+            "text": "…… Huh, did this bottle always bulge out \nlike this? Ah, whatever, time for my juice!"
         }
     ]
 }

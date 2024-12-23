@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Marvelous Sunday",
-            "text": "Hey, hey, Trainer! What do you think's inside this box?"
+            "text": "Hey, hey, Trainer! \nWhat do you think's inside this box?"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Could it be snacks? Maybe cake? But then again, it could be a small bird, or even a secret message, right?"
+            "text": "Could it be snacks? Maybe cake? \nBut then again, it could be a small bird, \nor even a secret message, right?"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Until we open and check, all kinds of possibilities exist☆ Isn't that just marvelous★"
+            "text": "Until we open and check, \nall kinds of possibilities exist☆ \nIsn't that just marvelous★"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "That's why I come up with lots of ideas☆ Like what's the most marvelous outcome!?"
+            "text": "That's why we can let our imagination \nrun wild, trying to think of the most \nmarvelous outcome☆"
         }
     ]
 }

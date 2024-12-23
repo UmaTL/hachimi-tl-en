@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hishi Miracle",
-            "text": "Trainer, what kind of <i>okonomiyaki</i> do you like?"
+            "text": "Trainer, what kind of <i>okonomiyaki</i> \ndo you like?"
         },
         {
             "name": "Hishi Miracle",
-            "text": "Myself～ I like the special <i>okonomiyaki</i> with everything in it, like shrimp, squid, and scallops!"
+            "text": "Myself～ I like the special <i>okonomiyaki</i> \nwith everything in it, like shrimp, squid, \nand scallops!"
         },
         {
             "name": "Hishi Miracle",
-            "text": "Don't you get happy when you see a lot of toppings and it feels more luxurious～?"
+            "text": "Don't you get happy when you see a lot of \ntoppings and it feels more luxurious～?"
         },
         {
             "name": "Hishi Miracle",
-            "text": "Although my friends told me \"That's so simplistic～\"…… I'm right, aren't I? It's more luxurious……"
+            "text": "Although my friends told me \"That's so \nsimplistic～\"…… I'm right, aren't I? \nIt's more luxurious……"
         }
     ]
 }

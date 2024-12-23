@@ -5,27 +5,27 @@
             "text": "That night, as I was heading to the training \ncourse to talk with Mejiro McQueen…"
         },
         {
-            "text": "Ah, Trainer-san! I finally found you!",
-            "name": "Tazuna Hayakawa"
+            "name": "Hayakawa Tazuna",
+            "text": "Ah, Trainer-san! I finally found you!"
         },
         {
+            "name": "Hayakawa Tazuna",
             "text": "There has been an update regarding the postponement \nof your team's disbandment, so I wanted to let \nyou know as soon as possible.",
-            "name": "Tazuna Hayakawa",
             "choice_data_list": [
                 "What's the update!?"
             ]
         },
         {
-            "text": "Hehe, please calm down. They're allowing you the first half of \nthe year… The postponement will continue until the end of June.",
-            "name": "Tazuna Hayakawa"
+            "name": "Hayakawa Tazuna",
+            "text": "Hehe, please calm down. They're allowing you the first half of \nthe year… The postponement will continue until the end of June."
         },
         {
-            "text": "As an organization, our top priority is allowing \nour Uma Musume to focus on their races…",
-            "name": "Tazuna Hayakawa"
+            "name": "Hayakawa Tazuna",
+            "text": "As an organization, our top priority is allowing \nour Uma Musume to focus on their races…"
         },
         {
-            "text": "It seems that they have decided on \n“waiting for a more convenient time.”",
-            "name": "Tazuna Hayakawa"
+            "name": "Hayakawa Tazuna",
+            "text": "It seems that they have decided on \n“waiting for a more convenient time.”"
         },
         {
             "text": "That's great. So we won't have to worry about \nfinding new members for the time being, and can \nfocus on the Spring Tennō Shō instead…!",
@@ -34,15 +34,15 @@
             ]
         },
         {
-            "text": "There is no need to thank me, I am merely the messenger. But I'm \nhappy for you. Good luck in the Spring Tennō Shō!",
-            "name": "Tazuna Hayakawa"
+            "name": "Hayakawa Tazuna",
+            "text": "There is no need to thank me, I am merely the messenger. But I'm \nhappy for you. Good luck in the Spring Tennō Shō!"
         },
         {
             "text": "The empty training course. At this hour, all \nother Uma Musume should be in bed…"
         },
         {
-            "text": "Hagh, Haaah… Ha, Haa…",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hagh, Haaah… Ha, Haa…"
         },
         {
             "text": "Despite the time, Mejiro McQueen was once again \ncontinuing her nightly independent training."
@@ -54,138 +54,128 @@
             "text": "Because of this, the results of her training will be poor and \nit's likely she will get hurt before the Spring Tennō…"
         },
         {
-            "text": "…Ah, Haaah, Hah… Eaah!?",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…Ah, Haaah, Hah… Eaah!?"
         },
         {
             "text": "As I was worrying about her, Mejiro McQueen staggered forward, \ncollapsing to the ground in a cloud of dust."
         },
         {
-            "text": "McQueen!",
-            "name": "<username>"
+            "text": "McQueen!"
         },
         {
-            "text": "…",
             "name": "Mejiro McQueen",
+            "text": "…",
             "choice_data_list": [
                 "McQueen, are you okay?",
                 "McQueen, are you okay?"
             ]
         },
         {
-            "text": "Where…? Huh, Trainer-san? Why…?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever.",
-            "name": "<username>"
-        },
-        {
-            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever.",
-            "name": "<username>"
-        },
-        {
-            "text": "…A fever? Haa… \nI guess I was more exhausted than I realized.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "This reminds me of how I would often get fevers \nafter frolicking around when I was little.",
             "name": "Mejiro McQueen",
+            "text": "Where…? Huh, Trainer-san? Why…?"
+        },
+        {
+            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever."
+        },
+        {
+            "text": "We're at the infirmary. \nYou should lie down, it looks like you have a fever."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…A fever? Haa… \nI guess I was more exhausted than I realized."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "This reminds me of how I would often get fevers \nafter frolicking around when I was little.",
             "choice_data_list": [
                 "You've run yourself ragged, huh?",
                 "You've run yourself ragged, huh?"
             ]
         },
         {
-            "text": "That seems to be the case…",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "…Wait, you knew about my independent training!?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Yeah, I was actually planning on discussing it with you today.",
-            "name": "<username>"
-        },
-        {
-            "text": "…I see. As expected, you're as intuitive as ever.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "I assume the next thing you're going to say is \n“stop doing your independent training”, right?",
             "name": "Mejiro McQueen",
+            "text": "That seems to be the case…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Wait, you knew about my independent training!?"
+        },
+        {
+            "text": "Yeah, I was actually planning on discussing it with you today."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…I see. As expected, you're as intuitive as ever."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I assume the next thing you're going to say is \n“stop doing your independent training”, right?",
             "choice_data_list": [
                 "I can't let this happen again."
             ]
         },
         {
-            "text": "…I have no excuse for the disgraceful behavior I have \nshown you. I will follow your instructions from now on.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on.",
-            "name": "<username>"
-        },
-        {
-            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on.",
-            "name": "<username>"
-        },
-        {
-            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way.",
-            "name": "<username>"
-        },
-        {
-            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way.",
-            "name": "<username>"
-        },
-        {
-            "text": "How did you… Ah! \nRyan told you, didn't she?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "…Jeez, so that's what your secret conversation \nwas about. She's as meddlesome as ever I guess.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "But are you sure? You realize that if you truly do so, you will \nbe tasked with carrying the Mejiro Family's burden as well.",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Trainer-san, are you truly prepared for this? \nTo become… of “one body and one mind” with me?",
             "name": "Mejiro McQueen",
+            "text": "…I have no excuse for the disgraceful behavior I have \nshown you. I will follow your instructions from now on."
+        },
+        {
+            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on."
+        },
+        {
+            "text": "Now, in exchange for the ban on independent training, I want you \nto be able to rely on me even more. I want you to tell me how \nyou really feel from now on."
+        },
+        {
+            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way."
+        },
+        {
+            "text": "Your dream of winning the Tennō Shō, \nI'll be there with you every step of the way."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "How did you… Ah! \nRyan told you, didn't she?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…Jeez, so that's what your secret conversation \nwas about. She's as meddlesome as ever I guess."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But are you sure? You realize that if you truly do so, you will \nbe tasked with carrying the Mejiro Family's burden as well."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san, are you truly prepared for this? \nTo become… of“one body and one mind”with me?",
             "choice_data_list": [
                 "Of course!",
                 "Of course!"
             ]
         },
         {
-            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer."
         },
         {
-            "text": "You've always put us before yourself.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "You've always put us before yourself."
         },
         {
-            "text": "…Well, if that is the case, \nI won't be holding back either.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "…Well, if that is the case, \nI won't be holding back either."
         },
         {
-            "text": "In order to achieve my dream of winning the Tennō Shō, I'm going \nto be monopolizing you from now on, Trainer-san.",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "In order to achieve my dream of winning the Tennō Shō, I'm going \nto be monopolizing you from now on, Trainer-san."
         },
         {
-            "text": "And in doing so, \nwe will definitely win!",
-            "name": "Mejiro McQueen"
+            "name": "Mejiro McQueen",
+            "text": "And in doing so, \nwe will definitely win!"
         },
         {
-            "text": "Yeah, we will definitely win, together!",
-            "name": "<username>"
+            "text": "Yeah, we will definitely win, together!"
         },
         {
-            "text": "Yeah, we will definitely win, together!",
-            "name": "<username>"
+            "text": "Yeah, we will definitely win, together!"
         }
     ]
 }

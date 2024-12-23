@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, I met up with <chrname> and she looked so different I barely recognized her!"
+            "text": "One day, I met up with <chrname> and she\nlooked so different I barely recognized her!"
         },
         {
             "text": "<chrname> has awakened…!"

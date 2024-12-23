@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I was coming and going due to the races, but… I was able to finish the summer training camp without incident!"
+            "text": "I was coming and going due to the races, \nbut… I was able to finish the summer \ntraining camp without incident!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -17,15 +18,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In terms of distance traveled, surely I must have passed the 3600 meter mark by now!?"
+            "text": "In terms of distance traveled, surely I must \nhave passed the 3600 meter mark by now!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Perhaps I've already covered about 100 million meters…!?"
+            "text": "Perhaps I've already covered about \n100 million meters…!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I, I… I'm just way too brilliant――!?",
+            "text": "I, I… \nI'm just way too brilliant――!?",
             "choice_data_list": [
                 "……Unchartered territory for an Uma Musume, huh!",
                 "……Unchartered territory for an Uma Musume, huh!"
@@ -33,7 +34,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hawawawawaa, my excellence is just terrifying…!"
+            "text": "Hawawawawaa, my excellence is \njust terrifying…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -41,7 +42,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm going to go run on the beach and extend the distance even more!!"
+            "text": "I'm going to go run on the beach \nand extend the distance even more!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -63,21 +64,21 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eh!? Then, I cannot proceed! Tardiness is a class president no-go!"
+            "text": "Eh!? Then, I cannot proceed! \nTardiness is a class president no-go!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm turning back right awa―― Aaaaahhhh――?!"
+            "text": "I'm turning back right awa―― \nAaaaahhhh――?!"
         },
         {
             "text": "(Splaaash!)"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaah, my speed has turned against me…! Trainer, you're soaking weeet―!!"
+            "text": "Aaah, my speed has turned against me…! \nTrainer, you're soaking weeet―!!"
         },
         {
-            "text": "…This is how the, hot? summer camp with Sakura Bakushin O came to an end."
+            "text": "…This is how the, hot? summer camp with \nSakura Bakushin O came to an end."
         }
     ]
 }

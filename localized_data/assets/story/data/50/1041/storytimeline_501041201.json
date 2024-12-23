@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,33 +11,33 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, I just thought it was a bit… disappointing, is all."
+            "text": "No, I just thought it was a \nbit… disappointing, is all."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This may be the last time I'll be Bakushin-ing in short distances."
+            "text": "This may be the last time I'll be \nBakushin-ing in short distances."
         },
         {
-            "text": "If she's going to say something like that… Maybe she's starting to find the shorter distances more appealing…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So, it's a shame. Because…"
+            "text": "If she's going to say something like that… \nMaybe she's starting to find the shorter \ndistances more appealing…?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Everyone in the audience will be inconsolable!"
+            "text": "So, it's a shame. \nBecause…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There must be people who were born just to see this divine speed that wins every short distance race by a huuuge margin.",
+            "text": "Everyone in the audience will be \ninconsolable!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There must be people who were born just \nto see this divine speed that wins every \nshort distance race by a huuuge margin.",
             "choice_data_list": [
                 "Sure…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But, this is a necessary evil! The class president, for the sake of everyone…!"
+            "text": "But, this is a necessary evil! \nThe class president, for the sake of \neveryone…!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -44,7 +45,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's leave everyone with a great victory to show for it!"
+            "text": "Let's leave everyone with a great victory to \nshow for it!"
         }
     ]
 }

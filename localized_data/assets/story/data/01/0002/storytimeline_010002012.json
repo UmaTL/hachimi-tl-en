@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Next, let's organize support cards that will help you train your horsegirl!"
+            "text": "Next, let's organize support cards that will \nhelp you train your horsegirl!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Each card has its own effects, such as the appearance of the characters in the support card during training or giving you skills!"
+            "text": "Each card has its own effects, such as the \nappearance of the characters in the support \ncard during training or giving you skills!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Please keep in mind you can't use support cards of the same horsegirl that you're training!",
+            "text": "Please keep in mind you can't use \nsupport cards of the same horsegirl \nthat you're training!",
             "color_text_info_list": [
                 "can't use",
                 "same horsegirl"

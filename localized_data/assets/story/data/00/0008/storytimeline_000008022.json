@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Laurel",
-            "text": "Iwate! It's Yukino-chan's hometown♪"
+            "text": "Iwate! \nIt's Yukino-chan's hometown♪"
         },
         {
             "name": "Sakura Laurel",
-            "text": "I had a nice chat with Cafe-chan about various local topics. Folk tales, hot springs, cold noodles――"
+            "text": "I had a nice chat with Cafe-chan about \nvarious local topics. Folk tales, hot springs, \ncold noodles――"
         },
         {
             "name": "Sakura Laurel",
-            "text": "Oh, and also about wanko soba! Since we're here, I think we should try it as a commemoration♪"
+            "text": "Oh, and also about wanko soba! Since \nwe're here, I think we should try it as a \ncommemoration♪"
         },
         {
             "name": "Sakura Laurel",
-            "text": "I'm confident I can eat salad pretty quickly, but hmm, I wonder how many bowls of \"wanko soba\" I can handle?"
+            "text": "I'm confident I can eat salad pretty quickly, \nbut hmm, I wonder how many bowls of \n\"wanko soba\" I can handle?"
         }
     ]
 }

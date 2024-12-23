@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "(clank clank)"
@@ -12,7 +13,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Oh, thank God. I really wanted to give this to you in person."
+            "text": "Oh, thank God. I really wanted to\ngive this to you in person."
         },
         {
             "name": "Otonashi Etsuko",
@@ -27,11 +28,11 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "There were a lot of requests from readers lately. For a special edition regarding the past three years."
+            "text": "There were a lot of requests from readers\nlately. For a special edition regarding the\npast three years."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I'm sure readers agree that these years have been a momentous period in the world of Uma Musume."
+            "text": "I'm sure readers agree that these\nyears have been a momentous period\nin the world of Uma Musume."
         },
         {
             "name": "Otonashi Etsuko",
@@ -42,7 +43,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "As a reporter, I feel very fortunate to have been able to follow these three years."
+            "text": "As a reporter, I feel very fortunate to have\nbeen able to follow these three years."
         },
         {
             "name": "Otonashi Etsuko",
@@ -64,29 +65,29 @@
             "text": "Yeah."
         },
         {
-            "text": "At her urging, I looked at the cover. There was—"
+            "text": "At her urging, I looked at\nthe cover. There was—"
         },
         {
-            "text": "A large photo of <chrname> staring back at me."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "When I was thinking about who should be the cover— the face of the magazine…"
+            "text": "A large photo of <chrname>\nstaring back at me."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "There was only one candidate that came to my mind."
+            "text": "When I was thinking about who should be the\ncover— the face of the magazine…"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "And that was the opinion of the editorial team as well.",
+            "text": "There was only one candidate\nthat came to my mind."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "And that was the opinion of the\neditorial team as well.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "We, at Twinkle Monthly, will continue to support you and your work."
+            "text": "We, at Twinkle Monthly, will continue to\nsupport you and your work."
         },
         {
             "name": "Otonashi Etsuko",
@@ -94,7 +95,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Through all my interviews I've become convinced that you are the ray of sunshine illuminating the horse girl world.",
+            "text": "Through all my interviews I've become\nconvinced that you are the ray of sunshine\nilluminating the horse girl world.",
             "choice_data_list": [
                 "Thanks! I'll make her shine too!",
                 "Thanks! I'll make her shine too! "
@@ -117,11 +118,11 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Make your horse girl shine! In other words, be prepared to become a shadow yourself!"
+            "text": "Make your horse girl shine! In other words,\nbe prepared to become a shadow yourself!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "You will continue to devote your whole life to her, spend everything you have, take her to races and trips anywhere in the world!"
+            "text": "You will continue to devote your whole life\nto her, spend everything you have, take her\nto races and trips anywhere in the world!"
         },
         {
             "name": "Otonashi Etsuko",
@@ -131,11 +132,11 @@
             "text": "… Otonashi's usual outbursts have begun."
         },
         {
-            "text": "I can feel her thoughts from the magazine. I'll show <chrname> later…!"
+            "text": "I can feel her thoughts from the magazine.\nI'll show <chrname> later…!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "This special issue includes a little special feature.",
+            "text": "This special issue includes\na little special feature.",
             "choice_data_list": [
                 "What kind of feature?"
             ]
@@ -145,44 +146,44 @@
             "text": "Hehe, look further down the pages."
         },
         {
-            "text": "At her prompt I opened the second half of the magazine."
+            "text": "At her prompt I opened the second\nhalf of the magazine."
         },
         {
             "text": "There's—"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "\"A word to <chrname> and her trainer <username>\""
+            "text": "\"A word to <chrname> and\nher trainer <username>\""
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "In fact, the editorial department has received many fan letters from readers to you."
+            "text": "In fact, the editorial department\nhas received many fan letters\nfrom readers to you."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "The response was so great that we compiled pages with support messages to the two of you."
+            "text": "The response was so great that\nwe compiled pages with support\nmessages to the two of you."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "This is pretty much the first time we attempted such a reader-driven, multi-page feature, you know?",
+            "text": "This is pretty much the first time we\nattempted such a reader-driven, multi-page\nfeature, you know?",
             "choice_data_list": [
                 "Thank you very much…!"
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Hehe, please deliver that gratitude to your fans at races and live performances."
+            "text": "Hehe, please deliver that gratitude to your\nfans at races and live performances."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "We, the editors, are here to help you connect with your fans."
+            "text": "We, the editors, are here to help you\nconnect with your fans."
         },
         {
-            "text": "I can feel Otonashi's sentiments. I'll show this article to <chrname> later…!"
+            "text": "I can feel Otonashi's sentiments. I'll show\nthis article to <chrname> later…!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Could you take a look at the pages just a little further ahead?",
+            "text": "Could you take a look at the pages\njust a little further ahead?",
             "choice_data_list": [
                 "The pages ahead?"
             ]
@@ -192,32 +193,32 @@
             "text": "Yeah."
         },
         {
-            "text": "At Otonashi's urging, I turned a few pages. There was—"
+            "text": "At Otonashi's urging, I turned\na few pages. There was—"
         },
         {
-            "text": "There was a special feature called \"In the footsteps of glory with <chrname> and trainer\"."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "You have been an integral part of the Umamusume world for the past three years."
+            "text": "There was a special feature called\n\"In the footsteps of glory with\n<chrname> and trainer\"."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I couldn't just fit it into a small article, so I talked it over with my editor."
+            "text": "You have been an integral part of the\nUmamusume world for the past three years."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "— I told him everyone would look forward to a feature with these people.",
+            "text": "I couldn't just fit it into a small article,\nso I talked it over with my editor."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "— I told him everyone would look forward to\na feature with these people.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Hehe, of course I am one of them. I'm looking forward to your future activities, okay?"
+            "text": "Hehe, of course I am one of them.\nI'm looking forward to your future\nactivities, okay?"
         },
         {
-            "text": "I can feel Otonashi's excitement. I'll show <chrname> this article later…!"
+            "text": "I can feel Otonashi's excitement. I'll show\n<chrname> this article later…!"
         },
         {
             "name": "Otonashi Etsuko",
@@ -231,14 +232,14 @@
             "text": "Yeah."
         },
         {
-            "text": "There's a small feature there called \"Promising Trainers and Uma Musume\"."
+            "text": "There's a small feature there called\n\"Promising Trainers and Uma Musume\"."
         },
         {
-            "text": "It described a training session with <chrname> and commented on the high expectations."
+            "text": "It described a training session\nwith <chrname> and commented on\nthe high expectations."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "\"I can't wait to see what they do in the future.\" … There are no lies there.",
+            "text": "\"I can't wait to see what they do in the\nfuture.\" … There are no lies there.",
             "choice_data_list": [
                 "Ms. Otonashi…!"
             ]
@@ -248,7 +249,7 @@
             "text": "Hehe, I'll be covering you two's trajectory."
         },
         {
-            "text": "Otonashi's feelings reached me. I'll show this article to <chrname> later…!"
+            "text": "Otonashi's feelings reached me. I'll show\nthis article to <chrname> later…!"
         }
     ]
 }

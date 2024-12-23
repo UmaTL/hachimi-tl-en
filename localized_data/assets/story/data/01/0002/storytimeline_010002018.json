@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "In the Team Stadium you can challenge teams of horsegirls raised by other trainers!"
+            "text": "In the Team Stadium you can challenge \nteams of horsegirls raised by other trainers!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "So let's immediately draft up a team with the horsegirl you just trained."
+            "text": "So let's immediately draft up a team with \nthe horsegirl you just trained."
         }
     ]
 }

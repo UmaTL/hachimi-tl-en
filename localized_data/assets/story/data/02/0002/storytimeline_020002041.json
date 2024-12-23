@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
             "text": "Geez, It seems that I got into a terrible mess."
         },
         {
-            "text": "Mejiro McQueen's injury that I saw during training, it seemed to be deeper than I thought.",
+            "text": "Mejiro McQueen's injury that I saw during training, it seemed to \nbe deeper than I thought.",
             "choice_data_list": [
                 "How's the injury?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "From now on, I will have you look at it properly at the hospital, It seems that I have no choice but to give up on the “Takarazuka Kinen”."
+            "text": "From now on, I will have you look at it properly \nat the hospital, It seems that I have no choice \nbut to give up on the “Takarazuka Kinen”."
         },
         {
             "name": "Rice Shower",
@@ -20,15 +21,15 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please do not make such a dark face. “Takarazuka Kinen” is a pity, but I have a goal of winning 3 consecutive “Emperor Prizes”."
+            "text": "Please do not make such a dark face. “Takarazuka \nKinen” is a pity, but I have a goal of winning \n3 consecutive “Emperor Prizes”."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "To achieve the feat in this race that I love, I am now dedicated to healing my injury."
+            "text": "To achieve the feat in this race that I love, I am now dedicated \nto healing my injury."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I will not be able to train with Rice, but i'm sure the team will be able to help."
+            "text": "I will not be able to train with Rice, but \ni'm sure the team will be able to help."
         },
         {
             "name": "Rice Shower",
@@ -36,11 +37,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Trainer-san and everyone, and I am also looking forward to your race in the Kyoto Shimbun cup."
+            "text": "Trainer-san and everyone, and I am also looking forward to your \nrace in the Kyoto Shimbun cup."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "And please show us why, we're going to have a hot race that's going to be exciting for us."
+            "text": "And please show us why, we're going to have a hot race that's \ngoing to be exciting for us."
         },
         {
             "name": "Rice Shower",
@@ -48,21 +49,21 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The rest will be enough to be accompanied by Trainer-san, Rice-san please return to training too."
+            "text": "The rest will be enough to be accompanied by Trainer-san, \nRice-san please return to training too."
         },
         {
             "name": "Rice Shower",
             "text": "Yeah, I'll come to see you later."
         },
         {
-            "text": "I was impressed by the words of Mejiro McQueen, when Rice Shower returned to the course with a determined expression."
+            "text": "I was impressed by the words of Mejiro McQueen, when Rice Shower \nreturned to the course with a determined expression."
         },
         {
             "name": "Mejiro McQueen",
             "text": "Now Rice-san has the power to pull the team in a surprising way."
         },
         {
-            "text": "As Mejiro McQueen says, I feel that the effort that Rice Shower puts has a small effect on everyone around us.",
+            "text": "As Mejiro McQueen says, I feel that the effort that Rice Shower \nputs has a small effect on everyone around us.",
             "choice_data_list": [
                 "Now you can concentrate on the treatment \nwithout worrying about her."
             ]
@@ -72,7 +73,7 @@
             "text": "Yeah, I can't lose too. I have to work hard on my treatment."
         },
         {
-            "text": "In order to fill the gap Mejiro McQueen left from her injury, Rice Shower began training with the team uniting to help."
+            "text": "In order to fill the gap Mejiro McQueen left from her injury, \nRice Shower began training with the team uniting to help."
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
@@ -96,7 +97,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you for your hard work. All of you, it seems to be a good training session."
+            "text": "Thank you for your hard work. All of you, \nit seems to be a good training session."
         },
         {
             "name": "Gold Ship",
@@ -104,15 +105,15 @@
         },
         {
             "name": "Gold Ship",
-            "text": "You're not allowed to exercise, so be careful with your weight management, right? even yesterday, you had extra dessert after dinner."
+            "text": "You're not allowed to exercise, so be careful \nwith your weight management, right? even yesterday, \nyou had extra dessert after dinner."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "You saw that!? That was, because the pudding tasted so good. I didn't do anything wrong!"
+            "text": "You saw that!? That was, because the pudding tasted so good. I \ndidn't do anything wrong!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Well, leaving that matter aside, Rice-sans finish seems to have gotten better."
+            "text": "Well, leaving that matter aside, Rice-sans \nfinish seems to have gotten better."
         },
         {
             "name": "Gold Ship",
@@ -128,7 +129,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "ah!?…Geez, I know you are doing it on purpose because I can't run."
+            "text": "ah!?…Geez, I know you are doing it \non purpose because I can't run."
         },
         {
             "text": "After that, the training continued as a team, and then.――"
@@ -143,11 +144,11 @@
         },
         {
             "name": "Droopy-eyed Horsegirl",
-            "text": "Rice-san, you will be okay! you've been training all the time, haven't you?"
+            "text": "Rice-san, you will be okay! you've been \ntraining all the time, haven't you?"
         },
         {
             "name": "Rice Shower",
-            "text": "Well, that's right I've worked so hard to get this far. Having fun, and then…"
+            "text": "Well, that's right I've worked so hard to \nget this far. Having fun, and then…"
         },
         {
             "name": "Rice Shower",
@@ -174,10 +175,10 @@
             "text": "Got it, Follow, Follow!"
         },
         {
-            "text": "That day, Rice Shower who said “I want to win” in the ferris wheel."
+            "text": "That day, Rice Shower who said “I want \nto win” in the ferris wheel."
         },
         {
-            "text": "The race to prove how straight and strong her feelings are is finally beginning!"
+            "text": "The race to prove how straight and strong \nher feelings are is finally beginning!"
         }
     ]
 }

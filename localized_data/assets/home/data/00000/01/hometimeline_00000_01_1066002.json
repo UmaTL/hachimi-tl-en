@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Twin Turbo",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Heheeh! They'll be taking pictures for my poster with Teio soon! That's why I'm practicing poses!"
+            "text": "Heheeh! They'll be taking pictures \nfor my poster with Teio soon! \nThat's why I'm practicing poses!"
         },
         {
             "name": "Twin Turbo",

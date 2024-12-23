@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The time has finally come! Mile CS, 1600 meters!"
+            "text": "The time has finally come! \nMile CS, 1600 meters!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "All the bloody efforts I have made thus far have brought me here today."
+            "text": "All the bloody efforts I have made thus \nfar have brought me here today."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From here on out, we'll increase the distance even further, to 2000m, 2,500m… on the way to the ultimate peak of the Bakushin Road!"
+            "text": "From here on out, we'll increase the \ndistance even further, to 2000m, \n2,500m… on the way to the ultimate \npeak of the Bakushin Road!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -26,11 +27,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this? I'm in the Senior class now, right? But, I'm still on the first step…?"
+            "text": "What's this? I'm in the Senior class now, \nright? But, I'm still on the first step…?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What, what? In the first place, what is the true meaning of Bakushin Road――",
+            "text": "What, what? \nIn the first place, what is the true meaning \nof Bakushin Road――",
             "choice_data_list": [
                 "L-let's just focus on the race first!"
             ]
@@ -45,7 +46,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The strongest… Miler…!?"
+            "text": "The strongest… \nMiler…!?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -57,11 +58,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Roger that! Please imagine as if you're on the S.S. Bakushin!"
+            "text": "Roger that! \nPlease imagine as if you're on the \nS.S. Bakushin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll show you just how much I've grown in these past three years―!"
+            "text": "I'll show you just how much I've \ngrown in these past three years―!"
         }
     ]
 }

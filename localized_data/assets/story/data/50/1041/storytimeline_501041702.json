@@ -1,11 +1,12 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
             "text": "Siiiigh…"
         },
         {
-            "text": "One holiday, I went out with Sakura Bakushin O, but she didn't seem to be in the mood the whole time.",
+            "text": "One holiday, I went out with Sakura \nBakushin O, but she didn't seem to be in \nthe mood the whole time.",
             "choice_data_list": [
                 "You look down. What happened?",
                 "You look down. What happened?"
@@ -13,40 +14,40 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To tell the truth… a classmate of mine is leaving the Academy."
+            "text": "To tell the truth… a classmate of mine is \nleaving the Academy."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm sorry to say goodbye to her, both as class president and personally…"
+            "text": "I'm sorry to say goodbye to her, both as \nclass president and personally…"
         },
         {
-            "text": "Due to the nature of the Academy, students often transfer out. But that doesn't mean it's any easier when they have to part ways."
+            "text": "Due to the nature of the Academy, students \noften transfer out. \nBut that doesn't mean it's any easier when \nthey have to part ways."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oya? Could that be…"
+            "text": "Oya? \nCould that be…"
         },
         {
-            "text": "A student in a jersey was running in front of me. She seemed to be heading towards the school.",
+            "text": "A student in a jersey was running in front \nof me. She seemed to be heading towards \nthe school.",
             "choice_data_list": [
                 "Do you know her?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's the classmate I was telling you about! I can't believe she's training at this hour――"
+            "text": "It's the classmate I was telling you about! \nI can't believe she's training at this hour――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I cannot allow this! Stop right theeeere!!"
+            "text": "As class president, I cannot allow this! \nStop right theeeere!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's late, you should head back. I cannot let a curfew breaker go unnoticed!"
+            "text": "It's late, you should head back. \nI cannot let a curfew breaker go unnoticed!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Ughh… I know I'm not supposed to be doing this. But I'm running out of time!!",
+            "text": "Ughh… I know I'm not supposed to be \ndoing this. \nBut I'm running out of time!!",
             "choice_data_list": [
                 "What do you mean?",
                 "What do you mean?"
@@ -54,11 +55,11 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "I have to leave the Academy. Because my father was transferred overseas――"
+            "text": "I have to leave the Academy. Because my \nfather was transferred overseas――"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "That's why I wanted to practice for my last race… a mock race, so I wouldn't have any regrets."
+            "text": "That's why I wanted to practice for my last \nrace… a mock race, so I wouldn't have any \nregrets."
         },
         {
             "name": "Sakura Bakushin O",
@@ -66,15 +67,15 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "I never ended up growing, and I never had a trainer… But I want to finish everything off with contentment!"
+            "text": "I never ended up growing, and I never had \na trainer… \nBut I want to finish everything off with \ncontentment!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see, I understand your situation. And I've made up my mind…!"
+            "text": "I see, I understand your situation. \nAnd I've made up my mind…!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From this moment on, as class president, I will assist you in your training!!"
+            "text": "From this moment on, as class president, \nI will assist you in your training!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -86,17 +87,17 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uu, that's right! Then, special training starts tomorrow!"
+            "text": "Uu, that's right! \nThen, special training starts tomorrow!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "With my assistance and Trainer's guidance, you're sure to win first place!!"
+            "text": "With my assistance and Trainer's \nguidance, you're sure to win first place!!"
         },
         {
-            "text": "The next day, I decided to hang out with Sakura Bakushin O and help her classmate train."
+            "text": "The next day, I decided to hang out with \nSakura Bakushin O and help her classmate \ntrain."
         },
         {
-            "text": "When I asked her what kind of mock race she was going to run, she replied, \"Long distance.\" This was a kind of race that Sakura Bakushin O wasn't exactly good at.",
+            "text": "When I asked her what kind of mock race \nshe was going to run, she replied, \"Long \ndistance.\" \nThis was a kind of race that Sakura \nBakushin O wasn't exactly good at.",
             "choice_data_list": [
                 "So, what kind of practice are you planning on doing?",
                 "So, what kind of practice are you planning on doing?"
@@ -104,40 +105,40 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "All you have to do is Bakushin! If you Bakushin, you'll find your way!"
+            "text": "All you have to do is Bakushin! \nIf you Bakushin, you'll find your way!"
         },
         {
-            "text": "The response was both unsurprising and unfavorable. This is――",
+            "text": "The response was both unsurprising and \nunfavorable. \nThis is――",
             "choice_data_list": [
                 "Build up your stamina and let's Bakushin!",
                 "There's a certain timing to Bakushin-ing."
             ]
         },
         {
-            "text": "I told her that endurance and stamina to run the course were essential to achieve success in long distances."
+            "text": "I told her that endurance and stamina to \nrun the course were essential to achieve \nsuccess in long distances."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see. Well, you certainly can't Bakushin if you're out of energy!",
+            "text": "I see. Well, you certainly can't Bakushin if \nyou're out of energy!",
             "choice_data_list": [
                 "Let's focus on physical training."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood! I shall keep this up to the bitter end!!"
+            "text": "Understood! \nI shall keep this up to the bitter end!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha, haah… Looks like… fuuh, that's about it… for today!"
+            "text": "Ha, haah… Looks like… fuuh, that's about \nit… for today!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Thanks, Baku-chan! And your Trainer, too…"
+            "text": "Thanks, Baku-chan! \nAnd your Trainer, too…"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "I think I have a good feeling about today's training. I'm sure I'll get good results!"
+            "text": "I think I have a good feeling about today's \ntraining. \nI'm sure I'll get good results!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -145,47 +146,47 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Baku-chan!? ……Wait, are you sleeping?"
+            "text": "Baku-chan!? \n……Wait, are you sleeping?"
         },
         {
-            "text": "Sakura Bakushin O, a sprinter, must have had a tough time training with a long-distance runner."
+            "text": "Sakura Bakushin O, a sprinter, must have \nhad a tough time training with a \nlong-distance runner."
         },
         {
-            "text": "However, for the sake of her classmate, she pushed herself to her limits and went along with the training anyways…",
+            "text": "However, for the sake of her classmate, \nshe pushed herself to her limits and went \nalong with the training anyways…",
             "choice_data_list": [
                 "Good work, \"president.\""
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Mumblemumble… It's only the… natural thing to dooo… snoore……"
+            "text": "Mumblemumble… \nIt's only the… natural thing to \ndooo… snoore……"
         },
         {
-            "text": "Sakura Bakushin O, still asleep, smiled contentedly."
+            "text": "Sakura Bakushin O, still asleep, \nsmiled contentedly."
         },
         {
-            "text": "I explained that she could move up in the rankings by Bakushin-ing at just the right moment."
+            "text": "I explained that she could move up in the \nrankings by Bakushin-ing at just the right \nmoment."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I see, so what you're saying is, Bakushin is a kind of special move!!",
+            "text": "I see, so what you're saying is, Bakushin is \na kind of special move!!",
             "choice_data_list": [
                 "That's right!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, then, let us find the impeccable timing for this Bakushin!"
+            "text": "Now, then, let us find the impeccable timing \nfor this Bakushin!"
         },
         {
             "name": "Freckled Horsegirl",
             "text": "Alright, got it!"
         },
         {
-            "text": "Once that was decided, the first thing to do was to find out what Sakura Bakushin O's classmate was capable of and what her running habits were."
+            "text": "Once that was decided, the first thing to do \nwas to find out what Sakura Bakushin O's \nclassmate was capable of and what her \nrunning habits were."
         },
         {
-            "text": "I put together a training regimen that best suited her current situation, and asked her to implement it into her routine."
+            "text": "I put together a training regimen that best \nsuited her current situation, and asked \nher to implement it into her routine."
         },
         {
             "name": "Sakura Bakushin O",
@@ -193,26 +194,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Your training has paid off, and you've got the timing of your Bakushin down to a tee!"
+            "text": "Your training has paid off, and you've got \nthe timing of your Bakushin down to a tee!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Yeah, I've got a good feeling about this! I'll make sure I get a good result!"
+            "text": "Yeah, I've got a good feeling about this! \nI'll make sure I get a good result!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm counting on you! Bakushin is the solution to everything!"
+            "text": "I'm counting on you! \nBakushin is the solution to everything!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Fufu, thanks. You're always there for me, Baku-chan."
+            "text": "Fufu, thanks. \nYou're always there for me, Baku-chan."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I am! I'm the president of your class, after all!"
+            "text": "Of course I am! \nI'm the president of your class, after all!"
         },
         {
-            "text": "Being thanked by her classmate seems to have given Sakura Bakushin O more confidence."
+            "text": "Being thanked by her classmate seems to \nhave given Sakura Bakushin O more \nconfidence."
         }
     ]
 }

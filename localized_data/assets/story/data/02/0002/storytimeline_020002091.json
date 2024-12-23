@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "At Training Timeー"
@@ -27,11 +28,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Rice-san, the training that I usually do other people say it's “Demonic” apparently."
+            "text": "Rice-san, the training that I usually do other people say it's \n“Demonic” apparently."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "But as you've already beaten me, I'm sure you'll be okay. Let's do our best today."
+            "text": "But as you've already beaten me, I'm sure \nyou'll be okay. Let's do our best today."
         },
         {
             "name": "Rice Shower",
@@ -39,7 +40,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "“Fweeh” It's not the time for that . Let's start right away. Let's run 4 laps around the court!"
+            "text": "“Fweeh” It's not the time for that . Let's start right away. \nLet's run 4 laps around the court!"
         },
         {
             "name": "Rice Shower",
@@ -50,17 +51,17 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "…Now, I should begin training too. After all, the “Emperor Prize” in the spring is right around the corner."
+            "text": "…Now, I should begin training too. After all, the “Emperor Prize” \nin the spring is right around the corner."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'm looking forward to running with Rice Shower in the “Emperor Prize”. Right, Trainer-san."
+            "text": "I'm looking forward to running with Rice Shower in the “Emperor \nPrize”. Right, Trainer-san."
         },
         {
             "text": "I feel like I need to talk with Mejio McQueen."
         },
         {
-            "text": "But, I'm sure that it also includes the meaning of leaving Rice Shower, so all I can say is.",
+            "text": "But, I'm sure that it also includes the meaning of leaving Rice \nShower, so all I can say is.",
             "choice_data_list": [
                 "Rice will surely run at the “Emperor Prize” in the spring."
             ]
@@ -71,14 +72,14 @@
         },
         {
             "name": "Gold Ship",
-            "text": "What, what!? Rice will also appear in the “Emperor's Award”! Quickly spread the story and knead it!"
+            "text": "What, what!? Rice will also appear in the “Emperor's Award”! \nQuickly spread the story and knead it!"
         },
         {
             "name": "Mejiro McQueen",
             "text": "Hey, wait right here! It's not a story to be made public yet!!"
         },
         {
-            "text": "In this way, the special training as of today marked the new beginning."
+            "text": "In this way, the special training as \nof today marked the new beginning."
         },
         {
             "name": "Rice Shower",
@@ -86,7 +87,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "As expected, You managed to quickly finish my Demonic training. Now, let's move on to our last training."
+            "text": "As expected, You managed to quickly finish my Demonic training. \nNow, let's move on to our last training."
         },
         {
             "name": "Mihono Bourbon",
@@ -98,7 +99,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "you've already beaten me at the “Kikkashou Award”. I'm not saying the impossible by all means."
+            "text": "you've already beaten me at the “Kikkashou Award”. I'm not saying \nthe impossible by all means."
         },
         {
             "name": "Rice Shower",
@@ -106,15 +107,15 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I did not think that Rice-san who showed that kind of running was so scared."
+            "text": "I did not think that Rice-san who showed \nthat kind of running was so scared."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "At the “Kikkashou Award” you marked me thoroughly. I could feel your determination not to let me go even for a moment."
+            "text": "At the “Kikkashou Award” you marked me thoroughly. I could feel \nyour determination not to let me go even for a moment."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I thought at that moment, she tried hard to beat me and got on that run."
+            "text": "I thought at that moment, she tried hard \nto beat me and got on that run."
         },
         {
             "name": "Rice Shower",
@@ -126,11 +127,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "However… If anyone is the opponent of the current Rice now, They will be able to win without much effort."
+            "text": "However… If anyone is the opponent of the current Rice now, They \nwill be able to win without much effort."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "That is not what I desire. The Rice-san that I know is not the kind of simple opponent you can win against without effort."
+            "text": "That is not what I desire. The Rice-san that I know is not the \nkind of simple opponent you can win against without effort."
         },
         {
             "name": "Rice Shower",
@@ -142,7 +143,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Please give me the feeling of “I want to win”, just like that time."
+            "text": "Please give me the feeling of “I want \nto win”, just like that time."
         },
         {
             "name": "Rice Shower",
@@ -150,7 +151,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "I like to run, but I can't win. And that's when I saw McQueen-san's race."
+            "text": "I like to run, but I can't win. And that's \nwhen I saw McQueen-san's race."
         },
         {
             "name": "Rice Shower",
@@ -162,7 +163,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Even if there are people who are not happy when Rice wins, even so Rice still…."
+            "text": "Even if there are people who are not happy \nwhen Rice wins, even so Rice still…."
         },
         {
             "name": "Rice Shower",
@@ -170,7 +171,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Finally you've come back. Now let's continue with our last training."
+            "text": "Finally you've come back. Now let's \ncontinue with our last training."
         },
         {
             "name": "Rice Shower",
@@ -204,7 +205,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "(Bourbon-san is very fast… even faster than at the time of the “Kikkashou Award”)."
+            "text": "(Bourbon-san is very fast… even faster than \nat the time of the “Kikkashou Award”)."
         },
         {
             "name": "Rice Shower",
@@ -223,7 +224,7 @@
             "text": "Yaaaaaa～～～～!!"
         },
         {
-            "text": "It was exactly the same spirit as when Rice won the “Kikkashou Award”. The feeling of victory pushes Rice Shower forward."
+            "text": "It was exactly the same spirit as when Rice won the “Kikkashou \nAward”. The feeling of victory pushes Rice Shower forward."
         },
         {
             "name": "Gold Ship",
@@ -239,15 +240,15 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Rice-san, it was a very wonderful run. Even more than that of the “Kikkashou Award”."
+            "text": "Rice-san, it was a very wonderful run. Even \nmore than that of the “Kikkashou Award”."
         },
         {
             "name": "Rice Shower",
-            "text": "Bourbon-san… Rice ran, I was able to think that I wanted to win over Bourbon-san."
+            "text": "Bourbon-san… Rice ran, I was able to think \nthat I wanted to win over Bourbon-san."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Me too, I was able to see Rice-san's running again. As a result, it seems that I have to train more."
+            "text": "Me too, I was able to see Rice-san's running again. As a result, \nit seems that I have to train more."
         },
         {
             "name": "Mihono Bourbon",
@@ -277,7 +278,7 @@
             "text": "Yes!"
         },
         {
-            "text": "In this way, Rice Shower decided to go up to the stage of the Spring's “Emperor's Award”."
+            "text": "In this way, Rice Shower decided to go up to the stage of the \nSpring's “Emperor's Award”."
         }
     ]
 }

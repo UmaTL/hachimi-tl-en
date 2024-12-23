@@ -1,29 +1,30 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "The day of the Hopeful Stakes had arrived."
         },
         {
             "name": "Gold Ship",
-            "text": "Today's Heartful Gretel was it? I heard it's the first ever underwater race."
+            "text": "Today's Heartful Gretel was it? \nI heard it's the first ever underwater race."
         },
         {
             "name": "Gold Ship",
-            "text": "Heheh. So at last then, it is time to show the world my graceful butterfly!"
+            "text": "Heheh. So at last then, it is time to show \nthe world my graceful butterfly!"
         },
         {
             "name": "Gold Ship",
-            "text": "Just you wait, Pacific Ocean…! I'm gonna cross the Japan Trench!"
+            "text": "Just you wait, Pacific Ocean…! \nI'm gonna cross the Japan Trench!"
         },
         {
-            "text": "Her ideas sound questionable at best but at least she looks in the mood…!",
+            "text": "Her ideas sound questionable at best \nbut at least she looks in the mood…!",
             "choice_data_list": [
                 "G-Go for it!"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Leave it to me! I can cross a trench or two with ease!"
+            "text": "Leave it to me! \nI can cross a trench or two with ease!"
         }
     ]
 }

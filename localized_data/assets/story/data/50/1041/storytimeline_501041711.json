@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Again…… Today was not quite the Bakushin I envisioned!"
+            "text": "Again…… \nToday was not quite the Bakushin I \nenvisioned!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I don't know what's wrong with me, my legs are……"
+            "text": "I don't know what's wrong with me, my legs \nare……"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Could it be, if I continue on like this for the rest of my life… I'll be an Uma Musume that is unworthy of being a role model for anyone……!?",
+            "text": "Could it be, if I continue on like this for the \nrest of my life… I'll be an Uma Musume that \nis unworthy of being a role model for \nanyone……!?",
             "choice_data_list": [
                 "That'll never happen!",
                 "It's not like you to be so down!",
@@ -19,7 +20,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Could it be, if I continue on like this for the rest of my life… I'll be an Uma Musume that is unworthy of being a role model for anyone……!?",
+            "text": "Could it be, if I continue on like this for the \nrest of my life… I'll be an Uma Musume that \nis unworthy of being a role model for \nanyone……!?",
             "choice_data_list": [
                 "That'll never happen!",
                 "It's not like you to be so down!",
@@ -39,19 +40,19 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As expected of the Trainer who was given the honor of being dubbed \"Sakura Bakushin O's Trainer\"!"
+            "text": "As expected of the Trainer who was given \nthe honor of being dubbed \"Sakura \nBakushin O's Trainer\"!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Your enthusiasm is different! Your reliability is different! Big difference, big savior!!"
+            "text": "Your enthusiasm is different! Your reliability \nis different! Big difference, big savior!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, just like Trainer said, I'm totally, 110% capable of Bakushin! Yes, indeed!"
+            "text": "Well, just like Trainer said, I'm totally, 110% \ncapable of Bakushin! Yes, indeed!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's okay! If not today, there's always tomorrow! Come on now, Bakushiiiiiiiin!!!"
+            "text": "It's okay! If not today, there's always \ntomorrow! \nCome on now, Bakushiiiiiiiin!!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -62,22 +63,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That was a close one, I was nearly swallowed by the evil spirit of the turf!"
+            "text": "That was a close one, I was nearly \nswallowed by the evil spirit of the turf!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The spirit….has tested this class president, hasn't it!?",
+            "text": "The spirit….has tested this class president, \nhasn't it!?",
             "choice_data_list": [
                 "Spirit……?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Worry not! I shall crush the evil spirits with my Bakushin!!"
+            "text": "Worry not! \nI shall crush the evil spirits with my \nBakushin!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No matter if you're God or the Great Demon King! I won't let you stop my Bakushin-ing!!"
+            "text": "No matter if you're God or the Great Demon \nKing! I won't let you stop my Bakushin-ing!!"
         }
     ]
 }

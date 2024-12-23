@@ -1,17 +1,18 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
             "text": "You want me to participate in a press conference…?"
         },
         {
-            "text": "I heard from Tazuna that they are being flooded with requests to interview you."
+            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
         },
         {
-            "text": "I heard from Tazuna that they are being flooded with requests to interview you."
+            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
         },
         {
-            "text": "After all, you're most likely to win in the Fall Tenno Sho. Everyone's got their eyes on you."
+            "text": "After all, you're most likely to win in the Fall Tenno Sho. \nEveryone's got their eyes on you."
         },
         {
             "name": "Mejiro McQueen",
@@ -19,18 +20,18 @@
         },
         {
             "name": "Gold Ship",
-            "text": "What's wrong? If you don't wanna be interviewed I can just answer for you, ya know?"
+            "text": "What's wrong? If you don't wanna be interviewed \nI can just answer for you, ya know?"
         },
         {
             "name": "Gold Ship",
-            "text": "I've just gotta say “I'm on a diet right now so I have to refrain from eating my favorite cake.”"
+            "text": "I've just gotta say “I'm on a diet right now so I \nhave to refrain from eating my favorite cake.”"
         },
         {
             "name": "Mejiro McQueen",
             "text": "You saw me worrying in front of the cake shop!?"
         },
         {
-            "text": "I never put any dietary restrictions on her… I wonder if they're voluntary…",
+            "text": "I never put any dietary restrictions on \nher… I wonder if they're voluntary…",
             "choice_data_list": [
                 "One slice should be fine."
             ]
@@ -45,52 +46,52 @@
         },
         {
             "name": "Reporter A",
-            "text": "You are currently favored to win the Fall Tenno Sho. Are you confident that you will win?"
+            "text": "You are currently favored to win the Fall Tenno \nSho. Are you confident that you will win?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course I am confident, however, anything could happen. Therefore, I am approaching this race with cautious optimism."
+            "text": "Of course I am confident, however, anything could happen. \nTherefore, I am approaching this race with cautious optimism."
         },
         {
             "name": "Reporter B",
-            "text": "There will be many powerhouses in this upcoming race. How do you plan on defeating them?"
+            "text": "There will be many powerhouses in this upcoming \nrace. How do you plan on defeating them?"
         },
         {
             "name": "Mejiro McQueen",
             "text": "That…"
         },
         {
-            "text": "Wondering if she should tell the reporters, Mejiro McQueen looked to me."
+            "text": "Wondering if she should tell the reporters, \nMejiro McQueen looked to me."
         },
         {
-            "text": "As you can imagine, I cannot give you a detailed explanation of our strategy."
+            "text": "As you can imagine, I cannot give you a detailed \nexplanation of our strategy."
         },
         {
-            "text": "That being said, it would be great if our bracket was on the inside."
+            "text": "That being said, it would be great if \nour bracket was on the inside."
         },
         {
             "name": "Reporter C",
-            "text": "By the way, I have heard that at one point Mejiro McQueen was the only member of your team."
+            "text": "By the way, I have heard that at one point Mejiro \nMcQueen was the only member of your team."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "That is true. However, we have recruited more members and are finally getting back on track…"
+            "text": "That is true. However, we have recruited more members and are \nfinally getting back on track…"
         },
         {
             "name": "Reporter C",
             "text": "Was this because of your victory in the Spring Tenno Sho?"
         },
         {
-            "text": "Mejiro McQueen seemed at a loss for words, so she looked to me again.",
+            "text": "Mejiro McQueen seemed at a loss for words, \nso she looked to me again.",
             "choice_data_list": [
                 "Yes, that is the case."
             ]
         },
         {
-            "text": "Despite the fact that our team was on the verge of collapse, Mejiro McQueen managed to win the Spring Tenno Sho, paving the way for more members to join our team."
+            "text": "Despite the fact that our team was on the verge of collapse, \nMejiro McQueen managed to win the Spring Tenno Sho, paving the \nway for more members to join our team."
         },
         {
-            "text": "Because of that, McQueen really is the heart/backbone of our team."
+            "text": "Because of that, McQueen really is \nthe heart/backbone of our team."
         },
         {
             "name": "Reporter C",
@@ -113,19 +114,19 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I am truly honored that you all have rated me as the most likely to win."
+            "text": "I am truly honored that you all have rated \nme as the most likely to win."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "In order to meet everyone's expectations, I will continue to train as hard as possible until the day of the race."
+            "text": "In order to meet everyone's expectations, I will continue to \ntrain as hard as possible until the day of the race."
         },
         {
             "name": "Gold Ship",
-            "text": "Eww, so serious! You were way too serious! It was such a boring, normal press conference!"
+            "text": "Eww, so serious! You were way too serious! It \nwas such a boring, normal press conference!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I answered the questions as I normally would. What did you expect?"
+            "text": "I answered the questions as I normally \nwould. What did you expect?"
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
@@ -136,25 +137,25 @@
             "text": "McQueen-san, I'm so excited for your next race!"
         },
         {
-            "text": "Mejiro McQueen has managed to not only excite her fans, but also excite every one of her team members as well."
+            "text": "Mejiro McQueen has managed to not only excite her fans, but also \nexcite every one of her team members as well."
         },
         {
-            "text": "She really is the heart/backbone of our team, and a truly reliable one at that."
+            "text": "She really is the heart/backbone of our team, \nand a truly reliable one at that."
         },
         {
             "text": "Alright everyone! Let's go get ourselves some delicious food!"
         },
         {
             "name": "Gold Ship",
-            "text": "Wooah! Really!? Awesome, let's go have some all-you-can-eat Ise Ebi/Japanese spiny lobsters!"
+            "text": "Wooah! Really!? Awesome, let's go have some all-you-can-eat \nIse Ebi/Japanese spiny lobsters!"
         },
         {
             "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I've always wanted to visit a candy store famous for its carrot sweets!"
+            "text": "I've always wanted to visit a candy store \nfamous for its carrot sweets!"
         },
         {
             "name": "Horsegirl with Black Bob-cut",
-            "text": "Jeez, since McQueen-chan is the star, why don't we go wherever she wants to?"
+            "text": "Jeez, since McQueen-chan is the star, why \ndon't we go wherever she wants to?"
         },
         {
             "name": "Mejiro McQueen",
@@ -162,19 +163,19 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I spent all day at the press conference after all. I would like to do some training now."
+            "text": "I spent all day at the press conference after \nall. I would like to do some training now."
         },
         {
             "name": "Gold Ship",
-            "text": "Doing training after all that? Oye, are you okay? Don't you think you've been training a little too hard?"
+            "text": "Doing training after all that? Oye, are you okay? Don't you think \nyou've been training a little too hard?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Of course I've been making sure I don't overexert myself. Especially after collapsing before."
+            "text": "Of course I've been making sure I don't overexert myself. \nEspecially after collapsing before."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "However, I wouldn't want to lose all of that momentum now that everything is going well."
+            "text": "However, I wouldn't want to lose all of that momentum \nnow that everything is going well."
         },
         {
             "name": "Mejiro McQueen",
@@ -193,7 +194,7 @@
             "text": "She's as serious as ever, huh…?"
         },
         {
-            "text": "And then came the Fall Tenno Sho, the huge stage that brought a lot of attention to Mejiro McQueen."
+            "text": "And then came the Fall Tenno Sho, the huge stage that brought a \nlot of attention to Mejiro McQueen."
         },
         {
             "text": "Jeez, the stands are packed. That sure is a lot of people."
@@ -203,7 +204,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "And you know what that means, right!? “Golshi Yakisoba” is gonna sell like hot cakes! I better hurry and get it ready!"
+            "text": "And you know what that means, right!? “Golshi Yakisoba” is gonna \nsell like hot cakes! I better hurry and get it ready!"
         },
         {
             "text": "Don't do that, we've got to cheer on McQueen. Wait, where is she?"
@@ -216,10 +217,10 @@
             "text": "She already left ya know?"
         },
         {
-            "text": "Eh…? It's nowhere near time to start… Why did she leave so early?"
+            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
         },
         {
-            "text": "Eh…? It's nowhere near time to start… Why did she leave so early?"
+            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
         },
         {
             "name": "Mejiro McQueen",
@@ -227,11 +228,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The expectations of a member of the Mejiro Family, the expectations of the fans that have supported me…"
+            "text": "The expectations of a member of the Mejiro Family, the \nexpectations of the fans that have supported me…"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "The expectations of the team members that have relied on me, and Trainer-san's expectations…"
+            "text": "The expectations of the team members that have relied \non me, and Trainer-san's expectations…"
         },
         {
             "name": "Mejiro McQueen",

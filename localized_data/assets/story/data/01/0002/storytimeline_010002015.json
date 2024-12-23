@@ -1,19 +1,20 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "This is called the “paddock”. Horse girls appear before the race and show off to their fans!",
+            "text": "This is called the “paddock”. Horse \ngirls appear before the race and \nshow off to their fans!",
             "color_text_info_list": [
                 "paddock"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Pay attention! In the paddock, you can check various factors before you start the race."
+            "text": "Pay attention! In the paddock, you can check \nvarious factors before you start the race."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "As for more information… Tazuna! Give the Trainer an explanation!"
+            "text": "As for more information… Tazuna! \nGive the Trainer an explanation!"
         },
         {
             "name": "Hayakawa Tazuna",

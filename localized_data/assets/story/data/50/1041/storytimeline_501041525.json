@@ -1,134 +1,135 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "On my way to the training course to pick up something I forgot…"
+            "text": "On my way to the training course to pick \nup something I forgot…"
         },
         {
-            "text": "This time, the \"President Showdown\" is in the gym! We have to hurry up and cheer on Baku-chan!",
+            "text": "This time, the \"President Showdown\" is in \nthe gym! \nWe have to hurry up and cheer on \nBaku-chan!",
             "choice_data_list": [
                 "…President Showdown?"
             ]
         },
         {
-            "text": "I was curious, so I took a look in the gym to find――"
+            "text": "I was curious, so I took a look in the gym \nto find――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class \"president,\" I'll make absolutely sure of it! I shall win!"
+            "text": "As class \"president,\" I'll make absolutely \nsure of it! \nI shall win!"
         },
         {
             "name": "Classmates",
-            "text": "Fight on, Baku-chan! Let's see what you're made of!"
+            "text": "Fight on, Baku-chan! \nLet's see what you're made of!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "That's <i>my</i> line! I'm going to turn you into dust with my armband of the Public Morals <i>\"President\"!</i>"
+            "text": "That's <i>my</i> line! \nI'm going to turn you into dust with my \narmband of the Public Morals <i>\"President\"!</i>"
         },
         {
             "name": "PM Committee Member",
-            "text": "Gyaaa―! President of Public Morals～! I've got tingles～～!"
+            "text": "Gyaaa―! President of Public Morals～! \nI've got tingles～～!"
         },
         {
-            "text": "…I was originally going to go get the thing I forgot, but I ran into a hell of a showdown!"
+            "text": "…I was originally going to go get \nthe thing I forgot, but I ran into a hell of a \nshowdown!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh, Trainer! You've come to support me!?",
+            "text": "Oh, Trainer! \nYou've come to support me!?",
             "choice_data_list": [
                 "No, I was on my way to get something I forgot…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this!? If that's the case, then you're most certainly in luck! To have come across such a historic battle!"
+            "text": "What's this!? If that's the case, then you're \nmost certainly in luck! \nTo have come across such a historic battle!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The \"President Showdown\" to determine the president among presidents …So far, it's been a series of draws!"
+            "text": "The \"President Showdown\" to determine \nthe president among presidents \n…So far, it's been a series of draws!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "Whoever wins today, the <i>greatest of presidents!</i> Shall she become…"
+            "text": "Whoever wins today, the <i>greatest of \npresidents!</i> Shall she become…"
         },
         {
             "name": "Bamboo Memory",
-            "text": "The question is, what should the showdown be <i>this</i> time? For the 50th round, what the meat of it should consist of is…"
+            "text": "The question is, what should the showdown \nbe <i>this</i> time? \nFor the 50th round, what the meat of it \nshould consist of is…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh, yes! Earlier, Trainer said you were going to go get something you forgot, were you not!?"
+            "text": "Oh, yes! Earlier, Trainer said you were \ngoing to go get something you forgot, \nwere you not!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "How about finding the Trainer's lost item and whoever returns first is declared the winner… Now what do you think of that!"
+            "text": "How about finding the Trainer's lost item \nand whoever returns first is declared the \nwinner… Now what do you think of that!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "I have no objection! Because the ability to help others, a good role model <i>makes!</i>"
+            "text": "I have no objection! \nBecause the ability to help others, a good \nrole model <i>makes!</i>"
         },
         {
-            "text": "And so, the curtain rose on the battle for the \"President Showdown\"――"
+            "text": "And so, the curtain rose on the battle for \nthe \"President Showdown\"――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "The winner of the \"Deliver Trainer's Lost Item Grand Championship Title,\" the grand victor――is me!!"
+            "text": "The winner of the \"Deliver Trainer's Lost \nItem Grand Championship Title,\" \nthe grand victor――is me!!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "Uuuuuuugh～!! I lost…! I couldn't even see the back of you……!"
+            "text": "Uuuuuuugh～!! I lost…! \nI couldn't even see the back of you……!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However……Trainer, aren't you still forgetting something!?",
+            "text": "However……Trainer, \naren't you still forgetting something!?",
             "choice_data_list": [
                 "Huh? No, not really…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…The class president knows. The class president knows that you haven't eaten for a while now, because you've been working on our practice menu."
+            "text": "…The class president knows. \nThe class president knows that you \nhaven't eaten for a while now, because \nyou've been working on our practice menu."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, for my purposes, that is the next best thing to really having forgotten something. However, what you're really forgetting is――"
+            "text": "So, for my purposes, that is the next best \nthing to really having forgotten something. \nHowever, what you're really forgetting is――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "\"Giving Your Hardworking Self a Break\"…!",
+            "text": "\"Giving Your Hardworking Self a \nBreak\"…!",
             "choice_data_list": [
                 "Bakushin O…!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now, let's not delay, let's go! First, let's get that stomach to start Bakushin-ing up some food!"
+            "text": "Now, let's not delay, let's go! First, let's \nget that stomach to start Bakushin-ing up \nsome food!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "So this is the \"class\" president… I was completely and utterly <i>annihilated.</i> Both by her legs <i>and</i> the depth of her feelings."
+            "text": "So this is the \"class\" president… \nI was completely and utterly <i>annihilated.</i> \nBoth by her legs <i>and</i> the depth of her \nfeelings."
         },
         {
             "name": "Crowd",
-            "text": "Truly the president among presidents…! Mesmerizing～～!"
+            "text": "Truly the president among presidents…! \nMesmerizing～～!"
         },
         {
-            "text": "Afterwards, we ate yakisoba noodles so large they reminded us of the magnitude of the class president's feelings… We were full in both stomach and heart!"
+            "text": "Afterwards, we ate yakisoba noodles so \nlarge they reminded us of the magnitude of \nthe class president's feelings… \nWe were full in both stomach and heart!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I did it, I did it―!! Now the strongest class president, is me!"
+            "text": "I did it, I did it―!! \nNow the strongest class president, is me!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "Kuuuu! That's the <i>power</i> of Bakushin, alright! What <i>speed…!</i>"
+            "text": "Kuuuu! That's the <i>power</i> of Bakushin, \nalright! \nWhat <i>speed…!</i>"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehhen! That is true… however! It's all thanks to my Trainer, too!"
+            "text": "Ehhen! That is true… however! \nIt's all thanks to my Trainer, too!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I shall help my Trainer! And while I was running, I remembered our usual training!",
+            "text": "I shall help my Trainer! And while I was \nrunning, I remembered our usual training!",
             "choice_data_list": [
                 "You've put what you've learned to good use!",
                 "You've put what you've learned to good use!"
@@ -136,26 +137,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "My Trainer helped me! I delivered the forgotten item, and that I can return the favor… I'm pleased as can be about!"
+            "text": "My Trainer helped me! I delivered the \nforgotten item, and that I can return the \nfavor… I'm pleased as can be about!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "Aaaaack―! A complete and <i>utter</i> annihilation! And the bond between the two of you was so <i>touchiiing～～!</i>"
+            "text": "Aaaaack―! A complete and <i>utter</i> \nannihilation! \nAnd the bond between the two of you was \nso <i>touchiiing～～!</i>"
         },
         {
             "name": "Crowd",
-            "text": "That was such a great fight! Thanks for the truly moving display! Congratulations～～!"
+            "text": "That was such a great fight! Thanks for \nthe truly moving display! \nCongratulations～～!"
         },
         {
-            "text": "The reigning winner, Sakura Bakushin O, continued to bask in the applause of the crowd!"
+            "text": "The reigning winner, Sakura Bakushin O, \ncontinued to bask in the applause of the \ncrowd!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuuuuughhh～～! I cannot believe my Bakushin has been… defeated……"
+            "text": "Uuuuuuughhh～～! \nI cannot believe my Bakushin has \nbeen… defeated……"
         },
         {
             "name": "Bamboo Memory",
-            "text": "This is the <i>power</i> of the Public Morals President! I'll take the title of the <i>strongest president!</i>"
+            "text": "This is the <i>power</i> of the Public Morals \nPresident! \nI'll take the title of the <i>strongest president!</i>"
         },
         {
             "name": "Sakura Bakushin O",
@@ -166,22 +167,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "However! Defeat shall also become Bakushin's renewed strength!"
+            "text": "However! \nDefeat shall also become Bakushin's \nrenewed strength!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm determined to win next time! Until then, you can keep the position!"
+            "text": "I'm determined to win next time! \nUntil then, you can keep the position!"
         },
         {
             "name": "Bamboo Memory",
-            "text": "Fu… Now <i>that</i> makes me a happy president to hear that!"
+            "text": "Fu… Now <i>that</i> makes me a happy president \nto hear that!"
         },
         {
             "name": "Crowd",
-            "text": "Class presideeent! Good try―!!"
+            "text": "Class presideeent! \nGood try―!!"
         },
         {
-            "text": "The whole gym applauded Sakura Bakushin O's passion."
+            "text": "The whole gym applauded Sakura \nBakushin O's passion."
         }
     ]
 }

@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "I did it! I've lived up to my reputation as an honor student! Big・Baku・shin!!"
+            "text": "I did it! I've lived up to my reputation as an \nhonor student! Big・Baku・shin!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Trainer, there's no need to be shy! Come, now! Compliment me to your heart's content!",
+            "text": "Trainer, there's no need to be shy! Come, \nnow! Compliment me to your heart's \ncontent!",
             "choice_data_list": [
                 "Now that was an exemplary run!",
                 "Not quite yet! We've still got more to win!"
@@ -14,26 +15,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ehem! I know, right!?"
+            "text": "Ehem! \nI know, right!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Running an exemplary run is the very essence of being class president!",
+            "text": "Running an exemplary run is the very \nessence of being class president!",
             "choice_data_list": [
                 "I'm counting on you next time, too!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! Leave it to the legendary honor student, Sakura Bakushin O!"
+            "text": "Affirmative! Leave it to the legendary honor \nstudent, Sakura Bakushin O!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's aim straight for the next victory, now! Bakushiiiiiii―n!!!"
+            "text": "Let's aim straight for the next victory, now! \nBakushiiiiiii―n!!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Huwhaa!? I, I won, and yet…!?"
+            "text": "Huwhaa!? \nI, I won, and yet…!?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -48,14 +49,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuuuf! If I don't live up to these expectations, I'll be an embarrassment of an honors student!!"
+            "text": "Uuuuuf! \nIf I don't live up to these expectations, I'll \nbe an embarrassment of an honors student!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Even in the midst of fire or drowning in water! I'll Bakushin for the sake of victory!!"
+            "text": "Even in the midst of fire or drowning in \nwater! \nI'll Bakushin for the sake of victory!!"
         },
         {
-            "text": "The way this turned out was different from the original intention, but it seems to have resonated with Sakura Bakushin O nonetheless."
+            "text": "The way this turned out was different from \nthe original intention, but it seems to \nhave resonated with Sakura Bakushin O \nnonetheless."
         }
     ]
 }

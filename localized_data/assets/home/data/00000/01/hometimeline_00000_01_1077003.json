@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Top Road",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Narita Top Road",
-            "text": "…… Everyone has gathered here with their own dreams, carrying expectations."
+            "text": "…… Everyone has gathered here with their \nown dreams, carrying expectations."
         },
         {
             "name": "Narita Top Road",
-            "text": "I… want to live up to the expectations of everyone who supports me as well."
+            "text": "I… want to live up to the expectations \nof everyone who supports me as well."
         },
         {
             "name": "Narita Top Road",
-            "text": "Just running with everything I have. Aiming for the road to the top……!"
+            "text": "Just running with everything I have. \nAiming for the road to the top……!"
         }
     ]
 }

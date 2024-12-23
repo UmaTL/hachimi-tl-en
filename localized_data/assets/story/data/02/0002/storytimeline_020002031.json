@@ -2,254 +2,242 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Mihono Bourbon leads with four horse lengths! \nSurely she will win this race!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "Mihono Bourbon, got 4 body lengths between her and the rear! this \nwill probably make her win!"
         },
         {
-            "text": "Mihono Bourbon is still ahead! She held on for 2400m \nand finishes first! Six races and all six won! \nShe's undefeated now one more crown to go!",
-            "name": "Commentator"
+            "name": "Commentator",
+            "text": "Mihono Bourbon!! Even at 2400m, Goal! 6 races, 6 wins! It is an \nundefeated and double crown achievement!!"
         },
         {
-            "text": "Rice Shower finished 2nd in the Nippon Derby. \nDespite failing to defeat Mihono Bourbon, she made \nincredible progress in the run-up to the race"
+            "text": "Japan Derby, Rice Shower got second place. Although \nshe was unable to stand up to Mihono Bourbon, \nshe made a great leap forward."
         },
         {
-            "text": "A few days after the race, I find myself \nat a certain theme park in Chiba prefecture..."
+            "text": "A few days later, there was an Amusement park in Kanba prefecture"
         },
         {
-            "text": "Whoa! This must be <i>that</i> well-known theme park! \nWith the princess who lives in the castle, and the \n<i>Big Lightning Mountain</i>!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "I wanted to take her to the theme park she'd been wanting \nto go to, as a reward for her hard work. Although..."
-        },
-        {
-            "text": "Wow, it's a lot less busy than I expected. \nHehe, we're lucky today!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Um, Trainer... She really believes we're at \n<i>that</i> theme park...",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Whilst looking at the extatic Rice Shower, \nMejiro McQueen whispers into my ear."
-        },
-        {
-            "text": "I know you are tight on money this month, \nbut really? A different park?",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "I, well...",
-            "name": "<username>"
-        },
-        {
-            "text": "I, well...",
-            "name": "<username>"
-        },
-        {
-            "text": "Come on, McQueen! Word is that there's a secret \nunderground attraction. We gotta check if it's real!",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "Hold on! That's the employee entrance, you doofus!",
-            "name": "Mejiro McQueen"
-        },
-        {
-            "text": "Come, Trainer! Let's go!",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Ah, yes...",
-            "name": "<username>"
-        },
-        {
-            "text": "And so, several hours passed in the blink of an eye \nat the fun (?) theme park."
-        },
-        {
-            "text": "We managed to ride on pretty much every attraction! \nI'm glad there were so few people here today.",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "Seeing her so happy in her ignorance... \nI feel so guilty."
-        },
-        {
-            "text": "Um... Trainer...",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "I still wanted to ride in the ferris wheel... \nWould you... join me?",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "...So guilty, I could almost vomit! \nOf course, I can't decline her request \nif it makes her happy.",
-            "choice_data_list": [
-                ""
-            ]
-        },
-        {
-            "text": "Ehehe... Hooray.",
-            "name": "Rice Shower"
-        },
-        {
-            "text": ""
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "choice_data_list": [
-                ""
-            ]
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
             "name": "Rice Shower",
-            "choice_data_list": [
-                "",
-                ""
-            ]
+            "text": "Wow! This is that amusement park! There are castles where \nprincesses live, and a big Kaminari mountain!"
         },
         {
-            "text": "",
-            "name": "Rice Shower"
+            "text": "(I thought I'd give you a reward for your hard work, Rice Shower, \nI thought about taking you to the amusement park that you seemed \nto have longed for)."
         },
         {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": ""
-        },
-        {
-            "text": ""
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "<username>"
-        },
-        {
-            "text": "",
-            "name": "<username>"
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
-            "name": "Gold Ship"
-        },
-        {
-            "text": "",
-            "name": "Rice Shower"
-        },
-        {
-            "text": "",
             "name": "Rice Shower",
+            "text": "Huh? Only Rice and the others, oh, I'm so happy."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer-san, Rice-san really believes that \nthis is a fantasy amusement park."
+        },
+        {
+            "text": "Rice Shower's eyes are shining sideways, “I don't know what to do \nwith it”, McQueen said softly."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I don't know how much you're getting paid this month, so how \nabout instead coming to another amusement park?"
+        },
+        {
+            "text": "Well, that's…."
+        },
+        {
+            "text": "Well, that's…."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Come on, McQueen! there's a mysterious attraction in the \nbasement, so let's go find out the truth!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hey! This is a private entrance!?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rice, let's go, Trainer-san."
+        },
+        {
+            "text": "Oh, yeah."
+        },
+        {
+            "text": "This is fun, the time at the amusement \npark passed in the blink of an eye."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I got on most of the rides. I'm glad \nthere aren't many customers today."
+        },
+        {
+            "text": "Every time Rice Shower is in pure joy, \nI feel a bit guilty about it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, you know, Trainar-san."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to finally ride on the ferris \nwheel, so can you ride with me?"
+        },
+        {
+            "text": "(It's not a reason to blame your conscience. If Rice Shower is \npleased then that is all that matters).",
             "choice_data_list": [
-                "",
-                ""
+                "Of course, it's okay."
             ]
         },
         {
-            "text": "",
-            "name": "Mejiro McQueen"
+            "name": "Rice Shower",
+            "text": "hehe…. I did it."
         },
         {
-            "text": "",
-            "name": "Mejiro McQueen"
+            "text": "The view from the gondola with 2 people, the sun-drenched streets \nof the city are spreading to the horizon."
         },
         {
-            "text": "",
-            "name": "<username>"
+            "name": "Rice Shower",
+            "text": "……."
         },
         {
-            "text": ""
+            "text": "However, Rice Shower after getting on \nthe Ferris Wheel got a bit bashful.",
+            "choice_data_list": [
+                "What's wrong?"
+            ]
         },
         {
-            "text": "",
-            "name": "Mejiro McQueen"
+            "name": "Rice Shower",
+            "text": "oh… yeah, you see."
         },
         {
-            "text": "",
-            "name": "Rice Shower"
+            "name": "Rice Shower",
+            "text": "Thank you for all this time, Trainer-san, \ni never thought I could run like this."
         },
         {
-            "text": "",
-            "name": "Gold Ship"
+            "name": "Rice Shower",
+            "text": "I still can't believe it, in the Derby I got second place.",
+            "choice_data_list": [
+                "Rice did her best.",
+                "Rice did her best."
+            ]
         },
         {
-            "text": "",
-            "name": "Horsegirl with Straight-cut Bangs"
+            "name": "Rice Shower",
+            "text": "hehe…."
         },
         {
-            "text": "",
-            "name": "<username>"
+            "name": "Rice Shower",
+            "text": "So Rice thought. I was happy with second \nplace, but if I could get first place…"
         },
         {
-            "text": "",
-            "name": "<username>"
+            "name": "Rice Shower",
+            "text": "So…. Rice wants to win over Mihono Bourbon-san."
         },
         {
-            "text": "",
-            "name": "<username>"
+            "text": "“I want to win”――"
         },
         {
-            "text": "",
-            "name": "<username>"
+            "text": "Every time the difference between her and an extraordinary Horse \nGirl is reduced, the feeling of victory that she has hidden in it \nhas gotten this far already."
         },
         {
-            "text": "",
-            "name": "Gold Ship"
+            "name": "Rice Shower",
+            "text": "It was thanks to Trainer-san that I always felt like I wanted to \nwin over someone like this, so I just wanted to tell you."
         },
         {
-            "text": "",
-            "name": "<username>"
+            "name": "Rice Shower",
+            "text": "Well, somehow, when I say it out of my \nmouth like this, it's embarrassing."
         },
         {
-            "text": "",
-            "name": "<username>"
+            "text": "Sure, that's how confident I am. Next time we will win first \nplace, we will win over Mihono Bourbon, together."
         },
         {
-            "text": "",
-            "name": "Gold Ship"
+            "text": "Sure, that's how confident I am. Next time we will win first \nplace, we will win over Mihono Bourbon, together."
         },
         {
-            "text": ""
+            "name": "Rice Shower",
+            "text": "Together…. yeah, I'm looking forward to working with you."
         },
         {
-            "text": ""
+            "name": "Gold Ship",
+            "text": "Yaa, I played! I played! Rice, have you enjoyed yourself?"
         },
         {
-            "text": ""
+            "name": "Rice Shower",
+            "text": "Yeah, it was fun, like a real utopia."
         },
         {
-            "text": "",
-            "name": "Rice Shower"
+            "name": "Rice Shower",
+            "text": "Trainer-san, thanks for the reward today. \nRice, will do her best next time!",
+            "choice_data_list": [
+                "I'll do everything I can to support you.",
+                "I'll do everything I can to support you."
+            ]
         },
         {
-            "text": ""
+            "name": "Mejiro McQueen",
+            "text": "As far as I can see from Rice's face, it seems that this reward \nwas the right choice."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But next time, I'll ask for a proper reward."
+        },
+        {
+            "text": "Yes, yes"
+        },
+        {
+            "text": "The next day, the training of Rice Shower, \nwhich was determined again, began."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "heh, heh, heh, heh, heh…."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Follow, Follow…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "huh―, She's sticking, she's sticking."
+        },
+        {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "Even if McQueen's pace is up, She is still holding on."
+        },
+        {
+            "text": "Whether you're studying or running, setting goals makes it easier \nfor you to perform at your best."
+        },
+        {
+            "text": "Whether you're studying or running, setting goals makes it easier \nfor you to perform at your best."
+        },
+        {
+            "text": "Especially in Rice's case, it seems effective."
+        },
+        {
+            "text": "Especially in Rice's case, it seems effective."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What are you aiming for, McQueen? or Mihono Bourbon?"
+        },
+        {
+            "text": "Everything. Rice has an obsession to keep chasing, to never give \nup when she decides on something."
+        },
+        {
+            "text": "Everything. Rice has an obsession to keep chasing, to never give \nup when she decides on something."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Huh, I see."
+        },
+        {
+            "text": "If we continue at this pace, we can expect a better win than ever \nin the next race, which is a rematch against Mihono Bourbon."
+        },
+        {
+            "text": "In addition for Mejiro McQueen, who is waiting for the \n“Takarazuka Memorial”, this is going to be a good workout."
+        },
+        {
+            "text": "The feeling of the team is rising thanks \nto Rice Shower, I thought so."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "McQueen-san!?"
+        },
+        {
+            "text": "The screams of Rice Shower echoed through the training course……"
         }
     ]
 }

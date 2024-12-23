@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,22 +11,22 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I did, indeed! After all, I'm in high spirits!"
+            "text": "I did, indeed! \nAfter all, I'm in high spirits!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "There are still 2400 meters worth of race left, and I'm determined to Bakushin right through summer!"
+            "text": "There are still 2400 meters worth of race \nleft, and I'm determined to Bakushin \nright through summer!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll show everyone how hard working I am during races and summer training camps, and I'll be a role model for them from head to toe!"
+            "text": "I'll show everyone how hard working I am \nduring races and summer training camps, \nand I'll be a role model for them from \nhead to toe!"
         },
         {
             "name": "Sakura Bakushin O",
             "text": "Let's goooo!"
         },
         {
-            "text": "And so began the summer training camp to improve our skills!"
+            "text": "And so began the summer training \ncamp to improve our skills!"
         }
     ]
 }

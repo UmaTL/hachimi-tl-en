@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed… I've been thinking until dawn for the past few days…"
+            "text": "Indeed… I've been thinking until dawn for \nthe past few days…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But because of that, I've come up with something…! Proposed class goals for next month, 100 of them!"
+            "text": "But because of that, I've come up with \nsomething…! \nProposed class goals for next month, 100 \nof them!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -22,10 +23,10 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yaaaaa～～～～～wn… Nn… I'll do…'mbest."
+            "text": "Yaaaaa～～～～～wn… \nNn… I'll do…'mbest."
         },
         {
-            "text": "As class president, she cares about her class so much that she doesn't seem to be sleeping very well…"
+            "text": "As class president, she cares about her \nclass so much that she doesn't seem to be \nsleeping very well…"
         }
     ]
 }

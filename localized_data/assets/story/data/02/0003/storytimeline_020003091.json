@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Narita Taishin",
@@ -26,7 +27,7 @@
         },
         {
             "name": "Other School Girl B",
-            "text": "Isn't it too tough for Taishin-chan? To run as a Horse Girl of Tracen Academy."
+            "text": "Isn't it too tough for Taishin-chan? To \nrun as a Horse Girl of Tracen Academy."
         },
         {
             "name": "Narita Taishin",
@@ -34,7 +35,7 @@
         },
         {
             "name": "Other School Girl B",
-            "text": "Well, We're not even Horse Girls, but it looks like we can even win against Taishin-chan if we run!"
+            "text": "Well, We're not even Horse Girls, but it looks like we can even \nwin against Taishin-chan if we run!"
         },
         {
             "name": "Other School A",
@@ -74,11 +75,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Because Taishin said “anything is fine”, so I had trouble deciding whether to buy crepes or ice cream or whatever, I was troubled～!"
+            "text": "Because Taishin said “anything is fine”, so I \nhad trouble deciding whether to buy crepes or \nice cream or whatever, I was troubled～!"
         },
         {
             "name": "Winning Ticket",
-            "text": "So, to make Taishin grow taller and bigger, I bought extra-large taiyaki!"
+            "text": "So, to make Taishin grow taller and bigger, \nI bought extra-large taiyaki!"
         },
         {
             "name": "Narita Taishin",
@@ -86,11 +87,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "If you can't eat it, we'll help you too, so it's okay! There's a place to sit over there, so let's eat there!"
+            "text": "If you can't eat it, we'll help you too, so it's okay! There's a \nplace to sit over there, so let's eat there!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Come on, it's a waste if you don't eat it before it gets cold! Hurry up-Hurry up!"
+            "text": "Come on, it's a waste if you don't eat it \nbefore it gets cold! Hurry up-Hurry up!"
         },
         {
             "name": "Biwa Hayahide",
@@ -108,11 +109,11 @@
             "text": "Few days before the “SatsukiShou”ー"
         },
         {
-            "text": "Winning Ticket's training menu entered the chase stage, so today it was decided to run outside the school to do it."
+            "text": "Winning Ticket's training menu entered the chase stage, so today \nit was decided to run outside the school to do it."
         },
         {
             "name": "Winning Ticket",
-            "text": "I still have enough strength! Let's do our best with the extra training, Trainer-san!",
+            "text": "I still have enough strength! Let's do our best with the extra \ntraining, Trainer-san!",
             "choice_data_list": [
                 "Let's increase our energy until the actual performance!"
             ]
@@ -123,25 +124,25 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Ah, Trainer-san and Winning Ticket-san. By any chance, are you going to train?"
+            "text": "Ah, Trainer-san and Winning Ticket-san. \nBy any chance, are you going to train?"
         },
         {
             "text": "Yes, is there anything you need?"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "The truth is, it seems that people are gathering in front of the school now."
+            "text": "The truth is, it seems that people are \ngathering in front of the school now."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "There are only a few days left until the “SatsukiShou”, it will be a problem if it interferes with training, so I thought I would pick you up."
+            "text": "There are only a few days left until the “SatsukiShou”, \nit will be a problem if it interferes with training, \nso I thought I would pick you up."
         },
         {
-            "text": "Right now is the time to train even if it's a little. Well, if you can hold on to it, it's nothing to worry about."
+            "text": "Right now is the time to train even if it's a little. Well, if \nyou can hold on to it, it's nothing to worry about."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, I'm going-I'm going! I can't refuse the people who support me or the people who came to interview me!"
+            "text": "Oh, I'm going-I'm going! I can't refuse the people who support me \nor the people who came to interview me!"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -149,11 +150,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "It's okay! But I'm not planning to ditch my training. I'll follow through with what I've decided!"
+            "text": "It's okay! But I'm not planning to ditch my training. I'll follow \nthrough with what I've decided!"
         },
         {
             "name": "Winning Ticket",
-            "text": "With that said, I will do my best until curfew today! So Trainer-san, I will have you follow through with me until the end!",
+            "text": "With that said, I will do my best until curfew \ntoday! So Trainer-san, I will have you follow \nthrough with me until the end!",
             "choice_data_list": [
                 "All right, leave it to me",
                 "All right, leave it to me"
@@ -173,13 +174,13 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Woah, you don't need to force your way through, I will respond properly!"
+            "text": "Woah, you don't need to force your way \nthrough, I will respond properly!"
         },
         {
-            "text": "As the “SatsukiShou” approaches, Winning Ticket has also increased her degree of attention in the public."
+            "text": "As the “SatsukiShou” approaches, Winning Ticket has also \nincreased her degree of attention in the public."
         },
         {
-            "text": "However, she responded politely to the interview, whether it is her policy or not."
+            "text": "However, she responded politely to the interview, \nwhether it is her policy or not."
         },
         {
             "name": "Reporter A",
@@ -187,18 +188,18 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Um… it's going great! I can see for myself that my condition is getting better day by day!"
+            "text": "Um… it's going great! I can see for myself that my condition is \ngetting better day by day!"
         },
         {
             "name": "Reporter A",
-            "text": "About your 2 rivals running in the “SatsukiShou”, are you aware of their thoughts regarding the race?"
+            "text": "About your 2 rivals running in the “SatsukiShou”, are you aware \nof their thoughts regarding the race?"
         },
         {
             "name": "Winning Ticket",
-            "text": "That's of course, that we are going to have fun! Not only in the “SatsukiShou” but also the Derby."
+            "text": "That's of course, that we are going to have fun! Not only in the \n“SatsukiShou” but also the Derby."
         },
         {
-            "text": "As Winning Ticket was surrounded by the staff and was answering. Just then, Narita Taishin came out of the school."
+            "text": "As Winning Ticket was surrounded by the staff and was answering. \nJust then, Narita Taishin came out of the school."
         },
         {
             "name": "Narita Taishin",
@@ -232,30 +233,30 @@
             "text": "Is that right…?"
         },
         {
-            "text": "Both Narita Taishin and Biwa Hayahide want to focus on training in front of the upcoming “SatsukiShou”."
+            "text": "Both Narita Taishin and Biwa Hayahide want to focus on training \nin front of the upcoming “SatsukiShou”."
         },
         {
-            "text": "I was staring at the coverage of Winning Ticket while thinking about the training menu after this one so as not to lag behind."
+            "text": "I was staring at the coverage of Winning Ticket while thinking \nabout the training menu after this one so as not to lag behind."
         },
         {
-            "text": "Finally, the 3 girls of “BNW” gathered for the first time, the day of the classic first game the “SatsukiShou”."
+            "text": "Finally, the 3 girls of “BNW” gathered for the first time, the \nday of the classic first game the “SatsukiShou”."
         },
         {
             "name": "Winning Ticket",
             "text": "Waaah～～! The classic race makes you nervous just by the sound～～!!"
         },
         {
-            "text": "The classic race, which is limited to the Derby, is a prosperous one."
+            "text": "The classic race, which is limited to \nthe Derby, is a prosperous one."
         },
         {
-            "text": "The classic race, which is limited to the Derby, is a prosperous one."
+            "text": "The classic race, which is limited to \nthe Derby, is a prosperous one."
         },
         {
-            "text": "You've been training well and you're in a good physical condition. All that's left is to run with all your might and take on the glory!"
+            "text": "You've been training well and you're in a good \nphysical condition. All that's left is to run \nwith all your might and take on the glory!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin and Hayahide are also on the other side! So I will run with full force!",
+            "text": "Taishin and Hayahide are also on the other \nside! So I will run with full force!",
             "choice_data_list": [
                 "Go!",
                 "Go!"
@@ -275,11 +276,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Ehehe, I'm just so happy that the 3 of us are going to run together!"
+            "text": "Ehehe, I'm just so happy that the 3 \nof us are going to run together!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I know how you feel. Each one of us ran though a number of races and are finally standing in the same place sharing the same feelings."
+            "text": "I know how you feel. Each one of us ran though \na number of races and are finally standing in \nthe same place sharing the same feelings."
         },
         {
             "name": "Narita Taishin",
@@ -291,11 +292,11 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Run and win… I have done my best to that end. Today, for this day."
+            "text": "Run and win… I have done my best to \nthat end. Today, for this day."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm the same. I'm finally here. I'll run with all my might and win."
+            "text": "I'm the same. I'm finally here. I'll \nrun with all my might and win."
         },
         {
             "name": "Winning Ticket",
@@ -303,14 +304,14 @@
         },
         {
             "name": "Commentator",
-            "text": "The first girl of BNW with high expectations, it is the number 1 in the popularity charts, Winning Ticket!"
+            "text": "The first girl of BNW with high expectations, it is the number 1 \nin the popularity charts, Winning Ticket!"
         },
         {
-            "text": "Responding to the cheers from the stands, Winning Ticket ran to the gate while waving her hand."
+            "text": "Responding to the cheers from the stands, Winning Ticket ran to \nthe gate while waving her hand."
         },
         {
             "name": "Commentator",
-            "text": "All Horse Girl entered the gates! Classic round 1 race, the “SatsukiShou”… Now, it's the start!"
+            "text": "All Horse Girl entered the gates! Classic round 1 race, the \n“SatsukiShou”… Now, it's the start!"
         }
     ]
 }

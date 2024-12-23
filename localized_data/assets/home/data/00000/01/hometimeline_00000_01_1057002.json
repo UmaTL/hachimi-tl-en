@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mr. C.B.",
-            "text": "Curfew's so annoying. Sometimes I want to talk with you more, especially before a race."
+            "text": "Curfew's so annoying. Sometimes I want \nto talk with you more, especially before \na race."
         },
         {
             "name": "Mr. C.B.",
-            "text": "I don't live in the dorms, but I still have to leave campus by curfew……"
+            "text": "I don't live in the dorms, but I still \nhave to leave campus by curfew……"
         },
         {
             "name": "Mr. C.B.",
-            "text": "Ah, I know. You can just come over to my place. No curfew there."
+            "text": "Ah, I know. You can just come over \nto my place. No curfew there."
         },
         {
             "name": "Mr. C.B.",
-            "text": "Yeah, that sounds good! I'm starting to look forward to us talking more and all the races ahead now!"
+            "text": "Yeah, that sounds good! I'm starting to \nlook forward to us talking more and all \nthe races ahead now!"
         }
     ]
 }

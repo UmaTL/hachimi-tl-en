@@ -1,18 +1,19 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "URA Finals. The race in which each horse girl is in peak condition, competing for the top."
+            "text": "URA Finals. The race in which each\nhorse girl is in peak condition,\ncompeting for the top."
         },
         {
-            "text": "Its qualifying round was about to begin."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Thank you, trainer, for seeing <chrname> here."
+            "text": "Its qualifying round\nwas about to begin."
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "At last, you have come this far. As a fan of both of you, I'm happy.",
+            "text": "Thank you, trainer, for\nseeing <chrname> here."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "At last, you have come this far. As a fan of\nboth of you, I'm happy.",
             "choice_data_list": [
                 "I'm going to make this the best race ever!"
             ]
@@ -22,7 +23,7 @@
             "text": "Hehehe, yes. I'm looking forward to it!"
         },
         {
-            "text": "The gates of the URA Finals are finally open!"
+            "text": "The gates of the URA Finals\nare finally open!"
         }
     ]
 }

@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "On the way home from an outing with Sakura Bakushin O, we were talking about her classmate."
+            "text": "On the way home from an outing with \nSakura Bakushin O, we were talking about \nher classmate."
         },
         {
-            "text": "She was leaving the school. She had said that she \"wanted to give it her all in her last race.\"――",
+            "text": "She was leaving the school. She \nhad said that she \"wanted to give \nit her all in her last race.\"――",
             "choice_data_list": [
                 "That girl's last race, it's tomorrow, isn't it.",
                 "That girl's last race, it's tomorrow, isn't it."
@@ -12,10 +13,10 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes! I've done all I can, and I'm absolutely for-certain she'll win first place!!"
+            "text": "Yes! I've done all I can, and I'm absolutely \nfor-certain she'll win first place!!"
         },
         {
-            "text": "On the day of the race, Sakura Bakushin O's entire class showed up to watch the mock race.",
+            "text": "On the day of the race, Sakura Bakushin \nO's entire class showed up to watch the \nmock race.",
             "choice_data_list": [
                 "It's finally time for the match.",
                 "It's finally time for the match."
@@ -23,26 +24,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Don't worry!! You have the capabilities to do the best Bakushin there ever was!"
+            "text": "Don't worry!! \nYou have the capabilities to do the best \nBakushin there ever was!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Yeah! Bakushinbakushin, right!"
+            "text": "Yeah! \nBakushinbakushin, right!"
         },
         {
-            "text": "As the race began, Sakura Bakushin O and the others cheered loudly for their classmate."
+            "text": "As the race began, Sakura Bakushin O and \nthe others cheered loudly for their \nclassmate."
         },
         {
             "name": "Classmate A",
-            "text": "Nice going, good, good! It's coming―!!"
+            "text": "Nice going, good, good! \nIt's coming―!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's it right there, that's it!! Let's show everyone the fruits of our labor!!"
+            "text": "That's it right there, that's it!! \nLet's show everyone the fruits of our \nlabor!!"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "(Baku-chan, everyone… Truly, thank you all so much.)"
+            "text": "(Baku-chan, everyone… Truly, thank you \nall so much.)"
         },
         {
             "name": "Freckled Horsegirl",
@@ -50,18 +51,18 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "The best I can do, <i>Bakushin…!!!!!</i>"
+            "text": "The best I can do, \n<i>Bakushin…!!!!!</i>"
         },
         {
-            "text": "Before long, the race was over, and the results for her classmate are――"
+            "text": "Before long, the race was over, and the \nresults for her classmate are――"
         },
         {
             "name": "Classmate B",
-            "text": "Fifth place, you got fifth place! You're in the top five!!"
+            "text": "Fifth place, you got fifth place! \nYou're in the top five!!"
         },
         {
             "name": "Classmate C",
-            "text": "Haha, she's waving! She looks so happy!"
+            "text": "Haha, she's waving! \nShe looks so happy!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -76,7 +77,7 @@
             ]
         },
         {
-            "text": "I pulled Sakura Bakushin O's hand, who was shocked by the results, and moved to a place where we could talk comfortably."
+            "text": "I pulled Sakura Bakushin O's hand, who \nwas shocked by the results, and moved to \na place where we could talk comfortably."
         },
         {
             "name": "Sakura Bakushin O",
@@ -84,11 +85,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'm the class president, I said I'd help! And yet, I couldn't get her to win first place…!"
+            "text": "I'm the class president, I said I'd help! \nAnd yet, I couldn't get her to win first \nplace…!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's her last race, and I…!!",
+            "text": "It's her last race, \nand I…!!",
             "choice_data_list": [
                 "But she looked so happy.",
                 "But she looked so happy.",
@@ -98,7 +99,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's her last race, and I…!!",
+            "text": "It's her last race, \nand I…!!",
             "choice_data_list": [
                 "But she looked so happy.",
                 "But she looked so happy.",
@@ -112,7 +113,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "When she was running, and when she reached the goal, she looked so happy and cheerful.",
+            "text": "When she was running, and when she \nreached the goal, she looked so happy \nand cheerful.",
             "choice_data_list": [
                 "Because it was a result she could be proud of.",
                 "Because it was a result she could be proud of."
@@ -120,11 +121,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…Yes. I was the only one who was obsessed with first place."
+            "text": "…Yes. \nI was the only one who was obsessed with \nfirst place."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Fu-fu, what a pathetic class president, misreading the wishes of her classmates.",
+            "text": "Fu-fu, what a pathetic class president, \nmisreading the wishes of her classmates.",
             "choice_data_list": [
                 "Do you know what you need to do now?",
                 "Do you know what you need to do now?"
@@ -132,11 +133,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I must congratulate her! I should be the one to take the initiative――"
+            "text": "I must congratulate her! \nI should be the one to take the initiative――"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Ah! There she is, there she is, Baku-chan!!"
+            "text": "Ah! \nThere she is, there she is, Baku-chan!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -148,7 +149,7 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Thanks to Baku-chan and everyone… It was the best race ever!!"
+            "text": "Thanks to Baku-chan and everyone… \nIt was the best race ever!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -160,14 +161,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A hug, to celebrate how bravely you fought!! It was… the best Bakushin ever!"
+            "text": "A hug, to celebrate how bravely you \nfought!! \nIt was… the best Bakushin ever!"
         },
         {
             "name": "Freckled Horsegirl",
             "text": "….Yeah……Yeah!!"
         },
         {
-            "text": "Sakura Bakushin O and her classmates shed tears of joy and hugged each other for a long while."
+            "text": "Sakura Bakushin O and her classmates \nshed tears of joy and hugged each other \nfor a long while."
         },
         {
             "name": "Sakura Bakushin O",
@@ -179,7 +180,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Well, ah… She said she wanted to finish her last race with a satisfying run.",
+            "text": "Well, ah… She said she wanted to finish her \nlast race with a satisfying run.",
             "choice_data_list": [
                 "So, did she not do that today?",
                 "So, did she not do that today?"
@@ -187,26 +188,26 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "By no means!! I deny it in the name of the class president!!",
+            "text": "By no means!! \nI deny it in the name of the class president!!",
             "choice_data_list": [
                 "Then, it shouldn't matter if you're in first or not."
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "…That's right. I must congratulate her on her results!"
+            "text": "…That's right. \nI must congratulate her on her results!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's frustrating, but… it's rude to her to be frustrated!"
+            "text": "It's frustrating, but… it's rude to her to be \nfrustrated!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's get back to her! And then, compliment her to the fullest――"
+            "text": "Let's get back to her! \nAnd then, compliment her to the fullest――"
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Ah! There she is, there she is, Baku-chan!!"
+            "text": "Ah! \nThere she is, there she is, Baku-chan!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -218,7 +219,7 @@
         },
         {
             "name": "Freckled Horsegirl",
-            "text": "Thanks to Baku-chan and everyone… It was the best race ever!!"
+            "text": "Thanks to Baku-chan and everyone… \nIt was the best race ever!!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -230,14 +231,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "A hug, to celebrate how bravely you fought!! It was… the best Bakushin ever!"
+            "text": "A hug, to celebrate how bravely you \nfought!! \nIt was… the best Bakushin ever!"
         },
         {
             "name": "Freckled Horsegirl",
             "text": "….Yeah……Yeah!!"
         },
         {
-            "text": "Sakura Bakushin O and her classmates shed tears of joy and hugged each other for a long while."
+            "text": "Sakura Bakushin O and her classmates \nshed tears of joy and hugged each other \nfor a long while."
         }
     ]
 }

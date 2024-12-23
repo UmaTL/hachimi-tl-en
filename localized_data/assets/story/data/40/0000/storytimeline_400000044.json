@@ -1,10 +1,11 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "<chrname> has been seriously injured…!"
         },
         {
-            "text": "I don't know whether I should tend to her or push her through it…",
+            "text": "I don't know whether I should tend\nto her or push her through it…",
             "choice_data_list": [
                 "Let me tend to her",
                 "I have to be harh!"
@@ -14,16 +15,16 @@
             "text": "I decided to focus  on healing her injury."
         },
         {
-            "text": "But <chrname> couldn't move her body, and she felt a little down…"
+            "text": "But <chrname> couldn't move her body, and\nshe felt a little down…"
         },
         {
-            "text": "There's no time to stand still! I've decided to be tough on <chrname>."
+            "text": "There's no time to stand still! I've decided\nto be tough on <chrname>."
         },
         {
-            "text": "But as a result, she pushed herself too hard, and her injury worsened…"
+            "text": "But as a result, she pushed herself too\nhard, and her injury worsened…"
         },
         {
-            "text": "Then, miraculously, her injury healed completely, and practice went well!"
+            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
         }
     ]
 }

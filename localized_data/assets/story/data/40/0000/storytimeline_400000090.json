@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "text": "We were not able to achieve our goals…"
@@ -7,7 +8,7 @@
             "text": "But the dream has not ended."
         },
         {
-            "text": "As long as she keeps running, I vowed to keep pushing her forward as her trainer."
+            "text": "As long as she keeps running, I vowed to\nkeep pushing her forward as her trainer."
         }
     ]
 }

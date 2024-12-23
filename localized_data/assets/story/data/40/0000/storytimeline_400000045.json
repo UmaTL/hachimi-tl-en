@@ -1,22 +1,23 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Trainer, we're in trouble! Time is running out…!",
+            "text": "Trainer, we're in trouble!\nTime is running out…!",
             "choice_data_list": [
                 "What do you mean!?"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You see, some consider it a problem that your horse girl has not won a single race so far…!",
+            "text": "You see, some consider it a problem\nthat your horse girl has not won\na single race so far…!",
             "color_text_info_list": [
                 "not won a single race so far"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "If you can't provide her a first victory by September, your contract may be terminated!",
+            "text": "If you can't provide her a first victory by\nSeptember, your contract may be terminated!",
             "color_text_info_list": [
                 "September",
                 "first victory",
@@ -25,7 +26,7 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "September is right around the corner! Please, obtain that win!",
+            "text": "September is right around the corner!\nPlease, obtain that win!",
             "color_text_info_list": [
                 "September"
             ]

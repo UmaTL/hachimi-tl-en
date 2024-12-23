@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mihono Bourbon",
-            "text": "<i>Homn nomn</i>... High heat detected: steamed meat bun. Negative effect <color=red>Burn</color> identified."
+            "text": "<i>Homn nomn</i>... \nHigh heat detected: steamed meat bun. \nNegative effect <color=red>Burn</color> identified."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "However, the consumption of 1 bun is required to replenish the calories lost in training."
+            "text": "However, the consumption of 1 bun is \nrequired to replenish the calories lost \nin training."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Next training starts in... 3m. Switching to <color=blue>Cooling</color> mode to attempt consumption."
+            "text": "Next training starts in... 3m. \nSwitching to <color=blue>Cooling</color> mode to \nattempt consumption."
         },
         {
             "name": "Mihono Bourbon",

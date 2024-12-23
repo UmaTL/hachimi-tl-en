@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Meisho Doto",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Meisho Doto",
-            "text": "To think there would be a day when I wouldn't trip…… Finally, I can drink it!"
+            "text": "To think there would be a day when \nI wouldn't trip…… Finally, I can drink it!"
         },
         {
             "name": "Meisho Doto",
-            "text": "<i>Glug glug glug…… </i>"
+            "text": "<i>Glug glug glug…… \n</i>"
         },
         {
             "name": "Meisho Doto",
-            "text": "<i>Ngh</i>!? I-It's not sweeet!? I bought it blaaaack～～!!"
+            "text": "<i>Ngh</i>!? I-It's not sweeet!? \nI bought it blaaaack～～!!"
         }
     ]
 }

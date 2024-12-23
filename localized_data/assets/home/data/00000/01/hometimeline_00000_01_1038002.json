@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Curren Chan",
-            "text": "Hmmm? I think I just heard the sound of a shutter…"
+            "text": "Hmmm? I think I just heard the \nsound of a shutter…"
         },
         {
             "name": "Curren Chan",
-            "text": "Ah! Hey, you hiding behind the pillar there… Yes, you! Come over here."
+            "text": "Ah! Hey, you hiding behind the pillar there… \nYes, you! Come over here."
         },
         {
             "name": "Curren Chan",
-            "text": "Do you just wanna stay there? Really? And miss your chance for a picture with Curren～?"
+            "text": "Do you just wanna stay there? Really? And \nmiss your chance for a picture with Curren～?"
         },
         {
             "name": "Curren Chan",
-            "text": "Hmm, I'll show you a special pose then♪ Kyururun☆"
+            "text": "Hmm, I'll show you a special \npose then♪ Kyururun☆"
         }
     ]
 }

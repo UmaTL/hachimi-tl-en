@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "This race has been chosen for further growth…"
+            "text": "This race has been chosen for further \ngrowth…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "For more excellence! I, for one, will win by a comfortable margin!"
+            "text": "For more excellence! I, for one, will win by \na comfortable margin!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -14,15 +15,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I recently learned a new phrase… Allow me to tell you what it is!"
+            "text": "I recently learned a new phrase… \nAllow me to tell you what it is!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――A flash of lightning! I think that means fast, anyway!"
+            "text": "――A flash of lightning! \nI think that means fast, anyway!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You can count on me for a lightning-fast run!"
+            "text": "You can count on me for \na lightning-fast run!"
         }
     ]
 }

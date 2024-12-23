@@ -1,23 +1,24 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "You're amazing, Trainer! I could never thank you enough!"
+            "text": "You're amazing, Trainer! \nI could never thank you enough!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I will take these stuffed animals that you have bestowed unto me and, with my whole entire heart, take them very seriously!",
+            "text": "I will take these stuffed animals that you \nhave bestowed unto me and, with my whole \nentire heart, take them very seriously!",
             "choice_data_list": [
                 "You don't have to go that far…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "But I must! I pledge to eat, sleep, and train with you, and keep you close to me at all times!"
+            "text": "But I must! \nI pledge to eat, sleep, and train with you, \nand keep you close to me at all times!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "After all, you are the precious children given to me by my Trainer!"
+            "text": "After all, you are the precious children \ngiven to me by my Trainer!"
         },
         {
             "text": "――That was a fantastic result!"

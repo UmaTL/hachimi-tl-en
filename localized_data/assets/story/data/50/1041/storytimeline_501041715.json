@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahhh―! I worked so hard today, too! These legs are beat!"
+            "text": "Ahhh―! I worked so hard today, too! \nThese legs are beat!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -10,27 +11,27 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ms. Rice! Where are you headed at this hour?"
+            "text": "Ms. Rice! Where are you headed at this \nhour?"
         },
         {
             "name": "Rice Shower",
-            "text": "M-Ms. Bakushin O! Um, I just thought, I would run… for a bit."
+            "text": "M-Ms. Bakushin O! \nUm, I just thought, I would run… for a bit."
         },
         {
             "name": "Rice Shower",
-            "text": "Rice also wanted to do her best…. like everyone else, and, um……"
+            "text": "Rice also wanted to do her best…. like \neveryone else, and, um……"
         },
         {
             "name": "Rice Shower",
-            "text": "I, I'm so sorry! I'll hurry back… right now… before the curfew!"
+            "text": "I, I'm so sorry! I'll hurry back… right now… \nbefore the curfew!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ohhhh～～～! What a hard worker! Not to mention, that run……!"
+            "text": "Ohhhh～～～! What a hard worker! \nNot to mention, that run……!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! My battered legs are itching to get going!",
+            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
             "choice_data_list": [
                 "You're going to run some more?",
                 "We'll work hard tomorrow.",
@@ -39,7 +40,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! My battered legs are itching to get going!",
+            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
             "choice_data_list": [
                 "You're going to run some more?",
                 "We'll work hard tomorrow.",
@@ -48,17 +49,17 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "What a fantastic idea! By all means, let's do it!"
+            "text": "What a fantastic idea! \nBy all means, let's do it!"
         },
         {
-            "text": "After that, Rice Shower and Sakura Bakushin O did additional training together until curfew."
+            "text": "After that, Rice Shower and Sakura \nBakushin O did additional training together \nuntil curfew."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course I will! I'll Bakushin with all my might tomorrow―!"
+            "text": "Of course I will! \nI'll Bakushin with all my might tomorrow―!"
         },
         {
-            "text": "Sakura Bakushin O was already full of energy for tomorrow's training."
+            "text": "Sakura Bakushin O was already full of \nenergy for tomorrow's training."
         }
     ]
 }

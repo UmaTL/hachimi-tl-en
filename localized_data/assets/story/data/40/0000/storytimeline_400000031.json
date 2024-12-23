@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Otonashi Etsuko",
-            "text": "Hmmm… is this your current practice plan? … I see, I see."
+            "text": "Hmmm… is this your current practice plan?\n… I see, I see."
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Oh, please don't play games with me. This isn't a real plan, is it?"
+            "text": "Oh, please don't play games with me.\nThis isn't a real plan, is it?"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I mean you, trainer. You're still hiding some grand self-sacrificial plan aren't you…!?"
+            "text": "I mean you, trainer. You're still\nhiding some grand self-sacrificial\nplan aren't you…!?"
         },
         {
             "text": "… Apparently there's more to come!"

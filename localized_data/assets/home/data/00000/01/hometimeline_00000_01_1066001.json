@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Twin Turbo",
-            "text": "If I eat snacks for too long, I won't be able to eat dinner……"
+            "text": "If I eat snacks for too long, I won't \nbe able to eat dinner……"
         },
         {
             "name": "Twin Turbo",
-            "text": "But it's ok if it's juuust for a little bit. Which means ——"
+            "text": "But it's ok if it's juuust for a little bit. \nWhich means ——"
         },
         {
             "name": "Twin Turbo",
-            "text": "I just have have to eat quickly! I'll only be eating for a second so it's ok!"
+            "text": "I just have have to eat quickly! \nI'll only be eating for a second so it's ok!"
         },
         {
             "name": "Twin Turbo",

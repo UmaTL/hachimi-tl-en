@@ -1,27 +1,28 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "One day, while relaxing in my room, I received an e-mail from Thoresen Academy.",
+            "text": "One day, while relaxing in my room, I \nreceived an e-mail from Thoresen Academy.",
             "choice_data_list": [
                 "What is it ……?"
             ]
         },
         {
-            "text": "Attention all trainers at the Academy! There will be a big announcement concerning your future in the near future."
+            "text": "Attention all trainers at the Academy! There \nwill be a big announcement concerning your \nfuture in the near future."
         },
         {
-            "text": "Be sure to check it out! From Akikawa [Akikawa], Chairman of the Board of Trustees of Tressen Academy.\"",
+            "text": "Be sure to check it out! From Akikawa \n[Akikawa], Chairman of the Board of Trustees \nof Tressen Academy.\"",
             "color_text_info_list": [
                 "fall river"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Thank you! Media, thank you for coming! Silence! I would like to propose…"
+            "text": "Thank you! Media, thank you for coming! \nSilence! I would like to propose…"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Um, Ms. President～……! If you don't get on the platform to talk, they won't see……!"
+            "text": "Um, Ms. President～……! \nIf you don't get on the platform to talk, \nthey won't see……!"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -33,7 +34,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Proposal! In the name of the chairman of the board of directors of Thoresen Academy, I hereby―"
+            "text": "Proposal! In the name of the chairman \nof the board of directors of Thoresen \nAcademy, I hereby―"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -44,11 +45,11 @@
         },
         {
             "name": "Reporters",
-            "text": "The \"URA Finals\" ……! You're creating a new race!"
+            "text": "The \"URA Finals\" ……! You're \ncreating a new race!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Chairman Akikawa! My name is Fumi Otome of \"Monthly Twinkle\". May I ask you a question?",
+            "text": "Chairman Akikawa! My name is Fumi Otome of \n\"Monthly Twinkle\". May I ask you a question?",
             "color_text_info_list": [
                 "Monthly Twinkle",
                 "history of a second name"
@@ -64,7 +65,7 @@
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "I understand that you are establishing a new race."
+            "text": "I understand that you are \nestablishing a new race."
         },
         {
             "name": "Chairwoman Akikawa",
@@ -72,15 +73,15 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "The \"URA Finals\" is a race that \"gives every Uma Musume a chance."
+            "text": "The \"URA Finals\" is a race that \"gives every \nUma Musume a chance."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Every Uma Musume will give it their all to reach the top! The best! The top! It's a race where you can compete!"
+            "text": "Every Uma Musume will give it their all to \nreach the top! The best! The top! It's a race \nwhere you can compete!"
         },
         {
             "name": "Otonashi Etsuko",
-            "text": "Give…… a chance to…… the top spot…… every Uma girl ……!"
+            "text": "Give…… a chance to…… the top \nspot…… every Uma girl ……!"
         },
         {
             "text": "(mutter mutter mutter……!!)"
@@ -94,25 +95,25 @@
             "text": "Huh! ……! This is getting interesting… ……!"
         },
         {
-            "text": "The race, \"URA Finals,\" was suddenly announced. ……"
+            "text": "The race, \"URA Finals,\" was \nsuddenly announced. ……"
         },
         {
-            "text": "Immediately after the press conference that shocked the racing world, a briefing session was held for the members of Tracen Academy."
+            "text": "Immediately after the press conference that \nshocked the racing world, a briefing session \nwas held for the members of Tracen Academy."
         },
         {
-            "text": "We headed to the gymnasium, where the students and trainers had already gathered, and the room was filled with a buzz. ……"
+            "text": "We headed to the gymnasium, where \nthe students and trainers had already \ngathered, and the room was \nfilled with a buzz. ……"
         },
         {
             "name": "Veteran Trainer A",
-            "text": "URA Finals or …… I wonder if it's okay, doing something so big as establishing a new race."
+            "text": "URA Finals or …… I wonder if it's okay, doing \nsomething so big as establishing a new race."
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Yeah, I know……… I mean, she's still a kid, right?"
+            "text": "Yeah, I know……… I mean, she's \nstill a kid, right?"
         },
         {
             "name": "Veteran Trainer B",
-            "text": "Her predecessor was really good, but it doesn't necessarily mean that her daughter is too."
+            "text": "Her predecessor was really good, \nbut it doesn't necessarily \nmean that her daughter is too."
         },
         {
             "name": "Hayakawa Tazuna",
@@ -120,32 +121,32 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "We will have time for questions and answers after the presentation. If you have any questions, please ask then, okay?"
+            "text": "We will have time for questions and answers \nafter the presentation. If you have any \nquestions, please ask then, okay?"
         },
         {
             "name": "Trainers",
             "text": "Tazuna, ……! I'm sorry, I'm sorry."
         },
         {
-            "text": "Looking at the surroundings, it seems that people are still more upset and anxious."
+            "text": "Looking at the surroundings, it seems that \npeople are still more upset and anxious."
         },
         {
-            "text": "In the midst of all this…… finally began the \"URA Finals\" presentation by Chancellor Akikawa."
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! Many of you may have been puzzled and anxious at the sudden announcement of ……"
+            "text": "In the midst of all this…… finally \nbegan the \"URA Finals\" presentation \nby Chancellor Akikawa."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "But! First of all, listen to me! The URA Finals, and what it means!"
+            "text": "Gentlemen! Many of you may have been puzzled \nand anxious at the sudden announcement of ……"
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "But! First of all, listen to me! The URA \nFinals, and what it means!"
         },
         {
             "name": "All",
             "text": "Meaning of ……?"
         },
         {
-            "text": "The faces of the participants looked at each other in a stir. Then, at the perfect moment, the conversation was interrupted. Akikawa, the chairman of the board of trustees, raised her voice."
+            "text": "The faces of the participants looked at each \nother in a stir. Then, at the perfect \nmoment, the conversation was interrupted. \nAkikawa, the chairman of the board of \ntrustees, raised her voice."
         },
         {
             "name": "Chairwoman Akikawa",
@@ -157,7 +158,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "I want to win the Arimakinen! I want to win the Derby! I want to be the best horse girl! Even if you think so…",
+            "text": "I want to win the Arimakinen! I want to win \nthe Derby! I want to be the best horse girl! \nEven if you think so…",
             "color_text_info_list": [
                 "Arima Kinen (horse racing)",
                 "Japan Derby"
@@ -165,11 +166,11 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Have you ever had a race where you just couldn't match the distance or course, and you couldn't even show your ability?"
+            "text": "Have you ever had a race where you just \ncouldn't match the distance or course, and \nyou couldn't even show your ability?"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "'My true power, the power of the horsegirl in charge, is not like this,' she bit her lip!"
+            "text": "'My true power, the power of the horsegirl in \ncharge, is not like this,' she bit her lip!"
         },
         {
             "name": "Vodka",
@@ -181,15 +182,15 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Gentlemen! I am aiming for a world where all Uma Musume who aspire to race will shine!"
+            "text": "Gentlemen! I am aiming for a world where all \nUma Musume who aspire to race will shine!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "The brilliance of the running Uma Musume is a clash of wills! My ideal is for the horsegirls to compete for the top spot with all their might and radiate their brilliance to each other!"
+            "text": "The brilliance of the running Uma Musume is a \nclash of wills! My ideal is for the \nhorsegirls to compete for the top spot \nwith all their might and radiate \ntheir brilliance to each other!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "After all! I want to prepare a stage where all the horsegirls can show their best! I want to prepare it!"
+            "text": "After all! I want to prepare a stage where \nall the horsegirls can show their best! I \nwant to prepare it!"
         },
         {
             "name": "All",
@@ -197,7 +198,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "In a regular GI, the distance and course are established by the race."
+            "text": "In a regular GI, the distance and course are \nestablished by the race."
         },
         {
             "name": "Chairwoman Akikawa",
@@ -205,7 +206,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Scrape your eyes! In the URA Finals, we will have \"all distances\" and \"all courses\"!"
+            "text": "Scrape your eyes! In the URA Finals, we will \nhave \"all distances\" and \"all courses\"!"
         },
         {
             "name": "Bamboo Memory",
@@ -217,47 +218,47 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "As with the Arima Kinen and Takarazuka Kinen, only the Uma Musume chosen by fan votes will be eligible to participate!",
+            "text": "As with the Arima Kinen and Takarazuka Kinen, \nonly the Uma Musume chosen by fan votes will \nbe eligible to participate!",
             "color_text_info_list": [
                 "Takarazuka Memorial Museum"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "In other words, the representative Uma Musume who have been active in the Twinkle Series and won many fans―the \"Star Uma Musume\"―are the only ones who are eligible to run!",
+            "text": "In other words, the representative Uma Musume \nwho have been active in the Twinkle Series \nand won many fans―the \"Star Uma Musume\"―are \nthe only ones who are eligible to run!",
             "color_text_info_list": [
                 "Star Uma Musume"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Uma Musume, ladies and gentlemen! Run on the stage where you can give it your all, and be the top of the URA Finals!"
+            "text": "Uma Musume, ladies and gentlemen! Run on the \nstage where you can give it your all, and be \nthe top of the URA Finals!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Why don't you try to win the title of \"Finals Champion\"?",
+            "text": "Why don't you try to win the \ntitle of \"Finals Champion\"?",
             "color_text_info_list": [
                 "Final's Champion"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Trainers! I want you to develop the talents of the horsegirls in your charge to the best of your ability."
+            "text": "Trainers! I want you to develop the talents \nof the horsegirls in your charge to the best \nof your ability."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Wouldn't you like to see her crowned the first champion!"
+            "text": "Wouldn't you like to see her crowned the \nfirst champion!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Come on! You will all gather fans and become \"Star Uma Musume\" for the first show of the New Year in three years!",
+            "text": "Come on! You will all gather fans and become \n\"Star Uma Musume\" for the first show of the \nNew Year in three years!",
             "color_text_info_list": [
                 "New Year in three years"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Encouragement! Expectations! I'm waiting for your success!"
+            "text": "Encouragement! Expectations! \nI'm waiting for your success!"
         },
         {
             "name": "All",
@@ -268,10 +269,10 @@
             "text": "(Waaaaahhhh ……!!!)"
         },
         {
-            "text": "The situation before the briefing changed dramatically, and the room was filled with applause and cheers that did not cease for a while."
+            "text": "The situation before the briefing \nchanged dramatically, and the room \nwas filled with applause and cheers \nthat did not cease for a while."
         },
         {
-            "text": "Thus, the new tournament to close out the year, the \"URA Finals,\" was declared open!"
+            "text": "Thus, the new tournament to close out the \nyear, the \"URA Finals,\" was declared open!"
         }
     ]
 }

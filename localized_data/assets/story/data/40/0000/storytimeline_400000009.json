@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Bravo! I'm impressed with your relentless pursuit of speed!"
+            "text": "Bravo! I'm impressed with your\nrelentless pursuit of speed!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Keep up the good work! —Now, if you'll excuse me!"
+            "text": "Keep up the good work! —Now,\nif you'll excuse me!"
         },
         {
             "text": "She was pleased with the way we practiced …"

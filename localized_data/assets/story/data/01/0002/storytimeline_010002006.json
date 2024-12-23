@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Next, let's choose the horsegirl that you will be in charge of!"
+            "text": "Next, let's choose the horsegirl that you \nwill be in charge of!"
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Since we're practicing this time, please choose the horsegirl you just obtained."
+            "text": "Since we're practicing this time, please \nchoose the horsegirl you just obtained."
         }
     ]
 }

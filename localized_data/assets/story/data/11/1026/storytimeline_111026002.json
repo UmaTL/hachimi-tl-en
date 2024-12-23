@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mihono Bourbon",
-            "text": "Through use of the provided fruits, code <color=#ee60a1>Flavor Variation</color> may also be executed. … Please experience my feelings in your preferred manner."
+            "text": "Through use of the provided fruits, \ncode <color=#ee60a1>Flavor Variation</color> may also be executed. \n… Please experience my feelings in \nyour preferred manner."
         }
     ]
 }

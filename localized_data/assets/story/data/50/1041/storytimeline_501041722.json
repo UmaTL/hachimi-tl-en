@@ -1,19 +1,20 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuu……it's here it's here it's hereee! I've got a headache!!",
+            "text": "Uuuu……it's here it's here it's hereee! \nI've got a headache!!",
             "choice_data_list": [
                 "Are you alright?"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yessir! This is simply a side effect from my teacher's passionate instruction during supplementary lessons!"
+            "text": "Yessir! This is simply a side effect from my \nteacher's passionate instruction during \nsupplementary lessons!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is, shall we say, a muscle ache for the brain……"
+            "text": "This is, shall we say, a muscle ache for the \nbrain……"
         },
         {
             "name": "Sakura Bakushin O",
@@ -21,7 +22,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "In other words! I'm smart, and I'm about to get even smarter!",
+            "text": "In other words! I'm smart, and I'm about to \nget even smarter!",
             "choice_data_list": [
                 "S, so that's how it works…?",
                 "S, so that's how it works…?"
@@ -29,18 +30,18 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Affirmative! Based on my experience and theories, there is no doubt!!"
+            "text": "Affirmative! \nBased on my experience and theories, there \nis no doubt!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Let's ride this wave of growth! Both physically and mentally, Bakushinbaku――"
+            "text": "Let's ride this wave of growth! \nBoth physically and mentally, \nBakushinbaku――"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "<i>Piiiiiiing!!</i> Oww, ow, ow, ow, ow――!?"
+            "text": "<i>Piiiiiiing!!</i> \nOww, ow, ow, ow, ow――!?"
         },
         {
-            "text": "Despite her enthusiasm, Sakura Bakushin O was plagued by a headache."
+            "text": "Despite her enthusiasm, Sakura Bakushin \nO was plagued by a headache."
         }
     ]
 }

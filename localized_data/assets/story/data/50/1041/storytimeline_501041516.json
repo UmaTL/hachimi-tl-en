@@ -1,15 +1,16 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "While I was taking a walk in the park, I heard a familiar voice coming from a candy store nearby…"
+            "text": "While I was taking a walk in the park, I \nheard a familiar voice coming from a candy \nstore nearby…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "――Even if it is candy! You must BakuBaku, and Bakushin!"
+            "text": "――Even if it is candy! \nYou must BakuBaku, and Bakushin!"
         },
         {
             "name": "Inari One",
-            "text": "No, no, eating with sophistication is what \"harmony\" is all about, ain't it?",
+            "text": "No, no, eating with sophistication is what \n\"harmony\" is all about, ain't it?",
             "choice_data_list": [
                 "What's going on?",
                 "What's going on?"
@@ -17,27 +18,27 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh, ho! You've come at an excellent time! Let's ask Trainer about this!"
+            "text": "Oh, ho! You've come at an excellent time! \nLet's ask Trainer about this!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Actually, Ms. Inari and I ran into each other at a candy shop, and we were talking about having tea together, but…"
+            "text": "Actually, Ms. Inari and I ran into each other \nat a candy shop, and we were talking about \nhaving tea together, but…"
         },
         {
             "name": "Inari One",
-            "text": "We both like Japanese sweets a whole lot, so we got excited about how we should eat the daily special tea cakes, y'see…"
+            "text": "We both like Japanese sweets a whole lot, \nso we got excited about how we should eat \nthe daily special tea cakes, y'see…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No matter what kind of Japanese sweets you eat, you must have Bakushin! You should eat your fill, and eat Baku-fast!"
+            "text": "No matter what kind of Japanese sweets \nyou eat, you must have Bakushin! \nYou should eat your fill, and eat Baku-fast!"
         },
         {
             "name": "Inari One",
-            "text": "Waitaminute! Those tea cakes go suuper well with hot tea. Savoring them slowly is the best way to be chic!"
+            "text": "Waitaminute! Those tea cakes go suuper \nwell with hot tea. Savoring them slowly is \nthe best way to be chic!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Chic or Bakushin! Of course, Trainer is on Team Bakushin, are you not!?",
+            "text": "Chic or Bakushin! Of course, Trainer is on \nTeam Bakushin, are you not!?",
             "choice_data_list": [
                 "Take your time and savor each one.",
                 "Eat a bunch, Team Bakushin!"
@@ -45,7 +46,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Th, that's…!? You won't Bakushin with me, you say!?",
+            "text": "Th, that's…!? \nYou won't Bakushin with me, you say!?",
             "choice_data_list": [
                 "Rather, put all your Bakushin into one of them, or \nsomething."
             ]
@@ -56,26 +57,26 @@
         },
         {
             "name": "Inari One",
-            "text": "Yeah, yeah, savor it to the fullest. That's what I'm talking about!"
+            "text": "Yeah, yeah, savor it to the fullest. \nThat's what I'm talking about!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Indeed, indeed! I'll give you a taste of what I like to call Bakushin Chic!"
+            "text": "Indeed, indeed! I'll give you a taste of what \nI like to call Bakushin Chic!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Baku… Chew… shin… Baku … Munch, munch… shin!"
+            "text": "Baku… Chew… shin… Baku \n… Munch, munch… shin!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hmhm! I think I can… …taste the Bakushin Chic!"
+            "text": "Hmhm! I think I can… \n…taste the Bakushin Chic!"
         },
         {
-            "text": "This is how Sakura Bakushin O was able to enjoy one of the sweets at her leisure."
+            "text": "This is how Sakura Bakushin O was able to \nenjoy one of the sweets at her leisure."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I thought so―!! You should enjoy sweets to your heart's content!"
+            "text": "I thought so―!! You should enjoy sweets \nto your heart's content!"
         },
         {
             "name": "Inari One",
@@ -83,22 +84,22 @@
         },
         {
             "name": "Inari One",
-            "text": "Whoo! Eating out of a bowl this massive is pretty swanky!"
+            "text": "Whoo! Eating out of a bowl this massive is \npretty swanky!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Big bowl…! Yes, yes, that's right! Bakushin is amazing!!"
+            "text": "Big bowl…! Yes, yes, that's right! \nBakushin is amazing!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ms. Inari, Trainer! Let us enjoy Bakushin together!",
+            "text": "Ms. Inari, Trainer! \nLet us enjoy Bakushin together!",
             "choice_data_list": [
                 "… Eh, together?"
             ]
         },
         {
             "name": "Inari One",
-            "text": "Of course! Let's see just how huge this bowl is!"
+            "text": "Of course! \nLet's see just how huge this bowl is!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -106,18 +107,18 @@
         },
         {
             "name": "Inari One",
-            "text": "Ba… Bakubaku, Bakushin? …Bakubaku, Bakushin… Bakuba… Uuugh!"
+            "text": "Ba… Bakubaku, Bakushin? \n…Bakubaku, Bakushin… Bakuba… Uuugh!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Uuuf… H, how's this… This, much food…"
+            "text": "Uuuf… H, how's this… \nThis, much food…"
         },
         {
             "name": "Inari One",
-            "text": "A, aah… guts, grit… This bowl's hugeness is, admirable… Uuugh."
+            "text": "A, aah… guts, grit… \nThis bowl's hugeness is, admirable… Uuugh."
         },
         {
-            "text": "…Sakura Bakushin O seemed very satisfied with the huge Bakushin Bowl."
+            "text": "…Sakura Bakushin O seemed very \nsatisfied with the huge Bakushin Bowl."
         }
     ]
 }

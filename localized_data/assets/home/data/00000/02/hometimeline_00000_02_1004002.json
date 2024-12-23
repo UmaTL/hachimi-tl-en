@@ -1,12 +1,13 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Grass Wonder",
-            "text": "Thank you, Maruzen-san, for buying me a drink."
+            "text": "Thank you, Maruzen-san, for \nbuying me a drink."
         },
         {
             "name": "Maruzensky",
-            "text": "No worries! I just wanted to thank you for being down with my drive-date the other day."
+            "text": "No worries! I just wanted to thank you for \nbeing down with my drive-date the other day."
         },
         {
             "name": "Maruzensky",
@@ -14,7 +15,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Hehe, indeed. The frustrations that have haunted me lately… seems to have blown away in the wind."
+            "text": "Hehe, indeed. The frustrations that \nhave haunted me lately… seems to have \nblown away in the wind."
         },
         {
             "name": "Maruzensky",
@@ -22,11 +23,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "… I knew it. I think we have a lot in common."
+            "text": "… I knew it. I think we \nhave a lot in common."
         },
         {
             "name": "Maruzensky",
-            "text": "So…! If you're ever bugged out again, hit me up for a drive! Cool?♪"
+            "text": "So…! If you're ever bugged out again, \nhit me up for a drive! Cool?♪"
         },
         {
             "name": "Grass Wonder",
@@ -34,11 +35,11 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "As I'm always in your debt, allow me to invite you to a tea party sometime."
+            "text": "As I'm always in your debt, allow me to \ninvite you to a tea party sometime."
         },
         {
             "name": "Maruzensky",
-            "text": "Absolutely okey-dokey with me! Drop me an invite any time☆"
+            "text": "Absolutely okey-dokey with me! \nDrop me an invite any time☆"
         }
     ]
 }

@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I won, Trainer! 1800 meters, in a flash!!",
+            "text": "I won, Trainer! \n1800 meters, in a flash!!",
             "choice_data_list": [
                 "You're amazing, Bakushin O!",
                 "You're amazing, Bakushin O!"
@@ -14,15 +15,15 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Yes, it's all because I'm amazing!! I won because I'm amazing!!!!"
+            "text": "Yes, it's all because I'm amazing!! \nI won because I'm amazing!!!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Now they know that my speed is good enough for any race!"
+            "text": "Now they know that my speed is \ngood enough for any race!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "So, Trainer, about the next race, the Satsuki Sho――",
+            "text": "So, Trainer, about the next \nrace, the Satsuki Sho――",
             "choice_data_list": [
                 "Seriously, you're amazing!",
                 "Seriously, you're amazing!"
@@ -34,18 +35,18 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course, I'm amazing! So, the next Satsuki Sho――",
+            "text": "Of course, I'm amazing! \nSo, the next Satsuki Sho――",
             "choice_data_list": [
                 "Your \"speed\" is truly spectacular!!"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Of course it is!! Speed is the very mark of a class president!"
+            "text": "Of course it is!! Speed is the \nvery mark of a class president!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Taking advantage of the very same speed that won this Spring Stakes, the Satsuki Sho―",
+            "text": "Taking advantage of the very same speed \nthat won this Spring Stakes, the Satsuki \nSho―",
             "choice_data_list": [
                 "I want to train you, more and more!"
             ]
@@ -59,19 +60,19 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No matter what the race, undoubtedly…!?"
+            "text": "No matter what the race, \nundoubtedly…!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "By undoubtedly, in other words, you mean 100%. The same probability as the fact that I'm the class president!"
+            "text": "By undoubtedly, in other words, you \nmean 100%. The same probability as the \nfact that I'm the class president!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "To sum it up… this means that if I enter a race, I'll 100% win it!!"
+            "text": "To sum it up… this means that if I enter \na race, I'll 100% win it!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "If I train my speed more than I already do, will that be possible!?",
+            "text": "If I train my speed more than I already \ndo, will that be possible!?",
             "choice_data_list": [
                 "……Yeah!",
                 "……Yeah!"
@@ -83,14 +84,14 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I'll work on my speed even more! The class president who must be a role model, must win!",
+            "text": "I'll work on my speed even more! \nThe class president who must be a role \nmodel, must win!",
             "choice_data_list": [
                 "Then, next up, the Aoi Stakes!",
                 "Then, next up, the Aoi Stakes!"
             ]
         },
         {
-            "text": "It's a lower grade, but a 1200 meter race that should be a steady winner."
+            "text": "It's a lower grade, but a 1200 meter \nrace that should be a steady winner."
         },
         {
             "name": "Sakura Bakushin O",
@@ -112,10 +113,10 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Understood! Let's work on my speed in real combat!!"
+            "text": "Understood! \nLet's work on my speed in real combat!!"
         },
         {
-            "text": "Thus, our next target race was decided to be the Aoi Stakes!"
+            "text": "Thus, our next target race was decided \nto be the Aoi Stakes!"
         }
     ]
 }

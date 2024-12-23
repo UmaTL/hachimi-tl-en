@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Symboli Kris S",
-            "text": "Trainer, are there matters that you wanted to discuss? ……My condition?"
+            "text": "Trainer, are there matters that you wanted \nto discuss? ……My condition?"
         },
         {
             "name": "Symboli Kris S",
-            "text": "Body temperature: normal. Weight: no changes. Appetite: okay. Training is going according to schedule."
+            "text": "Body temperature: normal. \nWeight: no changes. Appetite: okay. \nTraining is going according to schedule."
         },
         {
             "name": "Symboli Kris S",
-            "text": "As of now, I am on standby until the next training session. Therefore I can accept additional instructions ——"
+            "text": "As of now, I am on standby until the next \ntraining session. Therefore I can accept \nadditional instructions ——"
         },
         {
             "name": "Symboli Kris S",
-            "text": "—— Too lengthy? I see…… Well, in short, I'm doing fine."
+            "text": "—— Too lengthy? I see…… \nWell, in short, I'm doing fine."
         }
     ]
 }

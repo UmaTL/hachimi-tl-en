@@ -1,20 +1,21 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "You can't mention Kyoto, without talking about their sweets!!"
+            "text": "You can't mention Kyoto, without \ntalking about their sweets!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And when you talk about sweets, you cannot leave out the sakuramochi!!!!"
+            "text": "And when you talk about sweets, \nyou cannot leave out the sakuramochi!!!!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "It's different from the usual sakuramochi we get from other places, but…"
+            "text": "It's different from the usual sakuramochi \nwe get from other places, but…"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "This is also very delicious as it is!! We shall replenish our sakura energy with these sakuramochis!!"
+            "text": "This is also very delicious as it is!! \nWe shall replenish our sakura energy \nwith these sakuramochis!!"
         }
     ]
 }

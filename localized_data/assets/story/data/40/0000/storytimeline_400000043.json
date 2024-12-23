@@ -1,29 +1,30 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "<chrname> seems to have suffered a minor injury…"
+            "text": "<chrname> seems to have suffered\na minor injury…"
         },
         {
-            "text": "However, we are in the middle of the precious Summer Camp. Now, what should I do—",
+            "text": "However, we are in the middle of the\nprecious Summer Camp. Now, what should I do—",
             "choice_data_list": [
                 "Make sure she takes a break",
                 "Have her tough it out"
             ]
         },
         {
-            "text": "I decided to make sure that she would focus on her treatment."
+            "text": "I decided to make sure that she\nwould focus on her treatment."
         },
         {
-            "text": "<chrname> couldn't move her body and felt a little down…"
+            "text": "<chrname> couldn't move her body\nand felt a little down…"
         },
         {
-            "text": "I decided to give <chrname> some encouragement and tried to continue on—"
+            "text": "I decided to give <chrname> some\nencouragement and tried to continue on—"
         },
         {
-            "text": "But it failed! The injury seems to have gotten worse…"
+            "text": "But it failed! The injury seems\nto have gotten worse…"
         },
         {
-            "text": "Then, miraculously, her injury healed completely, and practice went well!"
+            "text": "Then, miraculously, her injury healed\ncompletely, and practice went well!"
         }
     ]
 }

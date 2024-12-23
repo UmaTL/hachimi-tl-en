@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Bitter Glasse",
@@ -14,7 +15,7 @@
         },
         {
             "name": "Bitter Glasse",
-            "text": "… A'ight! I'm going home to work out! Starting with 100 tire pulls!"
+            "text": "… A'ight! I'm going home to work out!\nStarting with 100 tire pulls!"
         },
         {
             "name": "Little Cocon",
@@ -22,11 +23,11 @@
         },
         {
             "name": "Little Cocon",
-            "text": "But I won't lose next time. Individually, or in the Aoharu Hai."
+            "text": "But I won't lose next time. \nIndividually, or in the Aoharu Hai."
         },
         {
             "name": "Little Cocon",
-            "text": "I'll see you then. Congratulations on your victory."
+            "text": "I'll see you then. Congratulations\non your victory."
         }
     ]
 }

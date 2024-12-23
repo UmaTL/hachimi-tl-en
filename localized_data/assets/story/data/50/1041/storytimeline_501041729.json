@@ -1,23 +1,24 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Sakura Bakushin O",
-            "text": "What's this!? Trainer has made a……mistake!?",
+            "text": "What's this!? \nTrainer has made a……mistake!?",
             "choice_data_list": [
                 "I'm ashamed…"
             ]
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "No, no, there's a saying that says you'll succeed one day if you just try!"
+            "text": "No, no, there's a saying that says you'll \nsucceed one day if you just try!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "I've hit telephone poles while thinking about Bakushin quite a few times before…!"
+            "text": "I've hit telephone poles while thinking \nabout Bakushin quite a few times before…!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sometimes, even the gurus fail! Once again, let this be a lesson to you…!"
+            "text": "Sometimes, even the gurus fail! \nOnce again, let this be a lesson to you…!"
         },
         {
             "text": "That was a disappointing result……"

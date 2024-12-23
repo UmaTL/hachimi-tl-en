@@ -1,16 +1,17 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Chairwoman Akikawa",
-            "text": "Bravo! Listen to the cheers! They're celebrating your victory!"
+            "text": "Bravo! Listen to the cheers! They're\ncelebrating your victory!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "I am sure that in admiration, everyone will work hard to surpass you."
+            "text": "I am sure that in admiration, everyone will \nwork hard to surpass you."
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "She has left a hoofprint of hope in the horse girl world. Thank you for that ride… and—"
+            "text": "She has left a hoofprint of hope\nin the horse girl world. \nThank you for that ride… and—"
         },
         {
             "name": "Chairwoman Akikawa",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Nothing can top you two. The best trainer and the best horse girl!"
+            "text": "Nothing can top you two. The best trainer\nand the best horse girl!"
         }
     ]
 }

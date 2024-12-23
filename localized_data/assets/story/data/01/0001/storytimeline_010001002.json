@@ -1,26 +1,27 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Now then, it's finally time to try entering a race!"
+            "text": "Now then, it's finally time \nto try entering a race!"
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "Pay attention! Before you start the race, make sure to check your skills!",
+            "text": "Pay attention! Before you start the race, \nmake sure to check your skills!",
             "color_text_info_list": [
                 "skills"
             ]
         },
         {
             "name": "Chairwoman Akikawa",
-            "text": "A gift for you! This time, I will give you some special skill points!",
+            "text": "A gift for you! This time, I will give you \nsome special skill points!",
             "color_text_info_list": [
                 "skill points"
             ]
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "You'll earn skill points at various times during your training!"
+            "text": "You'll earn skill points at various times \nduring your training!"
         }
     ]
 }

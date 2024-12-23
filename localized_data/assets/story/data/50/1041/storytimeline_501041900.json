@@ -1,7 +1,8 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Starting now, the days of racing through the Twinkle Series with the Uma Musume in charge will begin. And the name of the girl I'm walking it with is――",
+            "text": "Starting now, the days of racing through \nthe Twinkle Series with the Uma Musume in \ncharge will begin. And the name of the girl \nI'm walking it with is――",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
@@ -15,17 +16,17 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "As class president, I intend on Bakushin-ing all my races!"
+            "text": "As class president, I intend on Bakushin-ing \nall my races!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "And furthermore, I will win every G1 race and set an example for Uma Musume everywhere! What an honor-student-like idea! I'm afraid of my own brilliant mind! my own !",
+            "text": "And furthermore, I will win every G1 race \nand set an example for Uma Musume \neverywhere! \nWhat an honor-student-like idea! I'm afraid \nof my own brilliant mind! \nmy own !",
             "color_text_info_list": [
                 "GI"
             ]
         },
         {
-            "text": "And so began <chrname>'s attempt at the Twinkle Series!"
+            "text": "And so began <chrname>'s attempt at the \nTwinkle Series!"
         }
     ]
 }

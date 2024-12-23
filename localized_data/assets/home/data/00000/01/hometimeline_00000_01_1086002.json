@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Mejiro Ramonu",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "I am hopeless to stop my \"love\" for racing coursing through me."
+            "text": "I am hopeless to stop my \"love\" \nfor racing coursing through me."
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "The only cure for this persistent condition are the winds and passion on the turf……"
+            "text": "The only cure for this persistent condition \nare the winds and passion on the turf……"
         },
         {
             "name": "Mejiro Ramonu",
-            "text": "You do understand what I'm trying to say? —— Please arrange for a joint training run."
+            "text": "You do understand what I'm trying to say? \n—— Please arrange for a joint training run."
         }
     ]
 }

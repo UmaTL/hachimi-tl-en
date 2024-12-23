@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Hishi Miracle",
@@ -6,15 +7,15 @@
         },
         {
             "name": "Hishi Miracle",
-            "text": "Ehehe, I went all out and kept adding stuff to my honey drink order～♪ Whipped cream, syrup, cinnamon～……"
+            "text": "Ehehe, I went all out and kept adding \nstuff to my honey drink order～♪ \nWhipped cream, syrup, cinnamon～……"
         },
         {
             "name": "Hishi Miracle",
-            "text": "…… Maybe that's too much calories? Now that I think about it, I ate crepes yesterday too……"
+            "text": "…… Maybe that's too much calories? \nNow that I think about it, I ate crepes \nyesterday too……"
         },
         {
             "name": "Hishi Miracle",
-            "text": "—— Oh well! I'll just have to train more tomorrow."
+            "text": "—— Oh well! \nI'll just have to train more tomorrow."
         }
     ]
 }

@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Agnes Tachyon",
-            "text": "It's not an exaggeration to say your very existence is a key to the unknown. Go on, let's see you pique my curiosity again!"
+            "text": "It's not an exaggeration to say your very \nexistence is a key to the unknown. Go on, \nlet's see you pique my curiosity again!"
         }
     ]
 }

@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Inari One",
-            "text": "The heck! What're ye staring at me like that for! Here, just shut up and take 'em!"
+            "text": "The heck! What're ye staring at me like that \nfor! Here, just shut up and take 'em!"
         }
     ]
 }

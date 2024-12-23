@@ -1,19 +1,20 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
-            "text": "Today is the start of the \"summer training camp\" - a training program to improve our skills."
+            "text": "Today is the start of the \"summer \ntraining camp\" - a training program \nto improve our skills."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You over there! Promptly get your belongings to your room, please!"
+            "text": "You over there! \nPromptly get your belongings to your room, \nplease!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You there, we'll talk later! First, we must greet the workers at the facility!"
+            "text": "You there, we'll talk later! \nFirst, we must greet the workers at the \nfacility!"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You, too, get to your room as soon as possi―"
+            "text": "You, too, get to your room as soon as \npossi―"
         },
         {
             "name": "Sakura Bakushin O",
@@ -21,7 +22,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Be careful, I was almost about to show you to your room by mistake!",
+            "text": "Be careful, I was almost about to show \nyou to your room by mistake!",
             "choice_data_list": [
                 "You're all worked up.",
                 "You're all worked up."
@@ -33,11 +34,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "When it comes to the camp, it's the class president's time to shine! Guiding, supervision, patrolling, et cetera."
+            "text": "When it comes to the camp, it's the \nclass president's time to shine! \nGuiding, supervision, patrolling, et cetera."
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ahh, so busy, so busy! It's hard work being an honors student!",
+            "text": "Ahh, so busy, so busy! \nIt's hard work being an honors student!",
             "choice_data_list": [
                 "…What about training?"
             ]
@@ -48,23 +49,23 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Aaaahh!! You over there, what are you up to!?"
+            "text": "Aaaahh!! \nYou over there, what are you up to!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "You are not allowed to go to the beach yet! I won't let you through without permission!"
+            "text": "You are not allowed to go to the beach yet! \nI won't let you through without \npermission!"
         },
         {
             "name": "Horsegirl",
-            "text": "Um……Then, can I have permission to go to the beach?"
+            "text": "Um……Then, can I have permission to go \nto the beach?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Ha! You're asking me for permission!?"
+            "text": "Ha! \nYou're asking me for permission!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "That's just how reliable I am. Then, there's only one answer!"
+            "text": "That's just how reliable I am. \nThen, there's only one answer!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -72,22 +73,22 @@
         },
         {
             "name": "Teacher",
-            "text": "Arrghhh! Sakura Bakushin O, what the hell do you think you're doing!?"
+            "text": "Arrghhh! \nSakura Bakushin O, what the hell do you \nthink you're doing!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Teacher! Did you see that!? Wasn't that a splendid decision on my part!?"
+            "text": "Teacher! Did you see that!? \nWasn't that a splendid decision on my part!?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "From now on, you can call me, \"class teacher president\" if you like!"
+            "text": "From now on, you can call me, \"class \nteacher president\" if you like!"
         },
         {
             "name": "Teacher",
             "text": "What the hell are you talking about!?"
         },
         {
-            "text": "And so began the… fiery? Summer training camp with Sakura Bakushin O."
+            "text": "And so began the… fiery? Summer training \ncamp with Sakura Bakushin O."
         }
     ]
 }
