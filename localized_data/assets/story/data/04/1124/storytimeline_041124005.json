@@ -1,0 +1,168 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I was having tea \ntogether with Bubble Gum Fellow――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Trainer-san, did you hear? I heard that a Racing \nProfessor is coming from America to give a lecture.",
+            "choice_data_list": [
+                "Yeah! That's something remarkable.",
+                "Yeah! That's something remarkable."
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "I have all of his books, you see. Even if it's through an \ninterpreter, I'm really looking forward to hearing it in person!"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "It seems like it's open to anyone who wants to hear it, \nwhether they're a trainer or a student. Are you going too?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Student Council A",
+            "text": "Haa～……what should I do……everyone I asked today said no. \nIf this keeps up, we'll have to cancel the lecture……"
+        },
+        {
+            "name": "Student Council B",
+            "text": "Either way, we need to find a replacement interpreter! \nWe should loosen the criteria and look for more candidates again――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "An interpreter……are you perhaps talking \nabout the upcoming special lecture?"
+        },
+        {
+            "name": "Student Council A",
+            "text": "Eh, ah……that's right. Originally, the professor \nwas planning on bringing his own interpreter \nalong but, they suddenly had to back out……"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "And, it sounds like you haven't found a replacement, yet."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "……Then, I'll do it!",
+            "choice_data_list": [
+                "Eh……!? You can do it!?",
+                "Eh……!? You can do it!?"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Yeah. I can speak English, so I'd just need to learn \nthe technical terminology. Just leave it to me."
+        },
+        {
+            "name": "Student Council B",
+            "text": "B-but……! \nThe lecture itself is less than a week away, so I don't think――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "That's more than enough! \n――It'll be fine. I can do it for sure."
+        },
+        {
+            "text": "From that day on, Bubble Gum Fellow studied hard. \nAt the very least, I had to offer what support I could――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "These are all the books in his original language, right?",
+            "choice_data_list": [
+                "Original language. Seems tough……",
+                "Original language. Seems tough……"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "It does, doesn't it? But, it'll be fine! I've read all the Japanese \nversions of these books, so I should be able to understand them!"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Analyzing the release of different types of \nenergy during a race――release as in \"conversion\"……"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――Yeah. I think I'm able to understand the technical terms."
+        },
+        {
+            "text": "She was studying hard after training today too. \nI prepared something light to help relieve her fatigue.",
+            "choice_data_list": [
+                "Good work, how about a short break?",
+                "Good work, how about a short break?"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Yeah, okay. ……Fufu, it's a bunch of my favorite \nsnacks, huh!? Thank you, Trainer-san.",
+            "choice_data_list": [
+                "Will you be ready for the lecture?"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Of course. I got an app to help with interpreter \ntraining recently. I've been able to get some good \ntraining in with this. ――Just look forward to the day of."
+        },
+        {
+            "text": "And so, the day of the lecture had arrived."
+        },
+        {
+            "name": "Racing Professor",
+            "text": "――Therefore, improving the anaerobic energy\nsupply system is of utmost importance."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "『Anaerobic energy plays an important role during \na race. Therefore, improving the anaerobic energy \nsupply system is of utmost importance』"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "But that begs the question, how exactly would we enhance \nthe anaerobic energy supply system. Let's find out."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Professor, what can we do to improve\nour anaerobic energy supply systems?"
+        },
+        {
+            "name": "Racing Professor",
+            "text": "Hypoxic training, for starters. A simple way\nto do this is to use a training mask."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "『Hypoxic training, for starters. A simple way \nto do this is to use a training mask』 This is \nsomething that we can even do starting tomorrow!"
+        },
+        {
+            "name": "Attendee Horsegirl",
+            "text": "Bubble-san is amazing……! Her interpretation is perfect, \nisn't it……!? She's asking what I want to ask too! It really \nis something we can try starting tomorrow～!"
+        },
+        {
+            "text": "Not only was Bubble Gum Fellow's English translation \nflawless, she was able to ask questions to truly dig \ndown in to what the Professor was saying.",
+            "choice_data_list": [
+                "(She really is amazing……!)",
+                "(She really is amazing……!)"
+            ]
+        },
+        {
+            "text": "The guest lecture ended as a resounding success and \nthe attendees learned alot. Bubble Gum Fellow fulfilled \nthe role of interpreter as she had promised."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Oh man, I was able to hear a bunch \nof really good things. That was fun～!",
+            "choice_data_list": [
+                "As expected of Bubble!",
+                "As expected of Bubble!"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "I told you didn't I? I could do it for sure."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "If I'm going to aim higher, then I need to keep \nstepping forward! I was able to learn from the best \nseat in the house. Today was a great experience!"
+        },
+        {
+            "text": "No matter how reckless it may seem, she wanted to \ntake the initiative and step forward. ――Seeing her \nlike that gave me the courage to move forward too."
+        }
+    ]
+}
