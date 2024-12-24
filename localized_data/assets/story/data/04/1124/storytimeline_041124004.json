@@ -1,0 +1,252 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "――Well then, Counter-clockwise, 2000m. \n……Let's get in to position."
+        },
+        {
+            "name": "Academy Horsegirl A",
+            "text": "――There's the same kind of tension as a real race. \nI wonder how Bubble-san is going to run against her today……?"
+        },
+        {
+            "name": "Experienced Trainer",
+            "text": "How will one of the rumored 『Elite Four』 do against \nsomeone like Symboli Rudolf? I'll be sure to get a good look――",
+            "choice_data_list": [
+                "Do your best, Bubble……!"
+            ]
+        },
+        {
+            "text": "(――Clank!!)"
+        },
+        {
+            "name": "Academy Horsegirl A",
+            "text": "Ah, the same as last time……! \nBubble-san is taking the lead again……!"
+        },
+        {
+            "name": "Academy Horsegirl B",
+            "text": "……But, last time, wasn't her acceleration at the start more amazing? \nIt feels like she isn't creating a lead as big――",
+            "choice_data_list": [
+                "(Alright, this is good……!)"
+            ]
+        },
+        {
+            "name": "Experienced Trainer",
+            "text": "They're about to enter the second half, but what's \nwith her small lead……! She's going up against that \nSymboli Rudolf, she'll catch up without a doubt……!"
+        },
+        {
+            "name": "Academy Horsegirl B",
+            "text": "Aaah, the lead is growing smaller! She couldn't hold \nthe lead……! Like this, it'll be worse than before――"
+        },
+        {
+            "text": "――Wrong. It wasn't that Bubble Gum Fellow couldn't increase \nher lead and was being passed. This was what we chose to do.",
+            "choice_data_list": [
+                "Now, Bubbleーーーー!!",
+                "Now, Bubbleーーーー!!"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――It's a fight, Prez!!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So that's your plan……!"
+        },
+        {
+            "name": "Experienced Trainer",
+            "text": "As expected, that was reckless……! \nTo compete head-to-head against Symboli Rudolf……!"
+        },
+        {
+            "name": "Academy Horsegirl A",
+            "text": "But……huh……? \nDoesn't it seem like she's faster than before……!?"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――In the second half, just match with her?",
+            "choice_data_list": [
+                "Don't take a big lead like last time",
+                "Don't take a big lead like last time"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "……Can I ask why?",
+            "choice_data_list": [
+                "Competing head-to-head gets you fired up",
+                "Competing head-to-head gets you fired up"
+            ]
+        },
+        {
+            "text": "That was what I learned from analyzing Bubble Gum \nFellow's running to this date. Head-to-head competition \ncauses her fighting spirit to burn stronger."
+        },
+        {
+            "text": "In those moments, her running becomes sharper and stronger, \neverything increases. In those moments――――explosively so."
+        },
+        {
+            "text": "To create a chance of victory against someone on the level \nof Symboli Rudolf, we should bet on that explosive power……!"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "So, in other words, to increase the length of time I'm \ncompeting directly against Prez, match with her……is it?",
+            "choice_data_list": [
+                "Right. Stand ready, and accept it head on",
+                "Right. Stand ready, and accept it head on"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "……Hahaa! That sounds like the craziest plan \never, doesn't it……!? I'm in. I'll go with that."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Challenging Prez head on, with my strongest――――I'll win!!"
+        },
+        {
+            "name": "Academy Horsegirl B",
+            "text": "No way!? She's keeping up longer than before……! \nMaybe, she can……!?",
+            "choice_data_list": [
+                "Goーーーー!!!!"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Haaaaaaaaa!!!!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "In honor of your bravery, and fighting spirit, \nlet me once again pay my respects――"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "――――Haaa!!"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Haa, haa, haa, haa……!! \nKuu……once again, it wasn't enough……!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "――The courage to face someone like me 『Head-to-head』. And the \npowerful run to make that possible. ……Both of them were magnificent."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "With that same courageous spirit, I hope you'll continue \nto run in the Twinkle Series. ……I'll be cheering for you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well then. Thank you for today――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "…………Prez……―― \nThank you very much!",
+            "choice_data_list": [
+                "――――Bubble!!"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Trainer-san……! ……Sorry. \nEven though you helped me so much……I still lost.",
+            "choice_data_list": [
+                "No, it was me who was lacking……!",
+                "No, it was me who was lacking……!"
+            ]
+        },
+        {
+            "text": "If I had been able to do more, maybe it would have been enough \nto reach Symboli Rudolf. Even now……it was frustrating."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "……Fufuu. That's amazing. \nYou seem more frustrated than me."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Hey. About after this――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――Okay, cheers!",
+            "choice_data_list": [
+                "Cheers!"
+            ]
+        },
+        {
+            "text": "At Bubble Gum Fellow's suggestion, we were holding \nan 『After Party』 for both of us. The canned juice \nI drank strangely tasted better than usual."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "But still, it looks like you bought a lot of snacks, huh. \nWith so many choices, it'll be hard to decide……wait, this――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Bubble gum! And it's my usual……! \nTrainer-san, did you buy this for me?",
+            "choice_data_list": [
+                "I figured you'd want some"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Hahaa, you get me, don't you? \nThen, I'll gratefully accept.",
+            "choice_data_list": [
+                "……You really like bubble gum, huh?",
+                "……You really like bubble gum, huh?"
+            ]
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "I like all kinds of snacks, but this is special. \n……To me, it's kind of like a charm of sorts."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "To help expand my dreams, you see."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "……Hey. \nAre you able to blow a bubble now?"
+        },
+        {
+            "text": "Now that she mentions it, I haven't tried since then. \nWhen I put the gum in my mouth and try to blow a bubble――"
+        },
+        {
+            "text": "――It was shocking how easily I was able to blow a big bubble. \nHow much I struggled with it before seemed like a lie."
+        },
+        {
+            "text": "(――Pop!)"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Hahaa, what a nice sound! \n……So? Has your dream grown now too?"
+        },
+        {
+            "text": "……I nod. And then, \nI put to words the growing feelings I had right now.",
+            "choice_data_list": [
+                "――I want to be your trainer",
+                "――I want to be your trainer"
+            ]
+        },
+        {
+            "text": "Straight-forward, fearlessly, expanding that dream without stopping. \nTogether with her……I had a dream that could not be broken."
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "――――"
+        },
+        {
+            "text": "Bubble Gum Fellow started blowing a bubble. \nAnd one that grew large enough to completely hide her face――"
+        },
+        {
+            "text": "(――BANG!!!)"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "This is a declaration. \n……Let's make it happen, with me――"
+        },
+        {
+            "name": "Bubble Gum Fellow",
+            "text": "Together, we'll grow that dream. One that will turn \nthe entire Racing World on its head, with a bang!"
+        },
+        {
+            "text": "……That dream I wanted to grow, had now turned in \nto the strength to reach out and take her hand――"
+        }
+    ]
+}
