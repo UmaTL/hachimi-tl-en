@@ -8194,6 +8194,11 @@
       "size": 508147
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_100403.png",
+      "hash": "75390f75c5528ce91d6e5761c2122450e550f9ad37cd499a4d90b7ffc3484c53",
+      "size": 477101
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_100602.png",
       "hash": "4ee1fa96894c59a7191d09ba42bc71bc859b4275ef89d708cda9159ab21beda9",
       "size": 491209
@@ -9905,8 +9910,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "add3a33451c29e4119c77cbdc31a9f93097982ab881b2f35f6802e4e1391575b",
-      "size": 217707
+      "hash": "9b0629894bc9909d50eda54eb47071594665052854fc37909837529d7af1c8eb",
+      "size": 217709
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -9920,8 +9925,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "23160e858851ed7483a34b1087009b45c3c5419d5467b0f6153d88a15f3c1e85",
-      "size": 2569006
+      "hash": "7946938776a8343e7fa24d88cb31d0f0c3c175ab5f07969d7a25e25e6f89bc11",
+      "size": 2577705
     }
   ]
 }
