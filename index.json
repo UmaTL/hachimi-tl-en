@@ -2825,38 +2825,38 @@
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015001.json",
-      "hash": "c5d6d5766ed8a6aabac347216a5657ea40ec45a849a25ccfd6648dc73f9225a5",
-      "size": 7617
+      "hash": "335bb32fe9337bc3bcacfd2b30fe3c9baf732efc0b6541d5c8ebc34ffda96086",
+      "size": 7621
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015002.json",
-      "hash": "06e683a8f3fdfcfc9ac2f3a8c011892d89c00eea67021478a885652b85bf3ae1",
-      "size": 7582
+      "hash": "7bba6198231cbb3c6bd7781ffc58105e08f87850b1d5e30015f7c8a081d7f93f",
+      "size": 7586
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015003.json",
-      "hash": "4577a90583ad2869f5d8e0a0396b229dfc1f7b1635a4cb8ba2ca593381044e2d",
-      "size": 8636
+      "hash": "59086b2252c27422a3eb95d53f239da872056a62ab55838b45b4a5587b9515c5",
+      "size": 8645
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015004.json",
-      "hash": "c74c6b83d6cbe20dbb08fb862680b3bc467adf49abe5084334681f2cbe3cb6aa",
-      "size": 6606
+      "hash": "b805004600320f9f0e7fbb5b123f35d09a9b2b1378c14614be3b471746531d42",
+      "size": 6618
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015005.json",
-      "hash": "c37ccbe1d148ef7a38f556deb78f55e33b2cfda87719848798180e4fd5333975",
-      "size": 6293
+      "hash": "b90415d6079ef87880f26748566b3046b927b51b1c0238ee8f49f123873f7d8b",
+      "size": 6301
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015006.json",
-      "hash": "399b57da8f3066a3b284cfd9aea7f341295194e4dd63a65d42a9d16cc5b43f7f",
-      "size": 10043
+      "hash": "03a1cb5e6d74226f86fccf88f8ecabd26714943f0562125680d019295c96e350",
+      "size": 10047
     },
     {
       "path": "assets/story/data/04/1015/storytimeline_041015007.json",
-      "hash": "177cafe1dfb43c7bba3b34c7657f40deef69065a1eba856684a451db5f188e1b",
-      "size": 10240
+      "hash": "f939cdf1589b2a76754ceaed8d5de9fa422d22fd6ec7a28648ba0222425fd024",
+      "size": 10244
     },
     {
       "path": "assets/story/data/04/1017/storytimeline_041017001.json",
@@ -7494,6 +7494,11 @@
       "size": 228310
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1086_02.png",
+      "hash": "1b94289b13caaed97b76633c7c30f5af85753cd0d9536210fb102ddd5a7fb482",
+      "size": 244323
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1087_02.png",
       "hash": "9ab65355bcd4258742ae7b6accfdbe81c47165430f4bd5b8f7451e714a1c1df2",
       "size": 229117
@@ -7929,6 +7934,11 @@
       "size": 323671
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1079_03.png",
+      "hash": "ec5eb6146617a2099748a204c43e34057fa4355ab4024e3da5a36de0d9898c72",
+      "size": 191414
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1080_03.png",
       "hash": "cb6537b8774964610a136b0c0d17c4c2b496aaf102499383cc83d0e774035927",
       "size": 238317
@@ -8354,6 +8364,16 @@
       "size": 483698
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_107802.png",
+      "hash": "4fa4ee11ab99087a8bca3fcef76b440c7da3857990be8d321a25d533abecd7fd",
+      "size": 514808
+    },
+    {
+      "path": "assets/textures/gacha/comment/gacha_comment_107901.png",
+      "hash": "c1591ca00e04098862f2e4295eff88f40479a4c6904d3f3d71ac1315d4f87f0d",
+      "size": 514998
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_108001.png",
       "hash": "1754031ac49c8cb1e81952b84f774a4942efdc18e5a44b867dd92a8a4eade186",
       "size": 489884
@@ -8367,6 +8387,11 @@
       "path": "assets/textures/gacha/comment/gacha_comment_108701.png",
       "hash": "a63e27eee6b99195aaf5dca3c9dda806b30d4c689a15151521cf53796a4f2d51",
       "size": 491819
+    },
+    {
+      "path": "assets/textures/gacha/comment/gacha_comment_108702.png",
+      "hash": "da4a121334eea989be81763f50adf033f6f9df8517ba28123e8c603e589d2651",
+      "size": 516954
     },
     {
       "path": "assets/textures/gacha/comment/gacha_comment_110402.png",
@@ -9910,8 +9935,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "9b0629894bc9909d50eda54eb47071594665052854fc37909837529d7af1c8eb",
-      "size": 217709
+      "hash": "e852d966a5377a44293b3c0cd6c946966ea5ebd29df6e9df3c26143a4c2775f8",
+      "size": 219417
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -9925,8 +9950,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "7946938776a8343e7fa24d88cb31d0f0c3c175ab5f07969d7a25e25e6f89bc11",
-      "size": 2577705
+      "hash": "4b17e6839ef312cc6defbf42cf0328c1b58e2c9f58fcdb72b0caf46add2a808b",
+      "size": 2595159
     }
   ]
 }
