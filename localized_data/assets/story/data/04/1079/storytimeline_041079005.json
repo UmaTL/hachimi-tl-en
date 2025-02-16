@@ -1,0 +1,188 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Furioso",
+            "text": "——Oh……so that means you want us to go to Funabashi \nTracen Academy to host a \"round-table discussion\"?"
+        },
+        {
+            "text": "Furioso had left Funabashi to become a special exchange student. \nBut one day, this topic came up while we had been hard at work."
+        },
+        {
+            "name": "Funabashi Tracen Staff",
+            "text": "There will also be a question and answer session, so \nthe students can hear about real experiences at Central."
+        },
+        {
+            "name": "Furioso",
+            "text": "I see, it's quite the honor to be requested. \nIt's a chance to bring what I've learned at \nCentral back to Funabashi……isn't it? Trainer!",
+            "choice_data_list": [
+                "Yeah, we'll gladly accept!",
+                "Yeah, we'll gladly accept!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "Alright, let's do this. \nThere's a lot of info we've gained from entering Central.",
+            "choice_data_list": [
+                "Let's relay as much as we can!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "Yeah, in full detail but easy to understand. \nThat's it, let's prepare diagrams and slides!"
+        },
+        {
+            "text": "I wanted to give a lecture that would be useful to the \nstudents of Funabashi Tracen. And with that in mind, I \nproceeded enthusiastically with preparations……however!"
+        },
+        {
+            "name": "Furioso",
+            "text": "Excuse me, Trainer…… wait, \nwhat's with this mountain of files?",
+            "choice_data_list": [
+                "S-sorry! You see……"
+            ]
+        },
+        {
+            "text": "Unfortunately, more and more tasks kept piling up, one \nafter the other. I hadn't been able to keep up so preparations \nfor the round-table discussions hadn't progressed……"
+        },
+        {
+            "name": "Furioso",
+            "text": "It seems like you've been really busy lately. \nBut, hmmmm……"
+        },
+        {
+            "text": "The deadline for my tasks was the same day as \nthe round-table discussion. At this rate, it \nwas likely I wouldn't be able to attend……",
+            "choice_data_list": [
+                "Let's consult the other party"
+            ]
+        },
+        {
+            "text": "While feeling overwhelmed, I reached out to our client. \nIf possible, I wanted to see if they could postpone it……"
+        },
+        {
+            "name": "Funabashi Tracen Staff",
+            "text": "『——I see, is that so? Hmmm, but because of \nthe venue, it's difficult to reschedule……』"
+        },
+        {
+            "name": "Funabashi Tracen Staff",
+            "text": "『Aah, but……Furioso-san is still able to make \nit, right? Then, even if it's only her, Trainer-san, \nyou don't need to trouble yourself……』",
+            "choice_data_list": [
+                "……"
+            ]
+        },
+        {
+            "text": "I was a little shocked, but it was probably true \nthat having just her would be fine. It would \nprobably be easier to speak with a fellow student……",
+            "choice_data_list": [
+                "Then……let's go with——"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "We can't.",
+            "choice_data_list": [
+                "……!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "It's fine if I go on my own? \n……Do you really think that?"
+        },
+        {
+            "name": "Furioso",
+            "text": "That's not true. There are things that only \nTrainer understands. That's why we can't……!"
+        },
+        {
+            "name": "Furioso",
+            "text": "I'm not the only one that's been fighting in Central. Hearing your \nthoughts is definitely……! Definitely, definitely necessary!",
+            "choice_data_list": [
+                "Furioso……"
+            ]
+        },
+        {
+            "name": "Funabashi Tracen Staff",
+            "text": "『……Then, let's wait a little bit longer before making a decision. \nWe'll try to be as flexible as possible in this matter』"
+        },
+        {
+            "text": "There was a long silence. Furioso's voice echoed in \nmy ears. For what reason did I need to be so hesitant?",
+            "choice_data_list": [
+                "Alright……Let's do this!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "Trainer……",
+            "choice_data_list": [
+                "I just need to focus! I'll make it!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "That's the way. Please don't worry about me. \nFor now, I can do my best on my own.",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "I won't forget the day we vowed 『Let's do our best for Funabashi』. \nThis was nothing! And so I just kept working hard——"
+        },
+        {
+            "text": "And I was somehow able to finish it all! \nAlthough I was feeling a little exhausted, \nI started getting ready for the round-table discussion."
+        },
+        {
+            "name": "Funabashi Tracen Student",
+            "text": "Waah～～, that was really helpful! It was easy to understand! \nIt makes me kinda interested in studying abroad♪",
+            "choice_data_list": [
+                "(Then it was worth the effort……)"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "That was satisfying. \nSeems like we were able to be helpful to Funabashi again.",
+            "choice_data_list": [
+                "That's……right……ugh……"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "Trainer? Your face is……quite green.",
+            "choice_data_list": [
+                "Sorry, headache……and I feel sick"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "Wha-……!? Let's go to that bench. \nJust wait a moment, I'll buy some water."
+        },
+        {
+            "name": "Furioso",
+            "text": "Can you drink it……? It's because you've been \noverworking yourself these past few days, isn't \nit……? Let's rest for a bit before heading back.",
+            "choice_data_list": [
+                "Sorry, thanks……"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "And I have this, if you feel like you're going to throw up. \nUm, well………whenever you're ready.",
+            "choice_data_list": [
+                "I-I'm fine! Really, thanks"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "No, it's nothing. Even if it's for Funabashi's sake, if you push \nyourself to the point of collapse, then there's no point."
+        },
+        {
+            "text": "She was right. If I wanted to help Funabashi, \nit was important to take care of myself too.",
+            "choice_data_list": [
+                "I'll rest up and then do my best!"
+            ]
+        },
+        {
+            "name": "Furioso",
+            "text": "! ………"
+        },
+        {
+            "name": "Furioso",
+            "text": "……You're right. From now on, for \nFunabashi……let's stay healthy and keep working hard."
+        }
+    ]
+}
