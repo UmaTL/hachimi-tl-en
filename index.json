@@ -7169,6 +7169,21 @@
       "size": 269853
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1129_01.png",
+      "hash": "4bb881617ba444a8bf474054e31c129ef7230c51e448be26faa265f6f5b812bd",
+      "size": 226255
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1130_01.png",
+      "hash": "6c44bc7659411d3f3844659a078e70954166944997ee18ce105802667db871fa",
+      "size": 208390
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1131_01.png",
+      "hash": "d01088b2f5d8f1da0aa58e1b3d250435c454d7e8aa704143965a13e5c78952c3",
+      "size": 229927
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9001_01.png",
       "hash": "676a2ea96f0652fa06ab74080f8708bff40fc8079885f8a6dca4648cd714d693",
       "size": 211151
@@ -7267,6 +7282,11 @@
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1012_02.png",
       "hash": "7bc41bb59b86fe645d8f095b6ec6bd11554bdb297780e360e87602dd84fddab8",
       "size": 226860
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1013_02.png",
+      "hash": "b153131be27d90425a6d90238b60a28cf271066b59dd71c84d827bd1ec28ffb7",
+      "size": 238680
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1014_02.png",
@@ -7582,6 +7602,11 @@
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1124_02.png",
       "hash": "c9169698994ce33b6f6852c7d4660b9e51770912e5ac97b2c77af2f1dddfc5e6",
       "size": 225688
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1130_02.png",
+      "hash": "6185d6484d7cb384ac7a15c7c09ad24208a24e1216907530304d47843d6ed101",
+      "size": 201475
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9004_02.png",
@@ -8169,6 +8194,16 @@
       "size": 342359
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1129_03.png",
+      "hash": "a15c75ff446cbe1efbde58b7371a7af5d3b0b92b53fdfd79eda16202eaa25e59",
+      "size": 276698
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1131_03.png",
+      "hash": "412298076c93ce57c0cbd401e53fc4a3398e1fc122f2501f30797a309880873f",
+      "size": 290519
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9001_03.png",
       "hash": "0c70c33b50c51108c6a912240f34d2f5ee8bcabb31f537f8288c274f5abe8838",
       "size": 294045
@@ -8459,6 +8494,11 @@
       "size": 507309
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_111501.png",
+      "hash": "f882f507c6860b6b3b5346a20ed976cfc9537153f49ca3bd49366e9137848ba0",
+      "size": 473649
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_111601.png",
       "hash": "cd8ff29c04cbf116b5a7b2534bfc349b7b72557d54fc2ec484e092d769aeb9b6",
       "size": 539012
@@ -8502,6 +8542,11 @@
       "path": "assets/textures/gacha/supportname/rarity_3/gacha_supportname_30180_03.png",
       "hash": "5c8bf0c742d0c2237a5d3e6639dcd0ba0e783eff0ec4bc136c9f194a47835f6f",
       "size": 321224
+    },
+    {
+      "path": "assets/textures/gacha/supportname/rarity_3/gacha_supportname_30241_03.png",
+      "hash": "5184ed44217ae98dbd1dd1704484d59e14e94e7328118791db6f238b71724ab5",
+      "size": 287426
     },
     {
       "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_00.png",
@@ -9985,13 +10030,13 @@
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "bba15957b26326118ae09f5df780f5c5d7e246b778b284ebb87ea302f93c7763",
-      "size": 183902
+      "hash": "d4fb8d073284cb9b5c7d7b379fd5705fddc9f79ef761e8abc2bb226050afccc3",
+      "size": 192311
     },
     {
       "path": "text_data_dict.json",
-      "hash": "387e6810748130a6680ad1acee60ab60739d5ea9e0c07774c4ccb88743353293",
-      "size": 2621271
+      "hash": "1172c69f6997b47f7cf7fb5596b268468aa0640fc6ea06cc5d15ef8fb1cbbf3f",
+      "size": 2642130
     }
   ]
 }
