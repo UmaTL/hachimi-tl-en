@@ -21,7 +21,7 @@
             "text": "Even though I wanted to change myself… Even though \nI wanted to give it my all and participate in the race… \nin the end… I couldn't do a single thing!"
         },
         {
-            "text": "Seeing the crying girl in front of me, I couldn't help but \nremember the look of determination she had the other day."
+            "text": "Seeing the crying girl in front of me, I couldn't \nhelp but remember the determined look she had \nshown the other day."
         },
         {
             "name": "Rice Shower",
@@ -36,7 +36,7 @@
             "text": "I'm going to debut, compete in a lot of races…… \nI won't be a good-for-nothing anymore…!"
         },
         {
-            "text": "Even though I didn't know her full story, it was undeniable that \nshe was desperately trying to change. After all, I've witnessed \nher unwavering dedication and persistence to training firsthand."
+            "text": "Even though I didn't know her full story, it was undeniable that \nshe was desperately trying to change. After all, I've witnessed \nher persistence and dedication to training firsthand."
         },
         {
             "name": "Rice Shower",
@@ -71,10 +71,10 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Even considering all that, you're still okay with me…?",
+            "text": "Even considering all that, you still want to coach me…?",
             "choice_data_list": [
-                "Even so, I still want to support you.",
-                "Even so, I still want to support you."
+                "Even so, I want to support you.",
+                "Even so, I want to support you."
             ]
         },
         {
@@ -153,11 +153,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Kids around me would trip, or find their shoe laces \nsnapping… and on really bad days there's even been \ntimes when a bird pooped on someone's head……"
+            "text": "Kids around me would trip, or find their shoe laces \nsnapping… and there's even been really bad days \nwhen a bird pooped on someone's head……"
         },
         {
             "name": "Rice Shower",
-            "text": "I'm a good-for-nothing endlessly \ncausing trouble for others……"
+            "text": "I'm a good-for-nothing endlessly causing trouble for others……"
         },
         {
             "text": "Even though it appeared to me as mere unlucky \ncoincidences, I doubted Rice Shower would believe \nit if I told her. That's just the kind of person she is.",
@@ -175,7 +175,7 @@
             "text": "Let's get started with training, please!"
         },
         {
-            "text": "Thus we began our first day of training. With unwavering \ndetermination, Rice Shower diligently completed each \npart of the training menu as instructed."
+            "text": "We thus began our first day of training. With unwavering \ndetermination, Rice Shower diligently completed each \npart of the training menu as instructed."
         },
         {
             "name": "Rice Shower",
@@ -241,13 +241,13 @@
             "name": "Rice Shower",
             "text": "Umm, Trainer? Can I really eat anything I want…?",
             "choice_data_list": [
-                "It's your reward, so feel free \nto pick anything you'd like!",
-                "It's your reward, so feel free \nto pick anything you'd like!"
+                "<size=38>It's your reward, so pick anything you'd like!</size>",
+                "<size=38>It's your reward, so pick anything you'd like!</size>"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Anything…! Anything… \nAnything I want……"
+            "text": "Anything…! Anything… \nAnything I'd like……"
         },
         {
             "text": "As she looked around, her gaze fixated on \nthe banner hanging in front of a ramen shop, \nadvertizing its \"Explosive Mega DX\" bowl…"
