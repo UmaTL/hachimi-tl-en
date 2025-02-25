@@ -1294,6 +1294,11 @@
       "size": 945
     },
     {
+      "path": "assets/lyrics/m1151_lyrics.json",
+      "hash": "acefa9b2a1125a24a1f1cca85a3d96af824b162c9ab9044678e9ecbdf1faeb78",
+      "size": 2293
+    },
+    {
       "path": "assets/lyrics/m1152_lyrics.json",
       "hash": "66b98881e5ea5b6d66e2e6b66ff49e260c1fb5c61ed75464963968c6527a4f9d",
       "size": 2260
@@ -3175,18 +3180,18 @@
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030001.json",
-      "hash": "ff2338fcdcea63d765f4dc83de5ebdae188ae1093ff76ab496ef55394da6a624",
-      "size": 8371
+      "hash": "ee6068ead2a7770f6c82465a8c61e64ab690ce42ff3f387708f1bee1cfed00ae",
+      "size": 8351
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030002.json",
-      "hash": "e5cd554807d56fcf5efe0983b49a85a8abb1f4d97bcdd66ec918f3b8bd19037a",
-      "size": 11462
+      "hash": "2d60b921fecafa84dc2295d67ded4d83ced1d55b88bde1dadf1d8938a21b449b",
+      "size": 11435
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030003.json",
-      "hash": "b8e05ea721c224466d39173656ae47b09a7c61f6714364c9e1a808a6bff77fd9",
-      "size": 11798
+      "hash": "ee74af4af25ba89e741ad3ef650103dfd2ea81ad959291c500a99ab1d93f9035",
+      "size": 11796
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030004.json",
@@ -3200,13 +3205,13 @@
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030006.json",
-      "hash": "8d88376018af48a18c9b58db8c17b06a595bfbea10515805c479523bae683b06",
-      "size": 11330
+      "hash": "84e374ddb45b65631f2e3dc57b4e756c4a2919662924392b64349a0c2aa58c97",
+      "size": 11318
     },
     {
       "path": "assets/story/data/04/1030/storytimeline_041030007.json",
-      "hash": "9fcd0e48f7be133aa6f8a5f4c4e1161cc72a886655c493c05c939f208f346915",
-      "size": 9336
+      "hash": "9bec07c8a2ae3f02ecb24eae07c3aa2ec9e6e7aaca199900ff5bd26f41fed98c",
+      "size": 9367
     },
     {
       "path": "assets/story/data/04/1031/storytimeline_041031001.json",
@@ -9970,8 +9975,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "e003e97fbe4a18c5fc041064fd66d56d1da0c8c6493616366d4077fe2d492c52",
-      "size": 219419
+      "hash": "e14d384cc60a952998c6e113234ffbec7c7ef5c4b0c0bd33461446fe1dc77bc2",
+      "size": 219429
     },
     {
       "path": "race_jikkyo_comment_dict.json",
