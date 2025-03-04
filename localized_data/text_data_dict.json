@@ -44438,5 +44438,78 @@
     },
     "372": {
         "1093": "K.S. Miracle"
+    },
+    "387": {
+        "101": "Friendship Training Priority",
+        "102": "Hint Event Priority",
+        "103": "G1 Race Priority",
+        "1001": "Friendship Training Priority",
+        "1002": "Hint Event Priority",
+        "1003": "G1 Race Priority",
+        "1004": "Saint Lite's Guidance Priority",
+        "1005": "Speed Symboli's Guidance Priority",
+        "1006": "Haiseiko's Guidance Priority"
+    },
+    "388": {
+        "1001": "As long as the Goal Race's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "1002": "As long as the Goal's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "1003": "As long as the Goal Race's race req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "1004": "Partake in races that match your horsegirl's aptitudes when she has yet to win a race.",
+        "10001": "As long as the Goal Race's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "10002": "As long as the Goal's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "10003": "As long as the Goal Race's race req. is not met, partake in races that match your horsegirl's aptitudes.",
+        "10004": "Partake in races that match your horsegirl's aptitudes when she has yet to win a race."
+    },
+    "390": {
+        "10001": "Darley Arabian's Teachings",
+        "10002": "Godolphin Barb's Teachings",
+        "10003": "Byerley Turk's Teachings",
+        "100001": "Darley Arabian's Teachings",
+        "100002": "Godolphin Barb's Teachings",
+        "100003": "Byerley Turk's Teachings"
+    },
+    "391": {
+        "10001": "Fairly balanced \\ntraining strategy.",
+        "10002": "Strategy focused on \\nobtaining Skill Hints.",
+        "10003": "Strategy focused on \\nincreasing stats.",
+        "100001": "Fairly balanced \\ntraining strategy.",
+        "100002": "Strategy focused on \\nobtaining Skill Hints.",
+        "100003": "Strategy focused on \\nincreasing stats."
+    },
+    "392": {
+        "100005": "When receiving knowledge, pause \\nuntil you choose one."
+    },
+    "394": {
+        "3": "Fans <color=#FF6D26>+{0}</color>",
+        "4": "{0} bond gauge <color=#FF6D26>+{1}</color>",
+        "5": "{0} bond gauge <color=#FF6D26>+{1}</color>\\\\nSupport cards not in deck will not get bond.",
+        "6": "Hint Lv <color=#FF6D26>+{0}</color>",
+        "7": " <color=#FF6D26>obtained</color>.",
+        "8": "<color=#FF6D26>Obtain</color> a random skill by chance.",
+        "9": "Receive {0}.",
+        "10": "<color=#FF6D26>Recover from</color> {0}.",
+        "11": "<color=#FF6D26>Unlock outings</color> with {0}.",
+        "12": "End chain event.",
+        "13": "All stats <color=#FF6D26>+{0}</color>",
+        "14": "{0} random stats <color=#FF6D26>+{1}</color>",
+        "15": "<color=#FF6D26>Recover from all bad conditions.</color>",
+        "16": "<color=#FF6D26>Recover from {0} random bad conditions.</color>",
+        "19": "Last trained stat <color=#FF6D26>+{0}</color>",
+        "20": "Last trained stat <color=#2E85E6>-{0}</color>",
+        "21": "<color=#FF6D26>Gain</color> stats based on race grade.",
+        "22": "<color=#FF6D26>Gain</color> stats based on race grade and finish rank.",
+        "24": "<color=#FF6D26>Obtain</color>a random {0} fragment.",
+        "25": "<atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_00/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_01/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_02/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_03/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_04/> All vegetables <color=#FF6D26>+{0}</color>",
+        "26": "<atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_02/> <atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_03/> <atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_01/> All Sports Lv <color=#FF6D26>+{0}</color>",
+        "28": "{0} low bond gauge(s) <color=#FF6D26>+{1}</color>",
+        "30": "Lowest bond gauge <color=#FF6D26>+{0}</color>",
+        "34": "{0} random stats <color=#2E85E6>-{1}</color>",
+        "35": "{0} bond gauge <color=#2E85E6>-{1}</color>",
+        "36": "{0} bond gauge <color=#2E85E6>-{1}</color>\\\\nSupport cards not in deck will not lose bond.",
+        "37": "Receive {0}.",
+        "38": "{0} <color=#2E85E6>-{1}</color>\\\\n{0} will not decrease due to {2}",
+        "39": "{0} <color=#FF6D26>+{1}</color>\\\\n{0} will not increase due to {2}",
+        "40": "Receive {0}.\\\\nWill not receive {0} due to {1].",
+        "44": "Bond gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\\\\nFriend and group types excluded."
     }
 }
