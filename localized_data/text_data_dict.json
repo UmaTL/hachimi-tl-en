@@ -44440,25 +44440,25 @@
         "1093": "K.S. Miracle"
     },
     "387": {
-        "101": "Friendship Training Priority",
-        "102": "Hint Event Priority",
-        "103": "G1 Race Priority",
-        "1001": "Friendship Training Priority",
-        "1002": "Hint Event Priority",
-        "1003": "G1 Race Priority",
-        "1004": "Saint Lite's Guidance Priority",
-        "1005": "Speed Symboli's Guidance Priority",
-        "1006": "Haiseiko's Guidance Priority"
+        "101": "Friendship Training",
+        "102": "Hint Event",
+        "103": "G1 Race",
+        "1001": "Friendship Training",
+        "1002": "Hint Event",
+        "1003": "G1 Race",
+        "1004": "Saint Lite's Guidance",
+        "1005": "Speed Symboli's Guidance",
+        "1006": "Haiseiko's Guidance"
     },
     "388": {
-        "1001": "As long as the Goal Race's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "1002": "As long as the Goal's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "1003": "As long as the Goal Race's race req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "1004": "Partake in races that match your horsegirl's aptitudes when she has yet to win a race.",
-        "10001": "As long as the Goal Race's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "10002": "As long as the Goal's fan req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "10003": "As long as the Goal Race's race req. is not met, partake in races that match your horsegirl's aptitudes.",
-        "10004": "Partake in races that match your horsegirl's aptitudes when she has yet to win a race."
+         "1001": "Partake in suitable races when target race's fan requirement is not met.",
+        "1002": "Partake in suitable races when fan target is not met.",
+        "1003": "Partake in suitable races when target race's minimum race requirement is not met.",
+        "1004": "Partake in suitable races when no race has been won yet.",
+        "10001": "Partake in suitable races when target race's fan requirement is not met.",
+        "10002": "Partake in suitable races when fan target is not met.",
+        "10003": "Partake in suitable races when target race's minimum race requirement is not met.",
+        "10004": "Partake in suitable races when no race has been won yet."
     },
     "390": {
         "10001": "Darley Arabian's Teachings",
@@ -44469,15 +44469,15 @@
         "100003": "Byerley Turk's Teachings"
     },
     "391": {
-        "10001": "Fairly balanced \\ntraining strategy.",
-        "10002": "Strategy focused on \\nobtaining Skill Hints.",
-        "10003": "Strategy focused on \\nincreasing stats.",
-        "100001": "Fairly balanced \\ntraining strategy.",
-        "100002": "Strategy focused on \\nobtaining Skill Hints.",
-        "100003": "Strategy focused on \\nincreasing stats."
+        "10001": "Fairly balanced.",
+        "10002": "Skill focus.",
+        "10003": "Stat focus.",
+        "100001": "Fairly balanced.",
+        "100002": "Skill focus.",
+        "100003": "Stat focus."
     },
     "392": {
-        "100005": "When receiving knowledge, pause \\nuntil you choose one."
+        "100005": "Pause to select knowledge manually"
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
