@@ -13547,7 +13547,7 @@
         "110091": "Gradually increase speed lightly during the second half of the race on a straight when near the front, with a stronger effect when leading and a horsegirl is behind you",
         "110101": "Increase speed at the remaining 200m mark when near the lead, additionally pushing further forward with a powerful run when close to the leading horsegirl",
         "110111": "Recover a lot of energy with a gentle glow when you drop down in position in the back of the pack during middle leg",
-        "110121": "If you overtook someone at least three times during the Middle Leg but you are still in the second half of the pack during any downhill around the end of the Middle Leg, your speed will increase and your accelearation will slightly increase.",
+        "110121": "If you overtook someone at least three times during the Middle Leg but you are still in the second half of the pack during any downhill around the end of the Middle Leg, your speed will increase and your acceleration will slightly increase.",
         "110131": "During the Final Corner or beyond, if you're in the top 4 and someone is about to overtake you, your speed will increase.",
         "110141": "Gain acceleration on the last corner by igniting your soul on fire when aiming for the lead from the middle pack",
         "110151": "If you're in the front with 400m remaining in the race, your speed will increase; bonus speed if you've activated at least 7 skills.",
@@ -14468,7 +14468,7 @@
         "910091": "Gradually increase speed a little during the second half of the race on a straight when near the front, with a stronger effect when leading and a horsegirl is behind you",
         "910101": "Slightly increase speed at the remaining 200m mark when near the lead, additionally pushing further forward when close to the leading horsegirl",
         "910111": "Lightly recover energy when you drop down in position in the back of the pack during middle leg",
-        "910121": "If you overtook someone at least three times during the Middle Leg but you are still in the second half of the pack during any downhill around the end of the Middle Leg, your speed will slightly increase and your accelearation will marginally increase.",
+        "910121": "If you overtook someone at least three times during the Middle Leg but you are still in the second half of the pack during any downhill around the end of the Middle Leg, your speed will slightly increase and your acceleration will marginally increase.",
         "910131": "During the Final Corner or beyond, if you're in the top 4 and someone is about to overtake you, your speed will slightly increase.",
         "910141": "Gain acceleration on the last corner when aiming for the lead from the middle pack",
         "910151": "If you're in the front with 400m remaining in the race, your speed will slightly increase; bonus speed if you've activated at least 7 skills.",
@@ -15395,7 +15395,7 @@
         "8270": "Dirham Coin",
         "8271": "Frilled Banana",
         "8272": "Lead Historia",
-        "8273": "Heroine Adventurus",
+        "8273": "Heroine Advents",
         "8274": "Superior Bloom",
         "8275": "Frilled Lime",
         "8276": "Feel The Fate",
@@ -44497,7 +44497,7 @@
         "3304": "Shining Together",
         "3305": "Friendship Harmonics",
         "3306": "Boundless Charm",
-        "3307": "Little Ms. Monster Smile♪",
+        "3307": "Cutesy Monster Smile♪",
         "3308": "Perfect Emphasis",
         "3309": "National Idol Horsegirl"
     },
@@ -44632,12 +44632,12 @@
         "10004": "Partake in suitable races when no race has been won yet."
     },
     "390": {
-        "10001": "Darley Arabian's Teachings",
-        "10002": "Godolphin Barb's Teachings",
-        "10003": "Byerley Turk's Teachings",
-        "100001": "Darley Arabian's Teachings",
-        "100002": "Godolphin Barb's Teachings",
-        "100003": "Byerley Turk's Teachings"
+        "10001": "Darley Arabian's Training",
+        "10002": "Godolphin Barb's Training",
+        "10003": "Byerley Turk's Training",
+        "100001": "Darley Arabian's Training",
+        "100002": "Godolphin Barb's Training",
+        "100003": "Byerley Turk's Training"
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -44648,7 +44648,7 @@
         "100003": "Stat focus."
     },
     "392": {
-        "100005": "Pause to select knowledge manually"
+        "100005": "Pause to select teachings manually"
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -44656,7 +44656,7 @@
         "5": "{0} bond gauge <color=#FF6D26>+{1}</color>\\\\nSupport cards not in deck will not get bond.",
         "6": "Hint Lv <color=#FF6D26>+{0}</color>",
         "7": " <color=#FF6D26>obtained</color>.",
-        "8": "<color=#FF6D26>Obtain</color> a random skill by chance.",
+        "8": "<color=#FF6D26>Obtain</color> a random skill.",
         "9": "Receive {0}.",
         "10": "<color=#FF6D26>Recover from</color> {0}.",
         "11": "<color=#FF6D26>Unlock outings</color> with {0}.",
