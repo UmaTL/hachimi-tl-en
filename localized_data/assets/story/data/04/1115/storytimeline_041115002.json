@@ -1,0 +1,203 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Announcer",
+            "text": "——And now the front of the pack enters the final \nstraight, they line up side-by-side. Will the Uma \nMusume in the rear be able to break through!?"
+        },
+        {
+            "name": "Orfevre",
+            "text": "……Foolish. \nDo you really believe this is enough to block my path?"
+        },
+        {
+            "name": "Orfevre",
+            "text": "————Know your place!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Orfevre pushes forward! She breaks through! \nMoves to the front! She's lined up! And she passesーー!!",
+            "choice_data_list": [
+                "(A-amazing……!!)"
+            ]
+        },
+        {
+            "text": "My heart was pounding. I clenched my fist. I didn't \nwant to blink. My breathing stopped and I could only \nstare. It was so overwhelming and dazzling——"
+        },
+        {
+            "text": "————The \"King's\" run."
+        },
+        {
+            "text": "After the race, I ran up to her, filled with excitement. \nHowever——"
+        },
+        {
+            "name": "Orfevre",
+            "text": "————Insufficient. \n……like this is truly insufficient.",
+            "choice_data_list": [
+                "(That expression——)"
+            ]
+        },
+        {
+            "text": "She wasn't satisfied by that victory at all, rather it almost \nseemed like she was seething. It stopped me in my tracks."
+        },
+        {
+            "name": "Mid-rank Trainer",
+            "text": "——Orfevre! That was a truly wonderful run……! \nIf it's you, you'll definitely be able to stand at \nthe top……! Together with me, how about aiming for that?"
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "Your talent is overwhelming! Better than any famous Uma Musume \nfrom the past……! Together let's build a brilliant new legend!"
+        },
+        {
+            "text": "Several trainers with far more experience \nthan me ran up and surrounded her……!"
+        },
+        {
+            "name": "Orfevre",
+            "text": "…………fools, what are you misunderstanding?"
+        },
+        {
+            "name": "Orfevre",
+            "text": "You will not be the one selecting. Trainer, or Uma Musume, it matters not. \n————It is always I, the \"King\", who will be selecting."
+        },
+        {
+            "name": "Trainers",
+            "text": "……!"
+        },
+        {
+            "name": "Orfevre",
+            "text": "There is no one here, suitable for the \"King\". \n……it seems it was Selection in name only."
+        },
+        {
+            "text": "……『It is always I, the \"King\", who will be selecting』 \nThose words kept me rooted in place."
+        },
+        {
+            "text": "On this day, all I could do was stare at Orfevre's back, \nalong with all the other rejected trainers, as she left."
+        },
+        {
+            "text": "……Several days later. I was still thinking back about \nOrfevre, wondering what I should have done at the time——"
+        },
+        {
+            "name": "???",
+            "text": "——Excuse me, the trainer over there."
+        },
+        {
+            "text": "When I turned around, there was an Uma Musume that \nI didn't recognize. She bowed respectfully."
+        },
+        {
+            "name": "Orfe's Vassal A",
+            "text": "I apologize for being so sudden. \nI am one of Orfevre-sama's vassals.",
+            "choice_data_list": [
+                "Eh!? V-vassal……!?"
+            ]
+        },
+        {
+            "name": "Orfe's Vassal A",
+            "text": "The \"King\" is summoning you. \nWould you come with me?"
+        },
+        {
+            "name": "Orfe's Vassal A",
+            "text": "————I have brought them."
+        },
+        {
+            "name": "Orfevre",
+            "text": "Well done."
+        },
+        {
+            "text": "In the place I was brought to there was not only \nOrfevre, but several other Uma Musume attending \nher. They were probably also her vassals……",
+            "choice_data_list": [
+                "(I-it's almost like an Audience……)"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "————On that day, what did you see?",
+            "choice_data_list": [
+                "Eh……?"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "It was only you. At the previous Selection Race, you were the \nonly one who stood before me with a different expression."
+        },
+        {
+            "name": "Orfevre",
+            "text": "Answer me plainly. What did you see in my run?"
+        },
+        {
+            "text": "Her piercing gaze made me feel slightly intimidated. \nA half-hearted answer would be unacceptable. I desperately \ntried to put in to words what I saw in her that day——"
+        },
+        {
+            "text": "——On that day, there had been a quiet fury in Orfevre. \nAnd to me……that expression made me feel a sense of deja vu."
+        },
+        {
+            "text": "And that feeling was probably because of…… \nThe day I first met Orfevre. It was the same grim \nexpression she showed in front of that exhibit."
+        },
+        {
+            "text": "She said it on that day. That she would step past \nthose Triple Crown Uma Musume. Along with that \nself-confidence there was……a competitive spirit.",
+            "choice_data_list": [
+                "(『Competitive Spirit』——)"
+            ]
+        },
+        {
+            "text": "During the Selection Race, there was a reason Orfevre was \nirritated even after winning. I now had a hypothesis.",
+            "choice_data_list": [
+                "……Dissatisfaction, I suppose."
+            ]
+        },
+        {
+            "text": "She was the only one in the Selection Race \nthat was looking at something else. She was \nalready looking to the Triple Crown. Which means——",
+            "choice_data_list": [
+                "That your run won't win the Triple Crown"
+            ]
+        },
+        {
+            "name": "Orfe's Vassal A",
+            "text": "You……! What are you saying to the \"King\"——"
+        },
+        {
+            "name": "Orfevre",
+            "text": "Stop. \n………then, what did you find lacking in that run?"
+        },
+        {
+            "text": "『What can be improved?』 is that what she's asking? Under that \npressure of hers, I think about that Selection Race once again.",
+            "choice_data_list": [
+                "……the final straight, staying inside——"
+            ]
+        },
+        {
+            "text": "I listed as many other improvements I could think of, \nlike the start and positioning. And while saying that——"
+        },
+        {
+            "text": "Something new came to mind. \n………A strong desire. A dream."
+        },
+        {
+            "text": "The form of a true \"King\". \nI wanted to see it. A run that overturned heaven and earth."
+        },
+        {
+            "name": "Orfevre",
+            "text": "————Then, create it.",
+            "choice_data_list": [
+                "Eh"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "The points of improvement you mentioned…… \nA plan to improve my run, offer one up forthwith.",
+            "choice_data_list": [
+                "……!!"
+            ]
+        },
+        {
+            "text": "Was this a chance to form a contract? \nI felt like my heart was overflowing——"
+        },
+        {
+            "name": "Orfevre",
+            "text": "——This is the King's order. \nUnderstand that meaning, and do your utmost.",
+            "choice_data_list": [
+                "……Understood"
+            ]
+        },
+        {
+            "text": "The one doing the selecting was the \"King\", Orfevre. That fact \nweighed heavily on my heart, even as it was about to float away."
+        }
+    ]
+}
