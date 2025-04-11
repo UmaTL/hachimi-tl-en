@@ -1,0 +1,270 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "This was something that happened when I went \nshopping for training equipment with Gran Alegria……"
+        },
+        {
+            "name": "Store Clerk",
+            "text": "So you'll be paying with credit. \nThen, please use your card here.",
+            "choice_data_list": [
+                "Okay……Oh, that's right"
+            ]
+        },
+        {
+            "text": "I had forgotten that I had received a new \ncard recently. That's because, this was——"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "!? T-that card……!!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "It really is! \nThat card, it's one that earns you Miles for shopping, right!?",
+            "choice_data_list": [
+                "You can tell just by looking at it?",
+                "You can tell just by looking at it?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Yeah! \nI've already decided I'll get that one for sure someday!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……By the way, Trainer-san. Did you know? \nThere's a trick to saving up shopping Miles!",
+            "choice_data_list": [
+                "Eh? There is?",
+                "Eh? There is?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "That's right! Compared to your normal savings, it's like \nnight and day! The happiness is 2,000,000 Miles more!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Alright! Let's get started on the Shopping Miles class! \nCome with me, Trainer-san!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Trainer-san, look at that. \nThat's the mark!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "If you shop at a store with that, \nyou'll save up way more Miles than normal!",
+            "choice_data_list": [
+                "I see……just wait here"
+            ]
+        },
+        {
+            "text": "There just happened to be some books I wanted to buy, so I figured \nI'd try it out. And when I used my smartphone to check my points……"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "How'd it turn out, Trainer-san!?",
+            "choice_data_list": [
+                "It's true! I got double the points."
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Fuufuufuu……that's right, double! \nThis is the first step to becoming the Strongest Miler!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Next up, is the Mile Savings Extraordinary Corner! \nFollow me!"
+        },
+        {
+            "text": "And that's how we ended up at the Planetarium. A sky full of stars \nthat you can't see in the city. A narrator was telling the story."
+        },
+        {
+            "name": "Narrator",
+            "text": "『And so, there are many Uma Musume named after the stars \nin the sky, and occasionally, their achievements——』"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Ah～that was interesting! It really is times like \nthese that can inspire you, don't you think!?",
+            "choice_data_list": [
+                "Yeah! I learned a lot and——",
+                "Yeah! I learned a lot and——"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "You 『Saved up a bunch of Miles』 right!? ……And when \nyou look at all those Miles you've saved up, it raises \nyour spirit! Three birds with one stone!"
+        },
+        {
+            "text": "It had been a short while since we left the Planetarium. \n……and suddenly I stopped in front of a clothing store."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Hm? Wah, what a wonderful shop! Mile mark spotted too! \n……Trainer-san, is this where you normally go?",
+            "choice_data_list": [
+                "No……I was just curious"
+            ]
+        },
+        {
+            "text": "I always felt it was a little too stylish for me, so I never \nactually went in. ——But, if it was to save up some Miles……",
+            "choice_data_list": [
+                "……Let's take a look!!"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Yeah, it really looks good on you! That jacket! \nStyle points: 100 Miles!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Ehehe! Aren't you glad we entered this store!?",
+            "choice_data_list": [
+                "It's thanks to you, Gran!"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "No no, this is the power of Miles, you know!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Miles are the starting point to broaden your horizons! \nYou found a new way to live that Mile life!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "And lastly, let's head to the shopping mall! \nThat place is a treasure trove of Miles!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "——Alright! \nI suppose that's all I can show you for today."
+        },
+        {
+            "text": "Before I even realized it, the hours had flown by. \nIt does feel like I've learned about Shopping Miles too.",
+            "choice_data_list": [
+                "Thanks, I took up so much of your time",
+                "Thanks, I took up so much of your time"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "No, no, I had fun too! Thanks to today, \nTrainer-san has also started to become a great Miler……"
+        },
+        {
+            "name": "Campaign Staff",
+            "text": "Right now, we're running a Mile Club membership campaign～! \nWon't you take this opportunity to start living the MiLife～?"
+        },
+        {
+            "name": "Campaign Staff",
+            "text": "Using your Miles, you can enjoy some of the finest sweets～. \nDon't you want to get a taste of the MiLife～?"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "MiLife! The finest sweets! ……Wah! \nDo they mean the cake in that photo? So many strawberries——"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Wait, what!? That Choco plate at the top! \n『mile』 is written on it, you see!? Amaaazing!"
+        },
+        {
+            "text": "Hearing her words, a sudden thought came to mind. \n……Good. My current Miles should be just enough.",
+            "choice_data_list": [
+                "Hey Gran, if you still have time——",
+                "Hey Gran, if you still have time——"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "A real 『mile』 choco plate……! \nThe sparkly level is 100 Miles!",
+            "choice_data_list": [
+                "Yeah, this really is impressive……!",
+                "Yeah, this really is impressive……!"
+            ]
+        },
+        {
+            "text": "Illuminated by the lights, \nthe cake sparkled like a work of art."
+        },
+        {
+            "text": "To think I could turn my Miles in to something like this. \n……It really was quite moving."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……But, is this really okay? \nUsing all those Miles you just saved up.",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "text": "The emotion I was feeling right now was a sense \nof fulfillment at seeing the results of my efforts. \nI had no regrets about using those Miles.",
+            "choice_data_list": [
+                "It's the materialization of all those Miles"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "! The materialization of Miles……"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……————"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……Thanks for the meal!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "(Chomp!)"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……!!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "(This is……this is……!)"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "(So good! ……But, it's not just tasty. \nThis emotion, I can feel it in my heart, in my body……)"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "(But why is that? ……——Ah)"
+        },
+        {
+            "text": "『——It's the materialization of all those Miles』"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "(Oooh, that's it. That's what it was……!)"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "……The Miles don't disappear."
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Miles……are forever!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "Trainer-san, thank you very much! \nThat's a 100 point, gold-star Mile!"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "This cake, I won't forget the taste for the rest of my life!",
+            "choice_data_list": [
+                "O-okay?"
+            ]
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "I already took a bite, but I should get a picture."
+        },
+        {
+            "text": "I was a little surprised since she seemed happier \nthan I expected…… But seeing her smile like that, \nmade me want to work hard and earn more Miles."
+        }
+    ]
+}
