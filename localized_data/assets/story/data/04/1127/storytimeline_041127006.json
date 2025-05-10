@@ -1,0 +1,288 @@
+{
+    "title": "One Must Be Worthy of Counsel",
+    "text_block_list": [
+        {
+            "text": "A day off. It was nice out, so I was taking a stroll through town――"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Boss! What a coincidence, seeing you here!\nAre you out on the town today?",
+            "choice_data_list": [
+                "Yep. Just wandering around. You?",
+                "Yep. Just wandering around. You?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Copy! I'm doing the rounds, patrolling the town for danger!"
+        },
+        {
+            "text": "Seeing her work so hard for the sake of the town, even on her days off, had me impressed. It made me want to help her out a little.",
+            "choice_data_list": [
+                "Well, I'm here anyway. Can I join you?",
+                "Well, I'm here anyway. Can I join you?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Woah! To think you would be willing to accompany me...!\nYes, it would be a great comfort!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "The streets may seem safe at first glance, but danger could be lurking around any corner. We need to keep close watch, or... Hm!?"
+        },
+        {
+            "name": "Lost Kid",
+            "text": "Sniff... Mommy... Where's mommy...?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "You there! Are you lost!?\nState your name! Can you describe your parents!?"
+        },
+        {
+            "name": "Lost Kid",
+            "text": "Whuh!? I-I'm scared...!\nMommyy.....!!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "M-my apologies!\n...I didn't mean to scare you...!",
+            "choice_data_list": [
+                "You're alright~ Don't be scared, OK~?"
+            ]
+        },
+        {
+            "name": "Lost Kid",
+            "text": "Wahh... Sniff...\nR-really...?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Yes! It's just as Boss said!\nWe're here to take you into custody――！"
+        },
+        {
+            "name": "Lost Kid",
+            "text": "WAAAAAAAAAAHHH!!!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...The neighborhood police should be able to handle things, thanks to you managing to calm that child down...\n――Hm!?"
+        },
+        {
+            "name": "Old Woman",
+            "text": "Heave ho, heave ho...\n...Phew.\nAge sure did a number on my back..."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Excuse me, kind senior citizen! I can handle this!\nGive your things to me, now!"
+        },
+        {
+            "name": "Old Woman",
+            "text": "HUHHH!?? W-what's your problem!? You trying to swindle me!?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "S-swindle you!? Of course not!\nI am not a criminal, I assure you!!"
+        },
+        {
+            "name": "Old Woman",
+            "text": "Your angry mug doesn't scare me one bit!\nSomebodyyyy, HEEEELLP!!!!",
+            "choice_data_list": [
+                "She's not like that, really!!"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "We managed to clear things up, thanks to you...\n........Sigh."
+        },
+        {
+            "text": "Fenomeno slumped her shoulders, dejected.\nAs her trainer, it was up to me to step up and reassure her.",
+            "choice_data_list": [
+                "Feeling tired? I'll get us some coffee."
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Oh! I can go buy――",
+            "choice_data_list": [
+                "It's OK, I got it. You take a break."
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Umm... Right.\nThank you for your concern..."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(Scaring a child, getting mistaken for a thug...\nI've been nothing but a hindrance today...)"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(...No, not only today.)"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(I had to depend on Boss with the garden incident, and forced them to go beyond a trainer's duties.)\n"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(I'm still every bit as worthless as I was before.\nEven now, I'm making Boss worry about me.)"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(...As I am... Am I worthy of Boss's guidance...?)"
+        },
+        {
+            "name": "???",
+            "text": "Ngh...! Argh...!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――! Over there...!!"
+        },
+        {
+            "choice_data_list": [
+                "Hey, Meno? Where are you?",
+                "Hey, Meno? Where are you?"
+            ],
+            "text": "I went back over, canned coffee in hand, but..."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Over here!"
+        },
+        {
+            "text": "I followed her voice, and found her looking after a man who'd keeled over.",
+            "choice_data_list": [
+                "What happened...!? Is he okay!?",
+                "What happened...!? Is he okay!?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "It seems his chronic illness is flaring up.\nHe tried to call an ambulance, but..."
+        },
+        {
+            "name": "Man",
+            "text": "They're not coming... They're just not coming...\nI've waited and waited, but... Rrgh...!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Apparently, there's a major traffic jam in the area.\nSo the ambulance hasn't been able to make it..."
+        },
+        {
+            "name": "Man",
+            "text": "The hospital on this note... Take me... Please...\nNgh...!? Grahh.... Ngh...!!"
+        },
+        {
+            "text": "The man held a doctor's note with instructions to take him to the listed hospital in case of an emergency."
+        },
+        {
+            "choice_data_list": [
+                "(...No, wait. Meno can do it――!)"
+            ],
+            "text": "I looked up the hospital's location on my phone, but... It was still too far. Even if we called a taxi, the traffic jam meant they might not get here on time..."
+        },
+        {
+            "text": "After a second of thinking, I sent Fenomeno the route to the hospital on LANE."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――..........!\nBoss, this map...",
+            "choice_data_list": [
+                "I need you to get him to that hospital."
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...Me?"
+        },
+        {
+            "text": "Having watched her train, day by day, I knew what she was capable of. With her strength and stamina, she could get him there in time for sure."
+        },
+        {
+            "choice_data_list": [
+                "You're our only hope, Meno.",
+                "You're our only hope, Meno."
+            ],
+            "text": "And above all else, she had a powerful force of will. The kind that let her dedicate herself to justice.\nIf anyone could do it, it was her."
+        },
+        {
+            "text": "――.....!\n...........Affirmative!",
+            "name": "Fenomeno"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Hang on tight, sir!\n――RAAAAAAAAGH!!"
+        },
+        {
+            "text": "I stayed behind to explain to the ambulance crew that Fenomeno was taking the man to the hospital, following the doctor's note. And then――"
+        },
+        {
+            "name": "Fenomeno",
+            "choice_data_list": [
+                "Is he OK!?"
+            ],
+            "text": "――!! Boss!!"
+        },
+        {
+            "text": "It seems they just barely managed to treat him in time.\nThey said he avoided the worst case scenario.",
+            "choice_data_list": [
+                "Thank goodness... Great job, Meno!",
+                "Thank goodness... Great job, Meno!"
+            ],
+            "name": "Fenomeno"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Thank you...!\n................."
+        },
+        {
+            "text": "Leaving the rest in the hospital's hands, the two of us started making our way back. Today was a rough day for sure, but there was something cathartic about a job well done."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...I managed to save that man, thanks to you.\nIt was your training that gave me the strength to carry him.",
+            "choice_data_list": [
+                "I knew you could do it.",
+                "I knew you could do it."
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Haha...\nMuch obliged."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...To be frank, I was wavering.\nDoubting if I was worthy of your guidance."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "But... not anymore.\nIf I'm unworthy, then all I need to do is dedicate myself to becoming worthy."
+        },
+        {
+            "name": "Fenomeno",
+            "choice_data_list": [
+                "Meno..."
+            ],
+            "text": "I truly do want to follow you.\nSo that you may lead me to my ideal justice."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "I know I'm still immature.\nI have no shortage of flaws, and I may cause you no end of trouble."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "But even so, would you allow me to continue to stand by your side?"
+        },
+        {
+            "text": "Standing before me was a girl with an unwavering faith in justice. I couldn't help but be drawn to her because of it.\nSo I knew exactly how I would answer.",
+            "choice_data_list": [
+                "Of course. I'm your \"Boss\", aren't I?",
+                "Of course. I'm your \"Boss\", aren't I?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――Thank you so much!"
+        }
+    ]
+}

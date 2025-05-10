@@ -1,0 +1,253 @@
+{
+    "title": "One Must Protect The Weak",
+    "text_block_list": [
+        {
+            "text": "That morning, I had to come in to work a bit early. By the station, I saw a group of primary school kids, on their way to school. While I took in the adorable sight――"
+        },
+        {
+            "name": "Tracen Student",
+            "text": "――Good morning!"
+        },
+        {
+            "name": "Primary School Kids",
+            "text": "G-Good morning!\nGood morning..."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "Good. All of you, please stop for a moment. \nBefore you cross, make sure to look right, then left..."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "――Good. It seems the street is all clear. Now cross!",
+            "choice_data_list": [
+                "(Is she a volunteer crossing guard?)"
+            ]
+        },
+        {
+            "text": "It wasn't often you saw a Tracen student working before classes. Though the kids seemed a bit scared of how strict she was being..."
+        },
+        {
+            "name": "Especially Young Kid",
+            "text": "G-good morning..."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "Mm. Good morning.\nYou stop here too.\nCarefully look both ways――"
+        },
+        {
+            "text": "(――Vroom, vroom, vrooooom!!)"
+        },
+        {
+            "name": "Tracen Student",
+            "text": "Ngh, that motorbike...!\n――Look out!!"
+        },
+        {
+            "text": "――Tch, look where you're going, slowpoke!",
+            "name": "Recklessly Driving Biker"
+        },
+        {
+            "text": "The Tracen student just barely managed to protect the kid from harm. Disaster averted... But the biker already had his hand on the clutch, ready to flee the scene."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "You are REQUIRED to stop at a crosswalk!!\nReckless driving is a―― You―― Rrgh!!"
+        },
+        {
+            "name": "Tracen Student",
+            "text": "STOP        RIGHT      THERE!!"
+        },
+        {
+            "name": "Especially Young Kid",
+            "text": "W―― Waaaaahhhhhh!!"
+        },
+        {
+            "name": "Tracen Student",
+            "text": "A-are you all right!? Are you hurt――"
+        },
+        {
+            "name": "Especially Young Kid",
+            "text": "Wahhhhhhhhh!! I'm so sorryyyyy!!"
+        },
+        {
+            "name": "Tracen Student",
+            "text": "Wh― Why are you apologizing!?\nWait, no... Is it my fault? ...I'm sorry, I didn't mean to upset you...!"
+        },
+        {
+            "choice_data_list": [
+                "Are you okay?"
+            ],
+            "text": "No, if anyone was to blame for upsetting her, it'd be that loud, mean, biker. I had to step in here..."
+        },
+        {
+            "choice_data_list": [
+                "That was scary. But it's OK now.",
+                "That was scary, huh? But it's OK now."
+            ],
+            "text": "I made a mental note to report the biker later... \nBut helping the kid came first. I checked for any injuries, and it seemed she was unharmed."
+        },
+        {
+            "text": "I looked the kid in the eye and spoke to her calmly. \"It's OK now. The nice Umamusume was here to protect you, after all. What just happened was not your fault.\""
+        },
+        {
+            "text": "I looked the kid in the eye and spoke to her calmly. \"It's OK now. The nice Umamusume was here to protect you, after all. What just happened was not your fault.\""
+        },
+        {
+            "choice_data_list": [
+                "There, there, you're OK, you're OK..."
+            ],
+            "name": "Especially Young Kid",
+            "text": "Sniff, sob... Sniff... Mmhm..."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "..........."
+        },
+        {
+            "name": "Tracen Student",
+            "text": "Off you go! Take care!\n...Heh."
+        },
+        {
+            "text": "――! \nThat's the last of the students I'm helping at this crosswalk.\nMission accomplished.",
+            "name": "Tracen Student"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "My apologies for not introducing myself.\nMy name is Fenomeno, and I am a student at Tracen Academy."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Are you... a trainer at the Academy, if I may ask?\nI'd like to thank you for your help. You were a lifesaver."
+        },
+        {
+            "choice_data_list": [
+                "Are you always keeping watch here?",
+                "Are you always keeping watch here?"
+            ],
+            "text": "She was polite, just like a real officer should be... \nFrom what I'd seen so far, it looked like she'd been a crossing guard for a while."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "I am. There are no signals here, and it's easy to get caught in a blind spot. Not having a crossing guard would have a direct impact on the children's safety."
+        },
+        {
+            "text": "Really, though, the fact that she went out of her way to work before class... It was impressive. I couldn't help but praise her for it."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "No, it's only natural. I already make the rounds early in the morning while training, so it's not too much of a burden."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "And above all else... It's my duty to make sure the children of this city stay safe!"
+        },
+        {
+            "name": "Fenomono",
+            "text": "――Oh, I got caught up in the conversation.\nMy apologies for keeping you.",
+            "choice_data_list": [
+                "It's fine. What about you, though?",
+                "No problem. Though what about you?"
+            ]
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Ah! There's only ten minutes until the morning assembly...!\nIf you'll excuse me, I'll return to the academy!"
+        },
+        {
+            "text": "I watched as she ran off in a hurry.\n――But..."
+        },
+        {
+            "text": "Ngh... The signal...!!",
+            "name": "Fenomeno"
+        },
+        {
+            "text": "The crossing sign was still flashing, and wasn't even red yet. But that was all it took to stop her dead in her tracks. \n...Her honest, by-the-book attitude put a smile on my face."
+        },
+        {
+            "text": "Later that afternoon, I saw Fenomeno at the Academy.  \nIt made me wonder, did she manage to make it on time...?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "You there. You've been looking back and forth a bit suspiciously... Do you mind if I ask a few questions? \nWhat are you doing here? State your name, year, and class."
+        },
+        {
+            "text": "Eek... Uh, nothing! It's nothing, really...!",
+            "name": "Suspicious Student"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Surely something has to be going on.\nTell me honestly about any of your activities, and I will act accordingly――"
+        },
+        {
+            "choice_data_list": [
+                "What's up? Something wrong?",
+                "What's up? Is something wrong?"
+            ],
+            "text": "It kind of looked like she was holding that girl for questioning... Remembering how by-the-book and uptight she was before, I had to say something."
+        },
+        {
+            "choice_data_list": [
+                "...So you're trying to help her?"
+            ],
+            "name": "Fenomeno",
+            "text": "――Affirmative. She was acting suspiciously.\nThat's why I presumed there was some kind of trouble, and asked her for more information..."
+        },
+        {
+            "name": "Suspicious Student",
+            "text": "Huh...? S-she is...?\nI'm so sorry, I got the wrong idea...!"
+        },
+        {
+            "text": "It seems like she was looking for something she dropped.\nIn the end, we all searched for it together.\n"
+        },
+        {
+            "name": "Suspicious Student",
+            "text": "Um... Thank you so much!"
+        },
+        {
+            "text": "We managed to find it without any issues.\nThe girl looked a bit shaken up, but went on her way."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Thank you very much for your assistance, Trainer."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...It seems people find me menacing.\nIf you weren't here, I doubt she would tell me what was wrong, let alone let me help her."
+        },
+        {
+            "text": "Just like this morning...\nIt seems you're always lending me a hand.",
+            "name": "Fenomeno",
+            "choice_data_list": [
+                "It's no big deal."
+            ]
+        },
+        {
+            "text": "The reason she could save the kid and find that lost item was because she was just and kind. All I did was offer a little help."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――! ...Thank you very much for saying that.\nIt feels a bit like having my hard work recognized."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――I aim to be a hero, you see.\nThat's why I work hard at my duties, day by day."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――Oh. It seems I've kept you again.\nPlease, accept my apologies!",
+            "choice_data_list": [
+                "Only natural to help folks in trouble."
+            ]
+        },
+        {
+            "text": "So don't worry about me.\nTelling her that, I made my exit."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "...Such selflessness. Such determined justice..."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "――What a paragon."
+        }
+    ]
+}
