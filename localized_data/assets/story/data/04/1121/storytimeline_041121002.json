@@ -1,0 +1,237 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Durandal",
+            "text": "I look forward to working with you. \nThen quickly, a strategy meeting."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Yeah, let's come up with a strategy."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Durandal and that genius trainer pairing up, huh? \nIt'll be a sight to behold.",
+            "choice_data_list": [
+                "………"
+            ]
+        },
+        {
+            "text": "If it was my Senpai, known as a genius trainer, \nthat was stepping up, then it couldn't be helped. \nFor today, I'll just observe and study."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "A short distance battle. Then, the strategy——"
+        },
+        {
+            "name": "Durandal",
+            "text": "I'd like to go with \"Chaser\"."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Chaser……? Even though it's short distance? \nI'd heard the rumors but……do you really want to go with that?"
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Hahaha, chaser in a short distance race…… \nThere's something wrong with that, don't you think……?",
+            "choice_data_list": [
+                "Yeah……that's quite the choice……"
+            ]
+        },
+        {
+            "text": "\"Chaser\" is just one of the strategies of racing. \nOne where you run in the back of the pack and \nthen quickly overtake in the end……"
+        },
+        {
+            "text": "It wasn't suited for short distances where you had \nto compete for position from the very start. As proof \nof this, the greatest sprinters of all time——"
+        },
+        {
+            "text": "Were predominantly \"Runner\" and \"Leader\" type Uma Musume. \nDurandal should already know this too……"
+        },
+        {
+            "name": "Durandal",
+            "text": "Even if that's the case, I still want to go with Chaser. \nMy greatest weapon is that one moment of \"Sharpness\"."
+        },
+        {
+            "name": "Durandal",
+            "text": "I want to make the most of it. \nYour judgement, please."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "………Understood."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "I'll respect your will. \nOn top of that, we should decide on some other things."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Eh, he approved chaser……seriously!?",
+            "choice_data_list": [
+                "……Sounds like Senpai"
+            ]
+        },
+        {
+            "text": "The flexibility to not impose what is considered standard \non an Uma Musume. That was Senpai's strength. And so——"
+        },
+        {
+            "name": "Durandal",
+            "text": "Fuuu……!"
+        },
+        {
+            "text": "Whether that decision would be correct or \nnot would be determined by race results."
+        },
+        {
+            "name": "Durandal",
+            "text": "The pace is slow……if everyone is saving their \nstamina, then chasing becomes disadvantageous……"
+        },
+        {
+            "name": "Durandal",
+            "text": "But the last 3 furlongs. No matter the pace, \nI will definitely——cut through, faster than anyone."
+        },
+        {
+            "name": "Durandal",
+            "text": "As long as I am able to do that——victory will be certain! \nHaaaaaaaaaa!!",
+            "choice_data_list": [
+                "T-that's……!!"
+            ]
+        },
+        {
+            "text": "You really could practically call it a 『Holy \nSword』. The slower the pace, the more of an \nadvantage those in front would have but……"
+        },
+        {
+            "text": "That kind of sharpness was enough to overcome such a disadvantage. \nTo cut through all of her opponents in a single stroke."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Good work. And it looks like you were following \nmy instructions for how to take the course."
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes, it was very easy to run."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "I'm glad. Are your legs okay? Just in case, it \nwould probably better to ice them. That kind of \nsudden acceleration can put quite a burden on them."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Oooh, as expected of a genius trainer. From the way he \nissues orders down to the after care, it's all perfect."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "I guess……it's already decided then? \nLooks like we won't even get a chance.",
+            "choice_data_list": [
+                "……seems like it."
+            ]
+        },
+        {
+            "text": "There was no way anyone could be better. As expected, \nthe kind of King that Durandal would serve……"
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "So, what do you want to do? \nDo you want to formally team up with me?"
+        },
+        {
+            "name": "Durandal",
+            "text": "About that——"
+        },
+        {
+            "name": "Durandal",
+            "text": "Could you give me a little time to think about it?"
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "……Understood. I won't force you, \nso take your time and think about it."
+        },
+        {
+            "name": "Durandal",
+            "text": "……I apologize."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Wait, wait, she didn't agree immediately? What does that mean? \nDoes she really just want to take a moment, or……"
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Was there something she didn't like? \nWas readily accepting chaser actually the wrong choice?"
+        },
+        {
+            "text": "I didn't know the answer to that. However, shortly \nafter, Durandal officially declined to form a contract \nwith my senpai and began searching for another trainer."
+        },
+        {
+            "name": "Experienced Trainer B",
+            "text": "Durandal, chaser really is unthinkable for short distances. \nLet's take the initiative with Leader……"
+        },
+        {
+            "name": "Durandal",
+            "text": "I see, I understand what you're thinking. \nWell then——please excuse me."
+        },
+        {
+            "name": "Experienced Trainer C",
+            "text": "Chaser is……well……it isn't completely impossible I guess. But \nat least, before the 3rd corner let's aim to be more forward……"
+        },
+        {
+            "name": "Durandal",
+            "text": "But to do that, isn't it like asking me to dull my blade \nbefore the end? I apologize but……I can't agree to that."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I guess it really won't be that easy. For Durandal to find a King \nthat she can acknowledge from the bottom of her heart, I mean."
+        },
+        {
+            "text": "Fine Motion and I had become friends already \nand were having a chat. If there wasn't a King \nworthy of Durandal in Tracen Academy then……",
+            "choice_data_list": [
+                "I guess someone has to \"Become\" it",
+                "I guess someone has to \"Become\" it"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Eh, someone has to……become King?",
+            "choice_data_list": [
+                "Otherwise she'll remain a vagabond",
+                "Otherwise she'll remain a vagabond"
+            ]
+        },
+        {
+            "text": "There was nobody at Tracen Academy that \ncould surpass my senpai. Which would mean——"
+        },
+        {
+            "text": "If a king could not be found, then the 『Holy Sword』 would only rust. \nSomething filled with that much potential would…… In that case——"
+        },
+        {
+            "text": "I had to challenge myself! \nI didn't want that kind of talent to waste away."
+        },
+        {
+            "name": "Durandal",
+            "text": "You are……",
+            "choice_data_list": [
+                "Durandal, I came here for a test!"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "A test? To test……me?",
+            "choice_data_list": [
+                "No, myself! To see if I'm worthy",
+                "No, myself! To see if I'm worthy"
+            ]
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Hey hey, that person…… \nEven though that genius wasn't able to form a contract……?"
+        },
+        {
+            "name": "Experienced Trainer C",
+            "text": "Yeah, they look motivated though. \nBut, a rookie outside their own depth……"
+        },
+        {
+            "name": "Durandal",
+            "text": "………"
+        },
+        {
+            "name": "Durandal",
+            "text": "Understood. Then, please. \n——My temporary King."
+        }
+    ]
+}
