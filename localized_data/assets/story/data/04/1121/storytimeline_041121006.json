@@ -1,0 +1,211 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "For some reason, I'd been standing by myself for several minutes. \nDurandal had said she'd be right back, but where did she even go?"
+        },
+        {
+            "text": "Thinking back on it, earlier this morning——"
+        },
+        {
+            "name": "Durandal",
+            "text": "『Trainer-dono! I apologize for the sudden invitation but, \ntoday, would you accompany me to see this musical!?』"
+        },
+        {
+            "text": "That was the message that Durandal had sent me a short while ago. \nAs soon as I agreed, she appeared almost right away."
+        },
+        {
+            "name": "Durandal",
+            "text": "I've arrived to escort you, my lord."
+        },
+        {
+            "name": "Durandal",
+            "text": "I'm honored that you'd accompany me. \nThank you. Please, leave everything to me today!"
+        },
+        {
+            "name": "Durandal",
+            "text": "Now, if it please you my lord. On to this rickshaw.",
+            "choice_data_list": [
+                "You're going to pull this!?",
+                "You're going to pull this!?"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes. Since we have the day off, \nI was hoping you'd be able to enjoy the scenery."
+        },
+        {
+            "name": "Durandal",
+            "text": "Fret not, my lord. \nThis Durandal will be sure to transport you safely and with haste!"
+        },
+        {
+            "name": "Durandal",
+            "text": "Ah, how could I forget!?"
+        },
+        {
+            "name": "Durandal",
+            "text": "You must be thirsty, my lord. \nWorry not, I shall go buy something right away!"
+        },
+        {
+            "text": "Before I could say I was fine, Durandal hurriedly ran off. \nApparently she was really excited about today's outing."
+        },
+        {
+            "name": "Durandal",
+            "text": "I apologize for making you wait, Trainer-dono. \nWater, coffee, tea, soft drinks. Just tell me which you'd prefer.",
+            "choice_data_list": [
+                "You bought that much!?"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "Well, that is……because I ran off without taking your order."
+        },
+        {
+            "name": "Durandal",
+            "text": "But rest assured! I purchased a little of \neverything in the store. You can choose freely!"
+        },
+        {
+            "text": "And now our current situation. Durandal said she would check \nto make sure there was no danger, but then never returned.",
+            "choice_data_list": [
+                "Did she run in to trouble?"
+            ]
+        },
+        {
+            "text": "(Bzzzz, bzzzz, bzzzz)",
+            "choice_data_list": [
+                "——Durandal?"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "『My lord, I am truly sorry!』"
+        },
+        {
+            "name": "Durandal",
+            "text": "I proceeded ahead with the intention \nto check the area for safety, however——"
+        },
+        {
+            "name": "Durandal",
+            "text": "Today's tickets don't allow reentry. \nI apologize, but could I ask you to make your way to me?"
+        },
+        {
+            "name": "Durandal",
+            "text": "My \"King\"! My lord, over here! \nFor not being able to bring you here myself, I apologize."
+        },
+        {
+            "name": "Durandal",
+            "text": "However, I believe the performance will be to your liking. \nA wonderful piece depicting the life of the Holy Knight, Roland."
+        },
+        {
+            "name": "Durandal",
+            "text": "Ah, I'm going to go buy a pamphlet! \nPlease, feel free to head to your seat first!"
+        },
+        {
+            "text": "She must have been really looking forward to this. She had been \nso restless since the morning, I couldn't help but smile. But——"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Hey……did you hear that? \nThat person is making their Uma Musume-chan call them 『King』."
+        },
+        {
+            "name": "Spectator B",
+            "text": "No way……isn't that kinda wild? \nTreating their Uma Musume-chan like a servant?",
+            "choice_data_list": [
+                "(Ugh……!)"
+            ]
+        },
+        {
+            "text": "I couldn't help but feel taken aback. \nA trainer's job was to protect and support their Uma Musume."
+        },
+        {
+            "text": "Having an Uma Musume act as my servant would be \nbad not only for me, but for Durandal's public image.",
+            "choice_data_list": [
+                "(It might be better to make her stop)"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "My lord, I have returned. ……Is something the matter?",
+            "choice_data_list": [
+                "Well……you see……",
+                "Well……you see……"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "——Oh, sorry. Seems like the show is starting. \nLet's focus on the stage for now."
+        },
+        {
+            "name": "Holy Knight Roland",
+            "text": "My King, let this serve as proof of my loyalty! \nWith this 『Holy Sword』 and the pride of a knight, \nI will surely bring victory for my King!"
+        },
+        {
+            "name": "King Charlemagne",
+            "text": "That is what it means to by my knight. \nI will be relying on you, as our unparalleled force of arms!"
+        },
+        {
+            "name": "Durandal",
+            "text": "…………"
+        },
+        {
+            "text": "I heard her let out a voice, probably unintentionally, \nand glanced towards her. Durandal, with her eyes sparkling, \nwas watching the performance enthusiastically."
+        },
+        {
+            "name": "Holy Knight Roland",
+            "text": "……Kuu, what a sizeable military force. \nWe're surrounded. However——"
+        },
+        {
+            "name": "Holy Knight Roland",
+            "text": "With this 『Holy Sword』 there is nothing to fear! \nWith a single blade, I will cut through!"
+        },
+        {
+            "name": "Durandal",
+            "text": "～～～～～!"
+        },
+        {
+            "text": "I could practically hear her heart racing. \nWith adoration in her eyes, she seemed to sit taller in her seat."
+        },
+        {
+            "name": "Durandal",
+            "text": "Aah………… I really……"
+        },
+        {
+            "text": "I was starting to feel a little remorseful. Her wish, this \nlonging of hers, there was no way I could take that away from her."
+        },
+        {
+            "name": "Durandal",
+            "text": "Take my hand, my lord. There is a step here."
+        },
+        {
+            "name": "Durandal",
+            "text": "Please leave security on our return journey to me. \nI will sweep away all obstacles in our path!"
+        },
+        {
+            "name": "Durandal",
+            "text": "——By the way. \nBefore the play, it seemed like you wanted to say something?",
+            "choice_data_list": [
+                "No, it's fine",
+                "No, it's fine"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "……is that so? If you need anything, \nplease don't hesitate to give me your orders",
+            "choice_data_list": [
+                "I'm glad you're my knight.",
+                "I'm glad you're my knight."
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "……I don't deserve such praise. \nI intend to continue my efforts on in to the future."
+        },
+        {
+            "name": "Durandal",
+            "text": "I swear it once more, my lord. \nThat I will become the best knight for you!"
+        },
+        {
+            "text": "A bold declaration with a serious gaze. I wanted to be the \none to protect her so that that gaze would never be clouded."
+        }
+    ]
+}

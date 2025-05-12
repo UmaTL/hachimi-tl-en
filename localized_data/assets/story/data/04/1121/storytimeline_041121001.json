@@ -1,0 +1,233 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Durandal",
+            "text": "I am——a knight. \nIn other words, the king's sword, and shield."
+        },
+        {
+            "name": "Durandal",
+            "text": "I cannot allow any harm to befall my king. Let this \n『Holy Sword』 be the one to dispel any and all clouds!"
+        },
+        {
+            "name": "Vanguard Leader",
+            "text": "Alright, we've arrived. The innermost chambers \nof the castle! The only one remaining……is her."
+        },
+        {
+            "name": "Durandal",
+            "text": "I offer you my respect. Whilst overcoming our \ndefenses, your courage has brought you here. However——"
+        },
+        {
+            "name": "Durandal",
+            "text": "As long as I stand, you will not lay a hand on our king."
+        },
+        {
+            "name": "Vanguard Leader",
+            "text": "What!? That sword——"
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes, this is the 『Holy Sword』 entrusted to me by our king! \nI will protect them, the king and the people we cherish!"
+        },
+        {
+            "name": "Durandal",
+            "text": "Haa, hmmph, haa, yaaaaaa!!"
+        },
+        {
+            "text": "Her brilliant swordplay……I couldn't help but \nstare in awe…… Dodging their attacks as if \nshe was dancing, she defeated them one-by-one."
+        },
+        {
+            "name": "Vanguard Leader",
+            "text": "Grrr, now that it's come to this—— \nArise, dark dragon, Gargouille!"
+        },
+        {
+            "name": "Vanguard Leader",
+            "text": "It's true that your sword is quick. However, no matter how \nquick, you will not be able to pierce this one's granite-skin."
+        },
+        {
+            "name": "Durandal",
+            "text": "Kuu, to bring even monsters…… True, with this \nthin arm, I may not be able to pierce it. However……"
+        },
+        {
+            "name": "Durandal",
+            "text": "——If I were to use both arms."
+        },
+        {
+            "name": "Vanguard Leader",
+            "text": "What!? That stance……!?"
+        },
+        {
+            "name": "Durandal",
+            "text": "What makes me the strongest knight is not my \"speed\". By \nhoning myself, striving forth, and staying ever at the ready——"
+        },
+        {
+            "name": "Durandal",
+            "text": "It is my \"sharpness\"! \nDark dragon, offer yourself up to Villandry."
+        },
+        {
+            "name": "Durandal",
+            "text": "Haaaaaaaaa!!"
+        },
+        {
+            "text": "(Oooooooooooooooh!)"
+        },
+        {
+            "name": "Durandal",
+            "text": "『And that concludes the show. \nThank you for watching』"
+        },
+        {
+            "name": "Fan A",
+            "text": "That was awesome, Durandal!"
+        },
+        {
+            "text": "I was completely captivated by the play that was performed at \nthe Fan Appreciation Festival. A tale of medieval knights."
+        },
+        {
+            "text": "The lead role was played by an Uma Musume named 『Durandal』. \nThe name of a holy sword that appears in French mythology."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "That Uma Musume called Durandal has excellent \nswordsmanship, but apparently she's also amazing \nat running. Particularly short distances.",
+            "choice_data_list": [
+                "I really want to see it then……"
+            ]
+        },
+        {
+            "text": "If an Uma Musume could move like that, \nthen she must be able to run extremely well too."
+        },
+        {
+            "text": "Maybe if I could become the trainer of an Uma Musume like \nthat……I could come closer to being like that person."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "I see, so you came to Tracen Academy too. \nI'm glad you made it."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Guiding an Uma Musume is definitely difficult. But, it's \nstill something worth investing your whole life in to."
+        },
+        {
+            "text": "My senpai trainer. Someone who always earnestly \nworks with Uma Musume, he's someone I look up to."
+        },
+        {
+            "text": "I decided to take a chance and try to speak to Durandal. It was \npossible she wouldn't even give me the time of day, but……",
+            "choice_data_list": [
+                "Your acting from before was great!"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "You are……a new trainer, right? \nSounds like you were able to see the play.",
+            "choice_data_list": [
+                "I was really moved! It was great!",
+                "I was really moved! It was great!"
+            ]
+        },
+        {
+            "name": "Durandal",
+            "text": "……I see. \nI'm glad you were able to enjoy it."
+        },
+        {
+            "name": "Durandal",
+            "text": "Thank you for telling me. \n……Well then."
+        },
+        {
+            "text": "At first glance, she seemed like she would be difficult \nto talk to, like a noble. However, that wasn't the case."
+        },
+        {
+            "text": "——And then several days later. \nNow it was time to see her running in person."
+        },
+        {
+            "name": "Durandal",
+            "text": "Today is just a mock race right? Although I call myself \na knight……I am still a vagabond without a King……"
+        },
+        {
+            "name": "Durandal",
+            "text": "Can someone act as a temporary trainer and issue me commands?"
+        },
+        {
+            "name": "Experienced Trainer B",
+            "text": "Huh? A trainer……? \nFor a mock race are you planning to have a temporary trainer?"
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes. Normally, you don't have a trainer until \nafter a Selection Race. However, from this point \nonwards, I will be asking for this each time."
+        },
+        {
+            "name": "Durandal",
+            "text": "I want to determine it with my own eyes. \nTo find a King I can serve."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fufuu, Durandal's at it again. \nShe's already doing the usual thing.",
+            "choice_data_list": [
+                "……and you are?",
+                "……and you are?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, how do you do? \nI'm Fine Motion. One of Durandal's classmates."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Durandal always asks me about kings and such. \nSince I'm royalty♪",
+            "choice_data_list": [
+                "Royalty……A-amazing……",
+                "Royalty……A-amazing……"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "She's searching really hard you know. As a knight, \nsearching for a King she can devote herself to.",
+            "choice_data_list": [
+                "By King……she means a trainer?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Yeah. For a knight, a king is someone who not only \nchanges their future, but even their concept of justice. \nSo she probably wants to examine them thoroughly."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "She's a really serious and stubborn girl, so unless she \nacknowledges them from the bottom of her heart, I don't \nthink she'll be willing to offer her sword to them."
+        },
+        {
+            "name": "Experienced Trainer C",
+            "text": "In that case, I'll accept that offer!"
+        },
+        {
+            "name": "Experienced Trainer B",
+            "text": "No, I will! Being able to instruct someone like \nDurandal is a chance that doesn't come by often."
+        },
+        {
+            "name": "Durandal",
+            "text": "Everyone, thank you very much."
+        },
+        {
+            "text": "Since that was the case, several people stepped \nforward. This was a rare opportunity. So——",
+            "choice_data_list": [
+                "Me too……!",
+                "Me too……!"
+            ]
+        },
+        {
+            "text": "As soon as I said that——"
+        },
+        {
+            "name": "???",
+            "text": "Then I'll accept as well."
+        },
+        {
+            "name": "Durandal",
+            "text": "——!! You are……"
+        },
+        {
+            "name": "Durandal",
+            "text": "It's an honor. To think a trainer as renowned \nas you would volunteer. Then for today, please."
+        },
+        {
+            "text": "That was someone I knew well. \nThe senpai trainer I looked up to."
+        }
+    ]
+}
