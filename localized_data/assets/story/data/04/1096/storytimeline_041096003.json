@@ -1,0 +1,238 @@
+{
+  "title": "The Scoundrel has Arrived!",
+  "text_block_list": [
+    {
+      "text": "In order to learn more about No Reason, \nI thought I'd challenge her to a match."
+    },
+    {
+      "text": "Oh, if it isn't trainer. To come all the way to the classroom… Ah, could it be that you actually wanted that information?",
+      "choice_data_list": [
+        "No, I just need to borrow you for a bit."
+      ],
+      "name": "No Reason"
+    },
+    {
+      "name": "No Reason",
+      "text": "Hm? Is it something that can't be done here? \nVery well then, let us change our scenery～!"
+    },
+    {
+      "name": "No Reason",
+      "text": "What the… you wanted to… play me in a game of shogi?",
+      "choice_data_list": [
+        "Yup!",
+        "Yup!"
+      ]
+    },
+    {
+      "text": "Are you truly a scoundrel or not? I'll suss it out through this game!"
+    },
+    {
+      "name": "No Reason",
+      "text": "Hoh～ Hoh～～?"
+    },
+    {
+      "name": "No Reason",
+      "text": "Very well then, I accept your challenge! \nJust know that… I'm very strong."
+    },
+    {
+      "text": "You can't claim victory by sitting idle! \nGo forth and bring their heads! My infantry will cut through your forces like butter!",
+      "name": "No Reason"
+    },
+    {
+      "text": "No Reason took a very aggressive stance in the opening moves. It looked reckless, but she might have something up her sleeve.",
+      "choice_data_list": [
+        "(I need to hunker down and watch.)"
+      ]
+    },
+    {
+      "text": "Kukuku, can you afford to be so passive? While you're setting up your fort, I shall take your pawn!",
+      "name": "No Reason"
+    },
+    {
+      "text": "While I was setting up my defensive positions she kept taking my pawns on the frontlines. If she keeps this assault up before I'm in position, then I'm in for a tough battle."
+    },
+    {
+      "text": "And yet, on the other side of the board there were many openings in her lines. If I can hold on for a little longer for the perfect opportunity, I can turn this game around."
+    },
+    {
+      "name": "No Reason",
+      "text": "Take that! Heh, your bishop will be taken next! \nNya ha ha ha—"
+    },
+    {
+      "name": "No Reason",
+      "text": "Ah!?"
+    },
+    {
+      "text": "— For no reason at all, she placed her silver general right in front of my lance. Of course I will be taking that piece for my next move."
+    },
+    {
+      "name": "No Reason",
+      "text": "Aaaaaaaaaaa～～～…I-I thought that was a pawn… \nH-hey… Can I… takesies-backsies on that move…",
+      "choice_data_list": [
+        "Nope, once it leaves your hand, it's legal.",
+        "Nope, once it leaves your hand, it's legal."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Isn't that a bit harsh? I noticed it before you even noticed it, you know. Doesn't that count for something?",
+      "choice_data_list": [
+        "There's no takesies-backsies in war."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Geh! Kuh… Very well, there's nothing that can be done. We'll continue the match!…Aaaaah, my silver general…"
+    },
+    {
+      "name": "No Reason",
+      "text": "But I won't relent on my offensive! Charge, my pawns!",
+      "choice_data_list": [
+        "Ah, then my bishop will your gold general."
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "NYAAAAAAAAAAAAAAAA, SHOOT! I opened a way for your bishop… Uuuweeeeh, I-I haven't been bested yet!"
+    },
+    {
+      "text": "Even while in a panic, No Reason continued her assault. I continued to take her pieces in a one-sided manner as she kept rushing in a frantic state. When I finally—",
+      "choice_data_list": [
+        "…What the?"
+      ]
+    },
+    {
+      "text": "— When I finally noticed the current state of the board, I found myself in an extremely disadvantageous state. Her strong pieces were staring down my king. This was… checkmate."
+    },
+    {
+      "text": "…That said, I was set on hunkering down and reacting, but before I knew it I was attacking. The result? My defenses were torn down completely!",
+      "choice_data_list": [
+        "Wait, didn't I take that silver and gold!?",
+        "Wait, didn't I take that silver and gold!?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Oh… so you finally noticed."
+    },
+    {
+      "text": "It is as you say. You were wary of me from the start. So I made use of \"Tsurinobuse\" and lured you out of your shell.",
+      "name": "No Reason"
+    },
+    {
+      "text": "\"Tsurinobuse\"— It certainly was a tactic excelling at luring your opponent out. A frightful tactic that destroys your opponent's formation while you have troops prepared to flank.",
+      "choice_data_list": [
+        "So this was your plan from the start, just like the scramble.",
+        "So this was your plan from the start, just like the scramble."
+      ]
+    },
+    {
+      "text": "It was clear to me now. She was acting as a decoy during the scramble. All so her allies could pick up the banners."
+    },
+    {
+      "name": "No Reason",
+      "text": "…Heh. You're quite sharp, aren't you. Verily. To win on the field of battle, one must be prepared to employ tricks upon the enemy.",
+      "choice_data_list": [
+        "Were you scouting for info on Gimlet?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Even if you think they noticed your plan… The truth is… the real reason I visited you was to gain information to insure my victory at the Selection Race."
+    },
+    {
+      "name": "No Reason",
+      "text": "I'll do anything it takes, if it means I claim victory. \nVictory is all that matters!"
+    },
+    {
+      "name": "No Reason",
+      "text": "History is written by the victors. And yet, if I fail to claim victory, nothing will be in reach. If I want to get what I want— I have to win!",
+      "choice_data_list": [
+        "That's… the way of a Sengoku warlord, no?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "You're half right, and half wrong. The reason for it all is… because of my father."
+    },
+    {
+      "name": "No Reason",
+      "text": "Both of my parents hail from America. My father, much like myself, yearned to experience the way of the warlord. He learnt many different military arts in search of that desire."
+    },
+    {
+      "name": "No Reason",
+      "text": "The result? A part of him became a warrior. And then he moved here."
+    },
+    {
+      "name": "No Reason",
+      "text": "However, it seems he had difficulty being recognized. He had no one to support him, no organization to turn to, and even faced hardship during matches."
+    },
+    {
+      "name": "No Reason",
+      "text": "But despite all that, my father… he kept to his way, bore results, and snagged his victory. He built up an unshakeable reputation as a warrior in this country."
+    },
+    {
+      "name": "No Reason",
+      "text": "He then opened up his own dojo and is now famous in this country's fighting world."
+    },
+    {
+      "name": "No Reason",
+      "text": "However, if any of that didn't happen… \nIf he couldn't achieve anything, my father would have no place in this country."
+    },
+    {
+      "name": "No Reason",
+      "text": "A Sengoku warlord is the same. If a daimyo wasn't able to hold the country, their history ends there. There are many that are lost to history, lost to the sands of time."
+    },
+    {
+      "name": "No Reason",
+      "text": "Leaving behind a legacy is… unexpectedly difficult. If you looked at traditional culture, you'd understand. Those that remain, like the \"Soma Nomaoi\" require immense effort to stay."
+    },
+    {
+      "name": "No Reason",
+      "text": "I desire to take over this land. All to accomplish the task of displaying my way of life. Therefore—"
+    },
+    {
+      "name": "No Reason",
+      "text": "Someone will inherit my ambition. And certainly! My mark on the racing world will be etched into history!"
+    },
+    {
+      "name": "No Reason",
+      "text": "I want to leave behind proof that I lived— Why would I want to do that? I have no reason at all. Anyone would think the same, no?",
+      "choice_data_list": [
+        "That's… certainly true."
+      ]
+    },
+    {
+      "text": "I've also had similar thoughts before. I became a trainer and dream of training an uma musume, whose name will one day go down in racing history."
+    },
+    {
+      "name": "No Reason",
+      "text": "—Now then, have you accomplished your mission?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "You challenged me to shogi in an attempt to see whether or not I was hiding more than I let on.",
+      "choice_data_list": [
+        "You noticed what my plan was!?",
+        "You noticed what my plan was!?"
+      ]
+    },
+    {
+      "name": "No Reason",
+      "text": "Indeed. That story was merely a reward for your sharp wit. Well, not like it was sharp enough to see through me. You still have a ways to go～."
+    },
+    {
+      "name": "No Reason",
+      "text": "Anyways, this was quite the fun excursion."
+    },
+    {
+      "text": "—From beginning to end, I was dancing in the palm of her hands. Even after realizing it… I wasn't overcome with anger or disappointment—"
+    },
+    {
+      "text": "My curiosity was piqued. \nThat girl was no scoundrel— she was a tactician!"
+    }
+  ]
+}

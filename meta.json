@@ -1,0 +1,26 @@
+[
+    {
+        "name": "English (UmaTL)",
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json"
+    },
+    {
+        "name": "English (Hachimi)",
+        "index": "https://files.leadrdrk.com/hachimi/tl-en.json"
+    },
+    {
+        "name": "繁體中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json"
+    },
+    {
+        "name": "繁體中文（大陸加速鏡像）",
+        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json"
+    },
+    {
+        "name": "简体中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json"
+    },
+    {
+        "name": "简体中文（大陆加速镜像）",
+        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json"
+    }
+]
