@@ -1,0 +1,173 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Selection Race. It's known as the scene of \nmany a horsegirl and trainer pair's first meeting."
+        },
+        {
+            "text": "With said race drawing near, I made my way to the shrine \nwith the intent of asking the gods to let me meet a wonderful \npartner there as well…"
+        },
+        {
+            "name": "???",
+            "text": "<i>Huooooooooh!!!! </i>That glint on your suit's lapel! \nMost undeniably, it is a badge! Veritable proof of trainerhood!!"
+        },
+        {
+            "name": "???",
+            "text": "You must be the one foretold to me! My soul-bound trainer!!",
+            "choice_data_list": [
+                "Cultists!? Here!?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "<i>Huwawah!?</i> I can assure you I am no such entity! \nYou will find no dubious horsegirls present!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Excuse my late introduction, my name is Matikanefukukitaru!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Upon this ground I have stood, awaiting eagerly the arrival \nof my predestined one. I am so glad to meet you at last!",
+            "choice_data_list": [
+                "… Your <i>predestined on</i>e? What?",
+                "… Your <i>predestined one</i>? What?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I am talking about you, of course, Trainer!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Allow me to rewind the clock a few hours… Divine Shiraoki \nforetold, and I abided, relocating myself to this very location. \nIt was then that I drew a fortune slip."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Lightning ran through my body the very next moment! \nFor written on it were the words: \"You will meet your soulmate\"!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Who should subsequently appear but a trainer…! \nYou could be none other than my predestined one!",
+            "choice_data_list": [
+                "Sorry, you have the wrong person."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Aaaaah～!</i> Please hold a moment! \nI am certain it cannot be so!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Do you truly believe that a trainer appearing before a horsegirl \nawaiting someone is anything but the machinations of fate?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "In other words, our meeting was inevitable! \nDivine Shiraoki's guidance is never mistaken!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Let us go, Trainer! Let us chase fortune \nin the Twinkle Series together!"
+        },
+        {
+            "text": "I'm gonna get dragged into being her trainer \nif I don't speak my mind.",
+            "choice_data_list": [
+                "That would be irresponsible of me when \nI don't know anything about you.",
+                "That would be irresponsible of me when \nI don't know anything about you."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Rationality descendeth!? Your judgement is sage indeed."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Point taken! In that case, the perfect opportunity to show \nyou my merits has already presented itself!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The Selection Race will take place soon, so I will \nshow to you my true strength there!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I will have you pick me up for training! Juuust you be there!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "With that set, I must begin preparing for it immediately! \nFull speed… in the direction of fortuuune!"
+        },
+        {
+            "text": "Those were, for now, the last words I heard \nout of this Matikanefukukitaru girl's mouth \nbefore she darted off into the distance."
+        },
+        {
+            "text": "The day after, I came to check on the horsegirls \nbusily training for the Selection Race."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Suzuka! Let's put our backs into it!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Uhm… into what, exactly? \nYou dragged me out here without explanation…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today's <i>carrot reading</i> said running against a partner \nwould bring luck! Hence, I request your assistance!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Well, I guess that's fine……"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Wohooh～!</i> Thank you kindly～! I shall hand you a charm \nto let your chopsticks always split perfectly later!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Alrighty then, in accordance with the lucky number thirty-nine, \nlet us run thirty-nine laps on the turf course!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Ehh…!? </i>You do realize one lap is close to 2 km? \nThirty-nine laps would come down to more than 60 km…"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pay it no mind! A lucky number would never steer us wrong!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hey now…… A-Are we really…?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Gheeh… heeeh…</i> It… It was a bridge too far……"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Whahh… haah…</i> that's… what I told you…… \nLet alone when you take off at that speed……"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Regardless, we can always count on a lucky number! \nIt provided us a clear goal to put our efforts toward!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "But we only ran four laps……"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Well, let's move on to the next training destination! \nThe carrot reading decreed the pool to be our next best choice!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "We'll go down and back in breaststroke thirty-nine times, \njust like our lucky number would have it!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Please get that number out of your heeaaad…!"
+        },
+        {
+            "text": "Would Matikanefukukitaru be able to deliver \nin the Selection Race, now that she has had \nher… \"fateful meeting\"…?"
+        }
+    ]
+}
