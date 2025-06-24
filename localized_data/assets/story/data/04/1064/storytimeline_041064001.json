@@ -47,7 +47,7 @@
             "text": "But? I'll assume you didn't end up as her trainer. \nSo what happened? Tell me more."
         },
         {
-            "text": "Before I knew it, I found myself gradually being swept by the \nflow of the conversation… As I began to open up and share my \nthoughts, it felt like a weight had been lifted off my shoulders."
+            "text": "Before I knew it, I found myself opening up… \nAs I shared my thoughts, it felt like a weight \nhad been lifted off my shoulders."
         },
         {
             "name": "Jolly Horsegirl",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Experienced Trainer A",
-            "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nHer condition seems impeccable, too. Ah, the anticipation \nis overwhelming……"
+            "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nShe looks to be in impeccable condition, too…! \nAh, the anticipation is overwhelming……"
         },
         {
             "name": "Experienced Trainer B",
@@ -112,7 +112,7 @@
             ]
         },
         {
-            "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face, before the race got underway ——"
+            "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face. Then the race got underway ——"
         },
         {
             "text": "Mejiro Palmer immediately took the lead, looking to \nescape from the rest. Her graceful and flawless form \nwas obvious at a glance.",
@@ -131,7 +131,7 @@
             "name": "Mejiro Palmer",
             "text": "<i>……! Haa, haa, haah, haa…!</i>",
             "choice_data_list": [
-                "(Huh, Mejiro Palmer…!?)"
+                "(Huh, what's wrong…!?)"
             ]
         },
         {
@@ -166,11 +166,11 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… <i>Ahhahah</i>. Why was I getting so worked up about bringing \ndisgrace to the Mejiro name? Not a single person stepped up \nto even mention me."
+            "text": "…… <i>Ahhahah</i>. Why was I getting so worked up \nabout bringing disgrace to the Mejiro name? \nNo one's even mentioning me."
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ah, what a relief! Turns out that I didn't have \nto worry about that at all. If you're not worthy \nof attention… you can't disappoint anyone."
+            "text": "Ah, what a relief! Turns out that I didn't have \nto worry about all that. If you're not worthy of \nattention… you can't disappoint anyone either."
         },
         {
             "name": "Mejiro Palmer",
@@ -221,7 +221,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… Ah, thanks for letting me know!! \nI'll… try having a think about it."
+            "text": "…… Ah, thanks for letting me know!! \nI'll… try giving it some thought."
         }
     ]
 }
