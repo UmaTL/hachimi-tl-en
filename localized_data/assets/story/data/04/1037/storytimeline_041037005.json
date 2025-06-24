@@ -1,0 +1,153 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Eishin Flash",
+            "text": "—— I'll see you for the next training session at 15:00 then. \nThat's in 6 hours and 30 minutes.",
+            "choice_data_list": [
+                "Sure thing, good work.",
+                "Sure thing, good work."
+            ]
+        },
+        {
+            "text": "I just finished morning training with Eishin Flash and was \nwalking her to the academy for classes. On the way ——"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Hey, didya hear? Peeps are saying <i>Best Crêpes</i> \nis gonna be at the gates after classes end!"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "For real!? That's like SSR level! \nWe <i>have</i> to go!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Best Crêpes…?",
+            "choice_data_list": [
+                "What's that?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It's a crêperie without an established location, only selling \nthrough a roaming food stall. It has been a popular topic \namong us horsegirls for the past six months already."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Apparently the crêpes are too delicious \nfor words, and \"just one bite will have you \nhearing fate's symphony\"."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "The proprietor is really whimsical, there are no set opening \nhours, nor do they announce over things like social media. \nMany have dubbed it a phantom store."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "If those girls are right, then this same Best Crêpes will be \nsetting up at our academy after classes today…"
+        },
+        {
+            "text": "I haven't seen Eishin Flash be this talkative before. \nShe must be very interested in that crêpe stand.",
+            "choice_data_list": [
+                "Why don't you go too?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I can not. Training stretches from 15:00 to 20:00, and I have \nnot heard of Best Crêpes still being around that late.",
+            "choice_data_list": [
+                "We can shift our training times."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "……No, that's fine. A schedule set \nahead of time must be respected."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "That is the proper thing to do. \n…I will excuse myself here. Classes start in 14 minutes."
+        },
+        {
+            "text": "She always puts so much effort into maintaining her schedule. \nNonetheless, I got the impression she felt a little sad about \nmissing out as I watched her walk off."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "<i>Haah… haaah… \nPhew…</i>",
+            "choice_data_list": [
+                "Alright, that's it for today.",
+                "Alright, that's all for today."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Understood. Thank you for your time."
+        },
+        {
+            "text": "When our training after school ends, we usually have a light \nchat, reflecting back on the day. Just as I was about to talk \nto her, however ——"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I'll be going home early. Have a good evening."
+        },
+        {
+            "text": "She was gone in no time. I was reminded \nof how she had acted this morning.",
+            "choice_data_list": [
+                "(Could she be…?)"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "……",
+            "choice_data_list": [
+                "Hey."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…! Trainer."
+        },
+        {
+            "text": "I found her in front of the academy's gates, as I anticipated. \nThere was no sign of any vehicle or crowds, though…",
+            "choice_data_list": [
+                "Did you catch the crêpe stand?"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Judging by the posts on social media, it left somewhere \nbetween 1 hour to 1 hour and 45 minutes ago."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "……Best Crêpes has been here three times now, \nbut unfortunately none of those times have ever \nlined up with my schedule…"
+        },
+        {
+            "text": "It seems I underestimated her interest in this crêpe stand. \nBut since we can't predict when it will appear, one thing \nwe <i>can</i> do is ——",
+            "choice_data_list": [
+                "<size=36>Let's try to make your schedule more flexible.</size>"
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…I know you're suggesting this for my sake, \nbut I really can't do that."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It is not acceptable to change a perfected schedule \nfor a simple case of curiosity."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Following the structured nature of a schedule is what \nhelps me grow stronger. I… won't change that.",
+            "choice_data_list": [
+                "It's your choice."
+            ]
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "……Next time, I will try to pin down its opening hours \nbefore I create the schedule."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Well then, I will return to the dorms. I'm counting on \nyou again tomorrow, at 06:00. Good evening."
+        },
+        {
+            "text": "Her stern and disciplined side is one of her positive assets. \nNonetheless… this event left me feeling she didn't need to \nbe so hard on herself all the time."
+        }
+    ]
+}
