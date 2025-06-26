@@ -30,14 +30,14 @@
         },
         {
             "name": "Jolly Horsegirl",
-            "text": "Hm-hmm, that so～ Must be a work-related problem then? \nOr, could it be… that you witnessed some dark secrets \nof the academy that you can't disclose?!",
+            "text": "<i>Hm-hmm</i>, that so～? Must be a work-related problem then? \nOr could it be… that you witnessed some dark secrets of the \nacademy that you can't disclose?!",
             "choice_data_list": [
                 "No, it's work-related…"
             ]
         },
         {
             "name": "Jolly Horsegirl",
-            "text": "Ahahaa! I see, I see. So it <i>is</i> work-related～ \nBeing a trainer sounds like a tough job. \nAre you in charge of any horsegirls right now?",
+            "text": "Ahahaa! I see, I see. Work troubles, eh～? \nBeing a trainer sounds like a tough job. \nAre you training anyone right now?",
             "choice_data_list": [
                 "I-I did have a girl who caught my eye, but…"
             ]
@@ -47,7 +47,7 @@
             "text": "But? I'll assume you didn't end up as her trainer. \nSo what happened? Tell me more."
         },
         {
-            "text": "Before I knew it, I found myself gradually being swept by the \nflow of the conversation… As I began to open up and share my \nthoughts, it felt like a weight had been lifted off my shoulders."
+            "text": "Before I knew it, I found myself opening up… \nAs I shared my thoughts, it felt like a weight \nwas being lifted off my shoulders."
         },
         {
             "name": "Jolly Horsegirl",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Jolly Horsegirl",
-            "text": "Ahaha. And it's my carefully timed debut race to boot! \nCurious yet～? …Heh, I gotta self promote a lil', right? \nWell anyway, feel free to come and see me race!"
+            "text": "Ahaha. And it's my carefully timed debut race to boot! \nCurious yet～? …Heh, I gotta promote myself a lil', right? \nWell anyway, feel free to come and see me race!"
         },
         {
             "text": "Charmed by the horsegirl's playful aura and contagious \nlaughter, a question slipped from my mouth…",
@@ -77,13 +77,13 @@
         },
         {
             "name": "Experienced Trainer A",
-            "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nHer condition seems impeccable, too. Ah, the anticipation \nis overwhelming……"
+            "text": "Today's center of attention is undoubtedly Mejiro Ryan! \nShe looks to be in impeccable condition, too…! \n<i>Aagh</i>, the anticipation is killing me……"
         },
         {
             "name": "Experienced Trainer B",
             "text": "Huh? Is that another Mejiro horsegirl next to her? \nWhat was her name, again…? Mejiro something…",
             "choice_data_list": [
-                "(It's Mejiro Palmer…)"
+                "(It's <i>Mejiro Palmer</i>…)"
             ]
         },
         {
@@ -112,12 +112,12 @@
             ]
         },
         {
-            "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face, before the race got underway ——"
+            "text": "Her unwavering cheerful demeanor hid any trace of worry. \nNevertheless, I thought I caught a tense expression flashing \nacross her face. Then the race got underway ——"
         },
         {
             "text": "Mejiro Palmer immediately took the lead, looking to \nescape from the rest. Her graceful and flawless form \nwas obvious at a glance.",
             "choice_data_list": [
-                "<size=31>(I suppose her way of running befits her family's prestige.)</size>"
+                "(I suppose her way of running \nbefits her family's prestige.)"
             ]
         },
         {
@@ -131,7 +131,7 @@
             "name": "Mejiro Palmer",
             "text": "<i>……! Haa, haa, haah, haa…!</i>",
             "choice_data_list": [
-                "(Huh, Mejiro Palmer…!?)"
+                "(Huh, what's wrong…!?)"
             ]
         },
         {
@@ -146,7 +146,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "<i>Haa… Haa… </i>ahhhh, damn it! To think I finished last…!!"
+            "text": "<i>Haa… Haa… </i>ahhhh, damn it! Didn't think I'd finish last…!!"
         },
         {
             "name": "Mejiro Palmer",
@@ -154,7 +154,7 @@
         },
         {
             "name": "Experienced Trainer A",
-            "text": "Of course it'd be you who would win! Goes to show that \nthe Mejiro name is not just for show! So getting right into it, \ncan we talk for a moment?"
+            "text": "We had no doubts about the winner! Goes to show that \nthe Mejiro name is not just for show! So, getting right \ninto it, can we talk for a moment?"
         },
         {
             "name": "Experienced Trainer B",
@@ -166,11 +166,11 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… <i>Ahhahah</i>. Why was I getting so worked up about bringing \ndisgrace to the Mejiro name? Not a single person stepped up \nto even mention me."
+            "text": "…… <i>Ahhahah</i>. Why was I getting so worked up \nabout bringing disgrace to the Mejiro name? \nNo one's even bothering with me."
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ah, what a relief! Turns out that I didn't have \nto worry about that at all. If you're not worthy \nof attention… you can't disappoint anyone."
+            "text": "Ah, what a relief! Turns out that I didn't have \nto worry about all that. If you're not worthy of \nattention… you can't disappoint anyone either."
         },
         {
             "name": "Mejiro Palmer",
@@ -209,7 +209,7 @@
             "text": "After observing the race, a realization dawned on me. \nPerhaps she is affected by the pressure stemming from \nhaving to live up to the esteemed Mejiro name."
         },
         {
-            "text": "I feel like, as a result of that pressure, her running stiffens up. \nWhile it is a good thing to be faithful to the fundamentals, \nevery so often, exceptions arise…",
+            "text": "I felt like, as a result of that pressure, her running stiffens up. \nWhile it is a good thing to be faithful to the fundamentals, \nevery so often, exceptions arise…",
             "choice_data_list": [
                 "<size=32>There might be a way of running that suits you better…</size>",
                 "<size=32>There might be a way of running that suits you better…</size>"
@@ -221,7 +221,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… Ah, thanks for letting me know!! \nI'll… try having a think about it."
+            "text": "…… Ah, thanks for letting me know!! \nI'll… try giving it some thought."
         }
     ]
 }
