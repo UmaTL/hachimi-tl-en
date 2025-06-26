@@ -42,7 +42,7 @@
             "text": "It was my fault for letting it slip. I should be \nthe one showing concern. I want Mejiro Palmer \nto feel unrestrained and at ease."
         },
         {
-            "text": "…… If I remember correctly, wasn't there a festival tonight? \nMaybe it'd be a good opportunity to invite Mejiro Palmer."
+            "text": "…… If I remember correctly, wasn't there a festival tonight? \nMaybe it'd be a good opportunity to invite her."
         },
         {
             "name": "Mejiro Palmer",
@@ -52,7 +52,7 @@
             "name": "Mejiro Palmer",
             "text": "Hey, Trainer, anything you feel like eating? \nOr do you want to check out the games first? \nI'm down for anyth—",
             "choice_data_list": [
-                "What do you want to do?"
+                "What do <i>you</i> want to do?"
             ]
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Eh, ah… um? Eeehh? \nBut, I don't really, uhh…",
+            "text": "<i>Eh</i>, <i>ah</i>… um? Eeehh? \nBut, I don't really, uhh…",
             "choice_data_list": [
                 "…… If you don't want to, we don't have to."
             ]
@@ -79,7 +79,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… Sorry. I missed… every shot. That's so weird… \nwhy did they go off in the wrong direction? …Hm?"
+            "text": "…… Sorry. I missed… every shot. That's so weird… \nwhy did they go off in the wrong direction? <i>…Hm?</i>"
         },
         {
             "name": "Mejiro Palmer",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Really? I can choose something? Then… how about \nthe rigged looking one way at the top. Wait, no, no, no! \nYou should pick something you like, Trainer!"
+            "text": "Really? I can choose something? Then… how about \nthe rigged looking one way at the top. Wait, no, no, no! \nYou should pick something <i>you</i> like, Trainer!"
         },
         {
             "name": "Mejiro Palmer",
@@ -105,14 +105,14 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ehh!? But this is the most important part?! \nNo… I'm up for the challenge. I won't let you down!",
+            "text": "<i>Ehh!?</i> But this is the most important part?! \nNo… I'm up for the challenge. I won't let you down!",
             "choice_data_list": [
                 "Okay, take this… <i>ahh</i>."
             ]
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ah?! It broke!!"
+            "text": "<i>Ah?!</i> It broke!!"
         },
         {
             "name": "Mejiro Palmer",
@@ -120,7 +120,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Don't sweat it, we'll get it next time! Hey, there's a water balloon \nfishing game over there! Let's have a go at it together!"
+            "text": "Don't sweat it, we'll get it next time! Hey, there's a water balloon \nfishing game over there! Let's have a go at that together!"
         },
         {
             "name": "Mejiro Palmer",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "… Eh? That… Wait, hang on."
+            "text": "… <i>Eh?</i> That… Wait, hang on."
         },
         {
             "name": "Mejiro Palmer",
@@ -207,11 +207,11 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "(Y-You're happy to support me, as a trainer… \nis what that means, right…?!)"
+            "text": "(Y-You're happy to support <i>me</i>, as a trainer… \nis what that means, right…?!)"
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ahhh… aahhhh…!",
+            "text": "<i>Ahhh… aahhhh…!</i>",
             "choice_data_list": [
                 "<size=34>Palmer!? Did you eat too much?! Have a fever?!</size>"
             ]
@@ -244,7 +244,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ahhhhhhhhhhhhh……!",
+            "text": "<i>Ahhhhhhhhhhhhh……!</i>",
             "choice_data_list": [
                 "Palmer!!!??"
             ]

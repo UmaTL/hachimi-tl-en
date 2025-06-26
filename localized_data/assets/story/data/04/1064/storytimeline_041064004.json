@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "\"I need to talk to you\". The words which she nervously spilled \nwere followed by a prolonged silence, before she continued \nto disclose her inner thoughts ——"
+            "text": "\"I need to talk to you\". These words she nervously uttered \nwere followed by a prolonged silence before she continued \nto disclose her inner thoughts ——"
         },
         {
             "name": "Mejiro Palmer",
@@ -29,7 +29,7 @@
             "text": "Indeed, that might be a bit too much —— \nFor a Mejiro horsegirl, I may be stepping over a line."
         },
         {
-            "text": "After mustering up the resolve, I directed an inquiry \nto the ever-serious Mejiro Palmer who was quietly \nletting her feelings out.",
+            "text": "After mustering up the resolve, I directed an inquiry \nto the ever-serious Mejiro Palmer, who was quietly \nletting her feelings out.",
             "choice_data_list": [
                 "<size=31>Your dream was to etch your name in history, wasn't it?</size>",
                 "<size=31>Your dream was to etch your name in history, wasn't it?</size>"
@@ -63,14 +63,14 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "…… Yeah. Trainer!! Starting from today, could you put together \na menu that highly specializes in running away from the pack? \nAnd also…… please set up a mock race, too!",
+            "text": "…… Yeah. Trainer!! Could you put me on training that fully \nspecializes in running away from the pack from now on? \nAnd also…… please set up a mock race, too!",
             "choice_data_list": [
                 "Leave it to me!",
                 "Leave it to me!"
             ]
         },
         {
-            "text": "Thus began my new training with Mejiro Palmer, focusing solely \non honing her ability to outrun the pack."
+            "text": "Thus began my new training with Mejiro Palmer, focusing solely \non honing her ability to outrun the rest."
         },
         {
             "name": "Mejiro Palmer",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Daitaku Helios",
-            "text": "<i>Raise the roof! Run like fireworks!! Have the most fun!!!</i>"
+            "text": "<i>Raise the roof! Run like fireworks!! Being first is a blast!!</i>"
         },
         {
             "name": "Mejiro Palmer",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "—— <i>Haaa—! Haaah—! Haaa～～～～!</i> \nOh damn, my breath… seriously, I can't… no more!!",
+            "text": "—— <i>Haaa—! Haaah! Haaa～～～～!</i> \nOh damn, my breath… seriously, I can't… no more!!",
             "choice_data_list": [
                 "<size=38>A-Are you okay?! But, your running just now…!</size>",
                 "<size=38>A-Are you okay?! But, your running just now…!</size>"
@@ -115,7 +115,7 @@
             "text": "That was <i>soooo</i> hype……!!"
         },
         {
-            "text": "And then it was time for the mock race ——"
+            "text": "And then came the mock race ——"
         },
         {
             "name": "Daitaku Helios",
@@ -154,7 +154,7 @@
             "text": "McQueen… ! Yeah, that's a good idea. \n… I was thinking the same thing!"
         },
         {
-            "text": "(—— Clang!!)"
+            "text": "(—— <i>Clang!!</i>)"
         },
         {
             "name": "Mejiro Palmer",
@@ -162,11 +162,11 @@
         },
         {
             "name": "Participant Horsegirl A",
-            "text": "E-Eh?! Wait, what…? She's so fast…?!"
+            "text": "<i>E-Eh</i>?! Wait, what…? She's so fast…?!"
         },
         {
             "name": "Participant Horsegirl B",
-            "text": "Ehh, isn't she going way too fast?! \nWe literally just started…!!"
+            "text": "<i>Woahh</i>, isn't she going way too fast?! \nWe literally just started…!!"
         },
         {
             "name": "Mejiro Palmer",
@@ -209,7 +209,7 @@
         },
         {
             "name": "Daitaku Helios",
-            "text": "PAAAALMEEERRRRR!! You smashed it hard!! \nThat was absolute fire, no cap, legit sick display……!!"
+            "text": "PAAAALMEEERRRRR!! You smashed it hard!! \nThat was solid next level, mad sick display, for reals……!!"
         },
         {
             "name": "Daitaku Helios",
