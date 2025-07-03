@@ -12,16 +12,23 @@ Support UmaTL's own translations & other work through [![Patreon](https://img.sh
 > For the old UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
 
 1. Download and install [Hachimi].
-1. Download [our config](../../releases/tag/config) and put it in the hachimi folder (details in link).
+1. Download [the UmaTL config](../../releases/tag/config) and put it in the hachimi folder (details in link).
 1. Run the game and download the update.
     - If no update is offered, open the Hachimi menu (default: `right arrow` key) and re-run the `first time setup`.
 
 # Updating
 Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
 
+# Philosophy
+UmaTL tries to maintain natural, accurate, and complete translations for even less common parts of the game. It is less concerned with long-term and historical community usage. While long-term stability is still an ideal goal, UmaTL will not shy away from changing existing or even established terms to improve its translations. This is also why UmaTL uses many of its own translations. Official terms might be picked up if they contribute to this philosophy.
+For game usage, UmaTL includes a modified version of the original font, with edits for English usage, formatting, and optimization of the limited space.
+
 # Translation sources
-Translations are sourced from various members & projects of the fan community, including UmaTL itself.
+UmaTL does many of its own translations and is an original source. The remaining translations are sourced from various members & projects of the fan community.
 Check [in-depth credits on the wiki](../../wiki/Translation-Progress) and support the contributors if you can!
+
+UmaTL is the original full game translation project, lending its translations to many other projects over the years. 
+This includes Hachimi: its default translations are mostly imported from older UmaTL material. 
 
 # Contributing translations
 Use the [UmaTL] tools and contribute them there (I will take care of transferring them), or use [Carotene] or [ZokuZoku] and contribute the Hachimi format files here as a PR. Join our Discord or open an Issue for further discussion or help.
