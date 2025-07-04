@@ -13,13 +13,14 @@ async function fillOutfitCombos(dict) {
     const tlOutfits = dict.get("5");
     const tlCharas = dict.get("6");
     if (!tlOutfits || !tlCharas) {
-        console.warn("Text data categories 5 and 6 don't exist");
+        console.warn("Text data categories 5 or 6 don't exist");
         return;
     }
 
     let count = 0;
     for (const id in outfitCombos) {
-        if (tlOutfitCombos.get(id)) continue;
+        // Outfit combos are safe, process all to reflect updates.
+        // if (tlOutfitCombos.get(id)) continue;
 
         const outfitId = id.slice(-6);
         const charaId = id.slice(-6, -2);
@@ -57,29 +58,31 @@ async function fillSupportCombos(dict) {
     }
     const tlSupports = dict.get("76");
     const tlCharas = dict.get("77");
-    if (!tlSupports || !tlCharas) {
-        console.warn("Text data categories 76 and 77 don't exist");
+    const tlSupportsUnique = dict.get("150");
+    if (!tlSupports || !tlCharas || !tlSupportsUnique) {
+        console.warn("Text data categories 76, 77, or 150 don't exist");
         return;
     }
 
     let count = 0;
     for (const id in supportCombos) {
-        if (tlSupportCombos.get(id)) continue;
+        // Support combos are safe, process all to reflect updates.
+        // if (tlSupportCombos.get(id)) continue;
 
-        const support = tlSupports.get(id);
         const chara = tlCharas.get(id);
-
-        if (!support) {
-            console.warn(`Support ${id} not found`);
-            continue;
-        }
+        const unique = tlSupportsUnique.get(id);
 
         if (!chara) {
             console.warn(`Character ${id} not found`);
             continue;
         }
+        if (!unique) {
+            console.warn(`Unique ${unique} not found`);
+            continue;
+        }
 
-        tlSupportCombos.set(id, `${support.value} ${chara.value}`);
+        tlSupports.set(id, `[${tlSupportsUnique.value}]`);
+        tlSupportCombos.set(id, `[${tlSupportsUnique.value}] ${chara.value}`);
         ++count;
     }
     return count;
@@ -105,7 +108,8 @@ async function fillPieces(dict) {
 
     let count = 0;
     for (const id in pieces) {
-        if (tlPieces.get(id)) continue;
+        // Safe
+        // if (tlPieces.get(id)) continue;
 
         const charaId = id.slice(0, 4);
         const chara = tlCharas.get(charaId);
@@ -117,7 +121,7 @@ async function fillPieces(dict) {
             continue;
         }
 
-        tlPieces.set(id, `${chara.value} Piece`);
+        tlPieces.set(id, `${chara.value}'s Piece`);
         ++count;
     }
     return count;
@@ -158,7 +162,7 @@ async function fillBirthdays(dict) {
         }
 
         if (trailing) {
-            zk.showWarning(`Birthday ${id} has trailing text`);
+            zk.showWarning(`Birthday ${id} has trailing text: ${trailing}`);
         }
 
         tlBirthdays.set(id, `${months[monthIndex]} ${day}`);
