@@ -1295,18 +1295,18 @@
     },
     {
       "path": "assets/lyrics/m1029_lyrics.json",
-      "hash": "29000eb23092375316c99f09afff75f8d36c2bc32d08ee837699646754fcb349",
-      "size": 2626
+      "hash": "cf839967933ce708c8df6637e7717334bdc5e3842292e7e805d59dacf4273a8c",
+      "size": 2611
     },
     {
       "path": "assets/lyrics/m1030_lyrics.json",
-      "hash": "1815f4b487deabac2d43beacfcabd4d3944d360fb1aa00578b4f87721bfb06df",
-      "size": 1259
+      "hash": "d33d61df07317b08c7d676761e54acfe2ce9a622f2cf07f622f7e90f0f5ecf71",
+      "size": 1258
     },
     {
       "path": "assets/lyrics/m1031_lyrics.json",
-      "hash": "a03d39078a7ec9fb98ed433b7186de2c6ab43db1cadf1781960e902ba2a290ae",
-      "size": 1251
+      "hash": "e65738dba3f90352ef21247da6241b6f12a17df903cee60b4a8f075913039bb3",
+      "size": 1247
     },
     {
       "path": "assets/lyrics/m1032_lyrics.json",
@@ -1325,8 +1325,8 @@
     },
     {
       "path": "assets/lyrics/m1036_lyrics.json",
-      "hash": "0828486f87cbe5c0d7099fe4defc8258ba38f5a3ef9ea7d475a4c9a550512755",
-      "size": 1469
+      "hash": "3f6b826f1fcd167ba329480edd5b5d016ebba9210193890eeef2cee1d9f2a0fd",
+      "size": 1463
     },
     {
       "path": "assets/lyrics/m1037_lyrics.json",
@@ -1370,8 +1370,8 @@
     },
     {
       "path": "assets/lyrics/m1081_lyrics.json",
-      "hash": "683220630bf52e6a9f43f0dc3ecea3004c2d3f04052e30efbef12881ef054c76",
-      "size": 1463
+      "hash": "69ae2e470134391f665fbdd4559e26b7352be2beea57840151d441d1984f9c2b",
+      "size": 1458
     },
     {
       "path": "assets/lyrics/m1082_lyrics.json",
@@ -1380,8 +1380,8 @@
     },
     {
       "path": "assets/lyrics/m1083_lyrics.json",
-      "hash": "e1bd33f5ba96c7f8dfa2801d1b6e8a95b14cd15ae2184e9dfc94096c8046eb82",
-      "size": 3812
+      "hash": "1b8d4c89bc5780e655d103254079f6766c056c26328223fb168460fcac18fc3b",
+      "size": 3775
     },
     {
       "path": "assets/lyrics/m1088_lyrics.json",
@@ -1412,6 +1412,11 @@
       "path": "assets/lyrics/m1152_lyrics.json",
       "hash": "66b98881e5ea5b6d66e2e6b66ff49e260c1fb5c61ed75464963968c6527a4f9d",
       "size": 2260
+    },
+    {
+      "path": "assets/lyrics/m1154_lyrics.json",
+      "hash": "e7c3b11aaba240d84489f4ae892ca47805b462968e6cd0988ea070317c925ba0",
+      "size": 2079
     },
     {
       "path": "assets/lyrics/m9051_lyrics.json",
@@ -10420,8 +10425,8 @@
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "15e5b8a922586f17c80b7513b832485f26976a39f88a154d16fe2dadd2b109ca",
-      "size": 24322
+      "hash": "397996a8698112c8828f667c6c3516cde02323f420574a351afe4438ef8d43d4",
+      "size": 24033
     },
     {
       "path": "race_jikkyo_message_dict.json",
@@ -10430,8 +10435,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "a50b5ca08c51eb71af5d612c0ecc403c8b5c7525056b123821a86b8def9d3848",
-      "size": 2721579
+      "hash": "57f4546055de5f86c2f4bb75a8e235b6579f2aa4c34de9922b4ebe94cdc0fb70",
+      "size": 2716148
     }
   ]
 }
