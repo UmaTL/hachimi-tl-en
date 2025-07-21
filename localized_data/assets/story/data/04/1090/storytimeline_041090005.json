@@ -1,0 +1,155 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Math Teacher",
+            "text": "Okay. Then, let's try to solve this \nproblem using the Pythagorean theorem."
+        },
+        {
+            "name": "Math Teacher",
+            "text": "Find the height and volume of this square pyramid. \n……Who wants to solve this～?"
+        },
+        {
+            "name": "Students",
+            "text": "(…………)"
+        },
+        {
+            "name": "Math Teacher",
+            "text": "Hmmmm～. Looks like there're no volunteers. \nThen……Verxina-san, could I ask you to do it?"
+        },
+        {
+            "name": "Verxina",
+            "text": "Yes. I understand."
+        },
+        {
+            "name": "Verxina",
+            "text": "We'll call the intersection of this perpendicular line with the \nbase, M――And if we find the length of AM――Then the answer is――"
+        },
+        {
+            "name": "Math Teacher",
+            "text": "Correct! As splendid as always, Verxina-san!"
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufu, no. It's because sensei explained \nit in a very simple to understand manner."
+        },
+        {
+            "name": "Students",
+            "text": "『Uwoooh-……!』 『As expected～……!』 『Ooooh～……』"
+        },
+        {
+            "name": "Troubled Student",
+            "text": "Hmmmm～……I just can't seem to step-in correctly here――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh. Are you having a little trouble?"
+        },
+        {
+            "name": "Troubled Student",
+            "text": "!? V-Verxina-senpai!? \nNo, well……this step, I just can't get it right――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Oh, a Ball Change……that is kind of hard, huh――but rather \nthan thinking about it, it's better to go with the rhythm."
+        },
+        {
+            "name": "Verxina",
+            "text": "――Let's try it together. \nLet's start slow. Why don't you try matching me?"
+        },
+        {
+            "name": "Troubled Student",
+            "text": "Huh!? Together with Verxina-senpai……!? \nThat's too much for me――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufuu, it'll be fine. You don't need to be so tense―― \nIt's an opportunity so let's try to master it today."
+        },
+        {
+            "name": "Verxina",
+            "text": "Fuu……with this, Barbell Squats are finished."
+        },
+        {
+            "name": "Students Observing",
+            "text": "『Ooooh～……As expected of Verxina-san……』 \n『3 sets of over 300 just like that――』"
+        },
+        {
+            "name": "Verxina",
+            "text": "Alright. Next, let's move on to Bench Press."
+        },
+        {
+            "name": "Assertive Student",
+            "text": "Ah! Let me be your spotter!"
+        },
+        {
+            "name": "Hesitant Student",
+            "text": "Hey!? That's not fair! Me too――"
+        },
+        {
+            "name": "Verxina",
+            "text": "Now, now, don't fight. Let's see―― \nThen, you can help with the next training exercise――",
+            "choice_data_list": [
+                "(……She's super popular)",
+                "(……She's super popular)"
+            ]
+        },
+        {
+            "text": "――Even during training, there were a fair share of admirers \nthat would sneak peeks at her. She really was a model student――"
+        },
+        {
+            "name": "Verxina",
+            "text": "……Fuu."
+        },
+        {
+            "name": "Verxina",
+            "text": "I'm sorry, Trainer-san. Even though today's menu is \nfinished, asking you to record a video of my running.",
+            "choice_data_list": [
+                "It's fine!"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "I really just want to confirm my form each day―― \nOnce I get back to the dorms, I'll review it closely."
+        },
+        {
+            "text": "Whether it was academics or running, she was \nalways working hard behind the scenes. She even \nstudied in her free time in the trainers' office."
+        },
+        {
+            "text": "All of it was to reach the 『Peak』――to be the one that \nher sisters looked up to. She truly was outstanding――",
+            "choice_data_list": [
+                "…………"
+            ]
+        },
+        {
+            "text": "……Since Verxina was like that, \nshould I really stay the way I am?",
+            "choice_data_list": [
+                "(Hmmm……me too, I need to――)"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "――Trainer-san. Excuse me.",
+            "choice_data_list": [
+                "Ah……w-what's up?"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "There's still some time until training starts, \nso I was thinking of having some tea."
+        },
+        {
+            "name": "Verxina",
+            "text": "If you'd like, how about joining me?",
+            "choice_data_list": [
+                "Yeah……okay"
+            ]
+        },
+        {
+            "name": "Verxina",
+            "text": "Fufuu, then I'll make the tea. \nTrainer-san, can I leave the snacks to go with the tea to you?"
+        },
+        {
+            "text": "Did she notice that I was worried about something?―― \nI really do……need to improve myself to be able to help Verxina."
+        }
+    ]
+}
