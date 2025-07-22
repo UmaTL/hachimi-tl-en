@@ -6483,6 +6483,8 @@
         "904203": "Junior Debut Race",
         "904204": "Junior Debut Race",
         "904205": "Junior Debut Race",
+        "904206": "Junior Debut Race",
+        "904207": "Junior Debut Race",
         "910001": "URA Finals Qualifier",
         "910002": "URA Finals Qualifier",
         "910003": "URA Finals Qualifier",
@@ -8734,6 +8736,8 @@
         "904203": "Junior Debut Race",
         "904204": "Junior Debut Race",
         "904205": "Junior Debut Race",
+        "904206": "Junior Debut Race",
+        "904207": "Junior Debut Race",
         "910001": "URA Finals Qualifier",
         "910002": "URA Finals Qualifier",
         "910003": "URA Finals Qualifier",
@@ -18000,6 +18004,7 @@
         "508105": "Cooking Boom Pioneer",
         "508106": "Cooking Friends",
         "511101": "Welcome to the Wilds",
+        "511103": "Tracen Island Planner",
         "700000": "Horsegirl's Tale",
         "701001": "Special Week's Tale",
         "701002": "Silence Suzuka's Tale",
@@ -19000,6 +19005,7 @@
         "508104": "Harvest 150000 produce in total",
         "508105": "Finish every Tasting Party and the festival with the highest rating",
         "508106": "Cook a total of 100 dishes",
+        "511102": "Get an enthusiastic reception at every Evaluation Meeting.",
         "700000": "Leave an undeniable mark on the League of Heroes",
         "701001": "Leave Special Week's undeniable \nmark on the League of Heroes",
         "701002": "Leave Silence Suzuka's undeniable \nmark on the League of Heroes",
@@ -21941,6 +21947,7 @@
         "600439": "Reach a total Research Lv of 50000.",
         "600440": "Activate Overdrive a total of 400 times.",
         "600441": "Finish all Upgrade Exams with an S rating.",
+        "600447": "Get an enthusiastic reception at every Evaluation Meeting.",
         "600501": "Win 200 races at Sapporo Racecourse",
         "600502": "Win 200 races at Hakodate Racecourse",
         "600503": "Win 200 races at Niigata Racecourse",
@@ -23988,6 +23995,10 @@
         "1002207": "Reach a cumulative score of 7000000 in Team Stadium matches.",
         "1002208": "Reach a cumulative score of 10000000 in Team Stadium matches.",
         "1002209": "Clear all event missions.",
+        "1002319": "Get an enthusiastic reception at the first Evaluation Meeting in the Island scenario.",
+        "1002320": "Get an enthusiastic reception at the second Evaluation Meeting in the Island scenario.",
+        "1002321": "Get an enthusiastic reception at the third Evaluation Meeting in the Island scenario.",
+        "1002322": "Get an enthusiastic reception at the fourth Evaluation Meeting in the Island scenario.",
         "2000001": "[Daily] Complete training 1 time",
         "2000002": "[Daily] Win a race in training mode",
         "2000003": "[Daily] Participate in the Team Stadium once",
@@ -33985,6 +33996,14 @@
         "30": "Skill Point Bonus",
         "31": "Wit Training Recovery Up"
     },
+    "152": {
+        "29": "Hikari (NPC)",
+        "63": "Hikari (NPC)",
+        "97": "Hikari (NPC)",
+        "131": "Hikari (NPC)",
+        "165": "Hikari (NPC)",
+        "199": "Hikari (NPC)"
+    },
     "154": {
         "1": "Increases stats gained from friendship training",
         "2": "Increases motivation stat bonus when training together",
@@ -35608,6 +35627,7 @@
     "171": {
         "12": "Login Bonus",
         "13": "Login Bonus",
+        "19006": "After every Champions Meet round",
         "23000": "Nationwide Events Begin",
         "23001": "Nationwide Events Concluded"
     },
@@ -42082,18 +42102,20 @@
         "1001": "Top Umadol \nProject"
     },
     "252": {
-        "1025": "◆ [Main Story] Watch Volume 1, Chapter 1, Ep. 14",
-        "1026": "◆ [Main Story] Watch Volume 1, Chapter 2, Ep. 13",
-        "1029": "◆ [Training] Hold a special Grand Live",
-        "1030": "◆ [Main Story] Watch Volume 1, Chapter 3, Ep. 13",
-        "1031": "◆ [Main Story] Watch Volume 1, Chapter 4, Ep. 13",
-        "1036": "◆ [Training] Hold a Grand Live",
-        "1037": "◆ [Main Story] Watch Volume 1, Chapter 5, Ep. 13",
-        "1048": "◆ [Training] Win the TS Climax",
-        "1051": "◆ [Main Story] Watch Volume 1, Finale: Conclusion, Ep. 21",
-        "1088": "◆ [Training] Be proclaimed overall victor \nin the U.A.F. Showdown",
-        "1092": "◆ [Training] Feast at The Great Food Festival",
-        "1155": "◆ [Main Story] Watch Volume 2, Concluding Act, Ep. 12"
+        "1025": "◆ [Main Story] Watch Volume 1, Chapter 1, Ep. 14.",
+        "1026": "◆ [Main Story] Watch Volume 1, Chapter 2, Ep. 13.",
+        "1029": "◆ [Training] Hold a special Grand Live.",
+        "1030": "◆ [Main Story] Watch Volume 1, Chapter 3, Ep. 13.",
+        "1031": "◆ [Main Story] Watch Volume 1, Chapter 4, Ep. 13.",
+        "1036": "◆ [Training] Hold a Grand Live.",
+        "1037": "◆ [Main Story] Watch Volume 1, Chapter 5, Ep. 13.",
+        "1048": "◆ [Training] Win the TS Climax.",
+        "1051": "◆ [Main Story] Watch Volume 1, Finale: Conclusion, Ep. 21.",
+        "1088": "◆ [Training] Be proclaimed overall victor \nin the U.A.F. Showdown.",
+        "1092": "◆ [Training] Feast at The Great Food Festival.",
+        "1094": "Watch either of the following events in the Mecha Horsegirl scenario:\n◆ Presentation: WIP\n◆ Presentation: Ideal",
+        "1154": "◆ [Career] Complete the Island scenario.",
+        "1155": "◆ [Main Story] Watch Volume 2, Concluding Act, Ep. 12."
     },
     "253": {
         "1001": "Please listen to Falko's thank you message \nafter the birthday live!"
@@ -42239,6 +42261,9 @@
         "501121900": "Intro",
         "501124900": "Intro",
         "830017003": "This Is My 'Umadol' Way ☆"
+    },
+    "264": {
+        "29": "Hikari (NPC)"
     },
     "268": {
         "1": "Eatery",
@@ -43078,6 +43103,9 @@
         "20640327": "Our target is Satono Diamond!",
         "20640328": "Our target is Tap Dance City!",
         "20640329": "Our target is Orfevre!"
+    },
+    "278": {
+        "29": "Hikari (NPC)"
     },
     "279": {
         "1001": "Schedule \n12/12 12:00 ～ 12/26 4:59"
