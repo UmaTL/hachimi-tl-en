@@ -1,0 +1,56 @@
+{
+    "windows": {
+        "bundle_name": "GWFMVCOHTWM2XSGR2PSNGPD6GYZUJGNN"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "left"
+                    }
+                }
+            },
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Turns",
+                        "scale": {
+                            "x": 0.9,
+                            "y": 0.9,
+                            "z": 1.0
+                        }
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "End"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Eval Meeting\nafter turn end"
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "turn(s)"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Eval Meeting in"
+                    }
+                }
+            }
+        }
+    }
+}
