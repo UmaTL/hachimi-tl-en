@@ -1,0 +1,26 @@
+{
+    "windows": {
+        "bundle_name": "424BGVKWPUTFAN6L4NBQN6HPX5EK56ZO"
+    },
+    "data": {
+        "motion_parameter_list": {
+            "25": {
+                "text_param_list": {
+                    "0": {
+                        "text": "Island\nTraining",
+                        "scale": {
+                            "x": 0.8,
+                            "y": 0.8,
+                            "z": 1.0
+                        },
+                        "position_offset": {
+                            "x": 0.0,
+                            "y": 40,
+                            "z": 0.0
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
