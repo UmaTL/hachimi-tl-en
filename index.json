@@ -10369,6 +10369,26 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
+      "hash": "c1a71f1443c90017e5449754d23c4a571b335eb15753a39a6ceca857fa3caef3",
+      "size": 332
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
+      "hash": "112e75f9d58d7ea9f13c8f66fab2fd3d1d787df5a3bbba4e18e0b308d73fa3db",
+      "size": 698
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
+      "hash": "11feb8a5d124e9efd60f4a772ab325c01002843599b09d103cbdb4cbab80ab96",
+      "size": 1428
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_island_complete01.json",
+      "hash": "8923231aec8c34d159f840bd1a4693a6ab2ce8f5ce66699190773c98f6cdabc3",
+      "size": 372
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/sport/pf_fl_singlemode_sport_btn_trainingmenu00.json",
       "hash": "de52f583c05a771da2745fe2b16c86e66ff563f561fc3f37b6ebe399ea32d6b3",
       "size": 166
@@ -10445,8 +10465,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "c5da5d3c5fe56a96e627ccee10202a1f5daa39f3d4ceca2e9c3c30bca8cc64a5",
-      "size": 7436
+      "hash": "41b703643a61b475c63c0cbd615444e68956d634a855c83160d980635436dc89",
+      "size": 7479
     },
     {
       "path": "includes",
@@ -10455,8 +10475,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "f3b8df7ad85007c156a4d0e6e0236e177eb5be23b34cd472c47f7e68abf22258",
-      "size": 245788
+      "hash": "966201e5c9d63708b6f73d57f997fc9764cfd2e3a04cfc4bcb77d212087bb0ec",
+      "size": 247145
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -10470,8 +10490,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "da74568833708cb578e200aea1a32ecbe5ba8afa3fa4818e2bab8e2b69510b5e",
-      "size": 2745540
+      "hash": "8e09f68eaba3e44c3c93ee13cebe46c10189190264fc5a70ed942acf8d7e6537",
+      "size": 2750166
     }
   ]
 }
