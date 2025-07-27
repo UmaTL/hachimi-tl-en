@@ -1,15 +1,17 @@
 # Umamusume English Translations
 [![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/xBMgwh6hHY)
 
-English fan community translation repository for the Umamusume: Pretty Derby game.
+English fan translation repository for the Umamusume: Pretty Derby game.
 This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
 
-Support UmaTL's own translations & other work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Translations provided by [these sources](#translation-sources).  
+Please support my (UmaTL's) own translations & other work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+
 
 # Install / Use
 > [!IMPORTANT]
-> Uninstall any current translation patches you still have.
-> For the old UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
+> Uninstall any outdated translation patches you still have (Legacy UmaTL, Carotene).
+> For the Legacy UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
 
 1. Download and install [Hachimi].
 1. Download [the UmaTL config](../../releases/tag/config) and put it in the hachimi folder (details in link).
