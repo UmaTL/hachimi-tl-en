@@ -2,7 +2,7 @@
   "debug_mode": false,
   "translator_mode": false,
   "disable_gui": false,
-  "localized_data_dir": "localized_data",
+  "localized_data_dir": null,
   "target_fps": null,
   "open_browser_url": "https://www.google.com/",
   "virtual_res_mult": 1.0,
@@ -12,8 +12,8 @@
   "disable_translations": false,
   "ui_scale": 1.0,
   "graphics_quality": "Default",
-  "story_choice_auto_select_delay": 1.2,
-  "story_tcps_multiplier": 3.0,
+  "story_choice_auto_select_delay": 0.75,
+  "story_tcps_multiplier": 1.0,
   "enable_ipc": false,
   "ipc_listen_all": false,
   "force_allow_dynamic_camera": false,
@@ -24,17 +24,6 @@
   "language": "en",
   "meta_index_url": "https://raw.githubusercontent.com/UmaTL/hachimi-meta/main/meta.json",
   "physics_update_mode": null,
-  "vsync_count": -1,
-  "load_libraries": [],
-  "menu_open_key": 39,
-  "auto_full_screen": false,
-  "full_screen_mode": "ExclusiveFullScreen",
-  "full_screen_res": {
-    "width": 0,
-    "height": 0,
-    "refresh_rate": 0
-  },
-  "resolution_scaling": "Default",
-  "block_minimize_in_full_screen": false,
-  "window_always_on_top": false
+  "menu_open_key": 22,
+  "hook_libc_dlopen": true
 }
