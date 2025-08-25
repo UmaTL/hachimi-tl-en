@@ -5,7 +5,7 @@ English fan translation repository for the Umamusume: Pretty Derby game.
 This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
 
 Translations provided by [these sources](#translation-sources).  
-Please support my (UmaTL's) own translations & other work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Please support my (UmaTL's) own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
 
 
 # Install / Use
@@ -17,6 +17,16 @@ Please support my (UmaTL's) own translations & other work through [![Patreon](ht
 1. Download [the UmaTL config](../../releases/tag/config) and put it in the hachimi folder (details in link).
 1. Run the game and download the update.
     - If no update is offered, open the Hachimi menu (default: `right arrow` key) and re-run the `first time setup`.
+
+# Versions
+In addition to the normal translations, 2 alternate versions are provided:
+
+1. UmaTL + Skill data. Replaces skill descriptions with converted raw data, otherwise the same.
+1. Skill data only. Does the same, but includes no translations. For users preferring Japanese.
+
+> [!WARNING]
+> These versions might lag slightly behind the normal version.  
+> Skill data only should NOT be used on Global due to many skill effects differing.
 
 # Updating
 Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
