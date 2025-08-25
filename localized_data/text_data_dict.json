@@ -2,7 +2,7 @@
     "1": {
         "101": "Server is currently under maintenance. \nYour patience is appreciated. Refer to the \nofficial website announcement for details.",
         "201": "Returning to title screen due to inactivity.",
-        "204": "A new version is available. \nPlease update from the App Store.",
+        "204": "A new app version is available. \nPlease update from your platform's Store.",
         "207": "Contains invalid characters.",
         "214": "New data is available. \nReturning to title screen.",
         "217": "Returning to title screen. Please try playing \nfrom a location with more stable connection.",
@@ -3283,6 +3283,7 @@
         "261": "Factor Research Report",
         "263": "Factor Research Report",
         "266": "Entry Ticket",
+        "284": "Channel Subscribers",
         "1001": "Scout Pt",
         "1002": "Scout Pt",
         "1003": "Scout Pt",
@@ -16251,8 +16252,8 @@
         "210042": "Increase speed & accel during the Final Leg based on total team member guts",
         "210051": "Flare your Aoharu Spirit in the Opening Leg, running fixedly ahead based on total team member wit",
         "210052": "Flare your Aoharu Spirit in the Opening Leg, running slightly ahead based on total team member wit",
-        "210061": "Catch your breath and break ahead in the second half of the race. Effect increases with the higher number of victories accumulated in training",
-        "210062": "Catch your breath a little and break ahead in the second half of the race. Effect increases with the higher number of victories accumulated in training",
+        "210061": "Catch your breath and break ahead in the second half of the race. Effect increases with number of victories in training.",
+        "210062": "Catch your breath a little and break ahead in the second half of the race. Effect increases with number of victories in training.",
         "210071": "Increase speed when near the front in the second half of the race, as well increase acceleration slightly. Effect increases with number of fans",
         "210072": "Increase speed slightly when near the front in the second half of the race, as well as increase acceleration very slightly. Effect increases with number of fans",
         "210081": "",
@@ -16281,8 +16282,8 @@
         "210342": "Medium/Long・During the Final Straight, your speed will slightly increase.",
         "210351": "At a random point during the first half of the Last Spurt, your speed will increase; the value scales with the number of your fans.",
         "210352": "At a random point during the first half of the Last Spurt, your speed will slightly increase",
-        "210361": "Medium/Long・During the Final Straight, your speed will increase based on how many Development Points you have",
-        "210362": "Medium/Long・During the Final Straight, your speed will slightly increase",
+        "210361": "[Medium/Long] Increase speed during the final straight. Effect increases based on Development Points.",
+        "210362": "[Medium/Long] Increase speed slightly during the final straight.",
         "300011": "Improve abilities a little through the thirst for racing.",
         "300021": "Increase abilities by remembering racing changes, but feelings remain the same.",
         "300031": "Frantically chasing after the scenery increases speed.",
@@ -31550,7 +31551,7 @@
         "8": "Chairwoman Akikawa's announcement pushes Tracen Academy into a farming boom! The sun beckons all to the fields until the moon gathers everyone together at the dining table. It's time for another day of hard work!",
         "9": "A mechanical horsegirl appears at Tracen Academy. She is the brainchild of genius inventor Sugar Lights. Many issues remain in this early model... so help enhance her and make the inventor's dream come true!",
         "10": "When the Twinkle Series faces bad times, a few legendary horsegirls step up! Unifying all involved in racing, they seek to push the Twinkle Series back to its heights... and into a new era!",
-        "11": "The Uninhabited Island Project. This was the sudden result of following Tucker Bryne's dream, passionate horsegirls, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training facility ever!"
+        "11": "The Uninhabited Island Project was the result of taking a chance on Tucker Bryne's dream, passionate horsegirls, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training site ever!"
     },
     "121": {
         "1": "Debut",
@@ -46878,6 +46879,10 @@
         "3": "Her motivation to cook has increased! \nResults are bound to end up perfect!",
         "4": "・Perfectly preparing a dish grants a skill hint. \n・Perfect dishes gain an additional effect. \n・The added effect varies per dish. \n・The Cooking Gauge fills by the received Cooking Pt. \n・A full gauge guarantees a perfect dish. \n・The gauge resets afterwards and can be filled again. \n・The Cooking Pt gained from this perfect \ndish carries over after the reset."
     },
+    "356": {
+        "1002": "Anniversary\nStory",
+        "1003": "Anniversary\nStory"
+    },
     "357": {
         "1": "Fan Meeting",
         "2": "Mini Concert",
@@ -47160,7 +47165,12 @@
         "3309": "Training bonus & Friendship bonus +20% at next \ntraining after successful training with 5+ supports."
     },
     "365": {
-        "1001": "Ornament"
+        "1001": "Ornaments",
+        "1002": "Drinks",
+        "1003": "Channel Subs"
+    },
+    "366": {
+        "1003": "Gained "
     },
     "369": {
         "1": "Saint Lite's Guidance",
