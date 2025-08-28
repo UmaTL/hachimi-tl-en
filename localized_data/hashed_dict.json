@@ -99,7 +99,7 @@
     "13144641509815010834": "Race 3",
     "13343226421572412644": "Total fans",
     "13359869551050974565": "Group",
-    "13449225932401306905": "New music obtained",
+    "13449225932401306905": "New music obtained.",
     "13456746822717045479": "Failure",
     "13564424875392920848": "Race 1",
     "13568509355615674197": "Training",
@@ -173,15 +173,20 @@
     "3586860603691321133": "Pt to new Ticket",
     "8060673814313106880": "<size=22>Current Dev. Pt</size>",
     "12988420149268837151": "<size=24>Show Traits</size>",
-
-    "9999999": "Unverified working",
-    "4610220217113845794": "$(scale 80)Obtained",
-    "15205220935073086723":"Total Score",
     "10423789514770849582": "Changes according to choice in the event '{0}'",
     "15016469571340225695": "You have obtained all tickets from this plan.",
+    "16347566201047174091": "<size=20>Last month</size>",
+    "5975167298035455754": "Concert watchable!",
+    "78504523274745528": "Expiry",
+
+    "9999999": "Unverified working",
+    "15205220935073086723":"Total Score",
     "7180147699252504887": "In {0} months (middle)",
     "17787671422305658852": "In {0} months (early)",
     "3310791524282515645": "In {0} months (late)",
     "17485152759660092080": "Club",
-    "14094031117720631521": "Event rewards"
+    "14094031117720631521": "Event rewards",
+
+    "99999990": "Not working",
+    "4610220217113845794": "$(scale 80)Obtained"
 }
