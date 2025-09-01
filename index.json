@@ -1419,6 +1419,11 @@
       "size": 2079
     },
     {
+      "path": "assets/lyrics/m1174_lyrics.json",
+      "hash": "3079fb679597cd3c92d67634765b72951cedc5b056a7b44284f0bdac76af4314",
+      "size": 597
+    },
+    {
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "4699ae66cdceb5e731cc41a1fc00ec6dbed0f9ebb71695a344a446892552373a",
       "size": 516
@@ -6142,6 +6147,46 @@
       "path": "assets/story/data/09/0040/storytimeline_090040008.json",
       "hash": "e9d85bc201abfc9d9962d43ff8551f4e188339a20f974e8316e9bcb92c93b008",
       "size": 7407
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047001.json",
+      "hash": "76494b8f5c30fa2fb941cc03aa300b7d068b2969be8fedcae1b90379a72c53da",
+      "size": 8136
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047002.json",
+      "hash": "2ab7404ef0df4bc22cfe300c7c8b996846c73dd56de23b89891fdf8cc0dba99c",
+      "size": 9053
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047003.json",
+      "hash": "451990a56a1091ceceac8f2e1212d7c440d8d053aaf4ae12a296fc2f09cf42b9",
+      "size": 5474
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047004.json",
+      "hash": "aab42f7864b07c57896a16de9c96e83cb17851e4a64e8645200b86aab59c640c",
+      "size": 9128
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047005.json",
+      "hash": "e0ade572dfa93fe08ff2b5c2ae9dad4ede59f432c8331c2e79c632da0685c8ce",
+      "size": 9427
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047006.json",
+      "hash": "9f1feb8bfd54ec7797094dac40c2f79de3a6f5696cb2e222f0aa77f757a048a6",
+      "size": 6263
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047007.json",
+      "hash": "9ba059341a379cab96d7bc158aac28c3476a030af0a3bd5682ba29f1664f19f3",
+      "size": 5645
+    },
+    {
+      "path": "assets/story/data/09/0047/storytimeline_090047008.json",
+      "hash": "057ffa3cb71a1d39f77614b8d0e50f6725f8f7edc7210878c6aafc303c7a6c1b",
+      "size": 8986
     },
     {
       "path": "assets/story/data/10/0000/storytimeline_100000001.json",
