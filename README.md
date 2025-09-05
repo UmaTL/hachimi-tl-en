@@ -5,7 +5,7 @@ English fan translation repository for the Umamusume: Pretty Derby game.
 This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
 
 Translations provided by [these sources](#translation-sources).  
-Please support my (UmaTL's) own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Please support UmaTL's own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&query=data.attributes.paid_member_count&suffix=%20trainers&style=flat-square&logo=patreon&logoColor=%23ff424d&label=Patreon&color=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
 
 
 # Install / Use
@@ -14,9 +14,12 @@ Please support my (UmaTL's) own translations & related work through [![Patreon](
 > For the Legacy UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
 
 1. Download and install [Hachimi].
-1. Download [the UmaTL config](../../releases/tag/config) and put it in the hachimi folder (details in link).
-1. Run the game and download the update.
-    - If no update is offered, open the Hachimi menu (default: `right arrow` key) and re-run the `first time setup`.
+    - If this is your first time, test that your game starts up with Hachimi first! Close the setup popup, then close the game again.
+1. Change the translation source URL in Hachimi's config. Premade files and details [here](../../releases/tag/config).
+1. Run the game and pick UmaTL in Hachimi's `first time setup`.
+    - If it does not appear, open the Hachimi menu and re-run it from there.
+
+**Optional**: It is highly recommended to adjust `Story choice auto select delay` (1.2) and `Story text speed multiplier` (3.0) in Hachimi's menu -> config -> gameplay to something you like. The numbers in brackets are good values.
 
 # Versions
 In addition to the normal translations, 2 alternate versions are provided:
@@ -26,7 +29,7 @@ In addition to the normal translations, 2 alternate versions are provided:
 
 > [!WARNING]
 > These versions might lag slightly behind the normal version.  
-> Skill data only should NOT be used on Global due to many skill effects differing.
+> Skill data only can NOT be used on Global due to many skill effects differing.
 
 # Updating
 Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
