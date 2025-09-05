@@ -5,7 +5,7 @@ English fan translation repository for the Umamusume: Pretty Derby game.
 This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
 
 Translations provided by [these sources](#translation-sources).  
-Please support UmaTL's own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?color=%23ff424d&label=Patreon&query=data.attributes.patron_count&suffix=%20trainers&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&style=flat-square&logo=patreon&logoColor=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Please support UmaTL's own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&query=data.attributes.paid_member_count&suffix=%20trainers&style=flat-square&logo=patreon&logoColor=%23ff424d&label=Patreon&color=%23ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
 
 
 # Install / Use
