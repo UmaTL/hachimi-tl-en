@@ -10550,8 +10550,8 @@
     },
     {
       "path": "config.json",
-      "hash": "1c54de09830df6348cbc14f40b252df79e26f8decf80b67c77985419003dab84",
-      "size": 1533
+      "hash": "5d6fc25b108e086c24adb4a966bfca65b59cfc0092536a632c089cd43144c9e0",
+      "size": 1568
     },
     {
       "path": "hashed_dict.json",
@@ -10559,7 +10559,12 @@
       "size": 8863
     },
     {
-      "path": "includes",
+      "path": "includes_android",
+      "hash": "b0e84af7d0a51662e3e597aa008ea46dfdb3591a9a5d5e14848576c205312e9d",
+      "size": 1808037
+    },
+    {
+      "path": "includes_win",
       "hash": "19554653834afefefb053ce6bb641c09d2d32150b41e3d22727d1bb913f24daf",
       "size": 1805441
     },
@@ -10580,8 +10585,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "bbfba14b413d3c4d82bac6ba9d3bcb1f2a5089bf6b92fcba8a77110ca3f7e29e",
-      "size": 2955606
+      "hash": "bdc690bd04c089547072db12100990fe9a2e0e6b3688aed5e5997675d1be6275",
+      "size": 2955993
     }
   ]
 }
