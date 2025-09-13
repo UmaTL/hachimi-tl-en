@@ -17,7 +17,7 @@
 
     "text_wrapper": 1,
     "use_text_wrapper": true,
-    "line_width_multiplier": 2,
+    "line_width_multiplier": 1.9,
 
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
