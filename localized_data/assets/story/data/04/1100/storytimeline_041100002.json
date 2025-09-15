@@ -1,0 +1,204 @@
+{
+  "title": "My Rival is the Umadol of the Sand.",
+  "text_block_list": [
+    {
+      "text": "Hah… Hah… —A～nd I'm back. \nAhem, to think I can complete this tough pace now.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I decided to help Wonder Acute with her training for a bit. Just like she said, her strength has improved considerably since we started."
+    },
+    {
+      "text": "You're as amazing as I thought you'd be. When I follow your regimens, I feel myself get stronger without even getting a wink in.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "And I'm able to accomplish so much more, because you fine tune the regimen. I can already see myself running even a 2000 m dirt race now.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Even though I was supposed to be the one doing the praising, she instead was praising me for what I've done.",
+      "choice_data_list": [
+        "Your tenacity is your specialty.",
+        "Your tenacity is your specialty."
+      ]
+    },
+    {
+      "text": "Even with the gradual increase to the training load, she didn't complain, but instead, she redoubled her effort. That was certainly the reason she's gotten stronger."
+    },
+    {
+      "text": "If she keeps this up, her debut will just be the first step to her pile of accomplishments. With that thought popping up in my head, my desire to support her increased tenfold."
+    },
+    {
+      "text": "If you hadn't told me about this specialty of mine, I would have never noticed it. So you have my thanks, deary.",
+      "name": "Wonder Acute",
+      "choice_data_list": [
+        "We need to use it more!",
+        "We need to use it more!"
+      ]
+    },
+    {
+      "text": "Oh my, did another regimen pop up in your head? How wonderful～, no matter how many you think up, I'll be sure to work my hardest to complete them.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I was searching for Wonder Acute, with a new training regimen in hand. She wasn't in the classroom, so I tried checking outside and—"
+    },
+    {
+      "text": "Hm? You're Acute's Trainer, right? If you're looking for her, she's right here.",
+      "name": "Hokko Tarumae"
+    },
+    {
+      "text": "I followed the voice calling out to me, and there I saw Wonder Acute sitting with her friends Hokko Tarumae and Copano Rickey in a circle."
+    },
+    {
+      "text": "Whoa, Acute, so you really have signed a training contract with someone! Meeting someone that matches your Qi is super lucky and a happy moment☆",
+      "name": "Copano Rickey"
+    },
+    {
+      "text": "No, no, we don't have a proper contract set up～ \nThey're only helping me until the individual athletics competition is over.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Is that so? That's unfortunate. After all, isn't he the newcomer trainer that people have high expectations for? They were commended for being the top student in 7 subjects at Trainer school.",
+      "name": "Hokko Tarumae"
+    },
+    {
+      "text": "Oh my, so Trainer is someone that's that amazing then?",
+      "name": "Wonder Acute",
+      "choice_data_list": [
+        "Only my grades were good, the reality is…"
+      ]
+    },
+    {
+      "text": "And look at you being humble again～. You're outstanding, sweetie. It's thanks to you that I can put on a good fight in the competition."
+    },
+    {
+      "text": "A good… fight? Well, her opponent is slightly bad news…",
+      "name": "Hokko Tarumae",
+      "choice_data_list": [
+        "Is her opponent strong?"
+      ]
+    },
+    {
+      "text": "… Don't tell me you didn't know? \nThe race that Acute is taking part of, I'm sure that—",
+      "name": "Hokko Tarumae"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Whoa — Sha- Shai～! \nFalco, going full steam ahead～☆"
+    },
+    {
+      "text": "Dewah!!",
+      "name": "Smart Falcon"
+    },
+    {
+      "text": "Whoa, that's crazy! I can't believe it! It looks like her feet are imbued with Qi from mountain winds!",
+      "name": "Copano Rickey"
+    },
+    {
+      "text": "With her explosive acceleration and how she doesn't lose any steam in the 2nd half… Man, Falco really shines differently when she's on the dirt…",
+      "name": "Hokko Tarumae"
+    },
+    {
+      "text": "They haven't announced who's participating yet, but I'm certain that she's going to be in it. To beat the Falko that's on the dirt now would be a huge undertaking for anyone.",
+      "name": "Hokko Tarumae"
+    },
+    {
+      "text": "I see, it's Fire and Metal then— The great rivalry in Feng Shui, the steadfast metal element of Acute versus the fierce fire that inhabits Falco's running!",
+      "name": "Copano Rickey",
+      "choice_data_list": [
+        "So we're going up against her, huh…",
+        "So we're going up against her, huh…"
+      ]
+    },
+    {
+      "text": "…",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Since that revelation, I couldn't get Smart Falcon's running out of my mind. Wonder Acute is getting stronger as well, but…"
+    },
+    {
+      "text": "Hah… Hah… Phew～ Not yet.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Trainer, what's next on the menu? \n… Earth to Trainer?",
+      "name": "Wonder Acute",
+      "choice_data_list": [
+        "—Whoa! Sorry!"
+      ]
+    },
+    {
+      "text": "This was not the time to have my head in the clouds. I need to think up of things I can do to make sure all the effort she put in until now wasn't for nothing—"
+    },
+    {
+      "text": "Even though I was thinking that, nothing was coming to mind. Her opponent already debuted and she's a forefront Uma Musume. I can't help but admit she's in a different league."
+    },
+    {
+      "text": "…… \nHey, Trainer, are you holding back right now?",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "We can't hold back right now, you should know that. If I want to take on Falco, it's okay to give me an even stricter menu.",
+      "name": "Wonder Acute",
+      "choice_data_list": [
+        "… I don't want to push you too hard.",
+        "… I don't want to push you too hard."
+      ]
+    },
+    {
+      "text": "Her training was already making her stronger after slowly increasing the training load. Any more and it would be unrealistic"
+    },
+    {
+      "text": "There's still some things we haven't done, right? \nHow about we sharpen this steel body of mine— Something like that?",
+      "name": "Wonder Acute",
+      "choice_data_list": [
+        "Sharpen?"
+      ]
+    },
+    {
+      "text": "Once upon a time, when I was taking the exam for Tracen. The day came and my condition worsened rapidly, no doubt due to the stress.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "But strangely, that day went off without a hitch. My legs felt good, as though I could run anywhere—",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I feel as though if I can recreate that— I can win.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "It was common knowledge that if one wanted to put on a spectacular performance, they'd need to push themselves. And if their power and stamina were the same, the lighter one would run faster."
+    },
+    {
+      "text": "But before I dive into the pros and cons of losing weight, I was surprised at her determination. She didn't flinch in the face of a stronger opponent, she was looking at what she could do.",
+      "choice_data_list": [
+        "Do you want to beat… Smart Falcon?"
+      ]
+    },
+    {
+      "text": "… You're a bit off the mark. It doesn't matter who my opponent is.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I have a reason why I want to win the next race. No matter what, I have to win.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Therefore, Trainer. No matter how harsh the training gets. I believe in you and I will accompany you come rain or shine—",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Although I may not know the reason why she wants to win. The one thing I do know is that if she wants to win, it's my duty as a trainer to fulfill that wish.",
+      "choice_data_list": [
+        "Alright, I'll go remake the regimen!"
+      ]
+    },
+    {
+      "text": "And to fulfill that wish of hers, I have decided to prepare a menu focusing on losing weight."
+    }
+  ]
+}

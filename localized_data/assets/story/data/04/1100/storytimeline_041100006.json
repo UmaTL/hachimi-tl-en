@@ -1,0 +1,229 @@
+{
+  "title": "Slowly and Leisurely, their Free Time.",
+  "text_block_list": [
+    {
+      "text": "When I was walking the streets after finishing my errands on my day off… I happened to run into Wonder Acute."
+    },
+    {
+      "text": "I was taking a leisurely stroll, since I didn't have any errands today. The weather today is nice for that, isn't it?",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "It certainly was the best type of weather to take a stroll in.",
+      "choice_data_list": [
+        "… If you don't mind, want to stroll together?"
+      ]
+    },
+    {
+      "text": "Oh my, is that okay?",
+      "choice_data_list": [
+        "I have nothing better to do, so it's fine."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Is that so? Hm, alrighty—",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "… Ah, I got it. It's a bit far, but I have somewhere I want to show you, would you mind following me?",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "And thus, I followed Wonder Acute to the place she wanted to show me. Surprisingly, that place was a billiard hall.",
+      "choice_data_list": [
+        "Do you play billiards often?",
+        "Do you play billiards often?"
+      ]
+    },
+    {
+      "text": "Oh, not at all, this is the first time I've come here. Rickey invited me here to play next time we meet up.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "And I had the thought that you would have an interest in this modern game too—",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "\"The event is now under way! Are you able to pocket the ball in this position!? You get 2 tries! The winner will win an extravagant prize!\"",
+      "name": "Hall Announcer"
+    },
+    {
+      "text": "An extravagant prize? Oh my, a free \"all you can play\" ticket for the day! Rickey would be quite happy with it, but… I wonder if I can even win it…",
+      "choice_data_list": [
+        "Looks interesting, let's give it a try."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "(Clack!)"
+    },
+    {
+      "text": "Oh my! You're amazing at this! If only it went just a tiny bit further. I'd never be able to do it, but Trainer, you're very skilled at this.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Unfortunately, my first attempt ended in failure. I only had one more attempt. I got too nervous that I put too much power in my shoulders."
+    },
+    {
+      "text": "Fufufu, deep breaths, Trainer, deep breaths～ \nIn times like this, you just need to take one breath.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "After me, Inhale… exhale…",
+      "choice_data_list": [
+        "Inhale… exhale…"
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "… Wonder Acute's smile alongside the relaxed atmosphere, my shoulders started to relax… And with that—"
+    },
+    {
+      "text": "(Clack! Rattle rattle plop!)"
+    },
+    {
+      "text": "Ho wa wa!",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "It went in, you pocketed it! \nAs expected you're really amazing, Trainer!",
+      "choice_data_list": [
+        "It was all thanks to you!"
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Now what did I do? All I did was watch. \nIt's your accomplishment.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Falco told me about this place. I thought that you would like a place that's quite \"Uma-stable\".",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Thank you for waiting～! Here's you 'Pancake the Mountain, lots of whipped cream and fruit butter!",
+      "name": "Cafe Employee",
+      "choice_data_list": [
+        "Whoa… it really is a mountain!"
+      ]
+    },
+    {
+      "text": "Whoa～, wowee… that's quite grand… \nIt feels like we'll be blessed a bit with how grand it looks.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Thank you kindly, thank you kindly…",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Now that she mentioned it, it was a little miraculous to be able to see such an impressive pancake mountain. I should also—",
+      "choice_data_list": [
+        "Thank you kindly, thank you kindly"
+      ]
+    },
+    {
+      "text": "Fufufu, with that done, how about we partake in this meal.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "(Nom nom)"
+    },
+    {
+      "text": "Oh my! It's so fluffy and delicious!",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "It's been a while since I was able to enjoy eating out while feeling grateful like this. It made it taste all the better."
+    },
+    {
+      "text": "Tarumae told me about this shop. Trainer, you said you were looking for a new jacket, right?",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Look, how about this one? The material seems nice and the durability of it is quite nice too, isn't it?",
+      "choice_data_list": [
+        "Looks good! I'll try it on right now!"
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Oh, Trainer, it looks great on you! \nCan you turn around for me too?",
+      "choice_data_list": [
+        "Like this?"
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Oh deary, the back of it has a hole. \nLooks like some bugs ate through it.",
+      "choice_data_list": [
+        "It's made to look damaged.",
+        "It's made to look damaged."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Da-mage… um, it's meant to be there on purpose? \nHah～, modern clothes nowadays are quite complicated. I've learnt something new.",
+      "choice_data_list": [
+        "Let's pick out some clothes for you."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Oh my, really? Alrighty then, I'll leave it up to you to pick out a more modern outfit for me. Fufufu.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Wowee… thank you, really. You kept me company for the entire day.",
+      "choice_data_list": [
+        "No, I should be the one thanking you."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "The billiard hall, a cafe, a clothes store. I was happy that she put in all this effort to choose places I'd like. But when I tried to tell her this—"
+    },
+    {
+      "text": "No way. Those places were very foreign to me, so I ended up causing you a lot of trouble. But—",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I had a really great time… You taught me so many new things and I was happily following along.",
+      "choice_data_list": [
+        "I had fun too, it was very relaxing.",
+        "I had fun too, it was very relaxing."
+      ],
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Even in those places, if I'm with Wonder Acute, time passes by quite leisurely, and I can feel myself smiling just as effortlessly. That's why—",
+      "choice_data_list": [
+        "If it's alright with you, let's do it again!"
+      ]
+    },
+    {
+      "text": "Oh my, hm…",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "… Yeah. Let's try and line up our schedules to do this again.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Fufufu… \"let's do it again\", saying something like that.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "My, oh my… I'm pleased to see such a happy face. Have some black tea as well, deary. It'll be nice and warm since I kept it in a thermos.",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "Trainer, you were smiling just like that time…",
+      "name": "Wonder Acute"
+    },
+    {
+      "text": "I see… you were having fun this whole time.",
+      "name": "Wonder Acute"
+    }
+  ]
+}
