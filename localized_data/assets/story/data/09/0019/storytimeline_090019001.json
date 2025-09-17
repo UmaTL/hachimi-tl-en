@@ -1,4 +1,5 @@
 {
+    "title": "The Present",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -24,7 +25,7 @@
         },
         {
             "name": "Horsegirl B",
-            "text": "The Sacred Equine Relay is that thing, right? That one event \nwhere retired horsegirls write wishes on hoofplaques and \noffer them to a fire ——"
+            "text": "The Sacred Equine Relay is that thing, right? That one event \nwhere hoofplaques with the wishes of retired horsegirls are \nburnt in offering ——"
         },
         {
             "name": "Horsegirl C",
@@ -32,10 +33,10 @@
         },
         {
             "name": "Horsegirl D",
-            "text": "For real? Isn't being chosen as Sacred Equine a good omen? \nLucky～ I have a race coming up so I wanna join too!"
+            "text": "For real? Isn't being chosen as Sacred Equine a good omen? \nLucky～ I have a race coming up, so I wish I could join!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "—— Gratitude! To all of you for joining me \nfrom your busy schedules!"
         },
         {
@@ -44,30 +45,30 @@
         },
         {
             "name": "Inari One",
-            "text": "Eh well, don't that make things quicker? \n—— So, what do ya need us for?"
+            "text": "Ah well, don't that make things quicker? \n—— So, what do ya need us for?"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Disclosure! As you may have already heard, for the first \ntime in several years the Sacred Equine Relay will feature \nat this Festival of Illustrious Equines!"
+            "name": "Director Akikawa",
+            "text": "Disclosure! As you may have already heard, for the first \ntime in several years, the Sacred Equine Relay will feature \nat this Festival of Illustrious Equines!"
         },
         {
             "name": "Mejiro Ardan",
             "text": "—— If I remember well, the Relay is a ceremony of horsegirls, \nfor horsegirls, by horsegirls, to honor and appease the wishes \nof earlier generations under watch of the Three Goddesses."
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "Affirmative! It is a mystical and time-honored ceremony \ncomposed of two rituals; the Threading of Memories, \nand the Dash of Remembrance!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "On this occasion, the five chosen to take on \nthe responsibility of Sacred Equines are ——"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "—— Tamamo Cross! Oguri Cap!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "Inari One! Mejiro Ardan! Yaeno Muteki! \nCongratulations are in order!"
         },
         {
@@ -79,16 +80,16 @@
             "text": "I am beyond honored. It would seem that rumors \nregarding the Sacred Equines being selected from \namong Tracen Academy students did hold weight."
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "The five of you will soon depart for lodgings \nat a special camp to prepare yourselves for \nthe Sacred Equine Relay!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "Blessings upon you! I hope you will wholeheartedly fulfill \nthis duty, as representatives of not only Tracen Academy, \nbut all horsegirls of your generation!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "—— Hmm. If I got stuff right, that Sacred Equine \nRelay's goin' down on a mountain so we best pack \nsome bug spray, nah……?"
+            "text": "—— Hmm. If I got stuff right, that Sacred Equine \nRelay's goin' down on a mountain, so we best pack \nsome bug spray, nah……?"
         },
         {
             "name": "Inari One",
@@ -112,7 +113,7 @@
         },
         {
             "name": "Oguri Cap",
-            "text": "I feel like I'll do fine when I'm with Tama and everyone else. \nSo I'm happy, it's reassuring to be chosen together."
+            "text": "I feel like I'll do fine when I'm with Tama and this group. \nSo I'm happy, it's reassuring to be chosen together."
         },
         {
             "name": "Inari One",
@@ -120,15 +121,15 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ha, you're always rolling like this, ain'tchu… \nWell any case, I'll back you up on the reassuring bit."
+            "text": "Ha, you're always rolling like this, ain'tchu… \nWell, any case, I'll back you up on the reassuring bit."
         },
         {
             "name": "Tamamo Cross",
-            "text": "That Sacred Equine omen stuff actually caught my attention. \nNow we in this, we're gonna make sure nobody's done better!"
+            "text": "That Sacred Equine omen stuff actually caught my attention. \nNow we in this, we're gonna make sure nobody done better!"
         },
         {
             "name": "Oguri Cap",
-            "text": "But we're going to special lodgings, huh. \n…… I hope they have good food there."
+            "text": "But we're going to special lodgings, huh. \n…… I hope they have yummy food there."
         },
         {
             "name": "Tamamo Cross",
@@ -156,7 +157,7 @@
         },
         {
             "name": "Yaeno Muteki",
-            "text": "…… Speaking of which, I have noticed that \nI am not the only one in lifted spirits."
+            "text": "…… Speaking of which, I notice that \nI am not the only one in lifted spirits."
         },
         {
             "name": "Mejiro Ardan",
