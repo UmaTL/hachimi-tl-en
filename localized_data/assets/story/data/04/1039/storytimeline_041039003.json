@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "A few days after my encounter with Kawakami Princess. \nI went to the cafeteria to take a break, and saw the two combi \nI met a while ago."
+            "text": "A few days after my encounter with Kawakami Princess. \nI went to the cafeteria to take a break, and saw the two \ngirls I met a while ago."
         },
         {
             "name": "Vodka",
@@ -13,15 +13,15 @@
             "text": "Yeah… she may be overdoing it."
         },
         {
-            "text": "The two of them are looking at the Kawakami Princess. \nShe seems to be taking a break with a cup of tea―"
+            "text": "The two of them are looking at the Kawakami Princess. \nShe seems to be taking a break with a cup of tea—"
         },
         {
             "name": "Kawakami Princess",
-            "text": "My my…… tea cups are hard to hold. My fingers…… are \ntrembling and―"
+            "text": "My my…… tea cups are hard to hold. \nMy fingers…… are trembling and—"
         },
         {
             "name": "Kawakami Princess",
-            "text": "Aghhhhhh……! That was close. I must hold it like―."
+            "text": "Aghhhhhh……! That was close. I must hold it like—"
         },
         {
             "name": "Kawakami Princess",
@@ -29,7 +29,7 @@
         },
         {
             "name": "Vodka",
-            "text": "……Something's wrong with Kawakami Senpai. Was she always \nlike this?"
+            "text": "……Something's wrong with Kawakami Senpai. \nWas she always like this?"
         },
         {
             "name": "Daiwa Scarlet",
@@ -43,12 +43,12 @@
             "name": "Daiwa Scarlet",
             "text": "As I recall, she said, 'Princesses are elegant and small eaters.'",
             "choice_data_list": [
-                "(Elegant…… come to think of it, the other day)"
+                "<size=36>(Elegant…… come to think of it, the other day)</size>"
             ]
         },
         {
             "name": "Kawakami Princess",
-            "text": "Yes! That's it! Elegance! A princess needs to be elegant \nafter all."
+            "text": "Yes! That's it! Elegance! \nAfter all, a princess needs to be elegant!"
         },
         {
             "text": "She admires King Halo's sophisticated behavior. But if things \nthose two said about her is true, it seems a bit excessive."
@@ -125,22 +125,22 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "―*Gasp!!"
+            "text": "—<i>Gasp!!</i>"
         },
         {
-            "text": "It seems I was right on target. Kawakami Princess \nlooked disheartened."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "I'm surprised that I got exposed.…… Yes, I am. I'm training \nto be like King-san."
+            "text": "It seems I was right on target. \nKawakami Princess looked disheartened."
         },
         {
             "name": "Kawakami Princess",
-            "text": "I have always admired the bravery of Princess Fighter. \nBut when I came to the academy and met King-san―"
+            "text": "I'm surprised that I got exposed.…… Yes, I am. \nI'm training to be like King-san."
         },
         {
             "name": "Kawakami Princess",
-            "text": "I realized that grace and elegance are what a princess needs! \nSo, I, too, will imitate King-san and――",
+            "text": "I have always admired the bravery of Princess Fighter. \nBut when I came to the academy and met King-san—"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I realized that grace and elegance are what a princess needs! \nSo, I, too, will imitate King-san and——",
             "choice_data_list": [
                 "What kind of imitation?"
             ]
@@ -161,15 +161,15 @@
             "text": "The Selection Race is coming up soon. I wonder if I can \nreally become a princess at this state……"
         },
         {
-            "text": "I understand what her problem is, but I feel like \nsomething is off. \nHow do I get her to notice that―?",
+            "text": "I understand what her problem is, but I feel like \nsomething is off. How do I get her to notice that—?",
             "choice_data_list": [
-                "Why don't we go see the woman herself again?",
-                "Why don't we go see the woman herself again?"
+                "<size=36>Why don't we go see the woman herself again?</size>",
+                "<size=36>Why don't we go see the woman herself again?</size>"
             ]
         },
         {
             "name": "Kawakami Princess",
-            "text": "What, you mean King-san? ……? But I've already observed \nher so much.",
+            "text": "What, you mean King-san? ……? \nBut I've already observed her so much.",
             "choice_data_list": [
                 "A book is worth reading again.",
                 "A book is worth reading again."
@@ -181,15 +181,15 @@
         },
         {
             "name": "King Halo",
-            "text": "―…… phew!"
+            "text": "—…… phew!"
         },
         {
             "name": "Kawakami Princess",
-            "text": "Oh my～～, Look at that beauty!! Look at that figure! \nThose graceful movements!"
+            "text": "Oh my～～ Look at that beauty!! Look at that figure! \nThose graceful movements!"
         },
         {
             "name": "Kawakami Princess",
-            "text": "Only a true King is able to run so elegantly! That's what an \nideal princess looks like ……―ah!"
+            "text": "Only a true King is able to run so elegantly! That's what an \nideal princess looks like ……—ah!"
         },
         {
             "text": "(Zshaaa!!!)"
@@ -200,9 +200,9 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "Amazing…… even when she fell, even when she's \ncovered in mud, she didn't give up. \nHow noble and beautiful……",
+            "text": "Amazing…… even when she fell, even when she's covered \nin mud, she didn't give up. How noble and beautiful……",
             "choice_data_list": [
-                "You didn't have to go that far, don't you think?"
+                "<size=36>You didn't have to go that far, don't you think?</size>"
             ]
         },
         {
@@ -211,11 +211,11 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "I decided to pursue my unwavering 'ideal' regardless of how \npeople may see me! \nThat's why you see, King-san always shines so brightl――y…"
+            "text": "I decided to pursue my unwavering 'ideal' regardless of how \npeople may see me! That's why you see, King-san always \nshines so bright——ly…"
         },
         {
             "name": "Kawakami Princess",
-            "text": "I see.…… King-san's nobility is something that comes \nfrom the inside……"
+            "text": "I see.…… King-san's nobility is something \nthat comes from the inside……"
         },
         {
             "name": "Kawakami Princess",
@@ -237,7 +237,7 @@
             "text": "Dreams are something you decide for yourself, and you \nhave to reach them by yourself, right?"
         },
         {
-            "text": "At the time, Kawakami Princess seemed to have a clear vision of the dream she was aiming for.",
+            "text": "At the time, Kawakami Princess seemed to have \na clear vision of the dream she was aiming for.",
             "choice_data_list": [
                 "I'm sure you had your own ideals.",
                 "You had your own ideals."
@@ -245,7 +245,7 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "Really……? Not a copy of Princess Fighter's, and not a copy of \nKing-san's, but my own……?",
+            "text": "Really……? Not a copy of Princess Fighter's, and not \na copy of King-san's, but my own……?",
             "choice_data_list": [
                 "Take your time to remember.",
                 "Take your time to remember."
@@ -253,7 +253,7 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "Yeah… you're right. We still have time before the \nSelection Race……",
+            "text": "Yeah… you're right. We still have time \nbefore the Selection Race……",
             "choice_data_list": [
                 "I'll be there to cheer you on.",
                 "I'll be there to cheer you on."
