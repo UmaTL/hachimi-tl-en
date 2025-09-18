@@ -1,96 +1,96 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The day of Winning Ticket's longing has come. On the day of the \nDerby, she entrusted all her feelings."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Heh…"
-        },
-        {
-            "text": "Winning Ticket took a deep breath and put her hand on her chest. \nOpened her eyes slowly, staring at the turf ahead of the light."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ticket-san, you are more focused than \never. I can see it from your back."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I usually hear a loud voice that the voice echoes."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ahh～… Rice is getting nervous too…"
-        },
-        {
-            "text": "Team <Sirius> members also stayed up all night, watching the \nbrave back of Winning Ticket… But it is."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hmm… Hmmm～!! It's no use!! it's itchy!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "When I try to focus I get nervous! \nWhen I get nervous I get itchy～!!"
-        },
-        {
-            "text": "After all, it's the usual Tickezou."
-        },
-        {
-            "text": "After all, it's the usual Tickezou."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "If your usual method isn't working out, \nwe'll send you out in a special way."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Special way?"
-        },
-        {
-            "text": "Mejiro Mcqueen then signaled to the Sirius members, all of them \nspreading their palms behind Winning Ticketー"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "O-One-two!"
-        },
-        {
-            "name": "Everyone",
-            "text": "See you later!!"
-        },
-        {
-            "text": "(Slap!)"
-        },
-        {
-            "text": "ーAnd hit Winning Ticket on the back."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Kyaa～～!! It's to strong～～!!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "With that you're alright now! Ticket-san, \nshow us the best Derby ever!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Of course! I'll run with all my might!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Until now, Derby was just excitement and \nlonging, but now I'm on that stage…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "There are rivals. there is everyone on the team and Trainer-san \nis here… This is my Derby!",
-            "choice_data_list": [
-                "Let's take hold of the dream!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah, I'm going!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Winning Ticket has been waiting her whole life for today. This is her \nchance to accomplish her dream of winning the Derby."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Exhale…</i>"
+    },
+    {
+      "text": "Hand on her chest, she lets out a deep breath. She slowly opens her \neyes and gazes at the turf at the end of the tunnel."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Even standing behind her, I can tell she's never been so focused."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yeah, she's normally making a racket screaming our ears off."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oooh… Even I'm getting nervous…"
+    },
+    {
+      "text": "All of Team Sirius is waiting with bated breath as they watch Winning \nTicket's valiant figure from afar. But the stoic competitor breaks the \nsilence."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Nnngh! Hrrrgh! It's no good, I'm all itchy!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I get all tense when I focus! And when I get tense, I get itchy!"
+    },
+    {
+      "text": "That's the Tickezo I know."
+    },
+    {
+      "text": "That's the Tickezo I know."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "If you're really that itchy, we can use our special trick to give you a \ndecent send off."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Special trick?"
+    },
+    {
+      "text": "Mejiro McQueen gives the signal to the others, and they all raise their \nopen palms up behind Winning Ticket's back."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-one, two… three!"
+    },
+    {
+      "name": "Everyone",
+      "text": "Good luck!"
+    },
+    {
+      "text": "<i>Whack!</i>"
+    },
+    {
+      "text": "All at once, they slap Winning Ticket on the back."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hyaaah! That was hard!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "You're good to go! Now, have the best Derby ever, Ticket!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "You know I will! I'm gonna run the race of my life!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Until now, the Derby has been something exciting that I aspired to. \nBut this time, I'm actually in it…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I've got my rivals, my team, and my trainer with me… Now this is <i>my</i>\nDerby!",
+      "choice_data_list": [
+        "Time to seize your dream!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Just watch me!"
+    }
+  ]
 }

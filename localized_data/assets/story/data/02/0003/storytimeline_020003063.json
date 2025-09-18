@@ -1,54 +1,54 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Winning Ticket",
-            "text": "Huh, Trainer-san and Hayahide!",
-            "choice_data_list": [
-                "It was your best race so far.",
-                "It was your best race so far."
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Hehe～, I even surprised myself! To beat \nthe “Yayoi Prize” record time!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "When I saw Taishin come up, some strength \nwelled up from inside me…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "A rival is a presence that brings out the power \nthat you do not even notice yourself, and Taishin \nwas the one who taught me that, Waaaa!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Well,I lost… I feel like I had a good race."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Geez, It's not fair, both of you. I \nalso wish I could run with you."
-        },
-        {
-            "text": "If this goes on, the 3 girls will surely race in their first \nclassic race together at the “SatsukiShou”."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Next time I will make sure I don't lose. No matter how good the \nrace was, there is no point if you don't win."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "haha, I will also make sure to appear at the “SatsukiShou”. And \nthis time we will run together all 3 of us."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! The 3 of us together!"
-        },
-        {
-            "text": "First Rival Showdownー Winning Ticket that ran win her rival \nshowed a bigger smile than ever before."
-        },
-        {
-            "text": "From now on, the once in a lifetime showdown, the classic front \nbegins and the goal of the Derby is slowly approaching."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "Hey, Trainer! Hayahide! There you are!",
+      "choice_data_list": [
+        "That was an amazing race.",
+        "That was an amazing race."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hehehe! I think I even surprised myself! They said it's a new Yayoi \nSho record!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "When I saw Taishin right behind me, I felt this power surging up \ninside of me."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "She taught me that a rival can help you draw out a strength in yourself \nyou didn't even… know you h-had… Waaaaah!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I know I lost, but… I ran one heck of a race."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I can't believe how unfair this is. I'm so envious I didn't get to race \nwith you two."
+    },
+    {
+      "text": "If they keep this up, these three are headed straight for the first race \nof the Classics, the Satsuki Sho."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "I won't lose the next one. However good a race I give, it's \nmeaningless if I don't win."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hehe, I won't be missing the Satsuki Sho either. Next time, we're in it \ntogether."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Together to the end!"
+    },
+    {
+      "text": "The first showdown is over, and—having raced her trusted \nrival—Winning Ticket smiles bigger than ever."
+    },
+    {
+      "text": "Now she'll push forward into the Classics and her once-in-a-lifetime \ndream, the Japanese Derby."
+    }
+  ]
 }
