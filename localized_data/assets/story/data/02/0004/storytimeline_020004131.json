@@ -1,154 +1,155 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Commentator",
-            "text": "We've got a lot of big players in today's “Hanshin Grand Prize” \nShiba's 3000m turf lineupー"
-        },
-        {
-            "name": "Commentator",
-            "text": "Today's attention is on the “Annual Representative Horse Girl” \nconfrontation between Narita Brian and Mayano Top Gun!"
-        },
-        {
-            "name": "Commentator",
-            "text": "An unusually large number of fans have gathered at the Hanshin \nracetrack to see what kind of ending the match will bring!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "The atmosphere is a little different \nfrom Brian's usual races so far…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "It's because so far, we've been only bystanders \nto be overwhelmed by Brian's running."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But… Now it's different, right."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Brian-san, please run with everything you got. We will support \nyou with all our might."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Yeah, I'm counting on you."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Now that's decided let's go to the stands! \nBecause I secured the furthest place in!"
-        },
-        {
-            "text": "Well then, let's head to the underground \nroad, too. I'll send you off."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "I got it. …I will be going."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Do your best, Brian!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Have a safe run."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Oh! She is here!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "It seems that there is no problem with your spirit. You still \nhave the feeling of wanting to keep running as usual."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "It's all because I wanted to try the results of running with \nBig-sister and Amazon that I couldn't sleep."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Mayano Top Gunー there is no arguing her ability, but the opponent \nyou should be fighting right now is, you yourself."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Go and win, against the timer of yourself…!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Yeah, watch me."
-        },
-        {
-            "text": "Brian, you've surprised everyone many times. Records of large \nmargins, overwhelming victory, victory's on big stagesー"
-        },
-        {
-            "text": "Brian, you've surprised everyone many times. Records of large \nmargins, overwhelming victory, victory's on big stagesー"
-        },
-        {
-            "text": "And I'm sure there will be a lot of recognition from now on. Your \nfeelings have not changed since the time we met.",
-            "choice_data_list": [
-                "Good Luck, Brian!!"
-            ]
-        },
-        {
-            "text": "And I'm sure there will be a lot of recognition from now on. Your \nfeelings have not changed since the time we met.",
-            "choice_data_list": [
-                "Good Luck, Brian!!"
-            ]
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Hmph, I'll do my best…!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "There's a nice number of fans, isn't there. They seem to be \nexcited about the “Annual Representative Horse Girl” showdown!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Maya is as excited as everyone else! I can run with Brian-san!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…I see."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "…If Maya's thinking isn't wrong, Brian can't do that run anymore \nbefore you got hurt."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "But, even so, my burning feelings have not disappeared! \nBrian-san's feelings are not at all different from those days!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "That's why, Maya will run with all her might…!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Hmph… It's a little different from that it hasn't changed."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "I could no longer run the race I had been doing naturally, and \nrather than nourish my thirsty heart, the victory was far gone."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "But, the father away from victory, the more the thirst grows. \nEverytime I shake the victory, I'm inspired."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "The craving for running is so far my No. 1 strength…!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Yeah! Yeah! I won't lose, Brian-san!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Very well, come at me…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Caster",
+      "text": "Racing's finest are here at the 3,000-meter G2 Hanshin Daishoten \nturf."
+    },
+    {
+      "name": "Caster",
+      "text": "Everyone's excited for the face-off between Racers of the Year Narita \nBrian and Mayano Top Gun!"
+    },
+    {
+      "name": "Caster",
+      "text": "The extraordinary crowd at the Hanshin Racecourse is waiting with \nbated breath to see the amazing finish to come!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Something about this feels different than Brian's other races."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Until now we've only been bystanders overwhelmed by Brian's \nachievements."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "But now… things are different, right?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Race with all your spirit, Brian. And we'll root for you with all of ours."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I will. Thanks for the encouragement."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "We'd better get to the stands then! I saved us one heck of a spot!"
+    },
+    {
+      "text": "All right, you should head for the dock. Come on, I'll walk you over."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Okay… Wish me luck."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "You've got this, Brian!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "We wish you all the best."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ah! Here she is!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "You look like you're ready. Your desire to run is written all over your \nface."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'm itching to test the results of my training with you two."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I don't need to say how skilled Mayano Top Gun is, but your real \nopponent today will be yourself."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "A one-on-one match against yourself—you'd better win!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Just watch me."
+    },
+    {
+      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+    },
+    {
+      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+    },
+    {
+      "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
+      "choice_data_list": [
+        "And I know you're going to continue to amaze \nme. Nothing's ever dampened your drive to win \nsince I met you."
+      ]
+    },
+    {
+      "name": "Trainer",
+      "text": "So go for it, Brian!",
+      "choice_data_list": [
+        "Heh… I won't disappoint!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "So many people are here! They must be excited to see this \nRacer-of-the-Year showdown!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "And I'm right there with them! I can't wait to race you!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I see…"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "If I'm not mistaken, you can't pull off the dash you used to do before \nyour injury."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "But your passion for racing is still there! Your feelings haven't \nchanged at all!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "So I've got to race at full throttle too!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm… It wouldn't be right to say I haven't changed at all."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I used to run like winning was inevitable. But after losing my dash, \nwinning started to feel impossible."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yet the farther away victory seemed, the hungrier I got. Every time it \nslipped through my fingers, it's like I was roused from a sleep."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I've never been hungrier to run than I am now!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Yeah! Great! But I won't lose, Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Good, I'm counting on it!"
+    },
+    {
+      "name": "ナリタブライアン",
+      "text": "ああ、臨むところだ……！"
+    }
+  ]
 }

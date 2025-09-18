@@ -1,48 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Commentator",
-            "text": "Finally this day has come, the first “Arima \nKinen” at the end of the year!"
-        },
-        {
-            "name": "Commentator",
-            "text": "After all, the attention is on the sister showdown between Biwa \nHayahide and Narita Brian, who has left a blank sheet just before \nthe realization last time!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "The stands are packed with fans who \ndo not wish to miss this race!"
-        },
-        {
-            "text": "(Cheers～～!!!)"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I'm deeply moved, the day we met has finally come."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Yeah, I was waiting for this day too."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "The winning equation has already been built up. I'm not going to \ngive up the win just because you are my little-sister."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Your head is as big as ever. It wouldn't be our race if we keep \nthinking about difficult things, right?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Ehaha, that may be right. We've been doing \nthis since we were kids, our race…"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Let's go to the stage of “Sister showdown”."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Bring it on…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Caster",
+      "text": "It's finally time for the monumental end-of-year race, the Arima Kinen!"
+    },
+    {
+      "name": "Caster",
+      "text": "Fans are excited to see the sisters Biwa Hayahide and Narita Brian \nface each other after their previous matchup fell through!"
+    },
+    {
+      "name": "Caster",
+      "text": "The stands are packed! This is the race that no one wants to miss!"
+    },
+    {
+      "text": "<I>Cheers!</I>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "What a profound feeling to have finally made it to this day."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yeah, I've been waiting for this a long time."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "I've completed my winning equation. Don't think I'll concede this \nvictory just because you're my sister."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You're always overthinking things. Our race isn't that complicated."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<I>Chuckle…</I> True enough. We've been heading to this moment since we \nwere kids."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Shall we go resolve our little sibling rivalry?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'd like nothing more!"
+    }
+  ]
 }
