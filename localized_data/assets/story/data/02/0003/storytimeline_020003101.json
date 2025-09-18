@@ -1,170 +1,176 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Derby's greatest lineup ever. That's what they said."
-        },
-        {
-            "text": "That she was not a special among the glittering \nmembers that were there at the time."
-        },
-        {
-            "text": "But, “I'm me”."
-        },
-        {
-            "text": "It doesn't matter if you lost in the past, it doesn't matter now, \nbut as she slowly releases everything in the last straight, and \ntakes the lead she shone like light."
-        },
-        {
-            "text": "The name of that light is Eishin Flash"
-        },
-        {
-            "text": "“I will go my way” Because strong people believe in themselves."
-        },
-        {
-            "text": "Winning Tickets first round of the classic front the \n“SatsukiShou” ended in defeat."
-        },
-        {
-            "text": "The next dayー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "heh… heh… heh～～"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Trainer-san, next up is slope training?"
-        },
-        {
-            "text": "Just after the race. I told her that it would be ok to take a \nbreak, but Winning Ticket is still running today.",
-            "choice_data_list": [
-                "Are you not tired?",
-                "Are you not tired?"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Huh…? No, I'm alright."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Besides I can't afford to rest for one \nday, that's what I thought… Hehe."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "So with that said, I'm going to do slope training!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "She's always emotional, so I thought \nshe would cry when she lost but…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I do not feel her usual bottomless spirit. I think her losing the \n“SatsukiShou” was that big of a shock."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Next time she loses will be in the Derby."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san, please make sure to firmly look over Ticket-san.",
-            "choice_data_list": [
-                "Of course."
-            ]
-        },
-        {
-            "text": "Even though I said so, I had no idea what \nto do with the current Winning Ticket."
-        },
-        {
-            "text": "After the training, I went back to my trainer room and there \nstood Winning Ticket alone."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, Trainer-san."
-        },
-        {
-            "text": "Did you forget something?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "No, I just wanted to watch a video of a race."
-        },
-        {
-            "text": "What Winning Ticket was watching was a video of \nthe Derby, which I always used to watch. It's common \nfor her to watch race footage here."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "……"
-        },
-        {
-            "text": "However, even though she would always shout with emotion, this \ntime, she's staring at the image quietly today.",
-            "choice_data_list": [
-                "Now it's Tickezou's turn to take the stage of the Derby.",
-                "Now it's Tickezou's turn to take the stage of the Derby."
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Eh!? Y-Yeah… that's right. On this stage \nthat I have seen many times, I also."
-        },
-        {
-            "text": "Winning Ticket that always seems to be unable to suppress her \nexcitement when it comes to talk about the Derby, but it's \nsomehow difficult today"
-        },
-        {
-            "text": "The “SatsukiShou” was a pity."
-        },
-        {
-            "text": "The “SatsukiShou” was a pity."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Say, Trainer-san. Can I say something selfish?"
-        },
-        {
-            "text": "Of course…?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Racing is like, there are times when you lose right?"
-        },
-        {
-            "text": "That's right, but you are making an effort \nto not lose, isn't that right?"
-        },
-        {
-            "text": "That's right, but you are making an effort \nto not lose, isn't that right?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "However, efforts were made to achieve the “SatsukiShou”. I did \nwhat I wanted to do."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "But… I still lost. I know now, racing is not easy."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "And then, the images I was always excited to see, they like \nappeared as something else…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I was also impressed by the appearance of the losing person, and \nthe drama was so exciting."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I didn't understand at all the feelings of the losing person… the \nfeelings of the person whose dreams have been broken…",
-            "choice_data_list": [
-                "Tickezou…"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, ah ha… you seem nervous, me!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Then, if I don't come back soon, the dorm supervisor will get \nangry! See you tomorrow, Trainer-san!"
-        },
-        {
-            "text": "In the trainer room where Winning Ticket had left, only the sound \nof the Derby video was flowing."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narration",
+      "text": "They called it the Derby with the greatest racers of all time."
+    },
+    {
+      "name": "Narration",
+      "text": "Among such amazing runners, no one thought of her as special."
+    },
+    {
+      "name": "Narration",
+      "text": "But she knew who she was."
+    },
+    {
+      "name": "Narration",
+      "text": "To leave her past defeats behind, she unleashed all her being into \nthe final sprint and, in a burst of blinding light, stood victorious at the \nfinish."
+    },
+    {
+      "name": "Narration",
+      "text": "That light had a name—Eishin Flash."
+    },
+    {
+      "name": "Narration",
+      "text": "The strongest are always those who believe in themselves and follow \ntheir own path."
+    },
+    {
+      "text": "For Winning Ticket, the first race of the Classics, the Satsuki Sho, \nends in failure."
+    },
+    {
+      "text": "The day after her defeat…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Huff… Huff…</i> Phew…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "What was next, incline training?"
+    },
+    {
+      "text": "She's training like any other day, though I told her it's okay to rest \nright after a race.",
+      "choice_data_list": [
+        "You're not too fatigued?",
+        "You're not too fatigued?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Huh? Oh, I'm fine."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "You know, I kinda feel like I can't take a break, even for a day… \nEhehe."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "So I'm gonna get on with incline training!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "She always lets her feelings take the wheel, so I thought she'd be all \nlike, \"Nooo, I lost!\""
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "But she doesn't seem to have her normal boundless energy. Losing the \nSatsuki Sho must've been a tremendous shock."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "'Cause it means she could lose the Derby next."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Trainer, make sure to keep an eye on her please.",
+      "choice_data_list": [
+        "I'm on it."
+      ]
+    },
+    {
+      "text": "I say that, but I have no idea what to do for Winning Ticket right now."
+    },
+    {
+      "text": "I go back to my office after training to find her in there."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, Trainer."
+    },
+    {
+      "text": "Did you forget something?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No, just thought I'd watch a racing video."
+    },
+    {
+      "text": "She's watching another Derby video. She comes here to do that \npretty often."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "…"
+    },
+    {
+      "text": "But before, she would always get choked up and start yelling about \nhow emotional it is. This time she's just sitting here quiet as a mouse.",
+      "choice_data_list": [
+        "Next it'll be your turn to race in the Derby.",
+        "Next it'll be your turn to race in the Derby."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Wha?! O-oh, right… Yeah. I'll be in the race I've been watching since \nforever."
+    },
+    {
+      "text": "Usually she can't calm down once she starts talking about the Derby, \nbut she seems uneasy about something today."
+    },
+    {
+      "text": "I'm sorry we didn't win the Satsuki Sho…"
+    },
+    {
+      "text": "I'm sorry we didn't win the Satsuki Sho…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Um, Trainer? Can I say something pretty obvious?"
+    },
+    {
+      "text": "Like what?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "In racing, there's times when you lose, huh?"
+    },
+    {
+      "text": "That's true, but we work hard so that doesn't happen, right?"
+    },
+    {
+      "text": "That's true, but we work hard so that doesn't happen, right?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah, but I tried my hardest in the Satsuki Sho. I did everything I \ncould have."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Still… it wasn't enough. I feel like I finally understand how hard racing \nreally is."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "So now the videos I was always so excited to watch… It's like they've \nturned into something else."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I used to see the racers who lost and get all worked up like it was \nsome big theater performance."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "But I had no idea what they were really feeling. How it felt when their \ndreams were shattered…",
+      "choice_data_list": [
+        "Tickezo… you okay?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, ha ha… Guess I'm a little on edge!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Welp, I'd better get back soon or the dorm head will get pretty mad! \nSee you tomorrow!"
+    },
+    {
+      "text": "She's gone, and the room falls silent except for the sound of the \nDerby video still playing."
+    }
+  ]
 }

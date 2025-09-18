@@ -1,146 +1,146 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Cheers",
-            "text": "(Cheers!!)"
-        },
-        {
-            "name": "Cheers",
-            "text": "Tickezou! Tickezou!"
-        },
-        {
-            "text": "After the goal, from the stand to the \nwinner “Tickezou call” was heard."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Woah, this is amazing…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Of course, it was the greatest Derby."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Sob… Derby…! My own… Derby, Derby…!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Geez, you just got out of here."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "There's only one, that's the victory road you ran through."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Taishin, Hayahide!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "It was the best race ever… It was the \nbest Derby ever! Our own Derby!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "However, this is not going to happen next. It's my turn to show \nmy back in the “Kikkashou”."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Yeah, Our goal is not the Derby. There are many races after this."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Of course! Let's continue running with the three of us from now \non! Alright! Aim, beyond the Derby～～～!"
-        },
-        {
-            "text": "The voices honoring Winning Ticket echoed \nin the underground bar in the racetrack."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "It's a great call. You can hear it anywhere on the racetrack."
-        },
-        {
-            "text": "It may be that Tickezou's feelings were conveyed \nto the people who supported her."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ah, Trainer-san～!!",
-            "choice_data_list": [
-                "Congratulations, Tickezou!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I did it! I won the Derby!! Even now \nit still feels like a dream～!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Congratulations, Winning Ticket-san. Ehehe, \ndidn't you want to get more cheering?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ehehe, that may be right, but there \nwill be an interview after this."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Besides, that's not the end of the goal. I have a chance to get a \nlot of calls from now on!"
-        },
-        {
-            "text": "Yes, “Winning the Derby” no matter what dream \nyou fulfill, this is not the end."
-        },
-        {
-            "text": "Winning Ticket races will still continueーBecause \nthe drama is still going on.",
-            "choice_data_list": [
-                "Let's get a lot of calls in the future!"
-            ]
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah! Let's do our best together, Trainer-san!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Then, Tazuna-san! Let's go to the interview! I refused the \ninterview before the Derby, so I have to respond to that!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "Then, the winner of the amazing Derby, Winning Ticket-san!!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Ehehe, thank you so much!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "After the race's big call, what kind \nof feeling were you listening to?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I wanted to make it a great Derby, so I was happy that it was \ntransmitted to everyone!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "What was the key to winning the battle \nagainst your rivals called “BNW”?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Of course there was a lot of training involved…"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "My feelings for the Derby and my desire to write as a friend and \nrespond to my promises with my rivals in a great way, and thenー"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "My feelings to make the trainer who supported \nme so much into a “Derby Trainer”!"
-        },
-        {
-            "name": "Interviewer",
-            "text": "And last, a word of your feelings for winning the Derby!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "I'm the Horse Girl who won this great Derby, Winning Ticket!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fans",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Fans",
+      "text": "TIC-KE-ZO! TIC-KE-ZO!"
+    },
+    {
+      "text": "The ecstatic chants of the new champion's name ring out toward the \ntrack."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hah! You hearing this?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I expected no less. That was an outstanding Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aaah… The Derby! I won the… I won the…"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Geez, you beat me fair and square."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "It was the only possible path. Yours was truly the road to victory."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Taishin! Hayahide!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "That was the best race… The best Derby ever! And it was ours!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "But it won't go this way next time. In the Kikuka Sho, it'll be my turn \nto win."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Yeah, our goal isn't just the Derby. There's still plenty of races to go."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Totally! And we'll run them all together! Let's go for it! To what's \nbeyond the Derby!"
+    },
+    {
+      "text": "The cheers for Winning Ticket from outside can be heard through the \nwhole length of the runners' tunnel."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "That's quite a chant. You can hear it across the entire racetrack."
+    },
+    {
+      "text": "I think Tickezo's enthusiasm may have spread to all her fans."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, Traineeer!",
+      "choice_data_list": [
+        "Congratulations, Tickezo!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I did it! I won the Derby! It feels like I'm dreaming!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Congratulations, Winning Ticket. Hehe, are you sure you didn't want \nto take in more of that applause?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hehe, sure, but there's interviews to do."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "And, you know, this won't be the last I hear it. There's gonna be tons \nof chances in the future!"
+    },
+    {
+      "text": "Yes. She fulfilled her dream of conquering the Derby, but this isn't \nthe end."
+    },
+    {
+      "text": "Because her story will go on.",
+      "choice_data_list": [
+        "Make them chant your name again and again!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yeah! Let's make it happen together!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "All right, Ms. Tazuna! Let's get to those interviews! I gotta make up \nfor missing the prerace press conference!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "And now, the racer who won the Derby in spectacular fashion—please \nwelcome Winning Ticket!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Heehee, thank you very much!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "First, hearing the audience chant your name after the race—how did it \nmake you feel?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I gave my all to make this the best Derby ever, so I was really happy \nthat everyone watching picked up on it!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "You raced against your BNW rivals today. What was the key to your \nvictory?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I trained a whole lot, for sure, but what really motivated me…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Was my dream of winning the Derby, and the promise I made with my \nbestie rivals. That, and…"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "I really wanted to make my trainer a Derby trainer for being so \nsupportive all this time!"
+    },
+    {
+      "name": "Interviewer",
+      "text": "One last thing. A message from the Derby winner!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "My name's Winning Ticket, and I'm the winner of the greatest Derby \never!"
+    }
+  ]
 }

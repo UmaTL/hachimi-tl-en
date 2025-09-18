@@ -1,48 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Congratulations, Brian. It was a good run."
-        },
-        {
-            "text": "Congratulations, Brian. It was a good run."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…You're right. From all the races I've run \nso far, this may have been my No. 1."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "After all, it was the first time I was able \nto live my feelings for victory so far"
-        },
-        {
-            "text": "So this 1-in-1 race that you won was that meaningful to you."
-        },
-        {
-            "text": "So this 1-in-1 race that you won was that meaningful to you."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "However, I'm not going to be satisfied with just this. The desire \nto run still keeps me moving forward."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "There are still opponents who I want to overtakeー My Big-sister's \nback is waiting for me."
-        },
-        {
-            "text": "That's right, in Narita Brian's eyes, there \nis something that shines strongly.",
-            "choice_data_list": [
-                "Keep running, Brian!",
-                "Keep running, Brian!"
-            ]
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…Needless to say."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Now, the next race… not yet!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Congrats, Brian. That was some incredible running."
+    },
+    {
+      "text": "Congrats, Brian. That was some incredible running."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "It sure felt like it. That might've been the best I've ever done."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "After all, this was the most I've ever wanted to win."
+    },
+    {
+      "text": "I think all those races you couldn't win led you to this point."
+    },
+    {
+      "text": "I think all those races you couldn't win led you to this point."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "But I'm not going to stop here. My urge to run is what I'll use to \npropel me forward."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahead of me is where my sister's waiting. She's the person I still need \nto defeat."
+    },
+    {
+      "text": "I can tell she really means it—her eyes shine as passionately as her \nwords.",
+      "choice_data_list": [
+        "Never stop, Brian!",
+        "Never stop, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "You know I won't."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "So, when's my next race? I'm starving!"
+    }
+  ]
 }

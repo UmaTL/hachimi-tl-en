@@ -1,82 +1,82 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Commentator",
-            "text": "Towards the Triple crown horse girl, Mihono Bourbon appears here \nat the Keito racetrack!"
-        },
-        {
-            "name": "Cheers",
-            "text": "(Cheering!!)"
-        },
-        {
-            "name": "Spectator A",
-            "text": "Mihono Bourbon! show me the moment of \nthe Triple Crown horse girl's birth!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "I believe in your victory!"
-        },
-        {
-            "text": "The (Kikkashou). The day of the confrontation between Rice Shower \nand Mihono Bourbon has finally arrived."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Bourbon-san… Follow her… Follow her. Then… Overtake her."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Rice Shower-san. It seems that you have marked me quite a bit."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Still, I will win first place."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice too, will not lose today."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Rice-san! Do your best!"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "The (Kikkashou). its 3000m in turf, there is a chance for Rice, \nwho is good at long distance, right?"
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "However, there is no reason that Bourbon \nhas not planned any countermeasures."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hey, Trainer, what did you tell Rice?"
-        },
-        {
-            "text": "Follow Bourbon and overtake."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hmm…… Hey, that's all!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "It's not a mistake. Rice-san's power to follow is the real deal."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "However, rather than Bourbon herself, I'm worried about how the \nfans will react, when Rice wins they might――"
-        },
-        {
-            "name": "Cheers",
-            "text": "(Cheering!!)"
-        },
-        {
-            "text": "As if to block Mejiro McQueen's words, The cheers before the \nstart echoed in the race field."
-        },
-        {
-            "name": "Commentator",
-            "text": "it's now the start of The Kikkashou Award \nfor the last glory of the classic race."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Caster",
+      "text": "And here's undefeated Triple Crown hopeful Mihono Bourbon, \nmaking her appearance at Kyoto Racecourse!"
+    },
+    {
+      "name": "Fans",
+      "text": "<i>Cheers!</i>"
+    },
+    {
+      "name": "Fan A",
+      "text": "Mihono Bourbon! Show us the birth of a Triple Crown legend!"
+    },
+    {
+      "name": "Fan B",
+      "text": "We believe in you!"
+    },
+    {
+      "text": "Rice Shower versus Mihono Bourbon. This Kikuka Sho will settle their \nrivalry once and for all."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Just keep following Bourbon… Just keep following… Just follow, and \nthen…"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Rice Shower… I see you already have me marked."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No matter. I will be first across the finish."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "…Not today. I won't lose again."
+    },
+    {
+      "name": "Upbeat Umamusume",
+      "text": "Rice! You got this!"
+    },
+    {
+      "name": "Sincere Umamusume",
+      "text": "The Kikuka Sho. 3,000 meters on turf. Long distance is Rice's \nstrength, which means she has a chance, right?"
+    },
+    {
+      "name": "Caring Umamusume",
+      "text": "Yeah, but there's no way Bourbon doesn't have something up her \nsleeve."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hey Trainer, what'd you tell Rice?"
+    },
+    {
+      "text": "I told her to keep following Bourbon, then pass her."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Uh-huh… Wait, that's it?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hard to find fault with that advice. Her ability to stalk a leader is \nsecond to none."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…If anything, I'm less concerned about <i>if</i> she can beat Bourbon, and \nmore about how the crowd will—"
+    },
+    {
+      "name": "Fans",
+      "text": "<i>Cheers!</i>"
+    },
+    {
+      "text": "McQueen is cut off by another tidal wave of cheers. It's almost time."
+    },
+    {
+      "name": "Caster",
+      "text": "The crowning glory of the Classics is on the line here in the Kikuka \nSho. And it all starts now!"
+    }
+  ]
 }
