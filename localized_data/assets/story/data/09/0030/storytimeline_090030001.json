@@ -1,4 +1,5 @@
 {
+    "title": "Autumn's Advent",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -20,27 +21,27 @@
         {},
         {
             "name": "Horsegirl A",
-            "text": "Ah～～～ It's prime eating season… Oh, wait, \nisn't the <i>Festival of Illustrious Equines</i> coming up? \nWonder what's on the agenda this year."
+            "text": "Ah～～～ Fall really is prime eating season… Oh, that \nreminds me, isn't the <i>Festival of Illustrious Equines</i> \ncoming up? Wonder what's on the agenda this year."
         },
         {
             "name": "Horsegirl B",
-            "text": "Aren't responsibilities for the various performances rotated \nbetween the different horsegirl communities? I'm curious if \nTracen Academy has received its assignments yet～"
+            "text": "Responsibilities for the various performances were rotated \nbetween the different horsegirl communities, right? I'm curious \nif Tracen Academy has received its assignments yet～"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Appointment! You five have been selected to perform in the \n<i>Votive Stage Play</i> at this year's Festival of Illustrious Equines!"
+            "name": "Director Akikawa",
+            "text": "Appointment! The five of you have been selected \nto perform in the <i>Votive Stage Play</i> at this year's \nFestival of Illustrious Equines!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "—— Tokai Teio! Tsurumaru Tsuyoshi!"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "—— Kawakami Princess! King Halo! \nHaru Urara! Congratulations!"
         },
         {
             "name": "Kawakami Princess",
-            "text": "Whaaat!? Meee, in the Votive Stage Play!? \n… What exactly is this \"Votive Stage Play\"?"
+            "text": "Whaaat!? Meee, in the Votive Stage Play!? \n… What exactly is a \"Votive Stage Play\"?"
         },
         {
             "name": "Haru Urara",
@@ -51,7 +52,7 @@
             "text": "Why would you think that! It means offering in devotion! \nThis is a sacred ceremony of the Festival of Illustrious Equines! \n…… So, this year Tracen Academy is in charge of it?"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "Affirmative! The Votive Stage Play is a play offered to the three \ngoddesses! A traditional ceremonial performance art, enacting \nhorsegirl folklore passed down from ancient times!"
         },
         {
@@ -63,12 +64,12 @@
             "text": "Hmmm. Choosing me, huh? Seems the gods have good taste! \nHehe～ We gotta go brag to Prez about this♪"
         },
         {
-            "name": "Chairwoman Akikawa",
+            "name": "Director Akikawa",
             "text": "There's also a preparation camp coming up for this stage play! \nHigh expectations! As representatives of Tracen Academy, \nI hope you'll dedicate yourselves to the task!"
         },
         {
             "name": "Both",
-            "text": "Prez! Guess what～～!! \nPresident, you've got to hear this～～!!"
+            "text": "<color=#ff99d0>Prez! Guess what～～!!</color> \n<color=#f5cd47>President, you've got to hear this～～!!</color>"
         },
         {
             "name": "Both",
@@ -76,7 +77,7 @@
         },
         {
             "name": "Tsurumaru Tsuyoshi",
-            "text": "Oh boy～ The president sure laughed at us."
+            "text": "Oh boy～ We sure gave her a laugh, huh."
         },
         {
             "name": "Tokai Teio",
@@ -88,7 +89,7 @@
         },
         {
             "name": "Tsurumaru Tsuyoshi",
-            "text": "Yeah! Even though I don't know exactly what we'll \nbe doing yet, I want to show something really amazing \nand totally surprise the president!"
+            "text": "Yeah! Even though I don't know exactly what we'll \nbe doing yet, I want to show the president something \nreally amazing and totally surprise her!"
         },
         {
             "name": "Both",
@@ -112,11 +113,11 @@
         },
         {
             "name": "King Halo",
-            "text": "? Yes, that's right. \nA worthy first-class stage, for us to ——"
+            "text": "? Yes, that's right. \nA suitable first-class stage, for us to ——"
         },
         {
             "name": "Kawakami Princess",
-            "text": "—— Whaaat!? S-Sharing the stage with Madam King, together!? \nIs that really happening!?!?"
+            "text": "—— Whaaat!? S-Sharing the stage with Madam King!? \nTogether!? Is that really happening!?!?"
         },
         {
             "name": "Kawakami Princess",
@@ -148,7 +149,7 @@
         },
         {
             "name": "King Halo",
-            "text": "We've been given a very honorable task. We need to stay \nfocused and make sure we do justice to our roles."
+            "text": "We've been given a very honorable task. We need to stay \nfocused and make sure we do our roles justice."
         },
         {
             "name": "King Halo",
@@ -172,7 +173,7 @@
         },
         {
             "name": "Tsurumaru Tsuyoshi",
-            "text": "<i>Wooow</i>, this is where we're having our training camp!! \nI'm so psyched, let's do thiiiiii—<i>ughuh! uaghah! \n</i>"
+            "text": "<i>Wooow</i>, this is where we're having our training camp!!? \nI'm so psyched, let's do thiiiiii—<i>ughuh! uaghah! </i>"
         },
         {
             "name": "Tokai Teio",
@@ -184,11 +185,11 @@
         },
         {
             "name": "Votive Play Instructor",
-            "text": "I'm with the Horsegirl Ritual Arts Association, and I will \nbe serving as your instructor for this preparation camp. \nI look forward to working with you all."
+            "text": "I'm with the <i>Horsegirl Ritual Arts Association</i>, and I will \nbe serving as your instructor for this preparation camp. \nI look forward to working with you all."
         },
         {
             "name": "All Together",
-            "text": "We look forward to being under your care!!"
+            "text": "We look forward to receiving your teachings!!"
         }
     ]
 }
