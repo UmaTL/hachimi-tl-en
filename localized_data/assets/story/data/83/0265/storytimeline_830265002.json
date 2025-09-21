@@ -1,0 +1,190 @@
+{
+  "title": "A Solitary Day Off",
+  "text_block_list": [
+    {
+      "text": "(Chatter Chatter)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…"
+    },
+    {
+      "name": "Air Messiah",
+      "text": "—Um… The meeting place should be…"
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Just a bit further and I'm there. \nI'm a bit late so I'll just run—"
+    },
+    {
+      "name": "Air Messiah",
+      "text": "… Kyaa!!"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "!"
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Thank you so much for helping me. This is where I'm supposed to meet up with some friends."
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Oh no, the strap on your shoe is broken. \n… It's a little late, but are your plans for the day alright?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "They're fine. \nThese shoes are still suitable for walking."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Farewell."
+    },
+    {
+      "name": "???",
+      "text": "Ah, there you are, Messiah. \nWait… —Aruvu?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "… I see. So that's what happened. \nThat must have been a bother to you."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "… God's sake. Just came here to buy some new running shoes. What a chore."
+    },
+    {
+      "name": "Air Messiah",
+      "text": "I have nothing to say. \nAruvu really helped me out."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Come now, I should pay you back for \nyour kindness… What would you like?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "… No thank you, I just happened to be in the area."
+    },
+    {
+      "name": "Air groove",
+      "text": "Heh, don't say that. Are you free after this? How about we go and get a meal—"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "—I'm sorry."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I have something urgent to do, so I'll be off. \n… Pardon me."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ah, hey!"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(When… did I get here…)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…"
+    },
+    {
+      "name": "Mother and Child",
+      "text": "—Mommy! Push harder! \n—Alright, alright. Make sure you're holding onto the swing, okay?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "… A swing."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(I've never been… pushed before.)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(— At that time.)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(At that time, if only…)"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Heh, don't say that. Are you free after this? How about we go and get a meal together."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "… If it's just a meal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Alright, it's been decided."
+    },
+    {
+      "name": "Air Messiah",
+      "text": "! \nThis… is really delicious."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Mm… well, it ain't bad."
+    },
+    {
+      "name": "Air Messiah",
+      "text": "Aruvu, would you like a piece? I can give you one on your plate."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oi, those strap-on weights look way too heavy for her. \nIt ain't good to progess the load so much."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Is this weight more suitable for you? \n… Come now, let's at least try it."
+    },
+    {
+      "text": "(Drip)"
+    },
+    {
+      "text": "!",
+      "name": "Admire Groove"
+    },
+    {
+      "name": "Mother and Child",
+      "text": "—Mommy! It's raining! \n—Oh dear! Where's the folding umbrella…"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "—Tch."
+    },
+    {
+      "text": "On that day, as I arrived in front of the train station. I ran into Admire Groove, who was walking alone in the rain.",
+      "choice_data_list": [
+        "If you don't have an umbrella, take mine.",
+        "… Did something happen? Are you alright?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "… I'm fine. \nI was just on my way back to Tracen.",
+      "choice_data_list": [
+        "But…"
+      ]
+    },
+    {
+      "text": "Even though I called out to her, she walked into the rain alone and vanished."
+    },
+    {
+      "text": "I'm fine, nothing happened.",
+      "name": "Admire Groove"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "… If you'll excuse me.",
+      "choice_data_list": [
+        "Ah!"
+      ]
+    },
+    {
+      "text": "I tried to reach out to her, but she walked into the rain alone and vanished."
+    }
+  ]
+}
