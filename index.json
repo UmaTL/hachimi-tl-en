@@ -7164,6 +7164,36 @@
       "size": 4142
     },
     {
+      "path": "assets/story/data/83/0264/storytimeline_830264001.json",
+      "hash": "0f1e89a4fb89493ec7940a08f1e2693c46d46713fd2cae416ab44f934bfa3c97",
+      "size": 3745
+    },
+    {
+      "path": "assets/story/data/83/0264/storytimeline_830264002.json",
+      "hash": "f2dab515664bef57479fa7817f6aeef36e631f4b239da9c20487844c4bc5c5a2",
+      "size": 6242
+    },
+    {
+      "path": "assets/story/data/83/0264/storytimeline_830264003.json",
+      "hash": "44f930a543913471125e2182f83adf634d59fbc67e6c5f5e4e5a5248e62fe8ba",
+      "size": 7014
+    },
+    {
+      "path": "assets/story/data/83/0265/storytimeline_830265001.json",
+      "hash": "e5cb4adca5f2e224b3ea38d6284db41bc0e6a10f6931a05a7184b371d64f376e",
+      "size": 4863
+    },
+    {
+      "path": "assets/story/data/83/0265/storytimeline_830265002.json",
+      "hash": "81e0a6becc888b427c264d24269ccc7107b4511a8f6375a0cdcd603cca649e86",
+      "size": 4896
+    },
+    {
+      "path": "assets/story/data/83/0265/storytimeline_830265003.json",
+      "hash": "e6d53a8e5b91739ce5c190c74796537f230aa166872562b319e92a60f791dd63",
+      "size": 4192
+    },
+    {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0070.diff.png",
       "hash": "19e2c7d09c6a31e27003b70bb10432134e238775b40d860b1f61c600e4135b73",
       "size": 14614
@@ -10650,8 +10680,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "da18bdc24b8e8a8c71cfb6198a390a5acaeea88c0b2d362f9529e9c2c6ed5383",
-      "size": 272934
+      "hash": "fdc0073ec892aabd92a1790eb3842e079e27357732e831ea756b561919f5bee2",
+      "size": 272922
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -10665,8 +10695,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "28bc9f7187758f74f13c0aa0ac72ce84e5cc80f11cfbb303179f1cc39d3d7a8e",
-      "size": 2971323
+      "hash": "ffadf67f6d43d0f9b3a5d826ad65125a2576b4d3258cb91b8bba507358e78724",
+      "size": 2978588
     }
   ]
 }
