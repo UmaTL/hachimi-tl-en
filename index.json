@@ -444,43 +444,83 @@
       "size": 101832
     },
     {
+      "path": "assets/atlas/campaign/campaign.diff.png",
+      "hash": "d14a087abaf2dbe4741fa0f5ebc3ad48ef9fc3edbcf1249e3775caf370c95e18",
+      "size": 107733
+    },
+    {
+      "path": "assets/atlas/campaign/campaign.json",
+      "hash": "b7b97f3a8002eda0a5c597ac8c1fe47987be3d89c65c17151dcf9af12cd0855f",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/challengematch/challengematch.diff.png",
+      "hash": "c3ce185aad28a50bc6e01ca53edc28cef0292796970917ba2a05af260677c059",
+      "size": 182265
+    },
+    {
+      "path": "assets/atlas/challengematch/challengematch.json",
+      "hash": "ec68afef58d7eb66958d784f00213a20aa2b7342b1449a0cdc6595331e15d294",
+      "size": 166
+    },
+    {
       "path": "assets/atlas/championsmeeting/championsmeeting.diff.png",
-      "hash": "d921c2905a0ccea3a8404ad2af8bdcecb0e875750130ad50c4941231a4a6d4d0",
-      "size": 1098575
+      "hash": "120759ec6305bb95c912d6cb7e29cfc3dcade15ce6d161d2ed10949050985625",
+      "size": 1325416
     },
     {
       "path": "assets/atlas/championsmeeting/championsmeeting.json",
-      "hash": "7f78cb2cf70e0c6f4c83fad68a34a3645a90c439b469be1ca1e3b4b202a23144",
+      "hash": "35f22a63abe0524fed5d21cbff42c32c774759a00f4655e4eed57f45123a322b",
       "size": 166
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "ff4d1511868cbfa2804628c7391ca39406f922d7cf8b27f2c7766ea5474993c8",
-      "size": 324648
+      "hash": "4a3418f00bcddf2b2bd93f458ded916a47648a22baefddf661bde98449173c77",
+      "size": 346480
     },
     {
       "path": "assets/atlas/common/common.json",
-      "hash": "db28508cbea0b5a9a6158c0f4092145ed6bb5e3ade36cb3c5587e8308afaf227",
+      "hash": "5dbee5a0bb1e9652abe613bd9433442bc6aae185958c36c3e3a1ea3d785bfc76",
       "size": 166
     },
     {
       "path": "assets/atlas/factorresearch/factorresearch.diff.png",
-      "hash": "1c38119a757482fa8a04fddcd3a800d5740c265d755e7e606517f6906058cb48",
-      "size": 36240
+      "hash": "6a700ff1cf61a7824b1f21eda2bcef3489f39d328b8bf81738222634cd8fff2d",
+      "size": 47640
     },
     {
       "path": "assets/atlas/factorresearch/factorresearch.json",
-      "hash": "54e7966bff3c62822f433cb0bcbab2be60a3a535749e9d3b7780ddc3f1cf9dbb",
+      "hash": "6ca0b2d4a814f631afc5d621d24d93c8e13dd22ee584a73235926b1e12c85ce3",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/gacha/gacha.diff.png",
+      "hash": "316ff269f8a82544df13f13da8dff3e16e9bef6c2c5aefce85b8c746ddcfe477",
+      "size": 530647
+    },
+    {
+      "path": "assets/atlas/gacha/gacha.json",
+      "hash": "54a7e8321366257d15091d2718aecaef457a8eebe6fcaa32911f08cb81146904",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/heroes/heroes.diff.png",
+      "hash": "028348e544a11ebed253d7738270c6710e351f898d11ec88acf668319331f63f",
+      "size": 696284
+    },
+    {
+      "path": "assets/atlas/heroes/heroes.json",
+      "hash": "2719df38733c986eaa030942340167100c52c16094fdacd458b97da233b1bb86",
       "size": 166
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "27d5865f7bb470332bda870dfc6d2ce50b0b092140a34eac518a03d6f9f32984",
-      "size": 117572
+      "hash": "a87179e319b62cd442af249d468ceb1fc17cead710d6273620dfb8bbc1b4db26",
+      "size": 121046
     },
     {
       "path": "assets/atlas/home/home.json",
-      "hash": "ba83d1d743cfe1289418cc13d32431cf60e703ad7c47b291b144caba47367446",
+      "hash": "32d8305bcb6e55fe9ec4640b941c93654ddb2099f09951ba1806dad4481cf5bd",
       "size": 166
     },
     {
@@ -490,7 +530,7 @@
     },
     {
       "path": "assets/atlas/mission/mission.json",
-      "hash": "4b3045b4b5eaeec5efb366cc7d506d459ffe4c589f9c58c6ccf5ec9445d026c3",
+      "hash": "4da1e5aa54099ca8194f8f73a339869a24d453b1b5476ca9040c2947f2c74f48",
       "size": 166
     },
     {
@@ -500,17 +540,27 @@
     },
     {
       "path": "assets/atlas/photostudio/photostudio.json",
-      "hash": "ebbd27a93d4f5ed3723d25a0606869fe7596c777e9b81a829ed6888a2996e798",
+      "hash": "bb0e702d18e3a0aeb6694ed122b5746e4dcebfe3d7f1b1094f45206824703403",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/practicerace/practicerace.diff.png",
+      "hash": "95eb03d85c8f1d39627b4a202fa1a0a4e8fbc0b7f2791756b4695a5723dbd948",
+      "size": 33416
+    },
+    {
+      "path": "assets/atlas/practicerace/practicerace.json",
+      "hash": "bfcd1f8589cde8cbef297ce41f34a009e07c4098058fa8180aee63a24670c7a2",
       "size": 166
     },
     {
       "path": "assets/atlas/race/race.diff.png",
-      "hash": "9d7de810c386a1a0a10168243f77360a29ce60a3a81a6d1a1db743a98786cd43",
-      "size": 363766
+      "hash": "505008314ddfc36f03173f5458382e85400dd03ec17d94455e8562e454339870",
+      "size": 374921
     },
     {
       "path": "assets/atlas/race/race.json",
-      "hash": "f66f97c85e653f2ea7b2e58a969934d4dbca48b54e0300ebd2ac8e40c8562a85",
+      "hash": "ddff08b743744230f9b19e38336832ada6afbdee0a7edc3d39ac3bbae65d5039",
       "size": 166
     },
     {
@@ -520,12 +570,12 @@
     },
     {
       "path": "assets/atlas/racecommon/racecommon.json",
-      "hash": "4de1792ca378401739eb64da40a889c617f9ce38f0ac65f5389c2792c049c830",
+      "hash": "7f18ecf6ca4c3e6d46fdcb0d394526db622872630bb4e9ea53f796ee91f8297d",
       "size": 166
     },
     {
       "path": "assets/atlas/raceorder/raceorder.json",
-      "hash": "1078284baf0ec91745fac4a2840200130305d73f7fc712a6dd32f7d3a7c334e8",
+      "hash": "1c9a57cff67b0a7fb1fcb2f596601b54f786567f3d304a341d0560922547891f",
       "size": 166
     },
     {
@@ -534,33 +584,83 @@
       "size": 649347
     },
     {
+      "path": "assets/atlas/roommatch/roommatch.diff.png",
+      "hash": "7a4439168e7678636dbbd5c3528ac0def3f39380075bde2edf8668ea5497e26e",
+      "size": 74885
+    },
+    {
+      "path": "assets/atlas/roommatch/roommatch.json",
+      "hash": "04ce0fb2e9190d335ab63739598beae90552919a4e21207c535f6ed02306455b",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/schedulebook/schedulebook.diff.png",
+      "hash": "c86d44176f3b1dfc241b7b6e76986d04a967ff9cf829a0bbdf49ca5621cef60c",
+      "size": 16700
+    },
+    {
+      "path": "assets/atlas/schedulebook/schedulebook.json",
+      "hash": "dc22d9a58a21dbcbdfbca2533a5014b3aa0dae5036798dd8fb2444f84c5d9678",
+      "size": 166
+    },
+    {
       "path": "assets/atlas/single/single.diff.png",
-      "hash": "b882d633b538236a219270e6ecc6fe4ce611fbd2a23f56d085d5e5e4177b1330",
-      "size": 131738
+      "hash": "1167fe790e7da6af03c43510f5c378c3435f82e432c77284715677d6418cc158",
+      "size": 152194
     },
     {
       "path": "assets/atlas/single/single.json",
-      "hash": "640236c70e047e391c6a04af817705eacdd34d9cc5503742772e0a16541d6010",
+      "hash": "b6702d06015a0e9b52f15e3e8ab3dd468646c2216ee55d9b74a3502d719a6eb9",
       "size": 166
     },
     {
       "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.diff.png",
-      "hash": "819868186f2e799b6e46eab63142b80caa0ffe99ba444968015dd5d576d1135f",
-      "size": 231745
+      "hash": "dcca72aa950fa7d0879476348d180572eca05ab07a1a736230ff60ad83650ce1",
+      "size": 227861
     },
     {
       "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.json",
-      "hash": "95a62870bc5df254abd1342451cc62430b6d6e310f919ebc8de299017e72858e",
+      "hash": "ca0818e2a2b7337bc8d47b5fbda9de25da759f458183da52126aa56e4cf4b75f",
       "size": 166
     },
     {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.diff.png",
-      "hash": "07f56282a16f8cce0eb17c14e01cc53020b879bcd53a61077411f572ae7fc19a",
-      "size": 333860
+      "hash": "2cab1da13661442dbcca628d8103471fb2cd352bd0638f3e258c0b6217c273d2",
+      "size": 334681
     },
     {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.json",
-      "hash": "75bdca2d4178e089a83608fc7400be3036d4063d75956cf0bddc938605d5b002",
+      "hash": "c9863c493c03c4665a0dea37ab4e3bd1765fc1ce812efcbad219197fe64d5f23",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.diff.png",
+      "hash": "fa974d73d7aa2c052931e9490a6a65edf3935bdf77fc43f6b809c1bb76bd7e4a",
+      "size": 404901
+    },
+    {
+      "path": "assets/atlas/singlemodescenariofree/singlemodescenariofree.json",
+      "hash": "70bdd7f015966f28850173aad48a331780fab993f4ce4f554874160052eedc37",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.diff.png",
+      "hash": "aa01704a2b459441942521a9b05ae86508de7d7454fdd3340dbdb73aee6a52b8",
+      "size": 56892
+    },
+    {
+      "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.json",
+      "hash": "0a16bba8e48cdde765f368277620887a1b7d8fe45ea069304e36e2dae51c4e16",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
+      "hash": "9c049ad7cbe020fa040354af8816872a8f2060ec287abddaf2e6f0040bf78c03",
+      "size": 324007
+    },
+    {
+      "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.json",
+      "hash": "9c845bbcc4379542826aa405315c4ff22f0500b6260eb1dcb6ad37c06783b358",
       "size": 166
     },
     {
@@ -570,17 +670,57 @@
     },
     {
       "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.json",
-      "hash": "b6be7b243c47470c89390cf326fd077a150321438df61c944567338f856d70e9",
+      "hash": "60de387c674b44eb4f60951c297c19e5023e29275e5749f463b27c205fde2ae2",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
+      "hash": "1cbbdf9a59d12a52655287e861e2569babf0aeefc540031493bfbedf43627b8f",
+      "size": 398743
+    },
+    {
+      "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.json",
+      "hash": "bfaeaf69bd4fa5c57c740f68e1dc0e2391cc94a002a210861ee63ec8965516de",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.diff.png",
+      "hash": "ab77b72cc68446baf9d9b6e8052985f900e8621879945968559c783a9bb8e123",
+      "size": 18444
+    },
+    {
+      "path": "assets/atlas/singlemodescenariopioneerfacilityicon/singlemodescenariopioneerfacilityicon.json",
+      "hash": "c7c9d6e047aeab4a488ea9d2ce995c4211e3089cbcdd5166a6fcbf82350127bb",
       "size": 166
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
-      "hash": "a1eb03460e4443d7e0ae710ea909b5d476b4c96218807247205789f7ff964a4f",
-      "size": 117244
+      "hash": "152f44cbfba4a5bd9c8cdcd78aec18b5d58f258f841b8cc31ace0ae177fad368",
+      "size": 129828
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.json",
-      "hash": "0a1915bbf1e4c1731fac6b37f984c46dbd39aa38f9a1afe22581535644a5eafa",
+      "hash": "bfd1ce9c3b190184d97be3ce5432018c3cc02ec6b4018ace3176ae32b44e4f05",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.diff.png",
+      "hash": "db28502f4e3496bd943e404b00150c02682146d664116b3b9bbf58e98da28f7a",
+      "size": 309428
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioteamrace/singlemodescenarioteamrace.json",
+      "hash": "8d89a587faa0df908fce068ac26725c45fbbc9ab598be85a192ee02933523d15",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.diff.png",
+      "hash": "e60a0438b7499ec2b46f6ff2dc09f4b2122903abd85d2f4f158443424f56be94",
+      "size": 152064
+    },
+    {
+      "path": "assets/atlas/singlemodescenariovenus/singlemodescenariovenus.json",
+      "hash": "15f90dc30de025a93000e887e2116587836a2f32a4ed13e6de26fae0dc7dbc21",
       "size": 166
     },
     {
@@ -590,37 +730,47 @@
     },
     {
       "path": "assets/atlas/singleresult/singleresult.json",
-      "hash": "0b8036ca9b6e40fea545f132942dbbf08f37d18fc8cfda64425e5622f216356e",
+      "hash": "b9e8ab06e6c60ae028df57b6f6805462a61a33005629d5169fd118d7e28dbbb0",
       "size": 166
     },
     {
       "path": "assets/atlas/singlestart/singlestart.diff.png",
-      "hash": "b7f99e34dbf6d3f8b89845440af1e4b3e440b6acfcdb65c8bd6548a7e05c72c1",
-      "size": 22986
+      "hash": "dbcabf1a510b73bf277809138941e79c5b16193183b3cd06b5f38a47010b0af8",
+      "size": 75501
     },
     {
       "path": "assets/atlas/singlestart/singlestart.json",
-      "hash": "6957adcc44ed3ff6b0c33ece3012cbbae092ff92a98c13c595970a7a9b6505f1",
+      "hash": "749af68822cb9bf6f48ec20b4f6e4aa8aa9b8c2679c8f637448ced36f54db340",
       "size": 166
     },
     {
       "path": "assets/atlas/storyevent/storyevent.diff.png",
-      "hash": "2adf0cfa151f8bf9d1bb5df092eb356eef968d8e39980d344cb9bd77edf002f2",
-      "size": 240437
+      "hash": "103dbb76bb86db5a7dbdeb289f0d3d65b49913509f6b39159a3eb07bf6f978e1",
+      "size": 235915
     },
     {
       "path": "assets/atlas/storyevent/storyevent.json",
-      "hash": "93f388fe9972bb6b84e9e49e0e75d1ce779f4ea720bf8037d4eb3de7cb5333c5",
+      "hash": "495e79a30603c7cb0f3ec98851bb1b97282d022defccb464a306006664a82705",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/teambuilding/teambuilding.diff.png",
+      "hash": "11539f116502f9f8792b0529bc759a58cd0c46f2ebf8e74ed69aa2f451ac264c",
+      "size": 446989
+    },
+    {
+      "path": "assets/atlas/teambuilding/teambuilding.json",
+      "hash": "d0bbc8cae34537ff9319533d8a6a361acf86c2364d4c9168dac94f718fc8290a",
       "size": 166
     },
     {
       "path": "assets/atlas/teamstadium/teamstadium.diff.png",
-      "hash": "9042930b25c6735c7c4d4df3f06148d616b507a4c8262e57bc57ec215e72a8c4",
-      "size": 574019
+      "hash": "0cef50684171432b6d214e9ced1d3757469ef037cfb426332d6e5a27764e637d",
+      "size": 712062
     },
     {
       "path": "assets/atlas/teamstadium/teamstadium.json",
-      "hash": "e710e3e3964e070c119915782f57c817540f76c857686385afb76cbdfab47937",
+      "hash": "36f4b65c0182d6cad6c7bc3dbef17ba696e977f8f24d3942aa6fc14baa09c2b1",
       "size": 166
     },
     {
@@ -630,17 +780,17 @@
     },
     {
       "path": "assets/atlas/trainingreport/trainingreport.json",
-      "hash": "e27dd71062edc20a1f269439d9974d4fbaa90d41e9d5e342edf5bd697abb7c18",
+      "hash": "0154b50f59a3bdcb13e4de40aba734d7e116e73931df048515b2d71ae8476a07",
       "size": 166
     },
     {
       "path": "assets/atlas/transferevent/transferevent.diff.png",
-      "hash": "17c5564edbc6df20906fc1bc39643baf053c16c3d0263a3b6690cec382b69ae5",
-      "size": 118405
+      "hash": "c50875b4a64ebea892ca6b77c43ced99b212a25ac7ae1e15e9f01369f1dd105e",
+      "size": 119937
     },
     {
       "path": "assets/atlas/transferevent/transferevent.json",
-      "hash": "eebfbe6a5b081bcb79527e237cafa303beaa5b38da72516d3efee1f1811787c3",
+      "hash": "1e681af6288764f9a0df3022e7b5fc64643e41ce4823664f7c0d0a1cd9bda3b2",
       "size": 166
     },
     {
@@ -650,7 +800,17 @@
     },
     {
       "path": "assets/atlas/umamusume/umamusume.json",
-      "hash": "078741a56b351cf66279b8f68f59ae43832ddd2c3b5a20fa335717b562d7d982",
+      "hash": "a079d1aae2ae198af513911299b72ac04a87cd0983d9ec7b4e260eeea5f127f2",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/walking/walking.diff.png",
+      "hash": "bae6b4b8655e5ecbd6fbc19e9f9db6758554d08c74e0c7880764d501d877c982",
+      "size": 25622
+    },
+    {
+      "path": "assets/atlas/walking/walking.json",
+      "hash": "a35aaf8626b4fc4fe9efd360d8a073a69ae24e7db0ba67d4afd4cd160d00c9e8",
       "size": 166
     },
     {
