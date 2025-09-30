@@ -13863,6 +13863,7 @@
         "106": "1500 Jewels (max 4x)",
         "107": "Trait Reacquisition Pass",
         "109": "1500 Jewels (max 4x)",
+        "110": "UmaSub",
         "111": "7500 Jewels (max 3x)",
         "112": "1500 Jewels (max 4x)",
         "114": "Trait Assignment Pass",
@@ -17595,6 +17596,7 @@
         "98": "3rd Anniv. Celebration \n1500 Jewels (4x only)",
         "100": "New Scenario Celebration \n1500 Jewels (4x only)",
         "107": "Trait Reacquisition Pass",
+        "110": "UmaSub",
         "111": "New Year's Celebration \n7500 Jewels (3x only)",
         "112": "New Year's Celebration \n1500 Jewels (4x only)",
         "114": "Trait Assignment Pass",
@@ -18992,6 +18994,8 @@
         "10060": "Beginning of a New Era attendance present 4.",
         "10061": "WINNING LIVE 19 purchase bonus.",
         "10062": "Beginning of a New Era attendance present 5.",
+        "10070": "Reward from UmaSub.",
+        "10071": "Unclaimed UmaSub reward.",
         "10085": "Code reward from the \"Why not take a stroll today?\" pack."
     },
     "65": {
@@ -42003,14 +42007,21 @@
         "812": "Increased bond gain",
         "813": "Increased bond gain",
         "814": "Increased bond gain",
+        "844": "Increased Attempts",
+        "849": "Increased Rewards",
         "853": "Highly increased bond gain",
         "854": "Highly increased bond gain",
         "855": "Highly increased bond gain",
+        "857": "Increased Attempts",
+        "869": "Increased Rewards",
         "871": "Additional trait rerolls",
+        "886": "Increased Attempts",
+        "889": "Increased Attempts",
+        "890": "Increased Rewards",
         "900": "Additional trait rerolls"
     },
     "188": {
-        "1": "Items obtained in training doubled.",
+        "1": "Items obtained in Careers doubled.",
         "2": "Get 3 extra tickets each day.",
         "15": "Get 3 extra tickets each day.",
         "23": "Daily horsegirl rentals doubled",
@@ -42033,7 +42044,7 @@
         "124": "Training costs half the TP.",
         "125": "Increased chance of guaranteed \nrewards when winning a Stadium race.",
         "126": "Get 3 extra tickets each day.",
-        "130": "Items obtained in training doubled.",
+        "130": "Items obtained in Careers doubled.",
         "131": "Get 3 extra tickets each day.",
         "132": "Training costs half the TP.",
         "133": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
@@ -42055,7 +42066,7 @@
         "188": "Get 3 extra tickets each day.",
         "191": "Free retries doubled.",
         "210": "Get 3 extra tickets each day.",
-        "223": "Items obtained in training doubled.",
+        "223": "Items obtained in Careers doubled.",
         "224": "Get 3 extra tickets each day.",
         "225": "Training costs half the TP.",
         "226": "You can take a stroll with your \nhorsegirl when the gauge fills.",
@@ -42087,7 +42098,7 @@
         "265": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "271": "Get 3 extra tickets each day.",
         "272": "Increased chance of guaranteed \nrewards when winning a Stadium race.",
-        "273": "Items obtained in training doubled.",
+        "273": "Items obtained in Careers doubled.",
         "274": "Get 3 extra tickets each day.",
         "275": "Training costs half the TP.",
         "279": "You can take a stroll with your \nhorsegirl when the gauge fills.",
@@ -42136,7 +42147,7 @@
         "369": "Get 3 extra tickets each day.",
         "370": "You can take a stroll with your \nhorsegirl when the gauge fills.",
         "460": "Get 3 extra tickets each day.",
-        "461": "Items obtained in training doubled.",
+        "461": "Items obtained in Careers doubled.",
         "462": "Training costs half the TP.",
         "463": "Money required to \nrent parents is halved. \n※Trainer Exam excluded",
         "464": "Gain 1 extra ticket each day",
@@ -42176,7 +42187,7 @@
         "526": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "527": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "532": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
-        "533": "Items obtained in training doubled.",
+        "533": "Items obtained in Careers doubled.",
         "534": "Get 3 extra tickets each day.",
         "535": "Training costs half the TP.",
         "536": "Reroll traits without consuming TP \nonce per day.",
@@ -42201,7 +42212,7 @@
         "648": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "649": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "650": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
-        "653": "Items obtained in training doubled.",
+        "653": "Items obtained in Careers doubled.",
         "654": "Training costs half the TP.",
         "655": "Increased chance of guaranteed \nrewards when winning a Stadium race.",
         "656": "Increased Bond gained from Career.",
@@ -42209,7 +42220,7 @@
         "658": "Free retries doubled.",
         "659": "Get 3 extra tickets each day.",
         "663": "You can take a stroll with your \nhorsegirl when the gauge fills.",
-        "668": "Items obtained in training doubled.",
+        "668": "Items obtained in Careers doubled.",
         "669": "Training costs half the TP.",
         "670": "Free retries doubled.",
         "671": "Reroll traits without consuming TP \nonce per day.",
@@ -42237,7 +42248,7 @@
         "724": "Reroll traits without consuming TP \nonce per day.",
         "725": "Horsegirl rental price halfed. \n※ Does not cover leading horsegirls",
         "726": "Get 3 extra tickets each day.",
-        "727": "Items obtained in training doubled.",
+        "727": "Items obtained in Careers doubled.",
         "728": "Training costs half the TP.",
         "729": "Increased chance to \nget hot springs tickets",
         "730": "Increased chance to \nget hot springs tickets",
@@ -42247,7 +42258,7 @@
         "734": "Increased chance to \nget hot springs tickets",
         "735": "Gain 1 extra ticket each day",
         "736": "Get an extra 5 horsegirl rentals.",
-        "741": "Items obtained in training doubled.",
+        "741": "Items obtained in Careers doubled.",
         "742": "Training costs half the TP.",
         "743": "Free retries doubled.",
         "747": "Get 3 extra tickets each day.",
@@ -42282,10 +42293,17 @@
         "791": "Obtain 1 horsegirl piece per day from \n winning a specific race in training.",
         "794": "Get 3 extra tickets each day.",
         "795": "Training costs half the TP.",
-        "796": "Items obtained in training doubled.",
+        "796": "Items obtained in Careers doubled.",
         "807": "Greatly increase Bond gained from Nationwide Events.",
         "814": "Increase Bond gained from Nationwide Events.",
-        "855": "Greatly increase Bond gained from Nationwide Events."
+        "844": "Gain 1 extra ticket each day",
+        "849": "Items obtained in Careers doubled.",
+        "855": "Greatly increase Bond gained from Nationwide Events.",
+        "857": "Get 3 extra tickets each day.",
+        "869": "Items obtained in Careers doubled.",
+        "886": "Gain 1 extra ticket each day",
+        "889": "Get 3 extra tickets each day.",
+        "890": "Items obtained in Careers doubled."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -50304,6 +50322,30 @@
     },
     "376": {
         "1032": "Tachyon"
+    },
+    "377": {
+        "1": "Increased Rewards",
+        "2": "Increased Attempts"
+    },
+    "378": {
+        "1": "Items obtained in Careers increased.",
+        "2": "Get 3 extra tickets each day."
+    },
+    "379": {
+        "1": "One-time 500 paid jewels",
+        "2": "Daily 50 free jewels"
+    },
+    "380": {
+        "1": "Get  <atlas=Common sprite=utx_ico_item_s_02/> 500 when purchasing.",
+        "2": "Get  <atlas=Common sprite=utx_ico_item_s_01/> 50 each day you log in."
+    },
+    "381": {
+        "1": "Increased Career rewards",
+        "2": "Increased Daily Race entries"
+    },
+    "382": {
+        "1": "Get more items from Careers.",
+        "2": "Get 3 extra tickets for the Daily Race."
     },
     "383": {
         "360100": "Running",
