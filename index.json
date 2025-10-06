@@ -55,8 +55,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
-      "hash": "eba4e997fb232c7f1ba0ebb049807eedd5b62b715a41f18c80d492f5f0c409cf",
-      "size": 39682
+      "hash": "1a3a436fb0df8cc9a5508d2919b1a3978c1e79d7ac2a6852e513e1bf38fa1827",
+      "size": 43607
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.diff.png",
@@ -509,6 +509,11 @@
       "size": 6184
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete00/tx_uTex_fl_singlemode_pioneer_island_complete00_0.diff.png",
+      "hash": "c7a2a9cb0d364ac7c37ff2d71bda3b3e615e74303c1499540a14523249e9a47e",
+      "size": 172981
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete01/tx_uTex_fl_singlemode_pioneer_island_complete01_0.diff.png",
       "hash": "1d06418b2543944563daa51ba7c90326cb430ec169d0b6fc6eafd532b721df54",
       "size": 220394
@@ -527,6 +532,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_transition_logo01/tx_uTex_fl_singlemode_pioneer_island_transition_logo01_0.diff.png",
       "hash": "ea62eebb240826152c2319eca199125e9c741895a9d424e67265314ebe7a361a",
       "size": 96554
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_notice_window00/tx_uTex_fl_singlemode_pioneer_notice_window00_0.diff.png",
+      "hash": "4c1c26608edf9b026c4aae593fd005beac4f4874c60f5358126e20698d1021b8",
+      "size": 89951
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_planning_island00/tx_uTex_fl_singlemode_pioneer_planning_island00_0.diff.png",
@@ -730,12 +740,12 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "90dc7df0efd7328c708a5087eee3a75521721f6f171c31b15d572d55945853ed",
-      "size": 418883
+      "hash": "0204923669fcebe407febebf3d48faa0c33dc6e8383ad5738ee2ac3a1683036f",
+      "size": 2501519
     },
     {
       "path": "assets/atlas/common/common.json",
-      "hash": "5dbee5a0bb1e9652abe613bd9433442bc6aae185958c36c3e3a1ea3d785bfc76",
+      "hash": "fb7d7229ef2295663fb9507413d2984cf58b9a1b3859579b8d66cfdf000696e7",
       "size": 166
     },
     {
@@ -920,8 +930,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.diff.png",
-      "hash": "29403f06840299a2b46b00a6dfe6e4ff3380ae9cd9315f5327b4cb1bcd56b20d",
-      "size": 108626
+      "hash": "17556c52aaf17292df3f4a5c1a9392b3174bdd7a7a772c3d2048e4be23921f3b",
+      "size": 110937
     },
     {
       "path": "assets/atlas/singlemodescenariomecha/singlemodescenariomecha.json",
@@ -11120,8 +11130,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "c0330cdd11d79fdee0956429859c62441f6f406fc55ebc4d842fc8865cc264ae",
-      "size": 10229
+      "hash": "99de0184ab8a202986955d99301e41770553e344fff4ae99308fe27cb6cc4b91",
+      "size": 10303
     },
     {
       "path": "includes_android",
@@ -11135,8 +11145,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "d05a1c4bb50b41d6caca0def351364a626274cd48b45fe7d2572796a899560f1",
-      "size": 276298
+      "hash": "b463ddb4ca5ad98ad4b628ed4d762185e2c4e7bb91169e19d2457c9872dc3d1a",
+      "size": 278093
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11150,8 +11160,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f5d05bad0a3fa011879e7643b69923290be584eeb9a341e371bfca72ece96e7e",
-      "size": 2990866
+      "hash": "48ac712f2bfad13beb94c9503314f94a5e091eec91fd40fb3041c86b9d86c66a",
+      "size": 2990855
     }
   ]
 }
