@@ -22,7 +22,7 @@
   "auto_translate_stories": false,
   "auto_translate_localize": false,
   "language": "en",
-  "meta_index_url": "https://raw.githubusercontent.com/UmaTL/hachimi-meta/main/meta.json",
+  "meta_index_url": "https://gitlab.com/umatl/hachimi-meta/-/raw/main/meta.json",
   "physics_update_mode": null,
   "menu_open_key": 22,
   "hook_libc_dlopen": true
