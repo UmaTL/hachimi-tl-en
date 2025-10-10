@@ -1,0 +1,138 @@
+{
+    "title": "A Harsh World Full of Uncertainty",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, while I was working… Nakayama Festa's \nhomeroom teacher came to the trainer's office."
+        },
+        {
+            "name": "Homeroom Teacher",
+            "text": "I see… Nakayama isn't here either. Sorry for bothering \nyou while you were in the middle of something."
+        },
+        {
+            "name": "Homeroom Teacher",
+            "text": "Haaah, I'm in trouble… I need to get her completed \nassignment by the end of the week so I can grade it…",
+            "choice_data_list": [
+                "I-I'll help you find her!"
+            ]
+        },
+        {
+            "name": "Nakayama's Classmate A",
+            "text": "Where's Nakayama? Who knows. I've never talked to her."
+        },
+        {
+            "name": "Nakayama's Classmate B",
+            "text": "Nakayama's always seemed a bit unapproachable. \nY'know, I heard that he was arrested the other day.",
+            "choice_data_list": [
+                "Arrested…?"
+            ]
+        },
+        {
+            "name": "Nakayama's Classmate B",
+            "text": "Oh, yeah… while a friend of mine was on a run, she saw \nNakayama arguing with an officer…"
+        },
+        {
+            "name": "Rough-looking Horsegirl",
+            "text": "Huh? How should I know? I got no clue where she is. \nSeriously, it's all just Nakayama this, Nakayama that.",
+            "choice_data_list": [
+                "Eh? Who else besides me is…?",
+                "Eh? Who else besides me is…?"
+            ]
+        },
+        {
+            "name": "Rough-looking Boy",
+            "text": "The other day, some other guys came by looking for her. \nYou were one of the ones Nakayama made a fool of, weren't you?",
+            "choice_data_list": [
+                "…? Can you tell me more?",
+                "…? Can you tell me more?"
+            ]
+        },
+        {
+            "name": "Rough-looking Horsegirl",
+            "text": "Hm? I assumed you were involved in that mess. \nY'see, apparently…"
+        },
+        {
+            "name": "Rough-looking Horsegirl",
+            "text": "Nakayama cheated during a poker game and won big. \nNow, she's being chased down by the people she cheated."
+        },
+        {
+            "name": "Rough-looking Horsegirl",
+            "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up.",
+            "choice_data_list": [
+                "(That's weird… it can't be…)"
+            ]
+        },
+        {
+            "text": "After that, I followed rumors to various different places, \nbut Nakayama Festa's whereabouts remained unknown."
+        },
+        {
+            "text": "What I got instead was plenty of unsavory gossip \nabout things Nakayama Festa would never do.",
+            "choice_data_list": [
+                "Ah, Nakayama!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hmm…? Oh, trainer? You look blue in the face.",
+            "choice_data_list": [
+                "Well, actually…"
+            ]
+        },
+        {
+            "text": "I told Nakayama Festa the whole story. How I'd started looking \nfor her due to the assignment, but then ——"
+        },
+        {
+            "text": "I'd learned rumors about her from both in out of school, \nfrom cheating in games to getting in trouble with the police."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hahaha… I didn't even know there were such \ninteresting stories being thrown around."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "They're nonsense. Cheating to win big? Hah, that's bullshit. \nI wonder if it would even light up anything in me."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…The people who are spreading that sort of crap are \nthe same ones who've lost some kind of competition \nto me. That's how much they resent and envy me."
+        },
+        {
+            "text": "Indeed, she seems to have many enemies in \nthe world of competition. But this is no \ntime to be intimidated. As her trainer ——",
+            "choice_data_list": [
+                "If anything happens, I'll protect you.",
+                "If anything happens, I'll protect you."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Eh…? You're brash, aren't you? \nYou might get in trouble too, you know?",
+            "choice_data_list": [
+                "<size=38>No matter what anyone says, I'll stand by you.</size>",
+                "<size=38>No matter what anyone says, I'll stand by you.</size>"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "No matter what anyone thinks, eh? \nKeheh… easier said than done."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Don't get so smug. You are my trainer."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "For me, racing is why I live. I won't make the mistake of \nscrewing up that opportunity."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "That's all you need to know as my trainer, yeah?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Well then, both of us should just take it easy."
+        },
+        {
+            "text": "I will never change my mind about Nakayama Festa. \nHowever, I still felt as if I needed to learn more about her."
+        }
+    ]
+}

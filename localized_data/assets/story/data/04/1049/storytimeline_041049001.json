@@ -1,0 +1,247 @@
+{
+    "title": "The Day I Plunged Into Rough Waters",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "My heart pounds out of my chest. I feel the disgusting sensation \nof beads of sweat dripping down my face. There's the sense that \nmaking a single choice could define the rest of your life. \nImpatience, confusion, hesitation…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Ahh. It's the worst and it feels incredible. Now, let the \npulse-pounding gamble begin."
+        },
+        {
+            "text": "It's been a few months since I arrived at Tracen Academy \nas a new trainer. Even if my time has been pretty mundane \nso far, I'm getting the hang of my job."
+        },
+        {
+            "text": "That said, I was still very unfamiliar with this area that I had \ndecided to take a walk to, just trying to stretch my legs.",
+            "choice_data_list": [
+                "(I shouldn't linger on a street like this…)",
+                "(I shouldn't linger on a street like this…)"
+            ]
+        },
+        {
+            "text": "I had wound up in an area that seemed pretty suspicious. \nI turn around to get back to the main street as soon as \npossible, but ——"
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Don't try to run! You're Nakayama, the gal who trashed \nthis place a while back, ain't ya?"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…Tch. Already washed my hands of that. \nDon't try to start anything with me.",
+            "choice_data_list": [
+                "(An Umamusume…?!)"
+            ]
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "You say that, but you've made quite the name \nfor yourself 'round here. Even the boss thinks \nyou got more guts than we do."
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "When I challenged you to a match before you said, \"I'm on \na completely different level than you. You should quit while \nyou're ahead.\" …Like seriously…"
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "…My reputation's ruined, and it's all your fault! \nSo stop messin' around and fight me!"
+        },
+        {
+            "text": "The Umamusume's ears flatten in response to the angry voice. \nAt that moment, my body moves before I can think.",
+            "choice_data_list": [
+                "Stop being so violent!",
+                "Stop being so violent!"
+            ]
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Wha!?"
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Can't believe you're filling in for Nakayama. \nHave you even played Chicken before?",
+            "choice_data_list": [
+                "(I never thought it would end up like this…)"
+            ]
+        },
+        {
+            "text": "Before I know what's happening, I find myself playing \na game of Chicken against the delinquents."
+        },
+        {
+            "text": "I feel the sound of the motorcycle engine through my entire \nbody as I straddle the borrowed motorcycle and put on the \nhelmet I was given. It seems like it'll fit well enough.",
+            "choice_data_list": [
+                "(Now all I have to do is twist the \naccelerator with my right hand…)"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Your hands are shaking. You gonna be able to drive like that?"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "If you're scared, get outta here. I'm just a stranger. You don't \nhave any obligation to help and don't owe me anything.",
+            "choice_data_list": [
+                "<size=32>That doesn't mean I can overlook what's happening!</size>"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…Haah…"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…Every once in a while, a good-natured idiot like you shows up \nto stick their nose into things they don't understand…"
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "The rules are simple. You hit the brakes first? You lose."
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "After this test of courage is over, I promise I'll leave \nNakayama be. That good with you?",
+            "choice_data_list": [
+                "You really promise?",
+                "You really promise?"
+            ]
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "Of course… if you make it out alive.",
+            "choice_data_list": [
+                "…!!"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…Tch. Your head is filled with unnecessary thoughts. \nHey, you. Listen up before you go blue in the face."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "If you can't tell if you're scared or not, don't hit the brakes. \nThere's no need to hesitate. Cross the line of death and it \nbecomes just another line."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Get rid of the unnecessary baggage that is fear. \nFly free of that weight. Stay on the offensive and \nfocus only on victory.",
+            "choice_data_list": [
+                "…Fly free… stay on the offensive…"
+            ]
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Heheh, by the time you start you'll be goin' \nbarely faster than a crawl! Well, at least try \nto make your loss a spectacular one, yeah?"
+        },
+        {
+            "text": "The delinquents stare at us with smug grins on their faces. \nThen, the person acting as a referee threw a pebble to the \nground in place of a signal."
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "LET'S GOOOOO!!!",
+            "choice_data_list": [
+                "…I won't lose!"
+            ]
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Ah?! That guy is doing the same thing as \nthe leader! Fully revved from the get go!",
+            "choice_data_list": [
+                "(I'll live… and I'll win!)"
+            ]
+        },
+        {
+            "name": "Delinquent A",
+            "text": "Hey, are you stupid?! That idiot's gonna crash into the ocean!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Hmph!"
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "Ack! I can't go any further… dammit…!",
+            "choice_data_list": [
+                "(He hit the brakes! Now, it's my turn!)",
+                "(He hit the brakes! Now, it's my turn!)"
+            ]
+        },
+        {
+            "text": "I brake at the perfect moment. I was a lot closer \nto the ocean than the other bike.",
+            "choice_data_list": [
+                "…Huh!?"
+            ]
+        },
+        {
+            "text": "The sudden jerk forward had thrown my body into the air. \nI feel the blood drain from my face."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Hold your breath!",
+            "choice_data_list": [
+                "What…?"
+            ]
+        },
+        {
+            "text": "She was the only thing moving in the suspended \nlandscape, gaining speed with every step as she \nbounded into the sky.",
+            "choice_data_list": [
+                "(What amazing physical ability…!)"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "RAAAAHHHHHHHH!!"
+        },
+        {
+            "text": "She pulls me back and I catch my breath. In the distance, \nI hear the sound of a motorcycle falling into the sea."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Hah… hah….hahaha! Well this sucks. I'm soaking wet!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…But I'm alive. Hahaa, aaahh… I can hear my heart pounding….",
+            "choice_data_list": [
+                "<size=32>T-thank you… by the way, do you know who won…?</size>"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "…! Heheh, all that and you're still thinking \nabout that game? Ridiculous."
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "Hey, get the bike! Hurry up!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "You win for making such a mess. Now let's dip!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "You should know the way back from here. See ya."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "… Damn, my heart's still racing. Hahaha…",
+            "choice_data_list": [
+                "W-wait! I didn't get your name ——",
+                "W-wait! I didn't get your name ——"
+            ]
+        },
+        {
+            "text": "I tried to thank her again, but the Umamusume turned her back \ntowards me, waved her hand, and never looked back."
+        },
+        {
+            "text": "I hadn't seen her since, even when I \ntook the path through that alleyway."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Huff…",
+            "choice_data_list": [
+                "Bracket 6, number 10… Nakayama Festa!!"
+            ]
+        },
+        {
+            "text": "…I found her running a tryout race."
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "title": "The Sun Drifts Through Cloudy Skies",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The tryout race is in full swing. Nakayama Festa is \namong the Umamusume participants."
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Aahh… I'm so nervous…! I'll finish first \ntoday… hmm… or at least in the top five."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Hey, kid! You came to the tryouts too! Got an eye \non one of the girls already or something?",
+            "choice_data_list": [
+                "Yes! Number 10, Nakayama Festa!"
+            ]
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Oh… Oh? Hmm? Nakayama Festa? \nThat name rings a bell, but, uhhh….",
+            "choice_data_list": [
+                "I'm sure that even someone as experienced as you will be \nimpressed when you see her run!"
+            ]
+        },
+        {
+            "text": "Just the other day, I saw her first-rate physical abilities and \ncourage with my very own eyes. I'm sure that she can use her \nintuition and skills in this tryout race too."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Huff… huff… ….tch…!"
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "…Hm? Hey, it doesn't look like the girl you mentioned \nis aiming for the front spot at all…",
+            "choice_data_list": [
+                "What? That can't be…"
+            ]
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Look at that, her legs seem like they're fine, \nbut little by little she's slowing down.",
+            "choice_data_list": [
+                "(W-what…?)"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "In the end, Nakayama winds up in 13th \nplace. It was a truly mediocre race."
+        },
+        {
+            "text": "Haah… haaah… ugh…"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Awww… I guess it didn't work after all. \nI'll just have to try harder next time!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "\"After all\"? \"Next time\"? Do I get the same sort of leeway too?"
+        },
+        {
+            "name": "???",
+            "text": "…Festa, you don't have to worry."
+        },
+        {
+            "name": "???",
+            "text": "Whatever you want, you will find it at Tracen Academy. \nYou'll even be able to meet someone who can help you \nfulfill your deepest desires."
+        },
+        {
+            "name": "???",
+            "text": "I'm sure you'll be able to \"live\" there."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Ahh… If only…"
+        },
+        {
+            "text": "Nakayama Festa had lost her energy, as if how she acted the \nother day had been an illusion. If someone told me she was a \ncompletely different person, I would've believed them.",
+            "choice_data_list": [
+                "(Because if she ran properly, she would…)"
+            ]
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "…Quit it, kid.",
+            "choice_data_list": [
+                "…? What‘s wrong?"
+            ]
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "I remember now, \"Nakayama Festa\". That girl isn't the sort of \nUmamusume you can handle."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "She's famous among trainers. No matter how much \ninstruction they give her, she does whatever she wants. \nJust the other day, she got into some trouble before the \ntryout race and was suspended."
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "Just now, did she look like she was serious? Were you thinking \n\"if she ran properly, she would…\"",
+            "choice_data_list": [
+                "…! That's…"
+            ]
+        },
+        {
+            "name": "Formative Trainer",
+            "text": "…I think she's lost her motivation. You have a future, kid. Both of \nyou are better off staying out of each other's business. It's better \nthan struggling and hurting each other just to break up in the end."
+        },
+        {
+            "text": "Hearing the advice from my senior puts me at a loss for words. \nHaving watched many Umamusume, his opinion is probably quite \nreasonable, but still…"
+        },
+        {
+            "text": "As she left the course, she looked \nas if she was crying out for help."
+        },
+        {
+            "text": "Wondering if she was as my senior had said she was, I found \nmyself scouring through her records.",
+            "choice_data_list": [
+                "Nakayama Festa's most recent results…"
+            ]
+        },
+        {
+            "text": "There's a very big difference between her good times and bad \ntimes… overall, it's honestly not good. …But all they have in \ntheir documents are the time figures."
+        },
+        {
+            "text": "Why was her expression after the tryout race so bitter? \nWhy didn't she look like she was giving it her all?"
+        },
+        {
+            "text": "…I closed the record. There probably wasn't \nany information I needed to know right now.",
+            "choice_data_list": [
+                "I need to learn more about her."
+            ]
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "Stop coming here every day! If you wanna learn \nmore 'bout Nakayama, ask her yourself!",
+            "choice_data_list": [
+                "But she's been absent for the last week…"
+            ]
+        },
+        {
+            "name": "Delinquent Leader",
+            "text": "And how the hell should I know why? \nScrew off! Adults are the worst!"
+        },
+        {
+            "text": "I dust off my dirty clothes. Unfortunately, I still haven't been \nable to learn anything new about Nakayama Festa.",
+            "choice_data_list": [
+                "<size=38>(I'll take <i>any</i> new information at this point…)</size>"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "You the trainer who's been going around \nasking about Nakayama lately? You're the \ntalk of the school and the back alleyways.",
+            "choice_data_list": [
+                "And you are…?",
+                "And you are…?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Sirius Symboli. And? My name can't be the \nonly thing you wanted to know, right?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Now, be a good dog and follow me. If \nyou do, I'll give you what you want."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "This is a freestyle race track. A lawless place \nwhere anyone who wants to run can run."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "It's a haven for unusual sorts who find that harsher turf suits \ntheir tastes. They say that Nakayama used it as her playground.",
+            "choice_data_list": [
+                "Is she here now too…?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Were you listening? \"Used it\". She isn't running anymore. \nThat's just the way it is now."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So this is where you were. How's the nightlife? I thought the \nonly fun you had was during a good game."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I'm ready to enter a tryout race. So I'm washing \nmy hands of that sort of thing. That's all."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "From now on, I can bet my life on racing. The most intoxicating, \nextreme gamble I could only take by putting my body on the line. \n…No need for anything else."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Or something like that… I guess. \nStill, I thought she was a pretty funny gal."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "…Listen. She has a fatal flaw. I'm sure her \"teacher\" at the \nhospital knows more about it.",
+            "choice_data_list": [
+                "Teacher?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "One of my admirers is a former classmate of Nakayama's. \nThey were the one who gave me the info."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "I've written down the Teacher's contact info and location. \nThe rest is up to you."
+        },
+        {
+            "text": "Sirius Symboli offered me a piece of paper. \nI took it, thanked her, and she walked away \nwith a click of her tongue.",
+            "choice_data_list": [
+                "<size=34>A secret that her teacher at the hospital knows…</size>"
+            ]
+        },
+        {
+            "text": "Does that mean she taught Nakayama Festa? Was she sick? \nI anxiously came up with possibilities in my head before ——"
+        },
+        {
+            "text": "I arrived to see the \"Teacher\" lying \non a bed and wearing a hospital gown.",
+            "choice_data_list": [
+                "So you were Nakayama's teacher?"
+            ]
+        },
+        {
+            "name": "Nakayama's Former Teacher",
+            "text": "Yes. Just during elementary school. I was Festa's \nhomeroom teacher when she was in the 5th grade. \nShe was quite the handful."
+        },
+        {
+            "name": "Nakayama's Former Teacher",
+            "text": "There are so many stories to tell and so many things to say… \nbut before I do, could you please watch a video?",
+            "choice_data_list": [
+                "A video?"
+            ]
+        },
+        {
+            "name": "Nakayama's Former Teacher",
+            "text": "Yes! Before I get to the story, I first wanted to show you the \nbest side of that girl! This video was taken two years ago."
+        },
+        {
+            "name": "Nakayama's Former Teacher",
+            "text": "This is the first time she picked a fight with the \"world\"."
+        }
+    ]
+}
