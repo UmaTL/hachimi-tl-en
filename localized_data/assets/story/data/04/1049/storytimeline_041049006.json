@@ -1,0 +1,221 @@
+{
+    "title": "Through Shade and Sun, Wherever",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One weekend afternoon, I saw Nakayama Festa \nentering a back alley. …Those rumors from before \nflashed through my mind."
+        },
+        {
+            "name": "Rough-looking Horsegirl",
+            "text": "They're looking all over the place looking for her. \nAaah, I wonder how she'll end up.",
+            "choice_data_list": [
+                "Where are you going?",
+                "Where are you going?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ah? What're you doing? I have a lot of business to attend to.",
+            "choice_data_list": [
+                "…Can I come with you?",
+                "…Can I come with you?"
+            ]
+        },
+        {
+            "text": "When I said that, I thought about how I'd she \nwas in danger, I had to protect her even if \nit meant putting my life on the line, but ——"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hah… You're a weirdo too, huh? Oh well, Suit yourself."
+        },
+        {
+            "name": "Diner Owner",
+            "text": "Hey, Nakayama! Your offal stew's ready!"
+        },
+        {
+            "text": "Nakayama Festa arrived at a diner located on a back-alley. \nThe restaurant seemed to be prosperous enough to set up \ntables and chairs outdoors."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Keheh… It's finally here…"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Thanks for the food."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ahh… yum… Mmm…"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "That really hit the spot. There's nothing like some offal on an \nempty stomach. I think I'll get some tofu and pork <i>sashimi</i> too.",
+            "choice_data_list": [
+                "(I'm a bit scared to order…)"
+            ]
+        },
+        {
+            "text": "Just after Nakayama Festa finished eating, \nshe was stopped by a police officer."
+        },
+        {
+            "name": "Police Officer",
+            "text": "Ah, I thought I recognized you. I've been looking for you. \nUhhh, are you her guardian?"
+        },
+        {
+            "name": "Police Officer",
+            "text": "I'm sorry, but if you have the time, would you two mind \naccompanying me to the station?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…C'mon, let's get this over with."
+        },
+        {
+            "name": "Lively Puppy",
+            "text": "(<i>Arf! Arf!</i>)"
+        },
+        {
+            "name": "Puppy's Owner",
+            "text": "Hehe, you remember the one who \nsaved your life, don't you Mugi?",
+            "choice_data_list": [
+                "The one who saved your life… \nare you talking about Nakayama?"
+            ]
+        },
+        {
+            "name": "Police Officer",
+            "text": "She took care of that little one after she found it by the \nriverbank. I took it in and promised I'd find it an owner."
+        },
+        {
+            "name": "Police Officer",
+            "text": "A misunderstanding on my part led to a bit of trouble, \nbut I'm glad I was able to report it properly."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Haaah… Nobody asked you to do that. You don't have to \ncall for me every time something like this happens."
+        },
+        {
+            "text": "Like I thought, it turns out the rumors about \nNakayama were just a misunderstanding."
+        },
+        {
+            "text": "The sun is setting and it's almost curfew. As I was thinking \nabout suggesting that we head back to school when ——"
+        },
+        {
+            "name": "Delinquent-looking Man A",
+            "text": "Hey, it's her! Nakayama!!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Eh? What is it now…"
+        },
+        {
+            "text": "We were surrounded by a bunch of rough-looking \nhigh school kids and had to move to the riverbank."
+        },
+        {
+            "name": "Leader-looking Man",
+            "text": "…Nakayama, I've been looking for you. Heard that you cheated \nthese guys during a poker game and trashed our reputation."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I won and they lost. That's all. No cheats, no gimmicks, \nno tricks. Accept the outcome of the game."
+        },
+        {
+            "name": "Delinquent-looking Man A",
+            "text": "Shut it! It was obviously rigged!! There's no other reason \nyou'd go all in when you had such a shitty hand!"
+        },
+        {
+            "name": "Delinquent-looking Man B",
+            "text": "You… stop messing around. Or do you want \nme to make sure you'll never run again!?",
+            "choice_data_list": [
+                "I won't let you touch her!"
+            ]
+        },
+        {
+            "text": "I spoke without thinking after hearing \nthe man's threatening words."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hey, you. Back off. This is between me and these guys."
+        },
+        {
+            "name": "Leader-looking Man",
+            "text": "…That badge… are you her trainer? \nTry to get involved you'll be the first to get it.",
+            "choice_data_list": [
+                "<size=38>If that's what makes you happy then go for it.</size>",
+                "<size=38>If that's what makes you happy then go for it.</size>"
+            ]
+        },
+        {
+            "name": "Leader-looking Man",
+            "text": "What the… are you trying to provoke us! You wanna \nspend the rest of your life giving training instructions \nfrom a hospital room? Huh?"
+        },
+        {
+            "text": "The man who seems to be their leader cracks his fingers in a \nprovocative manner. Honestly, when it came to my confidence \nin my ability to fight them, I wasn't."
+        },
+        {
+            "text": "But I won't change my mind, no matter what anyone does. \nI have to protect the future of Nakayama Festa. As her trainer, \nI absolutely refuse to back down.",
+            "choice_data_list": [
+                "Well, what's keeping you?",
+                "Well, what's keeping you?"
+            ]
+        },
+        {
+            "text": "I stepped in front of Nakayama Festa with both arms \noutstretched as, step by step, he slowly approached."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hey, hey, are you outta your mind?",
+            "choice_data_list": [
+                "Come on, hurry up!"
+            ]
+        },
+        {
+            "name": "Leader-looking Man",
+            "text": "Tch… the hell are you doing?! \nWhat a pain! Hey, guys! Let's go!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hahahahaa! You sure are shaking a lot for someone who \njust put on such a show. Must be new to this."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Don't take those guys so seriously. You can just shrug them off."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "! Oh, I see how it is.",
+            "choice_data_list": [
+                "Wh- what's up?",
+                "Wh- what's up?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Kehehe… just take a look at yourself."
+        },
+        {
+            "text": "Still shaking, I looked at the display window Nakayama Festa \npointed at to look at my reflection.",
+            "choice_data_list": [
+                "…!!"
+            ]
+        },
+        {
+            "text": "The look on my face shocked me."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hehe… this'll be more interesting than I thought."
+        },
+        {
+            "text": "As soon as I wandered back to my house, I was hit with \na wave of exhaustion and collapsed onto my bed."
+        },
+        {
+            "text": "I look at my hands, which still shook slightly. Remembering my \nearlier appearance, Nakayama Festa's words pop into my head."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Kehehe… just take a look at yourself."
+        },
+        {
+            "text": "What Nakayama Festa had said with a meaningful smile \nand my own reflection in the window. Those two thoughts \nconstantly swirled in my head."
+        }
+    ]
+}
