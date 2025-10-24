@@ -1,0 +1,391 @@
+{
+    "title": "Blackout",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(——I thought it would be soon)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Soon. ……Soon, everyone, everything. \n……That everything would be back to normal)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(But then why——)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Sooooo hot～……hey, Trainer! Over here, over here～!! \nIce cream, I was gonna buy some ice creamーーー! Treat me～♡",
+            "choice_data_list": [
+                "This is why you messaged me on LANE?"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Because. Ku-chan-senpai, seems kind of out of it? \nIt's kinda warm. Maybe summer's getting to her? Sooo～ \nI thought it had to be ice cream! Don't ya think?☆",
+            "choice_data_list": [
+                "That's a weird conclusion you came to"
+            ]
+        },
+        {
+            "text": "But, well, you've both been working hard towards your autumn races, \nso some ice cream is fine. Did you already choose which to buy?"
+        },
+        {
+            "text": "But, well, you've both been working hard towards your autumn races, \nso some ice cream is fine. Did you already choose which to buy?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "'Course! I already know exactly what senpai likes☆ \nC'mon, let's go, let's go!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "We're baaaack～♪ Senpai, we have ice cream! \nLet's eat some ice cream and recharge——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "——Senpai? ……Ku-chan-senpai? \n…………Are you asleep?",
+            "choice_data_list": [
+                "……? ……Kraft?"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(At first, I thought it would be the same as always. \nLike after sunbathing, she'd be all drowsy)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(She just looked like she was fast asleep)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(……——But)"
+        },
+        {
+            "text": "Kraft! ……Kraft, wake up! Kraft!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "H-……hey. Don't you think this is kind of strange? \nNo matter what happened……it's weird……!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(But, for some reason. ……Things just got weirder and weirder)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(More and more……——)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Just weirder and crazier…… \nAnd then finally)"
+        },
+        {
+            "name": "Doctor",
+            "text": "……I'm sorry. We've examined everything and did \nall we could but……The cause remains unknown……"
+        },
+        {
+            "text": "No way……! J-just yesterday she was perfectly fine! \nAnd then to suddenly be like this……"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(And then, just like that)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Ku-chan-senpai wasn't able to wake up)"
+        },
+        {
+            "name": "Passerby A",
+            "text": "Ehh……what's with this news? \n……Rhein Kraft is unconscious……!?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Huh!? What does that mean!? She was just fine a little while ago…… \nDidn't she just say she was entering the 『Sprinter's S』 next!?"
+        },
+        {
+            "name": "Passerby B",
+            "text": "No way……why? \nNot yet……wasn't she just getting started……!?"
+        },
+        {
+            "name": "Passerby A",
+            "text": "This can't be true, right……? \nReally……she can't wake up now……?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Rumors about senpai spread like wildfire. \n……So many people came to visit her. Everyday)"
+        },
+        {
+            "text": "……Ah, you girls——Thank you. \nYou came again today……"
+        },
+        {
+            "text": "……Ah, you girls——Thank you. \nYou came again today……"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "No problem. We came because we wanted to. \n……Rather than that, are you all okay? Are you getting enough rest?"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Especially Trainer-san. You've been here everyday, \nhaven't you? So……about Kraft-san's condition……"
+        },
+        {
+            "text": "……It hasn't changed. She's……still asleep."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Senpai's hospital room is always overflowing with people worrying \nabout her, day in and day out. Everyday. Every single day)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Everyday. ……We're here too)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(We've tried holding her hand, pulling on her cheek, hitting \nher forehead. We've tried calling her name, praying, shouting)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Calling her stupid, a sleepyhead, saying \nall kinds of things. ——And even then)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Senpai is still, still……not waking up)",
+            "choice_data_list": [
+                "……Pandora"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……What?",
+            "choice_data_list": [
+                "……About the 『Shuka Sho』",
+                "……About the 『Shuka Sho』"
+            ]
+        },
+        {
+            "text": "To be honest……I don't think you're in a position \nto be able to concentrate on a race. That's why \n……I'll let you decide whether to participate——"
+        },
+        {
+            "text": "To be honest……I don't think you're in a position \nto be able to concentrate on a race. That's why \n……I'll let you decide whether to participate——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Huh? I'm participating!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I'm entering, don't be stupid! \nBecause I……I promised her……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I made a promise with senpai! At the next 『Shuka Sho』 for sure! \nThat I'll win, and let senpai see it!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "『One more time』『One more time』, as many times as it takes——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Until I win! By not giving up and continuing to run——!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……That's right. Senpai and I decided on it already. \n『Whatever happens』『No matter what』……never giving up."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "That's why……that's why I'll enter the 『Shuka Sho』. \nI'll definitely enter. And then I'll win!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I'll show senpai that I can win……!!",
+            "choice_data_list": [
+                "……Sorry. I understand, Pandora."
+            ]
+        },
+        {
+            "text": "I need to stay focused too. Let's work hard together \nfor the 『Shuka Sho』. For Kraft……let's win for her……!"
+        },
+        {
+            "text": "I need to stay focused too. Let's work hard together \nfor the 『Shuka Sho』. For Kraft……let's win for her……!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Yeah. ……Please, Trainer."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Ku-chan-senpai. ……I'll win. \nI'll keep that promise for sure. Definitely!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(That's why……senpai)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Just watch me——!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Haa, haa……!! \nTrainer, next!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I can keep going. \nI can still keep going, no problem!!",
+            "choice_data_list": [
+                "……Got it. Then, next is——!!",
+                "……Got it. Then, next is——!!"
+            ]
+        },
+        {
+            "text": "(Pandora……that's it, do your best, Pandora……! \nI'll support you and that never-give-up attitude!)"
+        },
+        {
+            "text": "(Pandora……that's it, do your best, Pandora……! \nI'll support you and that never-give-up attitude!)"
+        },
+        {
+            "text": "(And then we'll show Kraft! That you can win…… \nThat we can get that Autumn Tiara that she missed out on!)"
+        },
+        {
+            "text": "(And then we'll show Kraft! That you can win…… \nThat we can get that Autumn Tiara that she missed out on!)"
+        },
+        {
+            "text": "……And then, the 『Shuka Sho』——"
+        },
+        {
+            "name": "Commentator",
+            "text": "From the inside, Fusaichi Pandora presses forward! \nFusaichi Pandora, closes with the front!"
+        },
+        {
+            "name": "Commentator",
+            "text": "But from the outside it's Kawakami Princess! \nShe's here, she's here, it's Kawakami Princess!!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Without stopping, she pulls ahead! Kawakami \nPrincess is strong! Now, she crosses the goal!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Haa-……! Haa, haa, haa, cough……"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……～～～Aaaahh!! \nDaaaamnit……!"
+        },
+        {
+            "text": "She gave her all during the 『Shuka Sho』. But Kawakami Princess \ndefeated her with overwhelming strength. Her result was 3rd……"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Sorry, senpai. The 『Shuka Sho』……I lost."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Our promise……I wasn't able to keep it……!",
+            "choice_data_list": [
+                "Oh……Pandora, you're here too——",
+                "Oh……Pandora, you're here too——"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Trainer…… \n……Were you talking with the doctor just now?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "About Ku-chan-senpai……what did they say?",
+            "choice_data_list": [
+                "……That's——"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Tell me."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Please. I want to know, too. \n——Please.",
+            "choice_data_list": [
+                "……Got it"
+            ]
+        },
+        {
+            "text": "I've had them examine her multiple times……They also looked in \nto seeing if this has happened before……And their conclusion——",
+            "choice_data_list": [
+                "The prognosis is……『Bleak』"
+            ]
+        },
+        {
+            "text": "The chances of Kraft regaining consciousness…… \nThey think it's close to zero."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……I see."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Understood. ……Thanks. Sorry.",
+            "choice_data_list": [
+                "……——"
+            ]
+        },
+        {
+            "text": "I……couldn't say anything to her. \nI couldn't find the right words."
+        },
+        {
+            "text": "Damnit!! Damnit, damnit……!!",
+            "choice_data_list": [
+                "What am I even doing……!?",
+                "What am I even doing……!?"
+            ]
+        },
+        {
+            "text": "Even though she's persevered through so many hardships! \nAnd I couldn't even help her win the 『Rose S』 or 『Shuka Sho』……!"
+        },
+        {
+            "text": "I've just been wallowing in pity. I know in my head that I shouldn't \nbe so pessimistic……just watching Rhein Kraft sleep like this——"
+        },
+        {
+            "name": "???",
+            "choice_data_list": [
+                "……? Yes? Come in——"
+            ]
+        },
+        {
+            "text": "——I pause. Seeing 『Her』……I hadn't seen her in so long.",
+            "choice_data_list": [
+                "……! You——",
+                "……! You——"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "It's been a while, Trainer. \nHow is Kraft……——"
+        },
+        {
+            "name": "Cesario",
+            "text": "……Kraft. Aaah——how did this happen——",
+            "choice_data_list": [
+                "……Sorry. Even though I was with her——",
+                "……Sorry. Even though I was with her——"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "…………No. No——I'm sorry. \nI didn't come here just to cry."
+        },
+        {
+            "name": "Cesario",
+            "text": "I didn't come here to feel dejected or nostalgic. ……『We'll meet \nagain in that future we dreamed of』. Because that was our promise."
+        },
+        {
+            "name": "Cesario",
+            "text": "Rather than that……Trainer."
+        },
+        {
+            "name": "Cesario",
+            "text": "There's something I want you to see."
+        }
+    ]
+}
