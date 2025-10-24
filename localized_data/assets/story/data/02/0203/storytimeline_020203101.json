@@ -1,0 +1,395 @@
+{
+    "title": "Connection",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Okay! Trainer, is it okay over there? \nIt's not wobbly?"
+        },
+        {
+            "text": "Yeah, looks like there's no issue. Looks like the tent is set up…… \nSo all the preparations for our 『Special Training Camp』 are done."
+        },
+        {
+            "text": "Yeah, looks like there's no issue. Looks like the tent is set up…… \nSo all the preparations for our 『Special Training Camp』 are done."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Right! Well, rather than Training Camp, it's more like a mountain \nretreat? That's how it feels. But that's fine, bring it on!"
+        },
+        {
+            "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now.",
+            "choice_data_list": [
+                "『Those girls』 are waiting for me"
+            ]
+        },
+        {
+            "text": "……That's the spirit, Pandora. \nOh, it's already this late……I have to go pick them up now.",
+            "choice_data_list": [
+                "『Those girls』 are waiting for me"
+            ]
+        },
+        {
+            "name": "Daring Heart",
+            "text": "——Wow, cool!! Looks like the Leading Role is here. \nFufu, the carefree smile I see in the dorms seems to be gone."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Sorry for making you wait. \nPreparations on our end are all complete.",
+            "choice_data_list": [
+                "Messiah, Heart, Cesario——"
+            ]
+        },
+        {
+            "text": "Thanks for coming here. \nThanks for helping from today on."
+        },
+        {
+            "text": "Thanks for coming here. \nThanks for helping from today on."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Osu, please!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……that said, there's one more thing I want to say."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Heart-chan and everyone. \nYou don't have to teach me anything."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Huh? ……Do you mind if I ask what you mean by that?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "My senpai is Ku-chan-senpai. \n……She's taught me everything I need to know."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "That's why I want all of you, to compete against me. \nAs if I were a rival."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Please. Compete against me seriously! \nJust like you always did with senpai!"
+        },
+        {
+            "name": "Cesario",
+            "text": "I see. ……So you don't need guidance."
+        },
+        {
+            "name": "Cesario",
+            "text": "——Then, we won't hold back. \nAs many times as it takes, we'll continue to crush you!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Come at us, Fusaichi Pandora."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Aha! ——'Course, I'll do it!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Really……she just keeps changing. That Pandora-san would \nbe the one to propose a training camp like this.",
+            "choice_data_list": [
+                "That's true——",
+                "That's true——"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "At the 『Shuka Sho』, honestly…… \nI felt like I ran like never before."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "After all the training, and even during the race. \nI did all I could. Everything I could. It was really all I had."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "——But even than, I still lost."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Trainer. ……I wasn't a genius after all. \nIf I stay like this, then I'm sure to lose the Elizabeth Cup too."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "But……but, that's why!! \nI don't want to stay like this!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Please, Trainer. \nI want to become stronger……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I want to, I need to, from now on!! \nBecause……because I——!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Huu-…………Alright. \n——Please, Trainer!",
+            "choice_data_list": [
+                "Yeah. Let's get started!",
+                "Yeah. Let's get started!"
+            ]
+        },
+        {
+            "text": "And so——In an environment surrounded by her predecessors and their \noverwhelming strength, Fusaichi Pandora's 『Training Camp』 begins!"
+        },
+        {
+            "name": "Team <Ascella>",
+            "text": "One-two……Pandora, do your bestーーー!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ooosu——! Huu—, Huuu—……Nnngugugugugugu……!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes, remember to step firmly. One more set, Pandora-san!"
+        },
+        {
+            "text": "The training is going to be dull and repetitive…… \nBut hang in there, Pandora! To significantly improve \nyour level, a solid foundation is necessary!"
+        },
+        {
+            "text": "The training is going to be dull and repetitive…… \nBut hang in there, Pandora! To significantly improve \nyour level, a solid foundation is necessary!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I get it……already! Not yet, not yet～～～!!"
+        },
+        {
+            "text": "(With the help of her teammates, the entire morning was \nspent on fundamentals……! And then, in the afternoon——)"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "——Okay, time to speed up… NOW!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ugh……! Haa, haa, haa……!!",
+            "choice_data_list": [
+                "You took the bait, Pandora!",
+                "You took the bait, Pandora!"
+            ]
+        },
+        {
+            "text": "Focus on your own pace! It's important to be aware of your \nimmediate surroundings, but it's equally important keep a \nbroad perspective! Be cognizant of the entire race picture."
+        },
+        {
+            "text": "Focus on your own pace! It's important to be aware of your \nimmediate surroundings, but it's equally important keep a \nbroad perspective! Be cognizant of the entire race picture."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Under-……stood……cognizant, cognizant～……!!"
+        },
+        {
+            "text": "Right, that's it! Now, it's just the last leg…… \nThey're coming up behind you, just hold out, Pandora!!"
+        },
+        {
+            "text": "Right, that's it! Now, it's just the last leg…… \nThey're coming up behind you, just hold out, Pandora!!"
+        },
+        {
+            "name": "Messiah & Cesario",
+            "text": "Haaaaaaaaaaaー!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hold out, hold out! Hold hold hold hold…… \nUuuwaaaaahhーーーーー!!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "It might be in a slightly different way than you, but I also \nadmire Kraft. No, in that regard, maybe I'd be your senpai?"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "So I carry her light with me——with the will of a \"Queen\", \nto become that link, my feet won't stop just yet."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Even now, I am still on the front lines of that battle! I will still \ncontinue! I have no intentions of giving up on the Queen's throne!"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Carrying those emotions in our hearts……and inheriting them as our \nown. Turning that in to the strength to press on in to the future."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "For that undertaking. For that prestige. \nDo you fully and completely grasp its significance?"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Let's find out. Or rather, let's ensure that you do. Until it's \nburned in to your body and soul——we'll engrave it directly in to you."
+        },
+        {
+            "name": "Cesario",
+            "text": "The 『Queen Elizabeth Cup』 itself is where countless \nTiara Uma Musume gather to compete, regardless of \nclass. A race to decide who stands at the peak."
+        },
+        {
+            "name": "Cesario",
+            "text": "And that is precisely why I will become a part of that history. \n……With the presence of a 『Queen』, I will stand in your path."
+        },
+        {
+            "name": "Cesario",
+            "text": "Come, Fusaichi Pandora. \nThe \"Queen of Two Countries\" Cesario, will be your opponent!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Not yet……Not yet! \nJust one more……!!"
+        },
+        {
+            "text": "(In the afternoon, we'd continue to challenge \nKraft's rivals! She would gain experience, hone \nher race instincts……and 『Become』 a contender!)",
+            "choice_data_list": [
+                "Run! ……Become strong, Pandora!!"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Uwaaaaaaaaaaaaahーーーーー!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Haa, haa, haa……cough…… \nHaha, this is so tough……"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "But……I won't give up, ever……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I'm not a genius. I wasn't anywhere close to that! \nI even lost all of the Triple Tiara races!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I was weak! I was lacking so much! \nBut……even then……!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Even then, senpai, always——!! \nShe was always thinking about me——!!)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『It's fine, you'll be fine for sure! \nBecause Pandora-san's future will surely be——』"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『Something nobody has ever seen before, it'll shine bright \nand be wonderful. If it's Pandora-san, then you can do it!』"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Ku-chan-senpai, always, always. \nShe believed in me!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(That's why……I will——!!)"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "……It's time. Let's begin. Tomorrow we'll be returning to campus, \nso today is probably the end of our parallel running."
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Now then. So far, you haven't once taken the lead from us \n——Obviously, you don't plan on letting it end like this, do you?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Heh. That's something to look forward to for after our run!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Very well. \nToday is the day to show your progress!"
+        },
+        {
+            "text": "……Alright, everyone's in position. \nThen, ready——",
+            "choice_data_list": [
+                "Start!!"
+            ]
+        },
+        {
+            "text": "……Alright, everyone's in position. \nThen, ready——",
+            "choice_data_list": [
+                "Start!!"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Haa, haa, haa, haa——!!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『You're so brilliant. \nAn Uma Musume that's a collection of hopes——』"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(She was thinking about me, and believed in me! \nSenpai gave me everything!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(That's why, I will——! I will do it!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I will——continue that link!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "——Aaaaaaaaaah!!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I will do it! I will be that link! \nI will be Ku-chan-senpai's legacy!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Because senpai gave everything to me! \nSenpai is with me. She'll be here with me!)"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Not yet! We're just getting started……!"
+        },
+        {
+            "name": "Cesario",
+            "text": "Let's go, Fusaichi Pandora! Haaaaaaaaa!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I won't let them! I will be that link, I will win!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(I will become it! Senpai's——Hope!!)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I will be the one!! ——To do iiiiiiitt!!"
+        },
+        {
+            "name": "Daring Heart",
+            "text": "Haa……! Haa, haa, haa……—— \n……Congrats."
+        },
+        {
+            "name": "Air Messiah",
+            "text": "Looks like you were finally able to hold on to the end. \nThis run, was just like——"
+        },
+        {
+            "name": "Air Messiah",
+            "text": "……No, perhaps saying that would be too presumptuous. \nHowever, that was splendid Pandora-san."
+        },
+        {
+            "name": "Cesario",
+            "text": "Yeah. ……all of this is the results of your efforts."
+        },
+        {
+            "name": "Cesario",
+            "text": "Pandora-san. \nWe're……leaving it to you."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……——Mmhmm!"
+        }
+    ]
+}

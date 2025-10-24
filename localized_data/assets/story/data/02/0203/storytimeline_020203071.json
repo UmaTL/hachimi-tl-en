@@ -1,0 +1,355 @@
+{
+    "title": "We're Geniuses, After All",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Commentator",
+            "text": "And that concludes today's main race, the 『Oaks』, \nas the Uma Musume finish their Winning Live!"
+        },
+        {
+            "name": "Commentator",
+            "text": "The girls chasing after the Triple Tiara races now move on to Autumn. \nAt the 『Shuka Sho』 we'll be looking forward to their evolution!",
+            "choice_data_list": [
+                "……Welcome back. Good work, Pandora!"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "O～su. ……Ah～man～～～did you see that? Kawakami-senpai! \nEverywhere she went, everyone was saying \"Amazing, amazing\"!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Geez～, all of that should have been me! \nBeing suuuper amazing, getting praised to the sky, becoming Queen!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "All of it, should have been mine——…………",
+            "choice_data_list": [
+                "……Pandora?"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "…………The waiting room. …………I'm heading back."
+        },
+        {
+            "text": "(Pandora seemed to be thinking deeply about something…… \nAfter that, she spoke very little.)"
+        },
+        {
+            "text": "(And it wasn't just that day. Even during the next day's training——)"
+        },
+        {
+            "text": "Huh……Pandora? I thought I mentioned that today was a rest day…… \nYou just had a race, so I think it'd be better to rest your body?"
+        },
+        {
+            "text": "Huh……Pandora? I thought I mentioned that today was a rest day…… \nYou just had a race, so I think it'd be better to rest your body?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Just watching. ……Can't I?",
+            "choice_data_list": [
+                "No……that's fine"
+            ]
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Then, let me just stay here…………"
+        },
+        {
+            "text": "(Just like she said, Pandora remained there \nthe whole time……just staring at something)"
+        },
+        {
+            "text": "(What exactly it was……I still didn't know, but——)"
+        },
+        {
+            "name": "King Halo",
+            "text": "——Huu! That should be enough for today. \nWhat do you think?",
+            "choice_data_list": [
+                "Right. Let's call it a day",
+                "Right. Let's call it a day"
+            ]
+        },
+        {
+            "name": "Single Knot Horsegirl",
+            "text": "Phew～! Good work out thereー……! \nWhoa～ today was a scorcher, wasn't it?"
+        },
+        {
+            "name": "Antenna-haired Horsegirl",
+            "text": "Summer is almost here after all. Ugh, I feel all sticky…… \nI just wanna hop in the shower right now～"
+        },
+        {
+            "text": "(Pandora……in the end she just kept watching, huh? ……Hm?)"
+        },
+        {
+            "text": "(Pandora……in the end she just kept watching, huh? ……Hm?)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……——senpai."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Hey. ……can we talk for a bit?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Yeah, that's fine. Let me wipe off this sweat first though!"
+        },
+        {
+            "text": "(Did……Pandora just want to talk to Kraft about something? She seemed \nto be thinking about this for so long……will she be alright……?)"
+        },
+        {
+            "text": "(Did……Pandora just want to talk to Kraft about something? She seemed \nto be thinking about this for so long……will she be alright……?)"
+        },
+        {
+            "name": "???",
+            "text": "——<Ascella>'s Trainer-san.",
+            "choice_data_list": [
+                "Wah!?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oops…… Fufuu, sorry for startling you like that!",
+            "choice_data_list": [
+                "You're……Pandora's——",
+                "You're……Pandora's——"
+            ]
+        },
+        {
+            "name": "North Flight",
+            "text": "Yep. Her former teammates♪"
+        },
+        {
+            "name": "North Flight",
+            "text": "——Honestly, we're a bit surprised. \nPandora-chan……she's really changed, huh?"
+        },
+        {
+            "name": "North Flight",
+            "text": "In the best way possible. \nWe should be thankful to Team <Ascella>, shouldn't we!?"
+        },
+        {
+            "text": "Thankful, huh……I wasn't able to help her get the results \nshe wanted, so I just feel like I let her down though……"
+        },
+        {
+            "text": "Thankful, huh……I wasn't able to help her get the results \nshe wanted, so I just feel like I let her down though……"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "While it's unfortunate and I'm sure she's \nalso frustrated……even then, Trainer-san."
+        },
+        {
+            "name": "North Flight",
+            "text": "Yeah. Because, Pandora-chan—— \nShe just ran away from it last time, remember?"
+        },
+        {
+            "name": "North Flight",
+            "text": "After the 『Oka Sho』. \nSaying she didn't want to watch a race that she lost."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "For a genius like her, defeat must have been difficult to accept—— \nOn top of that, she might not have felt it was necessary."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "To face the things she didn't like or that were embarrassing. \n……There was never anything that truly made her feel 『I want to win』"
+        },
+        {
+            "name": "North Flight",
+            "text": "But now, she's changed. ……We've been watching her. How she was \nbefore the 『Oaks』, when running the race itself……and today too."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "That's right. For the Pandora right now, certainly——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "A restless feeling? Or maybe uneasiness? \n……That's what I've felt this whole time."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Yeah."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "『I'm done』, or 『No more, embarrassing. Just forget it』…… \nI don't feel like that. Normally I did, but not this time."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "It's like, this whole time. ……I've just thought this the whole time——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Hey, senpai. ……Ku-chan-senpai. \nI ran. In the 『Oaks』"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah. ……I was watching."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I ran. But……so many things happened that I couldn't understand. \nI ran until the end. All the way……to the end, I did——"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……I ran……but even then……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah——"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "It's frustrating, isn't it? ……It's so frustrating. \nYou wanted to win, right, Pandora-san?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "…………It's frustrating…………I wanted……to win. \n……Ugh——!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ghh, Uuuuu～～～……!! \nU-uwaaaaaaaaaah……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "——It's frustrating!! So, so frustrating! I wanted to win!! \nI really wanted to win, you know!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "To win…………I wanted………you to see me win——!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah. ……Yeah, thank you, Pandora-san."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "For carrying these feelings, and running for me. \nThank you……"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ugh……geez, damnit……damnit, \ndamnit, damniiiiiitーーーー!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Sniff……haa, not good. I'm gonna be a mess tomorrow, after all that."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Y-you'll be fine! Pandora-san, you're always cute. \nUmmmm～……Right! Lovely, lovely!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "……Hey, we cried a lot, we let out our frustrations……and now. \nNow, let's stand up again, together, Pandora-san."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Together…… with senpai?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "——Me too. I lost, and lost, and it was painful…… \nAnd there were times where I thought it was impossible too."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "I was all worn out. ……before the 『Hanshin Uma Musume S』"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Eh……!? But, at that race——!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Yeah. ……I was able to stand again. Without giving up. \nThat's why I was able to obtain it again."
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "No, maybe it was the other way around? 『One more time』, \n『One more time』……『Until we obtain it once more, never \ngive up』, maybe because Trainer-san and I decided on that."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Until we obtain it, never give up……"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Right. That's——Our team, Team <Ascella>'s way!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(……I……see. ……I see. \nSo that's why……at that time, I——)"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "That's why, okay? Next time, let's do it together \nPandora-san! In the fall, for me it'll be the \n『Sprinter's S』, and for you the 『Shuka Sho』!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Pfft. So it'll be like revenge～?"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Like that! ……It'll be fine. We'll still be fine! If it's both of us!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……Yeah. ……Yeah."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Yeah, you're right! ……Alll～right～～～……!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "I won't give up either!! I won't give up, no matter what!! \nNo matter what happens, never."
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "And then I'll win!! In the fall at the 『Shuka Sho』 for sure!!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "——That's why, next time! \nJust watch me win, senpai. ……It's a promise!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "Fufuu……Yeah. A promise!"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "I'll be there watching, so show me! \n……I'm really looking forward to it!"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ookay, just leave it to me☆ \nAfter all, I'm a——"
+        },
+        {
+            "name": "Rhein Kraft",
+            "text": "『Genius♡』"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "! Ahahahaha, that's right!! \nKu-chan-senpai, you're the bestーーー♡"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(……Hey, senpai. 『One more time』『One more time』, \nI won't give up. And I'll do my best～……I——)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Want to be like you, Ku-chan-senpai)"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "(Me too. Just like senpai, I want to run and——!)"
+        },
+        {},
+        {
+            "name": "Fusaichi Pandora",
+            "text": "……——senpai?"
+        },
+        {
+            "name": "Fusaichi Pandora",
+            "text": "Ku-chan-senpai? \n…………Are you asleep?"
+        }
+    ]
+}
