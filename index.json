@@ -2059,6 +2059,26 @@
       "size": 2855
     },
     {
+      "path": "assets/race/storyrace/text/storyrace_020203062.json",
+      "hash": "aa91bc94d24464a8578032347458102f7f205f999ce08bd0ae8ea86d214f9ca7",
+      "size": 2342
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020203122.json",
+      "hash": "f9b84f8695d8cc6e24e722d054e10e2ccc322cb44667279613119011d213c70b",
+      "size": 3200
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020203132.json",
+      "hash": "d130ce34f9e52da4f0181cb01b108321d237ab36194855c87dcf242611dd3310",
+      "size": 1584
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020203133.json",
+      "hash": "5979b6b518b703839f4e373cd6f56abdad50974a941217f83de8384c41795d10",
+      "size": 1595
+    },
+    {
       "path": "assets/story/data/00/0008/storytimeline_000008001.json",
       "hash": "d6e0ed912298faec5d114e632623bca0624c4a8d4af934b6b4c94241acb6de13",
       "size": 226
@@ -3007,6 +3027,71 @@
       "path": "assets/story/data/02/0202/storytimeline_020202133.json",
       "hash": "ca80ef94d321366988b3bceb1ea13356d78bb38415f9cc2867a3bab126bdf713",
       "size": 6188
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203011.json",
+      "hash": "7d434831be516c788c726c464902fb3d0368a92e6f63986d61aa37e2a873a0b4",
+      "size": 9086
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203021.json",
+      "hash": "90957418c0c29bc103ba87aae7fe96805a5f2223307f0405bf0868114f1c22e4",
+      "size": 13665
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203031.json",
+      "hash": "f1ee7d3b47d3425d4a53b1a08b6980b7929fffe899aa1c632ca3d9d3a33a8117",
+      "size": 10780
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203041.json",
+      "hash": "e066f79b6ee18d951812ec69fa21c37b5d51a95f7756854f6da0bacc2b690802",
+      "size": 15362
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203051.json",
+      "hash": "975987ef47877a5047329837a5533fd80786592b83cd045d0b2af410bd1ab22f",
+      "size": 17118
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203061.json",
+      "hash": "0f366d4098f0e014dab999a62bac7cb1ffb6dbe2e33b1d249e15a40d97e2525c",
+      "size": 13833
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203071.json",
+      "hash": "697394f59a81c1d2745ec0f1de4cfaedc79400b8bda758b184de7edd30d7f465",
+      "size": 13719
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203081.json",
+      "hash": "f348df9a825d1eb5b4be81503d834b25086caa4d320028f96c9a3501aef74252",
+      "size": 14900
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203091.json",
+      "hash": "d8d159a6fb88a55d6218358eea5af9d88bd8f50951ad402316da89bf34828fe8",
+      "size": 12996
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203101.json",
+      "hash": "04430346f6b5ae8454dfdbee6243dfe768aaa55d25e9d11ef96c982d0d2c45ae",
+      "size": 15390
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203111.json",
+      "hash": "6c3c23b96e1547746277bb45fa8f9f0ead20cae4065634bf6af53d16ec7a1380",
+      "size": 12549
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203121.json",
+      "hash": "031bbc325b4b9ce14a2254c88acdd9692a24ebdda1f1d4d53ada0c10580ec807",
+      "size": 9629
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203131.json",
+      "hash": "e0a045e5760867250cb1944760235179dc6b32cb5e0600857b535d9bb0969c40",
+      "size": 2917
     },
     {
       "path": "assets/story/data/04/1001/storytimeline_041001001.json",
@@ -11230,8 +11315,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "e5f72e40ad83f36a2d637d45c8b7a405a6ff789c0b47b35ec8f49291ae6576d8",
-      "size": 280671
+      "hash": "a00f4c550671960c2e8a9b0a02a02679f0e58d69a5e38fe73e4c7555dc31e5cc",
+      "size": 280974
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11245,8 +11330,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "c669b96465bf1c7f8080d5d0f41288263a974641304db0f9817d130eec8dfa33",
-      "size": 2995035
+      "hash": "da53244f6e7ef3faba531ceecca52c528dd58b41a15c4abcc3b72ea93a446818",
+      "size": 2995531
     }
   ]
 }
