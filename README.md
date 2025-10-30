@@ -9,15 +9,12 @@ Please support UmaTL's own translations & related work through [![Patreon](https
 
 
 # Install / Use
-> [!IMPORTANT]
-> Uninstall any outdated translation patches you still have (Legacy UmaTL, Carotene).
-> For the Legacy UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
-
-1. Download and install [Hachimi].
-    - If this is your first time, test that your game starts up with Hachimi first! Close the setup popup, then close the game again.
-1. Change the translation source URL in Hachimi's config. Premade files and details [here](../../releases/tag/config).
-1. Run the game and pick UmaTL in Hachimi's `first time setup`.
+1. Download and install [Hachimi-Edge] for PC or [UmaPatcher-Edge] for android. (iOS is unsupported)
+    - UmaTL is the default translation source in the "Edge" versions.
+1. If on android, check extra details in [this guide](https://docs.google.com/document/d/1wNz42SDWNf68yIOlHlHvhGQVlfnpcqNq4-kYLZJz15M/edit?tab=t.0#heading=h.sw1ienv6ufur).
+1. Run the game and pick your preferred source in Hachimi's `first time setup`.
     - If it does not appear, open the Hachimi menu and re-run it from there.
+    - ⚠️ Do this even if you used Hachimi before and the game looks translated to make sure you're using the UmaTL source.
 
 **Optional**: It is highly recommended to adjust `Story choice auto select delay` (1.2) and `Story text speed multiplier` (3.0) in Hachimi's menu -> config -> gameplay to something you like. The numbers in brackets are good values.
 
@@ -50,5 +47,7 @@ Use the [UmaTL] tools and contribute them there (I will take care of transferrin
 
 [UmaTL]: https://github.com/noccu/umamusu-translate
 [Hachimi]: https://hachimi.leadrdrk.com/
+[Hachimi-Edge]: https://github.com/kairusds/Hachimi-Edge/releases/latest/download/hachimi_installer.exe
+[UmaPatcher-Edge]: https://github.com/kairusds/UmaPatcher-Edge/releases/latest/download/app-release.apk
 [ZokuZoku]: https://marketplace.visualstudio.com/items?itemName=LeadRDRK.zokuzoku
 [Carotene]: https://github.com/KevinVG207/Uma-Carotene-TL
