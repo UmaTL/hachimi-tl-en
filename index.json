@@ -1490,8 +1490,8 @@
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1083002.json",
-      "hash": "b98e055f741fac6def122151f29d4b635f227fc0ffbfc221fa106405333dd205",
-      "size": 1814
+      "hash": "e85da08db08a5ecf770262450aa1b7b1257e5a8d4e41c510843ab46e0310ff1b",
+      "size": 1797
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1084001.json",
@@ -2130,8 +2130,8 @@
     },
     {
       "path": "assets/story/data/00/0000/storytimeline_000000011.json",
-      "hash": "f28209ea84ee276b58219d138cad6377233ab122baafe5c626b56f19f5bde906",
-      "size": 1065
+      "hash": "f950ef6366ea4d8e78898be63e1c103517b4495719bf163d2706eeca182beb78",
+      "size": 1051
     },
     {
       "path": "assets/story/data/00/0008/storytimeline_000008001.json",
@@ -5972,6 +5972,11 @@
       "path": "assets/story/data/08/0000/storytimeline_080000011.json",
       "hash": "48dd3973a8743a7957bd5bc64260017c8bef6f32ea0b683c05f24b8949f54da6",
       "size": 1743
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000012.json",
+      "hash": "4de95fc98b84675b7dee00802526576958445f2c7164c3a6c40dfd989dfa6063",
+      "size": 2016
     },
     {
       "path": "assets/story/data/09/0002/storytimeline_090002001.json",
@@ -11119,6 +11124,21 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
+      "hash": "0d8606edbc2213f1c154fca017f7f3d9dd5b14aa3674e78426eb47615c6e6eb1",
+      "size": 978
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_hotspring_map_name00.json",
+      "hash": "947b33673a921f98e9103a1614c12a12ef832444ca407c717e7397411a5baf68",
+      "size": 327
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ticket_btn00.json",
+      "hash": "91b286c5470f2eb6cc5105b43ca42a456d810e2303e6a65c239d8807eda5ae85",
+      "size": 496
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
       "hash": "f45ac2771234eef7322da7c075fd0fe0f2c531b47014ddd32ad4e40a5aa83450",
       "size": 166
@@ -11259,11 +11279,6 @@
       "size": 166
     },
     {
-      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
-      "hash": "182f915ab25cca8fe1004022eac71a023ae40aab6216797f7e79695968b87dd9",
-      "size": 414
-    },
-    {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
       "hash": "112e75f9d58d7ea9f13c8f66fab2fd3d1d787df5a3bbba4e18e0b308d73fa3db",
       "size": 698
@@ -11344,6 +11359,16 @@
       "size": 2995
     },
     {
+      "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
+      "hash": "81b3117b1f606545288703dd3b164547bcd0ebf7c1dac8d3b0632a05f98230bb",
+      "size": 1123
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/singlemode/pioneer/fa_singlemode_pioneer_badge_shimatraining00.json",
+      "hash": "79292f43d59840f58a7d9bf62e556011c8bfe546015f4aad05f971ee1d8938f9",
+      "size": 481
+    },
+    {
       "path": "character_system_text_dict.json",
       "hash": "7b41f6fa843cf9386d857522624afdd91758ec3413044e7154f245192a579cc7",
       "size": 218790
@@ -11355,8 +11380,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "73a09782b81e2314fb99a256e2c098b81971be848b1465d26c00daf220e63391",
-      "size": 10376
+      "hash": "ce4c6bb877d88ba2297b2a668fb93c5aca832165d69305c916f598ff1e39b88a",
+      "size": 10619
     },
     {
       "path": "includes_android",
@@ -11370,8 +11395,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "a00f4c550671960c2e8a9b0a02a02679f0e58d69a5e38fe73e4c7555dc31e5cc",
-      "size": 280974
+      "hash": "039fdb188d4c9e438c398577213d54691b9476bc5f36da40a385d0b4e7adb335",
+      "size": 285775
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11385,8 +11410,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "da53244f6e7ef3faba531ceecca52c528dd58b41a15c4abcc3b72ea93a446818",
-      "size": 2995531
+      "hash": "333f5ab53754dfb715bb7ad0d7ad4a352c65a40950b68d8c21810e1f0ba94760",
+      "size": 3011118
     }
   ]
 }
