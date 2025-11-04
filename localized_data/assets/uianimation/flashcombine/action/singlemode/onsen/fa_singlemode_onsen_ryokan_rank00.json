@@ -1,0 +1,56 @@
+{
+  "windows": {
+    "bundle_name": "S4LC24TV3O6NHVW2JBSP757CBZZSYUHK"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "1": {
+          "text_param_list": {
+            "0": {
+              "text": "Springs",
+              "position_offset": {
+                "x": -130.0,
+                "y": -0.0,
+                "z": 0.0
+              }
+            },
+            "1": {
+              "text": "to goal:",
+              "position_offset": {
+                "x": 80.0,
+                "y": -1.0,
+                "z": 0.0
+              }
+            }
+          }
+        },
+        "2": {
+          "text_param_list": {
+            "0": {
+              "text": "Finished"
+            }
+          }
+        },
+        "3": {
+          "text_param_list": {
+            "0": {
+              "text": "Complete!"
+            }
+          }
+        },
+        "4": {
+          "text_param_list": {
+            "0": {
+              "position_offset": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
