@@ -602,7 +602,7 @@
     "Circle400104": "Donate to all players listed below.\nOnly players you can donate to are shown.",
     "Circle400106": "$(nb)Donation Details",
     "Circle400107": "Donate to all",
-    "Circle400108": "<atlas=PreIn sprite=utx_ico_notice_00/> <color=#ff4400>Donations left today: {0}</color>\nIn rare cases, the timing may cause some items to not be donated.",
+    "Circle400108": "<atlas=PreIn sprite=utx_ico_notice_00/> <color=#ff4400>Donations left today: {0}</color>\nIn rare cases, timing issues can cause a donation to fail.",
     "Circle400109": "No donation targets",
     "Circle400110": "Donate {2} {1} to {0}",
     "Circle483001": "Club Card",
