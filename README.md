@@ -9,20 +9,18 @@ Please support UmaTL's own translations & related work through [![Patreon](https
 
 
 # Install / Use
-1. Download and install [Hachimi-Edge] for PC or [UmaPatcher-Edge] for android. (iOS is unsupported)
+1. Install [Hachimi Edge](https://hachimi.noccu.art/) (PC & Android) and follow the guide.
     - UmaTL is the default translation source in the "Edge" versions.
-1. If on android, check extra details in [this guide](https://docs.google.com/document/d/1wNz42SDWNf68yIOlHlHvhGQVlfnpcqNq4-kYLZJz15M/edit?tab=t.0#heading=h.sw1ienv6ufur).
-1. Run the game and pick your preferred source in Hachimi's `first time setup`.
-    - If it does not appear, open the Hachimi menu and re-run it from there.
-    - ⚠️ Do this even if you used Hachimi before and the game looks translated to make sure you're using the UmaTL source.
+1. If you used Hachimi before, run the First Time Setup again even if the game looks translated to make sure you're using the UmaTL source.
+
 
 **Optional**: It is highly recommended to adjust `Story choice auto select delay` (1.2) and `Story text speed multiplier` (3.0) in Hachimi's menu -> config -> gameplay to something you like. The numbers in brackets are good values.
 
 # Versions
 In addition to the normal translations, 2 alternate versions are provided:
 
-1. UmaTL + Skill data. Replaces skill descriptions with converted raw data, otherwise the same.
-1. Skill data only. Does the same, but includes no translations. For users preferring Japanese.
+1. UmaTL + Skill data. The same as normal, but skill descriptions are replaced with a readable version of the skill's raw data.
+1. Skill data only. Only the raw data part, includes no translations.
 
 > [!WARNING]
 > These versions might lag slightly behind the normal version.  
@@ -32,7 +30,7 @@ In addition to the normal translations, 2 alternate versions are provided:
 Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
 
 # Philosophy
-UmaTL tries to maintain natural, accurate, and complete translations for even less common parts of the game. It is less concerned with long-term and historical community usage. While long-term stability is still an ideal goal, UmaTL will not shy away from changing existing or even established terms to improve its translations. This is also why UmaTL uses many of its own translations. Official terms might be picked up if they contribute to this philosophy.
+UmaTL tries to maintain natural, accurate, and complete translations for every part of the game. It is less concerned with long-term and historical community usage. While long-term stability is still an ideal goal, UmaTL will not shy away from changing existing or even established terms to improve its translations. This is also why UmaTL uses many of its own translations. Official terms might be picked up if they contribute to this philosophy.
 For game usage, UmaTL includes a modified version of the original font, with edits for English usage, formatting, and optimization of the limited space.
 
 # Translation sources
@@ -43,11 +41,16 @@ UmaTL is the original full game translation project, lending its translations to
 This includes Hachimi: its default translations are mostly imported from older UmaTL material. 
 
 # Contributing translations
-Use the [UmaTL] tools and contribute them there (I will take care of transferring them), or use [Carotene] or [ZokuZoku] and contribute the Hachimi format files here as a PR. Join our Discord or open an Issue for further discussion or help.
+Check the [translation guide](https://hachimi.noccu.art/docs/translation-guide/welcome.html).
+
+To enable management and prevent issues, please inform UmaTL of your intentions before starting.  
+Join the [Discord](https://discord.gg/xBMgwh6hHY) or open an Issue for this, as well as further discussion or help.
+
+When using the [UmaTL] tools, please contribute translations to that repo. I will take care of transferring them.  
+Otherwise, use [ZokuZoku] and contribute the Hachimi format files here as a PR.
 
 [UmaTL]: https://github.com/noccu/umamusu-translate
 [Hachimi]: https://hachimi.leadrdrk.com/
 [Hachimi-Edge]: https://github.com/kairusds/Hachimi-Edge/releases/latest/download/hachimi_installer.exe
 [UmaPatcher-Edge]: https://github.com/kairusds/UmaPatcher-Edge/releases/latest/download/app-release.apk
 [ZokuZoku]: https://marketplace.visualstudio.com/items?itemName=LeadRDRK.zokuzoku
-[Carotene]: https://github.com/KevinVG207/Uma-Carotene-TL
