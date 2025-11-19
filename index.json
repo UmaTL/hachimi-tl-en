@@ -345,7 +345,7 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "6a8fc488b1bd9a1f9c64b3c577bc8fc421bf80739b0b0019edc8cc2ffec30557",
+      "hash": "9e85c549fe97a60018adc3418414ccf144937250a8a974e99b3ca9ad588d2149",
       "size": 299553
     },
     {
@@ -393,6 +393,11 @@
       "hash": "a4896def11b1c30a8c75498321e4650933bad8637da27e5314d7cab5daf085ad",
       "size": 166
     },
+	{
+      "path": "assets/atlas/practicerace/practicerace.diff.png",
+      "hash": "1803f114889c911fab0a914912ae3fbf1680d62a70446e8d658bc6e50130ec6a",
+      "size": 31103
+	},
     {
       "path": "assets/atlas/race/race.diff.png",
       "hash": "109c204a1ebb9489a41c744d3f179bdd3f5792d4f7418b723d1fffb0a344cd29",
