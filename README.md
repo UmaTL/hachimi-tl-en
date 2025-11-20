@@ -50,7 +50,7 @@ When using the [UmaTL] tools, please contribute translations to that repo. I wil
 Otherwise, use [ZokuZoku] and contribute the Hachimi format files here as a PR.
 
 [UmaTL]: https://github.com/noccu/umamusu-translate
-[Hachimi]: https://hachimi.leadrdrk.com/
+[Hachimi]: https://hachimi.noccu.art
 [Hachimi-Edge]: https://github.com/kairusds/Hachimi-Edge/releases/latest/download/hachimi_installer.exe
 [UmaPatcher-Edge]: https://github.com/kairusds/UmaPatcher-Edge/releases/latest/download/app-release.apk
 [ZokuZoku]: https://marketplace.visualstudio.com/items?itemName=LeadRDRK.zokuzoku
