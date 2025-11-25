@@ -17601,14 +17601,14 @@
         "113201211": "Betweener・Medium・At a random point during the second half of the race, your speed will increase; the effect is stronger if your base Wisdom is at least 1200",
         "113301111": "Leader・At a random point during the second half of the Middle Leg, your speed will increase",
         "113301211": "Leader・In races between 2000 and 2500 m, if you're trying to overtake someone during the first quarter of the Final Leg, your acceleration will increase; if you're not trying to overtake, the skill will trigger at a random point of the first quarter instead",
-        "111401111": "Increase your ability to pull ahead when entering the third corner before the final corner in 1600–2500m races; in core distance races, this has greatly increased effect for a period.",
-        "111401211": "[Chaser・Turf] Increase acceleration and ability to pull ahead moderately when you are in the early part of the Last Spurt in Mile races, or in the final corner of the Last Spurt in Medium races.",
-        "412041": "Greatly increases speed in the Middle Leg",
-        "412031": "Leader・Greatly increase your ability to pull ahead when you are overtaken or engaged in a duel in the Opening/Middle Leg.",
-        "210371": "Increase speed moderately during the Last Spurt. If your Inn rank is Legendary Inn, this has increased effect.",
-        "204001": "Leader・Increase your ability to pull ahead when you are overtaken or engaged in a duel in the Opening/Middle Leg.",
-        "412011": "Greatly increase speed when another girl stays right behind you for a long time",
-        "101141": "Increase your ability to pull ahead moderately when you are in the middle or further back at the halfway point of the race. In Mile/Medium races, this has increased effect."
+        "111401111": "Pull ahead when entering the third corner before the final corner in 1600–2500m races. In core distance races, this has greatly increased effect for a period.",
+        "111401211": "[Chaser, Turf] Increase acceleration and pull ahead moderately when in the early part of the Last Spurt in Mile races, or in the final corner of the Last Spurt in Medium races.",
+        "412041": "Greatly increase speed in the Middle Leg.",
+        "412031": "[Leader] Pull ahead greatly when overtaken or engaged in a duel in the Opening/Middle Leg.",
+        "210371": "Increase speed moderately during the Last Spurt. Increased effect if Inn rank is Legendary.",
+        "204001": "[Leader] Pull ahead when overtaken or engaged in a duel in the Opening/Middle Leg.",
+        "412011": "Increase speed greatly when a competitor stays right behind for a long time.",
+        "101141": "Pull ahead moderately when in the midfield or further back at the halfway point of the race. Increased effect in Mile/Medium races."
     },
     "49": {
         "1": "50 Jewels",
@@ -46642,13 +46642,13 @@
         "830265001": "A Solitary Beauty",
         "830265002": "A Solitary Day Off",
         "830265003": "A Solitary Truth",
-        "501097306": "After the Oka Sho・Still Want More",
-        "501022318": "After the Arima Kinen・Still with You",
-        "501097309": "After the Queen Elizabeth II Cup・Stilled",
-        "501097311": "After the Takarazuka Kinen・Red Stillness",
-        "501022319": "After the Arima Kinen・Still with You",
-        "501022438": "After the Arima Kinen・Still with You",
-        "501022439": "After the Arima Kinen・Still with You"
+        "501097306": "After the Oka Sho: Still Want More",
+        "501022318": "After the Arima Kinen: Still with You",
+        "501097309": "After the Queen Elizabeth II Cup: Stilled",
+        "501097311": "After the Takarazuka Kinen: Red Stillness",
+        "501022319": "After the Arima Kinen: Still with You",
+        "501022438": "After the Arima Kinen: Still with You",
+        "501022439": "After the Arima Kinen: Still with You"
     },
     "264": {
         "29": "Hikari (NPC)"
