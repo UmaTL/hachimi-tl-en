@@ -1,29 +1,30 @@
 {
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Stay Gold",
-      "text": "Hey, you're that same Trainer. \nI can say with confidence— \nthat these lights have no signs of disappearing."
+      "text": "Hey, you're that same Trainer. I can say \nwith confidence… that these lights have \nno signs of disappearing."
     },
     {
       "name": "Stay Gold",
-      "text": "They amount to… almost 20 now. \nWell, it's not like they're bothering me or anything.",
+      "text": "They amount to… almost 20 now. \nWell, it's not like they're bothering \nme or anything.",
       "choice_data_list": [
         "I see…"
       ]
     },
     {
-      "text": "Only a small number of people can see the small lights revolving around Stay Gold. It seems that nothing strange has come from them."
+      "text": "Only a small number of people can see \nthe small lights revolving around Stay Gold. \nIt seems that nothing strange has come \nfrom them."
     },
     {
       "name": "Stay Gold",
-      "text": "Hey, mind keeping me some company? There's a umamusme in my year that is knowledgeable about the occult."
+      "text": "Hey, mind keeping me some company? \nThere's a horsegirl in my year that is \nknowledgeable about the occult."
     },
     {
-      "text": "So the place we ended up was—"
+      "text": "So the place we ended up was ——"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "What the!? Stego, is there some kind of spirit possessing you!?"
+      "text": "What the!? Stego, is there some \nkind of spirit possessing you!?"
     },
     {
       "name": "Stay Gold",
@@ -31,15 +32,15 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Nope, not at all! However, I shall attempt to do an exorcism from memory!"
+      "text": "Nope, not at all! However, I shall attempt \nto do an exorcism from memory!"
     },
     {
-      "text": "Fungyaro Fungyaro～ \nGo back… from whence…",
-      "name": "Matikanefukukitaru"
+      "name": "Matikanefukukitaru",
+      "text": "Fungyaro Fungyaro～ \nGo back… from whence…"
     },
     {
-      "text": "you came!!!!!!",
-      "name": "Matikanefukukitaru"
+      "name": "Matikanefukukitaru",
+      "text": "you came!!!!!!"
     },
     {
       "name": "Matikanefukukitaru",
@@ -51,7 +52,7 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "… Huuuuh?"
+      "text": "…Huuuuh?"
     },
     {
       "text": "The instant exorcism had failed. \nAlthough there was no effect…"
@@ -62,11 +63,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Vanished… \nLooks like you absorbed one of them…"
+      "text": "Vanished… Looks like you \nabsorbed one of them…"
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Ayaya? \nThis… this scenery is…",
+      "text": "Ayaya? This… This scenery is…",
       "choice_data_list": [
         "What do you see?",
         "What do you see?"
@@ -78,18 +79,18 @@
     },
     {
       "name": "Matikanefukukitaru",
-      "text": "Become a Happy Max Daigongen!! \nIt feels like the greatest fortune in my life has come!"
+      "text": "Become a Happy Max Daigongen!! \nIt feels like the greatest fortune in \nmy life has come!"
     },
     {
       "name": "Stay Gold",
-      "text": "… Hoh."
+      "text": "…Hoh."
     },
     {
-      "text": "Seeing Matikanefukukitaru do a little dance, Stay Gold grinned and chuckled…"
+      "text": "Seeing Matikanefukukitaru do a little dance, \nStay Gold grinned and chuckled…"
     },
     {
       "name": "Stay Gold",
-      "text": "I think I get it. \nAlthough it's just a guess."
+      "text": "I think I get it. Although it's just a guess."
     },
     {
       "name": "Stay Gold",
@@ -101,21 +102,21 @@
     },
     {
       "name": "Mejiro Dober",
-      "text": "I don't understand it… \nI don't understand it, but I'm feeling frustrated"
+      "text": "I don't understand it… \nI don't understand it, but I'm \nfeeling frustrated…"
     },
     {
       "name": "Seeking the Pearl",
-      "text": "…Hm? I don't feel anything special. \nWas there supposed to be something Fabulous?"
+      "text": "…Hm? I don't feel anything special. \nWas there supposed to be something \nFabulous?"
     },
     {
       "name": "Stay Gold",
-      "text": "Oh… Pearl didn't \nabsorb one of the lights…"
+      "text": "Oh… Pearl didn't absorb one of the lights…"
     },
     {
       "name": "Stay Gold",
-      "text": "If that's the case it has to be that. If there's certain Umamusumes that the lights return to, then there are others that don't.",
+      "text": "If that's the case it has to be that. If there's \ncertain horsegirls that the lights return to, \nthen there are others that don't.",
       "choice_data_list": [
-        "… And that means?"
+        "…And that means?"
       ]
     },
     {
@@ -124,11 +125,11 @@
     },
     {
       "name": "Stay Gold",
-      "text": "Moving on, there's only 2 left now. \nAn extra large pink one and an extra large green one."
+      "text": "Moving on, there's only 2 left now. An extra \nlarge pink one and an extra large green one."
     },
     {
-      "text": "Let's return the extra large pink one first.",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "Let's return the extra large pink one first."
     },
     {
       "name": "Special Week",
@@ -136,7 +137,7 @@
     },
     {
       "name": "Stay Gold",
-      "text": "I knew the extra large pink one had to have been yours. \nSpe, how do you feel?"
+      "text": "I knew the extra large pink one had to have \nbeen yours. Spe, how do you feel?"
     },
     {
       "name": "Special Week",
@@ -144,7 +145,7 @@
     },
     {
       "name": "Special Week",
-      "text": "This happiness… it's a bit much, I don't know how to phrase it. Um, for example～…",
+      "text": "This happiness… it's a bit much, I don't know \nhow to phrase it. Um, for example～…",
       "choice_data_list": [
         "Like you won a big race?",
         "Like you ate a bunch of seafood?"
@@ -152,31 +153,31 @@
     },
     {
       "name": "Special Week",
-      "text": "Yes! Exactly like that feeling! When I won against strong umamusumes that I don't know!"
+      "text": "Yes! Exactly like that feeling! When I won \nagainst strong horsegirls that I don't know!"
     },
     {
       "name": "Special Week",
-      "text": "Huh? Grass is there too… \nAh, but she might not be there? I wonder which one it is…"
+      "text": "Huh? Grass is there too… Ah, but she might \nnot be there? I wonder which one it is…"
     },
     {
       "name": "Stay Gold",
-      "text": "Well, let's not sweat the small stuff. Anyways, the thing we came to return \nhas been returned."
+      "text": "Well, let's not sweat the small stuff. \nAnyways, the thing we came to return \nhas been returned."
     },
     {
       "name": "Stay Gold",
       "text": "It's good to savor that unique feeling. \nSee ya."
     },
     {
-      "text": "Thank you. The amount of them \ndecreased. A huge weight's been \ntaken off my shoulder.",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "Thank you. The amount of them \ndecreased. A huge weight's been \ntaken off my shoulder."
     },
     {
       "name": "Special Week",
       "text": "Is that right? \nThat's not the right feeling but…"
     },
     {
-      "text": "Ah well, we can make it work! Certainly, it's like the happiness I feel when I eat a lot of delicious food!",
-      "name": "Special Week"
+      "name": "Special Week",
+      "text": "Ah well, we can make it work! Certainly, it's like the happiness I feel when I eat a lot of delicious food!"
     },
     {
       "name": "Stay Gold",
@@ -187,16 +188,16 @@
       "text": "It's good to have your fill of it and savor it. \nSee ya."
     },
     {
-      "text": "Thank you. The amount of them \ndecreased. A huge weight's been \ntaken off my shoulder.",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "Thank you. The amount of them \ndecreased. A huge weight's been \ntaken off my shoulder."
     },
     {
       "name": "Stay Gold",
-      "text": "\"Render unto Caesar the things that are Caesar's\" \nFinally, the last one—"
+      "text": "\"Render unto Caesar the things that \nare Caesar's\" Finally, the last one ——"
     },
     {
-      "text": "This— extra large green one. \nIf I can return it, I'd want to, but…",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "This… extra large green one. \nIf I can return it, I'd want to, but…"
     },
     {
       "name": "Stay Gold",
