@@ -730,7 +730,8 @@
         "113201": "[9927 Wishes] Loves Only You",
         "113301": "[Effulgent Curator] Chrono Genesis",
         "9100101": "[Special Dreamer] Special Week",
-        "9101101": "[Rock-piercing Blue] Grass Wonder"
+        "9101101": "[Rock-piercing Blue] Grass Wonder",
+        "111401": "[Heroína Inocente] Buena Vista"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -1109,7 +1110,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "1136": "Red Desire"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -17599,14 +17601,14 @@
         "113201211": "Betweener・Medium・At a random point during the second half of the race, your speed will increase; the effect is stronger if your base Wisdom is at least 1200",
         "113301111": "Leader・At a random point during the second half of the Middle Leg, your speed will increase",
         "113301211": "Leader・In races between 2000 and 2500 m, if you're trying to overtake someone during the first quarter of the Final Leg, your acceleration will increase; if you're not trying to overtake, the skill will trigger at a random point of the first quarter instead",
-        "111401111": "In 1600m–2500m races, move forward during the third corner before the final corner.In core-distance races, surge strongly forward for 4 seconds.",
-        "111401211": "Chaser · Turf. At the beginning of the Final Spurt/final corner in Mile/Medium races your acceleration increases and you move slightly forward",
+        "111401111": "Increase your ability to pull ahead when entering the third corner before the final corner in 1600–2500m races; in core distance races, this has greatly increased effect for a period.",
+        "111401211": "[Chaser・Turf] Increase acceleration and ability to pull ahead moderately when you are in the early part of the Last Spurt in Mile races, or in the final corner of the Last Spurt in Medium races.",
         "412041": "Greatly increases speed in the Middle Leg",
-        "412031": "Leader・You will surge strongly forward during the Opening/Middle Leg. if you are overtaken or get into a duel ",
-        "210371": "Increase speed in middle of Final Spurt, if your reached Legendary Inn, the effect is stronger",
-        "204001": "Leader・Move forward during the Opening/Middle Leg if you are overtaken or get into a duel.",
-        "412011": "If another girl has been right behind you for more than three seconds, your speed will greatly increase",
-        "101141": "If you are in the middle or back of the pack at the Middle Leg, you move slightly forward. In Mile/Medium races, you move forward greatly instead."
+        "412031": "Leader・Greatly increase your ability to pull ahead when you are overtaken or engaged in a duel in the Opening/Middle Leg.",
+        "210371": "Increase speed moderately during the Last Spurt. If your Inn rank is Legendary Inn, this has increased effect.",
+        "204001": "Leader・Increase your ability to pull ahead when you are overtaken or engaged in a duel in the Opening/Middle Leg.",
+        "412011": "Greatly increase speed when another girl stays right behind you for a long time",
+        "101141": "Increase your ability to pull ahead moderately when you are in the middle or further back at the halfway point of the race. In Mile/Medium races, this has increased effect."
     },
     "49": {
         "1": "50 Jewels",
@@ -46639,7 +46641,14 @@
         "830264003": "Towards a New Journey",
         "830265001": "A Solitary Beauty",
         "830265002": "A Solitary Day Off",
-        "830265003": "A Solitary Truth"
+        "830265003": "A Solitary Truth",
+        "501097306": "After the Oka Sho・Still Want More",
+        "501022318": "After the Arima Kinen・Still with You",
+        "501097309": "After the Queen Elizabeth II Cup・Stilled",
+        "501097311": "After the Takarazuka Kinen・Red Stillness",
+        "501022319": "After the Arima Kinen・Still with You",
+        "501022438": "After the Arima Kinen・Still with You",
+        "501022439": "After the Arima Kinen・Still with You"
     },
     "264": {
         "29": "Hikari (NPC)"
