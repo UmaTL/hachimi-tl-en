@@ -1,18 +1,19 @@
 {
   "title": "A Solitary Truth",
+  "no_wrap": true,
   "text_block_list": [
     {
       "text": "An event sponsored by Tracen Academy \nhas opened at Tokyo Racecourse today."
     },
     {
-      "name": "Audience",
+      "name": "Crowd",
       "text": "— The mini-live is going to start soon! \n— Who's in the next race? \n— That last race was crazy～!",
       "choice_data_list": [
         "Everyone's getting into it～"
       ]
     },
     {
-      "text": "The turnout today gave the event a festival-like feel that didn't pale in comparison to any other race day.",
+      "text": "The turnout today gave the event a \nfestival-like feel that didn't pale in \ncomparison to any other race day.",
       "choice_data_list": [
         "The racers seem pretty nervous too.",
         "The racers seem pretty nervous too."
@@ -20,11 +21,11 @@
     },
     {
       "name": "Festive Uma",
-      "text": "H-hey! \nIs the ribbon on the back of my outfit crooked?"
+      "text": "H-Hey! Is the ribbon on the back \nof my outfit crooked?"
     },
     {
       "name": "Level-headed Uma",
-      "text": "I said you're good! \nMore importantly, make sure you're properly stretching～"
+      "text": "I said you're good! More importantly, \nmake sure you're properly stretching～"
     },
     {
       "name": "Senpai Loving Uma",
@@ -35,8 +36,8 @@
       "text": "Fufu, good job. \nNext, let's take some deep breaths, shall we?"
     },
     {
-      "text": "…",
-      "name": "Admire Groove"
+      "name": "Admire Groove",
+      "text": "………"
     },
     {
       "name": "Admire Groove",
@@ -44,19 +45,19 @@
     },
     {
       "name": "Racecourse Staff",
-      "text": "—It'll soon be time to enter the race. \nIf everyone can please head over…"
+      "text": "—— It'll soon be time to enter the race. \nIf everyone can please head over…"
     },
     {
       "name": "Uma Friends",
-      "text": "—Ah～ I'm so nervous! Hey～ if I lose will you comfort me? \n— Yeah, yeah. We'll go to the usual store～."
+      "text": "— Ah～ I'm so nervous! Hey～ if I lose, \nwill you comfort me? \n— Yeah, yeah. We'll go to the usual store～"
     },
     {
       "name": "Kouhai and Senpai",
-      "text": "—Uuuuu～ Shenbai… \n—It'll be alright. Just make sure you reach the finish line safely."
+      "text": "— <i>Uuuuu</i>～ Shenbai… \n— It'll be alright. Just make sure \nyou reach the finish line safely."
     },
     {
       "name": "Admire Groove",
-      "text": "… Tch."
+      "text": "…<i>Tch</i>."
     },
     {
       "name": "Event Staff",
@@ -64,11 +65,11 @@
     },
     {
       "name": "Admire Groove",
-      "text": "… Why wouldn't I be?"
+      "text": "…Why wouldn't I be?"
     },
     {
       "name": "Event Staff",
-      "text": "Nothing at all. I just saw you were alone and was wondering if I could help you with anything—"
+      "text": "Nothing at all. I just saw you were alone \nand was wondering if I could help you \nwith anything ——"
     },
     {
       "name": "Admire Groove",
@@ -76,7 +77,7 @@
     },
     {
       "name": "Admire Groove",
-      "text": "—I'm fine."
+      "text": "—— I'm fine."
     },
     {
       "name": "Admire Groove",
@@ -88,15 +89,15 @@
     },
     {
       "name": "Admire Groove",
-      "text": "(—Yeah, I don't need it.)"
+      "text": "(—— Yeah, I don't need it.)"
     },
     {
       "name": "Event Commentator",
-      "text": "All the umamusmes have started! \nThey all had a perfect start and are forming a line!"
+      "text": "All the runners have started! They all had \na perfect start and are forming a line!"
     },
     {
       "name": "Admire Groove",
-      "text": "(Such half-hearted things… are only obstacles.)"
+      "text": "(Such half-hearted things… \nare only obstacles.)"
     },
     {
       "name": "Admire Groove",
@@ -104,15 +105,15 @@
     },
     {
       "name": "Admire Groove",
-      "text": "(I don't need it.)"
+      "text": "(I don't need them.)"
     },
     {
       "name": "Admire Groove",
-      "text": "(—It's unnecessary!)"
+      "text": "(—— It's unnecessary!)"
     },
     {
       "name": "Event Commentator",
-      "text": "Whoa! We have Admire Groove! Admire Groove is starting her attack!"
+      "text": "Whoa! We have Admire Groove! \nAdmire Groove is starting her attack!"
     },
     {
       "name": "Admire Groove",
@@ -124,29 +125,29 @@
     },
     {
       "name": "Admire Groove",
-      "text": "Haaaaaaaaah!!"
+      "text": "<i>Haaaaaaaaah!!</i>"
     },
     {
       "name": "Event Commentator",
-      "text": "It's Admire Groove, Admire Groove! \nYou wouldn't think this is an event race with this amazing running we're seeing!",
+      "text": "It's Admire Groove, Admire Groove! \nYou wouldn't think this is an event race \nwith this amazing running we're seeing!",
       "choice_data_list": [
-        "What a run… but why—"
+        "What a run… but why ——"
       ]
     },
     {
       "name": "Admire Groove",
-      "text": "Hah, hah… \n…"
+      "text": "<i>Hah, hah… </i>\n………"
     },
     {
       "name": "Admire Groove",
-      "text": "(… There, do they understand now.)"
+      "text": "(…There, do they understand now?)"
     },
     {
       "name": "Admire Groove",
       "text": "\"———\""
     },
     {
-      "text": "Admire Groove left the turf with grace. Her back was beautiful… but it was also solitary and chilling."
+      "text": "Admire Groove left the turf with grace. \nHer back was beautiful… but it was also \nsolitary and chilling."
     }
   ]
 }

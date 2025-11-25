@@ -1,12 +1,13 @@
 {
   "title": "Towards a New Journey",
+  "no_wrap": true,
   "text_block_list": [
     {
       "name": "Stay Gold",
       "text": "Now then, all that's left is, \nthis extra large… green one."
     },
     {
-      "text": "A mysterious light revolving around her body. Stay Gold is now trying to return the final one to its owner.",
+      "text": "A mysterious light revolves around her body. \nStay Gold is now trying to return the final one \nto its owner.",
       "choice_data_list": [
         "Who… does it belong to?"
       ]
@@ -16,11 +17,12 @@
       "text": "Well… I have an idea, although…"
     },
     {
-      "text": "I don't know if I should return it. \nThis light… I got a bad feeling about it.",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "I don't know if I should return it. \nThis light… I got a bad feeling about it."
     },
     {
-      "text": "The light is dark and the way it moves is shaky. It's a polar opposite to Spe's extra large light."
+      "name": "Stay Gold",
+      "text": "The light is dark and the way it moves \nis shaky. It's a polar opposite to Spe's \nextra large light."
     },
     {
       "name": "Stay Gold",
@@ -40,14 +42,14 @@
     },
     {
       "name": "Stay Gold",
-      "text": "I see. Coming here without searching for anything… \nThe owner is attracted to it, it seems."
+      "text": "I see. Coming here without searching \nfor anything… The owner is attracted \nto it, it seems."
     },
     {
-      "text": "Well if that's the case, there's no point in hiding it. But, if I return this light…",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "Well if that's the case, there's no point \nin hiding it. But, if I return this light…"
     },
     {
-      "text": "It's just as she said, this light might not be a good thing. However…",
+      "text": "It's just as she said, this light might \nnot be a good thing. However…",
       "choice_data_list": [
         "I think… it's better to return it."
       ]
@@ -58,7 +60,7 @@
     },
     {
       "name": "Stay Gold",
-      "text": "… You're right. This is an inevitable test in this journey. I can't gain anything if I can't overcome this."
+      "text": "…You're right. This is an inevitable test \nin this journey. I can't gain anything if I \ncan't overcome this."
     },
     {
       "name": "Stay Gold",
@@ -69,11 +71,11 @@
       "text": "Huh? Ah, alright…"
     },
     {
-      "text": "For one moment— I felt like I could see the light that, up until now, I couldn't see."
+      "text": "For one moment… I felt like I could see \nthe light that, up until now, I couldn't see."
     },
     {
       "name": "Silence Suzuka",
-      "text": "… Wha-!?"
+      "text": "…Wha-!?"
     },
     {
       "name": "Stay Gold",
@@ -81,15 +83,15 @@
     },
     {
       "name": "Silence Suzuka",
-      "text": "Ah… \nThis… is…"
+      "text": "Ah… This… is…"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yeah… it's the wind \nfrom \"that day\"…"
+      "text": "Yeah… it's the wind from \"that day\"…"
     },
     {
       "name": "Silence Suzuka",
-      "text": "The wind of hope… the wind pushing me forward… And…"
+      "text": "The wind of hope… the wind pushing \nme forward… And…"
     },
     {
       "name": "Silence Suzuka",
@@ -104,23 +106,23 @@
       "text": "……"
     },
     {
-      "text": "The usual quiet Silence Suzuka was crying waterfalls. All without a sound leaving her body."
+      "text": "The usually quiet Silence Suzuka was \ncrying waterfalls. All without a sound \nleaving her body."
     },
     {
       "name": "Stay Gold",
-      "text": "… Are you okay, Suzuka?"
+      "text": "…Are you okay, Suzuka?"
     },
     {
       "name": "Silence Suzuka",
-      "text": "Yeah. \nAlthough…"
+      "text": "Yeah. Although…"
     },
     {
       "name": "Silence Suzuka",
-      "text": "This feeling… I feel like I shouldn't forget it. That's why…"
+      "text": "This feeling… I feel like I shouldn't forget it. \nThat's why…"
     },
     {
-      "text": "I was… able to feel it…",
-      "name": "Silence Suzuka"
+      "name": "Silence Suzuka",
+      "text": "I was… able to feel it…"
     },
     {
       "name": "Silence Suzuka",
@@ -128,17 +130,17 @@
     },
     {
       "name": "Stay Gold",
-      "text": "I see… if that's the case, everything should be fine. Afterall—"
+      "text": "I see… if that's the case, everything should \nbe fine. After all ——"
     },
     {
-      "text": "\"Render unto Caesar the things that are Caesar's\". \nAt the end of the day, this light belonged to Silence Suzuka.",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "\"Render unto Caesar the things that \nare Caesar's\". At the end of the day, \nthis light belonged to Silence Suzuka."
     },
     {
-      "text": "Silence Suzuka was able to bear the weight of the light. And now—"
+      "text": "Silence Suzuka was able to bear the weight \nof the light. And now ——"
     },
     {
-      "text": "At long last, all the lights revolving around Stay Gold— \nhave vanished."
+      "text": "At long last, all the lights revolving \naround Stay Gold… have vanished."
     },
     {
       "name": "Stay Gold",
@@ -146,83 +148,83 @@
     },
     {
       "name": "Stay Gold",
-      "text": "I've finished returning everything. \nI'm now— free."
+      "text": "I've finished returning everything. \nI'm now… free."
     },
     {
       "name": "Stay Gold",
-      "text": "I feel like I can finally begin a new journey. A journey for gold."
+      "text": "I feel like I can finally begin a new journey. \nA journey for gold."
     },
     {
-      "text": "You may or may not be my companion on that trip, but— \nWhat type of trip would you go on?",
+      "name": "Stay Gold",
+      "text": "You may or may not be my companion \non that trip, but —— What type of trip \nwould you go on?",
       "choice_data_list": [
         "A completely new journey.",
         "Revisiting an old journey."
-      ],
-      "name": "Stay Gold"
-    },
-    {
-      "text": "A completely new journey, huh… \nIndeed, that's a good journey.",
-      "name": "Stay Gold"
+      ]
     },
     {
       "name": "Stay Gold",
-      "text": "Finally being able to go on a new journey. It seems fun to venture somewhere you've never walked before."
+      "text": "A completely new journey, huh… \nIndeed, that's a good journey."
     },
     {
       "name": "Stay Gold",
-      "text": "Oh I'm getting excited now! \nI can feel the energy flowing to the tip of my tail!"
+      "text": "Finally being able to go on a new journey. \nIt seems fun to venture somewhere you've \nnever walked before."
     },
     {
       "name": "Stay Gold",
-      "text": "No matter what happens, never give up. Keep pushing forward. \nEven if it's till the ends of this Earth."
-    },
-    {
-      "text": "A completely new journey, huh… \nIndeed, that's a good journey.",
-      "name": "Stay Gold"
-    },
-    {
-      "text": "Finally being able to go on a new journey. It seems fun to venture somewhere you've never walked before.",
-      "name": "Stay Gold"
+      "text": "Oh I'm getting excited now! I can feel \nthe energy flowing to the tip of my tail!"
     },
     {
       "name": "Stay Gold",
-      "text": "My heart's thumping like crazy! \nI'm getting a little passionate, all the way to my tail."
+      "text": "No matter what happens, never give up. \nKeep pushing forward. Even if it's till \nthe ends of this Earth."
     },
     {
       "name": "Stay Gold",
-      "text": "No matter what happens, never give up. Keep pushing forward. \nNo matter where you go."
-    },
-    {
-      "text": "Revisiting an old journey… I see, retaking a path once taken before.",
-      "name": "Stay Gold"
-    },
-    {
-      "text": "That's a good journey. What type of journey you're going on isn't dependent on the destination, but rather what you feel.",
-      "name": "Stay Gold"
-    },
-    {
-      "text": "And since I am who I am now, there are definitely things I would notice this time.",
-      "name": "Stay Gold"
+      "text": "A completely new journey, huh… \nIndeed, that's a good journey."
     },
     {
       "name": "Stay Gold",
-      "text": "This time I'm gonna learn something new! Yup, after all I— don't know when to quit. Not at all."
-    },
-    {
-      "text": "Revisiting an old journey… I see, retaking a path once taken before.",
-      "name": "Stay Gold"
+      "text": "Finally being able to go on a new journey. \nIt seems fun to venture somewhere you've \nnever walked before."
     },
     {
       "name": "Stay Gold",
-      "text": "That's a good journey. What type of journey you're going on isn't dependent on the destination, but rather what you feel."
+      "text": "My heart's thumping like crazy! I'm getting \na little passionate, all the way to my tail."
     },
     {
       "name": "Stay Gold",
-      "text": "And since I am who I am now, there should be things I'd notice now. Yeah, at least a few of them."
+      "text": "No matter what happens, never give up. \nKeep pushing forward. No matter where \nyou go."
     },
     {
-      "text": "A second go around wouldn't be bad, a chance to glean something new. So shall we embark upon a wistful and nostalgic journey?",
-      "name": "Stay Gold"
+      "name": "Stay Gold",
+      "text": "Revisiting an old journey… \nI see, retaking a path once taken before."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That's a good journey. What type of journey \nyou're going on isn't dependent on the \ndestination, but rather what you feel."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "And since I am who I am now, there are \ndefinitely things I would notice this time."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "This time I'm gonna learn something new! \nYup, after all I— don't know when to quit. \nNot at all."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Revisiting an old journey… \nI see, retaking a path once taken before."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That's a good journey. What type of journey \nyou're going on isn't dependent on the \ndestination, but rather what you feel."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "And since I am who I am now, there should \nbe things I'd notice now. Yeah, at least a few \nof them."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A second go around wouldn't be bad, \na chance to glean something new. \nSo shall we embark upon a wistful \nand nostalgic journey?"
     }
   ]
 }
