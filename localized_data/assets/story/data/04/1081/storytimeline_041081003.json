@@ -1,0 +1,275 @@
+{
+  "text_block_list": [
+    {
+      "text": "You… you freakin' eavesdropper! \nYou blockhead! How much didja hear?! You… you dumbass!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Espoir City pelts me with questions the second she's off the phone with her mother. Honestly, it's completely understandable. Recalling what I saw, I apologize to her, and before I can stop myself…",
+      "choice_data_list": [
+        "You want to get stronger for your mom?",
+        "You want to get stronger for your mom?"
+      ]
+    },
+    {
+      "text": "Huh?!",
+      "choice_data_list": [
+        "U-Um! Sorry, I didn't mean—"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "So what if I do?! Listen, if you tell anyone, \nI'll punch your lights out! Dammit, dammit, dammit!",
+      "choice_data_list": [
+        "E-Espoir City!"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "She didn't listen to a word of my apology. I've really done it this time. Maybe she hates me for real now."
+    },
+    {
+      "text": "We were supposed to do training in the afternoon, but it seems like a bust. I've all but given up, when…"
+    },
+    {
+      "text": "Huh?!",
+      "choice_data_list": [
+        "What're you doing here?!"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Course I'm here, ya bozo! \nC'mon, hurry up and get this show on the road!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "(I gotta get even stronger! Even stronger than I am now…)",
+      "name": "Espoir City"
+    },
+    {
+      "text": "I'm sorry I ended up in the hospital again. But I'll ask the doctors to let me out as soon as they can, okay?",
+      "name": "Espoir City's Mother"
+    },
+    {
+      "text": "S'fine! I toldja, It's fine already! You don't have to worry about me, it's fine!",
+      "name": "Young Espoir"
+    },
+    {
+      "text": "Stop being sick! Hurry up and get better! 'Cuz even if I can't see you for a while, I'll be… okay… I'll be…",
+      "name": "Young Espoir"
+    },
+    {
+      "text": "(That's right. You can just relax and leave it to me.)",
+      "name": "Espoir City"
+    },
+    {
+      "text": "(I ain't someone who'll just lay down and take it. I'm not someone who gives up, and I'm not some helpless crybaby.)",
+      "name": "Espoir City"
+    },
+    {
+      "text": "(I'm not weak! I'm not a lost cause! I'm not someone who needs help. 'Cause I'm a strong Umamusume!)",
+      "name": "Espoir City"
+    },
+    {
+      "text": "So, it seems like Espoir City is the only one beyond help at this point.",
+      "name": "Senior Instructor"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Yes. She has a history of instructors giving up on her. We were hoping for a different result when we paired the newbie with her, but…"
+    },
+    {
+      "text": "Espoir City's refusal to cooperate continued on for a couple of days. While I was passing through the halls, I overheard a conversation."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "In my opinion, seems like a lot to handle. If she's determined to rebel against everything, then no matter what kind of instruction we give her…"
+    },
+    {
+      "text": "The fact of the matter is some Umamusume are just not cut out for racing. It pains me to say this, but we should find another path for her while we still c—",
+      "name": "Senior Instructor",
+      "choice_data_list": [
+        "Wait, wait, wait! Um, if I may!"
+      ]
+    },
+    {
+      "text": "Hey! Whaddya doin' staring off into space like that?! We're supposed to be training!",
+      "choice_data_list": [
+        "O-Oh, yes, of course.",
+        "O-Oh, yes, of course."
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "I can't help but recall that conversation from before. Right now, Espoir City's reputation is at rock bottom."
+    },
+    {
+      "text": "She won't listen to directions. All she does is fight against me. But all that is just a tough front, because she doesn't want others to see her as \"weak\"."
+    },
+    {
+      "text": "Helloooo? Ugh… What're you, sleepy? You got a fever? If you ain't feeling good, just go home!",
+      "choice_data_list": [
+        "It's just… I want to make you strong, too!",
+        "It's just… I want to make you strong, too!"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Up until now, I've just been training her in the basics. But all my attempts to make up for her weaknesses are met with denial.",
+      "choice_data_list": [
+        "(But that's no excuse to give up.)"
+      ]
+    },
+    {
+      "text": "Taking all this into account, I need to think up a new angle. If I stop thinking here, I'll never be able to give her what she needs!",
+      "choice_data_list": [
+        "(After all, trainers are meant to guide!)",
+        "(After all, trainers are meant to guide!)"
+      ]
+    },
+    {
+      "text": "That night, I go out and buy a notebook.",
+      "choice_data_list": [
+        "I dub thee… \"Espoir City 101\"!",
+        "I dub thee… \"Espoir City 101\"!"
+      ]
+    },
+    {
+      "text": "Inside this new \"textbook\" I've made for myself, I jot down all the things I've tried and <i>haven't</i> tried with Espoir City until now."
+    },
+    {
+      "text": "I can see that Espoir City has talent shining deep inside her. It's just that conventional training methods don't gel with her. If I could just find a way that worked…!"
+    },
+    {
+      "text": "That's all from your soaring Umadol! Hope you enjoyed my Heart-Racing Kokura Racecourse Research!",
+      "name": "Smart Falcon"
+    },
+    {
+      "text": "Okay, all good! Thank you for recording with us today, Falco!",
+      "name": "Radio Staff"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "And thank you for letting me shine as an Umadol! I'd be happy to do another segment, so just let me know!"
+    },
+    {
+      "text": "It looks like there are some other visitors unaffiliated with Project K here tonight. The Umamusume I spot— Smart Falcon— is an entertainer."
+    },
+    {
+      "text": "What do you do when Falco runs?! (Chase her, chase her!) \nSmart Falcon, the strongest Umadol, signing off!",
+      "name": "Smart Falcon",
+      "choice_data_list": [
+        "(Wait, she's a front runner!)"
+      ]
+    },
+    {
+      "text": "Recalling her personality and disposition towards wanting to get stronger, I begin to write in a page of the notebook.",
+      "choice_data_list": [
+        "(What if. What would happen if…)"
+      ]
+    },
+    {
+      "text": "If I set up Espoir City, who was fiercely competitive even in the mock race, one-on-one with a front-running partner, then maybe…",
+      "choice_data_list": [
+        "(How would she react then?)"
+      ]
+    },
+    {
+      "text": "I scribble down the plan forming in my head. I need some help for this, and in a twist of fate, that help is standing right before me.",
+      "choice_data_list": [
+        "Excuse me, Smart Falcon?"
+      ]
+    },
+    {
+      "text": "The next day arrives. I've called the two Umamusume out to a grassy field, a bit further out from Kokura Racecourse."
+    },
+    {
+      "name": "Falco & Espoir",
+      "text": "Time for a race together! \n…Hmph."
+    },
+    {
+      "text": "All according to plan. Espoir City accepted the challenge without a second thought. I raise my hand for the start signal while clutching my notebook.",
+      "choice_data_list": [
+        "Alright, you two! On your marks…"
+      ]
+    },
+    {
+      "text": "Hiyaaaaah! \nHuh?!",
+      "name": "Falco & Espoir"
+    },
+    {
+      "text": "Wait up, Falco, you! S'not fair, dashing off like that! Gaaah! I ain't gonna eat your dust!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "(Ugh, I'm not gonna catch her by holding back! I gotta get further… further ahead! Grrrr!)",
+      "name": "Espoir City"
+    },
+    {
+      "text": "In the first race, the front-running Smart Falcon wins by a mile. Though Espoir City tried to rally… her last spurt wasn't there.",
+      "choice_data_list": [
+        "(But I expected this.)"
+      ]
+    },
+    {
+      "text": "Uuugh… Falco…! \nDamn you, just flyin' away… next time, I'm winning!",
+      "choice_data_list": [
+        "So, how about another round?",
+        "So, how about another round?"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Of course! You better burn this sight into your eyes and spread the word from here to Tracen! You're about to see a world-class Umadol run!",
+      "name": "Smart Falcon",
+      "choice_data_list": [
+        "You got it! …How about you?",
+        "You got it! …How about you?"
+      ]
+    },
+    {
+      "text": "Course I'm in! You think I'd end things on a loss? I'm puttin' a stop to this front-running crap! I'm taking the gold this time!",
+      "choice_data_list": [
+        "Alright, once more! On your marks…"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Hraaaah! \nWah!",
+      "name": "Espoir & Falco"
+    },
+    {
+      "text": "Heh, howd'ya like that, Falco?! Betcha didn't expect that! I won't letcha have it easy up at the front! Now all I gotta do is…!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Espoir City's competitive spirit is in full effect, just as I thought. She refuses to give the lead to Smart Falcon, meaning…",
+      "choice_data_list": [
+        "(She's finally able to fight at the front.)"
+      ]
+    },
+    {
+      "text": "Gaaah, I lost again! \nC'mon, one more time, Falco!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "She's internalizing what she's learned from racing Falco all on her own. We're finally on our way to the very thing I'd imagined ever since I first met her…",
+      "choice_data_list": [
+        "(…Espoir City's path to victory.)"
+      ]
+    },
+    {
+      "text": "A couple days later, Project K holds another mock race. I send her off to the starting gate without a single instruction. And yet…"
+    },
+    {
+      "text": "LET'S GOOOOOO! I got second! I got… huwhaaaa?!?! \nNo way! How in the heck?! Woaaaahahah!",
+      "choice_data_list": [
+        "(Yesss!)"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "In my notebook, I record everything that happened up until yesterday— and the triumphant smile on Espoir City's face after her incredible run. That's one page down."
+    }
+  ]
+}

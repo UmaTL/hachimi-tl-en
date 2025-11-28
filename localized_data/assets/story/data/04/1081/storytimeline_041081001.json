@@ -1,0 +1,260 @@
+{
+  "text_block_list": [
+    {
+      "text": "At Tracen Academy, there are Umamusume of all different shades of personalities."
+    },
+    {
+      "text": "There are scatterbrains and model students. Curious cats and withdrawn wallflowers. It is precisely because Tracen is bursting at the seams with quirky personalities…"
+    },
+    {
+      "text": "That we as trainers must align with their quirks to guide them. After all, education has the potential to shape one's way of life."
+    },
+    {
+      "name": "Espoir City",
+      "text": "I told ya, I ain't doing it!"
+    },
+    {
+      "text": "W-Why not? This is training specifically designed to help you overcome your weaknesses!",
+      "name": "Instructor A"
+    },
+    {
+      "name": "Espoir City",
+      "text": "God, just shut up already! \nQuit shovin' it on me like a know-it-all! Dammit…"
+    },
+    {
+      "name": "Instructor A",
+      "text": "These are all the materials we have on Espoir City. \nI trust you've given them a look."
+    },
+    {
+      "name": "Senior Instructor",
+      "text": "Yes, and I've seen the videos, too. She refuses to listen to instruction, and won't let anyone get a word in edgewise. It seems we're at a loss with her."
+    },
+    {
+      "text": "She has no trainer in charge of her. She isn't up even up to par in mock races. Taking all this into account, we have no choice…",
+      "name": "Senior Instructor"
+    },
+    {
+      "name": "Senior Instructor",
+      "text": "But to send her to Project K!"
+    },
+    {
+      "text": "Hey, Trainer! Thanks a bunch for helping me out before! Now that I know how to deal with corners, I think I'm gonna do really well in my next race!",
+      "name": "Umamusume A",
+      "choice_data_list": [
+        "Good to hear! Do your best out there!",
+        "Good to hear! Do your best out there!"
+      ]
+    },
+    {
+      "text": "That was an Umamusume I had given advice to. That's good news. Looks like even as a rookie trainer, I'm still of use."
+    },
+    {
+      "text": "Hey, newbie! You like teaching, right?",
+      "name": "Senior Trainer",
+      "choice_data_list": [
+        "That's right! I'm a trainer, after all!"
+      ]
+    },
+    {
+      "text": "As an Umamusume trainer, our job is to help them grow. It's a profession where you witness their talent bloom closer than anyone else."
+    },
+    {
+      "text": "I still don't have any trainees, so I haven't been able to form a real team yet. But if I could scout them and guide them with tailor-made regimens…",
+      "choice_data_list": [
+        "I'd love to see their individual growth."
+      ]
+    },
+    {
+      "text": "Their growth, you say… hehe, alright, that's that! I've got a position to nominate you for, newbie!",
+      "name": "Senior Trainer"
+    },
+    {
+      "name": "Senior Trainers",
+      "text": "Welcome to Project K!"
+    },
+    {
+      "text": "Huh?! Whaaaa? Ehhh?",
+      "name": "Delinquent(?) Umamusume",
+      "choice_data_list": [
+        "(W-Woah…)",
+        "(W-Woah…)"
+      ]
+    },
+    {
+      "text": "I've arrived at Kokura Racecourse in Fukuoka as part of \"Project K\". All the Umamusume here seem to have been \"nominated\" to come here, too…"
+    },
+    {
+      "text": "Starting now, you will all be paired together with a trainer as part of this two-week intensive training camp!",
+      "name": "Senior Trainer"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Since the Twinkle Series is drawing near for you all, we want you to get motivated. As such, we've reserved this official racecourse for our training camp."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "You'll be practicing running on a real course and working with a real trainer. Think of this as a simulation for your real debut and take it seriously."
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "You and your trainers are in the same boat, after all. Please try and challenge yourself by asking, \"can I give it my all for just one person?\""
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "We, too, have come here knowing all your histories! \nNow, tackle this with care. Think of it as your last chance!"
+    },
+    {
+      "name": "Delinquent(?) Umamusume",
+      "text": "Laaame! This sucks… \nWhat a pain."
+    },
+    {
+      "name": "Senior Trainer",
+      "text": "By the way, there are Umamusume who have signed a real contract with a trainer as a result of this training camp!",
+      "choice_data_list": [
+        "(A real contract, as a trainer…!)"
+      ]
+    },
+    {
+      "text": "I take another look at the forms we received earlier. For these two weeks, the Umamusume I'm going to oversee is number 16. Her name is…",
+      "choice_data_list": [
+        "Espoir City…!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "…"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "To start off, we'll have you get with your new trainer and show us what you've got. How about we start with a mock race?"
+    },
+    {
+      "text": "Finally, a race! Let's goooooo! \nAlright!",
+      "name": "Delinquent(?) Umamusume"
+    },
+    {
+      "text": "Starting with the first race! On your marks…",
+      "name": "Senior Trainer"
+    },
+    {
+      "text": "The sixteen Umamusume leap from the starting gate. Espoir City settles in around fifth or sixth. It looks like she's going with by-the-book pace chasing."
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hah, go on ahead, I'll blow past you chumps in a sec! \nBeating you all into the dirt like that…"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Is the strongest way to run, ain't it!"
+    },
+    {
+      "text": "As the other Umamusume crowd in, Espoir City swings wide. But running that extra distance puts her at a disadvantage, and as they round the third corner…"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hah… hah… Here we go! The final stretch! \nI'm just gettin' started! It's time for my…",
+      "choice_data_list": [
+        "The battle between last spurts has begun!"
+      ]
+    },
+    {
+      "name": "Espoir & Umamusume",
+      "text": "Hraaaagh! \nSee ya!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Wha?",
+      "choice_data_list": [
+        "Huh?"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Wh— Whaaaat?! Stop getting by me! Stop running! \nQuit pullin' away! Rghgh… I won't let youuuuu!",
+      "choice_data_list": [
+        "There you go! Keep going! Speed up!",
+        "There you go! Keep going! Speed up!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Uwaaaagh! Uraaagh! \nI ain't gonna lose!",
+      "choice_data_list": [
+        "C-C'mon! You can do it!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Huff… puff… whew… ugh…!"
+    },
+    {
+      "text": "I've learned a lot about what Espoir City needs to work on from that race. Her poor choice of route, how bad she is in the pack, and not to mention her lack of a last spurt…",
+      "choice_data_list": [
+        "(B-But there's still hope!)"
+      ]
+    },
+    {
+      "text": "She has the tenacity to not back down even when someone challenges her. And she has the guts to keep pushing till the finish line! So that means…",
+      "choice_data_list": [
+        "(She just needs to start closer to the front!)"
+      ]
+    },
+    {
+      "text": "Now that I know her strong and weak points, I can show her how to run even better. I've got to use these findings as the basis for her training.",
+      "choice_data_list": [
+        "Hey, Espoir City!",
+        "Hey, Espoir City!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "Uugh… who the hell are you?!",
+      "choice_data_list": [
+        "Nice to meet you! Starting today, I'll—",
+        "Nice to meet you! Starting today, I'll—"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "…!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Quit lookin' down on me!",
+      "choice_data_list": [
+        "Huh?!"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "I know what you're thinkin' and it's that I'm <i>weak</i>, yeah?! But… you're wrong! That was just my warm-up run, so!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Quit actin' all high and mighty! Hmph! Humph! Hmmmmph!",
+      "choice_data_list": [
+        "W-Wait, hold on! If you would just listen—"
+      ]
+    },
+    {
+      "name": "Espoir City",
+      "text": "I AIN'T LISTENIN'!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "Hwagh?!",
+      "choice_data_list": [
+        "Whoa— are you okay?!",
+        "Whoa— are you okay?!"
+      ]
+    },
+    {
+      "text": "I hurry to Espoir City's side. I can't see a single thing she could've tripped over…"
+    },
+    {
+      "name": "Espoir City",
+      "text": "I-I just pulled a muscle, that's all! \nDumbass… you DUMBAAAAASS!!!"
+    }
+  ],
+  "title": "Secret Plan: Project K!"
+}
