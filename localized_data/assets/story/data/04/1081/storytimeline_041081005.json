@@ -1,0 +1,180 @@
+{
+  "text_block_list": [
+    {
+      "text": "Whew. I'm thirsty.",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Gah, there's only one Fruits au Lait left, huh? That was a close one.",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Oh… only one Fruits au Lait left.",
+      "name": "Gentle Umamusume"
+    },
+    {
+      "text": "Huh? What's your deal, buster? \nYou thinkin' of buying this Fruits au Lait, huh?!",
+      "name": "Espoir City"
+    },
+    {
+      "name": "Gentle Umamusume",
+      "text": "Um—?! N-No, I was just… thinking that I might not buy it… or maybe I will after all…"
+    },
+    {
+      "text": "W-Which one is it?! Just spit it out already, hurry up!",
+      "name": "Espoir City"
+    },
+    {
+      "name": "Gentle Umamusume",
+      "text": "Eeeek! I'm sorryyyyy!"
+    },
+    {
+      "text": "Wai— ugh, what was that…? Guess she didn't want it after all.",
+      "name": "Espoir City"
+    },
+    {
+      "name": "School Staff",
+      "text": "…Put simply, Espo's behavior has gotten rather out of hand."
+    },
+    {
+      "name": "School Staff",
+      "text": "I understand that the day-to-day aspect of things is not exactly your expertise, but if she doesn't show improvement soon, then…",
+      "choice_data_list": [
+        "I-I'll try and get her under control!"
+      ]
+    },
+    {
+      "text": "What am I to do? When I recall Espoir City's usual remarks and habits, there are far too many instances that could be \"out of hand\"."
+    },
+    {
+      "text": "But I know that at heart, she's really a good kid. If I could just show that to the school staff, they might change their minds about her…"
+    },
+    {
+      "text": "I wander the school halls, turning the problem over in my mind. Suddenly, a poster stuck on the bulletin board catches my eye.",
+      "choice_data_list": [
+        "Is this…?"
+      ]
+    },
+    {
+      "text": "Whaaaat?! You want me to show the new kids around the school?!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "That's right. The poster I spotted was looking for upperclassmen to teach new students about life at Tracen."
+    },
+    {
+      "text": "If she's dealing with underclassmen, maybe her softer side will come out. Plus, it would be perfect for improving her reputation, or so I thought…"
+    },
+    {
+      "text": "What're you, stupid?! Do I look like some errand girl for the school? Or an errand girl for the new kids, huh?!",
+      "choice_data_list": [
+        "N-No, I I just…"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "It looks like the direct approach isn't working. Which means…",
+      "choice_data_list": [
+        "Why don't you show 'em?!",
+        "Why don't you show 'em?!"
+      ]
+    },
+    {
+      "text": "Huh? Show 'em what?",
+      "choice_data_list": [
+        "Like, show 'em who runs this school…",
+        "Like, show 'em who runs this school…"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Do you think I'm some kinda idiot who'll fall for that or somethin'?",
+      "choice_data_list": [
+        "D-Don't you want their respect?",
+        "D-Don't you want their respect?"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Hah. I can see right through what you're tryin' to do.",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Well… I'm pretty much free, so… guess I might as well put a little fear into those scrawny rookies, yeah?",
+      "choice_data_list": [
+        "(Oh, she's going along with it!)"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Still, I can't say I'm not nervous. Which means…"
+    },
+    {
+      "text": "Why the hell do I gotta rehearse this?! Well, whatever. Hurry up 'n tell me your name. Spit it out.",
+      "choice_data_list": [
+        "Newbie McNewstudent."
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "That's the lamest freakin' name I've ever heard… how the hell'd the likes of you end up at our school, huh?!",
+      "choice_data_list": [
+        "Um, you should be a little more—"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Whassat?! You got a problem?! This is just the way I talk, so deal with it, punk!",
+      "choice_data_list": [
+        "The real you is much kinder."
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Wha?! Actin' like you know so much about me! You don't know jack about me, got it?!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Listen up, I do things how I wanna do them! Ain't you supposed to be a new student?! Just shut up and follow me!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "Alright, this is an absolute must. Y'better remember this one. If you hang around in spots like this, <i>nobody</i>'ll look down on you.",
+      "choice_data_list": [
+        "Can't you keep it a bit more wholesome…?"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "This here's the stage we use for concert practices n' stuff. Oh, yeah. See that heart graffitied on the bench over there? Yeah, that was all me!",
+      "choice_data_list": [
+        "Can we <i>not</i> deface school property?!"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "Despite her foul mouth, Espoir City gives me a surprisingly complete and sincere tour of the academy grounds.",
+      "choice_data_list": [
+        "(Well, her heart's in the right place.)"
+      ]
+    },
+    {
+      "text": "Hey, you little punks. The hell you think you're eyeballing your upperclassman for, huh?!",
+      "name": "Espoir City"
+    },
+    {
+      "text": "W-Whaaaa?!? We weren't staring!",
+      "name": "New Students"
+    },
+    {
+      "text": "Hmph. Alright, listen up! If you wanna survive in this school… y'better not be making fun of me or nothing, got it?!",
+      "choice_data_list": [
+        "(How did things end up like this?!)"
+      ],
+      "name": "Espoir City"
+    },
+    {
+      "text": "No, no, it's fine… she's a good kid at heart… I just have to look at the long term, and it'll be fine."
+    }
+  ]
+}
