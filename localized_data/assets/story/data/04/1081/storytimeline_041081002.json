@@ -11,15 +11,15 @@
       "text": "My first impression of her is that she's ill-tempered, disobedient, and doesn't listen to a single word. She's clearly going through a rebellious phase. I wonder if she's going to skip out…"
     },
     {
+      "name": "Espoir City",
       "text": "Huuuh?!",
       "choice_data_list": [
         "You actually came?!"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
-      "text": "The hell's up with that look… what, you think I'm weak?! This a damn joke to you?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "The hell's up with that look… what, you think I'm weak?! This a damn joke to you?!"
     },
     {
       "text": "It looks like she's not as much of a slacker as I'd thought. In between apologizing repeatedly, I explain our training schedule to her.",
@@ -28,22 +28,22 @@
       ]
     },
     {
+      "name": "Espoir City",
       "text": "C'mon, c'mon, c'mon, c'mon!",
       "choice_data_list": [
         "Hold on! You're going way too fast!"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
+      "name": "Espoir City",
       "text": "Put a sock in it! The fastest one wins, don't they?!",
       "choice_data_list": [
         "But this is a warm-up! A <i>warm-up</i>!"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
-      "text": "Huff… puff… guh… so? What's next? \nY'want me to win in a partner run or somethin' next, that it?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Huff… puff… guh… so? What's next? \nY'want me to win in a partner run or somethin' next, that it?!"
     },
     {
       "text": "I bite my lip in thought as I stare at Espoir City gasping for breath. She's already tired herself out, so it'll be hard to run splits or do any other heavy exercise. So that means…",
@@ -58,26 +58,26 @@
       ]
     },
     {
-      "text": "Lose… again?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Lose… again?"
     },
     {
+      "name": "Espoir City",
       "text": "What, so you think I'm some weak-ass \nUmamusume you gotta coddle like a baby?",
       "choice_data_list": [
         "(What…?)"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
+      "name": "Espoir City",
       "text": "I AIN'T GONNA DO IT!",
       "choice_data_list": [
         "Huh?!"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
-      "text": "First of all, I ain't weak! And I ain't some pushover! \nSo quit spoutin' bullshit at me!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "First of all, I ain't weak! And I ain't some pushover! \nSo quit spoutin' bullshit at me!"
     },
     {
       "text": "…I completely and utterly failed. \nAfter that, she refused to do any sort of training at all.",
@@ -89,24 +89,24 @@
       "text": "I try and ponder what to do with Espoir City \nwhile eating my lunch at the racecourse dining hall."
     },
     {
-      "text": "Oh, if it isn't Espoir City. \nLooking for somewhere to sit?",
-      "name": "Veteran Trainer"
-    },
-    {
-      "text": "How about you eat with us? Look, we have a seat open, see? \nIt's better to eat with others than alone.",
-      "name": "Senior Trainer"
-    },
-    {
-      "text": "…W-Who the hell'd wanna eat with you guys?! \nJust… stop lookin' at me like that!",
-      "name": "Espoir City"
-    },
-    {
-      "text": "You all are the ones gettin' antsy without anyone to cling to! \nI'm not some kinda crybaby, got it?!",
-      "name": "Espoir City"
-    },
-    {
-      "text": "Looks like we got turned down. I thought it'd be a nice chance to talk to her without the facade, too…",
       "name": "Veteran Trainer",
+      "text": "Oh, if it isn't Espoir City. \nLooking for somewhere to sit?"
+    },
+    {
+      "name": "Formative Trainer",
+      "text": "How about you eat with us? Look, we have a seat open, see? \nIt's better to eat with others than alone."
+    },
+    {
+      "name": "Espoir City",
+      "text": "…W-Who the hell'd wanna eat with you guys?! \nJust… stop lookin' at me like that!"
+    },
+    {
+      "name": "Espoir City",
+      "text": "You all are the ones gettin' antsy without anyone to cling to! \nI'm not some kinda crybaby, got it?!"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Looks like we got turned down. I thought it'd be a nice chance to talk to her without the facade, too…",
       "choice_data_list": [
         "(…)"
       ]
@@ -124,11 +124,11 @@
       "text": "I leave the dining hall and search the corridors for any trace of the Umamusume in question. After looking far and wide…"
     },
     {
+      "name": "Espoir City",
       "text": "Om… nom…",
       "choice_data_list": [
         "(There she is!)"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
       "text": "Espoir City is sitting in the empty racecourse stands, eating her lunch. …All by herself."
@@ -140,60 +140,60 @@
       ]
     },
     {
-      "text": "Alright, alright, I'm picking up! \nJust hold on! Okay.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Alright, alright, I'm picking up! \nJust hold on! Okay."
     },
     {
+      "name": "Espoir City",
       "text": "Whaddya want… Mom.",
       "choice_data_list": [
         "(It's from her mom…)"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
       "text": "I begin to feel awkward, so I quickly hide. \nThankfully, it looks like she hasn't noticed me."
     },
     {
-      "text": "Have I eaten? Yeah, I am right now. \n…Huh? You wanna know about my trainer for the camp?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Have I eaten? Yeah, I am right now. \n…Huh? You wanna know about my trainer for the camp?"
     },
     {
-      "text": "Who gives a damn?! I told you to quit \nfussin' over me like that already.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Who gives a damn?! I told you to quit \nfussin' over me like that already."
     },
     {
-      "text": "Forget all that. Why're you callin' me? \nDon't tell me you hurt yourself again and had to go to the hos—",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Forget all that. Why're you callin' me? \nDon't tell me you hurt yourself again and had to go to the hos—"
     },
     {
-      "text": "\"You were free, so you wanted to call\"? \n…What? What?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "\"You were free, so you wanted to call\"? \n…What? What?!"
     },
     {
-      "text": "No, no! Don't hang up! I told you it's <i>fine</i>! \nYou're so annoying! You got me all wrong.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "No, no! Don't hang up! I told you it's <i>fine</i>! \nYou're so annoying! You got me all wrong."
     },
     {
-      "text": "I can handle myself, okay?! I ain't a little kid! It's fine, okay? Doesn't matter if you're sad or just bored. You can spill it all to me.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "I can handle myself, okay?! I ain't a little kid! It's fine, okay? Doesn't matter if you're sad or just bored. You can spill it all to me."
     },
     {
+      "name": "Espoir City",
       "text": "Cuz after all—I'm a strong girl, yeah?!",
       "choice_data_list": [
         "A strong girl…"
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
       "text": "I'm not sure if it was meant more for her mother or for herself, but Espoir City called herself a \"strong girl\" on that phone conversation."
     },
     {
-      "text": "First of all, I ain't weak! And I ain't some pushover! \nSo quit spoutin' bullshit at me!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "First of all, I ain't weak! And I ain't some pushover! \nSo quit spoutin' bullshit at me!"
     },
     {
-      "text": "You all are the ones gettin' antsy without anyone to cling to! I'm not some kinda crybaby, got it?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "You all are the ones gettin' antsy without anyone to cling to! I'm not some kinda crybaby, got it?!"
     },
     {
       "text": "She often denies being weak, as if rebelling against some trainer who's already decided she is."
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "text": "Hey! \nThe hell you think you're doin'?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Hey! \nThe hell you think you're doin'?!"
     }
   ]
 }

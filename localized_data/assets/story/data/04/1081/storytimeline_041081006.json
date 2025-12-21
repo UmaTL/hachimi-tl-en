@@ -4,8 +4,8 @@
       "text": "Today, Espoir City is showing the new students around one of the shopping districts by Tracen that is often visited by students and trainers."
     },
     {
-      "text": "Alright, you better prepare yerselves! Today I'm gonna hammer into all of you the ins and outs of this city, got it?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Alright, you better prepare yerselves! Today I'm gonna hammer into all of you the ins and outs of this city, got it?!"
     },
     {
       "name": "New Students",
@@ -15,56 +15,56 @@
       ]
     },
     {
-      "text": "See this? This here's the closest shopping district to the school.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "See this? This here's the closest shopping district to the school."
     },
     {
-      "text": "It's kind of a dump, but hey, they got pretty much everything you'll need, so it ain't all bad.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "It's kind of a dump, but hey, they got pretty much everything you'll need, so it ain't all bad."
     },
     {
       "name": "Prudent Student",
       "text": "She seems to be in a good mood today. This might be a good chance to get to know her better."
     },
     {
-      "text": "If we do, then I'm sure it'll be easier to talk with her, too. Okay, let's be straight-up with her!",
-      "name": "Sincere Student"
+      "name": "Sincere Student",
+      "text": "If we do, then I'm sure it'll be easier to talk with her, too. Okay, let's be straight-up with her!"
     },
     {
-      "text": "Hey, what're you all whispering about?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Hey, what're you all whispering about?"
     },
     {
-      "text": "N-Nothing! Actually, we were wondering if you had any recommendations for shops.",
-      "name": "Careless Student"
+      "name": "Careless Student",
+      "text": "N-Nothing! Actually, we were wondering if you had any recommendations for shops."
     },
     {
-      "text": "Recommendations? Guess I'd say the taiyaki stall. Plus, they have not just red bean, but a really yummy cream taiya—",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Recommendations? Guess I'd say the taiyaki stall. Plus, they have not just red bean, but a really yummy cream taiya—"
     },
     {
-      "text": "But I don't like taiyaki <i>that</i> much, 'kay?! Got it?! 'Cause first of all, you ain't gonna soften me up with some sweets!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "But I don't like taiyaki <i>that</i> much, 'kay?! Got it?! 'Cause first of all, you ain't gonna soften me up with some sweets!"
     },
     {
       "name": "Sincere Student",
       "text": "Eeeek! \nShe got mad at us!"
     },
     {
-      "text": "The ramen at this place ain't half bad. \nThey make a mean tonkotsu and chicken broth soup.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "The ramen at this place ain't half bad. \nThey make a mean tonkotsu and chicken broth soup."
     },
     {
-      "text": "It smells amazing! Okay, I'm gonna order a large!",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "It smells amazing! Okay, I'm gonna order a large!"
     },
     {
       "name": "Sincere Student",
       "text": "Alright, then I'll get a large order, too! \nW-Will you get a large too, Espoir City…?"
     },
     {
-      "text": "Huuuh? 'Course I wouldn't half-ass things like that! I'm gonna get… the Extra-Large Olympus Bowl! Yeah, the Olympus Bowl!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Huuuh? 'Course I wouldn't half-ass things like that! I'm gonna get… the Extra-Large Olympus Bowl! Yeah, the Olympus Bowl!"
     },
     {
       "name": "Careless Student",
@@ -75,46 +75,46 @@
       "text": "Hup, one Extra-Large Olympus Bowl coming right up! \nO Mighty Zeus, witness this mighty warrior's proud visage!"
     },
     {
-      "text": "Eep! The serving's so large, I can't even see Espoir City's face on the other side of it!",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "Eep! The serving's so large, I can't even see Espoir City's face on the other side of it!"
     },
     {
-      "text": "Q-Quit bein' such a scaredy-cat! \nJust witness the legend I'm 'bouta make!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Q-Quit bein' such a scaredy-cat! \nJust witness the legend I'm 'bouta make!"
     },
     {
-      "text": "Uuugh… my tummy kinda hurts… n-not! I'm just tired, that's all! You punks better go take a rest over there too.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Uuugh… my tummy kinda hurts… n-not! I'm just tired, that's all! You punks better go take a rest over there too."
     },
     {
       "name": "Prudent Student",
       "text": "Do you think she's gonna be okay? \nShe's kind of got the aura of a stanced-up hedgehog…"
     },
     {
-      "text": "I wonder if the other upperclassmen are all prickly like her. \nI dunno if I can hack it at this school…",
       "name": "Sincere Student",
+      "text": "I wonder if the other upperclassmen are all prickly like her. \nI dunno if I can hack it at this school…",
       "choice_data_list": [
         "(T-This isn't good.)"
       ]
     },
     {
-      "text": "Y'want me to do something about all this?! \nUgh… do you ever shut up?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Y'want me to do something about all this?! \nUgh… do you ever shut up?!"
     },
     {
+      "name": "Espoir City",
       "text": "I've just been doin' things how I see fit ever since the start of this mess. You seriously had no idea this is how it'd end up?",
       "choice_data_list": [
         "The new students seem pretty anxious."
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
-      "text": "Urk…",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Urk…"
     },
     {
-      "text": "Auuugghhh! Well, what'm <i>I</i> supposed to do about it?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Auuugghhh! Well, what'm <i>I</i> supposed to do about it?!"
     },
     {
       "text": "It seems like even Espoir City is bothered by it, too. It'd be great if she could just be nice to them without any reservations, but…",
@@ -132,100 +132,100 @@
       ]
     },
     {
-      "text": "Aaalright, listen up, ya punks. \nI want you to go 'n buy something.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Aaalright, listen up, ya punks. \nI want you to go 'n buy something."
     },
     {
-      "text": "O-Of course! Would you like some yakisoba bread? Or a cream bun?",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "O-Of course! Would you like some yakisoba bread? Or a cream bun?"
     },
     {
-      "text": "Course not! Didn't y'all leave your parents' places and come here on your own?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Course not! Didn't y'all leave your parents' places and come here on your own?"
     },
     {
-      "text": "That means y'gotta buy at least one or two souvenirs to send home, got it?! They sell pretty much anythin' in this mall, so it ain't hard.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "That means y'gotta buy at least one or two souvenirs to send home, got it?! They sell pretty much anythin' in this mall, so it ain't hard."
     },
     {
-      "text": "Huh…? I have no idea what to buy… \nWhat should we do?",
-      "name": "New Students"
+      "name": "New Students",
+      "text": "Huh…? I have no idea what to buy… \nWhat should we do?"
     },
     {
+      "name": "Espoir City",
       "text": "Hmph. I did every little thing you told me to, but… these kids are totally clueless. You really think things're gonna change like this?",
       "choice_data_list": [
         "I'm positive.",
         "I'm positive."
-      ],
-      "name": "Espoir City"
+      ]
     },
     {
-      "text": "Ha! Only one way to find out.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Ha! Only one way to find out."
     },
     {
-      "text": "Souvenirs, huh… actually, now that I think about it, whenever Mom calls me, it's always just me reassuring her over and over that I'm alright…",
-      "name": "Sincere Student"
+      "name": "Sincere Student",
+      "text": "Souvenirs, huh… actually, now that I think about it, whenever Mom calls me, it's always just me reassuring her over and over that I'm alright…"
     },
     {
-      "text": "What, your mom? Tch…",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "What, your mom? Tch…"
     },
     {
-      "text": "Actually, the reason I'm aiming for the Twinkle Series is because I've always looked up to my mom's races.",
-      "name": "Sincere Student"
+      "name": "Sincere Student",
+      "text": "Actually, the reason I'm aiming for the Twinkle Series is because I've always looked up to my mom's races."
     },
     {
-      "text": "Well, obviously she's worried sick about you 'cause she knows how damn tough racing can be.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Well, obviously she's worried sick about you 'cause she knows how damn tough racing can be."
     },
     {
-      "text": "Tch. How about you buy something from that specialty sweets shop over there? Maybe your mom had something like it before, iunno.",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Tch. How about you buy something from that specialty sweets shop over there? Maybe your mom had something like it before, iunno."
     },
     {
-      "text": "Um, well, I want my family to see me win a big, important graded race and make them super happy, something like that…",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "Um, well, I want my family to see me win a big, important graded race and make them super happy, something like that…"
     },
     {
-      "text": "Hm. Then you should buy some binoculars. Binoculars, you got it? When you take the gold, you want your family to be able to see it, don'tcha?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Hm. Then you should buy some binoculars. Binoculars, you got it? When you take the gold, you want your family to be able to see it, don'tcha?"
     },
     {
-      "text": "Binoculars… binoculars, huh…",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Binoculars… binoculars, huh…"
     },
     {
-      "text": "Huh? A-Are you picking out a pair for me?",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "Huh? A-Are you picking out a pair for me?"
     },
     {
-      "text": "Hey! There ain't binoculars or squat here! What kinda stores <i>do</i> you find binoculars in, anyway?!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Hey! There ain't binoculars or squat here! What kinda stores <i>do</i> you find binoculars in, anyway?!"
     },
     {
-      "text": "Eek! I don't know!",
-      "name": "Prudent Student"
+      "name": "Prudent Student",
+      "text": "Eek! I don't know!"
     },
     {
-      "text": "My mom was actually against me doing the whole racing thing… but I kinda ignored her and came here anyway.",
-      "name": "Careless Student"
+      "name": "Careless Student",
+      "text": "My mom was actually against me doing the whole racing thing… but I kinda ignored her and came here anyway."
     },
     {
-      "text": "Maybe I should get her something she'd like, at least…",
-      "name": "Careless Student"
+      "name": "Careless Student",
+      "text": "Maybe I should get her something she'd like, at least…"
     },
     {
-      "text": "Whassat?! You think you can breeze over that bit?! Listen, the two of you are fightin' right now, yeah?",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "Whassat?! You think you can breeze over that bit?! Listen, the two of you are fightin' right now, yeah?"
     },
     {
-      "text": "So forget about food right now! At the very least, you better write her a letter n' apologize, even if it's crap!",
-      "name": "Espoir City"
+      "name": "Espoir City",
+      "text": "So forget about food right now! At the very least, you better write her a letter n' apologize, even if it's crap!"
     },
     {
-      "text": "G-Got it! Then… I'm gonna buy some stationery!",
-      "name": "Careless Student"
+      "name": "Careless Student",
+      "text": "G-Got it! Then… I'm gonna buy some stationery!"
     },
     {
       "name": "Prudent Student",
@@ -243,11 +243,11 @@
       "text": "Now then, about Espo…"
     },
     {
+      "name": "School Staff",
       "text": "She's received glowing praise from the new students! They said she's a bit scary, but overall very kind.",
       "choice_data_list": [
         "Really?!"
-      ],
-      "name": "School Staff"
+      ]
     },
     {
       "name": "School Staff",

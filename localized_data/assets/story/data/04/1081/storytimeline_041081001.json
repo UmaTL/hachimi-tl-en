@@ -1,4 +1,5 @@
 {
+  "title": "Secret Plan: Project K!",
   "text_block_list": [
     {
       "text": "At Tracen Academy, there are Umamusume of all different shades of personalities."
@@ -14,8 +15,8 @@
       "text": "I told ya, I ain't doing it!"
     },
     {
-      "text": "W-Why not? This is training specifically designed to help you overcome your weaknesses!",
-      "name": "Instructor A"
+      "name": "Instructor A",
+      "text": "W-Why not? This is training specifically designed to help you overcome your weaknesses!"
     },
     {
       "name": "Espoir City",
@@ -30,16 +31,16 @@
       "text": "Yes, and I've seen the videos, too. She refuses to listen to instruction, and won't let anyone get a word in edgewise. It seems we're at a loss with her."
     },
     {
-      "text": "She has no trainer in charge of her. She isn't up even up to par in mock races. Taking all this into account, we have no choice…",
-      "name": "Senior Instructor"
+      "name": "Senior Instructor",
+      "text": "She has no trainer in charge of her. She isn't up even up to par in mock races. Taking all this into account, we have no choice…"
     },
     {
       "name": "Senior Instructor",
       "text": "But to send her to Project K!"
     },
     {
+      "name": "Horsegirl A",
       "text": "Hey, Trainer! Thanks a bunch for helping me out before! Now that I know how to deal with corners, I think I'm gonna do really well in my next race!",
-      "name": "Umamusume A",
       "choice_data_list": [
         "Good to hear! Do your best out there!",
         "Good to hear! Do your best out there!"
@@ -49,8 +50,8 @@
       "text": "That was an Umamusume I had given advice to. That's good news. Looks like even as a rookie trainer, I'm still of use."
     },
     {
+      "name": "Formative Trainer",
       "text": "Hey, newbie! You like teaching, right?",
-      "name": "Senior Trainer",
       "choice_data_list": [
         "That's right! I'm a trainer, after all!"
       ]
@@ -65,16 +66,16 @@
       ]
     },
     {
-      "text": "Their growth, you say… hehe, alright, that's that! I've got a position to nominate you for, newbie!",
-      "name": "Senior Trainer"
+      "name": "Formative Trainer",
+      "text": "Their growth, you say… hehe, alright, that's that! I've got a position to nominate you for, newbie!"
     },
     {
       "name": "Senior Trainers",
       "text": "Welcome to Project K!"
     },
     {
-      "text": "Huh?! Whaaaa? Ehhh?",
       "name": "Delinquent(?) Umamusume",
+      "text": "Huh?! Whaaaa? Ehhh?",
       "choice_data_list": [
         "(W-Woah…)",
         "(W-Woah…)"
@@ -84,8 +85,8 @@
       "text": "I've arrived at Kokura Racecourse in Fukuoka as part of \"Project K\". All the Umamusume here seem to have been \"nominated\" to come here, too…"
     },
     {
-      "text": "Starting now, you will all be paired together with a trainer as part of this two-week intensive training camp!",
-      "name": "Senior Trainer"
+      "name": "Formative Trainer",
+      "text": "Starting now, you will all be paired together with a trainer as part of this two-week intensive training camp!"
     },
     {
       "name": "Veteran Trainer",
@@ -96,11 +97,11 @@
       "text": "You'll be practicing running on a real course and working with a real trainer. Think of this as a simulation for your real debut and take it seriously."
     },
     {
-      "name": "Senior Trainer",
+      "name": "Formative Trainer",
       "text": "You and your trainers are in the same boat, after all. Please try and challenge yourself by asking, \"can I give it my all for just one person?\""
     },
     {
-      "name": "Senior Trainer",
+      "name": "Formative Trainer",
       "text": "We, too, have come here knowing all your histories! \nNow, tackle this with care. Think of it as your last chance!"
     },
     {
@@ -108,7 +109,7 @@
       "text": "Laaame! This sucks… \nWhat a pain."
     },
     {
-      "name": "Senior Trainer",
+      "name": "Formative Trainer",
       "text": "By the way, there are Umamusume who have signed a real contract with a trainer as a result of this training camp!",
       "choice_data_list": [
         "(A real contract, as a trainer…!)"
@@ -129,12 +130,12 @@
       "text": "To start off, we'll have you get with your new trainer and show us what you've got. How about we start with a mock race?"
     },
     {
-      "text": "Finally, a race! Let's goooooo! \nAlright!",
-      "name": "Delinquent(?) Umamusume"
+      "name": "Delinquent(?) Umamusume",
+      "text": "Finally, a race! Let's goooooo! \nAlright!"
     },
     {
-      "text": "Starting with the first race! On your marks…",
-      "name": "Senior Trainer"
+      "name": "Formative Trainer",
+      "text": "Starting with the first race! On your marks…"
     },
     {
       "text": "The sixteen Umamusume leap from the starting gate. Espoir City settles in around fifth or sixth. It looks like she's going with by-the-book pace chasing."
@@ -255,6 +256,5 @@
       "name": "Espoir City",
       "text": "I-I just pulled a muscle, that's all! \nDumbass… you DUMBAAAAASS!!!"
     }
-  ],
-  "title": "Secret Plan: Project K!"
+  ]
 }
