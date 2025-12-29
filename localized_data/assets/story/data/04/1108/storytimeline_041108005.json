@@ -1,0 +1,161 @@
+{
+  "title": "Observation",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Today, the gymnasium at Tracen Academy was filled \nwith excitement. And that was because——"
+    },
+    {
+      "name": "Duramente",
+      "text": "Don't rush, keep it slow!"
+    },
+    {
+      "name": "Teammate",
+      "text": "Got it!"
+    },
+    {
+      "text": "As part of class today, a multi-event tournament \nwas being held. Duramente was competing in Basketball."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "As expected of Duramente. Being part of that family, she also \nseems to have outstanding talent for competitive sports."
+    },
+    {
+      "name": "Experienced Trainer",
+      "text": "Her position is Point Guard? And also scoring that much…… \nDuramente's stealing the show."
+    },
+    {
+      "name": "Rival Team Horsegirl",
+      "text": "Kuu……we can't just let them keep——Ah!"
+    },
+    {
+      "name": "Spectator Horsegirl",
+      "text": "Uwaah, what an amazing move……! Seems like this win's \nalready in the bag! I wonder how many points they'll win by～!"
+    },
+    {
+      "name": "Duramente",
+      "text": "…………Fuu. \n——Alright, move up!"
+    },
+    {
+      "text": "Everyone was enthralled by Duramente's plays. \nBut for some reason, her expression seemed a little stiff."
+    },
+    {
+      "name": "Rival Team Horsegirl",
+      "text": "Don't let her pass the ball! \nStop her right here!"
+    },
+    {
+      "name": "Duramente",
+      "text": "……!!",
+      "choice_data_list": [
+        "(Not good, she can't pass……!)"
+      ]
+    },
+    {
+      "name": "Experienced Trainer",
+      "text": "! No way, from that distance……!?"
+    },
+    {
+      "name": "Duramente",
+      "text": "——……!"
+    },
+    {
+      "text": "(——Bang!)"
+    },
+    {
+      "name": "Rival Team Horsegirl",
+      "text": "——the rebound!!"
+    },
+    {
+      "name": "Spectator Horsegirl",
+      "text": "Huh, she missed……? \nW-well, they're still in the lead anyways, do your bestー!",
+      "choice_data_list": [
+        "(I wonder if she's okay……)"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……Sorry! Defense! \nWe'll take it back!!"
+    },
+    {
+      "name": "Spectator Horsegirl",
+      "text": "They won! As expected of Duramente-san!"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "I suppose you could say it was a comfortable victory. \nAnd the individual scores……We saw something pretty good."
+    },
+    {
+      "name": "Duramente",
+      "text": "Fuuーー…………",
+      "choice_data_list": [
+        "Good job, Dura"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "……! \nTrainer. So you were watching……",
+      "choice_data_list": [
+        "……Were you alright?",
+        "……Were you alright?"
+      ]
+    },
+    {
+      "text": "She could probably hear the voices from the stands. \nOn top of that, the countless expectations placed \non her must have been weighing on her heavily."
+    },
+    {
+      "name": "Duramente",
+      "text": "……I can't help but feel nervous. \nAnd because of that I made a big mistake.",
+      "choice_data_list": [
+        "It happens to everyone"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "——You're right."
+    },
+    {
+      "name": "Reporter",
+      "text": "Ah, there she is! I was looking for you, Duramente-san!",
+      "choice_data_list": [
+        "Who is this……?"
+      ]
+    },
+    {
+      "name": "Duramente",
+      "text": "A reporter who does in-depth coverage. \nAfter this, I was going to do an interview."
+    },
+    {
+      "name": "Duramente",
+      "text": "It was an offer made through our family, \nso you don't need to worry about it. ——Well then"
+    },
+    {
+      "name": "Reporter",
+      "text": "In the match just now, you were very prominent! \nHowever, there were some unfortunate incidents."
+    },
+    {
+      "name": "Duramente",
+      "text": "——It was just the result of the weakness in my heart."
+    },
+    {
+      "name": "Duramente",
+      "text": "This experience will help further strengthen my own mentality. \nSo that I can remain calm in any situation."
+    },
+    {
+      "name": "Duramente",
+      "text": "——To prove that I am the \"Strongest\".",
+      "choice_data_list": [
+        "(……Impressive.)"
+      ]
+    },
+    {
+      "text": "Without hiding her own weaknesses, still striving \nto improve herself. Staying strong under pressure——"
+    },
+    {
+      "name": "Reporter",
+      "text": "To become stronger in both body and mind! With this, we'll have \nhigh expectations and be looking forward to your future endeavors."
+    },
+    {
+      "text": "As she continues to struggle through her unease, I want to be there \nto support her through it all……I once again resolve myself to that."
+    }
+  ]
+}

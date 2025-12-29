@@ -1,0 +1,218 @@
+{
+  "title": "Tenacity",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Interviewer",
+      "text": "I heard from your father! Duramente-san, that \nyour goal is victory at one of the world's most \nprestigious races, the 『Prix de l'Arc de Triomphe』."
+    },
+    {
+      "name": "Interviewer",
+      "text": "Japan's long-awaited first victory……if that were to happen, \nthen even people around the world would be impressed!"
+    },
+    {
+      "name": "Duramente",
+      "text": "…………That is not my role."
+    },
+    {
+      "name": "Interviewer",
+      "text": "Ehh?"
+    },
+    {
+      "name": "Duramente",
+      "text": "To surprise everyone with a victory, is the \nrole of an \"Underdog\". What I desire is——"
+    },
+    {
+      "name": "Duramente",
+      "text": "——To be crowned the \"Strongest\"."
+    },
+    {
+      "name": "Commentator",
+      "text": "——『Now the strongest has arrived!!』"
+    },
+    {
+      "name": "Duramente",
+      "text": "……The strongest is not someone who should \njust be surprising. They should be overwhelming."
+    },
+    {
+      "name": "Duramente",
+      "text": "As someone with this blood, I should be as well."
+    },
+    {
+      "text": "In every one of Duramente's interviews, \nthe same phrases kept coming up.",
+      "choice_data_list": [
+        "(\"Strongest\" and \"Blood\")"
+      ]
+    },
+    {
+      "text": "That was just how important what resided within her \nbody was to her. No, not just what resides within her——",
+      "choice_data_list": [
+        "(Her family ties were her \"Pride\")"
+      ]
+    },
+    {
+      "name": "Commentator",
+      "text": "Now, it begins. Autumn Selection Race! \nThe Uma Musume make their way to the gate!"
+    },
+    {
+      "text": "The 『Selection Race』 venue was filled with active Uma Musume, \neach hoping to be scouted. However, the most notable were——"
+    },
+    {
+      "name": "Duramente",
+      "text": "…………——I'll show them. \nProve it. From now on……I will——……"
+    },
+    {
+      "name": "Duramente",
+      "text": "——……!!",
+      "choice_data_list": [
+        "(What an amazing aura……!)"
+      ]
+    },
+    {
+      "text": "It was on a different level compared to the parallel \nrunning from before. Today, she was probably——\"Serious\"."
+    },
+    {
+      "name": "Trainer With Knit Cap",
+      "text": "……! Hahaa……she's pretty wild. \nYou can feel the tension in the air."
+    },
+    {
+      "name": "Trainer Wearing Red Lipstick",
+      "text": "Aah, how wonderful……! \nWhen this is over, I'll be the first to scout you……!"
+    },
+    {
+      "name": "Commentator",
+      "text": "Now the Uma Musume enter their gates. And——"
+    },
+    {
+      "name": "Commentator",
+      "text": "It starts……what's this, Duramente!?"
+    },
+    {
+      "name": "Commentator",
+      "text": "She's late to exit! She starts the race from behind!"
+    },
+    {
+      "name": "Trainer With Knit Cap",
+      "text": "Geh!? A late start!?"
+    },
+    {
+      "name": "Trainer Wearing Red Lipstick",
+      "text": "But a handicap like this is nothing……! \nIf she's able to use her abilities to the fullest then——"
+    },
+    {
+      "name": "Duramente",
+      "text": "Haa……haa……haa! ……Haa……haa……haaa…… \n——Gaaaaaaaaaaaa!!"
+    },
+    {
+      "name": "Stylish Trainer",
+      "text": "From the outside in an instant……! \nWhat explosive power, like this she should be able to——"
+    },
+    {
+      "name": "Commentator",
+      "text": "But the leader refuses to yield! She runs! \nPulling away! Just like that, first place is——",
+      "choice_data_list": [
+        "(Eh……!?)"
+      ]
+    },
+    {
+      "name": "Commentator",
+      "text": "Goaaaaaaaal!!"
+    },
+    {
+      "name": "Duramente",
+      "text": "……Haaa……haa……haa…… \nDamnit……"
+    },
+    {
+      "name": "Trainer Wearing Red Lipstick",
+      "text": "Duramente! You were so close, huh!? \nBut, please join my team——!"
+    },
+    {
+      "name": "Duramente",
+      "text": "……I'm grateful. \nBut, with a result like this, I can't accept it."
+    },
+    {
+      "name": "Stylish Trainer",
+      "text": "…………She's quite harsh on herself it seems. But on the other hand, \nit seems like she doesn't have a handle on her pride and spirit."
+    },
+    {
+      "name": "Trainer Wearing Red Lipstick",
+      "text": "But that's good! The fighting spirit can easily \nbe managed! This time she stumbled, but with more \nexperience, things should come naturally……!"
+    },
+    {
+      "name": "Trainer With Knit Cap",
+      "text": "No, that wasn't the only reason she lost. There \nwere rumors about her ankles, right? Truth is, \nshe can't really put much strain on her feet.",
+      "choice_data_list": [
+        "(N-no……that can't be it)"
+      ]
+    },
+    {
+      "text": "——She was already well aware of her condition. \nShe was also perfectly able to manage her own running already."
+    },
+    {
+      "text": "Her spirit too. Even when racing against an Upperclassman \nUma Musume, she was able to flawlessly turn it in to strength.",
+      "choice_data_list": [
+        "(It was truly an overwhelming run——!)"
+      ]
+    },
+    {
+      "name": "Dura's Father",
+      "text": "I was waiting for you, Dura."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "How was the Selection Race? Did someone become your trainer? \nEven in victory, there is much to review until your debut——"
+    },
+    {
+      "name": "Duramente",
+      "text": "……I placed 2nd in the Selection Race. \nDue to that, I plan to register for the next Selection Race."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "……! …………I see. \nThen I suppose training is the priority for now."
+    },
+    {
+      "name": "Duramente",
+      "text": "Even though you made time for me, I only have \nsomething like this to report. For that, I apologize."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "You don't need to apologize. Though, it might be \nbetter not to attend next week's dance party. The \nunnecessary stress might hinder your progress."
+    },
+    {
+      "name": "Duramente",
+      "text": "……! No, I'll attend. Now that I've begun working \ntowards my career, an absence would be out of the question."
+    },
+    {
+      "name": "Duramente",
+      "text": "At the party I'll be able to introduce myself to many \ninfluential people, including those affiliated with the \nURA. It's something my mother and others have done."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "……Well, I suppose the event is somewhat like a \ndebutante ball. And particularly the dance, where most \ngirls from prominent families make their appearance."
+    },
+    {
+      "name": "Duramente",
+      "text": "Yes. That dance is a declaration that the new generation will lead \nfrom here. ……In that case, I should be the one to stand there."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "………… Understood. \nHowever, don't forget what it is that you hope to achieve."
+    },
+    {
+      "name": "Duramente",
+      "text": "……Yes."
+    },
+    {
+      "name": "Dura's Father",
+      "text": "……Oh, I'm sorry. That's all the time I have for today. \nGive my regards to your escort from the other day. Until next time."
+    },
+    {
+      "name": "Duramente",
+      "text": "Yes. I'll be praying for father's success as well……——"
+    },
+    {
+      "name": "Duramente",
+      "text": "(……!! From the other day……my escort……!?)"
+    }
+  ]
+}

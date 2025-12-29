@@ -49,6 +49,19 @@ Join the [Discord](https://discord.gg/xBMgwh6hHY) or open an Issue for this, as 
 When using the [UmaTL] tools, please contribute translations to that repo. I will take care of transferring them.  
 Otherwise, use [ZokuZoku] and contribute the Hachimi format files here as a PR.
 
+# Data usage
+Original game data falls under the copyright of Cy​gаmes.  
+UmaTL is a fan community project and not associated with the game's developer or distributor in any way.
+
+To the degree applicable:  
+The data as contained in this repo is considered part of UmaTL and includes modifications and representations specific to the project.  
+This data may only be used, with attribution, in other community projects relevant to the game, and only when their scope differs from UmaTL's.  
+Underlying translations and other data remain under the copyright of, or otherwise belonging to, their respective contributors or sources. 
+UmaTL is **not** released under an оp​en li​cen​se.
+
+In addition, all forms of usage of UmaTL's data pertaining to ge​ne​rа​ti​ve M​L mо​de​ls and similar are expressly forbidden.  
+
+
 [UmaTL]: https://github.com/noccu/umamusu-translate
 [Hachimi]: https://hachimi.noccu.art
 [Hachimi-Edge]: https://github.com/kairusds/Hachimi-Edge/releases/latest/download/hachimi_installer.exe
