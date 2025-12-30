@@ -21,8 +21,8 @@
         "training": 3
     },
     "wrapper_penalties": {
-        "nline_penalty": 22,
-        "overflow_penalty": 12,
+        "nline_penalty": 18,
+        "overflow_penalty": 9,
         "short_last_line_fraction": 4,
         "short_last_line_penalty": 18,
         "hyphen_penalty": 0
@@ -33,12 +33,12 @@
     "text_frame_line_spacing_multiplier": 0.72,
     "text_frame_font_size_multiplier": 0.96,
     "skill_formatting": {
-        "name_length": 17,
-        "desc_length": 23,
+        "name_length": 16,
+        "desc_length": 22,
         "name_short_lines": 2,
 
-        "name_short_mult": 0.65,
-        "name_sp_mult": 0.65
+        "name_short_mult": 0.75,
+        "name_sp_mult": 0.7
     },
     "now_loading_comic_title_ellipsis": true,
 
