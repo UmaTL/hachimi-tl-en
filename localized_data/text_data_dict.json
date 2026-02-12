@@ -3421,11 +3421,17 @@
         "284": "Channel Subscribers",
         "285": "Trait Research Report",
         "286": "Entry Ticket",
+        "287": "Gold Ingot",
         "288": "Special SSR Exchange Ticket 3R",
         "289": "4.5th Anniversary ★3 Exchange Ticket",
         "290": "4.5th Anniversary SSR Exchange Ticket",
         "291": "Trait Research Report",
         "292": "Entry Ticket",
+        "296": "Limited Sale Booster",
+        "297": "Trait Research Report",
+        "299": "Trait Research Report",
+        "302": "Trait Research Report",
+        "306": "Trait Research Report",
         "1001": "Scout Pt",
         "1002": "Scout Pt",
         "1003": "Scout Pt",
@@ -30096,7 +30102,22 @@
         "9264": "Saint Lite Secret #1",
         "9265": "Speed Symboli Secret #1",
         "9266": "Haiseiko Secret #1",
-        "9267": "Sugar Lights Secret #1"
+        "9267": "Sugar Lights Secret #1",
+        "9268": "Admire Groove Secret #1",
+        "9269": "Stay Gold Secret #1",
+        "9270": "Tucker Bryne Secret #1",
+        "9271": "Daring Tact Secret #2",
+        "9272": "Fusaichi Pandora Secret #2",
+        "9273": "Bubble Gum Fellow Secret #2",
+        "9274": "Fenomeno Secret #2",
+        "9275": "Blast Onepiece Secret #2",
+        "9276": "Almond Eye Secret #2",
+        "9277": "Lucky Lilac Secret #2",
+        "9278": "Gran Alegria Secret #2",
+        "9279": "Loves Only You Secret #2",
+        "9280": "Chrono Genesis Secret #2",
+        "9281": "Curren Bouquetd'Or Secret #2"
+
     },
     "69": {
         "1": "Urban baptism?",
@@ -51390,7 +51411,11 @@
         "10003": "Byerley Turk's Training",
         "100001": "Darley Arabian's Training",
         "100002": "Godolphin Barb's Training",
-        "100003": "Byerley Turk's Training"
+        "100003": "Byerley Turk's Training",
+        "120001": "Darley Arabian's Training",
+        "120002": "Godolphin Barb's Training",
+        "120003": "Byerley Turk's Training"
+
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -51398,7 +51423,11 @@
         "10003": "Stat focus.",
         "100001": "Fairly balanced.",
         "100002": "Skill focus.",
-        "100003": "Stat focus."
+        "100003": "Stat focus.",
+        "120001": "Fairly balanced.",
+        "120002": "Skill focus.",
+        "120003": "Stat focus."
+
     },
     "392": {
         "100005": "Pause to select teachings manually"
