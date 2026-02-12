@@ -733,7 +733,9 @@
         "113301": "[Effulgent Curator] Chrono Genesis",
         "113501": "[Sunlit Outsider] Stay Gold",
         "9100101": "[Special Dreamer] Special Week",
-        "9101101": "[Rock-piercing Blue] Grass Wonder"
+        "9101101": "[Rock-piercing Blue] Grass Wonder",
+        "101003": "[Baa Baa Patisserie] Taiki Shuttle",
+        "113701": "[Miracle Author] Kiseki"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -1086,6 +1088,7 @@
         "1134": "Curren Bouquetd'or",
         "1135": "Stay Gold",
         "1136": "Red Desire",
+        "1137": "Kiseki",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
@@ -2598,7 +2601,9 @@
         "50194": "Exclusively ★3s released in 2025 (first half)!",
         "50195": "Exclusively SSRs released in 2025 (first half)!",
         "50196": "Exclusively ★3s released in 2025 (second half)!",
-        "50197": "Exclusively SSRs released in 2025 (second half)!"
+        "50197": "Exclusively SSRs released in 2025 (second half)!",
+        "30409": "Increased rates for selected SSR supports!",
+        "30412": "Exclusively ★3s from the 8 featured!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -3033,7 +3038,8 @@
         "904601": "Saint Lite's Outfit",
         "904701": "Speed Symboli's Outfit",
         "904801": "Haiseiko's Outfit",
-        "904901": "Tucker Bryne's Outfit"
+        "904901": "Tucker Bryne's Outfit",
+        "901137": "Casual Wear (Kiseki)"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -5584,6 +5590,8 @@
         "600082": "Champions Meet: SPRINT Final",
         "600083": "Champions Meet: MILE",
         "600084": "Champions Meet: MILE Final",
+        "600085": "Champions Meet: LONG",
+        "600086": "Champions Meet: LONG Final",
         "610000": "Team Race: Sprint",
         "610001": "Team Race: Sprint",
         "610002": "Team Race: Sprint",
@@ -7626,7 +7634,11 @@
         "1203601": "Arima Kinen (HARD)",
         "1203602": "Arima Kinen (HARD)",
         "1203701": "Asahi Hai Futurity Stakes (HARD)",
-        "1203702": "Asahi Hai Futurity Stakes (HARD)"
+        "1203702": "Asahi Hai Futurity Stakes (HARD)",
+        "1203801": "February Stakes (HARD)",
+        "1203802": "February Stakes (HARD)",
+        "670027": "League of Heroes Main Stage",
+        "670028": "League of Heroes Extra Stage"
     },
     "29": {
         "100101": "February S",
@@ -8227,6 +8239,7 @@
         "600080": "Champions Meet: Final",
         "600082": "Champions Meet: Final",
         "600084": "Champions Meet: Final",
+        "600086": "Champions Meet: Final",
         "610000": "Team Race: Sprint",
         "610001": "Team Race: Sprint",
         "610002": "Team Race: Sprint",
@@ -10269,7 +10282,11 @@
         "1203601": "Arima Kinen (HARD)",
         "1203602": "Arima Kinen (HARD)",
         "1203701": "Asahi Hai FS (HARD)",
-        "1203702": "Asahi Hai FS (HARD)"
+        "1203702": "Asahi Hai FS (HARD)",
+        "1203801": "February S (HARD)",
+        "1203802": "February S (HARD)",
+        "670027": "Main Stage",
+        "670028": "Extra Stage"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -10894,6 +10911,8 @@
         "6082": "Champions Meet: SPRINT Final",
         "6083": "Champions Meet: MILE",
         "6084": "Champions Meet: MILE Final",
+        "6085": "Champions Meet: LONG",
+        "6086": "Champions Meet: LONG Final",
         "6100": "Team Race: Sprint",
         "6101": "Team Race: Sprint",
         "6102": "Team Race: Sprint",
@@ -12381,7 +12400,10 @@
         "25263": "Nagatsuki Stakes",
         "25264": "Uzumasa Stakes",
         "25265": "Prix Niel",
-        "25266": "Prix Foy"
+        "25266": "Prix Foy",
+        "12038": "February S",
+        "13027": "League of Heroes Main Stage",
+        "13028": "League of Heroes Extra Stage"
     },
     "33": {
         "1001": "February Stakes",
@@ -13227,7 +13249,10 @@
         "18002": "Tenno Sho (Spring)",
         "18003": "Satsuki Sho",
         "18019": "Fillies' Revue",
-        "18027": "Centaur Stakes"
+        "18027": "Centaur Stakes",
+        "6085": "Champions Meeting",
+        "6086": "Champions Meeting",
+        "12038": "Legend Race"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -13547,7 +13572,9 @@
         "1203601": "Legend Race: Narita Brian",
         "1203602": "Legend Race: Dream Journey",
         "1203701": "Legend Race: Maruzensky",
-        "1203702": "Legend Race: Bubble Gum Fellow"
+        "1203702": "Legend Race: Bubble Gum Fellow",
+        "1203801": "Legend Race: Shinko Windy",
+        "1203802": "Legend Race: Transcend"
     },
     "38": {
         "1001": "February S",
@@ -13831,7 +13858,9 @@
         "1203601": "Legend Race\nNarita Brian",
         "1203602": "Legend Race\nDream Journey",
         "1203701": "Legend Race\nMaruzensky",
-        "1203702": "Legend Race\nBubble Gum Fellow"
+        "1203702": "Legend Race\nBubble Gum Fellow",
+        "1203801": "Legend Race\nShinko Windy",
+        "1203802": "Legend Race\nTranscend"
     },
     "39": {
         "2000": "Friend Points",
@@ -20004,6 +20033,11 @@
         "113603": "Stay Gold's Exclusive Trainer",
         "113604": "Masterful Stay Gold Trainer",
         "113605": "Fully-crowned Stay Gold",
+        "113701": "Memories with Kiseki",
+        "113702": "Kiseki's Personal Trainer",
+        "113703": "Kiseki's Exclusive Trainer",
+        "113704": "Masterful Kiseki Trainer",
+        "113705": "Fully-crowned Kiseki",
         "310101": "Chase Your Dreams",
         "310102": "Brand-new Friend",
         "310103": "JunePride of the Blooming Maidens",
@@ -20344,6 +20378,7 @@
         "701132": "Loves Only You's Tale",
         "701133": "Chrono Genesis's Tale",
         "701135": "Stay Gold's Tale",
+        "701137": "Kiseki's Tale",
         "710001": "PLATINUM Heroes",
         "710002": "PLATINUM Heroes★",
         "710003": "PLATINUM Heroes★ 2",
@@ -20355,6 +20390,7 @@
         "710009": "PLATINUM Heroes★ 8",
         "710010": "PLATINUM Heroes★ 9",
         "710011": "PLATINUM Heroes★ 10",
+        "710012": "PLATINUM Heroes★ 11",
         "720001": "Arima Kinen Master",
         "720002": "Tenno Sho (Spring) Master",
         "720003": "Satsuki Sho Master",
@@ -21180,6 +21216,11 @@
         "113603": "Reach 50 million total fans for Stay Gold.",
         "113604": "Reach 100 million total fans for Stay Gold.",
         "113605": "Obtain all GⅠ–GⅢ trophies with Stay Gold.",
+        "113701": "Watch chapter 4 of Kiseki's story.",
+        "113702": "Reach 10 million total fans for Kiseki.",
+        "113703": "Reach 50 million total fans for Kiseki.",
+        "113704": "Reach 100 million total fans for Kiseki.",
+        "113705": "Obtain all GⅠ–GⅢ trophies with Kiseki.",
         "310101": "Complete all event missions",
         "310102": "Complete all event missions",
         "310103": "Complete all event missions",
@@ -21230,6 +21271,7 @@
         "310148": "Complete all event missions.",
         "310149": "Complete all event missions.",
         "310150": "Complete all event missions.",
+        "310151": "Complete all event missions.",
         "320001": "Receive an Excellent grade in the Trainer Exam",
         "320002": "Receive an Excellent grade in the Trainer Exam",
         "320003": "Receive an Excellent grade in the Trainer Exam",
@@ -21392,15 +21434,19 @@
         "416101": "Achieve legendary results in \nChampions Meeting LONG",
         "416102": "Achieve legendary results 2 times in \nChampions Meeting LONG",
         "416103": "Achieve legendary results 3 times in \nChampions Meeting LONG",
+        "416104": "Achieve legendary results 4 times in \nChampions Meeting LONG",
         "416201": "Achieve glorious results in \nChampions Meeting LONG",
         "416202": "Achieve glorious results 2 times in \nChampions Meeting LONG",
         "416203": "Achieve glorious results 3 times in \nChampions Meeting LONG",
+        "416204": "Achieve glorious results 4 times in \nChampions Meeting LONG",
         "416301": "Achieve notable results in \nChampions Meeting LONG",
         "416302": "Achieve notable results 2 times in \nChampions Meeting LONG",
         "416303": "Achieve notable results 3 times in \nChampions Meeting LONG",
+        "416304": "Achieve notable results 4 times in \nChampions Meeting LONG",
         "416401": "Achieve remarkable results in \nChampions Meeting LONG",
         "416402": "Achieve remarkable results 2 times in \nChampions Meeting LONG",
         "416403": "Achieve remarkable results 3 times in \nChampions Meeting LONG",
+        "416404": "Achieve remarkable results 4 times in \nChampions Meeting LONG",
         "417101": "Achieve legendary results in \nChampions Meeting DIRT",
         "417102": "Achieve legendary results 2 times in \nChampions Meeting DIRT",
         "417201": "Achieve glorious results in \nChampions Meeting DIRT",
@@ -21579,6 +21625,7 @@
         "701132": "Leave Loves Only You's undeniable \nmark on the League of Heroes",
         "701133": "Leave Chrono Genesis's undeniable \nmark on the League of Heroes",
         "701135": "Leave Stay Gold's undeniable \nmark on the League of Heroes",
+        "701137": "Leave Kiseki's undeniable \nmark on the League of Heroes",
         "710001": "Reach PLATINUM4 League Rank \nin the League of Heroes",
         "710002": "Reach PLATINUM4 League Rank \n2 times in the League of Heroes",
         "710003": "Reach PLATINUM4 League Rank \n3 times in the League of Heroes",
@@ -21590,6 +21637,7 @@
         "710009": "Reach PLATINUM4 League Rank \n9 times in the League of Heroes",
         "710010": "Reach PLATINUM4 League Rank \n10 times in the League of Heroes",
         "710011": "Reach PLATINUM4 League Rank \n11 times in the League of Heroes",
+        "710012": "Reach PLATINUM4 League Rank \n12 times in the League of Heroes",
         "720001": "Dominate Arima Kinen \nin the Masters Challenge",
         "720002": "Dominate Tenno Sho (Spring) \nin the Masters Challenge",
         "720003": "Dominate Satsuki Sho \nin the Masters Challenge",
@@ -24303,6 +24351,7 @@
         "340119": "Reach Bond Lv 1 with Dantsu Flame.",
         "340120": "Reach Bond Lv 1 with Buena Vista.",
         "340121": "Reach Bond Lv 1 with Stay Gold.",
+        "340122": "Reach Bond Lv 1 with Kiseki.",
         "341000": "Reach Bond Lv 11 with Special Week",
         "341001": "Reach Bond Lv 11 with Silence Suzuka",
         "341002": "Reach Bond Lv 11 with Tokai Teio",
@@ -24425,6 +24474,7 @@
         "341119": "Reach Bond Lv 11 with Dantsu Flame.",
         "341120": "Reach Bond Lv 11 with Buena Vista.",
         "341121": "Reach Bond Lv 11 with Stay Gold.",
+        "341122": "Reach Bond Lv 11 with Kiseki.",
         "342000": "Reach Bond Lv 12 with Special Week",
         "342001": "Reach Bond Lv 12 with Silence Suzuka",
         "342002": "Reach Bond Lv 12 with Tokai Teio",
@@ -24547,6 +24597,7 @@
         "342119": "Reach Bond Lv 12 with Dantsu Flame.",
         "342120": "Reach Bond Lv 12 with Buena Vista.",
         "342121": "Reach Bond Lv 12 with Stay Gold.",
+        "342122": "Reach Bond Lv 12 with Kiseki.",
         "600101": "Reach team rank D",
         "600102": "Reach team rank B",
         "600103": "Reach team rank A",
@@ -25373,6 +25424,11 @@
         "613603": "Reach 50 million total fans for Stay Gold.",
         "613604": "Reach 100 million total fans for Stay Gold.",
         "613605": "Obtain all GⅠ–GⅢ trophies with Stay Gold.",
+        "613701": "Watch chapter 4 of Kiseki's story.",
+        "613702": "Reach 10 million total fans for Kiseki.",
+        "613703": "Reach 50 million total fans for Kiseki.",
+        "613704": "Reach 100 million total fans for Kiseki.",
+        "613705": "Obtain all GⅠ–GⅢ trophies with Kiseki.",
         "900002": "Watch Sakura Bakushin O's Bakushin! Troubleshooting",
         "900003": "Watch Chiyono O's Earnest Consultation Sessions!",
         "1000001": "① [Day 1] Finish Daiwa Scarlet's Career mode while having 5k+ fans",
@@ -28098,6 +28154,27 @@
         "2004819": "[Limited] Enter Legend Race 6 times.",
         "2004820": "[Limited] Enter Legend Race 9 times.",
         "2004821": "[Limited] Enter Legend Race 12 times.",
+        "2004901": "[Daily] Enter Legend Race 1 time.",
+        "2004902": "[Daily] Enter Legend Race 2 times.",
+        "2004903": "[Daily] Enter Legend Race 3 times.",
+        "2004904": "[Daily] Enter Legend Race 1 time.",
+        "2004905": "[Daily] Enter Legend Race 2 times.",
+        "2004906": "[Daily] Enter Legend Race 3 times.",
+        "2004907": "[Daily] Enter Legend Race 1 time.",
+        "2004908": "[Daily] Enter Legend Race 2 times.",
+        "2004909": "[Daily] Enter Legend Race 3 times.",
+        "2004910": "[Daily] Enter Legend Race 1 time.",
+        "2004911": "[Daily] Enter Legend Race 2 times.",
+        "2004912": "[Daily] Enter Legend Race 3 times.",
+        "2004913": "[Daily] Enter Legend Race 1 time.",
+        "2004914": "[Daily] Enter Legend Race 2 times.",
+        "2004915": "[Daily] Enter Legend Race 3 times.",
+        "2004916": "[Daily] Enter Legend Race 1 time.",
+        "2004917": "[Daily] Enter Legend Race 2 times.",
+        "2004918": "[Daily] Enter Legend Race 3 times.",
+        "2004919": "[Limited] Enter Legend Race 6 times.",
+        "2004920": "[Limited] Enter Legend Race 9 times.",
+        "2004921": "[Limited] Enter Legend Race 12 times.",
         "2100010": "[Daily] Enter Taurus Cup",
         "2100011": "[Daily] Enter Taurus Cup",
         "2100012": "[Daily] Enter Taurus Cup",
@@ -29562,6 +29639,10 @@
         "2600174": "[The Painted Dragon Heralds Dawn] Complete a Career 4 times",
         "2600175": "[The Painted Dragon Heralds Dawn] Complete a Career 7 times",
         "2600176": "[The Painted Dragon Heralds Dawn] Complete a Career 10 times",
+        "2600177": "[Melty♡ for U] Complete a Career 2 times",
+        "2600178": "[Melty♡ for U] Complete a Career 4 times",
+        "2600179": "[Melty♡ for U] Complete a Career 7 times",
+        "2600180": "[Melty♡ for U] Complete a Career 10 times",
         "3000001": "Check in with your Club",
         "3000003": "Make an Item Request"
     },
@@ -30117,7 +30198,6 @@
         "9279": "Loves Only You Secret #2",
         "9280": "Chrono Genesis Secret #2",
         "9281": "Curren Bouquetd'Or Secret #2"
-
     },
     "69": {
         "1": "Urban baptism?",
@@ -32127,7 +32207,10 @@
         "30282": "Air Groove",
         "30283": "Fine Motion",
         "30284": "Bubble Gum Fellow",
-        "30285": "King Halo"
+        "30285": "King Halo",
+        "30286": "Matikanefukukitaru",
+        "30287": "Neo Universe",
+        "30288": "Silence Suzuka"
     },
     "78": {
         "10001": "Special Week",
@@ -33282,6 +33365,7 @@
         "100902": "Daiwa Scarlet's Piece",
         "101001": "Taiki Shuttle's Piece",
         "101002": "Taiki Shuttle's Piece",
+        "101003": "Taiki Shuttle's Piece",
         "101101": "Grass Wonder's Piece",
         "101102": "Grass Wonder's Piece",
         "101103": "Grass Wonder's Piece",
@@ -33466,6 +33550,7 @@
         "110001": "Wonder Acute's Piece",
         "110002": "Wonder Acute's Piece",
         "110201": "Sounds of Earth's Piece",
+        "110202": "Sounds of Earth's Piece",
         "110401": "Katsuragi Ace's Piece",
         "110402": "Katsuragi Ace's Piece",
         "110501": "Neo Universe's Piece",
@@ -33495,7 +33580,8 @@
         "113101": "Gran Alegria's Piece",
         "113201": "Loves Only You's Piece",
         "113301": "Chrono Genesis' Piece",
-        "113501": "Stay Gold's Piece"
+        "113501": "Stay Gold's Piece",
+        "113701": "Kiseki's Piece"
     },
     "114": {
         "100000": "A piece of the selected horsegirl. \nCan be used to unlock or develop talents.",
@@ -38481,7 +38567,10 @@
         "30281": "Guts Bonus and Skill Point Bonus when Friendship over 80.",
         "30282": "Training Bonus and Power Bonus when Friendship over 80.",
         "30284": "Guts Bonus and Skill Point Bonus when Friendship over 80.",
-        "30285": "Power Bonus and Skill Point Bonus when Friendship over 80."
+        "30285": "Power Bonus and Skill Point Bonus when Friendship over 80.",
+        "30286": "Training Bonus when Friendship over 80.",
+        "30287": "Stamina Bonus and Skill Point Bonus when Friendship over 80.",
+        "30288": "Motivation Bonus and Speed Bonus when Friendship over 80."
     },
     "157": {
         "1001": "May 2",
@@ -38628,7 +38717,8 @@
         "9047": "May 3",
         "9048": "March 6",
         "9049": "June 21",
-        "9050": "April 7"
+        "9050": "April 7",
+        "1137": "May 13"
     },
     "159": {
         "1001": "Betweener",
@@ -39772,7 +39862,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "1137": "Kiseki"
     },
     "171": {
         "12": "Login Bonus",
@@ -41473,6 +41564,9 @@
         "10100201": "Increases Power Cap, gain skill hint: Joyful Voyage!",
         "10100202": "Increases Power Cap, gain skill hint: Joyful Voyage!",
         "10100203": "Increases Power Cap, gain skill hint: Joyful Voyage!",
+        "10100301": "<size=22>Increases Power Cap & Guts Cap, gain skill hint: Have S'more Love!\n</size>",
+        "10100302": "<size=22>Increases Power Cap & Guts Cap, gain skill hint: Have S'more Love!\n</size>",
+        "10100303": "<size=22>Increases Power Cap & Guts Cap, gain skill hint: Have S'more Love!\n</size>",
         "10110101": "Increases Speed Cap & Power Cap, gain skill hint: Where there's a will, there's a way",
         "10110102": "Increases Speed Cap & Power Cap, gain skill hint: Where there's a will, there's a way",
         "10110103": "Increases Speed Cap & Power Cap, gain skill hint: Where there's a will, there's a way",
@@ -42316,7 +42410,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "1137": "Kiseki"
     },
     "186": {
         "1": "Raise the lvl of your support cards \nto get a support bonus!",
@@ -45211,7 +45306,44 @@
         "2163": "Finish top 3 in Arima Kinen during a Career.",
         "2164": "Finish top 3 in Osaka Hai during a Career.",
         "2165": "Finish top 3 in Yasuda Kinen during a Career.",
-        "2166": "Complete all event missions."
+        "2166": "Complete all event missions.",
+        "2167": "Complete a Career 1 time",
+        "2168": "Win a race in a Career.",
+        "2170": "Log in.",
+        "2172": "Complete a Career 1 time",
+        "2173": "Complete a Career 3 times",
+        "2174": "Complete a Career 5 times",
+        "2175": "Complete a Career 7 times",
+        "2176": "Complete a Career 9 times",
+        "2177": "Complete a Career 12 times",
+        "2178": "Win a race in a Career 10 times.",
+        "2179": "Win a race in a Career 20 times.",
+        "2180": "Win a race in a Career 30 times.",
+        "2181": "Win a race in a Career 40 times.",
+        "2182": "Win a race in a Career 50 times.",
+        "2183": "Win a race in a Career 60 times.",
+        "2184": "Win 10 GⅠ races across Careers.",
+        "2185": "Win 20 GⅠ races across Careers.",
+        "2186": "Win 30 GⅠ races across Careers.",
+        "2187": "Win 40 GⅠ races across Careers.",
+        "2192": "Play in the Team Stadium 5 times.",
+        "2193": "Play in the Team Stadium 10 times.",
+        "2194": "Play in the Team Stadium 15 times.",
+        "2195": "Play in the Team Stadium 20 times.",
+        "2196": "Play in the Team Stadium 30 times.",
+        "2197": "Play in the Team Stadium 40 times.",
+        "2198": "Reach a cumulative score of 500k in Team Stadium matches.",
+        "2199": "Reach a cumulative score of 1 million in Team Stadium matches.",
+        "2200": "Reach a cumulative score of 2 million in Team Stadium matches.",
+        "2201": "Reach a cumulative score of 3 million in Team Stadium matches.",
+        "2202": "Finish top 3 in Yasuda Kinen during a Career.",
+        "2203": "Finish top 3 in Tenno Sho (Autumn) during a Career.",
+        "2204": "Finish top 3 in Mile CS during a Career.",
+        "2205": "Finish top 3 in Japan C during a Career.",
+        "2206": "Finish top 3 in Takamatsunomiya Kinen during a Career.",
+        "2207": "Finish top 3 in NHK Mile C during a Career.",
+        "2208": "Finish top 3 in Japan Derby during a Career.",
+        "2209": "Complete all event missions."
     },
     "191": {
         "9": "A New Wind Blows",
@@ -48382,6 +48514,8 @@
         "10040203": "Reach ≥800 Wit",
         "10040204": "Win 2 Mile graded races",
         "10040205": "Learn 2 Mile skills",
+        "10040206": "Reach ≥800 Speed",
+        "10040207": "Learn 2 Runner skills",
         "10040301": "Trigger the 'みんな前を向いて' event",
         "10040302": "Reach ≥800 Speed",
         "10040303": "Learn 2 Runner skills",
@@ -48483,6 +48617,12 @@
         "10100202": "Go on an outing with your horsegirl",
         "10100203": "Go on an outing with a friend or group card",
         "10100204": "Reach ≥800 Power",
+        "10100301": "Reach ≥600 Guts",
+        "10100302": "Learn 3 Leader skills",
+        "10100303": "Learn 3 Speed-increasing skills",
+        "10100304": "Finish a Career with the Sharp condition",
+        "10100305": "Reach ≥800 Power",
+        "10100306": "Win 3 Mile GⅠ races",
         "10110101": "Reach ≥800 Speed",
         "10110102": "Learn 3 Speed-increasing skills",
         "10110103": "Win 1 Mile GⅠ races",
@@ -49711,6 +49851,12 @@
         "11020107": "Reach ≥800 Power",
         "11020108": "Win 2 Long Distance GⅠ races",
         "11020109": "Learn 2 Long Distance skills",
+        "11020201": "Trigger the '生活にムジカを！' event",
+        "11020202": "Reach ≥600 Stamina",
+        "11020203": "Reach ≥800 Power",
+        "11020204": "Win 2 GⅠ races as Leader",
+        "11020205": "Learn 2 Leader skills",
+        "11020206": "Learn 3 Speed-increasing skills",
         "11040101": "Remove insects from the fields without tiring \nin the 'ギャルの手も借りたい' event.",
         "11040102": "Learn 2 Acceleration-increasing skills",
         "11040103": "Reach ≥800 Speed",
@@ -49778,6 +49924,8 @@
         "11090106": "Reach ≥600 Guts",
         "11090107": "Win 4 GⅠ races",
         "11090108": "Learn 4 Leader skills",
+        "11090109": "Learn 2 Mile skills",
+        "11090110": "Gain 150000 fans",
         "11090201": "Win Oka Sho, Oaks, Shuuka Sho",
         "11090202": "Reach ≥800 Speed",
         "11090203": "Trigger the '夢の紡ぎ' event",
@@ -49899,6 +50047,10 @@
         "11350105": "Learn 3 Speed-increasing skills",
         "11350107": "Reach ≥600 Stamina",
         "11350108": "Learn 2 Long Distance skills",
+        "11370101": "Reach ≥800 Speed",
+        "11370102": "Learn 3 Speed-increasing skills",
+        "11370103": "Reach ≥600 Guts",
+        "11370104": "Learn 2 Acceleration-increasing skills",
         "40701101": "Be overall victor in every U.A.F. competition",
         "40702101": "Be overall victor in every U.A.F. competition",
         "40703101": "Be overall victor in every U.A.F. competition",
@@ -51415,7 +51567,6 @@
         "120001": "Darley Arabian's Training",
         "120002": "Godolphin Barb's Training",
         "120003": "Byerley Turk's Training"
-
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -51427,7 +51578,6 @@
         "120001": "Fairly balanced.",
         "120002": "Skill focus.",
         "120003": "Stat focus."
-
     },
     "392": {
         "100005": "Pause to select teachings manually"
