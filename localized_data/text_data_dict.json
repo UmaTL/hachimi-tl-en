@@ -525,6 +525,7 @@
         "100902": "[Scarlet Nuit Étoilée] Daiwa Scarlet",
         "101001": "[Wild Frontier] Taiki Shuttle",
         "101002": "[Bubblegum ☆ Memories] Taiki Shuttle",
+        "101003": "[Baa Baa Patisserie] Taiki Shuttle",
         "101101": "[Rock-piercing Blue] Grass Wonder",
         "101102": "[Saintly Jade Healer] Grass Wonder",
         "101103": "[Honor of the Blue Flame] Grass Wonder",
@@ -732,10 +733,9 @@
         "113201": "[9927 Wishes] Loves Only You",
         "113301": "[Effulgent Curator] Chrono Genesis",
         "113501": "[Sunlit Outsider] Stay Gold",
+        "113701": "[Miracle Author] Kiseki",
         "9100101": "[Special Dreamer] Special Week",
-        "9101101": "[Rock-piercing Blue] Grass Wonder",
-        "101003": "[Baa Baa Patisserie] Taiki Shuttle",
-        "113701": "[Miracle Author] Kiseki"
+        "9101101": "[Rock-piercing Blue] Grass Wonder"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -2432,6 +2432,8 @@
         "30392": "Exclusively ★3s from the 8 featured!",
         "30397": "Increased rates for selected SSR supports!",
         "30400": "Exclusively ★3s from the 8 featured!",
+        "30409": "Increased rates for selected SSR supports!",
+        "30412": "Exclusively ★3s from the 8 featured!",
         "50001": "Once only! Exclusive paid jewels gacha.",
         "50002": "Once only! Exclusive paid jewels gacha.",
         "50003": "Once only! Exclusive paid jewels gacha.",
@@ -2603,9 +2605,7 @@
         "50194": "Exclusively ★3s released in 2025 (first half)!",
         "50195": "Exclusively SSRs released in 2025 (first half)!",
         "50196": "Exclusively ★3s released in 2025 (second half)!",
-        "50197": "Exclusively SSRs released in 2025 (second half)!",
-        "30409": "Increased rates for selected SSR supports!",
-        "30412": "Exclusively ★3s from the 8 featured!"
+        "50197": "Exclusively SSRs released in 2025 (second half)!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -3031,6 +3031,7 @@
         "901132": "Casual Wear (Loves Only You)",
         "901133": "Casual Wear (Chrono Genesis)",
         "901135": "Casual Wear (Stay Gold)",
+        "901137": "Casual Wear (Kiseki)",
         "904001": "Darley Arabian's Outfit",
         "904101": "Godolphin Barb's Outfit",
         "904201": "Byerley Turk's Outfit",
@@ -3040,8 +3041,7 @@
         "904601": "Saint Lite's Outfit",
         "904701": "Speed Symboli's Outfit",
         "904801": "Haiseiko's Outfit",
-        "904901": "Tucker Bryne's Outfit",
-        "901137": "Casual Wear (Kiseki)"
+        "904901": "Tucker Bryne's Outfit"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -6362,6 +6362,8 @@
         "670024": "League of Heroes Extra Stage",
         "670025": "League of Heroes Main Stage",
         "670026": "League of Heroes Extra Stage",
+        "670027": "League of Heroes Main Stage",
+        "670028": "League of Heroes Extra Stage",
         "680001": "Arima Kinen Level 1",
         "680002": "Arima Kinen Level 1",
         "680003": "Arima Kinen Level 1",
@@ -7640,9 +7642,7 @@
         "1203701": "Asahi Hai Futurity Stakes (HARD)",
         "1203702": "Asahi Hai Futurity Stakes (HARD)",
         "1203801": "February Stakes (HARD)",
-        "1203802": "February Stakes (HARD)",
-        "670027": "League of Heroes Main Stage",
-        "670028": "League of Heroes Extra Stage"
+        "1203802": "February Stakes (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -9010,6 +9010,8 @@
         "670024": "Extra Stage",
         "670025": "Main Stage",
         "670026": "Extra Stage",
+        "670027": "Main Stage",
+        "670028": "Extra Stage",
         "680001": "Arima Kinen Level 1",
         "680002": "Arima Kinen Level 1",
         "680003": "Arima Kinen Level 1",
@@ -10288,9 +10290,7 @@
         "1203701": "Asahi Hai FS (HARD)",
         "1203702": "Asahi Hai FS (HARD)",
         "1203801": "February S (HARD)",
-        "1203802": "February S (HARD)",
-        "670027": "Main Stage",
-        "670028": "Extra Stage"
+        "1203802": "February S (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -11804,6 +11804,7 @@
         "12035": "Japan Cup",
         "12036": "Arima Kinen",
         "12037": "Asahi Hai FS",
+        "12038": "February S",
         "13001": "League of Heroes Main Stage",
         "13002": "League of Heroes Extra Stage",
         "13003": "League of Heroes Main Stage",
@@ -11830,6 +11831,8 @@
         "13024": "League of Heroes Extra Stage",
         "13025": "League of Heroes Main Stage",
         "13026": "League of Heroes Extra Stage",
+        "13027": "League of Heroes Main Stage",
+        "13028": "League of Heroes Extra Stage",
         "14001": "Grow Up Race",
         "14002": "Grow Up Race",
         "14003": "Grow Up Race",
@@ -12404,10 +12407,7 @@
         "25263": "Nagatsuki Stakes",
         "25264": "Uzumasa Stakes",
         "25265": "Prix Niel",
-        "25266": "Prix Foy",
-        "12038": "February S",
-        "13027": "League of Heroes Main Stage",
-        "13028": "League of Heroes Extra Stage"
+        "25266": "Prix Foy"
     },
     "33": {
         "1001": "February Stakes",
@@ -12831,6 +12831,8 @@
         "6082": "Champions Meeting",
         "6083": "Champions Meeting",
         "6084": "Champions Meeting",
+        "6085": "Champions Meeting",
+        "6086": "Champions Meeting",
         "9057": "Maiden Race",
         "9058": "Maiden Race",
         "9062": "Maiden Race",
@@ -13155,6 +13157,7 @@
         "12035": "Legend Race",
         "12036": "Legend Race",
         "12037": "Legend Race",
+        "12038": "Legend Race",
         "15001": "Scout Race",
         "15002": "Scout Race",
         "15003": "Scout Race",
@@ -13253,10 +13256,7 @@
         "18002": "Tenno Sho (Spring)",
         "18003": "Satsuki Sho",
         "18019": "Fillies' Revue",
-        "18027": "Centaur Stakes",
-        "6085": "Champions Meeting",
-        "6086": "Champions Meeting",
-        "12038": "Legend Race"
+        "18027": "Centaur Stakes"
     },
     "34": {
         "10001": "Sapporo RC",
@@ -38708,6 +38708,7 @@
         "1133": "March 6",
         "1134": "April 23",
         "1135": "March 24",
+        "1137": "May 13",
         "9001": "May 2",
         "9002": "March 15",
         "9005": "November 11",
@@ -38721,8 +38722,7 @@
         "9047": "May 3",
         "9048": "March 6",
         "9049": "June 21",
-        "9050": "April 7",
-        "1137": "May 13"
+        "9050": "April 7"
     },
     "159": {
         "1001": "Betweener",
@@ -39839,6 +39839,7 @@
         "1134": "Curren Bouquetd'or",
         "1135": "Stay Gold",
         "1136": "Red Desire",
+        "1137": "Kiseki",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
@@ -39866,8 +39867,7 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom",
-        "1137": "Kiseki"
+        "9051": "Yunohana Bloom"
     },
     "171": {
         "12": "Login Bonus",
@@ -42387,6 +42387,7 @@
         "1134": "Curren Bouquetd'or",
         "1135": "Stay Gold",
         "1136": "Red Desire",
+        "1137": "Kiseki",
         "2001": "Happy Meek",
         "2002": "Bitter Glasse",
         "2003": "Little Cocon",
@@ -42414,8 +42415,7 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom",
-        "1137": "Kiseki"
+        "9051": "Yunohana Bloom"
     },
     "186": {
         "1": "Raise the lvl of your support cards \nto get a support bonus!",
