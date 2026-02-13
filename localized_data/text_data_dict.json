@@ -1677,7 +1677,9 @@
         "279": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
         "282": "Represents a horsegirl's desire to take a stroll outside.\nEach stroll uses 1 item.",
         "285": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
+        "287": "A Gold Ingot. Each can be exchanged for 10 000 000 Money.",
         "291": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
+        "296": "Permanently increases the amount of daily time-limited shop sales.",
         "1001": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
         "1002": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
         "1003": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
@@ -4056,7 +4058,9 @@
         "279": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
         "282": "Represents a horsegirl's desire to take a stroll outside.\nEach stroll uses 1 item.",
         "285": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
+        "287": "A Gold Ingot. Each can be exchanged for 10 000 000 Money.",
         "291": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
+        "296": "Permanently increases the amount of daily time-limited shop sales.",
         "1001": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
         "1002": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
         "1003": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
@@ -20573,7 +20577,7 @@
         "100901": "Reach Index Level 100",
         "100911": "Clear all daily missions 7 days in a row",
         "100921": "Obtain 100 titles",
-        "100931": "Buy 100 items from the Limited Shop",
+        "100931": "Buy 100 items from time-limited sales.",
         "100941": "Reach Bond Lv 10 with 1 horsegirl",
         "100942": "Reach Bond Lv 10 with 3 horsegirls",
         "101101": "Get 15 horsegirls",
@@ -24780,7 +24784,7 @@
         "601011": "Reach Index Level 100",
         "601021": "Clear all daily missions 7 days in a row",
         "601031": "Obtain 100 titles",
-        "601041": "Buy 100 items from the Limited Shop",
+        "601041": "Buy 100 items from time-limited sales.",
         "601101": "Get 15 horsegirls",
         "601102": "Get 100 horsegirls",
         "601201": "Obtain 30 support cards",
@@ -30197,7 +30201,7 @@
         "9278": "Gran Alegria Secret #2",
         "9279": "Loves Only You Secret #2",
         "9280": "Chrono Genesis Secret #2",
-        "9281": "Curren Bouquetd'Or Secret #2"
+        "9281": "Curren Bouquetd'or Secret #2"
     },
     "69": {
         "1": "Urban baptism?",
@@ -51625,7 +51629,9 @@
         "43": "Affected by {0}\n<color=#FF6D26>Challenge Zone</color> will prevent {0}.",
         "44": "Friendship Gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\nFriend and group types excluded.",
         "45": "<atlas=SingleModeScenarioPioneer sprite=utx_ico_pioneer_resource_s_00/> Dev Pt<color=#FF6D26>+{0}</color>",
-        "46": "All support cards' specialty rate <color=#FF6D26>+{0}</color> next turn.\nFriend and group types excluded."
+        "46": "All support cards' specialty rate <color=#FF6D26>+{0}</color> next turn.\nFriend and group types excluded.",
+        "48": "<atlas=SingleModeScenarioOnsen sprite=utx_ico_onsen_bathing_ticket_00/> Bath Tickets <color=#FF6D26>+{0}</color>",
+        "49": "Super Recovery can start occurring"
     },
     "397": {
         "1": "Yukoma Spring",
