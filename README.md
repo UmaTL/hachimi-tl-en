@@ -1,5 +1,5 @@
 # Umamusume English Translations
-[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/xBMgwh6hHY)
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/agKWcH8zJq?style=flat-square)](https://discord.gg/agKWcH8zJq)
 
 English fan translation repository for the Umamusume: Pretty Derby game.
 This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
