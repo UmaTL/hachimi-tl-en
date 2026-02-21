@@ -1,0 +1,28 @@
+{
+  "windows": {
+    "bundle_name": "6MISNHMZYSBJ6LMMPXJJ7OQHITCTTKWI"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "4": {
+          "_name_": "txt_message00",
+          "text_param_list": {
+            "0": {
+              "scale": {
+                "x": 0.85,
+                "y": 0.85,
+                "z": 1.0
+              },
+              "position_offset": {
+                "x": -128,
+                "y": 16,
+                "z": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
