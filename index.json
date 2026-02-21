@@ -11549,6 +11549,11 @@
       "size": 2995
     },
     {
+      "path": "assets/uianimation/flashcombine/action/campaign/valentine/fa_cnp_valentine_messagecard00.json",
+      "hash": "c73f1efe13cbd1430213689b50b379311f0ad535d0cded68ffac40420018e2c7",
+      "size": 544
+    },
+    {
       "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
       "hash": "81b3117b1f606545288703dd3b164547bcd0ebf7c1dac8d3b0632a05f98230bb",
       "size": 1123
@@ -11585,8 +11590,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "20bc584183382467da70735f5cb0403071472dbc6623095056a0e645841e4a73",
-      "size": 292588
+      "hash": "6f0508530da818e6379d41e8b2eb0b64b47f3b66bcd89123db4117ec57d6516d",
+      "size": 293114
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11600,8 +11605,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "23a8e596625d85d9013919303aa5a13352fc42d9cb511dd6b82191ed0d90127d",
-      "size": 3001962
+      "hash": "15906be0cb0bebb268039f0879e2167bfc2a61303e8645432cce28f90cb0e7d4",
+      "size": 2997527
     }
   ]
 }
