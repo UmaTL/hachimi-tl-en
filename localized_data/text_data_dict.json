@@ -52403,22 +52403,30 @@
         "1006": "Haiseiko's Guidance"
     },
     "388": {
-        "1001": "Partake in suitable races when target race's fan requirement is not met.",
-        "1002": "Partake in suitable races when fan target is not met.",
-        "1003": "Partake in suitable races when target race's minimum race requirement is not met.",
-        "1004": "Partake in suitable races when no race has been won yet.",
-        "10001": "Partake in suitable races when target race's fan requirement is not met.",
-        "10002": "Partake in suitable races when fan target is not met.",
-        "10003": "Partake in suitable races when target race's minimum race requirement is not met.",
-        "10004": "Partake in suitable races when no race has been won yet.",
-        "11001": "Partake in suitable races when target race's fan requirement is not met.",
-        "11002": "Partake in suitable races when fan target is not met.",
-        "11003": "Partake in suitable races when target race's minimum race requirement is not met.",
-        "11004": "Partake in suitable races when no race has been won yet.",
-        "12001": "Partake in suitable races when target race's fan requirement is not met.",
-        "12002": "Partake in suitable races when fan target is not met.",
-        "12003": "Partake in suitable races when target race's minimum race requirement is not met.",
-        "12004": "Partake in suitable races when no race has been won yet."
+        "1001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "1002": "Enter suitable races when\nfan target is not met.",
+        "1003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "1004": "Enter suitable races when\nno race has been won yet.",
+        "2001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "2002": "Enter suitable races when\nfan target is not met.",
+        "2003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "2004": "Enter suitable races when\nno race has been won yet.",
+        "10001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "10002": "Enter suitable races when\nfan target is not met.",
+        "10003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "10004": "Enter suitable races when\nno race has been won yet.",
+        "11001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "11002": "Enter suitable races when\nfan target is not met.",
+        "11003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "11004": "Enter suitable races when\nno race has been won yet.",
+        "12001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "12002": "Enter suitable races when\nfan target is not met.",
+        "12003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "12004": "Enter suitable races when\nno race has been won yet.",
+        "13001": "Enter suitable races when\ntarget race's fan requirement is not met.",
+        "13002": "Enter suitable races when\nfan target is not met.",
+        "13003": "Enter suitable races when target race's\nminimum race requirement is not met.",
+        "13004": "Enter suitable races when\nno race has been won yet."
     },
     "390": {
         "10001": "Darley Arabian's Training",
@@ -52427,9 +52435,15 @@
         "100001": "Darley Arabian's Training",
         "100002": "Godolphin Barb's Training",
         "100003": "Byerley Turk's Training",
+        "110001": "Darley Arabian's Training",
+        "110002": "Godolphin Barb's Training",
+        "110003": "Byerley Turk's Training",
         "120001": "Darley Arabian's Training",
         "120002": "Godolphin Barb's Training",
-        "120003": "Byerley Turk's Training"
+        "120003": "Byerley Turk's Training",
+        "130001": "Darley Arabian's Training",
+        "130002": "Godolphin Barb's Training",
+        "130003": "Byerley Turk's Training"
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -52438,12 +52452,24 @@
         "100001": "Fairly balanced.",
         "100002": "Skill focus.",
         "100003": "Stat focus.",
+        "110001": "Fairly balanced.",
+        "110002": "Skill focus.",
+        "110003": "Stat focus.",
         "120001": "Fairly balanced.",
         "120002": "Skill focus.",
-        "120003": "Stat focus."
+        "120003": "Stat focus.",
+        "130001": "Fairly balanced.",
+        "130002": "Skill focus.",
+        "130003": "Stat focus."
     },
     "392": {
-        "100005": "Pause to select teachings manually"
+        "10005": "Pause for legacy inheritance",
+        "100005": "Pause to select teachings manually",
+        "100009": "Pause for legacy inheritance",
+        "110008": "Pause for legacy inheritance",
+        "120006": "Pause for legacy inheritance",
+        "130005": "Pause at Strategy Meetings\nfor manual Team Stats selection",
+        "130006": "Pause for legacy inheritance"
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -52489,6 +52515,7 @@
         "44": "Friendship Gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\nFriend and group types excluded.",
         "45": "<atlas=SingleModeScenarioPioneer sprite=utx_ico_pioneer_resource_s_00/> Dev Pt<color=#FF6D26>+{0}</color>",
         "46": "All support cards' specialty rate <color=#FF6D26>+{0}</color> next turn.\nFriend and group types excluded.",
+        "47": "$(scale 90)Increases the Dream Gauge of team members \n<color=#FF6D26>{0} times</color>, starting with the lowest ones.",
         "48": "<atlas=SingleModeScenarioOnsen sprite=utx_ico_onsen_bathing_ticket_00/> Bath Tickets <color=#FF6D26>+{0}</color>",
         "49": "Super Recovery can start occurring",
         "55": "Skill Pt<color=#2E85E6>-{0}</color>"
@@ -52653,6 +52680,18 @@
         "1040001": "Recover from Insomnia, Rough Skin, Migraine",
         "1070000": "Trigger a Hint twice",
         "1080000": "Max energy temporarily raised to 150"
+    },
+    "410": {
+        "10001": "Don't retry races requiring unsuitable aptitudes",
+        "10002": "Don't retry races below G1",
+        "100001": "Don't retry races requiring unsuitable aptitudes",
+        "100002": "Don't retry races below G1",
+        "110001": "Don't retry races requiring unsuitable aptitudes",
+        "110002": "Don't retry races below G1",
+        "120001": "Don't retry races requiring unsuitable aptitudes",
+        "120002": "Don't retry races below G1",
+        "130001": "Don't retry races requiring unsuitable aptitudes",
+        "130002": "Don't retry races below G1"
     },
     "411": {
         "1": "Unset",
@@ -52965,5 +53004,12 @@
         "7": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Turf Mile</color> route.",
         "8": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Dirt Mile</color> route.",
         "9": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Turf Mile/Medium</color> route."
+    },
+    "457": {
+        "1": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
+        "2": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
+        "3": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
+        "4": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)",
+        "5": "$(scale 90)Increases the Dream Gauge of team members \nby 1, starting with the lowest ones. (max 3 times)"
     }
 }
