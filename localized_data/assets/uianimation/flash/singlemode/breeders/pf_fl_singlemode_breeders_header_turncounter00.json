@@ -1,0 +1,51 @@
+{
+  "windows": {
+    "bundle_name": "DSK5Y7L4JD3FELGFJH7TNENUL6S3VHML"
+  },
+  "data": {
+    "motion_parameter_list": {
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "Turns"
+          }
+        }
+      },
+      "12": {
+        "text_param_list": {
+          "0": {
+            "text": "End"
+          }
+        }
+      },
+      "13": {
+        "text_param_list": {
+          "0": {
+            "text": "Review after\nturn end"
+          }
+        }
+      },
+      "16": {
+        "text_param_list": {
+          "0": {
+            "text": "turn(s)"
+          }
+        }
+      },
+      "17": {
+        "text_param_list": {
+          "0": {
+            "text": "Review in"
+          }
+        }
+      }
+    }
+  }
+}
