@@ -11109,6 +11109,11 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/breeders/pf_fl_singlemode_breeders_header_turncounter00.json",
+      "hash": "90a236b86924a2b1b326a7a6d0a8c0590d9653bea6d09d8c8338dd34e8214f5b",
+      "size": 861
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/cook/pf_fl_singlemode_cook_badge_garden_reinforcement00.json",
       "hash": "b411e2d376fe9f39cb77182bb58c4f3daffebe0b52ed2af5c15a8ca9dce59d9f",
       "size": 166
@@ -11575,8 +11580,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "505a043bfe2717e1f470a9b659c429ec55cfab6a8095ff41e318cb23e95ea762",
-      "size": 11922
+      "hash": "93866f0b7dcec8eb6593e5a13c384ae2a20484a4b907e792176e8eff88655959",
+      "size": 12036
     },
     {
       "path": "includes_android",
@@ -11590,8 +11595,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "675c47806a54c5b2d5fcc36301a592e929fbc33c63e21593946ea5b42e4c61cb",
-      "size": 304820
+      "hash": "b719876cd6d1c398fb417880a8c99dbccbbda5d4bc6059fcfbaf781186acba77",
+      "size": 306047
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11605,8 +11610,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "58273279320d9647a2c56db9d450cc5f5e4e19a1d26348b30c574af06a8553fd",
-      "size": 3044430
+      "hash": "274d86a23d100aafd6be4aef09f61967b0c19c2b7be1afdbe8a93a5500789cdf",
+      "size": 3068020
     }
   ]
 }
