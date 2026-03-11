@@ -43964,7 +43964,11 @@
         "869": "Items obtained in Careers doubled.",
         "886": "Gain 1 extra ticket each day",
         "889": "Get 3 extra tickets each day.",
-        "890": "Items obtained in Careers doubled."
+        "890": "Items obtained in Careers doubled.",
+        "966": "Increase Bond gained from Nationwide Events.",
+        "969": "Greatly increase Bond gained from Nationwide Events.",
+        "993": "Increase Bond gained from Nationwide Events.",
+        "1020": "Greatly increase Bond gained from Nationwide Events."
     },
     "189": {
         "1001": "Chase Your Dreams",
@@ -51789,8 +51793,10 @@
         "4": "・Perfectly preparing a dish grants a skill hint. \n・Perfect dishes gain an additional effect. \n・The added effect varies per dish. \n・The Cooking Gauge fills by the received Cooking Pt. \n・A full gauge guarantees a perfect dish. \n・The gauge resets afterwards and can be filled again. \n・The Cooking Pt gained from this perfect \ndish carries over after the reset."
     },
     "356": {
+        "1001": "Event\nStory",
         "1002": "Anniversary\nStory",
-        "1003": "Anniversary\nStory"
+        "1003": "Anniversary\nStory",
+        "1004": "Event\nStory"
     },
     "357": {
         "1": "Fan Meeting",
@@ -51820,7 +51826,15 @@
         "1025": "Fall Into Colors",
         "1026": "Fall Into Colors",
         "1027": "Fall Into Colors",
-        "1028": "Fall Into Colors"
+        "1028": "Fall Into Colors",
+        "1029": "Special Celebration Event",
+        "1030": "Special Celebration Event",
+        "1031": "Special Celebration Event",
+        "1032": "Special Celebration Event",
+        "1033": "Special Celebration Event",
+        "1034": "Special Celebration Event",
+        "1035": "Special Celebration Event",
+        "1036": "Special Celebration Event"
     },
     "358": {
         "1": "Storage size: ",
@@ -51940,7 +51954,8 @@
     },
     "360": {
         "1007": "[Breaking News] Unidentified flying golden boat photographed heating up the event at <jobs_placename>.",
-        "1067": "It was a great event, everyone at <jobs_placename> was overjoyed♪"
+        "1067": "It was a great event, everyone at <jobs_placename> was overjoyed♪",
+        "1129": "I'm back from <jobs_placename>. I really pushed myself to make it an amazing event!"
     },
     "362": {
         "1": "Autograph session and photographs for fans!",
