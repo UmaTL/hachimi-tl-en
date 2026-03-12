@@ -3296,7 +3296,7 @@
     "SingleMode0123": "Entrants",
     "SingleMode0125": "Finish $(ordinal {1}) in {0}",
     "SingleMode0126": "Finish top {1} in {0}",
-    "SingleMode0127": "<atlas=Single sprite=utx_ico_fun_00/> {0}",
+    "SingleMode0127": "At least {0}",
     "SingleMode0128": "<color=#{1}>$(plural {0} '$ turn' '$ turns')</color> remaining",
     "SingleMode0129": "$(nb)Current",
     "SingleMode0130": "$(scale 70)Target date",
