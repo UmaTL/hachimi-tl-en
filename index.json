@@ -1,7 +1,7 @@
 {
-  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/localized_data",
-  "zip_url": "https://codeload.github.com/UmaTL/hachimi-tl-en/zip/refs/heads/release",
-  "zip_dir": "hachimi-tl-en-release/localized_data",
+  "base_url": "https://raw.githubusercontent.com/Sofyanra/hachimi-tl-en/main/localized_data",
+  "zip_url": "https://codeload.github.com/Sofyanra/hachimi-tl-en/zip/refs/heads/main",
+  "zip_dir": "tl-en-main/localized_data",
   "files": [
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
