@@ -1,167 +1,185 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The first \"Fantasy Memorial\". It will be \nhosted by me, Fortune Telling Obaba."
-        },
-        {
-            "text": "Oooh, suddenly I have an ominous feeling: ……! Now, all the \nhorsegirls, all at once―"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hey, hey, hey～! Glass! The gate won't open!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "This is a…… locking spell! Is it anything early!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Lower magic, unlock! Go, Elle!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oh, oh, oh, thank God! Wait, King Uma!"
-        },
-        {
-            "text": "Summon the bear! Get 'em, yahoos!"
-        },
-        {
-            "text": "Uma! Uma-uma!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oh, absolutely, hopelessly, besieged! But I will break through! \nCondor martial arts!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Taaah! Teeeeeeeeeeeeee! To-Yaaaah!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Geez, geez, my stamina is ……!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Recovery!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oooh, nice follow-up, Glass! I'm getting a much better idea of \nhow to attack this race!"
-        },
-        {
-            "text": "Damn you, you useless bastards! Well, \nthen, I'll clean up the mess myself!"
-        },
-        {
-            "text": "Doryaaaah! Eat me! Earthquake!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I won't let you! Movement at a moment's notice!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oh, thank God! All at once while we still can!"
-        },
-        {
-            "text": "You can't let her go! This is where it starts!"
-        },
-        {
-            "text": "O pickle stone, come down from the great universe! Meteor！！！！！！"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I won't let you! Defensive spell \"Holy Barrier\"!"
-        },
-        {
-            "text": "That's ridiculous! I'll smash you all \ntogether! The Great Meteor Swarm！！！！！！"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Aaahhhh!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Que? Is this ……? Elle got beat up and \ncame to heaven? Sorry about that. ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Elle! What is the matter with you that you are dying! This is no \ntime to play at Umadegard."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Totally Susheng!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Not yet!"
-        },
-        {
-            "text": "What, she's back from the dead? I'm going \nto clean out the healer's glass."
-        },
-        {
-            "text": "Wooooooooooo! Dark celestial bullets!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Aaaaah!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Glass ahhh!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Elle…… don't come! Uma Musume has more important things to…… than \nthe lives of her friends, don't you?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Go. We can't help you recover anymore, \nbut we're putting our hope…… in you ……"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Glassy!!!!"
-        },
-        {
-            "text": "Ha-ha-ha-ha, while you're doing your sob story, go ahead!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Woah woah woah, I'll wait dace!"
-        },
-        {
-            "text": "What is it? What is this acceleration? \nMy skills should be exhausted, but why!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "No skill is needed! No matter what the race, the last magic of \nUma Musume is always in the end."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "My \"leg strength\" and \"physical strength\"!"
-        },
-        {
-            "text": "Gooooooooooooooooooooooo, silly!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Against all obstructions! With the thoughts \nof our fallen friends! What is it that the \nhorse girl seeks at the risk of her life?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Only one thing! VictoryDeath: ！！！！！"
-        },
-        {
-            "text": "(Waaaaaaaaaaaaaaaaaaaaaaaaah!!!)"
-        },
-        {
-            "text": "Oh, the finish line! Elcon d'Orpasar wins! I can see it clearly, \neven in my grandmother's eyes!"
-        },
-        {
-            "text": "You saw it all along!"
-        },
-        {
-            "text": "Damn!!! I may have lost, but I'm not going to…… become just \nanother corpse. Watch me!"
-        }
-    ]
+  "title": "The First Fantasy Kinen",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mystic Granny",
+      "text": "Welcome all to the First Fantasy Kinen. I'm Mystic Granny, \nand I'll be your commentator for today."
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "Oh, but suddenly I am filled with a sense of foreboding…!\nCome, horsegirls. Altogether now…"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Huh? What's going on? Grass! My starting gate won't open!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Is this… an arcane lock spell? Is that allowed?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I'll just cast Unlock. Now go! Hurry, El!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Whoa, you're a lifesaver! Okay. Imma get you, Horse Lord!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Welp, guess I'll just summon my Horse Minions! \nGo get 'em, guys!"
+    },
+    {
+      "name": "Horse Minions",
+      "text": "Honse! Honse, Honse!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Yikes, that's no bueno! I'm completely surrounded, but I'll try \nand break through with my Condor fighting techniques!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Hiyaaah! Hiyooooh! Wataaaah!</i>\n"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Pant… Pant…</i> I'm running outta steam!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Greater Heal!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Thanks for the backup, Grass! I'm starting to get \nthe hang of this pattern!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Fiddlesticks! Useless cronies! \nGuess this is a job only a lord can finish!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "<i>Hiyaaah!</i> Eat this! Earthquake!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "I won't let you do that! Portal Shift!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ohh, you saved me! Let's finish this, once and for all!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "You won't get away with this! The real race starts now!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Picklestones! Descend from the vast cosmos! Meteor Strike!!!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Not on my watch! I'll shield us — Holy Barrier!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Crafty, aren't we? I'll have to kick it up a notch, then! \nMeteor Storm!!!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Gaaaaaah!</i>\n"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Huh? Where am I now? Did I get one-shotted? That suuucks…"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "You can't die, El! This isn't the time \nto be messing around in Umadegard!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Full Revival!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I'm ready for more!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "What? You're back from the dead? Seems like I'd better \nprioritize taking out Grass first."
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "<i>Haaaaah!</i> Dark Celestial Orb!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Gyaaaaah!</i>\n"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Graaaaass!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El… don't look back! Horsegirls run for something… \nmore precious than a friend's life, right?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "So go on without me. I may not be able to heal you anymore, \nbut I can give you… my hope."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "GRASS!!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Hahaha! While you're busy with that \npity party of yours, I'll be on my way!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Noooo! Stop right there!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "What?! How are you accelerating so fast?! \nI thought you'd used up all your skills!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "I don't need any fantasy skills! This is a race, \nthe place where a horsegirl's true magic shines!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "What matters most is power and endurance!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Whoooaaa! Impossible!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No obstacle can hold us back! Carrying the hopes of our \nfallen friends, us horsegirls will put our lives on the line! \nAll for one thing…"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "And one thing alone! VICTORY!!!"
+    },
+    {
+      "text": "(<i>Wooooo!</i>)"
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "And she's crossed the finish line! El Condor Pasa \ntakes the win! I can see it crystal clear, even with \nmy poor eyesight!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Pretty sure your eyesight has been fine this entire time!"
+    },
+    {
+      "name": "Horse Lord Golshi",
+      "text": "Darn it! I lost… But I live to fight another day! \nJust you wait and see!"
+    }
+  ]
 }
