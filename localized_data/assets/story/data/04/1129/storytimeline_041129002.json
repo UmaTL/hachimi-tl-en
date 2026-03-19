@@ -1,0 +1,162 @@
+{
+  "title": "Glittering Eyes Seeking Victory",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rookie Trainer",
+      "text": "Huh, you're here already!? And in the front row! \nWait, you've been at like every mock race haven't you? Crazy.",
+      "choice_data_list": [
+        "I just really wanted to watch",
+        "I just really wanted to watch"
+      ]
+    },
+    {
+      "text": "This was a necessary step to finding a partner Uma Musume. \nI was watching the race with a notepad in hand……and then, one day——"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "And so it begins, a special showdown! With Uma Musume who have \nand haven't debuted yet, as well as a special guest from overseas!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fuuu-. ……Alright!",
+      "choice_data_list": [
+        "(It's Almond Eye……!)"
+      ]
+    },
+    {
+      "name": "Event Commentator",
+      "text": "——And now it starts!"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "They're off to a scattered start. After a slightly delayed start, \nAlmond Eye is positioned about 10 lengths behind the lead——"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "Almond Eye continues to monitor the front. ——Now, moving in \nto the final straight, the first to make their move is……!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Right, heeeeeeeeerrre!!"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "Here comes Almond Eye! Almond Eye, it's Almond Eye! \nCan the three in front hold off her attack? Just a little longer——"
+    },
+    {
+      "name": "Event Commentator",
+      "text": "None of them hold back! And surging out front is the runner \nfrom overseas! She pulls further, and further ahead and——Goal in!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Fourth……!!",
+      "choice_data_list": [
+        "So close……!",
+        "So close……!"
+      ]
+    },
+    {
+      "name": "Rookie Trainer",
+      "text": "Yeah, but against that lineup…… Against girls who have \nalready debuted, and that one from overseas, is already \nsuper tough. To still come in fourth is great isn't it?",
+      "choice_data_list": [
+        "That's true, I guess"
+      ]
+    },
+    {
+      "text": "Generally, it's rare for a pre-debut Uma Musume to be able to beat \na post-debut one. Usually, they'd be happy just to place well——"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "……I couldn't reach them at all……! \nNot in drive, or stamina, none of it!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Even though——there should have been more I could do……! \n～～～Aaah, geez……!",
+      "choice_data_list": [
+        "(To think she'd be this frustrated……)"
+      ]
+    },
+    {
+      "text": "——The next week's mock race."
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Haa……haa! Thank you for the rematch!"
+    },
+    {
+      "name": "Tiara-Seeking Horsegirl",
+      "text": "Likewise. But……I can hardly believe how much stronger \nyou've become in such a short time. It was a splendid victory."
+    },
+    {
+      "name": "Tiara-Seeking Horsegirl",
+      "text": "Someday I'll get payback for this loss——in the Twinkle Series. \nLet's meet again."
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Yes, I'll be looking forward to it! \nSo that I don't lose to you, I'll keep polishing my strength!"
+    },
+    {
+      "text": "I think that girl was second……Last week, she was one of \nthe girls that defeated Almond Eye, if I remember correctly.",
+      "choice_data_list": [
+        "(So she was able to get revenge)",
+        "(So she was able to get revenge)"
+      ]
+    },
+    {
+      "text": "That she had such a desire for victory caught me by surprise. \nThen, in the following week——"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "It's been a while, I'm Almond Eye. \nI look forward to working with you today!"
+    },
+    {
+      "text": "The girl that Almond Eye was shaking hands with was a Senior \nclass Tiara Uma Musume that she had lost to in that mock race.",
+      "choice_data_list": [
+        "(…………Hm?)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I won't! Let you pass me! \nJust like this……!!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I will winーーー!!"
+    },
+    {
+      "text": "That Tiara Uma Musume remained in second place as \nAlmond Eye pulled further and further away—— \nShe took an overwhelming victory over her opponent……!"
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Haa! Haa! Haa! ……Fuu……! \nYou're really strong. But——I won……! I was able to win!"
+    },
+    {
+      "text": "……——It was hard to believe she was running in consecutive races. \nShe brilliantly overcame her rivals, showing her incredible potential."
+    },
+    {
+      "text": "But rather than that, was she——",
+      "choice_data_list": [
+        "(Rematching all 3 that beat her?)"
+      ]
+    },
+    {
+      "text": "It wasn't completely outside the realm of \npossibility. Though, the last one was an overseas \nUma Musume who was only here for that previous event."
+    },
+    {
+      "text": "In terms of their level, she would be extremely \nhard to beat, and she was probably back home now.",
+      "choice_data_list": [
+        "(It's probably……not gonna happen)",
+        "(It's probably……not gonna happen)"
+      ]
+    },
+    {
+      "name": "Almond Eye",
+      "text": "Good afternoon! Sorry for being so sudden. We talked before at \nthe riverbank, I'm Almond Eye. And, well……I have a favor to ask."
+    },
+    {
+      "name": "Almond Eye",
+      "text": "I want to go overseas to have a revenge match. And so…… \nWould you be able to accompany me as my chaperone while traveling……?"
+    }
+  ]
+}
