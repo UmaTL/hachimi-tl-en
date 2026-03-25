@@ -4,7 +4,7 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "Some time has passed since Buena\nVista began full-scale training for her\nMake Debut.",
+            "text": "Some time has passed since Buena Vista\nbegan full-scale training for her Make Debut.",
             "choice_data_list": [
                 "Next is interval training.",
                 "Next is interval training."
@@ -19,7 +19,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Today's interval training involves\nalternating between 200m jogging and\nsprinting.\nFirst, the jog, and then..."
+            "text": "Today's interval training involves alternating\nbetween 200m jogging and sprinting.\nFirst, the jog, and then..."
         },
         {
             "name": "Buena Vista",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Her sprinting speed is as impressive\nas ever, and she's steadily improving.\nHer running feels limitless...",
+            "text": "Her sprinting speed is as impressive as ever,\nand she's steadily improving. Her running\nfeels limitless...",
             "choice_data_list": [
                 "(She's always been extremely talented...)"
             ]
@@ -41,14 +41,14 @@
         },
         {
             "name": "Trainer B",
-            "text": "Yeah. No matter what path she takes...\nshe's bound to be the center of attention.",
+            "text": "Yeah. No matter what path she takes... she's\nbound to be the center of attention.",
             "choice_data_list": [
                 "(The path Buena takes...)"
             ]
         },
         {
             "name": "Monologue",
-            "text": "We haven't gone over the details yet.\nBut I know the view she wants to reach.\nThat would be--"
+            "text": "We haven't gone over the details yet.\nBut I know the view she wants to reach.\nThat would be..."
         },
         {
             "name": "Special Week",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Special Week. A senior Umamusume\nwith many great victories.\nAmong them..."
+            "text": "Special Week. A senior Umamusume with\nmany great victories. Among them..."
         },
         {
             "name": "Announcer",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Announcer",
-            "text": "She defeated even the\nPrix de l'Arc de Triomphe Umamusume,\nand with absolute authority...!\nShe wins the Japan Cup!!",
+            "text": "She defeated even the\nPrix de l'Arc de Triomphe Umamusume, and\nwith absolute authority...!\nShe wins the Japan Cup!!",
             "color_text_info_list": [
                 "Prix de l'Arc de Triomphe",
                 "Japan Cup"
@@ -93,7 +93,7 @@
         },
         {
             "name": "Monologue",
-            "text": "With Buena Vista, we watched it in\nperson. Surrounded by excitement, shock,\nand awe... we both said the same thing."
+            "text": "With Buena Vista, we watched it in person.\nSurrounded by excitement, shock, and awe...\nWe both said the same thing."
         },
         {
             "name": "Buena Vista",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Monologue",
-            "text": "The one who gave us that dazzling\ndream... was Special Week."
+            "text": "The one who gave us that dazzling dream...\nwas Special Week."
         },
         {
             "name": "Buena Vista",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Monologue",
-            "text": "While taking a break, we flip through\nthe magazine Special Week brought\nalong..."
+            "text": "While taking a break, we flip through the\nmagazine Special Week brought along..."
         },
         {
             "name": "Special Week",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Look! Even before debut, you're the\nonly one with a full page～!",
+            "text": "Look! Even before debut, you're the only\none with a full page～!",
             "choice_data_list": [
                 "You're right, that's amazing...!",
                 "You're right, that's amazing...!"
@@ -187,14 +187,14 @@
         },
         {
             "name": "Monologue",
-            "text": "Special Week followed this path and\nwon the Japan Derby, a dream for\neveryone in racing.",
+            "text": "Special Week followed this path and won the\nJapan Derby, a dream for everyone in racing.",
             "choice_data_list": [
                 "(And the other main route is...)"
             ]
         },
         {
             "name": "Special Week",
-            "text": "The Oka Sho, Oaks, and Shuka Sho!\nThose three together are called the\nTriple Tiara route!",
+            "text": "The Oka Sho, Oaks, and Shuka Sho!\nThose three together are called the Triple\nTiara route!",
             "color_text_info_list": [
                 "Oka Sho",
                 "Oaks",
@@ -211,7 +211,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"Sweep Tosho, the first Tiara Umamusume\nin 39 years to win the Takarazuka Kinen,\nhas ushered in a new 'Tiara' era...\"",
+            "text": "\"Sweep Tosho, the first Tiara Umamusume\nin 39 years to win the Takarazuka Kinen, has\nushered in a new 'Tiara' era...\"",
             "color_text_info_list": [
                 "Tiara Umamusume",
                 "Takarazuka Kinen",
@@ -220,14 +220,14 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"Vodka, who became the first Tiara\nUmamusume in 64 years to win the\nJapan Derby...\"",
+            "text": "\"Vodka, who became the first Tiara\nUmamusume in 64 years to win the Japan\nDerby...\"",
             "color_text_info_list": [
                 "Vodka"
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "\"Daiwa Scarlet, who beat her in the\nShuka Sho and placed second in the\nArima Kinen, has helped define a new\ngeneration...\"",
+            "text": "\"Daiwa Scarlet, who beat her in the Shuka\nSho and placed second in the Arima Kinen,\nhas helped define a new generation...\"",
             "color_text_info_list": [
                 "Arima Kinen",
                 "Daiwa Scarlet"
@@ -235,7 +235,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"...In other words, this is an era where\nTiara route Umamusume are strong!\"\n...Wow～!"
+            "text": "\"...In other words, this is an era where Tiara\nroute Umamusume are strong!\"\n...Wow～!"
         },
         {
             "name": "Special Week",
@@ -243,11 +243,11 @@
         },
         {
             "name": "Special Week",
-            "text": "\"Buena Vista already stands out with\nher dazzling presence at the academy.\nHopefully, this incredibly promising\nUmamusume will...\""
+            "text": "\"Buena Vista already stands out with her\ndazzling presence at the academy. Hopefully,\nthis incredibly promising Umamusume will...\""
         },
         {
             "name": "Special Week",
-            "text": "\"...shine on the Tiara route. And, as a\n'Heroine of the era,' I hope she will\nexcite the Umamusume world further.\""
+            "text": "\"...shine on the Tiara route. And, as a\n'Heroine of the era,' I hope she will excite\nthe Umamusume world further.\""
         },
         {
             "name": "Buena Vista",
@@ -259,7 +259,7 @@
         },
         {
             "name": "Special Week",
-            "text": "But I see! Buena, you're aiming for the\nTiara route, right?"
+            "text": "But I see! Buena, you're aiming for the Tiara\nroute, right?"
         },
         {
             "name": "Buena Vista",
@@ -267,7 +267,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Now that I think about it, it suits you\nperfectly! I'd love to see you become\nthe heroine of your era♪",
+            "text": "Now that I think about it, it suits you\nperfectly! I'd love to see you become the\nheroine of your era♪",
             "choice_data_list": [
                 "Actually, we haven't decided on a goal."
             ]
@@ -286,7 +286,7 @@
         },
         {
             "name": "Monologue",
-            "text": "The public is very excited about\nthe Tiara route. I understand they're\nexpecting a new heroine, but...",
+            "text": "The public is very excited about the Tiara\nroute. I understand they're expecting a new\nheroine, but...",
             "choice_data_list": [
                 "(Buena's own wishes come first.)",
                 "(Buena's own wishes come first.)"
@@ -294,7 +294,7 @@
         },
         {
             "name": "Monologue",
-            "text": "After training, I asked her again about\nher goals moving forward..."
+            "text": "After training, I asked her again about her\ngoals moving forward..."
         },
         {
             "name": "Buena Vista",
@@ -316,7 +316,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Our inspiration is Spe.\nSo naturally, I thought she'd follow in\nher footsteps..."
+            "text": "Our inspiration is Spe.\nSo naturally, I thought she'd follow in her\nfootsteps..."
         },
         {
             "name": "Buena Vista",
@@ -340,22 +340,22 @@
         },
         {
             "name": "Buena Vista",
-            "text": "\"A breathtaking view that reaches\neveryone\"—Carrying as many hopes\nand dreams as possible, and reaching it\ntogether... that's our dream."
+            "text": "\"A breathtaking view that reaches everyone\"\n—Carrying as many hopes and dreams as\npossible, and reaching it together... that's\nour dream."
         },
         {
             "name": "Buena Vista",
-            "text": "So I want to walk the path people\nbelieve in. Because that's where the\nview we seek must be."
+            "text": "So I want to walk the path people believe in.\nBecause that's where the view we seek must\nbe."
         },
         {
             "name": "Buena Vista",
-            "text": "...If people place their hopes in me,\nI want to answer them.\nBecause their dreams are my dreams too!",
+            "text": "...If people place their hopes in me, I want to\nanswer them. Because their dreams are my\ndreams too!",
             "choice_data_list": [
                 "(Ah...)"
             ]
         },
         {
             "name": "Monologue",
-            "text": "Buena Vista's eyes shine with\ndetermination. While others chase only\ntheir own dreams... she embraces others'\nhopes without hesitation.",
+            "text": "Buena Vista's eyes shine with determination.\nWhile others chase only their own dreams...\nshe embraces others' hopes without a single\nhesitation.",
             "choice_data_list": [
                 "(She really is amazing...)",
                 "(She really is amazing...)"
