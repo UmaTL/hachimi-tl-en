@@ -1,0 +1,74 @@
+{
+  "title": "Extra Training",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "<i>Fuu!</i> With this, today's training menu \nis complete huh."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It was pretty effective ー…<i>Hm?</i>"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Hmm… As I thought it's a suitable inclined \nroad. There's even an athletic park nearby…"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yo Ikuno. What are you looking at?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Stego, good work today. The other day, \nI found a good training spot."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "A long, unpaved inclined road that's gentle \non the legs. A hill riddled with stairs and \nbare dirt etc… The view is good too so it's \nperfect for training."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "I was thinking of going now so \nI was just confirming the route."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, that kind of place…! It seems real \ninteresting! Could I tag along?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Most certainly, I do not mind. A \ncompanion would make this trip \nmost reassuring."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Though, this is only on the condition \nthat you are not already overworked. \nMay I ask about your condition?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That's not the case at all right? Trainer?",
+      "choice_data_list": [
+        "No worries, I'll see you later!",
+        "Nah, you should rest today"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright! Then let's get going. I'm looking \nforward to this! If it's Ikuno's plan, then \nit'll be perfect."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Fufu, thank you very much. Now then, \nlet's get this training on the way!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "True, I am feeling weary."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "We cannot be having that then. You should \nmake sure your health comes first."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I can't say no to that, guess I'm looking \nout for myself today. Be my guide next \ntime will you."
+    }
+  ]
+}
