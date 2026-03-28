@@ -1,0 +1,33 @@
+{
+  "title": "Fully Rested!",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "Oh, Trainer, I'm looking forward \nto today's training.",
+      "choice_data_list": [
+        "It's like you're overflowing with motivation",
+        "It's like you're overflowing with motivation"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah<i>,</i> I went to a racecourse \non my outing yesterday."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A thought popped into my \nhead while I was there."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That it's no fun to lose to someone \nyou already lost to once before."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I want to have a fun journey this time. \nDon't you want to see a scenery you've \nnever seen before?"
+    },
+    {
+      "text": "It seems that Stay Gold enjoyed \na motivating day off."
+    }
+  ]
+}

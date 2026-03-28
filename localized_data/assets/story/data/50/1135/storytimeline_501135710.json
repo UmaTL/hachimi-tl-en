@@ -1,0 +1,46 @@
+{
+  "title": "Defeat",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hmm…</i> I went ahead and lost."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I couldn't run as well as I thought I could. \nIf only I tried harder out there…",
+      "choice_data_list": [
+        "There are days like this",
+        "Let's stay focused…!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Is that so… Thanks."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's true… you have a point. I can reflect \nupon this all I want, but in the end, it's \nall just \"a matter of chance.\""
+    },
+    {
+      "name": "Stay Gold",
+      "text": "If I start demanding for all the reasons \nI lost, then that would be far too \narrogant of me."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright…! I'm going to properly rest \ntoday, and I'll be feeling chipper \nagain by tomorrow."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. If this goes on, it'll become boring."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Let's win the next one and laugh \ntogether. For that sake…"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "You're gonna have to be strict on me. \nI'll surmount any headwind that blows \nmy way."
+    }
+  ]
+}

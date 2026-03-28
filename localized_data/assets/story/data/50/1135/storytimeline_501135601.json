@@ -1,0 +1,25 @@
+{
+  "title": "This Time For Sure!",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "It's finally time. Haha, I'm excited for this."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Lots of interesting folk are gathered today, \nI think it's going to be a fun race.",
+      "choice_data_list": [
+        "Are your nerves alright?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Of course. None of our training was for \nshow right? What are you getting all \ntense for?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I can't repeat what happened last time. \nLook forward to my race for me."
+    }
+  ]
+}
