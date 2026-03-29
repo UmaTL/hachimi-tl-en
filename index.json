@@ -15624,6 +15624,21 @@
       "size": 72851
     },
     {
+      "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.diff.png",
+      "hash": "36ab2c15607a8cbe6bb04866bb139276b7a5f85ef45557ca1ccb0b9d85817f21",
+      "size": 97368
+    },
+    {
+      "path": "assets/textures/transferevent/00002/transfer_event_logo_00002.diff.png",
+      "hash": "f8d78bd87a4c83782c56ffe090f3ed9be7bf0ed702e1cb125d1cf8673d94b31f",
+      "size": 133697
+    },
+    {
+      "path": "assets/textures/transferevent/00004/transfer_event_logo_00004.diff.png",
+      "hash": "ce00cc1d752c7749dc84cdf9261072b70e201c514116a9c3d4b6ad50aa5e56c7",
+      "size": 235635
+    },
+    {
       "path": "assets/textures/uianimation/flash/singlemode/sectionstart/utx_sectionstart_10.png",
       "hash": "fbdc0a99f28e0e4701fa0298f6cba8256580f91c4afc2b1a44be007c07f532f1",
       "size": 323652
@@ -16195,7 +16210,7 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "60194ea4789425f40b724213d9ac1f4c67ec6ebeb49785a58efcb36154630bb4",
+      "hash": "08108d468508f7435015599d8c51a64b4e4818a27dd8a5d5fa5a5740a8b5e16d",
       "size": 404736
     },
     {
@@ -16210,8 +16225,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "ace6300b8b981a6c78aa626717b5f5794cd7ec2a2ff6a3eff149cf856d121895",
-      "size": 3226673
+      "hash": "c65019be5984586a6169f21af037afe98fa322941b30bb1a5a6c2aa6f0aa64d6",
+      "size": 3239901
     }
   ]
 }
