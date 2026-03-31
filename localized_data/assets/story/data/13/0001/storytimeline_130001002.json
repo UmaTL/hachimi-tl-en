@@ -1,93 +1,94 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Copano Rickey",
-            "text": "It's finally happening, Tokyo Mega Ilumi!"
-        },
-        {
-            "name": "Hokko Tarumae",
-            "text": "Wow…… illuminated, totally different vibe than usual ……!"
-        },
-        {
-            "name": "Wonder Acute",
-            "text": "It's safely sparkling. It was worth everyone's effort."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "The highlight of the event is the \"Mega Tree\"!"
-        },
-        {
-            "name": "Wonder Acute",
-            "text": "I collected and decorated so many of them."
-        },
-        {
-            "name": "Hokko Tarumae",
-            "text": "The fruit of everyone's efforts, I'm sure it will be a \nmagnificent photojournalistic tree. ……!"
-        },
-        {
-            "name": "All 3",
-            "text": "Wow ～～～～!"
-        },
-        {
-            "name": "Wonder Acute",
-            "text": "Anrea, well, ……! That's great, shiny, shiny, shiny! ……!"
-        },
-        {
-            "name": "Hokko Tarumae",
-            "text": "Wow, the lights we all decorated are that beautiful…… Oh yes, \npictures! Everyone in Tomakomai needs to see them: ……!"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Ricky☆Lucky☆MegaTree☆Thanks to everyone's hard work!"
-        },
-        {
-            "name": "Inari One",
-            "text": "Whoa, boys. It's good to be admiring the Tree, \nbut I think it's time to get ready for the live show."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Ha, that's right! Thanks Inari!"
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Talmae～! Ms. Acute! Let's go to the waiting room!"
-        },
-        {
-            "name": "Inari One",
-            "text": "Haha! You three girls are so nice to look at!"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Oh. I feel like I was helped a lot this \ntime by the cheerfulness of those three."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Yes☆ Falco's proud trio of juniors…"
-        },
-        {
-            "name": "Inari One",
-            "text": "But still…… what a magnificent \"tsurii\"! It's dazzling to look at."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Finally, the Christmas live performance is in the books☆ Talmae, \nAcute, are you ready?"
-        },
-        {
-            "name": "Hokko Tarumae",
-            "text": "Of course, we're always ready!"
-        },
-        {
-            "name": "Wonder Acute",
-            "text": "We practiced a lot in between helping out. It's perfect."
-        },
-        {
-            "name": "Copano Rickey",
-            "text": "Alright, let's go then! The three of us are going to play a \nChristmas live song―"
-        },
-        {
-            "name": "All 3",
-            "text": "KIRARI MAGIC SHOW\"!"
-        }
-    ]
+  "title": "Ending",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Copano Rickey",
+      "text": "Here we are at last, Tokyo Mega Illumi is <i>on</i>!"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Wow… all the lights totally change the usual vibe!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "The whole area sure is glittering as it should. \nI'm glad our work helped♪"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "And the highlight is of course the Mega Tree!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "We sure managed to find a great deal of \nornaments to decorate it with, didn't we."
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "It's the fruit of our labors! We'll see it \nin many snazzy pics, I bet…!"
+    },
+    {
+      "name": "All 3",
+      "text": "Whoaaa…!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "My goodness… Amazing, isn't it. \nEverything's all glittery and sparkly…"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "Wow, the lights we hung up together really look beautiful… \nOh I almost forgot — pictures! I have to show this to everyone \nin Tomakomai…!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Rickey ☆ Lucky ☆ Mega Tree ☆ \nWe all worked hard for it!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hey, you lot. Admirin' the tree's fine and all, but we got \na concert to prepare for, remember?"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Ah, that's right! Thanks, Inari!"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Tarumae! Acute! We should head to the dressing room!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Hahah! Those three are a joy to watch, huh."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yeah. Their cheerfulness helped a lot."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Yep☆ They're a trio of juniors Falco's very proud of♪"
+    },
+    {
+      "name": "Inari One",
+      "text": "Anyway… this here's one real magnificent tree, huh. \nIt's dazzling to look at."
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Time's come for our Christmas concert☆ \nTarumae, Acute — are you ready?"
+    },
+    {
+      "name": "Hokko Tarumae",
+      "text": "'Course, ready to go any time!"
+    },
+    {
+      "name": "Wonder Acute",
+      "text": "I practiced a bunch in between helping out. \nAll good here♪"
+    },
+    {
+      "name": "Copano Rickey",
+      "text": "Alriiight, off we go then! Let's sing them our Christmas song…"
+    },
+    {
+      "name": "All 3",
+      "text": "KIRARI MAGIC SHOW!"
+    }
+  ]
 }
