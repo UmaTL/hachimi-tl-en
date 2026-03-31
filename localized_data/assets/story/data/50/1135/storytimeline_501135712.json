@@ -1,0 +1,29 @@
+{
+  "title": "Slacking Off…",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "Oh…… Trainer, seems like you found me huh.",
+      "choice_data_list": [
+        "Why did you not come to training?",
+        "Why did you not come to training?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I just couldn't seem to find it in me \ny'know. So I stared at the sky."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's not like I'm feeling dissatisfied with \nanything, nothing like that. Though I \nguess… my whims have been getting a \nlittle impulsive."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It makes sense to be told off. \nSorry I worried you. In fact, \nthanks for coming to find me."
+    },
+    {
+      "text": "It does seem like she slacked off for no \nparticular reason. Any other response may \nhave been dumbfounding but regardless, I \nmade sure to strictly warn her."
+    }
+  ]
+}

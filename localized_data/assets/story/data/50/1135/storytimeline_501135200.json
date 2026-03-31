@@ -1,0 +1,85 @@
+{
+  "title": "Before Debut",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "It's the day of Debut. Speaking of \nStay Gold ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Man～ I got something good. It \nwas worth wandering around."
+    },
+    {
+      "text": "For some reason, she was strolling \naround the racecourse carrying a \nlarge bear print t-shirt, casually \npurchased along the way…",
+      "choice_data_list": [
+        "…Shouldn't we be getting ready?",
+        "…Shouldn't we be getting ready?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Yeah</i>. Getting ready and such isn't all that \nimportant ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A journey is really about the detours you \nmake along the way. Once you get used to \nthat kind of atmosphere, performing well \ncomes naturally.",
+      "choice_data_list": [
+        "…If you say it like that, then I got it"
+      ]
+    },
+    {
+      "text": "…Just like that, Stay Gold casually strolled \naround the racecourse, as much as time \npermitted."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "————"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Yeah. I'm feeling good."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I've got a good grasp on where I am \nright now.",
+      "choice_data_list": [
+        "$(scale 95)…First thing is to go enjoy your debut race!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "——You're right. It's the first race of \nthis journey… I'm gonna enjoy it to \nthe fullest."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well then, I'm off. You enjoy yourself too, \nTrainer."
+    },
+    {
+      "name": "Racing Fan A",
+      "text": "Now then, I wonder what kind of horsegirls \nwill debut today～…… oh ——"
+    },
+    {
+      "name": "Racing Fan A",
+      "text": "<i>Ohhh</i>, that girl is quite petite. She's got a \nbit of an aura but what do you think…?"
+    },
+    {
+      "name": "Racing Fan B",
+      "text": "Well, there have already been plenty of \nsuccessful petite horsegirls. Could this \ngirl unexpectedly become one of them?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "————"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "……Yeah, that's right. This is the air of \nthe paddock."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Heheh…</i> As expected, it's great ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "……Now, let's have a good time."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Claw Machine!",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "On a certain outing with Stay Gold ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, they got Paka plushies."
+    },
+    {
+      "text": "Looking towards where Stay Gold was \npointing, I saw a Claw Machine with horsegirl \nplushies.",
+      "choice_data_list": [
+        "You interested?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "They make good souvenirs. It seems that \nyou can only get them at certain locations."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "They're also popular with foreigners. They \nget super happy when you give them one \ny'know? It's that <i>\"Japan KAWAII\"</i> thing.",
+      "choice_data_list": [
+        "<i>Ooh…</i> then I want to get a lot!",
+        "<i>Ooh…</i> then I want to get many!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah, though it's pretty hard… You \ngood at this sort of thing Trainer?",
+      "choice_data_list": [
+        "Guess I'm alright?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha, I'm sure you're better than me. \nAh, do you wanna try to get some for \nme then?"
+    },
+    {
+      "text": "——I can't lose against this game!!"
+    }
+  ]
+}

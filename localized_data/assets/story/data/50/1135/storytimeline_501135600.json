@@ -1,0 +1,29 @@
+{
+  "title": "Ready for a Challenge",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Stay Gold",
+      "text": "I can hear the cheers from here even \nthough the race hasn't even started."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Or perhaps, do these cheering \nsounds stem from my memories? \nWhat do you think?",
+      "choice_data_list": [
+        "Could be… either?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Haha!! You could be right. My body… it's \nyearning to run. The passionate races that \nfondly linger in my memories, I want to \nexperience them for myself."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Shall we go, Trainer… To whatever \nfuture this world will bring us."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'll be going off to confirm it."
+    }
+  ]
+}
