@@ -1,0 +1,498 @@
+{
+    "title": "Introducing Buena Vista!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Tracen Academy.\nAn integrated junior and senior high where\nhorsegirls are trained to compete in the\nTwinkle Series.",
+            "color_text_info_list": [
+                "Tracen Academy",
+                "Twinkle Series"
+            ]
+        },
+        {
+            "text": "Talented horsegirls gather here from all\nover the country. But… many finish their\ncareers without a single win."
+        },
+        {
+            "text": "Even so, chasing the view at the top, they\nkeep running. And among them…"
+        },
+        {
+            "text": "Buena Vista stands out.\nBright and dazzling.",
+            "color_text_info_list": [
+                "Buena Vista"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Mm, feels good.\nI'm heading out!"
+        },
+        {
+            "text": "Bathed in warm sunlight, she runs.\nHer form, her stride, all more than solid.\nBut what truly stands out — is the sharpness\nof her final acceleration."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah—\nYaaaahhh!!",
+            "choice_data_list": [
+                "(What incredible sharpness…!)",
+                "(What incredible sharpness…!)"
+            ]
+        },
+        {
+            "text": "From her slender frame, you'd never expect\nit… That soaring run makes your heart race."
+        },
+        {
+            "text": "Cheerful and bright,\nshe shines even off the track."
+        },
+        {
+            "name": "English Teacher",
+            "text": "Alright then, Buena Vista. Please translate:\n\"<i>Where should I go to get my horseshoes fixed?</i>\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Um, <i>horseshoes</i> are cleats, so…\n\"Where should I go to get my cleats repaired?\"\n…That's it!"
+        },
+        {
+            "name": "English Teacher",
+            "text": "Yes, perfect grammar and pronunciation.\nExcellent."
+        },
+        {
+            "name": "Classmates",
+            "text": "(Oooh…)"
+        },
+        {
+            "text": "She excels in academics, and is well-liked\nby her teachers. But more than that…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Sniff… hic…\nUu…"
+        },
+        {
+            "name": "Friend A",
+            "text": "W-What's wrong, Buena-chan…!?\n…Wait, did you make her cry?",
+            "color_text_info_list": [
+                "Buena"
+            ]
+        },
+        {
+            "name": "Friend B",
+            "text": "N-No, that's not it!?\nI just told her the teacher praised me for\ncleaning earlier…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Uuuu…!\nThat really makes you happy, doesn't it…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You always cleaned everything, even the\nplaces no one could see."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm so glad they noticed…!"
+        },
+        {
+            "name": "Friend B",
+            "text": "Ah…\n…Hehe, yeah. Thanks!"
+        },
+        {
+            "text": "Buena Vista is deeply sensitive. She truly\nshares in others' feelings. And because of\nthat…",
+            "choice_data_list": [
+                "(Everyone ends up liking her.)"
+            ]
+        },
+        {
+            "name": "Horsegirls",
+            "text": "Ah! It's Buena!\nBye-bye!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Bye-bye!\nSee you tomorrow!"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Buena is… a top student, super talented at running,\nand popular too. I can't believe such a perfect girl exists."
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Right?\nShe's like someone out of our league."
+        },
+        {
+            "text": "\"Out of our league.\"\nIt really does suit her.",
+            "choice_data_list": [
+                "(But to me…)",
+                "(But to me…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I've been waiting!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hehe.\nIt still feels a little strange, doesn't it?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Because you've always been \"big brother.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Because you've always been \"big sister.\""
+        },
+        {
+            "text": "Buena Vista, with a future sure to shine\nahead of her, is my trainee… and my\nchildhood friend."
+        },
+        {
+            "text": "I first met her when we were very young.\nWhen I moved in next door, her family\nwelcomed me warmly."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Buena, you have something you wanted\nto give <username>, right? …Go on."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Buena, you have something you wanted\nto give <username>, right? …Go on."
+        },
+        {
+            "name": "Young Buena",
+            "text": "Um… um… big brother.\nHere.",
+            "choice_data_list": [
+                "This… a sticker?"
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "Um… um… big sister.\nHere.",
+            "choice_data_list": [
+                "This… a sticker?"
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "Yeah. Buu-chan, um…\nwants to play with big brother.",
+            "color_text_info_list": [
+                "Buu-chan"
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "Yeah. Buu-chan, um…\nwants to play with big sister.",
+            "color_text_info_list": [
+                "Buu-chan"
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "Buu-chan is saying hello.\nA \"let's be friends\" hello…",
+            "choice_data_list": [
+                "Thank you! I'll treasure it."
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "Ehehe… yeah!\nHey, let's play, big brother!"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Ehehe… yeah!\nHey, let's play, big sister!"
+        },
+        {
+            "text": "She used to trail behind me, like a little sister.\nThat changed the first time I saw her run\nseriously…"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Thump! …Taaahhh!!"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Hehe… yeah, not yet!\nYaaahhh!!"
+        },
+        {
+            "text": "That run was dazzling,\nfar too brilliant to ignore…\nAnd in my young heart, a dream was born."
+        },
+        {
+            "text": "\"Someday, I'll become Buena Vista's trainer.\""
+        },
+        {
+            "text": "The day I finally told her that dream,\nher eyes welled up, just a little…\nAnd then she smiled."
+        },
+        {
+            "text": "After she enrolled at Tracen Academy,\nI followed after her, became a trainer,\nand proved my resolve… And then, the moment\ncame when that first dream would come true.",
+            "choice_data_list": [
+                "Will you sign a trainee contract with me?",
+                "Will you sign a trainee contract with me?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yes, of course.\nMy Trainer!"
+        },
+        {
+            "text": "At last, we've reached the starting line.\nFrom here on… we'll chase that dream\ntogether.\n"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Shall we get going? Did you bring the\ndocuments?",
+            "choice_data_list": [
+                "Yeah, of course.",
+                "Yeah, of course."
+            ]
+        },
+        {
+            "text": "Her debut in the Twinkle Series has finally\nbeen set. We were on our way to submit\nthe paperwork.",
+            "choice_data_list": [
+                "Wait, let me check it one more time.",
+                "Wait, let me check it one more time."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? But when you showed me yesterday,\neverything seemed fine…",
+            "choice_data_list": [
+                "It's a big first step. I want it perfect.",
+                "It's a big first step. I want it perfect."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "!",
+            "choice_data_list": [
+                "Hold on, let me double-check."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hehe.\nYou really care about this, don't you?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(You really are dependable.\nNow, just like back then…)"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "So, you'll be making your debut with\n<username>, huh? That's wonderful.\n…Though I had a feeling, it would turn\nout this way."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "So, you'll be making your debut with\n<username>, huh? That's wonderful.\n…Though I had a feeling, it would turn\nout this way."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "You've always been so attached…\nAlways sticking close, never wanting to leave.\n…Some things never change."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "M-Mom…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…Yeah, I really was.\nEver since we first met…\nBecause I always wanted to be together.)"
+        },
+        {
+            "name": "Young Buena",
+            "text": "…Wait, big brother!\nWait for meee…!"
+        },
+        {
+            "name": "Young Buena",
+            "text": "…Wait, big sister!\nWait for meee…!"
+        },
+        {
+            "name": "Big brother",
+            "text": "\"Buena, you followed me all the way here…!?\""
+        },
+        {
+            "name": "Big sister",
+            "text": "\"Buena, you followed me all the way here…!?\""
+        },
+        {
+            "name": "Childhood Friend",
+            "text": "Hey, come on…\nWhat are we supposed to do with a kid that\ntiny? We can't go on our adventure like this."
+        },
+        {
+            "name": "Young Buena",
+            "text": "Ah… um, but…\nBuu-chan wants to go with big brother…"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Ah… um, but…\nBuu-chan wants to go with big sister…"
+        },
+        {
+            "name": "Big brother",
+            "text": "\"Buena, it's okay. Let's go together! I'll\nprotect you, so don't worry, just stay with me.\""
+        },
+        {
+            "name": "Big sister",
+            "text": "\"Buena, it's okay. Let's go together! I'll\nprotect you, so don't worry, just stay with me.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Because you were strong… and so cool.)"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Hic… uuu…\nM-Mom… where are you…?"
+        },
+        {
+            "name": "Big brother",
+            "text": "\"Found you! Buena…!\""
+        },
+        {
+            "name": "Big sister",
+            "text": "\"Found you! Buena…!\""
+        },
+        {
+            "name": "Young Buena",
+            "text": "…!\nBig brother…!?"
+        },
+        {
+            "name": "Young Buena",
+            "text": "…!\nBig sister…!?"
+        },
+        {
+            "name": "Young Buena",
+            "text": "Y-You're all muddy…\nAre you okay…?"
+        },
+        {
+            "name": "Big brother",
+            "text": "\"Ahaha, I tripped while running…\nCome on, let's go home. Everyone's waiting.\""
+        },
+        {
+            "name": "Big sister",
+            "text": "\"Ahaha, I tripped while running…\nCome on, let's go home. Everyone's waiting.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Because you were… so kind,\ntruly… a wonderful person.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I want to live up to that."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Your expectations. Your dreams.\nI want to make all of them come true.\nAnd if I do…)"
+        },
+        {
+            "name": "Big brother",
+            "text": "\"You're amazing, Buena, amazing, amazing…!\nYour running is really — so cool!\""
+        },
+        {
+            "name": "Big sister",
+            "text": "\"You're amazing, Buena, amazing, amazing…!\nYour running is really — so cool!\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…You'll show me that shining look in your\neyes again, right?)",
+            "choice_data_list": [
+                "…Sorry, Buena. Kept you waiting."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "!",
+            "choice_data_list": [
+                "…You seem happy.",
+                "…You seem happy."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No, it's nothing!\nSo, how were the documents?",
+            "choice_data_list": [
+                "About that…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Um, then…\nI'll fill them out first, okay?",
+            "choice_data_list": [
+                "Yeah, go ahead.",
+                "Yeah, go ahead."
+            ]
+        },
+        {
+            "text": "Among the documents for her debut,\nthere was one page missing both our\nsignatures."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…",
+            "choice_data_list": [
+                "Buena?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Sorry.\nI just… got a bit emotional."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We really are…\ngoing to take this on together.",
+            "choice_data_list": [
+                "Yeah. Let's make your dream come true.",
+                "Yeah. Let's make your dream come true."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…No.\n…It's our dream."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Alright!\nTime to sign～"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Bu… e… na… Vis… ta…\nThere. Your turn, Trainer!\nWant to use my pen?",
+            "choice_data_list": [
+                "No, I'll use this…",
+                "No, I'll use this…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, that fountain pen…!\nIs it your graduation gift from trainer school?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "When I was given that pen, it made\neverything feel real… that I was truly\nbecoming a trainer. Into this pen, I pour\nall my resolve and responsibility…",
+            "choice_data_list": [
+                "(…I'll give you everything I've got!)",
+                "(…I'll give you everything I've got!)"
+            ]
+        },
+        {
+            "text": "After staring for a while at the document\nbearing both our names... our eyes met."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Trainer.\nLet's make it come true."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Our dream.\nSomething even greater than what we saw\nthat day…",
+            "choice_data_list": [
+                "Let's see that \"breathtaking view\" together."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—It's a promise, okay♪"
+        },
+        {
+            "text": "Chasing a view yet unseen…\nTogether with Buena Vista, the days of\ntraining toward our Twinkle Series debut\nbegin!"
+        }
+    ]
+}

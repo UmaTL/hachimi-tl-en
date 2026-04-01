@@ -1,0 +1,381 @@
+{
+    "title": "The View We Long For",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Some time had passed since Buena Vista\nbegan intensive training in preparation\nfor her Make Debut.",
+            "choice_data_list": [
+                "Next up is interval training.",
+                "Next up is interval training."
+            ],
+            "color_text_info_list": [
+                "Make Debut"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Okaaay!\nHere I go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today's interval training consists of\nalternating 200m jogs and full sprints.\nFirst, the jog, and then…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah…!\nYaaahhh…!",
+            "choice_data_list": [
+                "(Her acceleration is even sharper…!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her top sprinting speed is as impressive\nas ever, and she's steadily improving.\nHer running feels like limitless…",
+            "choice_data_list": [
+                "(She's always been extremely talented…)"
+            ]
+        },
+        {
+            "name": "Trainer A",
+            "text": "Whoa! Buena Vista really is something.\nBest of her generation, wouldn't you say?"
+        },
+        {
+            "name": "Trainer B",
+            "text": "Yeah. No matter what path she takes…\nshe's bound to be the center of attention.",
+            "choice_data_list": [
+                "(The path Buena will take…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We haven't gone over the details yet.\nBut I already know the view we're aiming for.\nThat would be…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Buena!\nHang in there!",
+            "choice_data_list": [
+                "(That voice…!)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Special Week…!",
+            "color_text_info_list": [
+                "Special Week"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Great work, Buena!\nHere, have some milk and take a breather!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week. A senior horsegirl who\nhas achieved so many great victories.\nAmong them…"
+        },
+        {
+            "name": "Announcer",
+            "text": "\"The Supreme Commander of Japan,\"\nSpecial Week!!"
+        },
+        {
+            "name": "Announcer",
+            "text": "Defeating even the Prix de l'Arc de Triomphe\nhorsegirl, and with absolute authority!\nShe wins the Japan Cup!!",
+            "color_text_info_list": [
+                "Prix de l'Arc de Triomphe",
+                "Japan Cup"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Against a field of the world's finest horsegirls,\nher victory as Japan's representative in the\nJapan Cup left a lasting impression.",
+            "choice_data_list": [
+                "(Yeah… that \"view\" became our dream.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Back then, we watched it together in person.\nBuena Vista and I wrapped in excitement,\nshock, and awe… and then said the same thing."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "What an incredible view…!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hey. Someday, we'll definitely—!"
+        },
+        {
+            "name": "Monologue",
+            "text": "— \"Someday, we'll reach a view like that.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "The one who gave us that dazzling dream…\nwas Special Week."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Back at the Japan Cup,\nSpe was just amazing…!\nRight, Trainer?",
+            "choice_data_list": [
+                "Yeah! She had such presence right away.",
+                "Yeah! She had such presence right away."
+            ],
+            "color_text_info_list": [
+                "Spe"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "W-Waaah～! L-Let's stop, okay?\nYou're making me blush～!"
+        },
+        {
+            "name": "Special Week",
+            "text": "T-Today, let's not talk about me…\nLet's talk about Buena instead!",
+            "choice_data_list": [
+                "That magazine…"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe～ I found it!\nAn article about you, Buena!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eh!?\nAbout… me!?"
+        },
+        {
+            "name": "Monologue",
+            "text": "While taking a break, we flip through the\nmagazine Special Week had brought with her…"
+        },
+        {
+            "name": "Special Week",
+            "text": "\"Horsegirls to Watch This Year!\"\n\"Even before debut, all eyes are on her!\nThe rising star, Buena Vista.\"!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Look! Even before debut, you're the only\none with a full page～!",
+            "choice_data_list": [
+                "You're right, that's amazing…!",
+                "You're right, that's amazing…!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow… I'm really grateful!\nBut why… ah."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Will she become the new heroine of the\nTriple Tiara route?\"… it says.",
+            "color_text_info_list": [
+                "Triple Tiara route"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In the Twinkle Series's Classic division,\nthere are two primary racing paths.",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The Triple Crown route.\nThe collective term for three races:\nSatsuki Sho, Japan Derby, and Kikuka Sho.",
+            "color_text_info_list": [
+                "Triple Crown",
+                "Satsuki Sho",
+                "Japan Derby",
+                "Kikuka Sho"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week followed this path,\nand won the Japan Derby,\na dream for everyone in racing.",
+            "choice_data_list": [
+                "(And the other major racing path is…)"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "The Oka Sho, Oaks, and Shuka Sho!\nThese three races together make up\nthe Triple Tiara route!",
+            "color_text_info_list": [
+                "Oka Sho",
+                "Oaks",
+                "Shuka Sho"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Lately, the girls coming out of this route\nhave been getting tons of attention～!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!\nThe magazine also says…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Sweep Tosho, the first Tiara horsegirl\nin 39 years to win the Takarazuka Kinen,\nhas ushered in a new 'Tiara' era…\"",
+            "color_text_info_list": [
+                "Tiara horsegirl",
+                "Takarazuka Kinen",
+                "Sweep Tosho"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Vodka, who became the first Tiara\nhorsegirl in 64 years to win the Japan\nDerby…\"",
+            "color_text_info_list": [
+                "Vodka"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Daiwa Scarlet, who beat her in the Shuka\nSho and placed second in the Arima Kinen,\nhas helped define a new generation…\"",
+            "color_text_info_list": [
+                "Arima Kinen",
+                "Daiwa Scarlet"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"…In other words, this is an era where Tiara\nroute horsegirls are considered strong!\"\n…Wow～!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hey, hey.\nThe next part's the important bit～!"
+        },
+        {
+            "name": "Special Week",
+            "text": "\"Buena Vista already stands out with\nher dazzling presence at the academy.\nHopefully, this incredibly promising\nhorsegirl will…\""
+        },
+        {
+            "name": "Special Week",
+            "text": "\"…shine on the Tiara route. And, as a\n'Heroine of the era,' I hope she will excite\nthe world of horsegirls further.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow…\nThat might be a bit too much praise…"
+        },
+        {
+            "name": "Special Week",
+            "text": "That just means people have high\nexpectations for you!"
+        },
+        {
+            "name": "Special Week",
+            "text": "But I see.\nBuena, you're aiming for the Tiara route, right!?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "!\nAh…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Now that I think about it, it suits you\nperfectly! I'd love to see you become\nthe heroine of your era♪",
+            "choice_data_list": [
+                "Actually, we haven't decided on a goal."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah! S-Sorry for assuming～!\nI just thought it was already decided…",
+            "choice_data_list": [
+                "The way the article says it, I can see why…",
+                "The way the article says it, I can see why…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The public is very excited about the rise\nof the Tiara route. I understand they're\nexpecting a new heroine, but…",
+            "choice_data_list": [
+                "(Buena's own wishes come first.)",
+                "(Buena's own wishes come first.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After training ended, I asked her again\nabout what she wanted to aim for next…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "My goal…\n…Yeah."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I want to take the Tiara route!",
+            "choice_data_list": [
+                "Eh?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oh? You look surprised.\n…Was that not what you expected?",
+            "choice_data_list": [
+                "I thought you'd follow in Spe's footsteps."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Spe's the one we admire.\nSo naturally, I thought she'd aim for\nthe same path…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The Triple Crown route that Spe took…\nthat's really appealing too."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But just like the magazine said…\nThe Tiara route is really gaining momentum."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And if we can win there…\nDon't you think we'd see an incredible view?",
+            "choice_data_list": [
+                "Yeah… it'd be something entirely new.",
+                "Yeah… it'd be something entirely new."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Right?\nAnd besides…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"A breathtaking view that reaches everyone\"—\nCarrying as many hopes and dreams as\npossible, and reaching it together… that's\nour dream, isn't it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So if that's the case, I want to walk the\npath people are hoping for. Because that's\nwhere the view we're aiming for must be."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…If people place their hopes in me, I want\nto live up to it. Because their dreams are\nmy dreams too!",
+            "choice_data_list": [
+                "(Ah…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista's eyes shine with determination.\nWhile most chase only their own dreams…\nshe doesn't hesitate to carry the expectations\nof others as well.",
+            "choice_data_list": [
+                "(Buena really is amazing…)",
+                "(Buena really is amazing…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…?\nTrainer?",
+            "choice_data_list": [
+                "No… We've got our big goal now!",
+                "No… We've got our big goal now!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!\nLet's aim for it, the Tiara route!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Toward the center of the era…\nHer major Classic goal was finally decided."
+        }
+    ]
+}
