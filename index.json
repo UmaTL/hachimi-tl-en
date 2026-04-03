@@ -795,8 +795,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "af5491f5af0b7f759b42e077e9941117b80b76d1fd148ff89a16b4e7164f2f78",
-      "size": 112280
+      "hash": "9c7c5b87331ce6de3031f2569597d09bf9e33306af115b1790cf251c2f8762ba",
+      "size": 113170
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -10439,6 +10439,26 @@
       "size": 61359
     },
     {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_aggregate_01.diff.png",
+      "hash": "808cd72aeccfd45d8c7d7a0861abff9ca764d99cca0723c2316af9eb527baa68",
+      "size": 18310
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_down_01.diff.png",
+      "hash": "d53dd0a21b4dfe19f2505c0e540168c01213253e0efd9c819ff4950b717965f9",
+      "size": 27847
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_keep_01.diff.png",
+      "hash": "f70eb2ef490db86a03f9157a9f5bf7878aa0da8f473cd90bc10ad768fda3e164",
+      "size": 27241
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_up_01.diff.png",
+      "hash": "bf6ee8bddfe57f1b65199b201af85eed34dc33cbfbefd2f722d9da22247fc79f",
+      "size": 28065
+    },
+    {
       "path": "assets/textures/outgame/campaign/walking/utx_txt_campaign_stroll_03.png",
       "hash": "bd258681658b3c2917fa7f3eafb7b45018fc14b832a49c3d6d8d5e3468cfb6aa",
       "size": 15844
@@ -16250,8 +16270,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "3f9c3d8b21890f74c9d0499fea0944cb3afd6c329f568bcd5a0420d67acdd0cd",
-      "size": 404330
+      "hash": "f124911cbec94765bc46ba53c6381cbc279f5f96c3d1c8b78a0d7816f2499492",
+      "size": 404256
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -16265,8 +16285,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dff211d58551759085138572bd32bb3238095caed04f91772fced81027654fac",
-      "size": 3254017
+      "hash": "d6b7bb4fb369ad005b1d623c4557d8a8eeb55de7c60b271a83f7c75ef62c41af",
+      "size": 3253678
     }
   ]
 }
