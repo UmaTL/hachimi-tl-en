@@ -1,63 +1,64 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "\"Nationwide cherry blossoms are late in blooming\"… \nAll around the country, people slumped their \nshoulders at this news."
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "Aww… I guess we can't have our hanami party… \nAnd I was looking forward to it so much… uuuu～"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Don't let it get you down, Chiyo! I'm sure you can \nfind plenty of springtime fun in other things."
-        },
-        {
-            "name": "???",
-            "text": "That's right!!!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So I ask you, what does springtime fun make you think of? \nExactly! Sakura horsegirls!!!!"
-        },
-        {
-            "name": "Both",
-            "text": "You mean us…!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Indeedily! The power of Sakura bestowed through our names!! \nWith all three of us, I say we have about 3 million Sakura Power!!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "(Sakura… What…?)"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If we travel through the lands with that power we could \nvery well be mistaken for the actual cherry blossom front!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "A smile would surely bloom on people's faces as they watch \nus — the Sakura front — run past, as if it were hanami!"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "You're saying… the three of us should run around Japan, \nbrightening everyone's mood? How wonderful!"
-        },
-        {
-            "name": "Sakura Laurel",
-            "text": "Ahh, why don't we post about what we're doing on Umatter \nand Umatube? That way even more people can see♪"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What a great idea! I can say quite a few people \nactually happen to follow me on Umatter!!"
-        },
-        {
-            "name": "Sakura Chiyono O",
-            "text": "So horsegirls will become the heralds of spring! \nThat's lovely! Let's do it! We'll be the Sakura front!!"
-        },
-        {
-            "text": "And thus the curtain rises on the three girls \nand their \"Bakushin-style Journey of the Sakura Front\""
-        }
-    ]
+  "title": "Opening",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "\"Cherry blossoms are late in blooming nationwide\"… \nAll around the country, people slumped their shoulders \nat this news."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Aww… I guess we can't have our flower viewing get-together… \nAnd I was looking forward to it so much… <i>huuueh</i>."
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Don't let it get you down, Chiyo! I'm sure you can \nfind plenty of springtime fun in other things."
+    },
+    {
+      "name": "???",
+      "text": "That's right!!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "So I ask you, what does springtime fun make you think of? \nExactly! Sakura horsegirls!!!!"
+    },
+    {
+      "name": "Both",
+      "text": "You mean us…!?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Indeedily! The power of Sakura is bestowed through our names!! \nWith all three of us, I say we have about 3 million Sakura Power!!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Sakura… What…?)"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "If we travel through the country with that power, we could \nvery well be mistaken for the actual cherry blossom front!!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "A smile would surely bloom on people's faces as they watch \nus — the Sakura front — run past, almost like they were at \nan actual flower viewing!"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "You're saying… the three of us should run around Japan, \nbrightening everyone's mood? How wonderful!"
+    },
+    {
+      "name": "Sakura Laurel",
+      "text": "Ah, why don't we post about what we're doing on Umatter \nand Umatube? That way even more people can see♪"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "What a great idea! I can say quite a few people \nactually happen to follow me on Umatter!!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "So horsegirls will become the heralds of spring! \nThat's lovely! Let's do it! We'll be the Sakura front!!"
+    },
+    {
+      "text": "Thus, the curtain rises on three girls and their \n\"Bakushin-style Sakura Front Journey\"."
+    }
+  ]
 }

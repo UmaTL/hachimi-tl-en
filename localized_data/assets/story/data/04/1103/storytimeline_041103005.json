@@ -1,0 +1,166 @@
+{
+  "title": "A Spectre That Must Be Banished",
+  "text_block_list": [
+    {
+      "text": "One day, as I was following along with Royce and Royce's self-promotion plans——"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Okay, everyone, gather round～! \nThis marks the end of \"Ms. Royce's Special Racing Class\"!"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "You all did such a good job! Your teacher's so impressed ♪ \nAs for all the parents and guardians, be sure to give them lots of praise when you get home."
+    },
+    {
+      "name": "Parent",
+      "text": "Of course! \nI can't believe my little girl could be so fast… \nThank you so much!"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Nice! Scored some points with the family audience! \nI knew going with Honor Student Royce Mode was the right call ♪"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Next up is filming for the talk show. \nPlus, I should check the script for the dinner show on the way there."
+    },
+    {
+      "text": "She had a lot to do today, but I was sure she could handle it. She could achieve her dream——",
+      "choice_data_list": [
+        "Getting closer to being the greatest!",
+        "Getting closer to being the greatest!"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Yes I am. \nAnd I'm not about to slow down!"
+    },
+    {
+      "name": "TV Director",
+      "text": "——All righty then. Thanks for comin' to the show. \nReally tug on the viewers' heartstrings for me, will ya?"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Actually, I have a suggestion about that—— \nWould you mind if I read a letter to my parents at the end of the show?"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "I poured all the gratitude I have into this letter. \nI would love the oppurtunity to read it for them."
+    },
+    {
+      "name": "TV Director",
+      "text": "Wew, that'll make for a real tearjerker of an ending! \nTwo thumbs up on that idea! Dang, Trainer, your trainee sure is prepared! Thanks, she's a huge help! ",
+      "choice_data_list": [
+        "Oh, no, thank you for the opportunity!"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Three more stops until we reach the assembly hall? \nI should check the script again while I have the chance—— \n"
+    },
+    {
+      "text": "(SCREEEEEEECH!!)",
+      "choice_data_list": [
+        "!?"
+      ]
+    },
+    {
+      "name": "Announcement",
+      "text": "\"As abnormal noises have been detected, this train has come to an emergency stop. Please wait while we perform safety checks.\""
+    },
+    {
+      "name": "Royce and Royoce",
+      "text": "We're stopped!? \nBut there's not much time until the event starts…!",
+      "choice_data_list": [
+        "We should let them know we'll be late."
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "………"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "…Trainer. Let's get off at the next stop.",
+      "choice_data_list": [
+        "Did you come up with a plan?",
+        "Did you come up with a plan?"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Heh heh. Of sorts. \nTime for your girl Royce-chan to show what she can do!"
+    },
+    {
+      "name": "Dinner Show MC",
+      "text": "Er… Our guest Royce and Royce-san is running late and—— \n…Oh, it seems she's just now arrived!"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Huff… Huff… Huff… Hello, everyone…! \nHuff… Huff… Sorry for… the wait!"
+    },
+    {
+      "name": "Dinner Show MC",
+      "text": "A-Are you all right, Royce-san!? \nUm… What on earth happened?"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Th-the train stopped, so… Huff… pant… \nI ran… all the way here… Teehee."
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Thank goodness… I made it in time… \nI'm so happy the show can go on——"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Because I wanted to see you all so much…!"
+    },
+    {
+      "name": "Fan",
+      "text": "Royce-chan…! I wanted to see you tooooo! \nYou're always doing so much for us… Thank you!!"
+    },
+    {
+      "text": "With the hall now full of energy, I felt a wave of relief. \nWe closed out the day with an incredible event——"
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "That was no good. Not at all.",
+      "choice_data_list": [
+        "What? Why…?"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "…Take a look at those two over there. \nThey've been my fans for quite a while now."
+    },
+    {
+      "name": "Old Fan A",
+      "text": "Right? Royce was as cute as she always is～ \n…She was cute, but, well… \nHmm…"
+    },
+    {
+      "name": "Old Fan B",
+      "text": "I- I get you! It's something like… I want to see a new side of Royce-chan! You know, something about her we've never seen before…",
+      "choice_data_list": [
+        "…!!"
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "You heard them. I'm getting stale. \nIf I want to be the greatest, I'll need to diversify my portfolio."
+    },
+    {
+      "text": "Royce and Royce never takes half-measures. \nIf I'm her trainer, then neither should I——",
+      "choice_data_list": [
+        "I'll do everything I can to help.",
+        "I'll do everything I can to help."
+      ]
+    },
+    {
+      "name": "Royce and Royce",
+      "text": "Neither of us have time to rest. \nIt's time to find me a new, charming angle!"
+    },
+    {
+      "text": "What new angle would bring in the fans? \nWe started thinking hard about the answer to that question."
+    }
+  ]
+}
