@@ -1,0 +1,308 @@
+{
+    "title": "After Debut: The First View",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Race Fan A",
+            "text": "Whoa～!\nDid you see that run from Buena Vista…!?"
+        },
+        {
+            "name": "Race Fan B",
+            "text": "Yeah, that was incredible…! No wonder\nshe was the one to watch! She's definitely\nheading for the big races next."
+        },
+        {
+            "name": "Race Fan B",
+            "text": "But the others were strong too, right?\nThat didn't feel like a Make Debut race at all…\nThis might end up being one of those\n\"legendary\" races…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah… hah…"
+        },
+        {
+            "text": "(Clap, clap, clap…!)"
+        },
+        {
+            "name": "Fans",
+            "text": "—Congratulations on your debuts!\n—Buena Vista! We're rooting for you!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you so much…!\nI'll keep doing my best from here on!"
+        },
+        {
+            "name": "Unicalize",
+            "text": "…Buena Vista."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!\nEveryone…"
+        },
+        {
+            "name": "Unicalize",
+            "text": "Thanks for the great race today.\n…This is just the beginning."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Same to you!\nIt was really fun, wasn't it?"
+        },
+        {
+            "name": "At the Crest",
+            "text": "Haha!\nYou really are something else."
+        },
+        {
+            "name": "At the Crest",
+            "text": "So you're heading down the Tiara route,\nright? Guess we won't be crossing paths\nmuch for a while, since we're aiming for\nthe Triple Crown."
+        },
+        {
+            "name": "Shindou Runrun",
+            "text": "Even so… the paths of racers are always\nintertwined. If we keep running, we're bound\nto meet again someday."
+        },
+        {
+            "name": "Sansha Sangyo",
+            "text": "Sansha… Each of us walking our own path,\nin our own way… let's all make a name for\nourselves～"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes! And then…\nLet's race together again someday!",
+            "choice_data_list": [
+                "(…What a great sight.)",
+                "(…What a great sight.)"
+            ]
+        },
+        {
+            "text": "Recognizing each other's strength,\nencouraging each other, and setting off\ndown their own paths… Buena Vista's\nbeginning was as refreshing as it was bright."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey, how was it?\nMy Make Debut!",
+            "choice_data_list": [
+                "Of course, it was amazing!",
+                "Of course, it was amazing!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ehehe.\nYeah, I feel amazing too!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hearing all that applause, seeing all those\nsmiles…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I bet If I run in even bigger races, I'll see\neven more amazing view than I did today.",
+            "choice_data_list": [
+                "Then from here on…"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Ah! Buena Vista!\nCongratulations on your Make Debut!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "We'd love to get a quick interview!\nHow are you feeling right now?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Um…\n…Trainer?",
+            "choice_data_list": [
+                "Yeah, go ahead.",
+                "Yeah, go ahead."
+            ]
+        },
+        {
+            "name": "Reporter C",
+            "text": "…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "First of all, I'm just really happy I was able\nto debut!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And hearing everyone cheering for me\nalready… it really fired me up. I'm ready\nto give it everything from here on!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "That was quite the Make Debut!\nNow then, about your future goals…\nI hear you've already decided on your path?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes!\nI'll be going down the Triple Tiara route!"
+        },
+        {
+            "name": "Reporters",
+            "text": "(Oooh…!)"
+        },
+        {
+            "name": "Reporter B",
+            "text": "That's exciting to hear! In that case, your\nbig Junior class goal would be… the\nHanshin Juvenile Fillies, right?",
+            "color_text_info_list": [
+                "Junior class",
+                "Hanshin Juvenile Fillies"
+            ]
+        },
+        {
+            "name": "Reporter B",
+            "text": "A Junior class G1 race where the top\ncontenders for the Tiara route all gather!\nWin there, and you're practically guaranteed\nto shine in the Classic class too!",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That would be…\nTrainer?",
+            "choice_data_list": [
+                "Yeah… that sounds right."
+            ]
+        },
+        {
+            "text": "Given Buena Vista's ability, we should\nchallenge a G1 race, no reason to hold back\nand \"wait and see.\" From the look on her face,\nthere seems to be no objection.",
+            "choice_data_list": [
+                "We'll be aiming for the Hanshin JF."
+            ]
+        },
+        {
+            "name": "Reporters",
+            "text": "—Oooh! Just as expected!\n—This is going to be exciting!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "…Alright, I've got one too.\nA question for the trainer!",
+            "choice_data_list": [
+                "…? Sure, go ahead."
+            ]
+        },
+        {
+            "name": "Reporter C",
+            "text": "You're Buena Vista's… childhood friend,\ncorrect?"
+        },
+        {
+            "name": "Reporter C",
+            "text": "So then… is it fair to say that your\n\"closeness\" with her played a role in you\ngetting the job?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Reporter C",
+            "text": "I'd heard plenty about Buena Vista's talent.\nHonestly, I expected a more experienced\ntrainer to be chosen for her."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Huh, childhood friends, huh…\nAnd a rookie trainer on top of that…\nTo be honest… it does make you wonder."
+        },
+        {
+            "name": "Reporter B",
+            "text": "She's a highly anticipated talent.\n…You sure you can handle that?"
+        },
+        {
+            "text": "A murmur spreads through the crowd.\nThey're not wrong, compared to the\nexpectations placed on her, my track record…\nmy ability… don't measure up. But…",
+            "choice_data_list": [
+                "…Judge me by what I do from here on."
+            ]
+        },
+        {
+            "name": "Reporter C",
+            "text": "…Alright.\nWe'll be watching you both."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…You didn't deny it, did you?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The part about you being chosen because\nwe're \"close.\" We went through a proper\ntrial period and chose each other, didn't we?"
+        },
+        {
+            "text": "It's true. Before signing fully, we had a\nprovisional contract period to evaluate\neach other's ability, especially mine. But…",
+            "choice_data_list": [
+                "It's also true, we were childhood friends.",
+                "It's also true, we were childhood friends."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's… true, but…",
+            "choice_data_list": [
+                "And besides…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah?",
+            "choice_data_list": [
+                "…No, never mind."
+            ]
+        },
+        {
+            "text": "\"It's also true that I'm not good enough for\nyou right now\" …I swallowed those words.\nThere's no reason to say them. Because\nI have no intention of giving up on her.",
+            "choice_data_list": [
+                "(I'll just have to become worthy of her.)"
+            ]
+        },
+        {
+            "text": "\"It's also true that I'm not good enough for\nyou right now\" …I swallowed those words.\nThere's no reason to say them. Because\nI have no intention of giving up on her.",
+            "choice_data_list": [
+                "(I'll just have to become worthy of her.)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Oh, right!\nI should call my mom!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "She came to watch today.\nDo you want to come say hi too?",
+            "choice_data_list": [
+                "Absolutely!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, there she is!\nMooom!",
+            "choice_data_list": [
+                "It's been a while."
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "It has been.\nHave you been doing well?"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "You haven't come by lately…\nYou could visit more often, you know?\nI always keep your favorite snacks stocked."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "…But enough about that. Congratulations\nto both of you on your debut!",
+            "choice_data_list": [
+                "Thank you!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We finally took our first step together.\n…We'll show you something even greater\nnext time!"
+        },
+        {
+            "text": "Towards our next target race…\nThe Hanshin Juvenile Fillies. We'll grow\ntogether, \"both of us.\""
+        }
+    ]
+}
