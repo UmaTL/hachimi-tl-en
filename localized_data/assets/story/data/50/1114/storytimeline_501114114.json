@@ -1,0 +1,401 @@
+{
+    "title": "The View with a \"Heroine\"",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "While we continued training day by day\ntoward the Hanshin Juvenile Fillies, at the\nsame time…",
+            "choice_data_list": [
+                "(I need to grow more as a trainer!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I still have a long way to go to match\nBuena Vista's ability. As I was thinking that,\nI spotted Buena Vista… and company.",
+            "choice_data_list": [
+                "(Those are… her classmates?)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, Nakayama's stories are always so\nexciting… I love them!",
+            "color_text_info_list": []
+        },
+        {
+            "name": "？？？？",
+            "text": "Buena Vista.\nOur ever-popular star! The academy's heroine,\nloved by everyone."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh. Keep taking risks, and that's what\nhappens. …Wanna give it a try?"
+        },
+        {
+            "name": "？？？？",
+            "text": "And this here's Nakayama Festa.\nA bit of an outlaw vibe, but she's a fiery\ngambler with a passionate heart.",
+            "color_text_info_list": [
+                "Nakayama Festa"
+            ]
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Nakayama, seriously, cut it out.\nBuena's way too pure for that stuff."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe…\nEveryone's so lively today, it's lovely to see."
+        },
+        {
+            "name": "？？？？",
+            "text": "Tosen Jordan, a gutsy gal!\nAnd Wonder Acute, a warm person, like\na grandma.",
+            "choice_data_list": [
+                "I get it… wait, who even are you!?"
+            ],
+            "color_text_info_list": [
+                "Tosen Jordan",
+                "Wonder Acute"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Hey hey～!\nThe academy's very own information broker,\nTranscend, at your service!",
+            "color_text_info_list": [
+                "Transcend"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "You're Buena's trainer, right?",
+            "choice_data_list": [
+                "Yes, but…"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "As you probably know… we're all in the same\nclass as her, me included."
+        },
+        {
+            "name": "Transcend",
+            "text": "So I thought I'd introduce everyone at once～\nPretty stacked group, huh?",
+            "choice_data_list": [
+                "Yeah. They all seem really talented.",
+                "Yeah. They all seem really talented."
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "If anyone caught your eye, feel free to ask.\nI could share a little info, you know?",
+            "choice_data_list": [
+                "I-Info…?"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Well, I doubt you're interested in anyone but\nBuena anyway.",
+            "choice_data_list": [
+                "…By the way, what kind of info?",
+                "…By the way, what kind of info?"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh, anything you'd want to know.\nWhatever helps you out."
+        },
+        {
+            "name": "Transcend",
+            "text": "Like ways you could support Buena.\nYou know… the kind that fills in what you're\nlacking.",
+            "choice_data_list": [
+                "…! How did you—"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Hehe～\nDon't underestimate your friendly\nneighborhood info broker."
+        },
+        {
+            "name": "Transcend",
+            "text": "Anyway, hit me up anytime, yeah?\n…This is gonna get interesting♪",
+            "choice_data_list": [
+                "Ah…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "As her childhood friend, I feel like I know\nBuena Vista well. But of course, we haven't\nshared every moment together."
+        },
+        {
+            "name": "Monologue",
+            "text": "If I could learn more about the sides of her\nI don't know… I might find a way to support\nher better. Maybe even get a little closer\nto where she stands…",
+            "choice_data_list": [
+                "(…Maybe I should ask her.)"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh? There you are～\nBeen waiting for you."
+        },
+        {
+            "name": "Transcend",
+            "text": "You want to know more about Buena, right?",
+            "choice_data_list": [
+                "About her everyday school life.",
+                "What she's been into lately.",
+                "How you see Buena.",
+                "I think I'm good for now."
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Her everyday school life, huh…\nAlright, alright. I've got plenty of tips coming in."
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh? Found a good one.\n\"One time, Buena forgot her paper dictionary\nshe needed for class…\""
+        },
+        {
+            "name": "Transcend",
+            "text": "\"Word got out, and students from other\nclasses rushed over to lend theirs.\nThe hallway turned into chaos, dictionaries\nflying everywhere.\"",
+            "choice_data_list": [
+                "She's seriously that well-liked, huh…",
+                "She's seriously that well-liked, huh…"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "So?\nAnything else you wanna ask?"
+        },
+        {
+            "name": "Transcend",
+            "text": "Hmm, let's see.\nSomething recent…"
+        },
+        {
+            "name": "Transcend",
+            "text": "Looks like she's been really into the cafe's\nsalad bowls lately. Apparently, she tries\na different dressing every time."
+        },
+        {
+            "name": "Transcend",
+            "text": "According to a friend who went with her,\n\"She kept forgetting which ones she hadn't\ntried yet, and watching her struggle to decide\nwas adorable.\"",
+            "choice_data_list": [
+                "I see…"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "So?\nAnything else you wanna ask?"
+        },
+        {
+            "name": "Transcend",
+            "text": "Hmm, from my point of view, Buena is…\nYeah, she totally has that idol vibe."
+        },
+        {
+            "name": "Transcend",
+            "text": "Like, she's all-in on cute! And she's also\nvery approachable… But at the same time,\nshe's got this inner strength, there's\nsomething cool about her too."
+        },
+        {
+            "name": "Transcend",
+            "text": "Kinda like the center of a big idol group?\nShe's got that \"chosen one\" aura, you know～",
+            "choice_data_list": [
+                "(…Well, I guess she does…)"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "So?\nAnything else you wanna ask?"
+        },
+        {
+            "name": "Transcend",
+            "text": "Hey, hey. You've already heard that one,\nhaven't you? …Oh? Or maybe you've had\nyour fill already? In that case, we're done\nhere～"
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh?"
+        },
+        {
+            "name": "Transcend",
+            "text": "Alright then, one last thing…\nA little advice for you, Trainer."
+        },
+        {
+            "name": "Transcend",
+            "text": "Buena's base stats are seriously high.\nIf you wanna stand beside her, you've gotta\nstart by raising your own.",
+            "choice_data_list": [
+                "Base stats…? Raising them…?"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Basically, put in the work, little by little.\nTry learning a bit of everything."
+        },
+        {
+            "name": "Transcend",
+            "text": "In the end, it all comes down to how much\neffort you've put in. If you want to handle\nthe unexpected, building a solid foundation\nis your best bet.",
+            "choice_data_list": [
+                "You're right… Thanks for the advice!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I started right away, reviewing the basics\nin the library. Not just the latest training\ntheory, but papers from all kinds of fields,\nstudying comprehensively."
+        },
+        {
+            "name": "Monologue",
+            "text": "On another day, to better understand what\nit feels like to be the one being trained, I\nasked a senior trainer to put me through\nhalf a day of a horsegirl's training regimen."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Hey! You're not keeping your pace!\nYour form's falling apart, focus!",
+            "choice_data_list": [
+                "Y-Yes…! Ghh—!"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Oh, that's it!\nKeep that up. Push past tomorrow and into\nthe day after!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……—"
+        },
+        {
+            "name": "Monologue",
+            "text": "One evening, after training.\nAs I was going over everything I'd learned\nso far, working out a strategy for the next\nrace…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Excuse me!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you for working this late!\nI brought you something.",
+            "choice_data_list": [
+                "This is…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A late-night snack! I made some rice balls,\nand packed a few side dishes, too."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You haven't had dinner yet, right?\n…Come on, let's take a short break."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hey.\nDoesn't this feel a little nostalgic?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Back when you were studying for the trainer\nacademy entrance exams. You used to stay up\nlate like this, too…",
+            "choice_data_list": [
+                "You'd bring me food back then.",
+                "You'd bring me food back then."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah. And while you took a break, we'd just\nchat about nothing in particular."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Though sometimes, even now, I wonder\nif I was actually bothering you.",
+            "choice_data_list": [
+                "Not at all… I was really happy."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's always been like this.\nWatching over me, looking out for me.\n…Just like now, in her own quiet way.",
+            "choice_data_list": [
+                "Hey, Buena.",
+                "Hey, Buena."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Am I pushing myself too hard? Am I under\nso much stress? Am I trying too hard?\n…That's probably what she's been thinking\nabout me. But…",
+            "choice_data_list": [
+                "I'll be fine. I can handle it.",
+                "I'll be fine. I can handle it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "It's what I've always done."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Back during the academy entrance exams,\nand even now, nothing has changed. There's\nonly ever been one motivation, and for that…\nI already know I can work as hard as it takes.",
+            "choice_data_list": [
+                "To be by your side, I can do anything.",
+                "To be by your side, I can do anything."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "!",
+            "choice_data_list": [
+                "Will you watch over me… for a while?",
+                "Will you watch over me… for a while?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah.\nOkay!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "There's a lot I want to say… really, a lot!\nBut… I'll keep it to myself for now."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're going to give it your all for me, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Then, just for today…\nLet me stay by your side a little longer, okay?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I want to really see who you are right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista waited until I finished my work.\nAnd as I walked her back to the dorm, we\nstepped out of the academy grounds…"
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh? Buena and Trainer… hm?"
+        },
+        {
+            "name": "Transcend",
+            "text": "Ohoh～?\nWell, well…",
+            "choice_data_list": [
+                "…Is something wrong?"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Looks like you cleared the event.\nNicely done～"
+        },
+        {
+            "name": "Transcend",
+            "text": "Guess that means my job here is done?\nIt'd be kinda sad if this ended in a \"just friends\"\nending and I had to comfort you, so keep it up,\nyeah?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Um.\nDid something happen between you and Tran?",
+            "choice_data_list": [
+                "…She gave me a lot of helpful advice.",
+                "…She gave me a lot of helpful advice."
+            ],
+            "color_text_info_list": [
+                "Tran"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Thanks to Transcend, I've grown a little.\nAnd as I watched the information broker walk\naway, I offered a quiet thanks in my heart."
+        }
+    ]
+}
