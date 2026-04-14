@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "？？？",
-            "text": "『――The history of the Twinkle Series. It is the glorious trail left behind by our predecessors』"
+            "text": "『——The history of the Twinkle Series. It is the glorious trail left behind by our predecessors』"
         },
         {
             "name": "？？？",
-            "text": "『Great achievements, prestige, legends……all have been forged. If you unravel the history books, an array of breathtakingly beautiful \"trails\" are lined up』"
+            "text": "『Great achievements, prestige, legends……all have been forged. If you unravel the history books, an array of breathtakingly beautiful <i>trails</i> are lined up』"
         },
         {
             "name": "？？？",
-            "text": "『A myriad of true stories that make your heart race with every turn of the page. And beyond them, someday――』"
+            "text": "『A myriad of true stories that make your heart race with every turn of the page. And beyond them, someday——』"
         },
         {
             "text": "One day at work, my smartphone alarm suddenly went off. If this calendar alarm is ringing, that means——",
@@ -38,10 +38,10 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "N-No……You're welcome.\nThank you for always picking one up."
+            "text": "N-No……You're welcome. \nThank you for always picking one up."
         },
         {
-            "text": "I quickly unfold the newspaper I received.\nTitled \"Musings on History,\" it was the very column I was looking for——"
+            "text": "I quickly unfold the newspaper I received. \nTitled \"Musings on History\" it was the very column I was looking for——"
         },
         {
             "name": "Writer C",
@@ -53,28 +53,28 @@
         },
         {
             "name": "Writer C",
-            "text": "『――A Horsegirl who received her discipline and teachings exists in the present day. A late bloomer who pushed past a rested spring to blossom in the autumn――』"
+            "text": "『——A horsegirl who received her discipline and teachings exists in the present day. A late bloomer who pushed past a rested spring to blossom in the autumn——』"
         },
         {
             "name": "Writer C",
-            "text": "『During the interview, she murmured \"I feel like I can finally stand shoulder-to-shoulder with my peers. That's why――I'm going to seize it, just like this\"』"
+            "text": "『During the interview, she murmured \"I feel like I can finally stand shoulder-to-shoulder with my peers. That's why — I'm going to seize it, just like this\"』"
         },
         {
             "name": "Writer C",
             "text": "『History bears witness. Before long, she will become a great figure decorated with graded stakes victories. The story begins at the very first Tokyo race of the New Year. (Writer C)』",
             "choice_data_list": [
-                "(Wow. this column's really fascinating)",
-                "(Yeah. this column's really interesting)"
+                "(This column's really fascinating)",
+                "(This column's really interesting)"
             ]
         },
         {
-            "text": "It doesn't just introduce history. By tying it to the past, it introduces currently active Horsegirl――connecting it to the present. That's the charm of this column.",
+            "text": "It doesn't just introduce history. By tying it to the past, it introduces currently active horsegirl — connecting it to the present. That's the charm of this column.",
             "choice_data_list": [
-                "The author… I wonder who Writer C is?"
+                "The author… I wonder who <i>Writer C</i> is?"
             ]
         },
         {
-            "text": "As I mutter, I check the calendar. —It looks like the Horsegirl featured in the column is racing on the Friday right after the New Year.",
+            "text": "As I mutter, I check the calendar. —It looks like the horsegirl featured in the column is racing on the Friday right after the New Year.",
             "choice_data_list": [
                 "I've got some time to kill, so I think I'll go!"
             ]
@@ -91,36 +91,36 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……Fufu.\nMaybe I'll go around one more time……."
+            "text": "……Fufu. \nMaybe I'll go around one more time……."
         },
         {
             "text": "After touring the Horsegirl Museum, I visited the paddock, and she was there as well."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "…………\n…………。",
+            "text": "………… \n…………。",
             "choice_data_list": [
                 "(S-She's taking photos so intently…)"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……Hmmー. I might have stopped down the lens too much. Let's open it up a bit more……and take a few more shots."
+            "text": "……Hmmー I might have stopped down the lens too much. Let's open it up a bit more……and take a few more shots."
         },
         {
             "text": "This time I spot her in the stands. In her hand, she's carrying a sports newspaper she likely bought this morning."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……At 2000 meters, this course demands explosive speed too……But, her previous race was on the same track, and with that closing time——it should be no problem."
+            "text": "……At 2000 meters, this course demands explosive speed too……But, her previous race was on the same track, and with that closing time — it should be no problem."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Her final training and the word from the reporters are are excellent… The top favorite is #2. ——Performance and reputation have finally caught up with her."
+            "text": "Her final training and the word from the reporters are are excellent… The top favorite is #2. —Performance and reputation have finally caught up with her."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Judging by the paddock, #3 looked good too, but…… on today's track, she won't be out-sprinted. Besides, from a historical standpoint as well——"
+            "text": "Judging by the paddock, #3 looked good too, but…… on today's track, she won't be out-sprinted. Besides, from a historical standpoint as well—"
         },
         {
             "name": "PR Committee Horsegirl",
@@ -135,7 +135,7 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……Hh……uuh……\nh-hgh……!"
+            "text": "……Hh……uuh…… \nh-hgh……!"
         },
         {
             "name": "PR Committee Horsegirl",
@@ -146,21 +146,21 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Uu, uuu……――Ah…….",
+            "text": "Uu, uuu…… ——Ah…….",
             "choice_data_list": [
                 "Eh?! Are you alright?!"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I-I'm sorry……\nFor making you worry……",
+            "text": "I-I'm sorry…… \nFor making you worry……",
             "choice_data_list": [
                 "You gave me a scare, suddenly getting all dizzy like that"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I-I'm truly sorry… I'm alright now.\n…It happens sometimes. Just a bit of dizziness…"
+            "text": "I-I'm truly sorry… I'm alright now. \n…It happens sometimes. Just a bit of dizziness…"
         },
         {
             "name": "PR Committee Horsegirl",
@@ -194,7 +194,7 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I want to be present and bear witness to it all. It's not enough to just track the data―I have to be at the track. I want to feel the live impact of the moment as it happens."
+            "text": "I want to be present and bear witness to it all. It's not enough to just track the data — I have to be at the track. I want to feel the live impact of the moment as it happens."
         },
         {
             "name": "PR Committee Horsegirl",
@@ -202,7 +202,7 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "――…Oh, I-I'm sorry! I just started rambling…! Basically, all I'm saying is that I don't want to miss a single part of the race…!",
+            "text": "——Oh, I-I'm sorry! I just started rambling…! Basically, all I'm saying is that I don't want to miss a single part of the race…!",
             "choice_data_list": [
                 "I-I see…"
             ]
@@ -215,11 +215,11 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Good… a perfect start. ……The pace is slow, too. Just as I predicted. Now she just needs to stay patient…… *munch munch*……"
+            "text": "Good… a perfect start. ……The pace is slow, too. Just as I predicted. Now she just needs to stay patient…… <i>munch munch</i>……"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Here she comes. Just like that… keep it up…! ………Phew. Both the pace and the positioning were perfect. A solid run that lived up to her status as the favorite… *munch munch*…",
+            "text": "Here she comes. Just like that… keep it up…! ……Phew. Both the pace and the positioning were perfect. A solid run that lived up to her status as the favorite… <i>munch munch</i>…",
             "choice_data_list": [
                 "(S-She's multitasking like a pro…!)",
                 "(S-She's multitasking like a pro…!)"
@@ -238,7 +238,7 @@
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "…Well, I wouldn't exactly say I \"read\" it. Um…"
+            "text": "…Well, I wouldn't exactly say I <i>read</i> it. Um…"
         },
         {
             "name": "PR Committee Horsegirl",
