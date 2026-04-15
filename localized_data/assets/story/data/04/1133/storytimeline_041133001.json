@@ -16,8 +16,8 @@
         {
             "text": "One day at work, my smartphone alarm suddenly went off. If this calendar alarm is ringing, that means——",
             "choice_data_list": [
-                "Ah! Today's the school newspaper distribution!",
-                "Oh! Today's the school newspaper distribution!"
+                "Ah! Today's the newspaper distribution!",
+                "Ah! Today's the newspaper distribution!"
             ]
         },
         {
@@ -82,7 +82,7 @@
         {
             "text": "The day finally arrived. Since there was still some time before the race, I decided to visit the Horsegirl Museum, and…….",
             "choice_data_list": [
-                "Ah, the girl who always gives me the newspaper…"
+                "Ah, the newspaper girl…"
             ]
         },
         {
@@ -130,7 +130,7 @@
             "name": "Announcer",
             "text": "She's broken clear! It's #2! #2! With an incredible burst of speed, she's snatched the victory!!",
             "choice_data_list": [
-                "Incredible! That girl who was featured in the column…"
+                "Amazing! That girl from the column…"
             ]
         },
         {
@@ -155,7 +155,7 @@
             "name": "PR Committee Horsegirl",
             "text": "I-I'm sorry…… \nFor making you worry……",
             "choice_data_list": [
-                "You gave me a scare, suddenly getting all dizzy like that"
+                "You scared me, getting all dizzy like that"
             ]
         },
         {
@@ -166,7 +166,7 @@
             "name": "PR Committee Horsegirl",
             "text": "I ended up skipping my meal today… I knew that getting worked up would lead to this… but even so…",
             "choice_data_list": [
-                "In that case, let's go find something to eat right away!"
+                "In that case, let's go find some food!"
             ]
         },
         {
@@ -232,8 +232,8 @@
         {
             "text": "…I tell her that I understand how she feels. Thinking back on what was written in the school newspaper column, today's race was truly moving.",
             "choice_data_list": [
-                "Did you come here because you read that column too?",
-                "Did you come here because you read that column too?"
+                "Did you perhaps read that column too?",
+                "Did you perhaps read that column too?"
             ]
         },
         {
