@@ -1,0 +1,430 @@
+{
+    "title": "New Year's Resolution",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The New Year had begun. Buena Vista moved\nup into the Classic class. And at last, her\nchallenge toward the Triple Tiara was about\nto begin.",
+            "choice_data_list": [
+                "(Alright, time to get fired up!)",
+                "(Alright, time to get fired up!)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—Trainer? Trainer!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The sukiyaki's ready! Let's eat!",
+            "choice_data_list": [
+                "Ah… thanks."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "For the New Year, I'd been invited to Buena\nVista's home, spending a quiet, relaxing time.\nRight now, we were enjoying sukiyaki together."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Go on, have as much as you like. If you space\nout, Buena will eat them all, you know?",
+            "choice_data_list": [
+                "…Time to dig in!!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, hey! Come on, I'm not that much of a\nglutton! …Hehe."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Haaah… that was so good.",
+            "choice_data_list": [
+                "I'm stuffed…",
+                "I'm stuffed…"
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Hehe… Seeing you two sitting there like that,\nso relaxed side by side… It really brings back\nmemories."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "I thought it might be difficult this year… but\nI'm really glad you could come, <username>.",
+            "choice_data_list": [
+                "Thank you for the meal."
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "I thought it might be difficult this year… but\nI'm really glad you could come, <username>.",
+            "choice_data_list": [
+                "Thank you for the meal."
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Oh, don't worry about it. Take it easy and stay\nas long as you like. Things have been busy\nlately, haven't they?"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Buena tells me about it on the phone. Things\nlike, \"Trainer seems really busy lately,\" or,\n\"I wonder what kind of late-night snacks\nwould be best…\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "M-Mom…!",
+            "choice_data_list": [
+                "Buena… thanks for worrying about me."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…No. I'm not worried, okay?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Because I trust you.\n…You know that, right?",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "…You two really are close."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Oh, that reminds me… The elementary school\nnearby is opening up their gym for New Year's\ncalligraphy. Why don't you two go check it out?"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we headed to a nearby elementary\nschool. Buena Vista had brought along a\ncalligraphy set she used as a child, but…",
+            "choice_data_list": [
+                "Wait, is that mine…?",
+                "Wait, is that mine…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yep! It's the one you gave me back in\nelementary school."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The brush is still in great condition, so I\nthought I could keep using it.",
+            "choice_data_list": [
+                "You really kept it all this time…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Of course! I've always taken good care of it.\nLook, even the name label…"
+        },
+        {
+            "name": "Monologue",
+            "text": "On the calligraphy set, next to the sticker with\nmy name on it, \"Buena Vista\" had been written\nbeside it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It just felt like a waste to cover it up, you\nknow?",
+            "choice_data_list": [
+                "Thanks for taking such good care of it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, of course! Alright, let's write."
+        },
+        {
+            "name": "Monologue",
+            "text": "At the start of her important Classic year,\nwhat resolution will Buena Vista choose?",
+            "choice_data_list": [
+                "\"Build Stamina\"",
+                "\"Health First\"",
+                "\"Master of Many Skills\""
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She'll be taking on tougher training from here\non out. Wanting her to be able to endure it,\nI put my heart into writing: \"Build Stamina.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah, that—!\nIt's exactly the same as mine…!",
+            "choice_data_list": [
+                "Huh…!?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Training's only going to get more intense,\nright? So I figured I should build up my\nstamina."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe… what an amazing coincidence!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Above all else, her well-being comes first.\nHoping she stays healthy, I carefully wrote:\n\"Health First.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah, that—!\nIt's exactly the same as mine…!",
+            "choice_data_list": [
+                "Huh…!?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Racing is tough, after all. I thought I should\nprioritize my health first."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe… what an amazing coincidence!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista's overall ability is already at a\nhigh level. So I thought she could benefit\nfrom having a unique edge, and wrote:\n\"Master of Many Skills.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah, that—!\nIt's exactly the same as mine…!",
+            "choice_data_list": [
+                "Huh…!?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Since it's a special occasion, I thought I'd\nwrite something fun."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe… what an amazing coincidence!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "When we get back to the academy, let's hang\nthese up in the trainer's office together!\n"
+        },
+        {
+            "name": "Monologue",
+            "text": "After that, we spent a little more time relaxing\nat Buena Vista's home… And on the way back\nto the academy…"
+        },
+        {
+            "name": "Student A",
+            "text": "Huh!? B-Buena!? Wow, it's really her…!\n…Ah, h-happy New Year!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Happy New Year! Um, you all are…?"
+        },
+        {
+            "name": "Student B",
+            "text": "W-we're fans of yours, Buena…! Ah, r-right!\nCongratulations!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? Congratulations… for what?"
+        },
+        {
+            "name": "Student C",
+            "text": "Oh! There's this super famous voting site\namong racing fans… \"The 1st\"… here, this one!",
+            "choice_data_list": [
+                "(Oh, I know this site…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "What they showed us was the most\nauthoritative fan voting site in racing. For\neach race, fans vote on who they want to\nsupport."
+        },
+        {
+            "name": "Monologue",
+            "text": "A way to visualize, with surprising accuracy,\n\"who carries the most expectations\"… And on\nthat site, Buena Vista…"
+        },
+        {
+            "name": "Monologue",
+            "text": "For the \"Oka Sho,\" she was ranked as the\nnumber one favorite."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oooh…!"
+        },
+        {
+            "name": "Student A",
+            "text": "We voted for you too, Buena!\nEveryone's really looking forward to it…!"
+        },
+        {
+            "name": "Student B",
+            "text": "If it's you, Buena, we believe you could\nbecome the third Triple Tiara horsegirl…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The \"Oka Sho,\" \"Oaks,\" and \"Shuka Sho\".\nAnyone who wins all three is known as\na Triple Tiara horsegirl."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the long history of the Twinkle Series, only\ntwo have ever achieved it…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Ramonu, and Still in Love.\nAside from these two great legends,\nno other horsegirls holds that title.",
+            "color_text_info_list": [
+                "Mejiro Ramonu",
+                "Still in Love"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The Triple Tiara… Me…!?"
+        },
+        {
+            "name": "Student A",
+            "text": "If it's you, Buena, you can definitely do it～!"
+        },
+        {
+            "name": "Student C",
+            "text": "…But if it's you… I'd love to see you go for\nthe \"Prix de l'Arc de Triomphe\"!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The \"Prix de l'Arc de Triomphe,\" too…!",
+            "choice_data_list": [
+                "(The world's greatest race, in France…!)"
+            ]
+        },
+        {
+            "name": "Student C",
+            "text": "Ah, but if she goes for the Arc, she wouldn't\nbe able to run in the Shuka Sho, since the\ntiming overlaps…"
+        },
+        {
+            "name": "Student B",
+            "text": "What!? No way, no way! I have to see Buena\nwin the Triple Tiara!"
+        },
+        {
+            "name": "Student C",
+            "text": "Ugh… I want to see that too!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hehe. You all really know about racing,\ndon't you?"
+        },
+        {
+            "name": "Student C",
+            "text": "Ah! S-sorry… We're just putting our own\nexpectations on you…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Not at all, it makes me happy, you know?\nIf anything, I want to hear even more!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The more expectations you place on me, the\nmore I have to carry… and the bigger my\ndreams become. And that's a truly wonderful\nthing!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey… the Triple Tiara, they say."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer, do you think I can do it?",
+            "choice_data_list": [
+                "(…Yeah, I figured you'd say that.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista's dream, the view she seeks, is\nsomething that's meant to \"reach everyone.\"\nIf expectations are placed on her, then she\nwants to rise to meet them."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Maybe that's where my view lies."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The Triple Tiara… I think the view from there\nwould be something that makes your heart\ntremble, like the breathtaking sight Spe\nshowed us."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "What do you think? Can I make it there?",
+            "choice_data_list": [
+                "Either way, you don't plan on losing, right?",
+                "Either way, you don't plan on losing, right?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Of course.\n…My heart's already made up.",
+            "choice_data_list": [
+                "Let's go for it, the Triple Tiara!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah. I'll give it everything I've got."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Once I get back to the dorm, I'll go over my\ntraining plan…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah—!?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm so sorry, I ran right into you…!\nAre you okay?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…………"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—Wait… Desire!",
+            "color_text_info_list": [
+                "Desire"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Red Desire. My classmate, with that distinct,\nstriking presence. And…)",
+            "color_text_info_list": [
+                "Red Desire"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Sorry, are you really okay? That must've hurt…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "No, I'm fine. I should apologize as well,\nI wasn't paying attention."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…By the way, Buena. Did something good\nhappen today? Your aura… it's positively\nradiant."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Something good…? Yeah, a lot, actually!\nHehe, was it that obvious?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Of course. Your brilliance is immense… like\nthe sun of this world."
+        },
+        {
+            "name": "Red Desire",
+            "text": "I look forward to meeting you on the turf.\nIn the days when the three jewels shine…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Three jewels…?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah—! The Triple Tiara!"
+        }
+    ]
+}
