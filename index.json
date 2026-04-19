@@ -9,6 +9,21 @@
       "size": 450413
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_challengematch_racestart00/tx_uTex_fl_challengematch_racestart00_0.diff.png",
+      "hash": "ca3d00d4882888eeddd311cf498f2261640fc4590670c77c1b071f53edd6d21c",
+      "size": 57106
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_challengematch_result_factor00/tx_uTex_fl_challengematch_result_factor00_0.diff.png",
+      "hash": "286851b625a83ad1eea764e010565fb6934d5b394024d0d4085458753b1d1a2e",
+      "size": 53339
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_challengematch_top_gaugemax00/tx_uTex_fl_challengematch_top_gaugemax00_0.diff.png",
+      "hash": "1ab4d85beb36db71808bf0d4f3517f89bf42da45a136ad5fec2d1a50ada295dd",
+      "size": 258742
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_notice_round00/tx_uTex_fl_champions_notice_round00_0.diff.png",
       "hash": "3c42e0909391953a64424795024425412978e70cbd1dbe9117fb3bee4b6f72f3",
       "size": 603375
@@ -1909,6 +1924,51 @@
       "size": 596
     },
     {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1061001.json",
+      "hash": "73b53376577fbd889a9f44084833d67ddc9ab1ede41d09b9b513150b8a72053a",
+      "size": 645
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1061002.json",
+      "hash": "d7c1009c29c2810f47490a99121516230198240c83ac0a82c9341cae379ce699",
+      "size": 530
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1061003.json",
+      "hash": "436d587100ad5c9bc169d202e450b0984f6d5c4d2f3a6f48bc90034ca42f67e2",
+      "size": 541
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1062001.json",
+      "hash": "795ee54b957f5e45decb758bc8e03d5fb78da0da3977aff689d13fe6dae97e6e",
+      "size": 751
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1062002.json",
+      "hash": "12e1872a8afba02cd565eb677b43746d9610aa85097086c0c218bbf70ceffdcc",
+      "size": 775
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1062003.json",
+      "hash": "41cbe8eff283cd006438e47d68d9e8b5c895c1f60df98873dd71d40dfb776865",
+      "size": 731
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1064001.json",
+      "hash": "f87538de52c348885419473ee3fd4ec3e3d5339a2cda6a7087b0ceeee4704bcd",
+      "size": 676
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1064002.json",
+      "hash": "dd866822cb2a20103876eb3b6e3774840acb55f67b0c1386c8b617f016bc16ad",
+      "size": 779
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1064003.json",
+      "hash": "50c4961a15ed3b09e8ee4f4dd9cd5ed3ffb91f5b0a76b686bcb0a38c092b1f50",
+      "size": 513
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1066001.json",
       "hash": "92a0d4b16f78e009c350a5ceafd4be6e875f0f856387c05529d0d2a99e2da3c8",
       "size": 605
@@ -1924,9 +1984,49 @@
       "size": 655
     },
     {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1067001.json",
+      "hash": "46dee9d1a95c340b3ae867cf1a2c7ffb9c86ef18e9d0cc22eb03dac577e84d50",
+      "size": 842
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1067002.json",
+      "hash": "9dbd40efa96f2d23003a4cdc665c893922043a50d853bf68400f82347a992e67",
+      "size": 756
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1067003.json",
+      "hash": "92f43f101ea40d722f6547daf40d7081c9fa352495f012817356f1a9aa5126a3",
+      "size": 668
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1068001.json",
+      "hash": "5c83d31e8c05814953a64d327ad4151a0e38b19777698d00f8790fb271f82346",
+      "size": 521
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1068002.json",
       "hash": "65ae1f6c25e8752ca9fbb93828ac3395e2be90857254d2970704d872927355da",
       "size": 783
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1068003.json",
+      "hash": "3ba5e842ebc1f2bc6a68a6b764cc7b4e38136c2bec34dc102a9b1375b615ad02",
+      "size": 459
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1069001.json",
+      "hash": "5ff3a25ad3d60995a7f1b16117d106d843eae8de9a969dc610e435ee31402ed2",
+      "size": 650
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1069002.json",
+      "hash": "77160ef27a8f9ea210d28fcb5f2173ec31974dc3209f217cb89b507f11d99b0d",
+      "size": 736
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1069003.json",
+      "hash": "173f0a7ed0d05c5e0edebae4fe1a072108266adc37e73bd224d983935e04ab82",
+      "size": 577
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1070001.json",
@@ -1942,6 +2042,51 @@
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1070003.json",
       "hash": "041f8d8c4747aacca7abc04f87d2a1414a510c660b582e7aa916263373b56d25",
       "size": 701
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1071001.json",
+      "hash": "a20d7b99e3109aaf9ae4484c266710159a211b11c3b628b9129a55c28c2702ca",
+      "size": 735
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1071002.json",
+      "hash": "31a0558dc29b3d3c4a68692d12405f1e82533b7aa6f57e61ad1fdeb764edaba5",
+      "size": 567
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1071003.json",
+      "hash": "59c58510643375c26bb38e319fc5e9754f373fd81699e4e73ffbc5b6c0c444ef",
+      "size": 622
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1072001.json",
+      "hash": "05dde310facc6ab34a3f01f7dc3a883d4f7d706205c0dee0343a2712c0085fa3",
+      "size": 599
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1072002.json",
+      "hash": "2ba7e8e04a1dcd260c50f620e00661cd58d6647652dd01a5e852037e33848426",
+      "size": 734
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1072003.json",
+      "hash": "12425178802fdaae981dfcd5720c138609e0e6e9d9568e5fe229c2c818afbe2e",
+      "size": 756
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1074001.json",
+      "hash": "386b3a6e86b13c1a0e5eaaa9afe12d2c16cee68f9a17bda5ce0d7864cec5e318",
+      "size": 661
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1074002.json",
+      "hash": "14e3aac660cdfa09bd78bf36e49c333fddc3c342bd331a5295d66436b8080e55",
+      "size": 552
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1074003.json",
+      "hash": "1421ce3c19813e69b522547efd2ca7a1b19499ce69a98cb60c8dbf69200733b2",
+      "size": 727
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1076001.json",
@@ -2114,6 +2259,16 @@
       "size": 1178
     },
     {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1003001.json",
+      "hash": "b3f5013b8202a30b801fb5b5abd9abb96de33c2773db09561480d9ff998f09e7",
+      "size": 1395
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1003002.json",
+      "hash": "53e99be7ae1a34b8c5e004b32b8ef94ff51af9afd0dd89b0b16c5247e0447946",
+      "size": 1328
+    },
+    {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1004001.json",
       "hash": "0fd8429769b3c0270767690505371838bc8679c065102ab52b521211ab2f88c0",
       "size": 1496
@@ -2174,6 +2329,16 @@
       "size": 1597
     },
     {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1010001.json",
+      "hash": "abf637520532713f76a0558833673e50ee6810cb71d9ee911de069df86998136",
+      "size": 865
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1010002.json",
+      "hash": "b9cfc61066972927f9f24f613b17984c8d36f875cb2620a2b6ff7382f052331b",
+      "size": 688
+    },
+    {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1011001.json",
       "hash": "1e747504c6aa656fa4c9ba0403db7e71ad1ab908a75036e00721328b4d8a231a",
       "size": 870
@@ -2192,6 +2357,61 @@
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1012002.json",
       "hash": "4b5fb2e70ea6c25f2288d570fe0a70890c09f1fbac12d5716ec8d39fd24993df",
       "size": 1380
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1013001.json",
+      "hash": "a4d3bd0d9ddb68566d6f95e3f08786e8139f46aab19b80a697e0386bbfdfa2bf",
+      "size": 884
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1013002.json",
+      "hash": "76ec564b7b64e3e84f479f9b9176f729a11bab002167b748ff7983cc9df50db5",
+      "size": 1371
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1014001.json",
+      "hash": "46482e5e1c1a44fff123cec38fb79bb163e96c43f88db439a26c83779c917f00",
+      "size": 1367
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1014002.json",
+      "hash": "04bbd0cec4fd05a16d9265497ee02ff214947b2d559f1ca8783d5a569f81d21f",
+      "size": 1358
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1015001.json",
+      "hash": "afba9377263e6358fd98aa336752bcbdffd0e1f08c42f41fddaa3cb2f2b5eae1",
+      "size": 1435
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1015002.json",
+      "hash": "fca49ea50cdcb76c8219002ff7b5c3218286102533dfc1683bc957f748e8d029",
+      "size": 1188
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1016001.json",
+      "hash": "1954e39e607de2638c2bf6b422daf8e86a4604738a2a9f75dd0d230c1f473c65",
+      "size": 1213
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1016002.json",
+      "hash": "1d82a81ed521b48d1ecfd50a28c03ccd7c37492857eaaa857779814546fb3944",
+      "size": 1237
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1017001.json",
+      "hash": "ce7bcf3e667e6e7996d208bb74ae5472b6be5255b050335d8616d99c26550758",
+      "size": 1322
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1017002.json",
+      "hash": "3a7e100c0ee109009ad846c65adc927fe6badeecdab8d4b50a013f2b90769c52",
+      "size": 948
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1018001.json",
+      "hash": "e96a648a05618a2e53ebaf53cfbcf35fd6eb3a8a82a7a4db8cef0275833966df",
+      "size": 1204
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1038001.json",
@@ -9382,6 +9602,11 @@
       "path": "assets/story/data/83/0292/storytimeline_830292003.json",
       "hash": "db9208fca804641f20cf25d4f538870d70be15a7b9414f0b6474c3cde8c67bb9",
       "size": 4852
+    },
+    {
+      "path": "assets/textures/challengematch/utx_txt_challengematch_logo_00.diff.png",
+      "hash": "5a2c4e4feee6055e7a0ebf30be8a69f4f58202e9eead7b8a70e29de5218d4852",
+      "size": 136592
     },
     {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0070.diff.png",
@@ -17645,8 +17870,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "a9c86e89083a95e97739ca0dbeac2e7fc128bd11b394bce230c2a9a65e874bd9",
-      "size": 410406
+      "hash": "7c13e51b73695b376052c0949f50ee68132e34862f4d02185aa139ff630fc3ca",
+      "size": 409981
     },
     {
       "path": "race_jikkyo_comment_dict.json",
