@@ -1,0 +1,300 @@
+{
+    "title": "Chapter 6: Tracing Personality Through Passion",
+    "text_block_list": [
+        {
+            "name": "Chrono Genesis",
+            "text": "Ah… looks like that space over there is being renovated.",
+            "choice_data_list": [
+                "<size=39>I wonder what kind of shop will move in next?</size>"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Yeah… Personally, I'd love it if it were a racing café. Watching live races on a big screen, hearing other customers' predictions and all…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Oh… an outdoor shop would be nice too. They'd have binoculars, winter gear, and all kinds of things useful for spectating…"
+        },
+        {
+            "text": "On my day off. I ran into Chrono Genesis while she was shopping,\nso I decided to tag along."
+        },
+        {
+            "text": "Her intense passion for racing history. Every time I get a glimpse of it, I am struck by the same thought.",
+            "choice_data_list": [
+                "<size=40>(I want to catch up to that passion too…!)</size>",
+                "<size=40>(I want to catch up to that passion too…!)</size>"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "15 frames per second in burst mode, and 30 with an electronic shutter… Hmm… it's really nice… but yeah, the price…",
+            "choice_data_list": [
+                "A new camera for shooting races?"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Ah, yes… I've been feeling like my current camera is a bit lacking. Though with my allowance, there's only so much I can afford…"
+        },
+        {
+            "name": "Camera Shop Clerk",
+            "text": "Are you looking for something? If you'd like, I can recommend something close to what you're after within your budget."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "R-Really? Thank you so much!\nIn that case—…"
+        },
+        {
+            "name": "Camera Shop Clerk",
+            "text": "With your current equipment, adding a lens should do the trick. This one has a focal length of 70 to 300mm, and excellent subject tracking."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Waah…! There are plenty of racecourses where 300mm is enough. Tokyo Racecourse is pretty big, but with the right skill and positioning, it should work well…",
+            "choice_data_list": [
+                "(I-I see…?)"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "It has a unique stabilization system, and it corrects chromatic aberration really well… And if I get it used, I might be able to afford it if I save up my allowance…!"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "………Ah. I-I'm sorry…!\nI got a little carried away……",
+            "choice_data_list": [
+                "Don't worry about it"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "\"Game Theory of Wind and Horseshoes\" … \"Winning Strategies Through Historical Data\" …\n…Yeah. Looks like all the books I want are in stock."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Though… it might take a while to get them. This store is pretty big……and the genres are all over the place…",
+            "choice_data_list": [
+                "Then let's split up and grab them!"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Oh… thank you. In that case, could I ask you to get the science books? I'll look for the history ones……"
+        },
+        {
+            "text": "After finding the books, I headed to the meeting spot. But Chrono Genesis was taking a while to show up.",
+            "choice_data_list": [
+                "(Did something happen…?)"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Records from discontinued racecourses…!?\nSome of these go back over a hundred years…!"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Amazing… what a find…! To understand the development of modern racing, information from that time is essential—but materials like these are incredibly rare…!",
+            "choice_data_list": [
+                "Chrooono～?"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Huh…?\n…Ah, Trainer…!!"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "I'm so, so sorry…!!\nI found something really valuable and just…",
+            "choice_data_list": [
+                "Really, I don't mind"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "B-But…"
+        },
+        {
+            "text": "Chrono Genesis looked completely apologetic.\nTrying to cheer her up, I looked around for something—",
+            "choice_data_list": [
+                "Hey, why don't we go over there?",
+                "Hey, why don't we go over there?"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "A race café…\nI didn't know there was one here…",
+            "choice_data_list": [
+                "We can enjoy the races together here!",
+                "We can enjoy the races together here!"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Ah… yes, thank you very much…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(…I really am making them go out of their way for me, aren't I… And not just today…)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(Trainer is a kind person…\nEven when I get completely absorbed in racing, they just smile and accept it…)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(But… if I keep causing trouble like this,\neven my Trainer might eventually…)"
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Hey there, you two! Got a minute?"
+        },
+        {
+            "text": "We turned toward the voice and saw a man and a woman\nholding a racing newspaper, waving with smiles.",
+            "choice_data_list": [
+                "Yes, what is it?"
+            ]
+        },
+        {
+            "name": "Horseshoe-Pattern Woman",
+            "text": "We were just talking about the last race.\nSee, this one marked in red here…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Let's see… turf 1800… a front-runner-favored course…\nAh, this race…!"
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Oh! You saw it too, miss? Man, she had a great run!\nThat #4 horsegirl!"
+        },
+        {
+            "name": "Horseshoe-Pattern Woman",
+            "text": "Look at you now. Who was it that said\nshe'd probably struggle this time?"
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Hey, she'd been out for a long time, right?\nEven after coming back, she wasn't doing great, so I figured it'd be tough."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Y-Yes…!\nI think her strategy really paid off…!"
+        },
+        {
+            "name": "Horseshoe-Pattern Woman",
+            "text": "Strategy?"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Ah… yes. The #4 runner… it's true she hasn't had strong results since returning, but her graded race two starts ago wasn't that bad…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Considering her record before her long break, those two races were likely meant to help her regain condition—more like rehabilitation."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "So she came into this race very well prepared…!\nEven from a historical perspective, there have been similar strategies—"
+        },
+        {
+            "name": "The Two Cafe Customers",
+            "text": "…………"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "…? Um…?"
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Well… as expected of a horsegirl, I guess…\nYou really know more than we do…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "――……!\nI-I'm sorry, I said too much…!",
+            "choice_data_list": [
+                "<size=33>Exactly! She's passionate—and really knows her stuff!</size>"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Eh…?"
+        },
+        {
+            "name": "Horseshoe-Pattern Woman",
+            "text": "Seriously. Just now, the look in her eyes completely changed!\nIt's like she's completely devoted to racing—",
+            "choice_data_list": [
+                "Yeah. I'm always blown away by it",
+                "Yeah. I'm always blown away by it"
+            ]
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Haha! Sounds like you've got your hands full, young man!",
+            "choice_data_list": [
+                "But that's exactly why it's so much fun!"
+            ]
+        },
+        {
+            "name": "Man with a Pen",
+            "text": "Haha! Sounds like you've got your hands full, young lady!",
+            "choice_data_list": [
+                "But that's exactly why it's so much fun!"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "……!",
+            "choice_data_list": [
+                "It makes me want to catch up to her!",
+                "It makes me want to catch up to her!"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "――……………!"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "……Thank you very much for today.\nFor spending so much time with me…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "U-Um… I had fun…\n…A lot…",
+            "choice_data_list": [
+                "<size=33>It was a day where I really felt your passion, too!</size>",
+                "<size=33>It was a day where I really felt your passion, too!</size>"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "My… passion…",
+            "choice_data_list": [
+                "I hope we get to do this again sometime"
+            ]
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Ah… um… yes!\nI-If you really don't mind… then again, sometime…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(Again… they said. Trainer, do you really mean it…?)"
+        },
+        {
+            "text": "『But that's exactly why it's so much fun!』"
+        },
+        {
+            "text": "『It makes me want to catch up to her!』"
+        },
+        {
+            "text": "『It makes me want to catch up to her!』"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(…I hope it's true… There's something I want you to see, too…)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(Me… and the things I love…)"
+        }
+    ]
+}
