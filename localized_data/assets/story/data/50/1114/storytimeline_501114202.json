@@ -1,0 +1,228 @@
+{
+    "title": "Before the Oka Sho",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Buena Vista",
+            "text": "……♪"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Oh? Preparing for tomorrow's race, I assume?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Gentil! Welcome back!",
+            "color_text_info_list": [
+                "Gentil"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Gentildonna. Beautiful and cool, my reliable\nroommate.)",
+            "color_text_info_list": [
+                "Gentildonna"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'll be staying at a hotel near the venue tonight."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "…That's quite a lot of luggage for a single\nnight."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I know! That's why I'm trying to narrow it down\nright now…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Shampoo, skincare… things to keep me\nentertained on the Shinkansen. Before I knew\nit, my bag was completely full…"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "Heh."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "My apologies. \n…So you're feeling confident, then."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "The Oka Sho… the first leg of the Triple\nTiara route. A race that marks the beginning,\nand one of great importance."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…?\nYes, that's right!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's why I'm really looking forward to it!\nI've received so many expectations, too…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So to live up to everyone's hopes, I'll give it\nmy all!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "…I see. Then I suppose I may place my\nexpectations on you as well."
+        },
+        {
+            "name": "Gentildonna",
+            "text": "As a senior on the Tiara path… will you show\nme a performance worthy of being followed?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes! I'll carry that expectation too… right\nalongside the others♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the Oka Sho. For a target race,\nit's her first time back at Hanshin Racecourse\nsince the Hanshin Juvenile Fillies.",
+            "choice_data_list": [
+                "(Glad we made it on time this time…)"
+            ]
+        },
+        {
+            "name": "Race Fan A",
+            "text": "Ah…! It's Buena Vista!"
+        },
+        {
+            "name": "Race Fan B",
+            "text": "We came to cheer you on today!\nDo your best～!"
+        },
+        {
+            "name": "Monologue",
+            "text": "In no time at all, fans begin gathering around\nBuena Vista. Of course… the race itself has\ndrawn a lot of attention, but…",
+            "choice_data_list": [
+                "(She really is that popular…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you so much, everyone! I'll do my best\nto live up to your expectations―"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So please keep cheering for me during the\nrace, too!"
+        },
+        {
+            "name": "Fans",
+            "text": "Woooooahhh!!\nGood luck～!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We got a lot of cheers. Guess I really have to\ngive it my all!",
+            "choice_data_list": [
+                "Yeah…",
+                "Yeah…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing her so fired up, a faint concern crosses\nmy mind. It reminds me of the \"Specialized\nEvent Meet\" she ran in before we officially\npartnered…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I just realized. I was actually really nervous,\nwasn't I?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Being so emotionally perceptive, she was\noverwhelmed by the crowd's energy… and\nended up more tense than she realized."
+        },
+        {
+            "name": "Monologue",
+            "text": "Today, the crowd's energy is stronger than\never. Even if she has handled it before… she\nmight be feeling nervous without noticing.",
+            "choice_data_list": [
+                "Buena… want to take a deep breath?",
+                "Buena… want to take a deep breath?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah, you're right. Please.",
+            "choice_data_list": [
+                "Alright, then… close your eyes."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I speak softly to Buena Vista, helping her focus.\nThen, I encourage her to take a deep breath…",
+            "choice_data_list": [
+                "You'll be fine. Today… you can be the star.",
+                "You'll be fine. Today… you can be the star."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Your voice… It really does calm me down."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you. I'm okay now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The first crown of the Triple Tiara path…\nIf it's Buena Vista, she can stand at the center\nof this year's Tiara races…",
+            "choice_data_list": [
+                "Let's win this, Buena!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—Yes!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Buena. I've long awaited the day I could face\nyou like this."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Desire…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Thank you, for seeing me as your rival.\nI've been looking forward to it too!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Yes, that radiance of yours, is like the sun.\nAnd that is precisely why… I must surpass you."
+        },
+        {
+            "name": "Red Desire",
+            "text": "—As a \"Saintess.\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "I ask that you face me. So that I may begin\nmy story…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Your story…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That sounds like so much fun! Thank you for\nletting me be part of it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But I don't plan on losing. There are people\nwaiting for my story, too!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Let's begin, Desire! On the stage of the Tiara,\nlet's shine with everything we've got!"
+        }
+    ]
+}
