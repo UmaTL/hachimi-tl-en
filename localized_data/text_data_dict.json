@@ -1719,6 +1719,12 @@
         "287": "A Gold Ingot. Each can be exchanged for 10 000 000 Money.",
         "291": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
         "296": "Permanently increases the amount of daily time-limited shop sales.",
+        "308": "Stay Gold's gold coin. Exchangeable for 10 000 money.",
+        "309": "Dream Journey's gold coin. Exchangeable for 10 000 money.",
+        "310": "Nakayama Festa's gold coin. Exchangeable for 10 000 money.",
+        "311": "Orfevre's gold coin. Exchangeable for 10 000 money.",
+        "312": "Gold Ship's gold coin. Exchangeable for 10 000 money.",
+        "313": "Fenomeno's gold coin. Exchangeable for 10 000 money.",
         "328": "A delicious donut. Crispy on the outside, soft on the inside. Restores 30TP.",
         "1001": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
         "1002": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
@@ -3515,6 +3521,12 @@
         "302": "Trait Research Report",
         "304": "Procurement Ticket",
         "306": "Trait Research Report",
+        "308": "Gold Coin (Stay Gold)",
+        "309": "Gold Coin (Dream Journey)",
+        "310": "Gold Coin (Nakayama Festa)",
+        "311": "Gold Coin (Orfevre)",
+        "312": "Gold Coin (Gold Ship)",
+        "313": "Gold Coin (Fenomeno)",
         "314": "Legacy-only Horsegirl Expansion",
         "328": "Old-fashioned Donut",
         "329": "Trait Research Report",
@@ -4230,6 +4242,12 @@
         "291": "Agnes Tachyon's research report. \nCan be used to improve a trait.",
         "296": "Permanently increases the amount of daily time-limited shop sales.",
         "304": "A ticket to procure Legacy-only Horsegirls.\n1 ticket = 1 horsegirl.",
+        "308": "Stay Gold's gold coin. Exchangeable for 10 000 money.",
+        "309": "Dream Journey's gold coin. Exchangeable for 10 000 money.",
+        "310": "Nakayama Festa's gold coin. Exchangeable for 10 000 money.",
+        "311": "Orfevre's gold coin. Exchangeable for 10 000 money.",
+        "312": "Gold Ship's gold coin. Exchangeable for 10 000 money.",
+        "313": "Fenomeno's gold coin. Exchangeable for 10 000 money.",
         "314": "Increase legacy-only horsegirl \nspots by 5 for 30 jewels.",
         "328": "A delicious donut. Crispy on the outside, soft on the inside.\nRestores 30TP.",
         "1001": "Obtained from Scout Races in \"Target: Top Team!\" \nRequired to scout team members.",
@@ -5076,6 +5094,7 @@
         "30310": "Twinkle Collection Pretty Derby Gacha",
         "30312": "Pick Up Pretty Derby Gacha",
         "30316": "Twinkle Collection Pretty Derby Gacha",
+        "30434": "Gold Week Pretty Derby Gacha",
         "50001": "Guaranteed ★3 Start Dash Gacha",
         "50002": "Guaranteed SSR Start Dash Gacha",
         "50003": "Guaranteed ★3 Half Anniversary Gacha",
@@ -20003,7 +20022,8 @@
         "10062": "Beginning of a New Era attendance present 5.",
         "10070": "Reward from UmaSub.",
         "10071": "Unclaimed UmaSub reward.",
-        "10085": "Code reward from the \"Why not take a stroll today?\" pack."
+        "10085": "Code reward from the \"Why not take a stroll today?\" pack.",
+        "10108": "Obtained from the Gold Week solid gold coin giveaway campaign by applying with a linked Cygames ID."
     },
     "65": {
         "100101": "Rookie Trainer",
@@ -31815,7 +31835,8 @@
         "30167": "Enf of Year Countdown Login Bonus",
         "30168": "Enf of Year Countdown Login Bonus",
         "30169": "Enf of Year Countdown Login Bonus",
-        "30170": "New Year Special Login Bonus"
+        "30170": "New Year Special Login Bonus",
+        "30240": "Gold Week Commemorative Login bonus"
     },
     "75": {
         "10001": "[Tracen Academy] Special Week",
@@ -36160,6 +36181,13 @@
         "41116005": "With That Thought, Reflect On Yourself",
         "41116006": "With Those Words, Inspire Yourself",
         "41116007": "To That Smile, I'll Answer",
+        "41118001": "The Icy Horsegirl",
+        "41118002": "I Have No Need of Affection",
+        "41118003": "A Lost Soul",
+        "41118004": "A Momentary Contract",
+        "41118005": "Flashing a Smile",
+        "41118006": "Tip of the Iceberg",
+        "41118007": "Unseen Happiness",
         "41121001": "Brilliant and Dashing! A Knight Arrives",
         "41121002": "The 『Holy Sword』! Where Is My King?",
         "41121003": "A Sacred Calling! Chivalry Is My Creed",
@@ -36186,7 +36214,14 @@
         "41131003": "It's Already Been Decided By MiRules!",
         "41131005": "Are You Familiar With Miles?",
         "41131006": "Do You Understand Miles?",
-        "41131007": "Do You Love Miles?"
+        "41131007": "Do You Love Miles?",
+        "41135001": "Narrating from the End",
+        "41135002": "That Name that Shines Dully",
+        "41135003": "It's not Here, but Beyond",
+        "41135004": "It Started Long Ago",
+        "41135005": "A Bridge that Leads to an Oasis",
+        "41135006": "A Bag with Curiosity and a Blank Map",
+        "41135007": "Companionship Makes the World Sparkle; Even the Darkest of Paths can Shine like Gold"
     },
     "136": {
         "1": "Spectator A",
@@ -47093,7 +47128,11 @@
         "1070": "Umamusume: Pretty Derby - Beginning of \na New Era in theatres 24/05! Advance tickets \nincluding limited merch available now!",
         "1071": "Umamusume: Pretty Derby - Beginning of \na New Era in theatres 24/05! Enjoy more \nof the action on the big screen!",
         "1078": "TOKYO MEGA ILLUMINATION collab started!! \nFor details, check the official site!",
-        "1089": "6th EVENT The New Frontier\nPerformance on 18-19/10!\nDetails on the official site!"
+        "1089": "6th EVENT The New Frontier\nPerformance on 18-19/10!\nDetails on the official site!",
+        "1104": "Golden Week? This year's Gold Week! Don't miss your chance to obtain unique coins made of pure gold during this campaign!",
+        "1105": "Golden Week? This year's Gold Week! Enjoy the week with six horsegirls of gold!",
+        "1107": "Tune in to the Umamusume All-Night Japanese Gold radio program on 8 May, from 22:00—24:00!",
+        "1108": "Umamusume All-Night Japanese Gold will also be available through radiko's on-demand function until 15 May!"
     },
     "198": {
         "11": "Will appear as the scenario progresses.",
@@ -53738,7 +53777,10 @@
         "274": "This will direct you to Youtube.",
         "756": "6th EVENT Autumn Performance on 18-19/10!\nAdvance booking available on the official site!",
         "757": "6th EVENT Autumn Performance on 18-19/10!\nAdvance booking ending soon!",
-        "918": "Check out the opening for the new Umamusume x Midori no Makibaō TV anime collab: Putting the \"O\" in \"O\"ll-stars."
+        "918": "Check out the opening for the new Umamusume x Midori no Makibaō TV anime collab: Putting the \"O\" in \"O\"ll-stars.",
+        "928": "You can now participate in the <color=#ff9900>Gold Week Unique Gold Coin Giveaway Campaign</color>!\n\nYour Trainer ID will be used to access the application form. Continue?",
+        "944": "Tune in to the Umamusume All-Night Japanese Gold radio program, tonight from 22:00—24:00!",
+        "945": "Tune in to the Umamusume All-Night Japanese Gold radio program, running until 24:00!"
     },
     "268": {
         "1": "Eatery",
@@ -58625,6 +58667,10 @@
         "1": "Hole Digger",
         "2": "Earth Drill",
         "3": "Metal Crown"
+    },
+    "404": {
+        "1": "This unlocks a special 10-draw guaranteeing \n1 of the 3 Spotlighted support cards.",
+        "2": "※ Stamp rewards will be sent to Presents."
     },
     "407": {
         "7": "$(scale 85)Speed Friendship Bonus <color=#ff911c>15%</color>",
