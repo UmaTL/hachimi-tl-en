@@ -1,34 +1,46 @@
 {
-    "title": "After the Oka Sho: Cherry-blossom Scenery",
+    "title": "After the Oka Sho: Lift Your Head Up",
     "no_wrap": true,
     "text_block_list": [
         {
+            "name": "Spectators",
+            "text": "Red Desireeeeeee!!\nCongratulations!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…I lost. The breathtaking view of the Triple\nTiara, I'll never see it now.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…No, don't cry. Because…)"
+        },
+        {
             "name": "Fans",
-            "text": "Bueeena Vistaaaa～!!\nThat's one crown down! Congratulations～!!"
+            "text": "Buena-chan, great job too～!!"
         },
         {
             "name": "Buena Vista",
-            "text": "(This is incredible…! The sound alone is almost\noverwhelming. So this is a Classic race…!)"
+            "text": "…Thank you so much for cheering for me!\nI'm sorry… I couldn't live up to it!"
         },
         {
             "name": "Buena Vista",
-            "text": "…I kind of want to hear even louder cheers."
-        },
-        {
-            "name": "Buena Vista",
-            "text": "Hehe. I'm so glad I won!\nThank you, everyone!"
+            "text": "But in the Oaks… I'll definitely win!\nPlease keep supporting me!"
         },
         {
             "name": "Spectator A",
-            "text": "—! T-That straightforward gratitude…!\nAnd that pure, unclouded smile…!"
+            "text": "—! T-That straightforward gratitude…!\nAnd that pure determination…!"
         },
         {
             "name": "Spectator B",
-            "text": "Man, she's got an incredible kick. No doubt\nabout it, she's the top favorite for this year's\nTiara races!"
+            "text": "Buena Vista's finishing kick is still unmatched…!\nShe's still the favorite for this year's Tiara route!"
         },
         {
             "name": "Red Desire",
-            "text": "…As expected of you, Buena.\nYou truly belong at the center of applause."
+            "text": "…As expected of you, Buena."
+        },
+        {
+            "name": "Red Desire",
+            "text": "The hearts of the people still turn toward you…\nSo this truly is your world."
         },
         {
             "name": "Red Desire",
@@ -40,7 +52,7 @@
         },
         {
             "name": "Spectators",
-            "text": "Woooooahhhhh!!\nBueeena Vistaaaaa!!"
+            "text": "(Bueeena Vistaaa!! Great race～!!)"
         },
         {
             "name": "Red Desire",
@@ -48,26 +60,27 @@
         },
         {
             "name": "Buena Vista",
-            "text": "Trainer!\nBuena Vista… has won!",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Sorry. I can't show you the view of the Triple\nTiara anymore.",
             "choice_data_list": [
-                "Congratulations, you were amazing!",
-                "Congratulations, you were amazing!"
+                "The best view's still ahead of us.",
+                "The best view's still ahead of us."
             ]
         },
         {
             "name": "Buena Vista",
-            "text": "Hehe. Thank you!"
+            "text": "…Yeah. You're right."
         },
         {
             "name": "Buena Vista",
-            "text": "The atmosphere of a Classic race really is\nsomething special…!",
-            "choice_data_list": [
-                "Was the view just as special?"
-            ]
+            "text": "I realized something. The atmosphere of the\nClassic races really is special…"
         },
         {
             "name": "Buena Vista",
-            "text": "Of course! Everyone's smiles, their voices…\nit all sparkled so brightly."
+            "text": "Everyone's smiles, their voices… it all sparkled\nso brightly."
         },
         {
             "name": "Buena Vista",
@@ -75,7 +88,7 @@
         },
         {
             "name": "Buena Vista",
-            "text": "I'm sure of it now. Up ahead… there's\na breathtaking view waiting for us!",
+            "text": "I lost today. But… I became certain of it too.\nThere's still a breathtaking view waiting ahead!",
             "choice_data_list": [
                 "Alright, let's keep going!"
             ]
