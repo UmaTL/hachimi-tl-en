@@ -1,0 +1,61 @@
+{
+  "windows": {
+    "bundle_name": "7UDB67LGB6YUKWLD6GH5ML6LLUGYH5CN"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "1": {
+          "plane_param_list": {
+            "0": {
+              "anim_pos_offset_adj": {
+                "x": -100.0,
+                "y": 0.0
+              }
+            },
+            "1": {
+              "anim_pos_offset_adj": {
+                "x": -100.0,
+                "y": 0.0
+              }
+            },
+            "2": {
+              "position_offset": {
+                "x": -100.5,
+                "y": 6.5,
+                "z": 0.0
+              }
+            },
+            "4": {
+              "anim_pos_offset_adj": {
+                "x": -34.0,
+                "y": 0.0
+              }
+            },
+            "5": {
+              "position_offset": {
+                "x": -3.0,
+                "y": 28.5,
+                "z": 0.0
+              }
+            },
+            "6": {
+              "position_offset": {
+                "x": 21.0,
+                "y": 25.5,
+                "z": 0.0
+              }
+            },
+            "7": {
+              "position_offset": {
+                "x": 44.0,
+                "y": 26.5,
+                "z": 0.0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
