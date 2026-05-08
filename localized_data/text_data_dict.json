@@ -59039,6 +59039,19 @@
         "4": "$(nb)$(scale 85)Famous\nHot Spring\nInn",
         "5": "$(nb)$(scale 85)Legendary\nHot Spring\nInn"
     },
+    "450": {
+        "4": "Outrunners who are close to each other during the early \nor the middle phase expend energy for extra speed.\nThe strength and duration of this boost scale with Guts.",
+        "5": "Increases speed and acceleration when evenly \nmatched with a competitor on the homestretch.\nStrength scales with Guts.",
+        "6": "When Power is over 1200, acceleration in the last spurt is increased\nin proportion to power conserved up to that point and the amount\nof Power. Power isn't conserved during Rushes or Positioning Battles.",
+        "7": "When Stamina is over 1200, speed in the last spurt is\nincreased in races ≥2100 m when conditions are right.\nThe increase scales with Stamina.",
+        "8": "Trade energy for pace in the middle phase when far from\nthe lead or close to other competitors. Strength scales\nwith Power and Guts. Likelihood scales with Guts and Wit.",
+        "9": "Prevents Repositioning during the middle phase\nwhen lacking energy to complete the final spurt.\nLikelihood and accuracy scale with Wit.",
+        "10": "Trade energy for pace in the middle phase when too close \nto competitors whose running style positions them further back.\nStrength scales with Guts. Likelihood scales with Wit.",
+        "12": "When Speed is over 2000, top speed in the last spurt is increased\nwhen conditions are right. Speed uncap in the All-Out Spurt\nincreases with Power and Spurt Boost skills.",
+        "13": "Increases top speed in the late phase by expending energy.\nMight be delayed or weakened when lacking energy.\nStrength scales with Speed and Guts.",
+        "14": "Wastes energy on increased speed while disregarding positioning \nduring the early or middle phases. Likelihood decreases with Wit.",
+        "15": "Start reaction time is deemed too slow when crossing\na set value. Some skills can shorten reaction time."
+    },
     "454": {
         "1": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Dirt Sprints</color> route.",
         "2": "You'll be battling your way to the BC\nthrough the <color=#ff911c>Turf Sprints</color> route.",
