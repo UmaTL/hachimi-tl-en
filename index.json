@@ -729,6 +729,11 @@
       "size": 67574
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_auto_training00/tx_uTex_fl_singlemode_txt_auto_training00_0.diff.png",
+      "hash": "716d0fd439f812419d32f3a73145151a719d51282428b7161976aaa97ce03712",
+      "size": 11665
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_factor_succession00/tx_uTex_fl_singlemode_txt_factor_succession00_0.diff.png",
       "hash": "42a6129f89bf57324df0ed77fdd1a7695084a8883da66a32d6e7950e17b0fb86",
       "size": 83222
@@ -865,8 +870,8 @@
     },
     {
       "path": "assets/atlas/practicerace/practicerace.diff.png",
-      "hash": "64e1088b021827286cef5867d150a05b2009a8cbcc67059b9a3a79fe791edcf4",
-      "size": 28183
+      "hash": "545d575882c24fb433a8cdded51d3c9bf42c678cde0f4ddeec66878bf8cc15f3",
+      "size": 35445
     },
     {
       "path": "assets/atlas/practicerace/practicerace.json",
@@ -17939,6 +17944,11 @@
       "size": 387
     },
     {
+      "path": "assets/uianimation/flashcombine/action/singlemode/fa_singlemode_txt_auto_training00.json",
+      "hash": "7aca3ded35baebd01f011d4a6cdf0d1184bca95c3c544cb708314f274653574d",
+      "size": 1310
+    },
+    {
       "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
       "hash": "81b3117b1f606545288703dd3b164547bcd0ebf7c1dac8d3b0632a05f98230bb",
       "size": 1123
@@ -17960,8 +17970,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "dfe71d718b4e256663dde90d4efd45414d17ec04f0a0461f2d9a889ab89698f8",
-      "size": 15378
+      "hash": "8cda1d3fe03469e3762ddde47fddda24bb84c271e09eeaf5fcb2bf639db9befd",
+      "size": 14222
     },
     {
       "path": "includes_android",
@@ -17975,8 +17985,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "396aa5878e95009b5bbc36e3c3c1035da465d9cf65242f1b2f567b9ccea3d4f2",
-      "size": 413090
+      "hash": "be502023d761819c8a5bab670efca836b65fbde099092428f2600b4ccc9a494e",
+      "size": 413271
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -17990,8 +18000,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "fd3823669271fda9caec7460ed5f80dfbd1404c04048d2e2123fdc8799854d0b",
-      "size": 3341896
+      "hash": "b0fbbe93cb7c166ed315744a97a133dc0830679f62bf72a837c4a97457dc64da",
+      "size": 3344296
     }
   ]
 }
