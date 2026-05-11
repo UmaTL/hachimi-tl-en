@@ -1,0 +1,454 @@
+{
+    "title": "At Summer Camp (Year 2)",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Summer camp has already reached its\nmidpoint. Buena Vista's training has been\nprogressing well, but…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Haaaaaaahhh!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah… hah… one more set… please…!",
+            "choice_data_list": [
+                "No. We're taking a break first.",
+                "No. We're taking a break first."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No! I want to keep training more! Please…!",
+            "choice_data_list": [
+                "Absolutely not!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Uh…\n………Okay."
+        },
+        {
+            "text": "Her emotions are leaning too far forward,\nand she immediately pushes herself too hard.\nAt this point, it's clear. Leaving things as they\nare would be dangerous.",
+            "choice_data_list": [
+                "…Hey, Buena.",
+                "…Hey, Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes.",
+            "choice_data_list": [
+                "How about we go to Hokkaido right now?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Okay…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ehhhhhhhhh—!?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Buena, Trainer!\nWelcome to Hokkaido♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "W-We actually came…!"
+        },
+        {
+            "text": "We asked if we could stay with Special Week\nfor the first few days of her trip home. And\nthankfully, she happily agreed.",
+            "choice_data_list": [
+                "Thanks for helping us out, Spe."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Not at all. I'm happy to help!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Being able to show Buena my precious\nhometown like this makes me really, really\nhappy♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eh…?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I mean, Buena… you look up to someone like\nme, right?"
+        },
+        {
+            "name": "Special Week",
+            "text": "…So I think of you as a very special junior."
+        },
+        {
+            "name": "Special Week",
+            "text": "So for the next few days, I want you to enjoy\nHokkaido to the fullest!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Spe… Thank you so much!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…But is this really okay? Skipping training\njust to have fun…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "While we're doing this, all my rivals are getting\nstronger… and by the time the Shuka Sho\ncomes…",
+            "choice_data_list": [
+                "Buena. …Trust my judgment on this.",
+                "Buena. …Trust my judgment on this."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!",
+            "choice_data_list": [
+                "You're tensing yourself up too much.",
+                "You're tensing yourself up too much."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? R-Really…?",
+            "choice_data_list": [
+                "Take a look at your palms."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah. The marks from my nails…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Could it be, that bubbling feeling in my\nchest too…?",
+            "choice_data_list": [
+                "Yeah. So let's let all of that go for now."
+            ]
+        },
+        {
+            "text": "Among the girls of her generation, Buena\nVista's ability stands far above the rest.\nEven against senior-class runners, I truly\nbelieve she can win.",
+            "color_text_info_list": [
+                "senior-class"
+            ]
+        },
+        {
+            "text": "And because of that, what she needs now is\nto fully bring out the abilities she already has.\nTo do that, the thing that needs restoring is\nher emotional balance.",
+            "choice_data_list": [
+                "This time, your training is to have fun.",
+                "This time, your training is to have fun."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ugh… But…",
+            "choice_data_list": [
+                "You don't like my training plan?",
+                "You don't like my training plan?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Geez! That's not fair when you put it like\nthat."
+        },
+        {
+            "name": "Special Week",
+            "text": "You two, the train's almost here～!\nLet's go!",
+            "choice_data_list": [
+                "Yeah! …Come on, Buena!",
+                "Yeah! …Come on, Buena!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "O-Okay…!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ta-da! First stop… Sapporo. And when you\nthink of horsegirls, you've gotta think of\nSapporo Racecourse, right?♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Racecourse…\nRace…",
+            "choice_data_list": [
+                "(This is bad!) O-Oh, rightttt!!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Wah!? Trainer?",
+            "choice_data_list": [
+                "You never raced in Sapporo, right, Spe?",
+                "You never raced in Sapporo, right, Spe?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Nope, I didn't! So honestly, this stop is mostly\nbecause I wanted to come…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, but don't worry! I did plenty of research\nbeforehand! Apparently there's a beautiful\nterrace up above!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! …A beautiful terrace…\n…I wonder if you can see far from there."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep, I bet you can see all the way past the\nocean! Let's eat soft serve there too♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…The view from the terrace was absolutely\nbeautiful…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You could see all the way out to the distant\nmountains… It really cleared my head.\n…And what's this place?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Apparently this zoo lets you see the animals\nin habitats that feel close to nature! I'm sure\nthere'll be some wonderful sights waiting for\nus♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh, and I heard their melon soft serve is really\ndelicious too…! Let's go try it!",
+            "choice_data_list": [
+                "Didn't we just have soft serve earlier!?",
+                "Didn't we just have soft serve earlier!?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Spe, wait up!\nI'll have the same thing too!"
+        },
+        {
+            "text": "Thanks to Special Week, Buena Vista's heart\ngradually… but surely… began to relax."
+        },
+        {
+            "name": "Special Week",
+            "text": "So, about what we should do next…\nI actually couldn't decide～!"
+        },
+        {
+            "name": "Special Week",
+            "text": "There's a mountain stream nearby, but\napparently it's a pretty long walk to get there."
+        },
+        {
+            "name": "Special Week",
+            "text": "So I was thinking maybe we could stay around\nhere instead and do a little food tour♪ ",
+            "choice_data_list": [
+                "(She's still planning to eat more…!?)",
+                "(She's still planning to eat more…!?)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hmm… What do you want to do, Trainer?",
+            "choice_data_list": [
+                "Go on the food tour.",
+                "Walk to the mountain stream."
+            ]
+        },
+        {
+            "text": "Sapporo brings together all kinds of Hokkaido\ncuisine. Maybe relaxing while eating well would\nbe good for restoring her energy too.",
+            "choice_data_list": [
+                "Let's eat to our hearts' content!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ooh, now that's the spirit!\nTrainer, let's give it our all♪",
+            "choice_data_list": [
+                "Me too!?",
+                "Me too!?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "When you think of Sapporo, you've gotta\nstart with miso ramen, right?♪\nEhehe, I can't wait～"
+        },
+        {
+            "name": "Special Week",
+            "text": "And after that, jingisukan, zangi, soup curry…\nWell, for half a day, that should about cover\nit♪ ",
+            "choice_data_list": [
+                "(…Y-You've gotta be kidding me…)",
+                "(…Y-You've gotta be kidding me…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hey, there's no way we can eat that much, right?\nYou don't have to force yourself."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Let's split things between the three of us so we can try\nlots of different foods instead!",
+            "choice_data_list": [
+                "Buena… thank you…!"
+            ]
+        },
+        {
+            "text": "And so, our lively little trip through Hokkaido\ncontinued for a few more days…"
+        },
+        {
+            "text": "Compared to Honshu, Hokkaido summers\naren't nearly as humid. In this kind of weather,\nwalking long distances shouldn't be too hard."
+        },
+        {
+            "name": "Special Week",
+            "text": "Alright then, let's give it our best!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow… It's so cool here…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I think I might actually forget it's supposed\nto be summer."
+        },
+        {
+            "name": "Special Week",
+            "text": "Honestly, this place is so relaxing… I feel like\nI could forget absolutely everything…"
+        },
+        {
+            "name": "Spe & Buena",
+            "text": "<i>Meeeeelt</i>…",
+            "choice_data_list": [
+                "You two, come back to reality…!"
+            ]
+        },
+        {
+            "text": "And so, our lively little trip through Hokkaido\ncontinued for a few more days…"
+        },
+        {
+            "text": "Before we knew it, the final day had arrived.\nAnd as for Buena Vista…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow…!\nIt's so vast…!",
+            "choice_data_list": [
+                "Feels like the whole view just opened up.",
+                "Feels like the whole view just opened up."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah! Ahh～ what a beautiful view…"
+        },
+        {
+            "text": "It seemed her heart had finally managed to\ndischarge all that built-up energy. The calm,\ngentle Buena Vista had completely returned."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "There are a lot of farms around here, huh?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep, there are! My family also owns a farm♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's right…! So this is where Spe comes\nfrom…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Every time I take a deep breath, it feels like\nall the air inside me gets replaced."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You really grew up in a wonderful place."
+        },
+        {
+            "name": "Special Week",
+            "text": "That's right! That's why before important\nraces, I always end up wanting to come back\nhere."
+        },
+        {
+            "name": "Special Week",
+            "text": "The Japan Cup was like that too.",
+            "choice_data_list": [
+                "You mean before that second one…!?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep! The Japan Cup you two watched.",
+            "choice_data_list": [
+                "You came home before that…?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "It was only for a few hours though! But before\nfacing the \"world\"… I just had to breathe in my\nhometown air again."
+        },
+        {
+            "name": "Special Week",
+            "text": "People called me \"The General of Japan.\"\nEveryone placed their hopes on me…"
+        },
+        {
+            "name": "Special Week",
+            "text": "And my heart had gotten a little prickly\nbecause of it. But once I looked out at these\ncalm, peaceful sights…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…the prickly feeling in your heart just melts\naway completely."
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep. …I hope it can do the same for you too,\nBuena.",
+            "choice_data_list": [
+                "…! How did you know about that…?"
+            ]
+        },
+        {
+            "text": "I never explained the situation to Special Week\nin detail. Since she was finally back home,\nI didn't want her worrying unnecessarily."
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, I've been through all kinds of races\nmyself!"
+        },
+        {
+            "name": "Special Week",
+            "text": "So I think I understand what it means to take\neven just a few days off during a time like this."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Spe…\n…I—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Let's take a deep breath, Buena!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Fill yourself up with the fresh air and beautiful\nscenery… and let the wind blow through your\nheart!"
+        },
+        {
+            "name": "Special Week",
+            "text": "If you do that, I'm sure you'll feel completely\nrefreshed again♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!\nYes! ",
+            "choice_data_list": [
+                "(…I'm really glad Spe was here with us.)"
+            ]
+        },
+        {
+            "text": "Standing shoulder to shoulder as if gently\nsupporting Buena, Special Week once again\nreminded me just how incredible she truly is."
+        }
+    ]
+}

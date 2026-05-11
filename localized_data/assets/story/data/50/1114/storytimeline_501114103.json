@@ -1,0 +1,330 @@
+{
+    "title": "Summer Camp (Year 2) Begins!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The summer training camp begins, a time\ndedicated to improving even further."
+        },
+        {
+            "name": "Monologue",
+            "text": "Horsegirls experience tremendous growth\nduring the summer. That's why Tracen\nAcademy holds these camps, to focus entirely\non intensive training."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer!\nLet's make this summer camp count!",
+            "choice_data_list": [
+                "Yeah. I'm not going easy on you.",
+                "Yeah. I'm not going easy on you."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, bring it on! Once summer's over, the\nShuka Sho will be right around the corner…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If we want to see that incredible view, then we\nhave to make victory certain. I'm gonna give it\neverything I've got!",
+            "choice_data_list": [
+                "(…She doesn't seem anxious, at least.)",
+                "(…She doesn't seem anxious, at least.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista's full of determination. There's no\nsign of the uneasiness I sensed after the Oaks.\n…Maybe I was just imagining things."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Buena. Good day to you♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Desire, good day to you too!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey, could it be… you're in a really good mood\ntoday?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Indeed! Thanks to that, I am feeling wonderful."
+        },
+        {
+            "name": "Red Desire",
+            "text": "This summer, I intend to push myself even\nfurther… to cast myself into hardship… and\nrefine my strength."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Until I can reach \"that place\". To do so is to\nbecome a true saint…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "By surpassing you.",
+            "choice_data_list": [
+                "……!"
+            ]
+        },
+        {
+            "name": "Red Desire",
+            "text": "…It is an honor to compete with you again in\nthe Shuka Sho. Please take care of your health."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Desire.\nSomething about her… felt different.",
+            "choice_data_list": [
+                "Yeah… her presence is so refined now.",
+                "Yeah… her presence is so refined now."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Rumor has it that since the Oaks, she's been\nundergoing unbelievably intense training.",
+            "choice_data_list": [
+                "…She's going to improve even more.",
+                "…She's going to improve even more."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah……"
+        },
+        {
+            "name": "Red Desire",
+            "text": "(By surpassing you.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "—……\n…Whew.\n…Whew…",
+            "choice_data_list": [
+                "…Buena?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Ah, the luggage!\nI'll go carry the rest over!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After finishing moving our things for camp,\nwe decide to take a walk around the area first.\nPartly to get ourselves excited for training camp.",
+            "choice_data_list": [
+                "Man, it really is hot out here."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Seriously…!\nWe've gotta be careful not to overheat!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It'll probably be cooler by the time the Shuka\nSho comes around… but we still can't let our\nguard down.",
+            "choice_data_list": [
+                "…? Ah, yeah, true.",
+                "…? Ah, yeah, true."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Something about her responses feels slightly\noff… yet Buena Vista's expression remains\nbright. Even with that lingering unease,\nI continue the casual conversation.",
+            "choice_data_list": [
+                "By then, even the ocean will look different.",
+                "By then, even the ocean will look different."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "True! And strategy changes depending on the\ncourse too."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Kyoto Racecourse has a shorter final stretch…\nWith my usual late-running style, there's a\nchance they could get away from me, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It'd be ideal if I could switch tactics smoothly\ndepending on how the race unfolds… in that\ncase…",
+            "choice_data_list": [
+                "…Hey, Buena.",
+                "…Hey, Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hm?",
+            "choice_data_list": [
+                "Is racing all you can think about right now?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…………。"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? Wait… I was just talking normally,\nwasn't I?",
+            "choice_data_list": [
+                "(I see… she's not even aware of it.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Thinking about racing nonstop… No, feeling\nlike she's thinking about it too much… Could\nthis be a sign that something inside her is\nchanging? And the trigger was…",
+            "choice_data_list": [
+                "(She talked with Red Desire just now…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After speaking with her, Buena Vista briefly\nshowed that same habit she has whenever she\nfeels uneasy. But… something still doesn't\nquite add up.",
+            "choice_data_list": [
+                "(What matters is what Buena herself felt…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's an incredibly sensitive horsegirl. When\nshe's strongly affected by the atmosphere\naround her, her emotions can be stirred up\nintensely.",
+            "choice_data_list": [
+                "…Hey, Buena.",
+                "…Hey, Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Y-Yeah?",
+            "choice_data_list": [
+                "What felt different about Desire?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? Different how…?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Well… her presence definitely felt sharper…\nBut also…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hot.\nI guess that's how it felt.",
+            "choice_data_list": [
+                "Hot?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "When Desire's \"I'm not going to lose!\" starts\nreaching me… it feels like flames suddenly\nspreading outward."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah… I think I felt the same thing back at the\nracecourse too.",
+            "choice_data_list": [
+                "Could it have been after the Oaks?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah! When everyone's excited voices started\ncrashing together all at once…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It spread through my heart in an instant!\nLike this blazing fire…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So… that's why…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "For the Shuka Sho, I think I should race more\naggressively. Instead of waiting for my moment…",
+            "choice_data_list": [
+                "(…I think I finally understand now.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The thing influencing Buena Vista… is\npowerful excitement itself. The excitement of\nthe crowd, the racers… all of it."
+        },
+        {
+            "name": "Monologue",
+            "text": "The frenzy surrounding the Oaks was on an\nentirely different level than before. And being\nswept up in all that excitement has probably\noverwhelmed her emotions…",
+            "choice_data_list": [
+                "(…At least, that's my guess.)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's why, Trainer. For the Shuka Sho, I want\nto make bolder moves! Take the lead more\naggressively, or maybe even go wire-to-wire…",
+            "choice_data_list": [
+                "(Actually… no, I'm sure of it!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Having strong fighting spirit isn't a bad thing.\nBut the excitement surrounding the Shuka\nSho will probably surpass anything she's\nexperienced yet."
+        },
+        {
+            "name": "Monologue",
+            "text": "And if Buena Vista gets swept up in that\noverwhelming excitement again… then surely,\nher emotional balance will collapse, and she\nwon't be able to race the way she wants.",
+            "choice_data_list": [
+                "(I need to help her relax… somehow.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Simple breathing exercises probably won't be\nenough anymore. She needs some way to fully\nrelease all the excitement that's built up inside\nher…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah! Buena, Trainer!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Hello!",
+            "choice_data_list": [
+                "Special Week…!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "It's like this every year, but wow…\nIt really is hot out here～…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Training's probably tough in this weather,\nbut do your best, okay? I'll bring back souvenirs\nfor you!",
+            "choice_data_list": [
+                "Souvenirs…? You're going somewhere?",
+                "Souvenirs…? You're going somewhere?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yep! This year, I'm wrapping up camp early\nand heading back home to Hokkaido♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! Hokkaido…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow, that sounds amazing～ It must be so\ncool there…!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe～ After working so hard on the front\nlines all this time, it's my little reward to\nmyself! I'm gonna completely forget about\nthis hot, humid summer!",
+            "choice_data_list": [
+                "………That's it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the blazing summer training camp…\nor rather, the not blazing summer training camp,\nbegins!"
+        }
+    ]
+}
