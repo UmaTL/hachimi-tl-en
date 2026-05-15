@@ -1,0 +1,309 @@
+{
+    "title": "A Lone Petal's Joyful Smile",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It was a few days before summer training camp. \nLucky Lilac handed me a certain something special.",
+            "choice_data_list": [
+                "A ticket to an event dinner?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Mmhm. A friend of mine ended up giving it to me a bit ago… \nIt so happens that the restaurant venue's right by the campsite. \nAre ya interested?",
+            "choice_data_list": [
+                "I sure am! Thanks for asking!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "And thank <i>ya</i> for accepting. Now that it's decided, there is \none thing I have to ask of ya. \nSee, the restaurant has a dress code——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Oh. Heehee, that suit really does suit ya, doesn't it? \nWorth all the effort of picking it out."
+        },
+        {
+            "text": "I was wearing the suit the two of us picked out before. \nIt'd become one of my favorite outfits.",
+            "choice_data_list": [
+                "That dress looks good on you too, Luck!",
+                "That dress looks good on you too, Luck!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Why, thank ya very much. \n——Now then… Shall we? It's just a short walk till we get there."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "My goodness… This restaurant really is something. \nThe pictures on the site don't do it justice."
+        },
+        {
+            "text": "The restaurant's lighting glittered, gently enveloping the room. \nThe atmosphere was incredibly refined, and the place was even \nquieter than I expected it would be.",
+            "choice_data_list": [
+                "(Not the best place to crack a joke.)",
+                "(Not the best place to crack a joke.)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Is the place putting ya on edge a little?",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Haha, it's written all over your face. It <i>is</i> the sort of place ya'd \nexpect to see celebrities… Not exactly what ya'd call \nfamiliar, now is it?",
+            "choice_data_list": [
+                "I still like it, though."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "That's good to hear. \nNow, let's the two of us enjoy this quiet evening, shall we?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——That was delicious. What was it called… \n<i>Poisson à la vapeur</i>? It's the first I've had it. \nI very much enjoyed its light, refreshing taste.",
+            "choice_data_list": [
+                "The orange sauce was great too.",
+                "The orange sauce was great too."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Mm, yes it was. It added that little hint of sweetness… \n………Heehee.",
+            "choice_data_list": [
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Now, don't take this the wrong way… But it's refreshing, \nseeing ya all dressed up, not cracking any jokes.",
+            "choice_data_list": [
+                "……It's not like I'm ALWAYS joking…",
+                "……It's not like I'm ALWAYS joking…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Haha, don't worry, I know ya always take everything seriously. \nAnd I know that 'everything' includes your jokes."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……So that's why I should also——"
+        },
+        {
+            "text": "(…………Boom!)",
+            "choice_data_list": [
+                "? …Whoa! Luck, look!"
+            ]
+        },
+        {
+            "text": "Looking outside the window, we saw fireworks bursting in the \nair not too far away. The sudden flash of bright colors took me \nby surprise… I couldn't take my eyes off them."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, my……! Ain't that lovely…",
+            "choice_data_list": [
+                "Looks like the fire's really working…",
+                "Looks like the fire's really working…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, come on. \nA firework's supposed to make the fire… \n…Wait, huh?",
+            "choice_data_list": [
+                "Huh? ………Oops."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Pfft…………Haha! \n…So ya wanted to crack some jokes after all, huh?",
+            "choice_data_list": [
+                "No, that wasn't it…!"
+            ]
+        },
+        {
+            "text": "I panicked and tried to deny it, but Lucky Lilac looked at me \nwith a kind face. Seeing her gentle smile, I felt the knots in my \nstomach start to come loose…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Fire working… Fireworks… \n……Pffhaha!",
+            "choice_data_list": [
+                "W-was it really that funny…?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Sorry, sorry. It just really hit my funny bone for some reason… \nThe atmosphere there must've made me drop my guard."
+        },
+        {
+            "text": "……Still, it wasn't every day that a single gag would get her \nto laugh that hard. This would make good material for the \nfuture, so I reached into my bag and pulled out my notebook."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh… So ya brought that notebook with ya, huh? \nSay, how's your comedy research going?",
+            "choice_data_list": [
+                "Pretty good. I've got a lot more material.",
+                "Pretty good. I've got a lot more material."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Passionate as ever, ain't ya."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "To tell ya the truth… I had my doubts about making ya do \nall this comedy stuff."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "But… I think it's all right. \n…In fact, I like it this way.",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Because you're not <i>actually</i> a <i>manzai</i> comedian, see? \nIt's not like ya've got a whole crowd watchin' ya."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "All ya have… Is an audience of one."
+        },
+        {
+            "text": "I looked at Lucky Lilac's smile. \nThe smile of the one and only foil to my one and only fool."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "You're the kind of person who always gives it their all. \nSo believe me, I understand exactly how hard you're working \nto make me enjoy myself."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "If you're working hard, then I've gotta do my part. \n——And match that passion."
+        },
+        {
+            "text": "Each of her words, meant for my ears only, struck my heart \none after another. My own words failed me… So the only sounds \naround us were the waves gently crashing on the shore."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "So let's do a <i>manzai</i> show!",
+            "choice_data_list": [
+                "……………HUH!?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I mean, ya've been trainin' your goofs for me, haven't ya? \nC'mon, I've seen how much ya've got written in those notes."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "And I'm the only foil that can match all those gags. \nTrust me, I know your jokes better than anyone, so I can \n'yes and' any bit ya throw at me!",
+            "choice_data_list": [
+                "(W-whaaaat!?)"
+            ]
+        },
+        {
+            "text": "Everything was moving so fast, my brain couldn't keep up. \nBut I was so happy she was willing to go along with it that——",
+            "choice_data_list": [
+                "………All right, let's do this!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Heh heh. That's the way, partner."
+        },
+        {
+            "text": "With her leading my by the hand, we walked to a secluded \nspot further down the beach. By the ocean, without a soul \nin sight, we began our limited show, live for one night only——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Well… It's summer camp, so I guess we'd better do some \ntraining. We'll start with some warm-ups, right, Trainer?",
+            "choice_data_list": [
+                "<size=32>Y-yeah! Start with 5 sets with running on water!</size>",
+                "<size=32>Y-yeah! Start with 5 sets with running on water!</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "! ——I can't friggin' do dat! Dat's a very specific skill for \na <i>very</i> specific type of racer. How's about ya give me somethin' \nnormal to do!",
+            "choice_data_list": [
+                "How about some laps on the beach?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Now that I like! If I don't move fast, then my feet'll sink into the \nsand. That's the perfect kinda training to build up my speed.",
+            "choice_data_list": [
+                "We'll get an ostrich to partner run."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "We ain't on no skill-up island! \nDo ya <i>see</i> an ostrich around here?! All right, to heck wit \nspeed training! Let's hurry up and do da next one!",
+            "choice_data_list": [
+                "Give me a minute to pump the giant tire."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Geez, talk about guts training! No way can ya blow up dat tire \nall by yourself! Besides, ya know how friggin' big the tires at \nthe academy get!",
+            "choice_data_list": [
+                "…Ugh! This is doing a number on my abs!!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "We're here to train <i>me,</i> remember! \nYou're runnin' out of energy here! Forget it, how about we \ntake a break? Let's go over to the shore.",
+            "choice_data_list": [
+                "No. We're doing a quiz show."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "WHY!? Sure, some people <i>do</i> do dat at training camp! \nIn fact they're ALWAYS doing it like it's normal!",
+            "choice_data_list": [
+                "Ope. Summer camp's over."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What, already!? We didn't train dis summer at all! \nWe're gonna need two <i>YEARS'</i> worth of summer training if \nwe wanna get back on pace!",
+            "choice_data_list": [
+                "Well, that's not really possible."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, so NOW ya wanna be reasonable! \nNaw, I'm done! Dat's all, folks!"
+        },
+        {
+            "text": "We bowed at each other to mark the end of our show. \nAnd when we raised our heads, we found ourselves face to face. \nOur improv was so funny that we couldn't help but——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……………Pf. Pfft—— Pfahahahaha!",
+            "choice_data_list": [
+                "……Pfft. Ahahaha!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Whew… Ya know, it ain't so bad every once in a while, letting \nloose and clapping back like this.",
+            "choice_data_list": [
+                "That was really fun!",
+                "That was really fun!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………… Heehee."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——It really was."
+        }
+    ]
+}
