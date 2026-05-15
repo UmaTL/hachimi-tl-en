@@ -1,25 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Gold Ship",
-            "text": "Here's my thoughts. \nThere are two kinds of people in this world."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Those who understand when to swallow \ndried squid, and those who don't."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "And all said, I'm the latter… \nChew as I want, it's <i>too hard</i> to \nget that \"now!\" feeling."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "―Huh, you look like you suffer \nthe same issue."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Then let's forge them together.…… \nA pair of jaws as strong as the Giant Squid's!"
-        }
-    ]
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Here's my thoughts. \nThere are two kinds of people in this world."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Those who understand when to swallow \ndried squid, and those who don't."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "And all said, I'm the latter… \nChew as I want, it's too hard to \nget that \"now!\" feeling."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "…Ah, your expression tells me \nyou suffer the same issue."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Then let's forge them together…… \nA pair of jaws as strong as the Giant Squid's!"
+    }
+  ],
+  "no_wrap": true
 }

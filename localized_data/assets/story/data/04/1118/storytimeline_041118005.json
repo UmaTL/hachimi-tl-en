@@ -1,0 +1,161 @@
+{
+  "title": "Flashing a Smile",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "I have been Admire Groove's trainer for a while now, \nand while training is going well…"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "<i>Hah… haah… phoooh…</i>",
+      "choice_data_list": [
+        "Great, let's move on to the slope and ——"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I <i>know</i> the regimen, you don't need to \nremind me every single time."
+    },
+    {
+      "text": "…Her harsh words and distancing have become \ncommonplace to me as well now."
+    },
+    {
+      "name": "Older Trainer",
+      "text": "You two haven't made much progress, eh? \nHahah, better you than me…"
+    },
+    {
+      "name": "Similarly-Aged Trainer",
+      "text": "If I were in your shoes, I don't think I'd be able to take \nher constant cold treatment… Are you holding up okay?"
+    },
+    {
+      "text": "Two of the other trainers I'm on friendly terms with strike up \nconversation sometimes, having looked upon many of these \nexchanges before with some degree of worry."
+    },
+    {
+      "text": "But while I appreciate their concern, it is unneeded. \nIf anything, I gain more motivation whenever I see \nhow earnestly she works on her running. "
+    },
+    {
+      "name": "Admire Groove",
+      "text": "<i>…Hahh… haah…</i>"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "<i>……Hm. Hahh…!</i>"
+    },
+    {
+      "text": "The only thing is… I get the feeling that whenever they \napproach me like that, Admire Groove further distances \nherself from me.",
+      "choice_data_list": [
+        "(Well, that's not good…)",
+        "(Well, that's not good…)"
+      ]
+    },
+    {
+      "text": "I can't just push my colleagues away when they so kindly \nreach out to me in support. On the other hand, I can't have \nthis affecting Admire Groove's mental state."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "<i>Hahh… pheh… phew…</i>"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……Enjoying the view?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "If you can't keep your head in it, why don't you go home \nand take a nap. Today's program is all set already anyway, \nI can run trough it on my own.",
+      "choice_data_list": [
+        "No, I'm sorry! I'm good. Ready anytime!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……I'll continue with the next training item. \nYou can do whatever you like.",
+      "choice_data_list": [
+        "Ah…"
+      ]
+    },
+    {
+      "text": "…Let me just focus on what's right in front of me first. \nIf I put in the work, our relationship will eventually improve \nand everyone else will begin to understand, I'm sure."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Were you the one who left me this drink? \nI told you you needn't bother.",
+      "choice_data_list": [
+        "I just happened to be thirsty myself, is all!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……"
+    },
+    {
+      "text": "I decided to try playing acts like this off as completely normal, \nsomething trivial, in the hopes that she'll gradually learn to \naccept these tiny little bits of kindness."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "There's no need for you to come observe my solo training. \n…I'll be fine by myself.",
+      "choice_data_list": [
+        "Okay, you're the boss!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "………"
+    },
+    {
+      "text": "Being pushed away is no problem. I'll simply acknowledge \nher with a smile. If I can get her to feel that it doesn't get \nme down, that's all I need."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I believe I asked you to leave tomorrow's training program \nout for me. I don't need a verbal explanation.",
+      "choice_data_list": [
+        "Understood, just ask if you have questions!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…What <i>has</i> come over you? You've been acting so frivolously \nthe past few days. Are you ridiculing me or something? ",
+      "choice_data_list": [
+        "Huh? No, I don't mean to ——"
+      ]
+    },
+    {
+      "text": "…Uh-oh. Are my efforts backfiring? Perhaps I tried too hard. \nIn a panic, I try to assure her I'm definitely not ridiculing her."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "If not that, then I struggle to understand \nwhy you look so strangely happy…"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Or is this some attempt at bonding? \nAs if that vapid smile would help anything.",
+      "choice_data_list": [
+        "…I'm only doing this because I want to!"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……I am not in need of whatever you are doing."
+    },
+    {
+      "text": "To make matters worse, my attempts at responding to her \nwith a smile had gone down awkwardly with my colleagues…"
+    },
+    {
+      "name": "Older Trainer",
+      "text": "Hey, uh, are you… into that kinda harsh treatment? \nThat your type? N-Not that it's my business, s'long as \nyou're enjoying it…"
+    },
+    {
+      "name": "Similarly-Aged Trainer",
+      "text": "Y-Yeah! Whatever makes you happy! \nDon't worry, we won't judge.",
+      "choice_data_list": [
+        "H-Hang on!? Nooooo……!!"
+      ]
+    },
+    {
+      "text": "That was not the kind of <i>understanding</i> I was looking for…"
+    }
+  ]
+}

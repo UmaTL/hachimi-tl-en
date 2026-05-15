@@ -1,0 +1,272 @@
+{
+  "title": "A Momentary Contract",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "I've pondered the meaning of Neo Universe's words \nsince our last encounter."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…Admire Groove's Window reflects Loss… \nYours reflects… Restoration."
+    },
+    {
+      "text": "Frankly, I don't have a clue what she was talking about. \nNor what's up with that strange dream I seem to have \nshared with Admire Groove.",
+      "choice_data_list": [
+        "However…"
+      ]
+    },
+    {
+      "text": "Incomprehensible as it all is, one thing is still clear \nto me — she's currently suffering, and alone."
+    },
+    {
+      "text": "If this recurring nightmare that's tormenting her \ninvolves Still in Love, then…",
+      "choice_data_list": [
+        "(Problems are solved… at their source!)"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…What business do you have with me <i>this</i> time? \nCarrying all these documents on Still in Love, no less…",
+      "choice_data_list": [
+        "<size=30>You should have a look at them, if you want to take her on.</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(…This person knows about my race with her… \nMore than that, somehow they're even aware \nthat she shows up in my nightmares…)",
+      "choice_data_list": [
+        "<size=32>If these aren't useful, you can just throw them away.</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…Fine. But… I would ask that you leave me alone after that."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "This data… includes both of us…?",
+      "choice_data_list": [
+        "<size=30>Comparisons including the very latest developments, yes.</size>",
+        "<size=30>Comparisons including the very latest developments, yes.</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I thought official data on her was near nonexistent. \nTo have this much of it… did you follow her around \nand calculate it by yourself?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…I must say, she certainly has been improving rapidly \nover the past month, judging by this… Could something \nhave happened to her to cause this…?",
+      "choice_data_list": [
+        "<size=34>Hard to say. Perhaps a change in her environment?</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Her environment… That sounds reasonable, but… \nNo, there's no point to speculating."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…So, what do you expect me to gain from this data? \n…Are these countermeasures? Against her…?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…In short, you think I should try a different style of running?",
+      "choice_data_list": [
+        "Yeah. I have you down as a surger.",
+        "Yep. I have you down as a surger."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(—— \"Loss of concentration leading to disrupted pace\"… \nThis is a lot to pick up on and analyze from a quick race \nwith no recordings. Simply by watching…)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Since there's a higher likelihood of succumbing to pressure \nwhen running nearer the front, they suggest taking up position \nfurther back, surging through later…)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(…I can't deny I'd rather keep that feeling of fangs \nready to sink into my neck to a minimum.)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "However, to pull this off, not only will I need to further control \nmy pace early on, I'll need the leg power to surge past her even \nas she continues to improve.",
+      "choice_data_list": [
+        "<size=38>I already drew up a regimen with this in mind.</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…What do you gain out of doing this?",
+      "choice_data_list": [
+        "I just… want to see you win. Nothing more.",
+        "I just… want to see you win. Nothing more."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Even so… you aren't even my trainer. \nYou hold no responsibility or obligation to any of this.",
+      "choice_data_list": [
+        "That's irrelevant now. Are you in, or not?",
+        "That's irrelevant now. Are you in, or not?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(…The way they talk, they do seem to have \nsome ulterior motive…)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Nevertheless, if I want to take the fight to her, I must exceed \nher own rapid rate of improvement. At the moment… anything \nthat gives me an edge is welcome.)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…Fine then. I'll accept your proposal."
+    },
+    {
+      "text": "Several weeks later…"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(Everything is following expectations so far… Both her ability \nand the race situation closely match that trainer's predictions. \nI'm confident I can surge past…!)"
+    },
+    {
+      "name": "Still in Love",
+      "text": "<i>Ahhh</i>… Yes… <i>Yeeessss</i>… \nI sense… the presence… of a delectable soul…!"
+    },
+    {
+      "name": "Still in Love",
+      "text": "…<i>A</i>ha<i>ha</i>ha<i>ha</i>h<i>a</i>ha<i>h</i>a!! \nMore, moo<i>o</i>re!! Let us enjoy this to the fulle<i>e</i>eest!",
+      "choice_data_list": [
+        "Her aura completely changed…!?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(…! I knew there was something! But… you're too late!)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "<i>Hraaaaaagh!!</i>"
+    },
+    {
+      "name": "Still in Love",
+      "text": "I wish… I wish to meet you again… in a real race. \nLet's see, yes… perhaps a leg of the Tiara?"
+    },
+    {
+      "name": "Still in Love",
+      "text": "By that time… I hope you'll be even more… <i>delectable</i>."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Here I thought I could finally rid myself of this gloom… \nSeems I'll have to bear it for the time being.",
+      "choice_data_list": [
+        "…It looked like she told you something?"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…She seems to be hoping to settle this over the Triple Tiara. \nShould I take it to mean that abominable dream is trying to \nmanifest itself?",
+      "choice_data_list": [
+        "<size=34>(So we are indeed heading for a battle at the Tiara.)</size>",
+        "<size=34>(So we are indeed heading for a battle at the Tiara.)</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…Your data on her improvement was fairly accurate. \nUnfortunately, I very much doubt she has brought out \nall of her latent potential."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "Good grief… it makes my head hurt.",
+      "choice_data_list": [
+        "…I have a suggestion in this regard."
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…?",
+      "choice_data_list": [
+        "<size=30>You could use someone to gather and analyse info, right?</size>",
+        "<size=30>You could use someone to gather and analyse info, right?</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "You… Are you suggesting a contract between us?"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "(…Certainly, there can be little doubt regarding this person's \nabilities as a trainer… and they do understand the threat \nStill in Love poses…)"
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…I'll say this before you get any ideas — all I am looking for \nis results. I don't need somebody for… cozy conversations."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "I will win races and defeat that girl. You will simply do your job, \nproviding me with the required support. Those… are the limits \nof what our contract will entail.",
+      "choice_data_list": [
+        "I understand. Besides…"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…?",
+      "choice_data_list": [
+        "<size=38>If your sole goal is to settle things with her…</size>",
+        "<size=38>If your sole goal is to settle things with her…</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "……",
+      "choice_data_list": [
+        "<size=34>Then I don't mind if our contract ends at that point.</size>"
+      ]
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…Indeed, yes, that would be perfect."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "My goal will be to gain a decisive victory over her. \nBefore… the end of the Triple Tiara races, which she \nherself brought up."
+    },
+    {
+      "name": "Admire Groove",
+      "text": "…I will take your hand. Until — and only until — that time \nI settle my score with her."
+    },
+    {
+      "text": "This was the first of my contracts with her. \nThis horsegirl… and her frigid gaze."
+    },
+    {
+      "text": "In order to guide her to victory against Still in Love. \nBecause I… did not want her to have to fight all on her own."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Feeling as though \"something\" is present, even in \nseemingly empty space, hmm…"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Have you ever felt anything like that, Dura?"
+    },
+    {
+      "name": "Duramente",
+      "text": "Groove…? What do you mean by that…?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "…Nothing, forget I mentioned it."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Ether concentration… in Window of Restoration… rising. \nObservations… stabilizing."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Admire Groove… Restoration… desirable."
+    }
+  ]
+}

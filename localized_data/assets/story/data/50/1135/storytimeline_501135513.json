@@ -1,0 +1,251 @@
+{
+  "title": "Fill that Shine with Love",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "On a certain day, Stay Gold and I decided to \nembark on a little expedition —"
+    },
+    {
+      "name": "Announcement",
+      "text": "\"To allow the express train to pass, we \nwill be pausing service for a moment —\""
+    },
+    {
+      "text": "Our destination is still many stations away. \nI leaned against the backrest, peeked out \nthe window and —"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Ohhh</i>, that boxed lunch looks pretty good～",
+      "choice_data_list": [
+        "Huh?! She's outside?!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Now then! …<i>Oh</i>, wonder where we are～",
+      "choice_data_list": [
+        "Shouldn't I be the one asking that?"
+      ]
+    },
+    {
+      "text": "After leaving the station, we found \nourselves in the shopping strip."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh, this store's got some pretty \nmysterious items."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I think they'd have some good souvenirs, \nlet's check it out."
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "Welcome…… <i>huh!</i> May it be that you're \nStay Gold!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Mhm</i>, that's me, and?"
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "You've surprised this old man! To think \nI'd be granted the chance to meet you! \nI've seen you running in the races!"
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "And your races always keep me on the \nedge of my seat! I can never guess how \nthey'll end when you're there."
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "……<i>Ah</i>, that's right! Please give \nme one moment!!!"
+    },
+    {
+      "text": "The storekeeper then dashed into \nthe back of the store.",
+      "choice_data_list": [
+        "Seems like you even reached people here",
+        "Seems like you even reached people here"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. It seems like that."
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "Whew, apologies for the wait! \nHere, would you accept this?",
+      "choice_data_list": [
+        "This is… An embroidered patch?"
+      ]
+    },
+    {
+      "name": "Elderly Storekeeper",
+      "text": "It's an emblem of my support! I made it \nthinking that it'd be nice if someone got \nto wear it someday."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "……It's a good design. I see, it's handmade."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'll accept this with my gratitude. Now, I \nwonder where should I put this patch? \n<i>Hehe.</i>"
+    },
+    {
+      "text": "Since it's not often we get to walk around \nlike this, we decided to look for some \ntouristy spots and —"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hey there! Did you just go mushroom \nforaging? Your basket… there's so \nmany yummy looking mushrooms \nin there."
+    },
+    {
+      "text": "Stay Gold suddenly called out to an \nold lady carrying a large basket on \nher back."
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "Yes yes, I was able to collect plenty of \nthese from the mountainsides. Tonight \nshall be a mushroom feast～"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Mushroom feast… That sounds so good! \n<i>…Hey!</i> Could you let me have a \ntaste too!?",
+      "choice_data_list": [
+        "Eh! This suddenly!?"
+      ]
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "My my, are you feeling hungry? \nOf course, of course, for you \nhorsegirls need to eat well!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Really? Thank you! Please, I want to \nhear all about the mushrooms you \ngot to pick today."
+    },
+    {
+      "text": "Stay Gold picked up the pace and walked \noff with the old lady. I quickly put my \nphone away and chased after her.",
+      "choice_data_list": [
+        "Truly a girl who marches her own pace…",
+        "Truly a girl who marches her own pace…"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>…Ahh.</i> This really hits the spot!"
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "<i>Fufu</i>, to see you pour some tea on it to \nmake a mushroom <i>chazuke!</i> Aren't you \na curious child～"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Really? Thought I'd give it a try. It's \nreally yummy, y'know?"
+    },
+    {
+      "text": "Copying Stay Gold, I poured some tea \nover my dish and—",
+      "choice_data_list": [
+        "Oh, it's good!"
+      ]
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "Oh my, truly! I was thinking it may end up \ntasting bitter but that is not the case at all."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Just some of my survival experiences. \nAs long as you prepare your food well \nenough, you'll have no worries.",
+      "choice_data_list": [
+        "Ohh, I see"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Say, it's an impulsive thought, but \ndo you have any mayonnaise?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Mushroom Mayo <i>Ochazuke.</i> It will \ndefinitely hit.",
+      "choice_data_list": [
+        "Mushroom Mayonnaise Ochazuke!?"
+      ]
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "Yes I do, wait one moment dear. \n<i>Fufu,</i> what a fun child."
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "Do you feel like this when you're in a race?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hm?</i> …Well, that sounds about right."
+    },
+    {
+      "name": "Elderly Lady",
+      "text": "Is that so, well that sounds absolutely \ndelightful then. <i>Fufu,</i> I am most \ndefinitely looking forward to \nyour races."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I ate something great, and I even got \na cool souvenir. <i>Ahh —</i> What a \nsatisfying day.",
+      "choice_data_list": [
+        "Start of the day was a little worrying…"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "But, it ended up being pretty good right?"
+    },
+    {
+      "text": "Suddenly getting off at a random station, \nand dining at a local's place uninvited… \nHer liberty when it comes to these things \nhas surprised me plenty of times but —",
+      "choice_data_list": [
+        "Yeah, I really had a lot of fun today.",
+        "Yeah, I really had a lot of fun today."
+      ]
+    },
+    {
+      "text": "It is those who are a little unconventional \nthat have the power to captivate others, \ncharming not only those in this town… but \nmyself also."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hum……</i> Now then, guess I'll need to start \nworking hard from tomorrow again."
+    },
+    {
+      "text": "While saying that, she pulled out the patch \nreceived earlier from her pocket to take \nanother look at it.",
+      "choice_data_list": [
+        "We're training lots once we're back yeah",
+        "We're training lots once we're back yeah",
+        "You should report back with your next win",
+        "You should report back with your next win"
+      ]
+    },
+    {
+      "text": "While saying that, she pulled out the patch \nreceived earlier from her pocket to take \nanother look at it.",
+      "choice_data_list": [
+        "We're training lots once we're back yeah",
+        "We're training lots once we're back yeah",
+        "You should report back with your next win",
+        "You should report back with your next win"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Oh</i>, aren't you pumped up?",
+      "choice_data_list": [
+        "You reckon?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. Though… I feel the same about today."
+    },
+    {
+      "text": "I find my gaze turning towards the street \nlights in the town outside shining on us."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Good idea. Guess it'll be worth a trip \nback here, wonder when that'll be.",
+      "choice_data_list": [
+        "Don't let it take too long"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "! <i>Hum.</i> I see. Then I'll definitely come back, \nand I'll make it soon."
+    }
+  ]
+}

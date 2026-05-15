@@ -1,0 +1,322 @@
+{
+  "title": "New Year's Resolutions",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "We have finally reached the classic year. \nSpeaking of Stay Gold ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "——Hey, have you tried out the steak yet? \nThey grill it right in front of you, it's some \ngood stuff."
+    },
+    {
+      "text": "We were at the Mejiro family house \nas Meijiro Mcqueen invited us for \nthe New Year's gathering.",
+      "choice_data_list": [
+        "Always same-old with you huh…",
+        "Always same-old with you huh…"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well unfortunately for you, \"same-old\" \nis all I've got in me."
+    },
+    {
+      "name": "???",
+      "text": "Miss Stego～"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Here is to a wonderful new year. \nI look forward to working with \nyou again this year～"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh～ Bright and Dober, happy New Year."
+    },
+    {
+      "text": "Accompanying Meijiro Bright was Meijiro \nDober. Just like Meijiro Bright, she is in \nthe same generation as Stay Gold ——"
+    },
+    {
+      "text": "She is a horsegirl who took upon the Tiara \nroute, aiming for the Oka Sho, the Oaks \nand the Shuka Sho, which is why there \nare only few chances to compete with her.",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Oaks",
+        "Shuka Sho",
+        "Tiara route"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "I heard that you and McQueen were \ngoing through some fine-tuning in \nyour training, and that it was going \nreally well."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hahahah</i>, frankly I'm only getting tossed \naround by her training regime everyday, \nbut ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Thanks to that, my outlook is now \nlooking a lot better. So I guess it's \n\"going well\" in that way."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I have also been seeing to my own final \nadjustments in training for my upcoming \nspring races."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "I am most definitely looking forward to \nfacing against you in the Classics, \nMiss Stego."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hahah</i>, now that's an honor."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I will definitely find a way to reach it…… \nThe Satsuki Sho."
+    },
+    {
+      "text": "After the pleasant chat with Meijiro Bright \nand Meijiro Dober, Stay Gold and I were \nenjoying the food and ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Now then, since my tummy is feeling \nhappy, should we get going soon～",
+      "choice_data_list": [
+        "Eh? We haven't even said hi to McQueen"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "We'll see her at training anyway right? \nWe can say our greetings then, today \nis moreso ——"
+    },
+    {
+      "name": "???",
+      "text": "——I had a feeling that you would pull \nan excuse like that."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Goodness. If I had not come looking for \nyou myself, to think that you would have \nactually headed off."
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "A Happy New Year to you, Miss Stego. \nI am looking forward to working with \nyou once more this year."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah, happy New Year. You really helped \nus out a bunch last year, so thank you for \nthat."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Also, the food was really good, McQueen. \nEspecially the meat.",
+      "choice_data_list": [
+        "Thank you for having us"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hearing your satisfaction is greatly \nappreciated, however may I request \nyou two remain for a while longer?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hanging in one place is not really my \nthing. I was thinking of wandering \naround somewhere afterwards ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…<i>That's right</i>. You guys should come \nalong too. A chance like this doesn't \ncome all that often after all, let's go \nhave some fun."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Again with the spontaneous ——"
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "<i>…Uhm</i>, Miss McQueen, if you would \nallow me, I would like to take upon \nMiss Stego's offer."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Ooh</i>, this is good. It's 3 v 1 then.",
+      "choice_data_list": [
+        "(Since when did I get involved…?)"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…I understand. As I have nothing scheduled \nafter this event, I will partake in this little \nescapade. However ——"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Please do escort us properly, \nas this was your proposal."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Got it. Well then Trainer, I'll leave the \ndestination to you.",
+      "choice_data_list": [
+        "Eeh? Me?!",
+        "Eeh? Me?!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It'd be more interesting if you picked it. \nIt's all you now."
+    },
+    {
+      "text": "An unreasonable request was suddenly \nplaced on my shoulders. I want to respond \nwith a place that could match their fancy. \nAll I could come up with was ——",
+      "choice_data_list": [
+        "T-Then, we go on a stroll…?",
+        "Have some tea somewhere…?",
+        "Go play at the arcade…?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Haha,</i> I also think it's a good time to go for \na stroll. Alright, let's go."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "W-Where are you even thinking of going?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "If you've decided where you're going, \nthen it's not a stroll anymore now is it. \nWe're just chilling, just chilling."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>………………Uhm.</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Just where in tarnation are we!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Gee,</i> I wonder now. Well regardless, \nwe've got a great scenery don't we."
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "……It's a beautiful sunset………"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "That's right. It's as if the horizon \nhas been lit on fire.",
+      "choice_data_list": [
+        "This was my bad McQueen………"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa……</i> It is not like I mind all that much. \nStay Gold is just this type of person…"
+    },
+    {
+      "text": "…We gazed at the beautiful sunset together, \nbut afterwards, we were genuinely dazed \nby how we manged to end up in the \nmiddle of nowhere —"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Tea time huh… Good opportunity actually, \nthere was a store I wanted to try out.",
+      "choice_data_list": [
+        "Shall we go then?"
+      ]
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "For a store to interest Miss Stego… I am \nvery curious what it would look like!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…………I must say I feel an incredibly \nunpleasant sensation tingling up my tail."
+    },
+    {
+      "name": "Zombie Cafe Waiter",
+      "text": "<i>AvAvAvAvAvA!!</i> (Thank you for your order!) \n<i>VaVaVaa!</i> (Please wait a moment!)"
+    },
+    {
+      "name": "$(scale 75)Zombie Cafe Staff Members",
+      "text": "<i>Va～a～a～a～!!! </i>(Thank you very much!)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Hiee……!</i> W-W-What is even happening!? \nWhy are we at such a spooky dooky place!!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hahahaha!</i> Your startled reaction is so \ngood! Also, I have no idea what you're \neven saying!!",
+      "choice_data_list": [
+        "These decorations look incredibly real…!",
+        "These decorations look incredibly real…!"
+      ]
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "Now that I have taken a closer look, the \ninterior is incredibly intricate. I think it is \nabsolutely wonderful…!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Ohh goodness</i>, why are all of you enjoying \nthis as if it was a normal tea party!?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Now now,</i> no need to get all puffed up. \nI'm sure the sweets we ordered will \ntaste great, so look forward to them \nalright."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "You do have a point…!? If you dare lie, \nthen there will be no pardons for you \nalright…!"
+    },
+    {
+      "text": "Afterwards, despite the spooky-dooky \ninterior, the sweets turned out to be \nabsolutely delectable, and was enjoyed \nto everyone's satisfaction——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Checking out the arcade huh. Well, these \nplaces are good from time to time."
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "Are we going to play on the coin operated \ngame machines? I have never tried them \nbefore so I am very interested…!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Is that so…</i> Well then, shall we go discover \nand enjoy the unknown together, Missy?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>——Hoi, Hoi </i>and <i>Hoi.</i>"
+    },
+    {
+      "name": "$(scale 55)Elegant Chestnut-Haired Horsegirl",
+      "text": "Miss Stego, you are incredibly skilled…! \nAll your bullets hit so very accurately…!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "P-Please do not come any closer! \n<i>Ahhh</i>, my bullets…!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Alright, leave it to me. \n——Right there.",
+      "choice_data_list": [
+        "Ohh, you got the weak spot in one hit…!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "T-Thank you very much… \nYou saved me out there."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hm～</i> I think I'm going to rest for a bit. \nYou've got this in the bag, McQueen."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Wai— Is this not terrible timing!? \nWould you at least finish th——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Only if you express your pleas, will I \ncome help you out. Now then, what \nshall it be?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Ah</i>, so this was your intention from the \nvery beginning I see…! <i>Aah! </i>There are \njust too many enemies!!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Good luck～ Mc～Queen."
+    },
+    {
+      "text": "Just like that, we enjoyed a rowdy \nsession at the arcade."
+    }
+  ]
+}

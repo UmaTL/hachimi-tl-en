@@ -1,0 +1,241 @@
+{
+  "title": "Playful Hide and Seek",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "One day, I noticed there was a note \nleft on my table."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "\"I'm going to that place. \nTag along if you're free.\""
+    },
+    {
+      "text": "What does she even mean by that… I do \nhave some free time so I'd like to find her \nbut, where do I even start with \"that place\"."
+    },
+    {
+      "text": "If she said it like that, then it must be \nsomeplace we've visited before. Now, \nin terms of places we've been to…",
+      "choice_data_list": [
+        "She's got to be cloud watching by the river",
+        "She must be gazing at the sky on the roof",
+        "Maybe she's in that one town we visited?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "The sky's great as always here."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Huffff～～ Haaaa</i>. Yeah, it's a great scenery."
+    },
+    {
+      "text": "Her face suddenly popped into my head. \nIt was when we were by the river and \nsomething about the sky that day \nreally enticed her.",
+      "choice_data_list": [
+        "Alright, guess we're heading there"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Oh</i>, you made it.",
+      "choice_data_list": [
+        "I knew you were here Stego!",
+        "I knew you were here Stego!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. Now get over here, come relax on the \ngrass with me."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh yeah, I've got some sweets too, a gift \nfrom a friend overseas. Thought we could \nenjoy them here.",
+      "choice_data_list": [
+        "You really like this spot hey",
+        "You really like this spot hey"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "……… \nTake a gander at the sky."
+    },
+    {
+      "text": "I raised my head to gaze at the infinitely \nwide blue sky. A few clouds floated \ngently above us.",
+      "choice_data_list": [
+        "Uhm… It's a wonderful sky",
+        "Uhm… It's a wonderful sky"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah, it's only a nice blue sky… Only ——"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "This sky we see everyday stretches on \ninfinitely no matter where we go. It \nstretches past buildings… past rivers, \neven all the way over borders."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Imagining the sky like that, don't you \nstart to feel a little excited inside?",
+      "choice_data_list": [
+        "I think I get what you mean…?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hum</i>, it's alright if you don't really get it, \nI'm just narrating my feelings, that's all."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Now then, let's go down to the riverbank. \nThere just so happens to be a nice breeze \ncoming through."
+    },
+    {
+      "text": "I was led down by Stay Gold to enjoy \nour sweets by the riverside."
+    },
+    {
+      "text": "Just like this, I went searching for Stay \nGold. I made my way here but… she \nwas nowhere to be found."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Oh</i>. What's up… You heading back?",
+      "choice_data_list": [
+        "Stego! Where were you?",
+        "Stego! Where were you?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, I was touring around \"that place\". \nDidn't I leave a note?"
+    },
+    {
+      "text": "In the end, I still didn't find out where she \nwas. I wonder what \"that scenery\" could've \nbeen……"
+    },
+    {
+      "text": "Reaching the rooftop, I notice Stay Gold's \nlegs dangling from the rooftop structure \nas she sat up there slouching.",
+      "choice_data_list": [
+        "Isn't that dangerous?! Come down!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "There's no need to sweat the small things. \nStill better than sitting on the edge of a \ncliff right?",
+      "choice_data_list": [
+        "S-S-Sure, but…!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…I'm burning this scenery into my memory —"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Since I don't come to the academy often. \nThis type of scenery… It's unexpectedly \nrare y'know.",
+      "choice_data_list": [
+        "How does the academy look then?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well of course, it's not bad at all."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I want to commit all the different things I \ncan see in this place to my memory \nbefore I leave for another journey."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "You should take a closer look as well. It \nmay be the same scenery you see everyday, \nbut I reckon you could find something new."
+    },
+    {
+      "text": "Just like this, I went searching for Stay \nGold. I made my way here but… she \nwas nowhere to be found."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh. What's up… You heading back?",
+      "choice_data_list": [
+        "Stego! Where were you?",
+        "Stego! Where were you?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, I was touring around \"that place\". \nDidn't I leave a note?"
+    },
+    {
+      "text": "In the end, I still didn't find out where she \nwas. I wonder what \"that scenery\" could've \nbeen……"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Oh</i>, you're here… Let's get going then.",
+      "choice_data_list": [
+        "Eh! Where are we going?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, to see what this town is really about."
+    },
+    {
+      "text": "I scurried behind her as she walked off \nand we arrived at a scene I've never \nseen before.",
+      "choice_data_list": [
+        "This is?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Didn't I say we're here to see what this \ntown is all about? …Where people carry \nout their day to day lives."
+    },
+    {
+      "text": "It felt like the complete opposite of the \nmain street here. You could hear the \nsounds of people going about their lives, \nand the smell of curry wafted in the air."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Doesn't this get you feeling sort of excited? \nWe're here to witness everyone's lives \ncoming together at this very moment."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I don't know where my life is going to \nlead me. So it's always worth coming \nto see scenes like these.",
+      "choice_data_list": [
+        "Yeah, you're truly full of curiosity",
+        "Yeah, you're truly full of curiosity"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hum</i>, life is short y'know. I'm always \nchasing to learn more about everything…"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Like about this town… and even the people \nwho live here. Something like that.",
+      "choice_data_list": [
+        "Then should we explore some more?",
+        "Then should we explore some more?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "<i>Hmm……</i> Did I manage to spark an interest \nin you now huh. There's a few places I \nwant to check out."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "It's the start of our mini exploration then."
+    },
+    {
+      "text": "Just like this, I went searching for Stay \nGold. I made my way here but… she \nwas nowhere to be found."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh. What's up… You heading back?",
+      "choice_data_list": [
+        "Where were you?",
+        "Where were you?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, I was touring around \"that place\". \nDidn't I leave a note?"
+    },
+    {
+      "text": "In the end, I still didn't find out where she \nwas. I wonder what \"that scenery\" could've \nbeen……"
+    }
+  ]
+}

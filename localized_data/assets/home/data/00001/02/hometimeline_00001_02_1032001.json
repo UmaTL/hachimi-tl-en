@@ -1,49 +1,49 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Tachyon-san, Happy Birthday!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Oh, right. Thanks for the reminder, I'll have \nto update my documents with the details."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Huh? Did you forget?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Well, age is important for research. \nSignificantly, time changes one's physical \nbody, so it's important to keep a daily \nrecord of these changes."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Are you sure, you don't wanna \nhave a… birthday celebration?!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Mm? I guess not… I'll at least take a gift, but \nI don't see the need for one in the first place."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Alright, let's have a birthday party!! \nI'm gonna go gather everyone now!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "No, listen. I like it when the subjects of my \nresearch gather together, but it's hard to do \nany research if everyone's eyes are on me."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I'll also prepare lots of food and drinks. \nOh, and I already have a present for you. \nI hope you're looking forward to it!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I'm going to make this the best \nbirthday party you've ever had!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "…I've always wondered if your eagerness \nand inability to listen to others is something \nyou inherited from your parents."
-        }
-    ]
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tachyon! Happy birthday!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, right. Thanks for the reminder, \nI'll have to adjust that in my reports."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Huh? Did you forget?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Well, age is important in research, but more \nso still is keeping a daily record if the changes \ntime causes to one's physical bod—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Are you saying… you've never \nhad a birthday celebration?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mm? I guess not… I get a gift sometimes, but \nI don't see the need for one in the first pla—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Alright, let's throw you a birthday party!! \nI'm gonna go gather everyone right now!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, listen. I like it when the subjects of my \nresearch gather together, but it's hard to do \nany research if everyone's eyes are on me ——"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I'll also prepare lots of food and drinks. \nOh, and I already have a present for you. \nI hope you're looking forward to it!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I'm going to make this the best \nbirthday party you've ever had!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "…I've always wondered if your eagerness \nand inability to listen to others is something \nyou inherited from your parents."
+    }
+  ],
+  "no_wrap": true
 }

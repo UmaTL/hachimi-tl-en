@@ -41,7 +41,8 @@ UmaTL is the original full game translation project, lending its translations to
 This includes Hachimi: its default translations are mostly imported from older UmaTL material. 
 
 # Contributing translations
-Check the [translation guide](https://hachimi.noccu.art/docs/translation-guide/welcome.html).
+Check the [translation guide](https://hachimi.noccu.art/docs/translation-guide/welcome.html) for info on how it works and getting started with the tools.  
+Check the [UmaTL contribution guidelines](../../wiki/Translating) for standars and other details specific to the UmaTL project.
 
 To enable management and prevent issues, please inform UmaTL of your intentions before starting.  
 Join the [Discord](https://discord.gg/xBMgwh6hHY) or open an Issue for this, as well as further discussion or help.
