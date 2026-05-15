@@ -1,0 +1,123 @@
+{
+  "title": "After School With an Observer",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "I spot Neo Universe and a student I assume \nto be her classmate in a corridor after school, \nbits of something or other spread at their feet."
+    },
+    {
+      "name": "Classmate",
+      "text": "Aaahh, I'm so stupid. Look at this mess. \nWhy the heck's this globe a 3D puzzle \nanyway, isn't it for class use…?"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe picked up ILLN. This covers \n36°58'–42°30'N 87°30'–91°30'W."
+    },
+    {
+      "name": "Classmate",
+      "text": "Wha? Uhhh… where does this piece go…? \nThanks by the way!"
+    },
+    {
+      "text": "<i>Ah</i>, they dropped a 3D puzzle of the earth. \nThe pieces seem to be in the shape of \ncountries and other large regions.",
+      "choice_data_list": [
+        "I'll help out too.",
+        "I'll help out too."
+      ]
+    },
+    {
+      "name": "Classmate",
+      "text": "Oh, thank you! Not gonna lie, I'm really lost. \nCountries? States? Provinces? You can't \nexpect me to know where <i>all</i> of these go…"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "ILLN: Docking complete."
+    },
+    {
+      "text": "I look up and see Neo Universe fit the piece \nshe was holding perfectly into the American \ncontinent. What state was that again? If I'm \nnot mistaken, it's near the Chicago area…"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "HNK… MNC…"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…Dockings complete."
+    },
+    {
+      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together.",
+      "choice_data_list": [
+        "<size=38>Can you actually locate every single place…?</size>",
+        "That's… a useful gift for puzzles like this.",
+        "That's… a useful gift for puzzles like this."
+      ]
+    },
+    {
+      "text": "That first one's Hong Kong, and the other… \nMonaco? She seemed to have no trouble \nfitting these unnamed pieces together.",
+      "choice_data_list": [
+        "<size=38>Can you actually locate every single place…?</size>",
+        "That's… a useful gift for puzzles like this.",
+        "That's… a useful gift for puzzles like this."
+      ]
+    },
+    {
+      "text": "Does that mean those letters and numbers \nearlier were a hint of sorts? Curious, I show \nNeo Universe the piece making up Italy."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "That is… ITNA… it covers 37°–47°N 7°–19°E."
+    },
+    {
+      "text": "I quickly look up info on Italy online. \nThe letters don't appear, are they a unique \nabbreviation of hers? The numbers roughly \nline up with its geographic coordinates.",
+      "choice_data_list": [
+        "Ah, so you were telling us its coordinates!",
+        "Ah, so you were telling us its coordinates!"
+      ]
+    },
+    {
+      "name": "Classmate",
+      "text": "Huh? So… if we just ask Universe about \nthe pieces we don't know… we'll get this \ndone somehow, right!?"
+    },
+    {
+      "name": "Classmate",
+      "text": "We did it! Who'd think you have latitudes \nand longitudes memorized though, that's \nincredible! You were a big help, thanks!"
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…Heheh. You're… welcome."
+    },
+    {
+      "text": "It was subtle, but I thought this expression \nof gratitude effected a faint smile on Neo \nUniverse's face."
+    },
+    {
+      "text": "I can only conclude that she has the whole \nworld map memorized and can identify pieces \nin the blink of an eye. When I mention this…"
+    },
+    {
+      "name": "Classmate",
+      "text": "For real?! Then… can you help me put this \nwhole thing back together, Universe? \nPlease, I don't think I can do it without you!",
+      "choice_data_list": [
+        "Us two will do what we can too.",
+        "Us two will do what we can too."
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Affirmative. Send UKPs… Unknowns… to me."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe will apply Effort."
+    },
+    {
+      "name": "Classmate",
+      "text": "Aaah, I really couldn't have done it without \nyou, thanks so much for helping out!",
+      "choice_data_list": [
+        "That was a tough one, good job everyone!",
+        "That was a tough one, good job everyone!"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Puzzling together… is an ENJI experience."
+    }
+  ]
+}

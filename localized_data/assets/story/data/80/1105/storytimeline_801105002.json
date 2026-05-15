@@ -1,0 +1,137 @@
+{
+  "title": "Encounter With an Observer",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Upon passing a park on my way home \nfrom a movie, I notice Neo Universe \nstanding there."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…CONT… All received. \nNeo Universe is… Pleased."
+    },
+    {
+      "text": "I'm not quite sure what she's doing, but it's \nless than an hour until the dorm's curfew \nstarts, so I call out to her.",
+      "choice_data_list": [
+        "<size=38>Don't mean to interrupt, but curfew's soon.</size>"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "I only want to… Communicate a little longer."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "The Etheric Particles have… weakened \nattenuation. The voice coming from the \nSingularity can be heard clearly now."
+    },
+    {
+      "text": "I recognize these terms as astrophysical ones \nand conclude from the situation that she must \nbe \"communicating\" with some space entity.",
+      "choice_data_list": [
+        "I see. You really like space, don't you?",
+        "I see. You really like space, don't you?"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Neo Universe is IRST… \nDo you… also Like space?"
+    },
+    {
+      "text": "She seems to have noticed the small movie \npamphlet I was still holding. It was about \nthe space exploration movie I just watched. \nMy mind half distracted by this, I said…",
+      "choice_data_list": [
+        "<size=38>Setting off into outer space is so enthralling!</size>",
+        "<size=38>Setting off into outer space is so enthralling!</size>",
+        "I love the idea of cooperating with aliens.",
+        "I love the idea of cooperating with aliens."
+      ]
+    },
+    {
+      "text": "She seems to have noticed the small movie \npamphlet I was still holding. It was about \nthe space exploration movie I just watched. \nMy mind half distracted by this, I said…",
+      "choice_data_list": [
+        "<size=38>Setting off into outer space is so enthralling!</size>",
+        "<size=38>Setting off into outer space is so enthralling!</size>",
+        "I love the idea of cooperating with aliens.",
+        "I love the idea of cooperating with aliens."
+      ]
+    },
+    {
+      "text": "A whole other world, still unexplored \nand unknown. An endless universe \nand exciting new encounters. It's such \nan appealing concept."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "…Do you want to feel… their presence?",
+      "choice_data_list": [
+        "…Wuh?"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Close… your eyes."
+    },
+    {
+      "text": "That's exactly what had happened in \nthe movie. Anything is possible as long \nas you reach out to one another, even if \nnot through words."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "You could convey those feelings… right now.",
+      "choice_data_list": [
+        "…Wuh?"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Close… your eyes."
+    },
+    {
+      "name": "Neo Universe",
+      "text": "Connect… Send a \"Hello, hello\" \nfrom the heart.",
+      "choice_data_list": [
+        "…Hello… hello?"
+      ]
+    },
+    {
+      "text": "Upon speaking those words, a sound not \nunlike a bell's rung in my head."
+    },
+    {
+      "text": "Though my eyes were closed, an incredible \nscene unfolded in front of me.",
+      "choice_data_list": [
+        "O-Outer space!? How? I was in a park…!"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "This… is the gateway to Observation. \nNeo Universe provided NAV. Do not fear."
+    },
+    {
+      "text": "I floated through space, unable to discern \nany words in the voice-like noises streaming \nthrough my head.",
+      "choice_data_list": [
+        "B-But I'm uh, hearing strange voices…"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "FELT… Meaning can be conveyed… \nwithout words. The same is true… \nfor your own thoughts."
+    },
+    {
+      "text": "It was a strange sensation. Even though \nI couldn't understand anything, I definitely \nfelt something akin to friendship, just like \nshe said.",
+      "choice_data_list": [
+        "<size=36>Is this… what you're calling Communication…?</size>",
+        "<size=36>Is this… what you're calling Communication…?</size>"
+      ]
+    },
+    {
+      "text": "Conversing without the boundaries \nof words… It was like being in one of \nthose science fiction movies for a bit."
+    },
+    {
+      "text": "With the removal of her finger from my \nforehead, I returned to a normal state \nof consciousness. Before me laid not \nouter space, but the park we were in.",
+      "choice_data_list": [
+        "Was that… some kind of dream…?"
+      ]
+    },
+    {
+      "name": "Neo Universe",
+      "text": "LMT… Let's go back together."
+    },
+    {
+      "text": "It was real close to curfew now. I headed \nback to the Academy with Neo Universe, who \nappeared rather cheerful, in a slight panic."
+    }
+  ]
+}
