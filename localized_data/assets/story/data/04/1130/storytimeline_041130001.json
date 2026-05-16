@@ -1,0 +1,239 @@
+{
+    "title": "Bright Buds Bloom in Spring",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Lucky Lilac",
+            "text": "…Hey, hey… Thanks. \nThanks for the warm welcome. \n…I'm Lucky Lilac."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Right, now we've got a good show for y— Huh? …Agh! \nMy partner's in the friggin' seats! \nHey, bozo, what da heck are ya sittin' there clappin' for?!",
+            "choice_data_list": [
+                "…Who, me? …W-What is it?",
+                "…Who, me? …W-What is it?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hey, don't get all upset on me! You're makin' it look like I'm \nda bad guy here! C'mon, hurry, get on stage! We're up!",
+            "choice_data_list": [
+                "Uh… Then… Excuse me."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Back off! Ya can't just say \"'scuse me\" then get all up in my \nface! Scared the heck outta me. Ya forget or what? \nYour spot is——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "There we go! On my right! See, I knew you'd remember. \n…Just makin' sure here, but ya remember why you're on my \nright, yeah?",
+            "choice_data_list": [
+                "It's better for right-turning races!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Yep, keep to the inside and ya might even beat me… \n…What da heck are ya talkin' about? \nSince when were ya a racer, Trainer!?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…So, anyway, we're a <i>manzai</i> duo of Umamusume and trainer. \nWeird, ain't it? But there's a story behind this——"
+        },
+        {
+            "text": "——It was a lovely spring day, and the buds were just \nbeginning to bloom. When I visited the track, the \ntrainers were all looking at a single spot.",
+            "choice_data_list": [
+                "(…Have those girls not debuted yet?)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "——Excuse me, ma'am, but would ya be so kind as to let me go \nnext?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…I am Lucky Lilac, and I will be running 1600m. \nAnd to all the lovely spectators… \nThank ya kindly for watching me.",
+            "choice_data_list": [
+                "(Oooh…)"
+            ]
+        },
+        {
+            "text": "As soon as she appeared, a sense of awe filled the air. With her \ngentle Kansai accent, and the elegance she carried herself with, \nshe quickly became the center of attention. Then——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Huff… Huff… \nHut!!!",
+            "choice_data_list": [
+                "(Her form is totally flawless…!)"
+            ]
+        },
+        {
+            "text": "She was obviously on another level from other Umamusume. \nOne look at her proud display as all it took to understand just \nhow talented she was. Her graceful, refined, racing form was—",
+            "choice_data_list": [
+                "(——as beautiful as a flower…)"
+            ]
+        },
+        {
+            "name": "Instructor A",
+            "text": "Excellent as always, Lucky Lilac-san. You kept your head cool, \nand saved your energy for the final spurt. \nThat skill will serve you well."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Why, thank ya kindly. I do make a conscious effort to \ncontrol myself… So I'm honored. I promise to polish my \nself-control even further."
+        },
+        {
+            "name": "Trainer A",
+            "text": "That Lucky Lilac's racing is something else! \nShe's a real standout in her generation."
+        },
+        {
+            "name": "Trainer B",
+            "text": "Plus she always listens to what her instructors say, like a true \nhonor student… ——It's a real shame she can't debut…",
+            "choice_data_list": [
+                "…? She can't debut?"
+            ]
+        },
+        {
+            "name": "Trainer B",
+            "text": "Oh, you don't know? Uh… How about you come back here \nafter classes end? Do that, and you'll find out what's going \non with her."
+        },
+        {
+            "text": "I was curious about what exactly the other trainers were \ntalking about, so I visited the track after classes like they \ntold me…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………… \n…I've been awaitin' your arrival."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Orfevre-san.",
+            "choice_data_list": [
+                "(Orfevre…!)"
+            ]
+        },
+        {
+            "text": "No one could make a peep in the face of her overwhelming \npresence, and for good reason. Standing there was an \nUmamusume who made her mark on history in a blaze of glory—"
+        },
+        {
+            "text": "The \"Tyrant\", Orfevre. Winner of the Satsuki Sho, Japanese \nDerby, and the Kikuka Sho—— The seventh Umamusume in \nhistory to win the Classic Triple Crown. Not only that——"
+        },
+        {
+            "text": "She nearly made Japan's long-held dream of winning \nthe Prix de l'Arc de Triomphe with two second place \nfinishes. …She was a world-famous Umamusume."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I cannot thank ya enough for granting me a moment of \nyour precious time. I will put in all the effort I can \nto make today the day ya give me your approval.",
+            "choice_data_list": [
+                "……!"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "Very well. \n——Come."
+        },
+        {
+            "text": "The two of them started a one-on-one race. Considering it was \nbetween a pre-debut and a senior-class racer, even scheduling \nthis race should have been difficult—"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Ngh… \nHaaaaaaaaaaaaaaaaah!!",
+            "choice_data_list": [
+                "(Wow… She's holding strong…!)"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "…So it remains beyond your reach. \nThis is over."
+        },
+        {
+            "name": "Orfevre",
+            "text": "Hah!!!!",
+            "choice_data_list": [
+                "<size=42>(Her acceleration's explosive! So this is——)</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………………Kh!! \nOrfevre-san——!!"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Thank ya very much. I suppose… I failed again today. \nI promise I will make an effort to train myself to be more \ncompelling next time."
+        },
+        {
+            "name": "Orfevre",
+            "text": "We have no need of promises. \n——Speak with racing, not words."
+        },
+        {
+            "name": "Trainer B",
+            "text": "——Another one-on-one race, huh. \nJust how long are they gonna keep doing this…?",
+            "choice_data_list": [
+                "So… this wasn't the first time?",
+                "So… this wasn't the first time?"
+            ]
+        },
+        {
+            "name": "Trainer B",
+            "text": "Yeah. She's been challenging Orfevre all the time lately. \nSame thing always happens every weekend after school. \nThe two of them run——"
+        },
+        {
+            "text": "<i>\"And Lucky Lilac always loses. Every time.\"</i> —— \nWas she really trying to beat <i>the</i> Orfevre?",
+            "choice_data_list": [
+                "(No… There's no way.)"
+            ]
+        },
+        {
+            "text": "This went way beyond a difference in skill. Her opponent was \npractically a living legend. But even then… she persevered, and \ncontinued to challenge Orfevre again and again.",
+            "choice_data_list": [
+                "(But why…?)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——So that's why ya came to talk to me? \nWell, I'm mighty grateful for your concern."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "But it's not as complicated as ya might think. \nI'm waiting 'till I get Orfe-san's approval before I debut, \nthat's all.",
+            "choice_data_list": [
+                "So… You want to beat her first?",
+                "So… You want to beat her first?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Well, that all depends on what it takes to earn her approval… \n——But as far as I'm concerned, I'm not giving up."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Once again… Thank ya kindly for having me today."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…I'll show ya the fruits of my newest training today. \nAnd… I will have ya approve my debut."
+        },
+        {
+            "text": "I saw her race Orfevre the next week, and the next. \nEvery time, she would fearlessly challenge the tyrant——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………Kkgh! \n…Still… not enough…!",
+            "choice_data_list": [
+                "(She loses every time, but——)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——…… \nI'll get there. Next time. I ain't givin' up. \n…Not never."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Right. \nFeels like I ran out of steam at the end there… \nI'll do more reps on the slope.",
+            "choice_data_list": [
+                "(She always gets up to race Orfe again.)"
+            ]
+        },
+        {
+            "text": "Her gentle demeanor belied a will of steel. As that image of her \nimpressed deeper on me, the more I wondered—— She seemed \nso perfect. So what was it that she was missing?"
+        }
+    ]
+}
