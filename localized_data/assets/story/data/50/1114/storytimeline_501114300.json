@@ -1,0 +1,280 @@
+{
+    "title": "Summer Camp (Year 2) Ends",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "After returning from Hokkaido… to make up for\nthe training time she'd missed, I put together\na special high-intensity training menu."
+        },
+        {
+            "text": "The workload was extremely demanding, but\nBuena Vista stayed focused and pushed\nthrough it brilliantly. And as a result…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hah… hah…!!\nCircuit training complete…!",
+            "choice_data_list": [
+                "Alright, that's the full menu done!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes…! Thank you very much…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Haaahh… It's finally overrrr…!",
+            "choice_data_list": [
+                "Good work. Was it rough?",
+                "Good work. Was it rough?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Very! I thought I couldn't do the last burpee\njump anymore～…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But because of that… I can really feel how\nmuch I've grown. Thanks for reworking the\ntraining menu for me!",
+            "choice_data_list": [
+                "(…Good. She doesn't seem tense anymore.)",
+                "(…Good. She doesn't seem tense anymore.)"
+            ]
+        },
+        {
+            "text": "The \"excitement\" from everyone around her,\nthe emotions Buena Vista had unknowingly\nabsorbed into her heart… It seemed she'd\nfinally managed to let all of it go.",
+            "choice_data_list": [
+                "Now all that's left is the Shuka Sho.",
+                "Now all that's left is the Shuka Sho."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah. But… will I really be okay?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I ended up taking in everyone's excitement so\ndeeply, right? And it started affecting me in a\nbad way."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So if the same thing happens again…",
+            "choice_data_list": [
+                "Then we'll figure something else out."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Something else…?",
+            "choice_data_list": [
+                "Kyoto RC has that big pond, doesn't it?",
+                "Kyoto RC has that big pond, doesn't it?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? Yeah… inside the dirt course.",
+            "choice_data_list": [
+                "Maybe we'll just let you float in it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ehhh…!? I don't know about that, there's\nprobably a better solution…",
+            "choice_data_list": [
+                "I'll think of anything, so don't worry.",
+                "I'll think of anything, so don't worry."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! Ah…",
+            "choice_data_list": [
+                "Just leave it to me, focus on your race.",
+                "Just leave it to me, focus on your race."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Okay. Thank you!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Then I'll take you up on that… and lean on you\na little."
+        },
+        {
+            "text": "After completing a deeply fulfilling summer\ncamp, both physically and mentally, Buena\nVista returned to Tracen Academy. And waiting\nthere for her was…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Welcome back, Buena!\nHow was summer camp?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you for the warm welcome! Hehe, I\nthink you can tell just by looking at me!"
+        },
+        {
+            "name": "Reporter B",
+            "text": "You really do look refreshed! Now then,\nregarding your next race…"
+        },
+        {
+            "name": "Reporter C",
+            "text": "You're still aiming for the final Tiara crown, the\nShuka Sho, correct? Which means… there'll be\nno attempt at the Prix de l'Arc de Triomphe?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! Ah…"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Sorry, it's just that expectations from the\npublic have been extremely high…!"
+        },
+        {
+            "text": "We'd heard those voices too. With Tiara\nhorsegirls finding success on the world stage\nin recent years, it was only natural that\nexpectations gathered around Buena Vista."
+        },
+        {
+            "text": "To conquer the Prix de l'Arc de Triomphe, the\nlong-held dream of Japanese racing, surely the\nview waiting there would be spectacular beyond\nwords. But…",
+            "choice_data_list": [
+                "She will not be running in this year's Arc."
+            ]
+        },
+        {
+            "text": "Buena Vista would see the Triple Tiara through\nto the end. That had been the goal from the\nvery beginning."
+        },
+        {
+            "name": "Reporter C",
+            "text": "I see… I imagine some fans will be\ndisappointed to hear that. Do you have any\nmessage for them?",
+            "choice_data_list": [
+                "Buena will show you a spectacular view…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!",
+            "choice_data_list": [
+                "…at the Shuka Sho, right in front of you."
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Ah… I guess that's true. If it's the Arc, it'd all be happening\nso far away from everyone."
+        },
+        {
+            "name": "Reporter C",
+            "text": "…You're right. And the showdown with Desire\nis only going to become even more intense…\nWe'll be looking forward to the Shuka Sho as\nwell!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…If I were unbelievably strong… would there\nhave been a path leading to the Arc too…?",
+            "choice_data_list": [
+                "Buena…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! It's not like I regret anything or feel\nuncertain, okay? This is the road we chose\ntogether."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But maybe… there could've been a future like\nthat too. Just a \"what if,\" I guess.",
+            "choice_data_list": [
+                "But that isn't your dream. Right?",
+                "But that isn't your dream. Right?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah. My dream is to create a spectacular\nview that reaches everyone."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It's okay, I understand. I want to stay close to\neveryone…",
+            "choice_data_list": [
+                "Then let's make the Shuka Sho spectacular."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Hah… hah…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Fuuuuhhh…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Now then… what should I do next, I wonder.\nTraining worthy of a saint—"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Perhaps you should take a short rest."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…!! Cafe!",
+            "color_text_info_list": [
+                "Cafe"
+            ]
+        },
+        {
+            "name": "Red Desire",
+            "text": "What brings you here? Could it be… you too\nhave come to undergo training?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "No. I was waiting for you."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…The tension in your muscles. The shadows\nin your eyes. Even during summer camp, it\nseems you pushed yourself quite hard."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "For an ordinary person, this is about the point\ntheir body would begin to break down."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Yes. For an ordinary person… that would be\ntrue."
+        },
+        {
+            "name": "Red Desire",
+            "text": "But… I am one who was chosen."
+        },
+        {
+            "name": "Red Desire",
+            "text": "I can endure more training than others.\nBecome stronger. Shine brighter…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Because I am special! I can become the\nversion of myself worthy of me. And so… this\nmuch suffering means nothing."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…Yes. You are that kind of person."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "In that case, how about training somewhere\nelse next time? If it's training at the academy,\nI may be able to offer a bit of guidance myself."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…! …Would you truly grant me your teachings?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I believe I understand quite well the feeling\nof chasing after something unseen."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…You have my gratitude. Please… help lift me\nhigher."
+        },
+        {
+            "text": "Whose dream will come true?\nThe Shuka Sho is drawing ever closer."
+        }
+    ]
+}
