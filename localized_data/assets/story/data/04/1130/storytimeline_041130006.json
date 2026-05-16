@@ -40,7 +40,7 @@
         {
             "text": "In the store, I pulled a suit off the rack and held in front of my \nchest, waiting for Lucky Lilac's opinion.",
             "choice_data_list": [
-                "S-so, what do you think…?"
+                "S-So, what do you think…?"
             ]
         },
         {
@@ -105,7 +105,7 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "Mmhmm. The outfit's well put together, and it's got a sprinkle\nof your unique charm. I think ya look great."
+            "text": "Mmhmm. The outfit's well put together, and it's got a sprinkle \nof your unique charm. I think ya look great."
         },
         {
             "name": "Lucky Lilac",
@@ -241,7 +241,7 @@
             "text": "……Hmm?"
         },
         {
-            "text": "When I saw her, I saw the face of a cool and composed \n young lady. But when that expression loosened, and \nthat composure thawed out… I felt…",
+            "text": "When I saw her, I saw the face of a cool and composed \nyoung lady. But when that expression loosened, and \nthat composure thawed out… I felt…",
             "choice_data_list": [
                 "<size=30>If you're enjoying yourself, then I'm happy.</size>",
                 "<size=30>If you're enjoying yourself, then I'm happy.</size>"

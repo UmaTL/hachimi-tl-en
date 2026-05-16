@@ -110,14 +110,14 @@
         },
         {
             "name": "Lucky Lilac",
-            "text": "W-well, maybe I have… \nThough I have to say it's a bit of an odd idea… \nNo, it's an <i>incredibly</i> odd idea.",
+            "text": "W-Well, maybe I have… \nThough I have to say it's a bit of an odd idea… \nNo, it's an <i>incredibly</i> odd idea.",
             "choice_data_list": [
                 "YIPPEEEEE!!!!"
             ]
         },
         {
             "name": "Lucky Lilac",
-            "text": "That ain't a good thing! \n……Guh. H-heehee. Hee."
+            "text": "That ain't a good thing! \n……Guh. H-Heehee. Hee."
         },
         {
             "name": "Lucky Lilac",
@@ -158,8 +158,8 @@
             "name": "Lucky Lilac",
             "text": "……Right.",
             "choice_data_list": [
-                "<size=32>We're going to make Orfevre acknowledge\nyou with her own tu-lips.</size>",
-                "<size=32>We're going to make Orfevre acknowledge\nyou with her own tu-lips.</size>"
+                "<size=32>We're going to make Orfevre acknowledge \nyou with her own tu-lips.</size>",
+                "<size=32>We're going to make Orfevre acknowledge \nyou with her own tu-lips.</size>"
             ]
         },
         {
@@ -228,8 +228,8 @@
             "name": "Lucky Lilac",
             "text": "Yeesh, someone's confident! …Ahem. Well, either way, I got \nher approval because ya helped me. I really can't thank ya \nenough.",
             "choice_data_list": [
-                "<size=36>No… This was all your own perserverance.</size>",
-                "<size=36>No… This was all your own perserverance.</size>"
+                "<size=36>No… This was all your own perseverance.</size>",
+                "<size=36>No… This was all your own perseverance.</size>"
             ]
         },
         {
