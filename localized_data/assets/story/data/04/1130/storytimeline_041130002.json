@@ -1,0 +1,225 @@
+{
+    "title": "Sprout Waving with Dignity",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It'd been a little while since I started watching \nover Lucky Lilac's races with Orfevre.",
+            "choice_data_list": [
+                "(I'd better get to work, too)",
+                "(I'd better get to work, too)"
+            ]
+        },
+        {
+            "text": "The notebook I held in my hands was full of my writing. Seeing \nher challenging Orfevre without giving up inspired me… Before \nI knew it, I found myself analyzing their races.",
+            "choice_data_list": [
+                "<size=42>(If she wants Orfe's approval, she needs…)</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Thank ya… very much. \nI hope… you'll race with me next week.",
+            "choice_data_list": [
+                "(She lost again… But…)"
+            ]
+        },
+        {
+            "text": "The more I watched her… The more perfect her racing seemed. \nShe had the impressive form of a model student, never \nbreaking her composure, not even on the track.",
+            "choice_data_list": [
+                "<size=32>(The only thing she could possibly lack is experience.)</size>"
+            ]
+        },
+        {
+            "text": "The crowd had shrunk over time, but I stayed in the seats, \ndeep in thought. This race ended with Orfevre breaking \naway in the home stretch, like every race before it.",
+            "choice_data_list": [
+                "<size=36>Trying to beat Orfe in the home stretch is just…</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——It's self-destructive, ain't it?",
+            "choice_data_list": [
+                "…L-Lucky Lilac!?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Just Lala's fine. That's what everyone calls me. Say, \nthat notebook ya got there… Why, I figured there was \nsomeone watchin' me closely, but my goodness…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm… Ya got times, strategies, and everything else in here. \nAnd your analysis is incredibly detailed, too. \n…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"How to get Lucky Lilac acknowledged by Orfevre…\"",
+            "choice_data_list": [
+                "…After seeing you, I couldn't help myself.",
+                "…After seeing you, I couldn't help myself."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…… Trainer, I'm going to the locker room to change. \n…Once I'm back, would ya give me a moment of your time?"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——Orfe-san, she's my… \nMy inspiration."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I used to think racing was just a form of entertainment. \nUmamusume running, and nothing more than that. \nBut in the midst of that, I saw <i>her</i> running…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——She stood elegantly, tall and proud. Her every step \nseemed to send a storm of blooming flowers scattering \nbeneath her feet. It set my heart aflutter."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "\"I want to be a racer like her. An Umamusume who captivates \neveryone… The flower of the flock. The star of the show.\" \n…Before I knew it, my inspiration became my dream."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Since then, I devoted myself to training. Eventually I \nreached the point where my teachers all told me I could debut \nwhenever I wanted."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "But… A simple debut wouldn't make me the star I wanted \nto be. If I wanted to shine like gold, the way she did… \n…Just being excellent wouldn't be enough.",
+            "choice_data_list": [
+                "And that's why you're racing Orfe?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Yes. I want to debut as a racer who was acknowledged by \nOrfe-san. So I asked to race her… and she was kind enough to \nallow it.",
+            "choice_data_list": [
+                "<size=36>(She managed to get THE Tyrant to race her…)</size>"
+            ]
+        },
+        {
+            "text": "Even someone as domineering as Orfevre was willing to clear \nher weekends to race Lucky Lilac. That fact should've been \nmore than enough to prove her high value as a racer."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "At any rate… I haven't the slightest clue what it is that I'm \nmissing. But there has to be some way for me to gain her \napproval…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "And to that point, I'd like to ask ya, Trainer. \nDid ya happen to figure anythin' out when ya watched our races?",
+            "choice_data_list": [
+                "Not… not yet. Sorry."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…I see. I appreciate your concern regardless. \nI'll see if I can't come up with somethin' myself."
+        },
+        {
+            "text": "I couldn't detect a hint of disappointment or worry \nin her smile. Assuming she wasn't just putting up \na strong face… Her tenacity was unbelievable.",
+            "choice_data_list": [
+                "Why do you push yourself so much?",
+                "Why do you push yourself so much?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…The way I see it, perseverance is beauty. That's why."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Well, if ya do think of something, don't hesitate \nto give me a shout. So long as Orfe-san doesn't give \nup on me, I'll always be there at the track.",
+            "choice_data_list": [
+                "Sure…",
+                "Sure…"
+            ]
+        },
+        {
+            "text": "…I didn't help her in the slightest. If only there was something, \neven something small I could do… I thought long and hard, \nand at the end what I came up with was——",
+            "choice_data_list": [
+                "(Maybe I can help her relax…?)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Trainer? \nDo ya have something ya want to tell me?",
+            "choice_data_list": [
+                "I don't… My bed. Snork mimimi."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……——",
+            "choice_data_list": [
+                "<size=36>My bed? My bad? It's bedtime? G-Get it…?</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…… \nHaha. You're quite the cheerful one, ain't ya, Trainer?"
+        },
+        {
+            "text": "Her kind smile made me cringe at myself hard… Even if I \nwanted to help her, I shouldn't have done something I wasn't \nused to."
+        },
+        {
+            "text": "If I really wanted to help her… There was only one thing I could \ndo. And that was to see my work as a trainer through to the end.",
+            "choice_data_list": [
+                "<size=36>…Do you mind if I started watching closer?</size>",
+                "<size=36>…Do you mind if I started watching closer?</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Ya mean… My races with Orfe-san? \nOr are ya talking about me?",
+            "choice_data_list": [
+                "Please, show me how you train.",
+                "Please, show me how you train."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…I suppose you're serious about this.",
+            "choice_data_list": [
+                "I want to find out what you're missing too.",
+                "I want to find out what you're missing too."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……I appreciate it. I can't thank ya enough. \nTo tell ya the truth, I've been at a loss myself."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I'm looking forward to your help, Trainer. \nLet's find what it is I'm missing together.",
+            "choice_data_list": [
+                "I'll do my best. Nice to work with you!",
+                "I'll do my best. Nice to work with you!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Seems like I found myself an unexpected ally. Everyone else \nseems to think gettin' Orfe-san to approve of me's a pipe dream…)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(But that trainer was willin' to help me find a way. \nA new point of view could be just what I needed.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(…Quite the interesting person, that trainer. \nIn more ways than one…)"
+        },
+        {
+            "text": "\"I don't… My bed. Snork mimimi.\""
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………Because it's bedtime. \n……………"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "WHAT DA HECK WAZZAT!?"
+        }
+    ]
+}
