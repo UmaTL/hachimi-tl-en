@@ -2,247 +2,247 @@
     "title": "Chapter 1: The Current State of Modern Racing",
     "text_block_list": [
         {
-            "name": "？？？",
-            "text": "『——The history of the Twinkle Series. It is the glorious trail left behind by our predecessors』"
+            "name": "???",
+            "text": "『—The history of the Twinkle Series. It is the glorious footsteps left behind by those who came before us』"
         },
         {
-            "name": "？？？",
-            "text": "『Great achievements, prestige, legends……all have been forged. If you unravel the history books, an array of breathtakingly beautiful <i>trails</i> are lined up』"
+            "name": "???",
+            "text": "『Great achievements, prestige, legends… all have been built up. If you open a history book, you'll find an array of utterly beautiful \"paths\" laid out before you』"
         },
         {
-            "name": "？？？",
-            "text": "『A myriad of true stories that make your heart race with every turn of the page. And beyond them, someday——』"
+            "name": "???",
+            "text": "『Countless true stories that make your heart leap with every turn of the page. And beyond them, someday—』"
         },
         {
-            "text": "One day at work, my smartphone alarm suddenly went off. If this calendar alarm is ringing, that means——",
+            "text": "One day while at work, my phone alarm went off. \nIf this calendar reminder is ringing, that means—",
             "choice_data_list": [
-                "Ah! Today's the newspaper distribution!",
-                "Ah! Today's the newspaper distribution!"
+                "<size=32>Ah! They're handing out the school newspaper today!</size>",
+                "<size=32>Oh! They're handing out the school newspaper today!</size>"
             ]
         },
         {
-            "text": "The school newspaper is published once a month by the PR Committee……covering various news and events within the academy"
+            "text": "The school newspaper is a monthly publication put together by the PR committee… It covers news and events happening around the academy."
         },
         {
-            "text": "——Among its contents, the monthly column is especially worth reading. I always looked forward to picking up the paper just for that.",
+            "text": "—Among its contents, the monthly column in particular \nis always a great read. I grabbed a copy of the newspaper looking forward to it.",
             "choice_data_list": [
-                "Excuse me, I'd like a copy please!"
+                "Excuse me, I'll take a copy!"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Ah, yes……Here you go.",
+            "text": "Ah, yes… Here you go.",
             "choice_data_list": [
                 "Thanks, as always!"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "N-No……You're welcome. \nThank you for always picking one up."
+            "text": "N-No… The pleasure is mine. \nThank you for always taking a copy."
         },
         {
-            "text": "I quickly unfold the newspaper I received. \nTitled \"Musings on History\" it was the very column I was looking for——"
-        },
-        {
-            "name": "Writer C",
-            "text": "『Due to an injury suffered in her childhood, her debut was delayed……Even after her debut, things didn't go smoothly, and her results in the Japanese Derby were lackluster』"
+            "text": "I eagerly opened the newspaper I'd received. A section titled 『Idle History Talk』 was the column I was looking for—"
         },
         {
             "name": "Writer C",
-            "text": "『However, she kept running. She took the 2-Win and 3-Win classes—— then surged after the Meguro Kinen. Radiating an amber brilliance, she won the Arima Kinen』"
+            "text": "『Due to an injury suffered in her youth, her debut was delayed… Even after her debut, things didn't go smoothly, leading to a lackluster result in the Japanese Derby』"
         },
         {
             "name": "Writer C",
-            "text": "『——A horsegirl who received her discipline and teachings exists in the present day. A late bloomer who pushed past a rested spring to blossom in the autumn——』"
+            "text": "『However, she kept running. She conquered the 2-Win Class and 3-Win Class—then made a breakthrough after the Meguro Kinen. Showing off her amber brilliance, she won the Arima Kinen』"
         },
         {
             "name": "Writer C",
-            "text": "『During the interview, she murmured \"I feel like I can finally stand shoulder-to-shoulder with my peers. That's why — I'm going to seize it, just like this\"』"
+            "text": "『—And in the present day, there is a Horsegirl who carries on her legacy. A late bloomer who rested through the spring and blossomed in the fall—』"
         },
         {
             "name": "Writer C",
-            "text": "『History bears witness. Before long, she will become a great figure decorated with graded stakes victories. The story begins at the very first Tokyo race of the New Year. (Writer C)』",
+            "text": "『During an interview, she murmured, \"I feel like I can finally stand shoulder-to-shoulder with my peers. So—I'm going to seize this chance, just like this\"』"
+        },
+        {
+            "name": "Writer C",
+            "text": "『History is the proof. She will soon become a figure crowned with graded stakes victories. Her story will be set in motion at the first Tokyo Race event of the new year (Writer C)』",
             "choice_data_list": [
-                "(This column's really fascinating)",
-                "(This column's really interesting)"
+                "(Man. This column is really fascinating)",
+                "(Yeah. This column really is fascinating)"
             ]
         },
         {
-            "text": "It doesn't just introduce history. By tying it to the past, it introduces currently active horsegirl — connecting it to the present. That's the charm of this column.",
+            "text": "It doesn't just introduce history. It ties into it by introducing active Horsegirls too—connecting the past to the present. That was the charm of this column.",
             "choice_data_list": [
-                "The author… I wonder who <i>Writer C</i> is?"
+                "I wonder who the author… Writer C is?"
             ]
         },
         {
-            "text": "As I mutter, I check the calendar. —It looks like the horsegirl featured in the column is racing on the Friday right after the New Year.",
+            "text": "Muttering to myself, I checked my calendar. —It seemed the Horsegirl featured in the column was scheduled to race on a Friday right after the new year.",
             "choice_data_list": [
-                "I've got some time to kill, so I think I'll go!"
+                "I'll be free then, so maybe I should go!"
             ]
         },
         {
-            "text": "The day finally arrived. Since there was still some time before the race, I decided to visit the Horsegirl Museum, and…….",
+            "text": "When the day arrived, I still had some time before the race, so I visited the Horsegirl Museum…",
             "choice_data_list": [
-                "Ah, the newspaper girl…"
-            ]
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "………Their will is still connected to the present day. No matter how many times I see it……over and over……."
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "……Fufu. \nMaybe I'll go around one more time……."
-        },
-        {
-            "text": "After touring the Horsegirl Museum, I visited the paddock, and she was there as well."
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "………… \n…………。",
-            "choice_data_list": [
-                "(S-She's taking photos so intently…)"
+                "<size=32>Ah, it's the girl who always gives me the newspaper…</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……Hmmー I might have stopped down the lens too much. Let's open it up a bit more……and take a few more shots."
-        },
-        {
-            "text": "This time I spot her in the stands. In her hand, she's carrying a sports newspaper she likely bought this morning."
+            "text": "……Their will is still connected to the present day. No matter how many times I see it… Over and over again…"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……At 2000 meters, this course demands explosive speed too……But, her previous race was on the same track, and with that closing time — it should be no problem."
+            "text": "…Hehe. \nMaybe I'll go around one more time…"
+        },
+        {
+            "text": "After touring the Horsegirl Museum, \nI visited the paddock, and she was there too."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Her final training and the word from the reporters are are excellent… The top favorite is #2. —Performance and reputation have finally caught up with her."
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "Judging by the paddock, #3 looked good too, but…… on today's track, she won't be out-sprinted. Besides, from a historical standpoint as well—"
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "Today, if she wins, it'll be incredibly hype."
-        },
-        {
-            "name": "Announcer",
-            "text": "She's broken clear! It's #2! #2! With an incredible burst of speed, she's snatched the victory!!",
+            "text": "…………\n…………",
             "choice_data_list": [
-                "Amazing! That girl from the column…"
+                "<size=28>(W-Wow, she's taking pictures of the Horsegirls so seriously…)</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "……Hh……uuh…… \nh-hgh……!"
+            "text": "…Hmm. I might've stopped down the lens too much. \nI'll open it up a bit more… and take a few more shots."
+        },
+        {
+            "text": "Next, I spotted her in the stands. In her hand, she carried a sports newspaper she'd presumably bought this morning."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Waaaaaaaaah……!!",
+            "text": "…At 2000 meters, this course also requires a quick burst of speed… But considering her last race was on the same course and her closing sprint was that fast—it won't be a problem."
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "Her trackwork and reputation among the reporters are excellent… The number one favorite is number 2. —Results and reputation have finally aligned for her."
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "From the looks of the paddock, number 3 was also looking good, but… with today's turf condition, she won't be outpaced. Plus, looking at it from a historical perspective—"
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "If she wins today, it'll be epic."
+        },
+        {
+            "name": "Commentator",
+            "text": "She's completely broken away! Number 2! It's number 2! \nShe snatches the victory with an incredible final spurt!!",
             "choice_data_list": [
-                "(S-She's really crying her eyes out…!?)"
+                "<size=40>Amazing! That girl featured in the column…</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Uu, uuu…… ——Ah…….",
+            "text": "…Ugh… Ughh… \nNngh…!"
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "Waaaaaah…!!",
             "choice_data_list": [
-                "Eh?! Are you alright?!"
+                "(S-She's crying her eyes out…!?)"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I-I'm sorry…… \nFor making you worry……",
+            "text": "Hic, uuugh… —Ah…",
             "choice_data_list": [
-                "You scared me, getting all dizzy like that"
+                "Huh!? Are you okay!?"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I-I'm truly sorry… I'm alright now. \n…It happens sometimes. Just a bit of dizziness…"
-        },
-        {
-            "name": "PR Committee Horsegirl",
-            "text": "I ended up skipping my meal today… I knew that getting worked up would lead to this… but even so…",
+            "text": "S-Sorry… \nI didn't mean to worry you…",
             "choice_data_list": [
-                "In that case, let's go find some food!"
+                "<size=38>You surprised me, suddenly swaying like that</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "…………U-Um. Well…"
+            "text": "I-I'm really sorry… I'm fine now. \n…This just happens sometimes. I get dizzy…"
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "I put off eating today… I knew this would happen if I got too excited, but…",
+            "choice_data_list": [
+                "<size=30>Then we need to go get you something to eat right away!</size>"
+            ]
+        },
+        {
+            "name": "PR Committee Horsegirl",
+            "text": "……U-Umm. Well…"
         },
         {
             "name": "PR Committee Horsegirl",
             "text": "I can't do that…",
             "choice_data_list": [
-                "Huh… why not?"
+                "Eh… why not?"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I want to check the paddock… and the entrance to the main track too… So, I don't have time to eat…"
+            "text": "I need to check the paddock… and the track entrances… \nSo, I don't have time to eat…"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I want to watch the next race properly, too. Everything from the entrance to the start of the race… all of it…"
+            "text": "I want to watch the next race closely too. \nEverything from the entrance to the actual race…"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Because a race is the very moment that history is born."
+            "text": "Because a race is the exact moment history is born."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I want to be present and bear witness to it all. It's not enough to just track the data — I have to be at the track. I want to feel the live impact of the moment as it happens."
+            "text": "I want to be there to witness it. Not just following the information—but on-site. Right there in the moment, I want to experience that raw emotion for myself."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Because that, too, becomes a part of my own history."
+            "text": "Because that becomes a part of my history, too."
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "——Oh, I-I'm sorry! I just started rambling…! Basically, all I'm saying is that I don't want to miss a single part of the race…!",
+            "text": "—W-Wait, I-I'm sorry! I kind of went on a rant there…! \nThe point is, I just don't want to miss a single second of the races…!",
             "choice_data_list": [
                 "I-I see…"
             ]
         },
         {
-            "text": "Despite her gentle demeanor, I'm taken aback by the sheer resolve in her voice. But letting her go on like this without any food—",
+            "text": "Her demeanor was gentle, yet I was overwhelmed by the strong resolve bleeding through her words. However, leaving her to skip a meal like this—",
             "choice_data_list": [
-                "Ah… right. If I recall, in my pocket—"
+                "<size=34>Ah… right. I think I have something in my pocket—</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Good… a perfect start. ……The pace is slow, too. Just as I predicted. Now she just needs to stay patient…… <i>munch munch</i>……"
+            "text": "Good… A perfect start. …The pace is slow, too. Just as I predicted. Now she just has to hold out… Munch, munch…"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Here she comes. Just like that… keep it up…! ……Phew. Both the pace and the positioning were perfect. A solid run that lived up to her status as the favorite… <i>munch munch</i>…",
+            "text": "Here she comes. Keep going… keep going…! \n……Phew. Her pace and positioning were both perfect. A solid run that lived up to the crowd's expectations… Munch, munch…",
             "choice_data_list": [
-                "(S-She's multitasking like a pro…!)",
-                "(S-She's multitasking like a pro…!)"
+                "(She's multitasking like a pro…!)",
+                "(She's really multitasking like a pro…!)"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I'm so sorry for being a burden today…! Not only did you share your food with me… but I let you see me in such an embarrassing state…"
+            "text": "I'm so sorry for causing you so much trouble today…! \nNot only did you give me food… but I also showed you such a shameful side of myself…"
         },
         {
-            "text": "…I tell her that I understand how she feels. Thinking back on what was written in the school newspaper column, today's race was truly moving.",
+            "text": "…I tell her that I understand how she feels. Thinking back to what was written in the school newspaper's column, today's race truly was moving.",
             "choice_data_list": [
-                "Did you perhaps read that column too?",
-                "Did you perhaps read that column too?"
+                "<size=28>Did you perhaps come here after reading that column, too?</size>",
+                "<size=28>Did you happen to come here after reading that column, too?</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "…Well, I wouldn't exactly say I <i>read</i> it. Um…"
+            "text": "…Well, I wouldn't say I read it. \nUmm…"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "I'm the one who wrote that…"
+            "text": "I'm the one who wrote it…"
         }
     ]
 }

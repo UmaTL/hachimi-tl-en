@@ -1,207 +1,207 @@
 {
-    "title": "Chapter 2: The Rise of the New Stars",
+    "title": "Chapter 2: The Rise of New Stars",
     "text_block_list": [
         {
-            "text": "Several days had passed since I watched the race. \nAs I was busy with administrative tasks in my office, I heard a knock at the door.",
+            "text": "A few days after watching the race. While doing paperwork in the trainer's room, I heard a knock at the door.",
             "choice_data_list": [
-                "Yes, come in!"
+                "Come in!"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "E-Excuse me… \nGood work today, Trainer.",
+            "text": "E-Excuse me… \nThanks for your hard work, Trainer.",
             "choice_data_list": [
-                "Oh, it's you! What can I do for you today?",
-                "Oh, it's you! What can I do for you today?"
+                "<size=32>Oh, from the other day! What brings you here today?</size>",
+                "<size=32>Oh, from the other day! What brings you here today?</size>"
             ]
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "Um, well…\nI'm so sorry for what happened at Tokyo Racecourse…!"
+            "text": "Umm, well… \nI'm sorry about what happened at the Tokyo Racecourse…!"
         },
         {
             "name": "PR Committee Horsegirl",
-            "text": "After causing you concern and even taking food from you… \nI'm here today to apologize. Also… it's a humble gesture, but I've brought some <i>motsu-nikomi</i> I cooked myself.",
+            "text": "For making you worry, and for the energy bar… \nSo, today I came to apologize, and… although it's just a small token of my gratitude, I made some <i>motsuni stew</i>.",
             "choice_data_list": [
-                "<i>M-Motsu-nikomi</i>? Just for me?"
+                "<size=34><i>M-Motsuni</i>? You went out of your way to make it?</size>"
             ]
         },
         {
-            "text": "Surprised by her strong sense of duty, I immediately dig into the still-warm dish. —It's delicious! The balance of saltiness is perfect.",
+            "text": "Surprised by her strong sense of duty… I promptly dug \ninto the still-warm dish. —It's delicious! The salty flavor is perfectly balanced.",
             "choice_data_list": [
-                "Thank you! …Um, and your name is…?"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Ah… My name is Chrono Genesis. I'm currently a member of the Public Relations Committee…… for the time being.",
-            "choice_data_list": [
-                "Chrono Genesis… Ah, that reminds me"
-            ]
-        },
-        {
-            "text": "It was only revealed the other day, but she was the one who wrote my favorite column, \"Tsurezure, Rekishi-gatari\" In other words, the person standing before me is—",
-            "choice_data_list": [
-                "<i>Writer C</i>! I absolutely love your column!"
+                "Thank you! …Umm, your name is…"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Wha! N-Not at all…! \nThose are just my personal memos…!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "B-But, um… I'm happy. \nThat you would say something like that…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "How should I put it… yes… it's really just a hobby for me… \nSo, I figured no one was actually reading it…",
+            "text": "Ah… My name is Chrono Genesis. \nI'm currently serving on the PR committee…",
             "choice_data_list": [
-                "That's not true at all! …Want proof?",
-                "That's not true at all! …Want proof?"
+                "<size=40>Chrono Genesis… Ah, come to think of it</size>"
             ]
         },
         {
-            "text": "I bring over a file where I've clipped and scrapped the columns I found particularly interesting. When I tell her that her recent piece on the <i>St. Lite</i> was also fantastic—"
+            "text": "As I discovered the other day, she was the one writing my favorite column, 『Idle History Talk』 In other words, the person standing in front of me right now is—",
+            "choice_data_list": [
+                "Writer C! I absolutely love your column!"
+            ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Eh, this much—? …Th-Thank you so much…! \nUm, well… I…"
+            "text": "Wah! N-No way…! \nThat's just a personal memorandum…!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I'll keep doing my best then. From now on, too… —Ehehe."
+            "text": "B-But, umm… I'm happy. \nThat you would say something like that…"
         },
         {
-            "text": "A few days after that encounter. \nWhile watching a practice race, I spotted her there."
+            "name": "Chrono Genesis",
+            "text": "How should I put it, yes… It's really just a hobby of mine… \nSo, I didn't think anyone was actually reading it…",
+            "choice_data_list": [
+                "<size=36>That's not true! …Want me to show you proof?</size>",
+                "<size=36>That's not true! …Want me to show you proof?</size>"
+            ]
+        },
+        {
+            "text": "I brought out my scrapbook file, where I keep clippings of the most interesting columns. When I told her that the recent St. Lite edition was also amazing—"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Eh, this many—… T-Thank you so much…! \nUmm, well… I…"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "I-I'll keep doing my best. From here on out… —Hehe."
+        },
+        {
+            "text": "A few days after that incident. \nWhile watching a mock race, I spotted her there."
         },
         {
             "name": "Gran Alegria",
-            "text": "Good Mile-ning! \nLet's have a great one today, Love, Chrono!"
+            "text": "Good mile-ning! Let's have a great race today, \nLoves, Chrono!"
         },
         {
             "name": "Loves Only You",
-            "text": "Hehe. Yes, I'm looking forward to it, both of you. I'll be the one reporting a victory to my followers in today's stream♡"
+            "text": "Hehe. Yes, same to you both. I'll be the one reporting my victory to my followers on today's stream♡"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I-I look forward to working with you both… \nI will do my absolute best as well."
+            "text": "N-Nice to race with you… \nI'll be sure to give it my all as well."
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Track condition is firm. Given the distance to the second and third corners, the battle for positioning shouldn't be too intense. Nine runners in total. I predict only one lead runner—"
+            "text": "…The course condition is good. Since there's distance before the second and third corners, the battle for the front won't be too fierce. A 9-Horsegirl field. Predicted pacesetters: one—"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Chances are, it'll be a slow pace… I can think of a few past races that fit these conditions. From there, I'll work out the most likely development…"
+            "text": "The pace will likely be slow… There are a few matching races in history. I just need to figure out which one is closest based on how it unfolds…"
         },
         {
-            "name": "Event Announcer",
-            "text": "Mock race, 1800m on turf… \nand they're off, a clean start for everyone!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Hah, hah, hah, hah——"
+            "name": "Event Commentator",
+            "text": "Mock race, 1800m on turf… \nAnd they're all off!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(#4 seems unable to hold back and is moving forward. This is… the first thing that comes to mind is…)"
+            "text": "Hah, hah, hah, hah—"
         },
         {
             "name": "Chrono Genesis",
-            "text": "The 『Ivy Stakes』…from the year #7 won…"
+            "text": "(Number 4 is moving up, looking like she can't hold back. \nThis is… The first thing that comes to mind is…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(The winning horsegirl back then was a front-runner — this position isn't a mistake)"
+            "text": "The 『Ivy Stakes』…The year number 7 won…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(I still have plenty in the tank. My position is good. \nNow, I just need to wait for the right timing—)"
+            "text": "(The winning Horsegirl back then ran with a leader strategy— This positioning isn't wrong.)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(I still have stamina left. My positioning is good too. \nNow, I just need the right timing—)"
         },
         {
             "name": "Loves Only You",
-            "text": "Hup——now!!"
+            "text": "Hah— Right here!!"
         },
         {
-            "name": "Event Announcer",
-            "text": "Coming off the fourth corner and into the final straight, \nLoves Only You is steadily making her forward!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "……!"
+            "name": "Event Commentator",
+            "text": "Coming out of the fourth corner and into the homestretch, Loves Only You is steadily pushing up the pack!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(It's okay. I don't need to chase yet. History proves it. I'll make my move from a winning position!)"
+            "text": "Ngh…!"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(It's okay. I don't need to chase her yet. History is the proof. I'll make my move from a winning position!)"
         },
         {
             "name": "Gran Alegria",
-            "text": "Alriiiight, here I gooo… \nMileeeee!!☆"
+            "text": "Aaalright, here I gooo… Milerrrrr☆"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(…! Even Gran is moving…! \nIf that's how it is… no, even then…!)"
+            "text": "(…Ghk! Gran too…! \nIn this case… No, even in this case…!)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I'll put my faith in history—!"
+            "text": "Trust in history—!"
         },
         {
-            "text": "…For many reasons, I can't take my eyes off Chrono Genesis. Her calculated pace management. Her sharp final burst. Her tenacity for victory—"
+            "text": "…In more ways than one, I couldn't take my eyes off Chrono Genesis. Her calculated pace distribution. Her sharp final spurt. Her tenacity for victory—"
         },
         {
-            "text": "She has it all. And yet, in spite of that… why is it? Somewhere deep down, she seems—",
+            "text": "She had it all. And yet… Why did it seem like she was somehow—",
             "choice_data_list": [
-                "Like she's being held back by something…"
+                "It's like she's bound by something…"
             ]
         },
         {
-            "name": "Event Announcer",
-            "text": "The winner is Loves Only You! It's Loves Only You! \nGran Alegria and Chrono Genesis just barely missed the mark!"
+            "name": "Event Commentator",
+            "text": "First place goes to Loves Only You! It's Loves Only You! \nGran Alegria and Chrono Genesis fall agonizingly short!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Haa, haa, haa… \n……Third place… by a neck…"
+            "text": "Hah, hah, hah… \n…A neck behind in 3rd place…"
         },
         {
             "name": "Gran Alegria",
-            "text": "…Kuuuh! As expected of my rivals! \nI've gotta step it up! I need to go even further ——as the Queen of the Mile."
+            "text": "…Gah! As expected of my rivals! More! I need to do even more than I am now. —As the Queen of the Mile."
         },
         {
             "name": "Loves Only You",
-            "text": "Fufu… it was such a close race, yet your fighting spirit is already blazing, isn't it? I suppose I should increase my training too."
+            "text": "Hehe… It was such a close call, yet your fighting spirit is blazing. I guess I'll have to increase my training, too."
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………Kh."
+            "text": "……Ngh."
         },
         {
-            "text": "Later that night. As I was walking down the hallway to head home, I noticed light spilling out from the library.",
+            "text": "That night. As I was walking down the hallway to go home, \nI saw light spilling out from the library.",
             "choice_data_list": [
-                "Huh… did someone left the lights on??"
+                "<size=36>Huh… Did someone forget to turn the lights off?</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "……………… \n…………More."
+            "text": "………………\n…………More."
         },
         {
             "name": "Chrono Genesis",
-            "text": "(I have to dig deeper into racing history. Because everything is in history. The thing that <i>Chrono Genesis</i> needs—the answer is surely there, too.)"
+            "text": "(I need to dig deeper into racing history. After all, everything is in history. What Chrono Genesis needs— \nThe answer to that must be there, too.)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I'm still lacking… \nIn order to reach my dream…—"
+            "text": "I'm still lacking… \nFor my dream…—"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(If I'm not enough, I have to fill the gap.)"
+            "text": "(If I'm lacking, I have to fill the gap.)"
         },
         {
-            "text": "…The sheer intensity she's exuding reminds me of the moment she nearly fainted back at Tokyo Racecourse. Almost instinctively, I find myself speaking up.",
+            "text": "…Her intense, driven demeanor reminded me of when \nshe nearly collapsed at the Tokyo Racecourse. Before \nI knew it, I was calling out to her.",
             "choice_data_list": [
-                "Don't push yourself too hard now"
+                "It's not good to push yourself too hard"
             ]
         },
         {
@@ -210,50 +210,50 @@
         },
         {
             "name": "Chrono Genesis",
-            "text": "No, but… it's something I have to do. \n…Sorry.",
+            "text": "No, but… I have to do this. …I'm sorry.",
             "choice_data_list": [
-                "…In that case, let me help you",
-                "…In that case, let me help you"
+                "…Then I'll help out, too",
+                "…Then I'll help out, too"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………Eh?"
+            "text": "……Eh?"
         },
         {
-            "text": "I piled up historical books that seemed useful by her side, such as \"Past and Future of Tokyo Racecourse\" and \"The History of the Twinkle Series\"",
+            "text": "I piled up documents that seemed like they would be useful reference next to her, such as 『The Past and Future of the Tokyo Racecourse』 and 『The History of the Twinkle Series』",
             "choice_data_list": [
-                "I'll leave this right here"
+                "I'll just leave these right here"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Oh. S-Sorry. I'm making you help me collect materials… and at this hour, too…",
+            "text": "…Ah. I-I'm sorry. Having you help me gather documents… \nuntil this late at night…",
             "choice_data_list": [
-                "No, don't worry about it!"
+                "Nah, don't worry about it!"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………Trainer…"
+            "text": "………Trainer……"
         },
         {
-            "text": "To tell the truth, this was also a way for me to keep an eye on her. I wanted to be there to catch her if she pushed herself too far."
+            "text": "To tell the truth, this was also a form of surveillance. That way, if Chrono Genesis pushed herself too hard, I could immediately step in to support her."
         },
         {
-            "text": "In short, I was doing it for my own self interest, so it didn't really matter… but there was one thing that was bothering me. I decided to ask her about it as casually as I could.",
+            "text": "In other words, I was doing it for selfish reasons, so I didn't mind… But there was one thing that bothered me. So, I asked her casually.",
             "choice_data_list": [
-                "But… why are you going to such lengths?",
-                "But… why are you going to such lengths?"
+                "But… why do you go to such lengths?",
+                "But… why do you go to such lengths?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "………… \n…………I"
+            "text": "…………\n…………I."
         },
         {
             "name": "Chrono Genesis",
-            "text": "I want to be one of those who makes history."
+            "text": "I want to become a part of history."
         }
     ]
 }

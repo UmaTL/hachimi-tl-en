@@ -3,189 +3,192 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "One day after school. In the library, I spotted Chrono Genesis and another horsegirl watching her from a distance."
+            "text": "One day after school. In the library, I saw Chrono Genesis \nand a Horsegirl watching her from afar."
         },
         {
             "name": "Chrono's Classmate",
-            "text": "Ugh… Just as I thought, Chrono is currently…",
+            "text": "Hmm… Chrono right now really is…",
             "choice_data_list": [
-                "<size=40>Do you have some business with Chrono?</size>"
+                "Do you need something from Chrono?"
             ]
         },
         {
             "name": "Chrono's Classmate",
-            "text": "Oh, you are Chrono's… Yes, I'm here to give her back the test notes I borrowed. They were so beautifully organized, so I just wanted to say thanks…"
+            "text": "You're Chrono's… Yes, I came to return her notebook for the test. It was so neatly organized and really helped me out, so I wanted to thank her…"
         },
         {
             "name": "Chrono's Classmate",
-            "text": "But Chrono right now, she seems so incredibly focused… \nLike she's exuding an aura that's completely different from her usual, gentle self…"
+            "text": "But right now, Chrono seems super focused… She's giving off an aura completely different from her usual graceful self…"
         },
         {
             "name": "Chrono's Classmate",
-            "text": "I feel like I'd be disturbing her, so it's hard to speak up… but I have something else to do after this… what should I do?",
+            "text": "I feel like I'd be bothering her, so it's hard to call out… But I have something to do right after this… What should I do?",
             "choice_data_list": [
-                "I'll hold onto it for you and give it to her",
-                "I'll hold onto it for you and give it to her"
+                "<size=36>In that case, I can hold onto it and give it to her</size>",
+                "<size=36>In that case, I can hold onto it and give it to her</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "This time it's 1700m on dirt, clockwise… #10 drawing a lot of attention… It's true, you can't take your eyes off that front-running power from their wire-to-wire win in the last race…",
+            "text": "This time it's a 1700m dirt race, clockwise… The center of attention is number 10… It's true you can't ignore her early speed from when she pulled away for a win in her last race…",
             "choice_data_list": [
-                "Hey, Chrono"
+                "Hey there, Chrono"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "But the one I'm keeping an eye on is #6… Even though they haven't been performing well in their last few races, this time they've got a shorter distance, and the track conditions—",
+            "text": "But the one I've got my eye on is number 6… Even though she hasn't been doing well in her last few races, this time the distance is shorter, plus the track condition is—",
             "choice_data_list": [
-                "Hello～?"
+                "Hellooo?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Hya…! T-Trainer… \nH-H-How long have you been there…?"
+            "text": "Eep…! T-Trainer… \nW-W-When did you get here…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I-I see… So you've brought this in her place…"
+            "text": "I-I see… So you brought this in her stead…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I ended up doing something wrong to her… \nI was working on my predictions and just got completely lost in them…",
+            "text": "I feel bad for ignoring her… I was narrowing down my predictions and got completely absorbed…",
             "choice_data_list": [
-                "<size=40>By the way, Which race were you predicting?</size>"
+                "<size=36>By the way, which race were you predicting?</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Um… it's for today's race meet. I've finished most of my predictions, so now I want to see the participants' condition in person to improve my accuracy…"
+            "text": "Umm… Today's individual event tournament. I've mostly formulated my predictions, so now I want to see their conditioning firsthand to improve the accuracy…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Ah… the pre-race warm-ups. I'd better get going now…!",
+            "text": "Ah… The pre-race warm-up. \nI need to get going…!",
             "choice_data_list": [
-                "Sounds fun. I'll go too.",
-                "Sounds fun. I'll go too."
+                "<size=40>That sounds interesting, I'll come with you</size>",
+                "<size=40>That sounds interesting, I'll come with you</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…#6's condition… just as predicted… \n#10's hindquarter movement… yeah. With this…",
+            "text": "…Number 6's condition… Just as predicted… \nNumber 10's stride… Yeah. With this…",
             "choice_data_list": [
-                "Have you made your final prediction?"
+                "Have you finalized your predictions?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Yes. The favorite is #6. The main rival is #10. First place is a lock for #6, and I believe the battle for second will likely be between #10 and #12…!"
+            "text": "…Yes. The favorite is number 6. The rival is number 10. Number 6 is a solid bet for 1st, and the battle for 2nd will likely be between number 10 and number 12…!"
         },
         {
             "name": "Monologue",
-            "text": "Before long, the warm-ups ended, and the athletes began entering their gates one after another. However—"
+            "text": "Eventually, the warm-up ended, and the competitors \nentered the gates one after another. However—"
         },
         {
             "name": "Monologue",
-            "text": "<i>(Drip… Drip…)</i>",
+            "text": "(Pitter… patter…)",
             "choice_data_list": [
-                "(Eh?! Rain…!?)"
+                "(Eh!? Rain…!?)"
             ]
         },
         {
             "name": "Monologue",
-            "text": "Clouds rapidly covered the sky, and rain began to pour just as the race started. Spectators scurried this way and that, seeking shelter under the roof.",
+            "text": "Clouds rapidly covered the sky, and rain began to fall right as the race started. The spectators scrambled around, taking shelter under the roof.",
             "choice_data_list": [
-                "…Huh? where's Chrono?"
+                "…Huh? Where's Chrono?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "—#6 is running second in the lead group… They have a history of placing in heavy track conditions, so they're running calmly… If I think about past races…",
+            "text": "—Number 6 is leading in second place… \nShe also has experience placing on a heavy track, \nso she's running calmly… Considering her past races…",
             "choice_data_list": [
-                "<size=38>Chrono, you should get under the roof too…!</size>",
-                "<size=38>Chrono, you should get under the roof too…!</size>"
+                "<size=38>Chrono, you need to get under the roof, too…!</size>",
+                "<size=38>Chrono, you need to get under the roof, too…!</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "No…! This is the spot…! \nI have to be in the front row…!"
+            "text": "No…! I'm staying right here…! \nThe front row is best…!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Even in past history, there have been all sorts of fierce battles fought in the rain…! When I think that this race, too, might one day lead to that kind of legendary clash—"
+            "text": "History is filled with fierce battles fought in the rain…! \nJust thinking that this race might eventually become \none of those battles—"
         },
         {
             "name": "Chrono Genesis",
-            "text": "I don't want to take my eyes off it for a single second…!!",
+            "text": "I don't want to take my eyes off it…!!",
             "choice_data_list": [
                 "Chrono…"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "History is a \"painting.\" It's a massive, single painting that emerges when the countless \"dots\" drawn by everyone involved in racing connect to form lines."
+            "text": "History is a \"picture.\" The countless \"dots\" drawn by everyone involved in racing connect, becoming lines that bring it to the surface—a massive, single picture."
         },
         {
             "name": "Monologue",
-            "text": "Before, she said she was <i>captivated by history</i>. This passion of hers, undeterred by the rain, was exactly what it meant to be captivated——"
+            "text": "She had previously mentioned being \"captivated by history.\" This passion of hers, unbothered by the rain, proved just how captivated she truly was—"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Eh, #3 is making a move here…!? \nTaking advantage of #6's opening… Whoa! Whoa!"
+            "text": "Eh, number 3 is moving here…!? \nSlipping through number 6's opening… Wah! Wah!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "#3's… final surge…! \n…Amazing…! Amazing, amazing!!"
+            "text": "Number 3… snatched the win…! \n…Amazing…! Amazing, amazing!!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "#6 was supposed to have the aptitude for a heavy track too…! And yet, they overturned all of my expectations… Ha. This development, if I recall…!!"
+            "text": "Number 6 should have had an aptitude for heavy track conditions too…! And yet, my predictions were overturned… Hah. This development, if I remember correctly…!!",
+            "choice_data_list": [
+                "Ah, Chrono!"
+            ]
         },
         {
             "name": "Monologue",
-            "text": "I followed Chrono Genesis into the trainer's office, only to find her staring intently at the reference footage of the race."
+            "text": "When I followed Chrono Genesis into the trainer's room, she was intently watching reference footage of a race."
         },
         {
             "name": "Chrono Genesis",
-            "text": "I knew it…! Even in that past race, my expectations were overturned…! Ah, right there—replay that part…!",
+            "text": "I knew it…! The race back then also overturned my predictions…! Ah, that part just now, replay it—…!",
             "choice_data_list": [
-                "Here, a towel. Let's dry you off first"
+                "<size=38>Here, use this towel. Let's dry you off first</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "……Eh? Ah, Trainer…… \nA towel……?"
+            "text": "…Eh? Ah, Trainer… \nA towel…?"
         },
         {
             "name": "Chrono Genesis",
-            "text": "—Aaaaah!? I-I'm so sorry!! I'm all soaking wet… and… ah-choo!!"
+            "text": "—Aaah!? I-I'm so sorry!! \nI'm soaking wet… and… Achoo!!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Trainer, I am truly sorry… If there are still any wet spots anywhere, I'll clean them up right away…",
+            "text": "Trainer, I'm really sorry… If I got anything wet, I'll clean it up right away…",
             "choice_data_list": [
-                "<size=40>It's fine. You were just really focused, right?</size>",
-                "<size=40>It's fine. You were just really focused, right?</size>"
+                "<size=36>It's fine. You were just that absorbed in it, right?</size>",
+                "<size=36>It's fine. You were just that absorbed in it, right?</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Y-Yes…! Even now, my heart's still racing… I think I'll write a column about this for the next school newspaper…",
+            "text": "Y-Yes…! My heart is still pounding even now… I think I'll write my next column for the school newspaper about this…",
             "choice_data_list": [
-                "<size=39>I'm looking forward to it! Just don't overdo it</size>"
+                "<size=30>I'm looking forward to it! But don't push yourself too hard</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………! \nAh, t-thank you very much……"
+            "text": "…………Ah.\nT-Thank you…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(…………I see… I've made you worry about me again… \nMaking you deliver my notes, and even dragging you out to watch a race in the rain…)"
+            "text": "(…Right, I… made Trainer worry again… Making them deliver my notebook, making them accompany me to a race in the rain…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(Could it be… that there's actually been so much more…?)"
+            "text": "(Could there be… a lot of other things, too…?)"
         }
     ]
 }

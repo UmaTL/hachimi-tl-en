@@ -1,177 +1,177 @@
 {
-    "title": "Chapter 7: A Summer Walking in the Footsteps of History",
+    "title": "Chapter 7: A Summer Walking the Footprints of History",
     "text_block_list": [
         {
-            "text": "This happened before the summer training camp. When I asked Chrono Genesis how she wanted to spend her day off――",
+            "text": "It was right before the summer training camp. When I asked Chrono Genesis how she planned to spend her day off—",
             "choice_data_list": [
-                "Is there somewhere you want to go?"
+                "You have somewhere you want to go?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Y-Yes… There's the site of a former racecourse… \nlocated a day trip away by train from the training camp…"
+            "text": "Y-Yes… There's an abandoned racecourse \nwe can do a day trip to by train from the training camp…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "It was abandoned a long time ago, but countless matches were held there… I've been interested in it for a while now…"
+            "text": "It was shut down a long time ago, but countless matches were held there… I've been interested in it for a while…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "And so…… um…… well…… \n………………"
+            "text": "And so… Umm… Well…\n………………"
         },
         {
             "name": "Chrono Genesis",
-            "text": "T-Trainer. \nWould you… like to come with me…?",
+            "text": "T-Trainer. \nWould you like… To come with me…?",
             "choice_data_list": [
-                "Is it okay if I come along?",
-                "Is it okay if I come along?"
+                "Are you sure you want me to tag along?",
+                "Are you sure you want me to tag along?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Y-Yes. Um, there's nothing there now, but…From a historical perspective, I believe it's a very significant place…!",
+            "text": "Y-Yes. Well, there's nothing there now, but… \nFrom a historical perspective, I believe it's a very significant place…!",
             "choice_data_list": [
-                "Sounds good, let's go together"
+                "Sounds great, let's go together"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "――…! Y-Yes…!"
+            "text": "—…! Y-Yes…!"
         },
         {
-            "text": "And so, on the summer training camp's day off."
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "U-Um… If you'd like, please take a look at this. \nIt's a summary… of the racecourse we're going to."
+            "text": "And so, on our day off during the summer training camp."
         },
         {
             "name": "Chrono Genesis",
-            "text": "It summarizes the history of the racecourse and its race results. Well… Only the part I was able to find, though…",
+            "text": "U-Umm… Please take this, if you'd like. \nIt's a summary… Of the racecourse we're visiting."
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "It has information on the racecourse's origins and a summary of the race results. Well… Just the parts I could find, anyway…",
             "choice_data_list": [
-                "<size=38>Did you put all this together yourself, Chrono?</size>",
-                "<size=38>Did you put all this together yourself, Chrono?</size>"
+                "Did you put all this together, Chrono?",
+                "Did you put all this together, Chrono?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Y-Yes…! I thought that having some background knowledge… \nmight make it more enjoyable for you, Trainer…",
+            "text": "Y-Yes…! I thought you might enjoy it more if you had some background knowledge beforehand… So I…",
             "choice_data_list": [
-                "Thank you, this helps a lot!"
+                "Thank you, this is a huge help!"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Really…!? \n…………I'm glad…"
+            "text": "Really…!? \n……I'm glad…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Ah… We still have some time before the train arrives. \nI'll go buy us some drinks."
+            "text": "Ah… We still have some time before the train arrives. \nI'll go buy some drinks."
         },
         {
-            "text": "After getting off at our destination, we walk along a narrow path filled with the scent of grass. Since just walking would be boring—",
+            "text": "We got off at our destination station and walked along a path surrounded by the scent of grass. However, just walking was a bit boring, so—",
             "choice_data_list": [
                 "Rock, paper… scissors!"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Ah… I win…! \nLet's see… G- R- A- D- E- R- A- C- E-…tsu."
+            "text": "Ah… I win…! Umm… \nG-R-A-D-E-D-R-A-C-E……"
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Hehe. \nIt's a neck-and-neck race……!",
+            "text": "…Hehe. \nIt's a neck-and-neck race, back and forth…!",
             "choice_data_list": [
-                "(Chrono's having a lot of fun)"
+                "(Chrono is really in high spirits)"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Oh right. If I recall, up ahead there's… \n…………Ah."
+            "text": "…Right. I believe just ahead is… \n……Ah."
         },
         {
             "name": "Chrono Genesis",
-            "text": "Trainer… Would you like to take a detour to that shrine over there? It's a place with ties to racing as well…",
+            "text": "Trainer… Would you like to take a detour to that shrine over there? It's also a place connected to racing…",
             "choice_data_list": [
                 "Then whoever gets there first wins!"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Hehe… You're on. I'll make sure to keep my lead all the way to the end. Well then――…"
+            "text": "Hehe… Are you sure? I'll show you a clean getaway. \nIn that case—…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Rock, paper………… scissors!"
+            "text": "Ready, set…… Go."
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………Hah.",
+            "text": "……Phew.",
             "choice_data_list": [
-                "Aah～ this shade is a lifesaver～…!"
+                "<size=36>Aaaah, the shade of these trees is a lifesaver…!</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Yes… I feel completely revived."
+            "text": "Yes… It really brings you back to life."
         },
         {
             "name": "Chrono Genesis",
-            "text": "Ah… That's right. This shrine… was apparently famous for prayers of victory in the past. It's said that the runners back then would always come to pray before a race.",
+            "text": "Ah… That's right. This shrine… It used to be famous for praying for victory in battle. They say the competitors of that era would always come pray here before a race.",
             "choice_data_list": [
                 "Whoa…!"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "I'm sure it must have been bustling… \nWith so many people coming to support them, too…"
+            "text": "It must have been so lively… With lots of supporters coming here, too…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "However, the desire to win hasn't changed since then… \nTheir earnest feelings are just the same as ours…"
+            "text": "But the desire to win is no different from today… Their earnest feelings were the same as ours…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Hehe… It's strange. Even though they're from a distant past, \nI feel somewhat close to them…",
+            "text": "Hehe… It's strange. Even though they lived so long ago, \nI somehow feel close to them…",
             "choice_data_list": [
-                "(Just the same as us… huh)",
-                "(Just the same as us… huh)"
+                "(The same as us… Huh)",
+                "(The same as us… Huh)"
             ]
         },
         {
-            "text": "After that, we left the shrine and started walking again. \nPassing through the long, long path, the place we finally arrived at was――"
+            "text": "After that, we left the shrine and started walking again. We made our way through the long, long path, and finally arrived at our destination—"
         },
         {
-            "text": "…………Nothing. \nOr rather, to be more accurate, there was just a small memorial monument."
+            "text": "……There was nothing there. Well, to be more precise, \nthere was only a small memorial monument."
         },
         {
             "name": "Chrono Genesis",
-            "text": "…………I'm sorry. \nUm, this historical site is… much simpler than I expected…",
+            "text": "……I'm sorry. Umm, it's a lot more… \nSimple of a historical site than I expected…",
             "choice_data_list": [
-                "<size=33>But, you can still feel the traces of what it used to be</size>"
+                "<size=34>But you can still feel the traces of what used to be</size>"
             ]
         },
         {
-            "text": "The shrubs growing along the path… are probably the remnants of the course. Thanks to her summary, I can imagine what it looked like back then.",
+            "text": "The shrubs growing along the path… They're probably the remnants of the course. Thanks to her summary, I could vividly imagine what it looked like back then.",
             "choice_data_list": [
-                "<size=36>I bet that area over there was the final straight…</size>"
+                "<size=36>I bet that area over there was the final stretch…</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Then… the gates must have been right here. \nReceiving the cheers of the fans from around that area…………"
+            "text": "Then… The gates would be over here. \nReceiving the cheers from the fans over there……"
         },
         {
             "name": "Chrono Genesis",
-            "text": "The moments before the start… hearts pounding… \nWith expectations of victory… and a little bit of anxiety…"
+            "text": "Before the start… My heart is pounding… \nWith the expectation of victory… And a little bit of anxiety…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Rounding the 4th corner, into the final straight… \n…Wanting to dash across the finish line first. Because there's someone you want to deliver that result to……"
+            "text": "…Rounding the fourth corner, entering the final stretch…… I want to cross the finish line in first place. Because there's someone I want to deliver these results to…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "Things like that… I'm sure. Crying, laughing… \nWell… it's just my own imagination, though.",
+            "text": "Feeling like that… They surely must have. Crying, and laughing… Umm… It's just my own imagination, though.",
             "choice_data_list": [
                 "No, I get it"
             ]
@@ -180,31 +180,31 @@
             "name": "Chrono Genesis",
             "text": "Eh…?",
             "choice_data_list": [
-                "<size=34>I can understand how the supporters felt, at least</size>",
-                "<size=34>I can understand how the supporters felt, at least</size>"
+                "<size=28>If it's the feelings of the supporters, I understand them too</size>",
+                "<size=28>If it's the feelings of the supporters, I understand them too</size>"
             ]
         },
         {
-            "text": "My thoughts turn to the trainers of that era. Imagining them watching over their horsegirls… it makes me feel like I can't afford to lose to them either.",
+            "text": "I cast my thoughts back to the trainers of that era. Imagining them watching over their Horsegirls… Made me feel like \nI couldn't afford to lose, either.",
             "choice_data_list": [
-                "<size=39>It's almost like……we're connected to history</size>",
-                "<size=39>It's almost like……we're connected to history</size>"
+                "<size=38>It's almost like… We're connected to history</size>",
+                "<size=38>It's almost like… We're connected to history</size>"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "――――…………!"
+            "text": "———…………!"
         },
         {
             "name": "Chrono Genesis",
-            "text": "…I see… \nSo you're seeing the same scenery as me, Trainer…",
+            "text": "…I see… \nTrainer, you're looking at the same scenery as I am…",
             "choice_data_list": [
                 "…Chrono?"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "Ah…! \nUm, I'm going to go take some pictures over there…!"
+            "text": "Ah…! \nUmm, I'm going to go take some pictures over there for a bit…!"
         },
         {
             "name": "Chrono Genesis",
@@ -212,62 +212,62 @@
         },
         {
             "name": "Chrono Genesis",
-            "text": "(I-I ran away… Was that weird of me all of a sudden? \nBut…)"
+            "text": "(I-I ran away… Was I acting weird just now? But…)"
         },
         {
-            "text": "『It was a day where I really felt your passion, too!』"
+            "text": "『I had fun too, it was a day where I really felt your passion!』"
         },
         {
-            "text": "『It was a day where I really felt your passion, too!』"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(You really… meant it. Trainer…)"
+            "text": "『I had fun too, it was a day where I really felt your passion!』"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(You're seriously… trying to understand me…)"
+            "text": "(They were… Serious. Trainer…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(…………I don't want to forget this scenery)"
+            "text": "(They're seriously… Trying to get to know me…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(Being here today… \nmight be too modest to call history, but…)"
+            "text": "(……I don't want to forget this scenery.)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(Just like… the people who built the memorial monument here in the past…)"
+            "text": "(Being here today… \nMight be too small an event to be called history, but…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(I'll give shape to the history of this moment――…)"
+            "text": "(Just like the people… Who once built the memorial monument on this land…)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "(I want to give form… To the history of right now…)"
         },
         {
             "text": "(Click)"
         },
         {
-            "text": "While waiting for the train back… \nChrono Genesis checks the photos she took."
+            "text": "While waiting for the train home… \nChrono Genesis was reviewing the photos she had taken."
         },
         {
             "name": "Chrono Genesis",
-            "text": "This one… I wish I had paid a bit more attention to the composition. I should've blurred the background a bit more, too…",
+            "text": "This one… I wish I had paid more attention to the composition. The background should have had a stronger bokeh effect…",
             "choice_data_list": [
-                "But it still came out beautifully"
+                "But it still looks incredibly beautiful"
             ]
         },
         {
             "name": "Chrono Genesis",
-            "text": "I-Is that so…? \nHehe… Thank you."
+            "text": "Y-You think so…? \nHehe… Thank you."
         },
         {
             "name": "Chrono Genesis",
-            "text": "Let's see, the next photo is…………"
+            "text": "Umm, let's see, the next photo is……"
         },
         {
             "name": "Chrono Genesis",
-            "text": "…Eh? Is this… Trainer…?",
+            "text": "…Eh? Is this… You, Trainer…?",
             "choice_data_list": [
                 "What's wrong?",
                 "What's wrong?"
@@ -275,15 +275,15 @@
         },
         {
             "name": "Chrono Genesis",
-            "text": "N-No… Um, it's nothing…! \nAh… The train is coming, so that's enough of that…"
+            "text": "N-No… Umm, it's nothing…! \nAh… The train's coming, so that's enough of that…"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(When did I end up taking that photo… \nAnyway… it's rude, so I have to delete it later…)"
+            "text": "(When did I even take that photo… Regardless… \nIt's rude of me, so I have to delete it later…)"
         },
         {
             "name": "Chrono Genesis",
-            "text": "(…………But… I really do want to keep just one…)"
+            "text": "(……But… I still really want one… Just one photo…)"
         },
         {
             "name": "Chrono Genesis",
@@ -291,7 +291,7 @@
         },
         {
             "name": "Chrono Genesis",
-            "text": "Um…! Trainer, if you don't mind—!"
+            "text": "Umm…! Trainer, if you don't mind—!"
         }
     ]
 }
