@@ -2853,6 +2853,7 @@
         "104801": "Pop ☆ Joker",
         "104823": "Aurore ☆ Vacances",
         "104901": "Foiling Fiasco",
+        "104946": "Festive Games",
         "105001": "Nevertheless",
         "105002": "Stray Light Override",
         "105016": "Difference Engineer",
@@ -2883,6 +2884,7 @@
         "106201": "Panpaka Tiltot",
         "106250": "Blue Turbulence",
         "106301": "Mantle of Steel",
+        "106310": "The Way of the Wanderer",
         "106401": "Line Breakthrough",
         "106446": "Devoted Reindeer",
         "106501": "Fun ☆ Fun ☆ Party Night",
@@ -2946,6 +2948,7 @@
         "109930": "Pastel Marine Locodol",
         "109960": "Signature Racewear (Hokko Tarumae)",
         "110001": "Butterfly Sting",
+        "110002": "The Scent of Hot Spring",
         "110201": "Ritmo Della Terra",
         "110213": "Sonata alla Menta",
         "110401": "Dragon Rising Above",
@@ -3146,10 +3149,7 @@
         "904801": "Haiseiko's Outfit",
         "904901": "Tucker Bryne's Outfit",
         "905001": "Hoshina Kiyoko's Outfit",
-        "905101": "Yunohana Bloom's Outfit",
-        "104946": "Festive Games",
-        "106310": "The Way of the Wanderer",
-        "110002": "The Scent of Hot Spring"
+        "905101": "Yunohana Bloom's Outfit"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -3323,7 +3323,7 @@
         "1187": "Heroic Breakthrough ☆ Princess!",
         "1188": "Para Siempre",
         "1180": "Droite Dance Part (2026)",
-        "1190": "Pom Pon to the Limit!!",
+        "1190": "Pom Pon to the Max!!",
         "1192": "Two Persons",
         "8501": "Star Horse TV",
         "8502": "Allowance Race",
@@ -14436,8 +14436,10 @@
         "9048": "Prix Foy",
         "9076": "BC Turf Sprint",
         "9077": "BC Mile",
+        "9078": "BC Filly & Mare\nTurf",
         "9079": "BC Turf",
         "9080": "BC Sprint",
+        "9081": "BC Filly & Mare\nSprint",
         "9082": "BC Dirt Mile",
         "9083": "BC Distaff",
         "9084": "BC Classic",
@@ -14524,8 +14526,6 @@
         "1203902": "Legend Race\nBiwa Hayahide",
         "1204101": "Legend Race\nNarita Taishin",
         "1204102": "Legend Race\nDuramente",
-        "9078": "BC Filly & Mare\nTurf",
-        "9081": "BC Filly & Mare\nSprint",
         "1204201": "Legend Race\nWinning Ticket",
         "1204202": "Legend Race\nTanino Gimlet"
     },
@@ -32026,8 +32026,10 @@
         "10135": "[Tracen Academy] Calstone Light O",
         "10136": "[Tracen Academy] Durandal",
         "10137": "[Tracen Academy] Sakura Chitose O",
+        "10138": "[Yukoma Inn Proprietress] Hoshina Kiyoko",
         "10139": "[Tracen Academy] Fenomeno",
         "10140": "[Tracen Academy] Forever Young",
+        "10141": "[\"DREAMS\" Supervisor] Casino Drive",
         "10142": "[Tracen Academy] Red Desire",
         "10143": "[Tracen Academy] Victoire Pisa",
         "10144": "[Tracen Academy] Marche Lorraine",
@@ -32396,9 +32398,7 @@
         "30289": "[Innovator] Forever Young",
         "30290": "[American Dream] Casino Drive",
         "30291": "[Let's Go Together!] Victoire Pisa",
-        "30292": "[Two Sing of Victory] Marche Lorraine",
-        "10138": "[Yukoma Inn Proprietress] Hoshina Kiyoko",
-        "10141": "[\"DREAMS\" Supervisor] Casino Drive"
+        "30292": "[Two Sing of Victory] Marche Lorraine"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -32536,8 +32536,10 @@
         "10135": "[Tracen Academy]",
         "10136": "[Tracen Academy]",
         "10137": "[Tracen Academy]",
+        "10138": "[Yukoma Inn Proprietress]",
         "10139": "[Tracen Academy]",
         "10140": "[Tracen Academy]",
+        "10141": "[\"DREAMS\" Supervisor\"]",
         "10142": "[Tracen Academy]",
         "10143": "[Tracen Academy]",
         "10144": "[Tracen Academy]",
@@ -32890,9 +32892,7 @@
         "30269": "[Today Was Fun]",
         "30271": "[With Magic, From the Stage]",
         "30274": "[Resolute Flora]",
-        "30292": "[Two Sing of Victory]",
-        "10141": "[\"DREAMS\" Supervisor\"]",
-        "10138": "[Yukoma Inn Proprietress]"
+        "30292": "[Two Sing of Victory]"
     },
     "77": {
         "10001": "Special Week",
