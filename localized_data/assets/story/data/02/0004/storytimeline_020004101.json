@@ -2,23 +2,23 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "This heated two-minute battle will make you forget the coming winter \ncold, because the one you've waited for is back for today's Tenno \nSho (Autumn)!"
+      "name": "Commentator",
+      "text": "This heated two-minute battle will make you forget the coming winter \ncold, because the one you've waited for is back for today's autumn \nTenno Sho!"
     },
     {
-      "name": "Caster",
-      "text": "The Triple Crown champion, Narita Brian, who was injured right \nbefore the Tenno Sho (Spring), is ready to race!"
+      "name": "Commentator",
+      "text": "The Triple Crown champion, Narita Brian, who was injured right \nbefore the spring Tenno Sho, is ready to race!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "She's overwhelmingly favored to win, but how exactly will today's \nrace turn out?"
     },
     {
-      "name": "Fan A",
+      "name": "Spectator A",
       "text": "I've been waiting since spring! Bring out the Brian!"
     },
     {
-      "name": "Fan B",
+      "name": "Spectator B",
       "text": "She might break another record today! I can't wait another second!"
     },
     {
@@ -43,32 +43,32 @@
       "text": "I'll give it all I have."
     },
     {
-      "name": "Caster",
-      "text": "They've made the final turn into the stretch! Every racer is making a \ndash for the finish!"
+      "name": "Commentator",
+      "text": "They've turned the final corner into the stretch! Every racer is making \na dash for the finish!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "What's this?! Has Narita Brian run out of stamina? She's being passed \nby the rear!"
     },
     {
-      "text": "Her return to racing that autumn turns out unlike anything we had \nimagined. She places twelfth."
+      "text": "Her return to racing that autumn turns out to be unlike anything we \nhad imagined. She places twelfth."
     },
     {
       "name": "Narita Brian",
-      "text": "<I>Huff… Huff…</I>"
+      "text": "<i>Huff… Huff…</i>"
     },
     {
-      "text": "Nice, you're looking good. Your legs aren't having any trouble \nmoving."
+      "text": "All right, you're looking good. Your legs aren't having any trouble \nmoving."
     },
     {
       "text": "I was afraid she might not have completely healed yet, but she's \ndoing well during training."
     },
     {
-      "text": "Okay, next, let's simulate doing the stretch. The Japan Cup is \nnext—that last part of the Tokyo Racecourse is a long one."
+      "text": "Okay, next, let's simulate doing the final straight. The Japan Cup is \nnext — that last part of the Tokyo Racecourse is a long one."
     },
     {
       "name": "Narita Brian",
-      "text": "The final sprint… I see."
+      "text": "You want to focus on… my final sprint…"
     },
     {
       "text": "Is something wrong?"
@@ -81,11 +81,11 @@
       "text": "Mind if we switch to something different? I'll do sprinting on my own \nlater."
     },
     {
-      "text": "Sure, fine with me, I guess…"
+      "text": "Sure, I guess…"
     },
     {
       "name": "Narita Brian",
-      "text": "The Japan Cup is longer than the Tenno Sho (Autumn), so I want to \nwork on my pacing."
+      "text": "The Japan Cup is longer than the autumn Tenno Sho, so I want to \nwork on my pacing."
     },
     {
       "text": "Got it. Let's do some pace training then."
@@ -99,10 +99,10 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "I thought I heard she got better…"
+      "text": "I heard she got better… but seeing her now…"
     },
     {
-      "name": "Umamusume A",
+      "name": "Horsegirl A",
       "text": "Mayano! Training's about to start!"
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Something's bothering me watching Brian run. It's not as exciting as \nthat time at the Hanshin Daishoten."
+      "text": "Something's bothering me about how Brian's running. It's not as \nexciting as that time at the Hanshin Daishoten."
     },
     {
       "name": "Mayano Top Gun",
@@ -135,27 +135,27 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "There's also the fact that it's incredibly difficult to return in peak \nshape after such a long absence. Her instincts had dulled."
+      "text": "There's also the fact that it's incredibly difficult to return in peak \nshape after such a long absence. Her instincts could be temporarily \ndulled."
     },
     {
-      "text": "After seeing her blow away the competition so many times, it's easy \nto forget something simple."
+      "text": "After seeing her blow away the competition so many times, it's easy \nto forget something so simple."
     },
     {
-      "text": "Winning a race after coming back from an injury is no easy task. We \njust need her to get back to normal before the Japan Cup."
+      "text": "Winning a race after coming back from an injury is no easy task. We \njust need to get her reacclimated before the Japan Cup."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Yes… You're right."
+      "text": "Agreed. We still have time."
     },
     {
       "text": "While I can't say I'm not concerned, her running has always topped \nwhat I thought she could do."
     },
     {
-      "text": "But… the idea that her absence was the sole reason she lost isn't \nsitting right with me."
+      "text": "But… the idea that her hiatus was the sole reason she lost isn't sitting \nright with me."
     },
     {
       "name": "Narita Brian",
-      "text": "<I>Huff… Puff…</I>"
+      "text": "<i>Huff… Puff…</i>"
     },
     {
       "name": "Narita Brian",
@@ -167,19 +167,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I choose to run as I am <I>now</I>."
+      "text": "I'm going to keep running as the new me."
     },
     {
-      "name": "Caster",
-      "text": "It's the last 200 meters! The mighty Hishi Amazon is in hot pursuit of \nthe lead! Narita Brian's struggling in the stretch!"
+      "name": "Commentator",
+      "text": "It's the last 200 meters! \"Queen of the Amazons\" Hishi Amazon is in \nhot pursuit of the lead! Narita Brian's struggling in the final straight!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "Hishi Amazon finishes in a close second! Narita Brian's fallen behind \nand finishes sixth!"
     },
     {
-      "name": "Caster",
-      "text": "Like the Tenno Sho (Autumn), it looks like she just couldn't go the \ndistance in the Japan Cup today!"
+      "name": "Commentator",
+      "text": "Like the autumn Tenno Sho, it looks like she just couldn't go the \ndistance in the Japan Cup today!"
     }
   ]
 }
