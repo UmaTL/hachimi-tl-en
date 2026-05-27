@@ -1,62 +1,62 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "McQueen, congratulations! \nThat race…! It was amazing!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…"
-        },
-        {
-            "text": "McQueen…?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I did it!!"
-        },
-        {
-            "text": "Uwaah!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!"
-        },
-        {
-            "text": "I was shocked by \nMejiro McQueen's display of joy."
-        },
-        {
-            "text": "I guess it's because the immense amount of pressure that she had \non her to win has finally been lifted."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "You devoted everything for me, \nand for that I am grateful."
-        },
-        {
-            "text": "I should be thanking you. Despite being inexperienced, you still \nfollowed my orders. And in the end, you gave me the best present \npossible, this amazing victory."
-        },
-        {
-            "text": "…But if I were to say that, she'd get upset and say “please \nhave a bit more confidence in yourself.”",
-            "choice_data_list": [
-                "Our reborn Sirius will continue to win!",
-                "Our reborn Sirius will continue to win!"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "McQueen, that race was stunning! Congratulations!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…"
+    },
+    {
+      "text": "McQueen?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I did it!"
+    },
+    {
+      "text": "Whoa!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mejiro's halls are adorned with countless victories — and I've finally \nearned a plaque of my own!"
+    },
+    {
+      "text": "I was not expecting such a resounding display of joy from the \never-demure McQueen."
+    },
+    {
+      "text": "It's clear just how much the race meant to her, and why she felt so \nmuch pressure to win it."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I apologize, I lost my composure. I <i>do</i> believe I've earned a bit of \nelation, however."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "In addition, I want to thank you for helping me reach this result."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "To think that you would dedicate all your efforts just for me… I am \ntruly grateful."
+    },
+    {
+      "text": "I'm the one who should be doing all the thanking. You placed all your \nfaith in a newbie trainer like me, and delivered an amazing win!"
+    },
+    {
+      "text": "…If I were to say that to her now, though, she would probably scold \nme for a lack of self-confidence.",
+      "choice_data_list": [
+        "An amazing win for Team Sirius!",
+        "An amazing win for Team Sirius!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hehe, yes. Let's continue to seize them wherever the road may take \nus!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Now, I'll go make the winning concert one to remember. It's the least I \ncan do to thank everyone who cheered me on!"
+    }
+  ]
 }
