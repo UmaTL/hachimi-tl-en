@@ -6,7 +6,7 @@
             "text": "――Well then, Counter-clockwise, 2000m. \n……Let's get in to position."
         },
         {
-            "name": "Academy Horsegirl A",
+            "name": "Academy Trainee A",
             "text": "――There's the same kind of tension as a real race. \nI wonder how Bubble-san is going to run against her today……?"
         },
         {
@@ -20,11 +20,11 @@
             "text": "(――Clank!!)"
         },
         {
-            "name": "Academy Horsegirl A",
+            "name": "Academy Trainee A",
             "text": "Ah, the same as last time……! \nBubble-san is taking the lead again……!"
         },
         {
-            "name": "Academy Horsegirl B",
+            "name": "Academy Trainee B",
             "text": "……But, last time, wasn't her acceleration at the start more amazing? \nIt feels like she isn't creating a lead as big――",
             "choice_data_list": [
                 "(Alright, this is good……!)"
@@ -35,7 +35,7 @@
             "text": "They're about to enter the second half, but what's \nwith her small lead……! She's going up against that \nSymboli Rudolf, she'll catch up without a doubt……!"
         },
         {
-            "name": "Academy Horsegirl B",
+            "name": "Academy Trainee B",
             "text": "Aaah, the lead is growing smaller! She couldn't hold \nthe lead……! Like this, it'll be worse than before――"
         },
         {
@@ -58,7 +58,7 @@
             "text": "As expected, that was reckless……! \nTo compete head-to-head against Symboli Rudolf……!"
         },
         {
-            "name": "Academy Horsegirl A",
+            "name": "Academy Trainee A",
             "text": "But……huh……? \nDoesn't it seem like she's faster than before……!?"
         },
         {
@@ -103,7 +103,7 @@
             "text": "Challenging Prez head on, with my strongest――――I'll win!!"
         },
         {
-            "name": "Academy Horsegirl B",
+            "name": "Academy Trainee B",
             "text": "No way!? She's keeping up longer than before……! \nMaybe, she can……!?",
             "choice_data_list": [
                 "Goーーーー!!!!"

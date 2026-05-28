@@ -51,11 +51,11 @@
         },
         {
             "text": "――And I, I'm gonna build a castle!",
-            "name": "Horsegirl"
+            "name": "Trainee"
         },
         {
             "text": "You think my childlike dream is to laugh at, too?",
-            "name": "Horsegirl",
+            "name": "Trainee",
             "choice_data_list": [
                 "Huh?"
             ]
@@ -172,8 +172,8 @@
         {
             "text": "...My frustration reached its breaking point. \nI close my eyes and take a deep breath.",
             "choice_data_list": [
-                "<size=36>I want to train the world's greatest horsegirl!</size>",
-                "<size=36>I want to train the world's greatest horsegirl!</size>"
+                "<size=36>I want to train the world's greatest trainee!</size>",
+                "<size=36>I want to train the world's greatest trainee!</size>"
             ]
         },
         {
@@ -193,7 +193,7 @@
             "name": "Tap Dance City"
         },
         {
-            "text": "Today is a \"Selection Race.\" Trainers gather at the racecourse \nand look for a horsegirl to be scouted. And there..."
+            "text": "Today is a \"Selection Race.\" Trainers gather at the racecourse \nand look for a trainee to be scouted. And there..."
         },
         {
             "text": "It's showtime! \nMy selection race has finally arrived!",
@@ -231,7 +231,7 @@
             "name": "Tap Dance City"
         },
         {
-            "text": "You wanna see if I'm fit to be \n\"the world's greatest horsegirl.\"",
+            "text": "You wanna see if I'm fit to be \n\"the world's greatest trainee.\"",
             "name": "Tap Dance City"
         },
         {

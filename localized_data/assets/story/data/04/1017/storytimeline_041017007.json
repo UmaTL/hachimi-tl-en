@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "—— It's summer training camp, and the horsegirls of Tracen \nAcademy, including Symboli Rudolf, are staying at a seaside \nfacility, fully immersed in their training."
+            "text": "—— It's summer training camp, and the trainees of Tracen \nAcademy, including Symboli Rudolf, are staying at a seaside \nfacility, fully immersed in their training."
         },
         {
             "name": "Symboli Rudolf",
@@ -82,7 +82,7 @@
             "text": "Please, let everyone be safe…"
         },
         {
-            "name": "Horsegirls",
+            "name": "Trainees",
             "text": "<i>Baaaah～～～～ ！！！！ \n</i>"
         },
         {
@@ -90,11 +90,11 @@
             "text": "Huh!?"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "Huh… Whoa!? P-President……!? We're so sorry! \nWe mistook you for one of our classmates…!!"
         },
         {
-            "name": "Horsegirl B",
+            "name": "Trainee B",
             "text": "I-I-I'm so sorry! I didn't expect the Student Council \nPresident to get involved in the Haunted Challenge! \nI don't even know how to apologize……!!"
         },
         {
@@ -102,7 +102,7 @@
             "text": "Haunted Challenge…? So, there was \nno real danger to you all, then?"
         },
         {
-            "name": "Horsegirls",
+            "name": "Trainees",
             "text": "No……"
         },
         {
@@ -114,7 +114,7 @@
             "text": "Hahahah! So that's what's been happening! \nI guess I ended up giving you all quite a scare!"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "Uhm… President Rudolf?"
         },
         {
@@ -126,7 +126,7 @@
             "text": "I'm sorry for interrupting. Please, continue as if I wasn't here."
         },
         {
-            "name": "Horsegirls",
+            "name": "Trainees",
             "text": "…………"
         },
         {
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "name": "Horsegirls",
+            "name": "Trainees",
             "text": "What!?"
         },
         {
@@ -169,11 +169,11 @@
             "text": "Don't you worry, girls. The training camp is long. \nEnjoy tonight to the fullest and recharge your spirits ——"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "…… Oh, um, President Rudolf!!"
         },
         {
-            "name": "Horsegirl B",
+            "name": "Trainee B",
             "text": "If you're okay with it… Would you… like to \njoin us for the Haunted Challenge…?"
         },
         {
@@ -181,7 +181,7 @@
             "text": "…… Are you sure?"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "Y-yes! If it's not too much trouble!"
         },
         {
@@ -193,7 +193,7 @@
             "text": "—— Alright, class A, please report in."
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "Yes, ma'am! Everyone's in position and ready to go!"
         },
         {
@@ -205,7 +205,7 @@
             "text": "Once you find a blind spot, hide yourselves. \nAfterward… you know what to do, right?"
         },
         {
-            "name": "Horsegirl B",
+            "name": "Trainee B",
             "text": "Yes! We're going to surprise them at the perfect time!"
         },
         {
@@ -213,7 +213,7 @@
             "text": "Excellent. Good luck to you both."
         },
         {
-            "name": "Horsegirls",
+            "name": "Trainees",
             "text": "Roger that, president!",
             "choice_data_list": [
                 "You're really into this.",

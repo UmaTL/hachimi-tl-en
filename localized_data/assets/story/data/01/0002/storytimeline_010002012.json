@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Hayakawa Tazuna",
-            "text": "Next, let's organize support cards that will \nhelp you train your horsegirl!"
+            "text": "Next, let's organize support cards that will \nhelp you train your trainee!"
         },
         {
             "name": "Hayakawa Tazuna",
@@ -11,10 +11,10 @@
         },
         {
             "name": "Hayakawa Tazuna",
-            "text": "Please keep in mind you can't use \nsupport cards of the same horsegirl \nthat you're training!",
+            "text": "Please keep in mind you can't use \nsupport cards of the same trainee \nthat you're training!",
             "color_text_info_list": [
                 "can't use",
-                "same horsegirl"
+                "same trainee"
             ]
         }
     ]

@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "We're here at the city's outskirts where the summer training \ncamp took place, and among the multitude of horsegirls hard \nat work on their own regimens ——"
+            "text": "We're here at the city's outskirts where the summer training \ncamp took place, and among the multitude of trainees hard \nat work on their own regimens ——"
         },
         {
             "name": "T.M. Opera O",
@@ -46,7 +46,7 @@
             "text": "I've heard of her antics but… seeing her in person is… \nreally something. Not that I don't understand the desire \nto play around at the beach……"
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "A-Ahaha…… It's very Opera O-esque behavior. \nEven when racing she has that air of freedom…"
         },
         {
@@ -64,7 +64,7 @@
             "text": "—— No matter what she takes on, T.M. Opera O \nalways faces it earnestly, with all she has."
         },
         {
-            "text": "Needless to say, when a horsegirl exhibits such resolute will, \nto diligently press on until her goals are met, it is her trainer's \nduty to support her every step of the way.",
+            "text": "Needless to say, when a trainee exhibits such resolute will, \nto diligently press on until her goals are met, it is her trainer's \nduty to support her every step of the way.",
             "choice_data_list": [
                 "Let's go get some stellar training in!"
             ]
@@ -172,7 +172,7 @@
         },
         {
             "name": "T.M. Opera O",
-            "text": "Of course, as a horsegirl on the path to become the Centurial \nHigh King, it does not become yours truly to display this side \nto simply anyone.",
+            "text": "Of course, as a trainee on the path to become the Centurial \nHigh King, it does not become yours truly to display this side \nto simply anyone.",
             "choice_data_list": [
                 "You're so strong.",
                 "You're so strong."
@@ -221,12 +221,12 @@
             "text": "…… She's at it again today. Impressive, really."
         },
         {
-            "name": "Horsegirl A",
+            "name": "Trainee A",
             "text": "Ahaha, isn't it? I'm pretty envious of her confidence though."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Hahah, no horsegirl on this beach shines brighter! \nDon't you think, my dear trainer?",
+            "text": "Hahah, no trainee on this beach shines brighter! \nDon't you think, my dear trainer?",
             "choice_data_list": [
                 "The one and only T.M. Opera O!"
             ]

@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "After the Selection Race, one of the horsegirls, \nTap Dance City, came up to me. And now, she and I..."
+            "text": "After the Selection Race, one of the trainees, \nTap Dance City, came up to me. And now, she and I..."
         },
         {
             "text": "...Are having a barbecue.",
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "text": "She entered the race to find out if she could become \nthe \"world's greatest horsegirl.\" The result:"
+            "text": "She entered the race to find out if she could become \nthe \"world's greatest trainee.\" The result:"
         },
         {
             "text": "A pretty unremarkable 9th place..."
@@ -58,7 +58,7 @@
         },
         {
             "text": "Yo Tap, congrats on finding a trainer! When I saw you carry \nhim over your shoulder, I thought you'd kidnapped him!",
-            "name": "Horsegirl with a hairband"
+            "name": "Trainee with a hairband"
         },
         {
             "text": "I'm so happy for you! We were worried \nyou'd never ever debut!",
@@ -170,7 +170,7 @@
         },
         {
             "text": "I'm gonna do a warm-up. \nTap, wanna run like... 2000m with me?",
-            "name": "Horsegirl with sunglasses",
+            "name": "Trainee with sunglasses",
             "choice_data_list": [
                 "Hmm? You're gonna run with her?"
             ]
@@ -207,7 +207,7 @@
         },
         {
             "text": "Ahaha! Too bad, Tap! \nWe'll call it off for now. Let's move it to...",
-            "name": "Horsegirl with a hairband",
+            "name": "Trainee with a hairband",
             "choice_data_list": [
                 "<size=35>I'd like to get your times as well at some point.</size>",
                 "<size=35>I'd like to get your times as well at some point.</size>"
@@ -215,11 +215,11 @@
         },
         {
             "text": "Oh, woah! ...Okaaay.",
-            "name": "Horsegirl with a hairband"
+            "name": "Trainee with a hairband"
         },
         {
             "text": "Ah! I'm finished! Let's stop here...",
-            "name": "Horsegirl with a hairband"
+            "name": "Trainee with a hairband"
         },
         {
             "text": "*huff* ...And, data maniac? Surely you've got \nenough measurements by now...!",

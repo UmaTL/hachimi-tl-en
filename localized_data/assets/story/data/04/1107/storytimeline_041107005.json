@@ -68,7 +68,7 @@
             "name": "???"
         },
         {
-            "text": "I look into the direction of that voice, \nand there I see a horsegirl standing there alone.",
+            "text": "I look into the direction of that voice, \nand there I see a trainee standing there alone.",
             "choice_data_list": [
                 "Is this sketchbook yours?",
                 "Is this sketchbook yours?"
@@ -76,7 +76,7 @@
         },
         {
             "text": "Yes... But I don't want it back. \nPlease throw it away...",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "<i>Why?</i> \nHow could you throw away something so amazing...?",
@@ -84,19 +84,19 @@
         },
         {
             "text": "... \nI already... threw it away myself!",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "You see, I've wanted to be a manga artist even before joining \nTracen Academy. I've continued to draw in secret ever since.",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "But... Yesterday, one of my friends saw it and laughed at me... \nThat was the last straw for me.",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "I've had to share my passion with two different dreams, \nand it's been detrimental for both... It's about time I let go \nof what remnants of my old dream I still have.",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "...Mere remnants? <i>No, no, no, no.</i> \nThat's where you're wrong. You ought to hold onto that book!",
@@ -104,7 +104,7 @@
         },
         {
             "text": "...! What makes you think you can say that to me?!",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "I can feel it. I don't know anything about manga, \nbut I can feel your passion just by looking at it.",
@@ -116,7 +116,7 @@
         },
         {
             "text": "...!",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "You must never throw it away. Without it, \nyou'll never be able to run again the same way.",
@@ -128,7 +128,7 @@
         },
         {
             "text": "... Haha... \nYou make it sound so easy...",
-            "name": "Horsegirl A"
+            "name": "Trainee A"
         },
         {
             "text": "In the end, she took the sketchbook back from Tap Dance City."

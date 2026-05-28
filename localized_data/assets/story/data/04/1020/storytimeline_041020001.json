@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "I came to Tracen Academy a few days ago \nin order to train horsegirls."
+      "text": "I came to Tracen Academy a few days ago \nin order to train trainees."
     },
     {
       "text": "I also received a personal trainer's office, and as such \nI was looking over some files there…"
@@ -47,7 +47,7 @@
       "text": "So, I'll be taking a nap."
     },
     {
-      "text": "Without waiting for my response, this horsegirl… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
+      "text": "Without waiting for my response, this trainee… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
       "choice_data_list": [
         "She must be really tired…",
         "She must be really tired…"
@@ -181,7 +181,7 @@
     },
     {
       "name": "Seiun Sky",
-      "text": "You and I are now trainer and horsegirl. Come on, clap!",
+      "text": "You and I are now trainer and trainee. Come on, clap!",
       "choice_data_list": [
         "You set me up!"
       ]
