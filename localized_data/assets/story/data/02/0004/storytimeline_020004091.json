@@ -2,14 +2,14 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "After Narita Brian experiences a sudden, sharp pain in her legs, we \nrush her to the hospital for an examination."
+      "text": "After Narita Brian experiences a sudden, sharp pain in her leg, we \nrush her to the hospital for an examination."
     },
     {
-      "text": "There, we learn that the cause is arthritis in the upper leg, and that \nshe won't be able to race for several months."
+      "text": "There, we learn that the cause is arthritis in her hip, and that she \nwon't be able to race for several months."
     },
     {
       "name": "Gold Ship",
-      "text": "Ahaaa, that was a good run! Time for a much-needed rest."
+      "text": "Ahhh, that was a good run! Time for a much-needed rest."
     },
     {
       "text": "Yeah, take a five-minute break, then we'll move on to start drills."
@@ -48,21 +48,21 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "What's the commotion?! Isn't Brian injured?! So why's she training at \nthe gym?!"
+      "text": "\"What's the commotion\"?! Isn't Brian injured?! So why's she training at \nthe gym?!"
     },
     {
       "text": "What?!"
     },
     {
       "name": "Narita Brian",
-      "text": "<I>Exhale…</I>"
+      "text": "<i>Exhale…</i>"
     },
     {
       "text": "Brian! You're in no condition to be training right now!"
     },
     {
       "name": "Narita Brian",
-      "text": "It's my legs that are hurt. The rest of my body is perfectly fine."
+      "text": "It's my leg that's hurt. The rest of my body is perfectly fine."
     },
     {
       "text": "I know that, but you need to rest!"
@@ -79,14 +79,14 @@
       "text": "Brian's always been an insatiable runner. It seems not even her injury \ncan change that."
     },
     {
-      "text": "I'm still worried though. If your condition gets bad enough, I'll be \nforced to stop you from racing."
+      "text": "I'm still worried though. If your condition gets too bad, I'll be forced \nto stop you from racing."
     },
     {
-      "text": "I'm still worried though. If your condition gets bad enough, I'll be \nforced to stop you from racing."
+      "text": "I'm still worried though. If your condition gets too bad, I'll be forced \nto stop you from racing."
     },
     {
       "name": "Narita Brian",
-      "text": "So are you going to stop this training too?"
+      "text": "So are you going to stop me doing this training too?"
     },
     {
       "text": "No, a trainer's responsibility is to support their racers. I respect your \nfeelings more than anything."
@@ -95,21 +95,21 @@
       "text": "No, a trainer's responsibility is to support their racers. I respect your \nfeelings more than anything."
     },
     {
-      "text": "That's why I'm going to watch you closely while you train with that \ninjury. We'll explore our options and prepare for your comeback race."
+      "text": "You can train while recovering, but I want to be around to supervise \neverything. We'll explore our options and prepare for your comeback \nrace."
     },
     {
       "name": "Narita Brian",
-      "text": "Huh… Sounds good."
+      "text": "Huh… Fine."
     },
     {
       "text": "With Brian unable to run, we start a new, special training regimen for \nher."
     },
     {
-      "text": "Doing core training will let us strengthen your inner muscles. This'll \nprevent weakening while you can't put any load on your joints."
+      "text": "Doing core training will let us strengthen your inner muscles. This'll \nprevent atrophy while your joints are still recovering."
     },
     {
       "name": "Narita Brian",
-      "text": "<I>Exhale…</I> That's three sets. How many more should I do?"
+      "text": "<i>Exhale…</i> That's three sets. How many more should I do?"
     },
     {
       "text": "We'll rest in between, but let's do six more."
@@ -122,7 +122,7 @@
       "text": "Huh?! Triple?!"
     },
     {
-      "text": "It seems like your pain's subsided, but it's too early to run. So starting \ntoday, we're going to strengthen your legs in the pool. There's less \nweight on them that way."
+      "text": "While your pain's subsided, it's still too early to run. So starting today, \nwe're going to strengthen your legs in the pool. That'll put less weight \non them."
     },
     {
       "name": "Narita Brian",
@@ -136,19 +136,19 @@
       "text": "That'll increase water resistance, right? I'm trying to increase muscle \nstrength, not maintain it."
     },
     {
-      "text": "Hm, only you'd come up with an idea like that. Okay, let's try it!"
+      "text": "Only you'd come up with an idea like that… But hey, let's try it!"
     },
     {
-      "text": "Hm, only you'd come up with an idea like that. Okay, let's try it!"
+      "text": "Only you'd come up with an idea like that… But hey, let's try it!"
     },
     {
-      "text": "Now we're finally ready to get back to running!"
+      "text": "Today we're finally ready to get back to running!"
     },
     {
-      "text": "Now we're finally ready to get back to running!"
+      "text": "Today we're finally ready to get back to running!"
     },
     {
-      "text": "Just, you know, take it easy. There's less impact on the dirt, so let's \nsettle into things gradually."
+      "text": "But I need you to take it easy. There's less impact on the dirt, so we'll \nstart there to settle back into things gradually."
     },
     {
       "name": "Narita Brian",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "You're a strange one to get a kick out of watching someone train. \nThen I hope you won't mind staying until sunset."
+      "text": "You're a strange one to get a kick out of watching someone train. If \nthat's the case, I hope you won't mind staying until sunset."
     },
     {
       "text": "She makes no compromises with her workouts."
@@ -178,36 +178,36 @@
     },
     {
       "name": "Gold Ship",
-      "text": "How long were you gonna keep us waiting? I know you've been \nitching to run as fast as you can, you wacky wonder!"
+      "text": "How long were you gonna keep us waiting? I know you've been \nitching to go hog wild, you wacky wonder!"
     },
     {
       "name": "Rice Shower",
       "text": "Did the doctor say this is okay?"
     },
     {
-      "text": "Yeah, the inflammation's gone down, so it's no problem."
+      "text": "Yeah, the inflammation's subsided, so it's no problem."
     },
     {
-      "text": "Yeah, the inflammation's gone down, so it's no problem."
+      "text": "Yeah, the inflammation's subsided, so it's no problem."
     },
     {
-      "text": "And I've been watching her this whole time. She doesn't seem to be \nfavoring the injury or anything."
+      "text": "And I've been watching her this whole time. She doesn't seem to be \nfeeling the injury or other pain."
     },
     {
       "name": "Gold Ship",
       "text": "Sweet, time to get your run on! Brian's off to the races!"
     },
     {
-      "text": "Watching you these past weeks, I've been reminded just how much \nyou want to win."
+      "text": "Watching you train hard through the whole recovery process, I've \nbeen reminded just how much you want to win."
     },
     {
-      "text": "Watching you these past weeks, I've been reminded just how much \nyou want to win."
+      "text": "Watching you train hard through the whole recovery process, I've \nbeen reminded just how much you want to win."
     },
     {
-      "text": "And just like Golshi said, we've been waiting for this day! Time to \nmake up for everything you've been holding back!"
+      "text": "And just like Golshi said, we've been waiting for this day! Time to \nmake up for all the time you've been held back!"
     },
     {
-      "text": "And just like Golshi said, we've been waiting for this day! Time to \nmake up for everything you've been holding back!"
+      "text": "And just like Golshi said, we've been waiting for this day! Time to \nmake up for all the time you've been held back!"
     },
     {
       "name": "Narita Brian",
@@ -225,7 +225,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "So it's not going to be that easy, huh?"
+      "text": "…Nothing is ever easy, is it?"
     }
   ]
 }
