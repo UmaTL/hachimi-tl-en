@@ -11313,6 +11313,9 @@
         "12": "Umamusume: Pretty Derby!",
         "140008": "Phew."
     },
+    "1081": {
+        "910100": "Ha! I'll easily rip ya to shreds!\nBetter get ready!"
+    },
     "1082": {
         "11": "Cygames",
         "12": "Umamusume: Pretty Derby!",
@@ -12146,8 +12149,8 @@
         "11": "Cygames",
         "12": "Umamusume: Pretty Derby!",
         "80000": "Good work.",
-        "920000": "At maximum speed....... let's go!",
-        "910100": "Ha, you think you\ncan reach this speed?"
+        "910100": "Ha, you think you\ncan reach this speed?",
+        "920000": "Let's go… at maximum speed!"
     },
     "1121": {
         "11": "Cygames",
@@ -12363,6 +12366,24 @@
         "140018": "<i>Phew</i>",
         "400014": "Man, that was a good time. Haha, getting together and doing some crazy stuff… you guys 'never change' huh."
     },
+    "1138": {
+        "20051": "Dishing out synergy!",
+        "95006": "Limits? Nonsense talk!"
+    },
+    "1139": {
+        "20051": "Let's synergize!",
+        "23020": "Which race is your target?\nPlease consider your horsegirl's\naptitudes when deciding!",
+        "23021": "Depending on your target race, your\nhorsegirl's career goals may change!",
+        "23022": "Select the BC race you intend\nto target. Make this decision carefully."
+    },
+    "1140": {
+        "20051": "\"Mar's here to help☆\"",
+        "70000": "\"I'm Mar☆ Take care of me, 'kay?\"",
+        "95006": "\"Let's set off to a new world☆\""
+    },
+    "1143": {
+        "910100": "I wish to connect through racing. To you, and… to every person\nout there."
+    },
     "9001": {
         "2000": "Please choose three horsegirls to register.",
         "2001": "Please be aware that once you make your choice, you can't change your mind until your next entry!",
@@ -12488,26 +12509,5 @@
         "70000": "Sometimes we need the help of others to improve.",
         "95005": "Let's establish a win-win relationship.",
         "95006": "Let's exchange even more useful information."
-    },
-    "1143": {
-        "910100": "I wish to connect to you with\nthis race.\nAnd then――the entire world."
-    },
-    "1081": {
-        "910100": "Ha! I'll easily rip ya to shreds!\nBetter get ready!"
-    },
-    "1139": {
-        "20051": "Let's synergize!",
-        "23020": "Which race is your target?\nPlease consider your horsegirl's\naptitudes when deciding!",
-        "23021": "Depending on your target race, your\nhorsegirl's career goals may change!",
-        "23022": "Select the BC race you intend\nto target. Make this decision carefully."
-    },
-    "1138": {
-        "20051": "Dishing out synergy!",
-        "95006": "Things like limits are nonsense!"
-    },
-    "1140": {
-        "20051": "\"Maru-chan will help ☆\"",
-        "70000": "\"I'm Maru-chan ☆ Take care of me, okay?\"",
-        "95006": "\"Let's go to a new world ☆\""
     }
 }
