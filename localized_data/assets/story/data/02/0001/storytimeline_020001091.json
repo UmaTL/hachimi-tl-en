@@ -1,242 +1,242 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mejiro McQueen",
-            "text": "You want me to participate in a press conference…?"
-        },
-        {
-            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
-        },
-        {
-            "text": "I heard from Tazuna that they are being flooded \nwith requests to interview you."
-        },
-        {
-            "text": "After all, you're most likely to win in the Fall Tenno Sho. \nEveryone's got their eyes on you."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Seems so, doesn't it…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "What's wrong? If you don't wanna be interviewed \nI can just answer for you, ya know?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I've just gotta say “I'm on a diet right now so I \nhave to refrain from eating my favorite cake.”"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "You saw me worrying in front of the cake shop!?"
-        },
-        {
-            "text": "I never put any dietary restrictions on \nher… I wonder if they're voluntary…",
-            "choice_data_list": [
-                "One slice should be fine."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "No, carelessness will lead to unexpected consequences."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Anyways, I will accept the interview requests."
-        },
-        {
-            "name": "Reporter A",
-            "text": "You are currently favored to win the Fall Tenno \nSho. Are you confident that you will win?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Of course I am confident, however, anything could happen. \nTherefore, I am approaching this race with cautious optimism."
-        },
-        {
-            "name": "Reporter B",
-            "text": "There will be many powerhouses in this upcoming \nrace. How do you plan on defeating them?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That…"
-        },
-        {
-            "text": "Wondering if she should tell the reporters, \nMejiro McQueen looked to me."
-        },
-        {
-            "text": "As you can imagine, I cannot give you a detailed \nexplanation of our strategy."
-        },
-        {
-            "text": "That being said, it would be great if \nour bracket was on the inside."
-        },
-        {
-            "name": "Reporter C",
-            "text": "By the way, I have heard that at one point Mejiro \nMcQueen was the only member of your team."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That is true. However, we have recruited more members and are \nfinally getting back on track…"
-        },
-        {
-            "name": "Reporter C",
-            "text": "Was this because of your victory in the Spring Tenno Sho?"
-        },
-        {
-            "text": "Mejiro McQueen seemed at a loss for words, \nso she looked to me again.",
-            "choice_data_list": [
-                "Yes, that is the case."
-            ]
-        },
-        {
-            "text": "Despite the fact that our team was on the verge of collapse, \nMejiro McQueen managed to win the Spring Tenno Sho, paving the \nway for more members to join our team."
-        },
-        {
-            "text": "Because of that, McQueen really is \nthe heart/backbone of our team."
-        },
-        {
-            "name": "Reporter C",
-            "text": "I see. McQueen-san, everyone is expecting great things from you!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…",
-            "choice_data_list": [
-                "McQueen?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Eh? Ahh, umm… That is true/They sure are."
-        },
-        {
-            "name": "Reporter B",
-            "text": "Now then, do you have a message for your fans?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I am truly honored that you all have rated \nme as the most likely to win."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "In order to meet everyone's expectations, I will continue to \ntrain as hard as possible until the day of the race."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Eww, so serious! You were way too serious! It \nwas such a boring, normal press conference!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I answered the questions as I normally \nwould. What did you expect?"
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "But every response you had was so cool!"
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "McQueen-san, I'm so excited for your next race!"
-        },
-        {
-            "text": "Mejiro McQueen has managed to not only excite her fans, but also \nexcite every one of her team members as well."
-        },
-        {
-            "text": "She really is the heart/backbone of our team, \nand a truly reliable one at that."
-        },
-        {
-            "text": "Alright everyone! Let's go get ourselves some delicious food!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Wooah! Really!? Awesome, let's go have some all-you-can-eat \nIse Ebi/Japanese spiny lobsters!"
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I've always wanted to visit a candy store \nfamous for its carrot sweets!"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "Jeez, since McQueen-chan is the star, why \ndon't we go wherever she wants to?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Umm… I'll pass…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I spent all day at the press conference after \nall. I would like to do some training now."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Doing training after all that? Oye, are you okay? Don't you think \nyou've been training a little too hard?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Of course I've been making sure I don't overexert myself. \nEspecially after collapsing before."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "However, I wouldn't want to lose all of that momentum \nnow that everything is going well."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Is that okay with you, Trainer-san?",
-            "choice_data_list": [
-                "I'll leave it for you to decide what's best.",
-                "I'll leave it for you to decide what's best."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Thank you. Now then, I'm heading out."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "She's as serious as ever, huh…?"
-        },
-        {
-            "text": "And then came the Fall Tenno Sho, the huge stage that brought a \nlot of attention to Mejiro McQueen."
-        },
-        {
-            "text": "Jeez, the stands are packed. That sure is a lot of people."
-        },
-        {
-            "text": "Jeez, the stands are packed. That sure is a lot of people."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "And you know what that means, right!? “Golshi Yakisoba” is gonna \nsell like hot cakes! I better hurry and get it ready!"
-        },
-        {
-            "text": "Don't do that, we've got to cheer on McQueen. Wait, where is she?"
-        },
-        {
-            "text": "Don't do that, we've got to cheer on McQueen. Wait, where is she?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "She already left ya know?"
-        },
-        {
-            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
-        },
-        {
-            "text": "Eh…? It's nowhere near time to start… \nWhy did she leave so early?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Woo…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "The expectations of a member of the Mejiro Family, the \nexpectations of the fans that have supported me…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "The expectations of the team members that have relied \non me, and Trainer-san's expectations…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Everyone, I'm going to win this for you…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "You want me to do an interview?"
+    },
+    {
+      "text": "Yes. According to Tazuna, the reporters are practically climbing over \nthe gates for a chance to talk to you."
+    },
+    {
+      "text": "Yes. According to Tazuna, the reporters are practically climbing over \nthe gates for a chance to talk to you."
+    },
+    {
+      "text": "They must be extra interested now that you're the favorite to win the \nautumn Tenno Sho."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "So it would seem…"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "What's wrong? Don't wanna do it? Then send me instead!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A simple \"I'm currently abstaining from my beloved cakes for my diet.\" \nwill convince them."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Wait, did you see me pacing in front of that cake shop earlier?!"
+    },
+    {
+      "text": "I don't remember mandating a diet… It must be self-imposed.",
+      "choice_data_list": [
+        "A slice or two couldn't hurt, you know?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No, it's quite all right. If I give in to temptation once, who knows what \nother excuses I'll make?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Anyway, I will go and speak to the reporters."
+    },
+    {
+      "name": "Reporter A",
+      "text": "You're currently the favorite for the autumn Tenno Sho. How \nconfident are you in your ability to take home the win?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Very much so. However, one never knows what may happen during a \nrace. I wish to approach the contest free from arrogance."
+    },
+    {
+      "name": "Reporter B",
+      "text": "There are some very notable competitors slated to run that day. What \nkind of strategy are you thinking of employing?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Well, ah…"
+    },
+    {
+      "text": "Mejiro McQueen glances my way, her expression seemingly asking if \nthat is a topic she should broach."
+    },
+    {
+      "text": "I'm afraid that we can't share those details."
+    },
+    {
+      "text": "Let's just say that it would be great if we could get a starting position \non the inside."
+    },
+    {
+      "name": "Reporter C",
+      "text": "I've heard that at one point, your team consisted only of yourself."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "That's right, though we have managed to turn things around as of \nlate."
+    },
+    {
+      "name": "Reporter C",
+      "text": "Would it be accurate to chalk that up to your performance at the \nspring Tenno Sho?"
+    },
+    {
+      "text": "McQueen looks my way again. I sense that she's struggling to come \nup with a good answer to that question.",
+      "choice_data_list": [
+        "Yes, that is why we're here today."
+      ]
+    },
+    {
+      "text": "Even when the team was on the verge of disbandment, she pulled \nthrough and attracted new talent with her achievement."
+    },
+    {
+      "text": "McQueen's efforts have been a big inspiration for the others."
+    },
+    {
+      "name": "Reporter C",
+      "text": "I see. We're expecting big things from you here on out!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "…",
+      "choice_data_list": [
+        "McQueen?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Huh? Oh! Yes! Thank you."
+    },
+    {
+      "name": "Reporter B",
+      "text": "Lastly, do you have anything you'd like to say to your fans?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'm honored that you would support me to the point where I am the \nfavorite to win."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I'll be devoting my all to my training in preparation for the race. I do \nnot plan on letting you down."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sheesh, so serious! Couldn't shake up the typical interview a bit?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Again, that's because I <i>am</i> serious."
+    },
+    {
+      "name": "Horsegirl with Straight-cut Bangs",
+      "text": "Yeah, but all of your answers were sooo cool!"
+    },
+    {
+      "name": "Droopy-eyed Horsegirl",
+      "text": "I really can't wait for the race!"
+    },
+    {
+      "text": "It's not just the fans who are expecting great things of Mejiro \nMcQueen."
+    },
+    {
+      "text": "I can't think of anyone more deserving to stand at the center of a \nteam."
+    },
+    {
+      "text": "All right, why don't we go get something tasty to charge us back up?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Wooo, hella! I'm about to go to town on some all-you-can-eat lobster!"
+    },
+    {
+      "name": "Horsegirl with Straight-cut Bangs",
+      "text": "I've been wanting to try that place with the famous carrot sweets \nlately!"
+    },
+    {
+      "name": "Horsegirl with Black Bob-cut",
+      "text": "Geez, this is a celebration for McQueen, so let's let her pick, all \nright?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Um… I'm afraid I will have to refrain."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I should really move on to my training for today. That interview took \nup a lot of precious time."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Seriously, you're gonna go out for training now? You really good on \nkeeping up this pace?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Don't worry, I won't push myself too hard. The last thing I need is a \nrepeat of the time I fell ill."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "But I'm finally hitting my stride with my routine. I can't let this chance \ngo to waste."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Is it fine with you, Trainer?",
+      "choice_data_list": [
+        "I'll leave it up to you.",
+        "I'll leave it up to you."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Thank you. Well then, I shall be off."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Super serious, that one."
+    },
+    {
+      "text": "At last, the day of the autumn Tenno Sho arrives."
+    },
+    {
+      "text": "Wow, those stands are absolutely packed."
+    },
+    {
+      "text": "Wow, those stands are absolutely packed."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Meaning that Golshi Yakisoba's on track for some record profits! I've \ngot noods to fry!"
+    },
+    {
+      "text": "What, and miss cheering for McQueen? Speaking of, where is she?"
+    },
+    {
+      "text": "What, and miss cheering for McQueen? Speaking of, where is she?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "She's already on her way out there, yo."
+    },
+    {
+      "text": "Really? But there's still so much time left before the race starts…"
+    },
+    {
+      "text": "Really? But there's still so much time left before the race starts…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Phew…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I have the dignity of the Mejiro name to bear… the hopes of countless \nfans on my shoulders…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "My dear team members' expectations, and those of my trainer…"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "For all of their sakes, I will achieve victory today."
+    }
+  ]
 }

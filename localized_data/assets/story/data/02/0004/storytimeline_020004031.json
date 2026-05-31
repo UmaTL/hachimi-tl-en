@@ -2,20 +2,10 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narita Brian",
-      "text": "Very well, I'll leap at the chance to run!"
+      "text": "After joining the team, Narita Brian's performance doesn't just \nstabilize — it gets better and better."
     },
     {
-      "text": "And so, Narita Brian becomes the newest member of Team Sirius."
-    },
-    {
-      "text": "I'll soon get to see exactly how boundless her talent really is."
-    },
-    {
-      "text": "After joining the team, Narita Brian doesn't just maintain her \nperformance levels—she exceeds them."
-    },
-    {
-      "text": "With the Satsuki Sho won, next will be the Twinkle Series' most \ncelebrated race, the Tokyo Yushun, Japanese Derby."
+      "text": "With the Satsuki Sho won, next will be the most celebrated race in \nthe Twinkle Series, the Tokyo Yushun — the Japanese Derby."
     },
     {
       "name": "Reporter A",
@@ -23,11 +13,11 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I didn't even get the second crown in the Japanese Derby yet. Why \nwould I be confident about anything?"
+      "text": "I haven't even gotten the second crown in the Japanese Derby yet. \nWhy bother jumping the gun?"
     },
     {
       "name": "Reporter B",
-      "text": "Racers who didn't participate in the Satsuki Sho will be running in the \nJapanese Derby. What's your strategy against these newcomers?"
+      "text": "Racers who didn't participate in the Satsuki Sho will be running in the \nJapanese Derby. What's your strategy against these new rivals?"
     },
     {
       "name": "Narita Brian",
@@ -35,18 +25,18 @@
     },
     {
       "name": "Reporter C",
-      "text": "Ms. Brian, please, over here!"
+      "text": "Brian, please, over here!"
     },
     {
       "name": "Reporter D",
-      "text": "Huh?! Me first, Ms. Brian!"
+      "text": "Huh?! Me first, hey Brian!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Just look at the number of journalists.",
-      "choice_data_list": [
-        "Everyone's got their eyes on her right now."
-      ]
+      "text": "Just look at the number of journalists."
+    },
+    {
+      "text": "Everyone's got their eyes on her right now."
     },
     {
       "name": "Mejiro McQueen",
@@ -54,34 +44,33 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I'm sure she'll be favored to win the race…"
-    },
-    {
-      "name": "Trainer",
-      "text": "Something wrong?"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "High expectations mean one misstep could do immense damage, like \nwhat happened to me once."
+      "text": "When the big day comes, I have no doubt she'll be the favorite.",
+      "choice_data_list": [
+        "…Is there something wrong with that?"
+      ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "How will she face the pressure of being the favorite in such an \nimportant race? It'll be a moment of truth for her."
+      "text": "The thing is, high expectations mean one misstep could do immense \ndamage… like what happened to me."
     },
     {
-      "name": "Umamusume A",
-      "text": "Let me do one more sprint on the ramp!"
+      "name": "Mejiro McQueen",
+      "text": "How will she face the pressure of being the favorite in such an \nimportant race? It'll be the moment of truth for her."
+    },
+    {
+      "name": "Horsegirl A",
+      "text": "Let me do one more sprint on the ramped track!"
     },
     {
       "name": "Veteran Trainer A",
-      "text": "Good idea—go for it!"
+      "text": "Good idea — go for it!"
     },
     {
       "name": "Veteran Trainer B",
-      "text": "The Japanese Derby is 2,400 meters. We've gotta set that pace into \nyour muscle memory!"
+      "text": "The Japanese Derby is 2 400 meters. We've gotta get the ideal pace \ninto your muscle memory!"
     },
     {
-      "name": "Umamusume B",
+      "name": "Horsegirl B",
       "text": "All right, understood!"
     },
     {
@@ -94,7 +83,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "That's not all. Heaps of peeps have been watching Narita Brian train!"
+      "text": "That's not all. Heaps of peeps have been watching Brian train!"
     },
     {
       "text": "They're all devising ways to beat her."
@@ -103,11 +92,11 @@
       "text": "Her rivals are persistent, and they've all marked Brian as their target. \nWinning the Derby's not going to be easy."
     },
     {
-      "text": "Which makes <I>that</I> all the more important…"
+      "text": "Which makes a certain something all the more important…"
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey, Trainer, aren't you gonna get <I>the call</I> soon?"
+      "text": "Hey, Trainer, aren't you gonna get the big announcement soon?"
     },
     {
       "text": "Right, I'll go check. Everyone keep training."
@@ -117,7 +106,7 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, what's this about a call?"
+      "text": "Hey, what's this about?"
     },
     {
       "name": "Winning Ticket",
@@ -139,11 +128,11 @@
       "text": "Post eight-seventeen… The farthest from the inside rail, with the most \nground to cover. Luck isn't on Brian's side."
     },
     {
-      "name": "Caster",
-      "text": "It's the big day of the Tokyo Yushun, Japanese Derby!"
+      "name": "Commentator",
+      "text": "It's finally the day of the Tokyo Yushun — the Japanese Derby!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "Will the standout favorite Narita Brian take the win? Or will it be one \nof her many rivals who've pushed so far to make it here?"
     },
     {
@@ -151,38 +140,38 @@
       "text": "You're in perfect shape! Believe in yourself and run with all you've \ngot!"
     },
     {
-      "name": "Umamusume A",
+      "name": "Horsegirl A",
       "text": "Okay! When I'm out there, I'll remember all the training I did!"
     },
     {
       "name": "Veteran Trainer B",
-      "text": "A good start is key! Take all the advantage that inside post has to \ngive!"
+      "text": "A good start is key! Take all the advantages that inside post has to \noffer!"
     },
     {
-      "name": "Umamusume B",
-      "text": "Thank you so much for training me! I'll definitely bring you back first \nplace!"
+      "name": "Horsegirl B",
+      "text": "Thank you so much for training me! I'll definitely bring back first place \nfor you!"
     },
     {
-      "text": "The stands might be roaring with excitement, but the air back here is \ntense."
+      "text": "The stands might be roaring with excitement, but the air back here is \ntense, huh?"
     },
     {
-      "text": "The stands might be roaring with excitement, but the air back here is \ntense."
+      "text": "The stands might be roaring with excitement, but the air back here is \ntense, huh?"
     },
     {
       "name": "Narita Brian",
       "text": "…"
     },
     {
-      "text": "You know the Derby's special. Every racer's trained their heart out to \nget the glory here."
+      "text": "You know the Derby's special. Every racer's trained their heart out to \nhave a shot at glory here."
     },
     {
-      "text": "You know the Derby's special. Every racer's trained their heart out to \nget the glory here."
+      "text": "You know the Derby's special. Every racer's trained their heart out to \nhave a shot at glory here."
     },
     {
-      "text": "And they've been prepped to go up against you specifically. Plus \nyou're in the worst starting gate."
+      "text": "And they've been prepped to go up against you specifically. Plus, \nyou're in the worst starting gate."
     },
     {
-      "text": "And they've been prepped to go up against you specifically. Plus \nyou're in the worst starting gate."
+      "text": "And they've been prepped to go up against you specifically. Plus, \nyou're in the worst starting gate."
     },
     {
       "text": "Obviously, winning this is going to be a challenge, so…"
@@ -205,51 +194,59 @@
       "text": "Ready or not, the Derby gates open, and I'm reminded once again…"
     },
     {
-      "name": "Caster",
-      "text": "They're at the last turn, and Narita Brian's sweeping in from far \noutside! Just like that, she's taken the lead!"
+      "name": "Commentator",
+      "text": "They're at the last corner, and Narita Brian's sweeping in from far \noutside! Just like that, she's taken the lead!"
     },
     {
-      "name": "Caster",
-      "text": "She blasts ahead—that's it! Brian wins it!"
+      "name": "Commentator",
+      "text": "She blasts ahead — that's it! Brian wins it!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "Narita Brian has her second crown! With an unbelievable five-length \nlead, the Satsuki Sho winner has claimed another amazing victory!"
     },
     {
-      "text": "<I>Cheers!</I>",
-      "choice_data_list": [
-        "No matter the opponent, no matter their \nstrategy, no matter the odds, she still wins!",
-        "Hey, rockstar! You tore up the competition!"
-      ]
+      "text": "Wooooo!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Uwaaagh! That was better than anyone could hope for! Another \nDerby legend is born <I>TODAAAY</I>!"
-    },
-    {
-      "name": "Trainer",
-      "text": "She always does the unexpected!"
-    },
-    {
-      "name": "Trainer",
-      "text": "She always does the unexpected!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I don't care how other people see me."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I've said it before—the Derby, the Triple Crown… They're all just \nstepping stones."
+      "text": "No matter the opponent, no matter their strategy, no matter the odds, \nshe still wins!"
     },
     {
       "name": "Gold Ship",
-      "text": "Um, hey, didn't she just run 2,400 meters? Does she breathe like the \nrest of us?"
+      "text": "Hey, rockstar! You tore up the competition!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Whooooa! That was better than anyone could have hoped for! \nAnother Derby legend is born <i>TODAAAY</i>!",
+      "choice_data_list": [
+        "You just keep on raising the bar, Brian!",
+        "You just keep on raising the bar, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I don't care about other people's expectations. Like I said before…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "The Derby, the Triple Crown… They're all just stepping stones."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Um, hey, didn't she just run 2 400 meters? Does she breathe like the \nrest of us?"
     },
     {
       "name": "Winning Ticket",
       "text": "Now that you mention it…"
+    },
+    {
+      "text": "Hahaha, you've gotta be kidding me…"
+    },
+    {
+      "text": "Hahaha, you've gotta be kidding me…"
+    },
+    {
+      "text": "I'm her trainer, but even I have no idea what she's really capable of. I \ncan barely hide how excited that makes me."
     }
   ]
 }

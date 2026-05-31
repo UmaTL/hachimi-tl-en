@@ -1,216 +1,216 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Since that day, McQueen and I \nhave spent our days training and recruiting."
-        },
-        {
-            "text": "Since that day, McQueen and I \nhave spent our days training and recruiting."
-        },
-        {
-            "text": "However, our recruiting efforts have not been successful. Mejiro \nMcQueen is still the only member of the team."
-        },
-        {
-            "text": "Well, while our lack of members is a problem, \nthe more pressing issue is…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hah… Haaa… Ha…"
-        },
-        {
-            "text": "There was Mejiro McQueen, training alone, on \nan empty track, in the middle of the night."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I need to become faster!"
-        },
-        {
-            "text": "As I thought, my training regimen is not enough for her. \nShe's been doing this every day since then."
-        },
-        {
-            "text": "As I thought, my training regimen is not enough for her. \nShe's been doing this every day since then."
-        },
-        {
-            "text": "I understand that you're trying to solidify your \nfoundation before the Spring Tennō Shō…"
-        },
-        {
-            "text": "But if you try too hard, the risk of you getting hurt will only \nincrease… Should I tell her to stop being so selfish? Or should \nI change the training regimen to what she wants?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I absolutely must win the Spring Tennō Shō!"
-        },
-        {
-            "text": "What's the best way to achieve that? \nIf Sensei were here, he'd know what to do… \n…My worries were endless."
-        },
-        {
-            "text": "The following day, I went to my office to prepare for another \nday of training. However, as I entered I noticed Mejiro McQueen \nand an Uma Musume that I had never met before."
-        },
-        {
-            "name": "???",
-            "text": "Hello, Trainer-san! \nSorry to bother you!",
-            "choice_data_list": [
-                "Are you… here to join the team!?",
-                "Are you… here to join the team!?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Incorrect. Her name is Mejiro Ryan. She's a \npart of the Mejiro family, just like me."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "She mentioned she had something to talk to \nyou about, so I simply brought her here."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Nice to meet you! I really wanted to talk \nto you, so I asked her to introduce me."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Well then, I'm going to go and \ntry to recruit some new members."
-        },
-        {
-            "text": "Hmm? McQueen, you're not \ngoing to stay here with us?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Well, you see, Ryan wanted to have a secret \nconversation between the two of you."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Nuisances should leave immediately, right? \nAnd I'm a nuisance, right?",
-            "choice_data_list": [
-                "Are you… upset…?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "No, I'm not mad. Whatever secrets you two \nmay have doesn't concern me, after all."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "So, I hope you two enjoy yourselves!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ahaha, she's so cute when she's jealous. Trust me, I'm not trying \nto steal your trainer away from you."
-        },
-        {
-            "text": "So, what was it you needed to talk about?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "It's about McQueen."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "You've probably noticed already, \nbut she's pushing herself way too hard.",
-            "choice_data_list": [
-                "Like her independent training?"
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "You really did notice, huh? \nYou're just like McQueen said you'd be."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "“She can be unreliable at times, but she is always sincere and \nthinking about what's best for us Uma Musume.”"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "McQueen is always talking \nabout you in a good light."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "“And that's why, no matter what happens, I will be \nwith her until the end.” Those were her words."
-        },
-        {
-            "text": "She really said those things…? \nI thought she didn't trust me…"
-        },
-        {
-            "text": "She really said those things…? \nI thought she didn't trust me…"
-        },
-        {
-            "text": "I figured that was the case because, no matter how unsatisfied \nshe was with my training regimen, she wouldn't say anything. \nInstead, she would do her own independent training…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "No way, she has absolute faith in you."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "However, there is a reason she's been pushing herself \nso hard. It's because of the Tennō Shō."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "You see, us members of the Mejiro Family are expected to compete \nin certain races based on our aptitudes…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "For example, I'm expected to win the Classic while she's expected \nto win the Tennō Shō due to her ability as a stayer."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "And winning the Tennō Shō is a staple of the Mejiro Family, and a \nvery important race for our Grandmother and Grandfather…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ever since she was a child, McQueen has been expected to win the \nTennō Shō, and for that reason she's been carrying the weight of \nthat responsibility alone for so long."
-        },
-        {
-            "text": "So that's why she's been doing \nher independent training every night?"
-        },
-        {
-            "text": "So that's why she's been doing \nher independent training every night?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "She's probably anxious. Not only does she have the pressure of \nhaving to win the Tennō Shō, your team has also had its own \nproblems lately, right?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "McQueen is a very serious person, so she \nprobably feels a responsibility to fix this. So…"
-        },
-        {
-            "text": "It seems like McQueen is just acting tough, while deep down she's \nincredibly anxious. She probably uses her independent training \nas a means to distract her from that anxiety."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "So I need you to stop her \nbefore she pushes herself too hard."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "I think that if you talk to her \nabout this she'll be sure to listen.",
-            "choice_data_list": [
-                "Ah, I see",
-                "Ah, I see"
-            ]
-        },
-        {
-            "text": "Damn it, what have I been doing?"
-        },
-        {
-            "text": "Damn it, what have I been doing?"
-        },
-        {
-            "text": "I was so focused on what was going on around me, I failed to see \nwhat was happening to Mejiro McQueen right in front of me."
-        },
-        {
-            "text": "…Thank you, Ryan. \nYou've taught me some very important things."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ehehe, you're welcome!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "After all, she's like a little sister to me. \nAnd a treasured rival."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "So I leave the rest to you!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "McQueen and I continue to split our time between recruitment and \ntraining."
+    },
+    {
+      "text": "McQueen and I continue to split our time between recruitment and \ntraining."
+    },
+    {
+      "text": "However, our search for new team members bears no fruit, and \nMcQueen remains the sole member of Sirius."
+    },
+    {
+      "text": "While that's a problem in and of itself, it's the least of my worries."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Pant, pant, pant…</i>"
+    },
+    {
+      "text": "McQueen has been going out late at night to train alone on an empty \ntrack."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I just need to pick up the pace a little more!"
+    },
+    {
+      "text": "As I expected, she clearly isn't satisfied with the regimens I've \nprepared."
+    },
+    {
+      "text": "As I expected, she clearly isn't satisfied with the regimens I've \nprepared."
+    },
+    {
+      "text": "The spring Tenno Sho is fast approaching, however. This extra strain \nposes a risk."
+    },
+    {
+      "text": "Should I tell her she needs to stop? Or should I accept the risk and \nmake my sessions more rigorous?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I've no choice. No choice but to win the spring Tenno Sho!"
+    },
+    {
+      "text": "What do I do? The old man would have known exactly what to say. If \nonly he could help me."
+    },
+    {
+      "text": "The next day, I head to the office to prepare for training. There, I \nfind McQueen waiting with unexpected company."
+    },
+    {
+      "name": "???",
+      "text": "Hello! Hope you don't mind me!",
+      "choice_data_list": [
+        "Could you be… a new recruit?!",
+        "Could you be… a new recruit?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Unfortunately, no. This is Mejiro Ryan, one of my dear family \nmembers."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "It would appear that she wishes to speak to you about something, so I \nhave brought her along."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Nice to meet you! It's kind of important, so I practically begged her!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Now if you'll excuse me, I have some potential teammates to recruit."
+    },
+    {
+      "text": "Huh? You're not joining in on the conversation?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "It appears to be something of secrecy, so Ryan <i>insisted</i> that it just be \nthe two of you."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "I know how much of a distraction I can be, so now let me make myself \nsparse.",
+      "choice_data_list": [
+        "Wait, are you mad?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Not at all! Any cheeky secrets you two want to keep are of no concern \nto me."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "So please, by all means, take your time!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hehe. Aww, looks like she got all jealous. It's not like I was going to \nsteal her trainer away."
+    },
+    {
+      "text": "So what's this important conversation?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, well it's about McQueen."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "You've probably already noticed, but she's pushing herself way too \nhard.",
+      "choice_data_list": [
+        "…Is this about her nighttime training sessions?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "I knew you would have picked up on them. Yup, McQueen was right \nabout you!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "\"A bit unreliable, but always looking out for me.\""
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "That's how she always describes you."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "She even said that's why she'll stick with you until the end, no matter \nwhat happens."
+    },
+    {
+      "text": "Really? And here I thought that she didn't trust me at all."
+    },
+    {
+      "text": "Really? And here I thought that she didn't trust me at all."
+    },
+    {
+      "text": "I thought she was training alone because she was unsatisfied with my \ntraining."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Nah, she really does trust you a lot."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "But if I had to guess, her personal goals for the race are getting to \nher."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "See, when a race plays to our strengths, a Mejiro's expected to win it."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "I know the family has high expectations for me when it comes to \nClassic races. McQueen is a stayer, so expectations are high for her to \nwin the Tenno Sho."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Especially given how much the Tenno Sho means to the family. She \nwants to make everybody proud."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Expectations for her to race in the Tenno Sho have existed since she \nwas young. Under that pressure, McQueen probably feels like she <i>has</i>\nto win."
+    },
+    {
+      "text": "Ah, so that's why she's been training by herself every night."
+    },
+    {
+      "text": "Ah, so that's why she's been training by herself every night."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "I think she's worried, y'know? She's juggling the race <i>and</i> recruiting."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "She feels like it's on her to get it all perfect. Trust me, she's always \nbeen like this…"
+    },
+    {
+      "text": "She's putting up a tough front. Maybe the extra training is her way of \ntrying to cope."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "So please, stop her before she hurts herself."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "I'm sure she would listen to anything you have to say if you explain it \nto her.",
+      "choice_data_list": [
+        "Okay, leave it to me.",
+        "Okay, leave it to me."
+      ]
+    },
+    {
+      "text": "Yeesh, just what have I been doing all this time?"
+    },
+    {
+      "text": "Gosh, just what have I been doing all this time?"
+    },
+    {
+      "text": "All I did was move up the ranks a bit. I can't believe I let that cloud \nmy vision."
+    },
+    {
+      "text": "Thank you, Ryan. You've helped me refocus on what's really \nimportant."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hehe, don't worry about it!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen's like a little sister to me, but she's also an important rival."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "I'll leave the rest to you!"
+    }
+  ]
 }
