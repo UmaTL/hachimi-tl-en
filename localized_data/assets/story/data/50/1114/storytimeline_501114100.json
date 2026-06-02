@@ -139,11 +139,11 @@
         },
         {
             "name": "Buena Vista",
-            "text": "…Because you've always been \"big brother.\""
+            "text": "…Because you've always been <i>big brother</i>."
         },
         {
             "name": "Buena Vista",
-            "text": "…Because you've always been \"big sister.\""
+            "text": "…Because you've always been <i>big sister.</i>."
         },
         {
             "text": "Buena Vista, with a future sure to shine\nahead of her, is my trainee… and my\nchildhood friend."
@@ -189,7 +189,7 @@
         },
         {
             "name": "Young Buena",
-            "text": "Buu-chan is saying hello.\nA \"let's be friends\" hello…",
+            "text": "Buu-chan is saying hello.\nA <i>let's be friends</i> hello…",
             "choice_data_list": [
                 "Thank you! I'll treasure it."
             ]
@@ -480,7 +480,7 @@
             "name": "Buena Vista",
             "text": "Our dream.\nSomething even greater than what we saw\nthat day…",
             "choice_data_list": [
-                "Let's see that \"breathtaking view\" together."
+                "Let's see that <i>breathtaking view</i> together."
             ]
         },
         {

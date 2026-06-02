@@ -74,7 +74,7 @@
         },
         {
             "name": "Announcer",
-            "text": "\"The Supreme Commander of Japan,\"\nSpecial Week!!"
+            "text": "<i>The Supreme Commander of Japan,</i>\nSpecial Week!!"
         },
         {
             "name": "Announcer",
@@ -88,7 +88,7 @@
             "name": "Monologue",
             "text": "Against a field of the world's finest horsegirls,\nher victory as Japan's representative in the\nJapan Cup left a lasting impression.",
             "choice_data_list": [
-                "(Yeah… that \"view\" became our dream.)"
+                "(Yeah… that <i>view</i> became our dream.)"
             ]
         },
         {

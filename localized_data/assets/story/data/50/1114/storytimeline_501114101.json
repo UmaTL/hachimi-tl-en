@@ -226,7 +226,7 @@
         },
         {
             "name": "Student C",
-            "text": "Oh! There's this super famous voting site\namong racing fans… \"The 1st\"… here, this one!",
+            "text": "Oh! There's this super famous voting site\namong racing fans… <i>The 1st</i>… here, this one!",
             "choice_data_list": [
                 "(Oh, I know this site…)"
             ]
@@ -331,7 +331,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Buena Vista's dream, the view she seeks, is\nsomething that's meant to \"reach everyone.\"\nIf expectations are placed on her, then she\nwants to rise to meet them."
+            "text": "Buena Vista's dream, the view she seeks, is\nsomething that's meant to <i>reach everyone</i>.\nIf expectations are placed on her, then she\nwants to rise to meet them."
         },
         {
             "name": "Buena Vista",

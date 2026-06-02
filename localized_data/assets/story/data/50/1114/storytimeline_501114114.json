@@ -1,5 +1,5 @@
 {
-    "title": "The View with a \"Heroine\"",
+    "title": "The View with a <i>Heroine</i>",
     "no_wrap": true,
     "text_block_list": [
         {
@@ -192,7 +192,7 @@
         },
         {
             "name": "Transcend",
-            "text": "Kinda like the center of a big idol group?\nShe's got that \"chosen one\" aura, you know～",
+            "text": "Kinda like the center of a big idol group?\nShe's got that <i>chosen one</i> aura, you know～",
             "choice_data_list": [
                 "(…Well, I guess she does…)"
             ]
@@ -380,7 +380,7 @@
         },
         {
             "name": "Transcend",
-            "text": "Guess that means my job here is done?\nIt'd be kinda sad if this ended in a \"just friends\"\nending and I had to comfort you, so keep it up,\nyeah?"
+            "text": "Guess that means my job here is done?\nIt'd be kinda sad if this ended in a <i>just friends</i>\nending and I had to comfort you, so keep it up,\nyeah?"
         },
         {
             "name": "Buena Vista",
