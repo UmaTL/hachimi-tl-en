@@ -1,0 +1,229 @@
+{
+    "title": "Staying Close Through the Pain",
+    "text_block_list": [
+        {
+            "text": "—That day. \nI believe I truly met an angel."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "It's okay… It's okay. There's nothing to be afraid of. Why don't you come over here for a little bit? Come on—"
+        },
+        {
+            "text": "I was visiting the park on my early morning walk. The horsegirl was crouching in front of a bush, talking to something."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "…Still not in the mood, huh? Hehe. That's fine, just whenever you feel like it. I'll be right here."
+        },
+        {
+            "text": "She had a very gentle, soft aura about her. \nI wondered what she was talking to. Following her gaze—"
+        },
+        {
+            "name": "Cat",
+            "text": "……",
+            "choice_data_list": [
+                "<size=38>A cat…? Does it live in this park…?</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "…? Ah… Yes, it is.",
+            "choice_data_list": [
+                "<size=38>Ah… Sorry for talking to you so suddenly</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "No, no, please don't worry about it. I was just having a one-sided conversation with this cat myself."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Just as you said, the cat seems to have made this park its home… As far as I know, it's always here all alone.",
+            "choice_data_list": [
+                "<size=38>I see—</size>"
+            ]
+        },
+        {
+            "name": "Cat",
+            "text": "……"
+        },
+        {
+            "text": "I crouched down beside her to peek in, but the cat glared at me and backed away deeper into the bushes. It was completely unapproachable."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "This little one… I think it's afraid of people. Plus, it seems to be unwell, which makes it even more scared.",
+            "choice_data_list": [
+                "<size=38>Eh, is it sick?</size>",
+                "<size=38>Eh, is it sick?</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Most likely. It keeps minding its stomach area… \nLook, there it goes again. …Its eyes and its voice both seem mixed with pain and discomfort."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "I was hoping to take it to the vet. But whenever I try to get close, it just retreats further inside. I want to do something to help it…",
+            "choice_data_list": [
+                "<size=38>Should I go buy something for it? Like food?</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Thank you. Actually, I brought some with me too. \nBut it won't eat unless it drops its guard…",
+            "choice_data_list": [
+                "<size=38>I see… I hope it warms up to you.</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Yes. Thank you for your concern. \nI think I'll stay here with the cat until it comes out."
+        },
+        {
+            "text": "After parting ways with her and taking care of my own errands—"
+        },
+        {
+            "text": "The clear early morning sky felt like a lie as raindrops began to fall from the heavy, low-hanging clouds."
+        },
+        {
+            "text": "—It was evening, on my way back. Amidst the pouring rain, the horsegirl and the cat I met this morning crossed my mind once again."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "『I think I'll stay here with the cat until it comes out』",
+            "choice_data_list": [
+                "<size=38>…No way</size>",
+                "<size=38>…No way</size>"
+            ]
+        },
+        {
+            "text": "Only the quiet sound of rain could be heard on the hill, which had grown completely dark. I thought she must have gone home by now, but—"
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "It's gotten a bit chilly… It'd be terrible if you caught a cold. I have a towel, so you can wrap yourself in it like a blanket."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "And then, if you'd like… won't you let a vet examine you? There's nothing to be afraid of. I'll be right by your side the whole time."
+        },
+        {
+            "text": "—She was still there. \nIn the rain. In the exact same spot as this morning.",
+            "choice_data_list": [
+                "<size=38>Hey…! You don't even have an umbrella…!</size>",
+                "<size=38>Hey…! You don't even have an umbrella…!</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Ah—You're from this morning… \nThank you for worrying about me.",
+            "choice_data_list": [
+                "<size=38>…Have you been here this whole time?</size>",
+                "<size=38>…Have you been here this whole time?</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Yes. I wanted to stay by its side and reassure it. \nI wanted to tell it… 『You are not all alone』"
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "So—just a little longer. \nIt finally came this far."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Look, see? It's come a lot closer than it was this morning.",
+            "choice_data_list": [
+                "<size=38>! …You're right.</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "…This cat definitely needs treatment. Therefore—I just need a little more time until I can convey to it, 『You don't need to feel anxious』"
+        },
+        {
+            "text": "In the unceasing rain, I watched over the quiet interaction between her and the cat. And then—"
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "……\n……Come here."
+        },
+        {
+            "name": "Cat",
+            "text": "…Meo～w."
+        },
+        {
+            "text": "The cat finally approached her outstretched hand, timidly at first—then eventually began rubbing its forehead against it."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "…Hehe. You believed in me, didn't you? \nThere's no need to worry. You'll get better for sure."
+        },
+        {
+            "text": "Afterwards, I helped her find a 24-hour emergency veterinary clinic and tagged along. It seemed she had already prepared everything needed to transport the cat."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Hehe, it seems quite comfortable in there. It'll be a little while longer before we reach the clinic, but we're safe for now."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Little kitty. After the vet, how about we look for a new home together? I'll ask around to see if anyone can foster you.",
+            "choice_data_list": [
+                "<size=28>I'll ask around for people who might be able to take it in too</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Thank you very much. Don't worry, little kitty, I'll introduce you to a wonderful foster parent."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Until then… I'll stay close so you won't feel lonely. I hope you'll connect with someone kind… and find happiness."
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Once you're able to eat properly again, I'll give you some delicious canned food to celebrate."
+        },
+        {
+            "name": "Cat",
+            "text": "Meo～w♪"
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Hehe. I wonder if it understands what I'm saying."
+        },
+        {
+            "text": "Perhaps \"pure and innocent\" is the right phrase. I felt her actions were rooted in something fundamentally different from the ordinary urge to protect an animal just because it's cute.",
+            "choice_data_list": [
+                "<size=38>Haha, you really are… Wait—</size>",
+                "<size=38>Haha, you really are… Wait—</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "…?",
+            "choice_data_list": [
+                "<size=38>…Come to think of it, I never asked your name</size>"
+            ]
+        },
+        {
+            "name": "Blonde Horsegirl",
+            "text": "Ah… Hehe♪ \nThat's right."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I am—Victoire Pisa. I attend Tracen Academy. \nIt's a pleasure to meet you."
+        },
+        {
+            "text": "Illuminated by the light of the streetlamp, the girl smiled."
+        },
+        {
+            "text": "—An angel's smile might be something exactly like this."
+        },
+        {
+            "text": "The girl's smile was pure enough to make anyone who saw it think so."
+        }
+    ]
+}
