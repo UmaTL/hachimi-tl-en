@@ -1,0 +1,166 @@
+{
+    "title": "Into the Indigo Night Sky",
+    "text_block_list": [
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I don't geeeet iiiit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She's been like this for a while now, staring at her assignment and groaning.",
+            "choice_data_list": [
+                "<size=38>What class is that assignment for?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah, Trainer…! \nUm, it's an assignment for race strategy!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "It covers the day I was absent with a cold, so I'm having a bit of trouble… Ah, no, but! I'll figure it out somehow!"
+        },
+        {
+            "name": "Monologue",
+            "text": "When she shows me the contents, it looks like an assignment to develop a logical strategy for a race under specified conditions."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "『Weather conditions: Heavy rain from three to two days prior, clear on the day of the race. Refer to the attached sheet for rainfall, turf type, and normal moisture content—』"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "With this, I have to think of a strategy for each racetrack and date… Let's see, attached sheet, attached sheet…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Umm. This one is Western turf, and this one is wild turf. Huh? Overseeding is the mixed one, right…?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "And this place has a high moisture content, which means… \nMmmm! There really are a lot of factors to consider!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Um, Trainer, does this mean—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah, no, no, no! Never mind, I'm fine! \nIt defeats the purpose if I just ask you for the answer…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It is certainly a bit difficult, but Tsurumaru Tsuyoshi should be able to figure it out. She has enough experience under her belt.",
+            "choice_data_list": [
+                "<size=32>Calm down and think back on your experiences so far</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "(Experiences… Does that mean I've been taught this somewhere before?)"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "(Rain, turf, drainage. When did we talk about that stuff? \nMmmm, remember～～!)"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Inhale～ Exhale～… Calm down, Tsuyoshi～! \nInhale～… Okay!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Whoa～! Culvert drainage! So there are artificial drainage systems underground at the racetracks～",
+            "choice_data_list": [
+                "<size=30>Right. There's a lot more of them now, including at Tokyo</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "So the moisture content, was it? The amount of water in the turf. This course dries up much better than those numbers suggest."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Since everyone takes the shortest route on the inside and gets it all roughed up, people tend to think it'd be unrunnable if it absorbed heavy rain, but—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "If it dries fast thanks to the culvert drainage, then sometimes there's a better chance of winning there than on the crowded outside where everyone assumes the inside is ruined… right!",
+            "choice_data_list": [
+                "<size=25>It might work perfectly if a lot of opponents avoid it out of prejudice</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Whoa～! That might just end up being my secret strategy… \nAh, I need to write this down!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Hey Trainer! \nCan we use the VR Umalator right now!?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "My thoughts are coming together, \nbut I won't know for sure until I actually run and check!",
+            "choice_data_list": [
+                "<size=32>Got it. I'll submit an application to use it right away</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Just as I thought…! It's drier than I imagined… \nI can break away from the very inside with this!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "All riiight, I need to keep testing things out at this pace! \nLet's do thiiiis!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I'm dooooone…! \nIt ate up a lot of time, but this should do the trick…!",
+            "choice_data_list": [
+                "<size=38>Good job</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Wait… W-W-Whoa, it's almost curfew for the dorms…! \nI completely forgot～!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Thank you very much, Trainer! \nI'm heading back! Thanks for today～!",
+            "choice_data_list": [
+                "<size=32>I already let the dorm head know, so calm down—</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Oww!?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I slammed my face right into it… \nH-How embarrassing～!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Even so, Trainer really is amazing! \nYou knew I'd been taught that before with just one glance!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Panicking until you pointed it out means I still have a long way to go. Get it together! Get it together, Tsuyoshi～!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Cough! Hack! …Phew, that was close. \nThat one didn't count. The put-together Tsuyoshi doesn't panic."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "All riiight! \nI'm going to become someone who can help too～!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Not just someone who gets helped! \nThis summer, I'll definitely become someone you can rely ooon!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tsurumaru Tsuyoshi's resolution, spoken aloud with determination, was absorbed into the indigo night sky."
+        }
+    ]
+}
