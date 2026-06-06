@@ -1,0 +1,259 @@
+{
+    "title": "Memories Dyed in Purple",
+    "text_block_list": [
+        {
+            "name": "Training Club Teacher",
+            "text": "Wow～! Another new personal best!? That's amazing, Tsurumaru! \nEven though you just joined the club!"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "I'll shave off eeeeeven more time next time! \nI'm a future Triple Crown Horsegirl, after all!"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "If I have talent, I have to polish it! \nI can put in more, much more—effort!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ngh!? Yaaawn…— \n…Ah, 3 AM again…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "(My plans with Trainer aren't until noon. Today…—)"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "—I won't let even this time go to waste!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Personal training with Tsurumaru Tsuyoshi begins tomorrow. \nI hum a tune as I plan out what kind of regimen to put her through.",
+            "choice_data_list": [
+                "<size=38>If she likes this regimen…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…I smile wryly at myself for getting ahead of myself like that. Just as I pick up my smartphone, getting ready to sleep—",
+            "choice_data_list": [
+                "<size=38>Huh, 4 AM!?</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I hurriedly crawl into bed. The alarm is set. \nNow I just need to close my eyes…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…And here I am, having not slept a wink. \nThe air on the morning track is so clear…",
+            "choice_data_list": [
+                "<size=38>(I was so excited I couldn't sleep at all…)</size>"
+            ]
+        },
+        {
+            "name": "Groan",
+            "text": "——, ——……"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Haah, haah… Ugh… Whoooaaa～～…!",
+            "choice_data_list": [
+                "<size=38>T-Tsuyoshi!?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Mmm～… Mmm… Hm? Wait… A bed…? \nWhere am I—… —Gasp!?",
+            "choice_data_list": [
+                "<size=38>Thank goodness, you're awake</size>",
+                "<size=38>Thank goodness, you're awake</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I had her examined just in case, but they said she had no fever and nothing was particularly wrong. When I asked her why she was so dizzy, then—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I-I'm sorry, I'm so sorry!! \nI just woke up really early this morning, so um…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I thought I'd do 50 laps as a warm-up…",
+            "choice_data_list": [
+                "<size=38>That's way too much!!</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Augh～ I guess it was～"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "B-But still, my legs are completely warmed up! \nHow about we hit the track right now! I can still sprint at full speed from here—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Bwaah!?",
+            "choice_data_list": [
+                "<size=38>Tsuyoshi!?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "T-T-That was just me tripping over my own feet! I'm fine! Perfectly fine! I caught my fall perfectly!",
+            "choice_data_list": [
+                "<size=38>No, no, that's not the point…</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "W-W-Waaah～～!? Please don't worry so much. \nI'm completely fine! See!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I have no fever, and my legs don't hurt. \nSo let's head out to the outer track!",
+            "choice_data_list": [
+                "<size=38>Wait, wait</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Normally, I should send her home to rest immediately. \nBut I feel bad just leaving her alone in this state. The best compromise I can make is—",
+            "choice_data_list": [
+                "<size=38>U-Umm… In that case…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I brought her to a ramen shop near the academy. Having a meal and talking about our next steps should help calm her down."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "～～～! I see, \"food\" is also crucial for an athlete! Nutrition and calories are directly linked to building up your body, after all."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Now's the time to show my dedication. \n…Tsuyoshi will now challenge the limits of her stomach.",
+            "choice_data_list": [
+                "<size=38>…? Tsuyoshi?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "—Boss, give me the Mega-Sized Special Mountain-High Noodles! \n10 Horsegirl servings, please!!",
+            "choice_data_list": [
+                "<size=38>Tsuyoshi!!??</size>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Dear Tsuru has an upset stomach and is resting today～",
+            "choice_data_list": [
+                "<size=38>Ah… Yeah… Thanks for letting me know…</size>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And I also have a letter from her for you～"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "She says, \"I will expand my stomach so I can finish the whole thing next time. I've already thought up a strategy.\"",
+            "choice_data_list": [
+                "<size=38>…? Let me read it for now</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I open the envelope I received from Mejiro Bright. The very first line reads—『Tsuyoshi's 10 Bowls of Ramen Grand Strategy!』",
+            "choice_data_list": [
+                "<size=36>(Ahaha… She must have been really frustrated)</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The rest is written in somewhat shaky handwriting. \n『1. Eat meat regularly』 『2. Ask the regulars for tips』"
+        },
+        {
+            "name": "Letter from Tsuyoshi",
+            "text": "『3. Become someone who can eat to their heart's content!』 \n『4. Grow into someone who will leave Trainer amazed!』"
+        },
+        {
+            "name": "Monologue",
+            "text": "As the list goes on, it turns less into strategies and more into declarations of her enthusiasm. But in every single line, Tsurumaru Tsuyoshi's positivity shines through—"
+        },
+        {
+            "name": "Monologue",
+            "text": "I trace my fingers over the powerful emotions hidden behind the weak, shaky handwriting."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…Dear Tsuru always gives her all in everything she does.",
+            "choice_data_list": [
+                "<size=38>Yeah… It seems that way</size>",
+                "<size=38>Yeah… It seems that way</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Is she tossing and turning in bed right now, coming up with countermeasures all on her own? If she is—",
+            "choice_data_list": [
+                "<size=38>…I need to work even harder too!</size>",
+                "<size=38>…I need to work even harder too!</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "—I can't let her do all the hard work alone. \nIt's still provisional, but I'm her trainer now."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hehe… Exactly. \nPlease be sure to share those feelings with dear Tsuru."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "And if I may… \nCould I ask one favor of you?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Zzz… Zzz～… \nMmm… Nnh…"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "Cough, cough!! Hack!! Yikes～ \nA fever again… I'll have to skip the club today…"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "—But I can still study races at home! I can watch videos and read books! It's fine, there are still things I can work hard on!"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "…Ngh. Even if my legs hurt, I can still stretch my shoulders! I'll make them super flexible… The teachers will be so surprised♪"
+        },
+        {
+            "name": "Training Club Teacher",
+            "text": "Tsurumaru! Is your body already—"
+        },
+        {
+            "name": "Club Horsegirl",
+            "text": "Tsuru! Everyone's times are posted over there! \nDo you want to go see them too!?"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "Really!? Sorry, Teacher, we'll talk later! \nUmm, my time is—"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "…Dead last. \n————……"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "Well, of course it is!!"
+        },
+        {
+            "name": "Young Tsuyoshi",
+            "text": "Everyone else has been working hard too! Plus, \nI—I just haven't been putting in as much effort as everyone else!"
+        }
+    ]
+}
