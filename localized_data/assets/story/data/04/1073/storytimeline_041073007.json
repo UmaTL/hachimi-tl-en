@@ -191,8 +191,8 @@
             "name": "Tsurumaru Tsuyoshi",
             "text": "Then… Was that a dream…? \nHaaaah… I'm so disappointed.",
             "choice_data_list": [
-                "<size=25>Were you having such a good dream that waking up depressed you?</size>",
-                "<size=25>Were you having such a good dream that waking up depressed you?</size>"
+                "Were you having such a good dream that waking up depressed you?",
+                "Were you having such a good dream that waking up depressed you?"
             ]
         },
         {
@@ -234,7 +234,7 @@
             "name": "Tsurumaru Tsuyoshi",
             "text": "Do you think we can see them…?",
             "choice_data_list": [
-                "<size=25>I don't know if they'll be as good as the fireworks in your dream, but…</size>"
+                "I don't know if they'll be as good as the fireworks in your dream, but…"
             ]
         },
         {
