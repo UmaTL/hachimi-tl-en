@@ -75,14 +75,14 @@
             "name": "Victoire Pisa",
             "text": "—Oh my… Who is this little one…?",
             "choice_data_list": [
-                "<size=26>It's trying to cross here, but it looks like it might get stepped on</size>"
+                "It's trying to cross here, but it looks like it might get stepped on"
             ]
         },
         {
             "name": "Victoire Pisa",
             "text": "I see… It's so small and all by itself, it must be feeling anxious… I wonder if it's heading home…?",
             "choice_data_list": [
-                "<size=26>Would it be okay to watch over it until it reaches its destination?</size>"
+                "Would it be okay to watch over it until it reaches its destination?"
             ]
         },
         {
@@ -161,8 +161,8 @@
             "name": "Victoire Pisa",
             "text": "It arrived… safely. This is where it wanted to return to… \nits precious home.",
             "choice_data_list": [
-                "<size=28>Could they be its family? It looked like they were waiting for it</size>",
-                "<size=28>Could they be its family? It looked like they were waiting for it</size>"
+                "Could they be its family? It looked like they were waiting for it",
+                "Could they be its family? It looked like they were waiting for it"
             ]
         },
         {

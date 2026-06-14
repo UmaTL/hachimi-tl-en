@@ -51,7 +51,7 @@
         },
         {
             "name": "Victoire Pisa",
-            "text": "Phew…!"
+            "text": "Huup…!"
         },
         {
             "name": "Pisa's Friend",
@@ -120,8 +120,8 @@
             "name": "Victoire Pisa",
             "text": "Hehe, your time has changed so much in just five days.",
             "choice_data_list": [
-                "<size=28>It's fine to celebrate, but make sure you take a proper break</size>",
-                "<size=28>It's fine to celebrate, but make sure you take a proper break</size>"
+                "It's fine to celebrate, but make sure you take a proper break",
+                "It's fine to celebrate, but make sure you take a proper break"
             ]
         },
         {
@@ -216,15 +216,15 @@
             "name": "Victoire Pisa",
             "text": "…That might be true.",
             "choice_data_list": [
-                "<size=28>But the hope you've connected will remain in someone's heart</size>",
-                "<size=28>But the hope you've connected will remain in someone's heart</size>"
+                "But the hope you've connected will remain in someone's heart",
+                "But the hope you've connected will remain in someone's heart"
             ]
         },
         {
             "name": "Victoire Pisa",
             "text": "——……",
             "choice_data_list": [
-                "<size=25>I want to support that. Your journey of connecting feelings and bonds</size>"
+                "I want to support that. Your journey of connecting feelings and bonds"
             ]
         },
         {
