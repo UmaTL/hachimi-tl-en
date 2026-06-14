@@ -1,81 +1,78 @@
 {
-    "windows": {
-        "bundle_name": "POEDWEH3SIWFCH5GGHXN3OV5P67NP2NC"
-    },
-    "android": {
-        "bundle_name": "GZROYWEFODD2WORDBB5MBFNPH7UYEAAU"
-    },
-    "data": {
-        "motion_parameter_list": {
-            "4": {
-                "text_param_list": {
-                    "0": {
-                        "position_offset": {
-                            "x": 3.025,
-                            "y": -0.025,
-                            "z": 0
-                        }
-                    }
-                }
-            },
-            "6": {
-                "text_param_list": {
-                    "0": {
-                        "text": "left"
-                    }
-                }
-            },
-            "7": {
-                "text_param_list": {
-                    "0": {
-                        "text": "Turns"
-                    }
-                }
-            },
-            "12": {
-                "text_param_list": {
-                    "0": {
-                        "text": "End"
-                    }
-                }
-            },
-            "13": {
-                "text_param_list": {
-                    "0": {
-                        "text": "U.A.F. Match\nafter turn"
-                    }
-                }
-            },
-            "14": {
-                "text_param_list": {
-                    "0": {
-                        "position_offset": {
-                            "x": -7,
-                            "y": -0.025,
-                            "z": 0
-                        }
-                    }
-                }
-            },
-            "16": {
-                "text_param_list": {
-                    "0": {
-                        "text": "turn(s)",
-                        "position_offset": {
-                            "x": -1.975,
-                            "y": 0,
-                            "z": 0
-                        }
-                    }
-                }
-            },
-            "17": {
-                "text_param_list": {
-                    "0": {
-                        "text": "U.A.F. Match:"
-                    }
-                }
+  "windows": {
+    "bundle_name": "APVGIKK5LSF6ODMIA355WVJJXYZE4ISH"
+  },
+  "data": {
+    "motion_parameter_list": {
+      "4": {
+        "text_param_list": {
+          "0": {
+            "position_offset": {
+              "x": 3.025,
+              "y": -0.025,
+              "z": 0
             }
+          }
         }
+      },
+      "6": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "Turns"
+          }
+        }
+      },
+      "12": {
+        "text_param_list": {
+          "0": {
+            "text": "End"
+          }
+        }
+      },
+      "13": {
+        "text_param_list": {
+          "0": {
+            "text": "U.A.F. Match\nafter turn"
+          }
+        }
+      },
+      "14": {
+        "text_param_list": {
+          "0": {
+            "position_offset": {
+              "x": -7,
+              "y": -0.025,
+              "z": 0
+            }
+          }
+        }
+      },
+      "16": {
+        "text_param_list": {
+          "0": {
+            "text": "turn(s)",
+            "position_offset": {
+              "x": -1.975,
+              "y": 0,
+              "z": 0
+            }
+          }
+        }
+      },
+      "17": {
+        "text_param_list": {
+          "0": {
+            "text": "U.A.F. Match:"
+          }
+        }
+      }
     }
+  }
 }

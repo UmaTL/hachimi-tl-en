@@ -59268,6 +59268,11 @@
         "13003": "Enter suitable races when target race's\nminimum race requirement is not met.",
         "13004": "Enter suitable races when\nno race has been won yet."
     },
+    "389": {
+        "11101": "Event: トレセン島のススメ",
+        "11102": "Event: タッカーさんからの、ご褒美!",
+        "12101": "Event: ある日、ゆこま温泉で……♪"
+    },
     "390": {
         "10001": "Darley Arabian's Training",
         "10002": "Godolphin Barb's Training",
@@ -59303,13 +59308,37 @@
         "130003": "Stat focus."
     },
     "392": {
-        "10005": "Pause for legacy inheritance",
-        "100005": "Pause to select teachings manually",
-        "100009": "Pause for legacy inheritance",
-        "110008": "Pause for legacy inheritance",
-        "120006": "Pause for legacy inheritance",
-        "130005": "Pause at Strategy Meetings\nfor manual Team Stats selection",
-        "130006": "Pause for legacy inheritance"
+        "10001": "Pause to select manually when \nmultiple commands match.",
+        "10002": "Pause to select option manually \nat specific events.",
+        "10004": "Pause at races that can be retried.",
+        "10005": "Pause at legacy inheritance.",
+        "100001": "Pause to select manually when \nmultiple commands match.",
+        "100002": "Pause to select option manually \nat specific events.",
+        "100004": "Pause at races that can be retried.",
+        "100005": "Pause to select Teachings manually.",
+        "100006": "Pause at the Dream Fest Stella.",
+        "100007": "Pause at the Dream Fest Pride.",
+        "100008": "Pause at the Dream Fest Legend.",
+        "100009": "Pause at legacy inheritance.",
+        "110001": "Pause to select manually when \nmultiple commands match.",
+        "110002": "Pause to select option manually \nat specific events.",
+        "110003": "Event: トレセン島のススメ",
+        "110004": "Pause at races that can be retried.",
+        "110005": "Event: タッカーさんからの、ご褒美!",
+        "110006": "Pause at Construction Planning.",
+        "110007": "Pause when obtaining an \nIsland Training Ticket.",
+        "110008": "Pause at legacy inheritance.",
+        "120001": "Pause to select manually when \nmultiple commands match.",
+        "120002": "Pause to select option manually \nat specific events.",
+        "120003": "Event: ある日、ゆこま温泉で……♪",
+        "120004": "Pause at races that can be retried.",
+        "120005": "Pause at Source Spring Selection.",
+        "120006": "Pause at legacy inheritance.",
+        "130001": "Pause to select manually when \nmultiple commands match.",
+        "130002": "Pause to select option manually \nat specific events.",
+        "130004": "Pause at races that can be retried.",
+        "130005": "Pause at Strategy Meetings.",
+        "130006": "Pause at legacy inheritance."
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
