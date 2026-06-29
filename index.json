@@ -18569,6 +18569,11 @@
       "size": 480
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_header_turncounter01.json",
+      "hash": "9fbcee9deaae89b6eefaa460066b51bed38d4d28a2f4d9bf13e49ab1356489d7",
+      "size": 850
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_hint00.json",
       "hash": "0db2586a55bb3742752a85871c1b6b29c2d1b99bab11141db4ceba004bf13713",
       "size": 76
@@ -18885,8 +18890,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "df4b683ab54e3a0ffe68595163c34cba15dcd0b682d331232baf0c9a7b0b7a1d",
-      "size": 432039
+      "hash": "1e0d58fbcf67a5df370f680e7a4f5d549319b0c124a7d89c940d00ed3ca5a5ee",
+      "size": 432985
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -18900,8 +18905,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "fed351841a93c76e0dd43e4a49b3d5b4b456ec2c9350f1900e7ef60e81df19fe",
-      "size": 3385159
+      "hash": "b56f8d5e271bcff2b742305f6a820bb363b5c952d92f6f3d47f91dd05cb1bf2a",
+      "size": 3407143
     }
   ]
 }
