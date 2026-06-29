@@ -1,0 +1,51 @@
+{
+  "windows": {
+    "bundle_name": "BSTCOVHZWGJCRBPVZMFSUPQUWSYVLWNE"
+  },
+  "data": {
+    "motion_parameter_list": {
+      "4": {
+        "text_param_list": {
+          "0": {
+            "text": "Target"
+          }
+        }
+      },
+      "7": {
+        "text_param_list": {
+          "0": {
+            "text": "left"
+          }
+        }
+      },
+      "8": {
+        "text_param_list": {
+          "0": {
+            "text": "Turns"
+          }
+        }
+      },
+      "14": {
+        "text_param_list": {
+          "0": {
+            "text": "End"
+          }
+        }
+      },
+      "15": {
+        "text_param_list": {
+          "0": {
+            "text": "after\nturn end"
+          }
+        }
+      },
+      "19": {
+        "text_param_list": {
+          "0": {
+            "text": "turn(s)"
+          }
+        }
+      }
+    }
+  }
+}
