@@ -1029,6 +1029,11 @@
       "size": 76
     },
     {
+      "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.diff.png",
+      "hash": "d223d020e0e0510d46d1e83279ff6205358da4046d9cc8984e33aa2bca05ea34",
+      "size": 487346
+    },
+    {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
       "hash": "152f44cbfba4a5bd9c8cdcd78aec18b5d58f258f841b8cc31ace0ae177fad368",
       "size": 129828
@@ -18890,8 +18895,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "1e0d58fbcf67a5df370f680e7a4f5d549319b0c124a7d89c940d00ed3ca5a5ee",
-      "size": 432985
+      "hash": "6b1c0273658bfa4cf7166db0d5ebe046e51d3ebe24e9200a78492b6c2f5f8124",
+      "size": 432939
     },
     {
       "path": "race_jikkyo_comment_dict.json",
