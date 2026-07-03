@@ -644,6 +644,31 @@
       "size": 325729
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_map_label00/tx_uTex_fl_singlemode_ramen_map_label00_0.diff.png",
+      "hash": "c5f190dc4a2df324f6790e4b8d165e7c7515513cb21ba215d982e4f32151b4bf",
+      "size": 125215
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_btn00/tx_uTex_fl_singlemode_ramen_tasting_btn00_0.diff.png",
+      "hash": "1cdf044e22d4c357dbe23734337f3760f987cbc261d5468cbd914b34d669e172",
+      "size": 3887
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_icon_label00/tx_uTex_fl_singlemode_ramen_tasting_icon_label00_0.diff.png",
+      "hash": "4c1ff671516950a30e2204197301a0b76ab50fbae9d244cf8aa89336c6b1d108",
+      "size": 7506
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_minicharacter_bg00/tx_uTex_fl_singlemode_ramen_tasting_minicharacter_bg00_0.diff.png",
+      "hash": "f9cf36c8dbdce487ff056b0360fa03987de1ff72912eada1e13a87b4ab4456eb",
+      "size": 128501
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_ramen_tasting_rank_text00/tx_uTex_fl_singlemode_ramen_tasting_rank_text00_0.diff.png",
+      "hash": "cb2ff19a7d57a9ae4e57c1ed408b570e21d7237ba9f69b9a7d278874cfda99ea",
+      "size": 166349
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sectionstart01/tx_uTex_fl_singlemode_sectionstart01_0.diff.png",
       "hash": "faa31e9ca7165414ba2fb61f02a6bbef2bd049d3c6eee6571771d397dc9399f8",
       "size": 53744
@@ -1030,8 +1055,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.diff.png",
-      "hash": "d223d020e0e0510d46d1e83279ff6205358da4046d9cc8984e33aa2bca05ea34",
-      "size": 487346
+      "hash": "9bac3d03df585260937a881fc52fd33232e25cefcdea892795fd4a2acfecff6d",
+      "size": 486422
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
@@ -18009,6 +18034,56 @@
       "size": 129800
     },
     {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_10_00.diff.png",
+      "hash": "515ea6d982b00f56e5a4c50a39d05474d5423bfa18b1650b00d066a220c66585",
+      "size": 20351
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_1_00.diff.png",
+      "hash": "2bf7ee727a44c607c81f85293bcbf8153ed81ef0dc885dcb5e825c6445daa725",
+      "size": 18718
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_2_00.diff.png",
+      "hash": "1b608a1d1ee5bf3a28d320e0fa62e12703821371b7e17c8cda268575d71f4ef4",
+      "size": 18620
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_3_00.diff.png",
+      "hash": "23de08eff41edf3efc3cce9ad5d6ece61d0df31885014bcba7673d2f6c01c3c0",
+      "size": 18164
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_4_00.diff.png",
+      "hash": "99ec0d0fc045f54ad084b4e9544b7f291321783fa2528b11a2048ac4f7f1dbfd",
+      "size": 18051
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_5_00.diff.png",
+      "hash": "9a2cf9cfb40e4b2c293adf6502876a778ecd0de6e904d2681cab6f0b102da215",
+      "size": 17411
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_6_00.diff.png",
+      "hash": "0143068901a7a4daa0a08e41d46e27ca0a7ba6253e5bdeedeabc2aab03645780",
+      "size": 20566
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_7_00.diff.png",
+      "hash": "3cb65400664728c7e3e28bf8f492db55c2a7bfc77164e5c44043ffaa4bb39eeb",
+      "size": 19502
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_8_00.diff.png",
+      "hash": "2cd3a85bc80870cddab0268520e5561601c0b5a77a1b34525cfd226ba26b4a8d",
+      "size": 18328
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_9_00.diff.png",
+      "hash": "89f231d79a9b4600e342397e763bf28dfccf1b5dca9d56f3e36c000a9347dc29",
+      "size": 21578
+    },
+    {
       "path": "assets/textures/single/scenariosport/utx_txt_advice_update_00.png",
       "hash": "8ab7c0e19201d86ac053fb4accc8044c2debf16cbb8fc8e2ed3793cad85945f8",
       "size": 72851
@@ -18766,6 +18841,36 @@
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_txt_tagtrainingresult00.json",
       "hash": "0e3d936bece34168c7b0b01b0d7161e83c36c7700b1ab5f811df90b3763cf122",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_map_label00.json",
+      "hash": "d7d5d994ba44b0d172e7a384bb0cd5b79ae7970e9362b229714a9f214271471f",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_btn00.json",
+      "hash": "3e9e17385d9e860c8bce35ad9dcd3a9e2b217ea26d487271a44d87bcc844099b",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_icon_label00.json",
+      "hash": "3a020bfa0fc2c140e10aad86623bd0dc50bde29f6c9728ffd0dad5640d43a3d3",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_minicharacter_bg00.json",
+      "hash": "290c8d80091b02943e98a48098d9a63eeafca22da325972ceb59072339f410e1",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_rank_text00.json",
+      "hash": "49ab70e40fb74b353d63eebffa53406c515c6bae318a56b41a46ccc536217591",
+      "size": 76
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/ramen/pf_fl_singlemode_ramen_tasting_transition00.json",
+      "hash": "fa86276c021c47e4d17d9d2b8d4742dd90d9a570c73dedb53100db50132db3cc",
       "size": 76
     },
     {
