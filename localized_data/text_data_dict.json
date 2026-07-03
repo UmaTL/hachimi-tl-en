@@ -59291,7 +59291,10 @@
         "120003": "Byerley Turk's Training",
         "130001": "Darley Arabian's Training",
         "130002": "Godolphin Barb's Training",
-        "130003": "Byerley Turk's Training"
+        "130003": "Byerley Turk's Training",
+        "140001": "Darley Arabian's Training",
+        "140002": "Godolphin Barb's Training",
+        "140003": "Byerley Turk's Training",
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -59308,7 +59311,10 @@
         "120003": "Stat focus.",
         "130001": "Fairly balanced.",
         "130002": "Skill focus.",
-        "130003": "Stat focus."
+        "130003": "Stat focus.",
+        "140001": "Fairly balanced.",
+        "140002": "Skill focus.",
+        "140003": "Stat focus."
     },
     "392": {
         "10001": "Pause to select manually when \nmultiple commands match.",
