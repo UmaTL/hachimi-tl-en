@@ -1055,8 +1055,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.diff.png",
-      "hash": "9bac3d03df585260937a881fc52fd33232e25cefcdea892795fd4a2acfecff6d",
-      "size": 486422
+      "hash": "03f42ed05383bbe41dccb2e15b7e9a885f75e473e5a927b0ec3f9146143204d8",
+      "size": 488377
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
@@ -18035,8 +18035,8 @@
     },
     {
       "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_10_00.diff.png",
-      "hash": "515ea6d982b00f56e5a4c50a39d05474d5423bfa18b1650b00d066a220c66585",
-      "size": 20351
+      "hash": "33d5653d86db0a8adee6d27f30adafdc15fc46eca6504b028dff9b2d35338432",
+      "size": 21439
     },
     {
       "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_1_00.diff.png",
@@ -18082,6 +18082,56 @@
       "path": "assets/textures/single/scenarioramen/utx_frm_ramen_regionthumb_9_00.diff.png",
       "hash": "89f231d79a9b4600e342397e763bf28dfccf1b5dca9d56f3e36c000a9347dc29",
       "size": 21578
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_10_00.diff.png",
+      "hash": "a168c4d5dd747549a0e1db5c87901608e0c01192be0400b6db420a368d6fb3ee",
+      "size": 22634
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_1_00.diff.png",
+      "hash": "6117352308ed1498fc0d2d38afdbaec9e97468f1b558b984099c4d50ed33946d",
+      "size": 22855
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_2_00.diff.png",
+      "hash": "c19c0a65f0ef9b4f3c21607ebaeebfbb5f11dd89e482b80e3c5017ffdad84c10",
+      "size": 21867
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_3_00.diff.png",
+      "hash": "38d2a4f96ec6bd7720106109d3d7b75fde2d222e25e52e16a48eb5488e56ab42",
+      "size": 16522
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_4_00.diff.png",
+      "hash": "49be8c691a9088cbccca07c38bce9245d2ebce0855de2ae814f96d6cb291b250",
+      "size": 24437
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_5_00.diff.png",
+      "hash": "dd596e16975f46a83bc7b6959459a461894d7228416cd36396a5c88fa7e4a384",
+      "size": 22348
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_6_00.diff.png",
+      "hash": "420113792539687f938779df4120dc272229de395a7ced908cf5ce0fd24c5157",
+      "size": 23785
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_7_00.diff.png",
+      "hash": "7ba46e35a8df89e174fa688207437f056741ac6bfa069b3a9a008d4de9daf530",
+      "size": 24626
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_8_00.diff.png",
+      "hash": "e4f1e31cece75e9ea5614254819a83c146cca8d048f6760f2d0bd0c82fe9efdb",
+      "size": 21643
+    },
+    {
+      "path": "assets/textures/single/scenarioramen/utx_ico_ramen_regionalflag_9_00.diff.png",
+      "hash": "7a5a7d10a6e667f63a0ebea5931306170705b4f00d0ef35233dfb52ff2a23748",
+      "size": 23888
     },
     {
       "path": "assets/textures/single/scenariosport/utx_txt_advice_update_00.png",
@@ -19000,8 +19050,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "6b1c0273658bfa4cf7166db0d5ebe046e51d3ebe24e9200a78492b6c2f5f8124",
-      "size": 432939
+      "hash": "4907d34d46bd256a9c76bd8d6b910ba412b7f38687e929df64f8ae96b3b49061",
+      "size": 432947
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -19015,8 +19065,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "0217cb55bcb52bc1d369d7d954e5661c9d2718a6a27b4101d8e31c2b941ac32d",
-      "size": 3407387
+      "hash": "eebb4ca8baab6b9afc96134f4c3be01632619cedae6491044e975a2eb8a9941a",
+      "size": 3411312
     }
   ]
 }
