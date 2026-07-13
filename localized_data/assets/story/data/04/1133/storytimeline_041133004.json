@@ -1,227 +1,225 @@
 {
-    "title": "Chapter 4: The Dawn of Genesis",
-    "text_block_list": [
-        {
-            "name": "Narrator",
-            "text": "『In the Arima Kinen, T.M. Opera O had no \nchance of winning. Trapped in a pack with \nno light shining through, she nonetheless—』"
-        },
-        {
-            "name": "Narrator",
-            "text": "『She made that run. Weaving through the pack, \nshe seized an unprecedented victory. She would \nlater say—\"If there is no precedent, I'll just make one\"』"
-        },
-        {
-            "name": "Narrator",
-            "text": "『In an interview, Grass Wonder told us: \n\"I pulled the Arima victory towards me. With sheer willpower\"\n—And that was the result』"
-        },
-        {
-            "name": "Narrator",
-            "text": "『It was a narrow victory for her. However, instead of following the legends built by the predecessors who won the Arima—she sought her own best, and the result was that peak』"
-        },
-        {
-            "name": "Narrator",
-            "text": "『Speed Symboli. The first Horsegirl in history to achieve three consecutive Grand Prix victories. She spoke of her final run like this—\"In the end, it comes down to guts\"』"
-        },
-        {
-            "name": "Narrator",
-            "text": "『A victory by a neck over the runner-up. It wasn't about repeating the previous year's Arima Kinen. Her final run was meant to surpass her own great achievements—』"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "……………………"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "T-Trainer… Trainer. \nTh-That was… That was amazing…!",
-            "choice_data_list": [
-                "Y-Yeah. It really was…!",
-                "Y-Yeah. It really was…!"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "No, really… From my perspective, I always thought everyone was so calm, or rather… that they won because they were meant to win. That was the impression I had, but…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "But… yeah, that's right. Watching the footage again… \nthey were just giving it their all. There was a gritty foundation of sheer tenacity and guts underlying it all—"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "I see… The ones who can make history are those who… \neven in a fiercely competitive race… can still seize victory with their \"willpower.\""
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "…There wasn't a single one. Not a single person who established history by \"tracing\" the past.",
-            "choice_data_list": [
-                "Yeah… You're right",
-                "Yeah… You're right"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "I don't think learning from the past is inherently wrong. However, to achieve greatness… maybe you need to put your own raw, authentic self on the stage—",
-            "choice_data_list": [
-                "<size=32>Because the one running on the turf right now is you</size>",
-                "<size=32>Because the one running on the turf right now is you</size>"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "…………Me. \nChrono Genesis on the stage…"
-        },
-        {
-            "name": "Monologue",
-            "text": "And so, the day of the Tracen Academy tour arrived. \nChrono Genesis was—"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Hah, hah, hah, hah—"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(2200m on turf. The track condition is slightly heavy due to yesterday's rain. Situationally, this is close to the 『Takarazuka Kinen』 that Nakayama won—)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(Outside of the middle of the pack… The position Nakayama took. But, when Orfevre ran, it was a little more…)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "…Ghk! I'm overthinking again…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(Can I produce the explosive power of a \n34.7-second final sprint? If I can't, I shouldn't \nbe tracing the past.)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Because the one running today is—"
-        },
-        {
-            "name": "Monologue",
-            "text": "…I thought that it was becoming the run I wanted to see. \nBecause during the mock race, what caught my eye was…",
-            "choice_data_list": [
-                "Go! Chrono Genesis!!"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(…I can hear Trainer's voice. \nCheering for me. —Me, and no one else.)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(That's right. The one running here today \nis—not the girls who wove history.)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "It's me, who is still a nobody."
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(In that case, I just need to use history as a \"rough\" reference. As long as I grasp the image, beyond that—!)"
-        },
-        {
-            "name": "Commentator",
-            "text": "Whoaaa! With 200m left, Chrono Genesis makes her final push! What a magnificent closing sprint! Will she reach the front?! Will she reach it?!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(Up until now, I've been chasing after the back of history. \nI wanted to catch up… I wanted to be there, too.)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(But that's wrong. I can't become a part of history that way. If I want to carve my own footprints as myself—)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "I have to win… I want to win. I want to win! Against the Horsegirls who made history! Against the predecessors who left behind great achievements!!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(And then… next time, I will—)"
-        },
-        {
-            "name": "Commentator",
-            "text": "Chrono Genesis crosses the finish line in 1st place! A victory by two lengths! She's shown off her true strength!"
-        },
-        {
-            "name": "Spectator A",
-            "text": "Way to go, Chrono Genesis!! That was a great run!!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "That was so moving! When's her debut?! \nWe're looking forward to it!!"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(……Looking forward to my debut… \nDoes that mean…)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(That they want to follow my history… \nIs that what they're thinking?)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "—Ah, I see."
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "This is how I should draw it…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "…I'm back.",
-            "choice_data_list": [
-                "<size=27>That was an amazing race. I'm looking forward to your next one!</size>",
-                "<size=27>That was an amazing race. I'm looking forward to your next one!</size>"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Ah, thank you so much. \nBut, umm…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "The reason I was able to run like this is…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "……Did they feel like this, too? \nAll of them…",
-            "choice_data_list": [
-                "Hmm? …Chrono?"
-            ]
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(…It's scary to say it out loud. \nBut I have to take that step forward properly.)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "(Because, for me… it has to be this person)"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "U-Umm… Trainer… \nIf you wouldn't mind…"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "…No. I want to ask this of you, specifically…! \nPlease, won't you—"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "Create history with me?"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "『Countless true stories that make your heart leap with every turn of the page. And beyond them, someday—I, too』"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "『Want to create a new history』"
-        },
-        {
-            "name": "Chrono Genesis",
-            "text": "『This is the story of my—of our challenge. (Writer C)』"
-        }
-    ]
+  "title": "Chapter 4: Genesis; Origin",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narrator",
+      "text": "<i>In the Arima Kinen, T.M. Opera O had no chance \nof winning. Trapped in a pack so tight she was lost \nin its shadows. Nonetheless…</i>"
+    },
+    {
+      "name": "Narrator",
+      "text": "<i>…she made her presence known. Weaving through the pack, \nshe seized an unprecedented victory. Her words afterwards \nwere: \"Where there is no precedent, I only have to set one.\"</i>"
+    },
+    {
+      "name": "Narrator",
+      "text": "<i>In an interview, Grass Wonder told us: \"I pulled the Arima victory \ntowards me. With sheer willpower.\" We all saw the result.</i>"
+    },
+    {
+      "name": "Narrator",
+      "text": "<i>It was a narrow victory for her. However, instead of following \nin the footsteps of previous Arima winners, she sought her own \nideal path, and reached a new peak.</i>"
+    },
+    {
+      "name": "Narrator",
+      "text": "<i>Speed Symboli. The first horsegirl in history to achieve three \nconsecutive Grand Prix victories. She spoke of her final race \nlike this: \"In the end, it comes down to guts!\"</i>"
+    },
+    {
+      "name": "Narrator",
+      "text": "<i>Her victory came by a neck over the runner-up. It wasn't about \nrepeating the previous year's Arima Kinen. Her final race was \nmeant to surpass her own great achievements ——\t</i>"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "………"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "T-Trainer… Trainer! \nTh-That was… That was amazing…!",
+      "choice_data_list": [
+        "Y-Yeah. It really was…!",
+        "Y-Yeah. It really was…!"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "No, really… From my perspective, I always thought everyone \nwas so calm, or rather… that they won because they were \nmeant to win. That was the impression I had, but…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "But… yeah, that's right. Watching the footage again… \nthey were just giving it their all. There was a gritty foundation \nof sheer tenacity and guts underlying it all."
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I see… The ones who can make history are those who… \neven in a fiercely competitive race… can still seize victory \nwith their \"willpower\"."
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "…There wasn't a single one. Not a single person \nwho established history by \"tracing\" the past.",
+      "choice_data_list": [
+        "Yeah… That's right.",
+        "Yeah… That's right."
+      ]
+    },
+    {
+      "text": "I don't think learning from the past is inherently wrong. \nHowever, to achieve greatness… maybe you need to put \nyour own raw, authentic self on the stage ——",
+      "choice_data_list": [
+        "<size=32>Because the one running on the turf right now is you</size>.",
+        "<size=32>Because the one running on the turf right now is you</size>."
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Me. Chrono Genesis… on the big stage…"
+    },
+    {
+      "text": "And so, Tracen Academy's Open Day was upon us. \nAs for Chrono Genesis…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "<i>Hahh, hah, hahh, hah…</i>"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(2200 m on turf. The track condition is <i>yielding</i> due to \nyesterday's rain. Conditions overall are close to the \nTakarazuka Kinen that Nakayama won.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Outside of the middle of the pack… the position Nakayama took. \nBut, when Orfevre ran, she was a little more…)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "<i>…Ghk!</i> I'm overthinking again…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Can I produce the explosive power needed for a 34.7 seconds \nfinal sectional? If I can't, I shouldn't try to imitate the past.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Because the one running today is…"
+    },
+    {
+      "text": "…Her running was becoming exactly what I wanted to see. \nBecause what caught my eye during the practice race was…",
+      "choice_data_list": [
+        "Go! Chrono Genesis!!"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(…I can hear Trainer's voice, cheering for me. \nMe, and no one else.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(That's right. The one running here today is… not any of \nthe girls who wove together the fabric of history.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "It's me, who is still a nobody."
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(In that case, I just need to use history as a rough guide. \nAs long as I have a mental image, the rest is up to me!)"
+    },
+    {
+      "name": "Commentator",
+      "text": "Whoaaa! With 200 m left, Chrono Genesis makes her final push! What a magnificent closing sprint! Will she reach the lead?! \nWill she make it?!"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Up until now, I've been chasing after history. \nI wanted to catch up… I wanted to be there, too.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(But that's wrong. I can't become a part of history that way. \nIf I want to leave my own footprints…)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "I have to win… I want to win. <i>I want to win!</i>\nAgainst the horsegirls who crafted history! \nAgainst my celebrated predecessors!!"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(And then… next time, I'll be the one to…)"
+    },
+    {
+      "name": "Commentator",
+      "text": "Chrono Genesis crosses the finish line in first place! \nA victory by two lengths! She's shown off her true strength!"
+    },
+    {
+      "name": "Spectator A",
+      "text": "Way to go, Chrono Genesis!! That was a great race!!"
+    },
+    {
+      "name": "Spectator B",
+      "text": "That was so moving! When's her debut?! \nI'm looking forward to it!!"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(……Looking forward to my debut… Does that mean…)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(That they want to follow my history…? \nIs that what they're thinking?)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "…Ah, that's it."
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "This is the form it should take…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "…I'm back.",
+      "choice_data_list": [
+        "That was an amazing race. I'm looking \nforward to your next one!",
+        "That was an amazing race. I'm looking \nforward to your next one!"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Ah, thank you so much. \nBut, umm…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "The reason I was able to run like this is…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "……Did they feel like this, too? \nAll of them…",
+      "choice_data_list": [
+        "Hmm? …Chrono?"
+      ]
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(…It's scary to say it out loud. \nBut I <i>have</i> to take that step forward.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "(Because I want it to be… this person.)"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "U-Umm… Trainer… If you wouldn't mind…"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "…No. I want to ask this of you, specifically…! \nPlease, won't you ——"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "Create history with me?"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "<i>Countless true stories that make your heart leap with every \nturn of the page. And on its newest pages, someday… my story.</i>"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "<i>I want to write a new page of history.</i>"
+    },
+    {
+      "name": "Chrono Genesis",
+      "text": "<i>This is the story of my… of </i>our<i> challenge. (Writer C)</i>"
+    }
+  ]
 }
