@@ -2,32 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Biwa Hayahide",
-      "text": "Hehe… I promise."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "…"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I'll prove Big Sis's equation at the Arima Kinen myself!"
-    },
-    {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "We're here at the Arima Kinen, the final race of this year's Twinkle \nSeries, and the star of the show is the Triple Crown champion, Narita \nBrian!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "We didn't get our wish to see her take on her sister, Biwa Hayahide, \nbut she's ready to race for the two of them!"
     },
     {
-      "name": "Caster",
-      "text": "And it's also Narita Brian's first mix-up with racers in the senior year!"
+      "name": "Commentator",
+      "text": "However, it's also her first mix-up with racers in the senior year!"
     },
     {
-      "name": "Caster",
-      "text": "Against these top-class veterans, can she win her fifth G1 race and \nbecome a Five Crown Champion?"
+      "name": "Commentator",
+      "text": "Against these top-class veterans, can she win her fifth G1 race and \nbecome a Five Crown champion?"
     },
     {
       "name": "Narita Brian",
@@ -47,14 +35,14 @@
       "text": "Hayahide's not here today, so that means all your opponents will be \ngoing after you."
     },
     {
-      "text": "But that shouldn't be a problem. Show us another run that'll knock our \nsocks off!"
+      "text": "But knowing you, that won't be a problem. Go blow everyone away \nwith some crazy running!"
     },
     {
-      "text": "But that shouldn't be a problem. Show us another run that'll knock our \nsocks off!"
+      "text": "But knowing you, that won't be a problem. Go blow everyone away \nwith some crazy running!"
     },
     {
       "name": "Narita Brian",
-      "text": "You don't have to tell me twice. I'll take no prisoners."
+      "text": "You don't have to tell me twice. They'll find no mercy."
     },
     {
       "name": "Hishi Amazon",
@@ -66,15 +54,27 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "Only the toughest of the tough race in the Arima Kinen. But today \nI've only got my eyes on you!"
+      "text": "Only the toughest of the tough race in the Arima Kinen. But I've got \nmy eyes on you alone."
     },
     {
       "name": "Hishi Amazon",
-      "text": "That's right, 'cause I think you're the strongest! So don't you dare \nback out of our race."
+      "text": "And you better know it's 'cause I think you're the best! So don't you \ndare back out of our race."
     },
     {
       "name": "Narita Brian",
-      "text": "Sounds good to me. Give me everything you've got."
+      "text": "Like I would. You're on, Ama. Give me everything you've got."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "I hope you're ready to have some fun!"
+    },
+    {
+      "name": "Commentator",
+      "text": "The racers are waiting in the gate."
+    },
+    {
+      "name": "Commentator",
+      "text": "Will the Triple Crown champion, Narita Brian, win? Or will another \nracer finally stop her? Get ready to find out as the Arima Kinen… \nbegins!"
     }
   ]
 }

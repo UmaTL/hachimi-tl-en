@@ -2,20 +2,20 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "Racing's finest are here at the 3,000-meter G2 Hanshin Daishoten \nturf."
+      "name": "Commentator",
+      "text": "Racing's finest are gathered here for the 3 000-meter turf G2 Hanshin \nDaishoten."
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "Everyone's excited for the face-off between Racers of the Year Narita \nBrian and Mayano Top Gun!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "The extraordinary crowd at the Hanshin Racecourse is waiting with \nbated breath to see the amazing finish to come!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Something about this feels different than Brian's other races."
+      "text": "Something about this feels different from Brian's other races."
     },
     {
       "name": "Mejiro McQueen",
@@ -27,22 +27,22 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Race with all your spirit, Brian. And we'll root for you with all of ours."
+      "text": "Race with all your spirit, Brian. And we'll cheer for you with all of ours."
     },
     {
       "name": "Narita Brian",
-      "text": "I will. Thanks for the encouragement."
+      "text": "I will… Thanks."
     },
     {
       "name": "Gold Ship",
       "text": "We'd better get to the stands then! I saved us one heck of a spot!"
     },
     {
-      "text": "All right, you should head for the dock. Come on, I'll walk you over."
+      "text": "All right, Brian, you should head for the paddock. Come on, I'll walk \nyou over."
     },
     {
       "name": "Narita Brian",
-      "text": "Okay… Wish me luck."
+      "text": "Okay… I'm off then."
     },
     {
       "name": "Winning Ticket",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I'm itching to test the results of my training with you two."
+      "text": "I'm itching to test the results of training with you two."
     },
     {
       "name": "Biwa Hayahide",
@@ -70,30 +70,33 @@
     },
     {
       "name": "Hishi Amazon",
-      "text": "A one-on-one match against yourself—you'd better win!"
+      "text": "A one-on-one match against yourself — you'd better win!"
     },
     {
       "name": "Narita Brian",
-      "text": "Just watch me."
+      "text": "Yeah, I got this."
     },
     {
-      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories in the biggest races…"
     },
     {
-      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories in the biggest races…"
     },
     {
       "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
       "choice_data_list": [
-        "And I know you're going to continue to amaze \nme. Nothing's ever dampened your drive to win \nsince I met you."
+        "So go for it, Brian!"
       ]
     },
     {
-      "name": "Trainer",
-      "text": "So go for it, Brian!",
+      "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
       "choice_data_list": [
-        "Heh… I won't disappoint!"
+        "So go for it, Brian!"
       ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh… I won't disappoint!"
     },
     {
       "name": "Narita Brian",
@@ -113,7 +116,7 @@
     },
     {
       "name": "Mayano Top Gun",
-      "text": "If I'm not mistaken, you can't pull off the dash you used to do before \nyour injury."
+      "text": "If I'm not mistaken, you can't pull off the running style you used \nbefore your injury."
     },
     {
       "name": "Mayano Top Gun",
@@ -125,19 +128,19 @@
     },
     {
       "name": "Narita Brian",
-      "text": "Hm… It wouldn't be right to say I haven't changed at all."
+      "text": "Hm… It wouldn't be right to say my feelings haven't changed at all."
     },
     {
       "name": "Narita Brian",
-      "text": "I used to run like winning was inevitable. But after losing my dash, \nwinning started to feel impossible."
+      "text": "I used to run like winning was inevitable. But when winning stopped \nbeing a given, it started to feel impossible."
     },
     {
       "name": "Narita Brian",
-      "text": "Yet the farther away victory seemed, the hungrier I got. Every time it \nslipped through my fingers, it's like I was roused from a sleep."
+      "text": "Yet the farther away victory seemed, the hungrier I got. Every time it \nslipped through my fingers, it's like my heart was set ablaze over and \nover."
     },
     {
       "name": "Narita Brian",
-      "text": "I've never been hungrier to run than I am now!"
+      "text": "I am now <i>burning</i> to win!"
     },
     {
       "name": "Mayano Top Gun",
@@ -146,10 +149,6 @@
     {
       "name": "Narita Brian",
       "text": "Good, I'm counting on it!"
-    },
-    {
-      "name": "ナリタブライアン",
-      "text": "ああ、臨むところだ……！"
     }
   ]
 }

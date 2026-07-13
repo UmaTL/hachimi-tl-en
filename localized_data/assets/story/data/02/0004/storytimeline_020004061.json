@@ -2,33 +2,21 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Winning Ticket",
-      "text": "You're going for the Arima Kinen?! That means you'll race against \nyour sister!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "…"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "An opponent who can win against me…"
-    },
-    {
       "text": "Camp finishes without a hitch, and though it's now autumn, the \nTwinkle Series is wrapped in what feels like the heat of midsummer."
     },
     {
       "text": "In the center of that heat are the sisters Narita Brian and Biwa \nHayahide."
     },
     {
-      "name": "Caster",
-      "text": "Narita Brian conquers the Kikuka Sho, beating last year's record by \nBiwa Hayahide!"
+      "name": "Commentator",
+      "text": "Narita Brian conquers the Kikuka Sho, beating last year's record set \nby Biwa Hayahide!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "Before you is the fifth ever Triple Crown champion!"
     },
     {
-      "text": "The younger sister crushes the Japanese Derby, so the elder breaks \nthe record for the Takarazuka Kinen. Then the younger sister breaks \n<I>another</I> record."
+      "text": "The younger sister crushes the Japanese Derby, so the elder breaks \nthe record for the Takarazuka Kinen. Then the younger sister breaks \n<i>another</i> record."
     },
     {
       "text": "They may be competing in different races, but the whole racing \nworld's watching their records as if they're facing each other."
@@ -38,11 +26,11 @@
     },
     {
       "name": "Gold Ship",
-      "text": "Reporters are still crawling all over this place. What a show."
+      "text": "Sheesh, reporters are still crawling all over this place. They don't give \nup easily, huh?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Of course. It's a stunning feat to become a Triple Crown champion."
+      "text": "Of course. Given the title's prestige, it's no wonder they all want an \nexclusive interview with a Triple Crown champion."
     },
     {
       "name": "Mejiro McQueen",
@@ -54,7 +42,7 @@
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Isn't she visiting her sister in the hospital?"
+      "text": "Isn't she visiting Hayahide in the hospital?"
     },
     {
       "text": "Yeah, I told her she should."
@@ -78,34 +66,34 @@
       "text": "That's true. Every time Hayahide achieved something big, the flame \nin Brian's eyes would grow even stronger."
     },
     {
-      "text": "Her desire to compete against her sister was so strong that she \nconsidered even the Triple Crown a mere stepping stone on the way \nto her goal. But now…"
+      "text": "Her desire to compete against her sister was so strong that she \nconsidered even the Triple Crown a mere stepping stone. But now…"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "It's quite a letdown to not be able to race against the person you've \nalways wanted to challenge."
+      "text": "To see your biggest rival unable to so much as enter the race… I'm \nworried about the two of them."
     },
     {
       "text": "Brian…"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I wish I could've stopped the mighty Triple Crown winner."
+      "text": "I do wish I could've been the one to topple the mighty Triple Crown \nchampion."
     },
     {
       "name": "Narita Brian",
-      "text": "Glad to see you're well enough to talk big."
+      "text": "Glad to see you're well enough to talk smack."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "My injury in the Tenno Sho (Autumn) was worse than I realized. Such a \nshame, really… I'd already formulated my winning equation to defeat \nyou."
+      "text": "My injury in the Tenno Sho was worse than I realized. Such a shame, \nreally… I'd already formulated my winning equation to defeat you."
     },
     {
       "name": "Narita Brian",
-      "text": "Only you would think to use equations in a race. This is why I always \ncalled you Big Head Biwa."
+      "text": "Only you would think to use equations in a race. Way too big-brained \nfor a racer."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "M-my head isn't that big!"
+      "text": "M-My head isn't that big!"
     },
     {
       "name": "Narita Brian",
@@ -133,7 +121,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It's the same for you. You're not satisfied with ordinary races because \nof your outstanding talent. You have an appetite that can't be sated."
+      "text": "It's the same for you. You're not satisfied with ordinary races because \nof your outstanding talent. You have a hunger that can't be sated."
     },
     {
       "name": "Narita Brian",
@@ -141,7 +129,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I can't compete with you using mere effort. So I sought for a solution, \nand what I found is the method I use now."
+      "text": "I can't compete with you through mere effort. So I sought a solution, \nand what I found is the method I use now."
     },
     {
       "name": "Biwa Hayahide",
@@ -149,7 +137,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I would've preferred you prove it to me in the Arima Kinen."
+      "text": "…I would've preferred you prove it to me in the Arima Kinen."
     },
     {
       "name": "Biwa Hayahide",
@@ -173,11 +161,23 @@
     },
     {
       "name": "Narita Brian",
-      "text": "And even if you were there, you'd see your work really is just empty \ntheories once I beat you."
+      "text": "…And even if you were there, you'd have seen that they were just \nempty theories once I beat you."
     },
     {
       "name": "Narita Brian",
       "text": "So promise that you'll prove those equations of yours to me one day."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hehe… Sure. I promise."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "…"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "I'll prove Sis's equation myself… at the Arima Kinen!"
     }
   ]
 }

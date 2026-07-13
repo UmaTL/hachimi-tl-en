@@ -1,0 +1,324 @@
+{
+    "title": "Warm Sun Where the Wind Blows",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On my day off, I was on my way to the department store…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Why, this is a coincidence, Trainer. \nWhat are ya up to?",
+            "choice_data_list": [
+                "I was thinking of buying a new suit."
+            ]
+        },
+        {
+            "text": "We were doing a lot more meetings with the public lately, \nso I wanted to freshen up my wardrobe a bit."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "A new suit, hmm… I can see the benefit in buying one. \nNever a bad thing to have more proper-looking clothes on hand."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……… \nSay… Would ya mind if I helped pick out your new suit?",
+            "choice_data_list": [
+                "Oh, are you good with this kind of thing?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, I wouldn't go that far… But if it's a question of finding \nsomething that fits ya, Trainer, I think I might be able to help.",
+            "choice_data_list": [
+                "Thanks! Looks like I'm counting on you."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm………"
+        },
+        {
+            "text": "In the store, I pulled a suit off the rack and held in front of my \nchest, waiting for Lucky Lilac's opinion.",
+            "choice_data_list": [
+                "S-So, what do you think…?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "The silhouette ain't bad… But I think we can find something \nmore your color. Could ya hang tight for a minute? I'll go look."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(You're a real hard worker, Trainer. \nStepping out of your comfort zone and trying to be a better \nfool, just for my sake…)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(This is a good chance to return the favor. \nI'll pick out the best suit in the place. Let's see, which one \nwould fit Trainer's personality the best…)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(It's standard to just go with grey or black… But that ain't \nquite right. Trainer's well put together, but there's also \nthat bit of a playful side…)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Hmm, maybe a splash of beige'll bring out his bright side…!? \nLet's see, I'll take this, and this… We can try out this necktie, \ntoo.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "(Hmm, maybe a splash of beige'll bring out her bright side…!? \nLet's see, I'll take this, and this… We can try out this blouse, \ntoo.)"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I asked the clerk for permission, so would ya kindly try on that \nhere jacket?",
+            "choice_data_list": [
+                "Oh, yeah, of course.",
+                "Oh, yeah, of course."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm… Hmm… Oh, hang on. \nWould ya mind turning to your side for a second?",
+            "choice_data_list": [
+                "Huh? Something wrong?",
+                "Huh? Something wrong?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Heehee. I knew it. If you'll excuse me…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "You've got a wrinkle in your collar… So I'll just…"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "There, that's much better. \nI suppose we should see how you look with everything on."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Hmm… Mmhmm! I'd say you're looking sharp. \nWhat do ya think, Trainer?",
+            "choice_data_list": [
+                "It feels kind of fancy… Cool!",
+                "It feels kind of fancy… Cool!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Mmhmm. The outfit's well put together, and it's got a sprinkle \nof your unique charm. I think ya look great."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, do ya want to put on a pin for your tie? \nI saw some fancy-looking ones on display in that place we passed.",
+            "choice_data_list": [
+                "We're already out shopping, so sure!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Oh, do ya want to put on a broach, too? \nI saw some fancy-looking ones on display in that place we passed.",
+            "choice_data_list": [
+                "We're already out shopping, so sure!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Heehee, then let's go, shall we? \nThey had a whole bunch in stock, so there'll be plenty to \ntry out."
+        },
+        {
+            "text": "Even in this new store, Lucky Lilac continued to carefully \nexamine every option. She was even more dependable than \never, taking the lead while still considering my opinion."
+        },
+        {
+            "text": "Thinking about how much she was doing for my sake \nmade me want to return the favor with a bit of fun——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What do ya think of something like this here pin? \nIt's a bit on the conservative side, but it's still quite lovely——",
+            "choice_data_list": [
+                "Yeah… It'll go perfect with your hair!",
+                "I don't know, I'm scared of bugs…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What do ya think of something like this here broach? \nIt's a bit on the conservative side, but it's still quite lovely——",
+            "choice_data_list": [
+                "Yeah… It'll go perfect with your hair!",
+                "I don't know, I'm scared of bugs…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What?",
+            "choice_data_list": [
+                "Uh… 'This ain't no hairpin!' …Haha?",
+                "Uh… 'Broach, not roach!' …Haha?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Huh?",
+            "choice_data_list": [
+                "(…?)"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Haha, clever with the jokes as always, aren't ya? \nCome on, let's go take a look at something else."
+        },
+        {
+            "text": "Her reaction felt completely different from normal. \n……I guess that joke was every bit as forced as I thought."
+        },
+        {
+            "text": "After that, the two of us continued shopping around, and \neventually finished putting my new outfit together. \nWhen we stopped at a nearby cafe to take a break——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What'll ya be having, Trainer? \nThese pancakes seem quite appetizing.",
+            "choice_data_list": [
+                "Gimme a fluffy one wit extra cream, boss!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………Haha. Just be careful not to eat too much, hear?"
+        },
+        {
+            "text": "She really was acting differently after all. \nLike she was trying to force herself to ignore my jokes… \nWas I really that unfunny?",
+            "choice_data_list": [
+                "I'm sorry. That wasn't funny.",
+                "I'm sorry. That wasn't funny."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Huh? …Oh, no, no. \nThat's not the problem, it's…………"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Er… Trainer. \nYa know ya don't have to force yourself to joke around, right?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "I'm <i>veeeery</i> well aware that ya want to do everything ya can \nto help my running… But ya realize it's our day off."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Whether or not ya joke today has nothing to do with training.",
+            "choice_data_list": [
+                "(……Oh, man, now that I think about it!)"
+            ]
+        },
+        {
+            "text": "It was exactly as she said. If all I wanted to do was improve \nher running, I had no reason to keep joking around on my \ndays off."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……See? No need to push yourself so far. \nYa don't have to worry so much about me. Just enjoy yourself.",
+            "choice_data_list": [
+                "(Just enjoy myself…)"
+            ]
+        },
+        {
+            "text": "I started playing the fool to help her run. That much was true. \nAnd admittedly, I wasn't used to joking around, so I was prone \nto overthinking it. But——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Haha… Ahahaha! …Well… I accept. Now then… \nI still have a lot to learn… But I'm honored to work with ya, \nif you'll have me."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…Er, Trainer?",
+            "choice_data_list": [
+                "I'm not forcing myself."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Hmm?"
+        },
+        {
+            "text": "When I saw her, I saw the face of a cool and composed \nyoung lady. But when that expression loosened, and \nthat composure thawed out… I felt…",
+            "choice_data_list": [
+                "<size=30>If you're enjoying yourself, then I'm happy.</size>",
+                "<size=30>If you're enjoying yourself, then I'm happy.</size>"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Wh——",
+            "choice_data_list": [
+                "Yeah. I just… I want to make you laugh.",
+                "Yeah. I just… I want to make you laugh."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "………!"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……Wait, then was that also——"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…\"It'll go perfect with your hair! That ain't no hairpin!\" \nIf I remember correctly.",
+            "choice_data_list": [
+                "That was the best I could do…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……\"I don't know, I'm scared of bugs… Broach, not roach!\" \nIf I remember correctly.",
+            "choice_data_list": [
+                "That was the best I could do…"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……………Pff. Now I understand."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——I suppose getting a joke to land is a lot \nharder than ya might think.",
+            "choice_data_list": [
+                "It sure is. But I'll keep trying to improve!",
+                "It sure is. But I'll keep trying to improve!"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "……You will? \nWell, I'm certainly looking forward to it."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "This roasted tea chiffon cake looks delicious. \nI live for this sort of sickly-sweet cake.",
+            "choice_data_list": [
+                "What would go with it… Curry, maybe?",
+                "What would go with it… Curry, maybe?"
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "——!",
+            "choice_data_list": [
+                "……Just joking."
+            ]
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "…………… …Oh, good grief."
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "What da heck! Haha."
+        }
+    ]
+}

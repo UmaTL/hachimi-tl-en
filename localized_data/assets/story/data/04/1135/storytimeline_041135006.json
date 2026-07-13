@@ -1,0 +1,274 @@
+{
+  "title": "A Bag with Curiosity and a Blank Map",
+  "text_block_list": [
+    {
+      "text": "It's my day off. Since the weather was nice, \nI decided to go for a walk…"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yo, what a coincidence. \nYou heading out here just now?",
+      "choice_data_list": [
+        "Yeah, and you?",
+        "Yeah, and you?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. Just to a place that \nslightly caught my eye.",
+      "choice_data_list": [
+        "Caught your eye?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah… alright. If you don't have \nanything to do, care to join me?"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "You took me on a fun journey the other day after all. \nLet me repay you by taking you on one."
+    },
+    {
+      "text": "I then ended up following Stay Gold, \nthe place we ended up was…",
+      "choice_data_list": [
+        "Huh, a zoo?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yup… Didn't I tell you? \nI've always loved animals."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Whenever I learnt something new in a picture book, I always ran towards the mountains to find the real thing. That was my everyday life when I was little.",
+      "choice_data_list": [
+        "A bundle of curiosity and energy, huh.",
+        "A bundle of curiosity and energy, huh."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah. \n…Anyways, let's go."
+    },
+    {
+      "text": "After that I followed Stay Gold and we made our rounds around the park and ended up in the \"Savannah Area\".",
+      "choice_data_list": [
+        "Wha—, the giraffes and cheetahs are together!?"
+      ]
+    },
+    {
+      "text": "Having been presented with an unbelievable scene, I let my jaw drop. And that wasn't all, I saw that there were other herbivores nearby too."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hm? Yeah, it's a mixed enclosure. \nPretty interesting, right.",
+      "choice_data_list": [
+        "Won't the giraffes get eaten?",
+        "Won't the giraffes get eaten?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Nope. Cheetahs won't hunt anything that's bigger than them. \nThat habit is a great benefit to them."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Well, it'd be more difficult if it was lions instead. \nThose guys will hunt larger animals in packs after all.",
+      "choice_data_list": [
+        "Whoa! That's really cool!",
+        "Whoa! That's really cool!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Right? There's so many exhibits here that take full advantage of these animals' behaviors. And there's still more to come."
+    },
+    {
+      "text": "As she finished her sentence, the exhibit before me suddenly looked more sparkly. The curious part of my brain throbbed to life.",
+      "choice_data_list": [
+        "Behaviors… ah, there's info on this sign!"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "A sign? Now that you mention it, \nI haven't seen one in a while."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Oh, something new's being added! \n\"The development of mixed enclosures\", huh.",
+      "choice_data_list": [
+        "Do you mind if I take my time reading?",
+        "Do you mind if I take my time reading?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Fine by me, I was going to do the same thing. \nI'm interested in it."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "We sure took our time there. \nIt's now… 2pm, right."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I say it's the right time to get a meal, no?",
+      "choice_data_list": [
+        "Sounds good! What are we going to eat?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Sorry, the destination's already been decided. \nWhat type of place it is… well, you'll just have to find out when we get there."
+    },
+    {
+      "text": "—An unfamiliar and spicy smell hit my nose. Words I've never seen before and dishes that I've never seen before."
+    },
+    {
+      "text": "After following Stay Gold and arriving at a \"Multinational Restaurant\", and facing the unknown fills me with— a mysterious sense of adventure.",
+      "choice_data_list": [
+        "Stego… what did you just eat?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hm, oh this? This is \"Pak Pet Tod\". \"Pak\" means mouth, \"Tod\" means fried… and \"Pet\" means duck."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "All together it's \"Fried Duck Bills\". \nIt's like a rice cracker and it's pretty good, you know?"
+    },
+    {
+      "text": "It's just like she said, the bill… or rather, it had the shape of a duck's head looking at it from below."
+    },
+    {
+      "text": "It was still pretty fresh… While giving thanks life, I timidly took a single bite.",
+      "choice_data_list": [
+        "…Oh?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh?",
+      "choice_data_list": [
+        "I-It might be a rice cracker… and it's good."
+      ]
+    },
+    {
+      "text": "I thought it'd have a much more weird and strange taste, but I was surprised with how delicious it was. Then a thought came to my mind.",
+      "choice_data_list": [
+        "If it's like a rice cracker, then it'd be good with soy sauce."
+      ]
+    },
+    {
+      "text": "With that flash of inspiration I called for a waiter, obtaining the soy sauce. Putting some on the duck bill, I gave it a try…",
+      "choice_data_list": [
+        "It's delicious!",
+        "It's delicious!"
+      ]
+    },
+    {
+      "text": "Ha! Hey, hey, that's pretty interesting! \nGimme a bite of that!",
+      "name": "Stay Gold"
+    },
+    {
+      "text": "(Nom)"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Mmmmm! Mmmm, Mmmm! \nOh that's good! Soy sauce works so well!",
+      "choice_data_list": [
+        "Right! Let's try it with the chili sauce!"
+      ]
+    },
+    {
+      "text": "Compared to how I was backing away from these unfamiliar flavors… I now understood this way of eating and my appetite had increased ten-fold!"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Oh yeah… The texture and flavor… \nit looks like this would go well with soy sauce too."
+    },
+    {
+      "text": "(Nom)"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Mmm! Mmm mmm!",
+      "choice_data_list": [
+        "Haha! I gotta try some after, but for now…",
+        "Haha! I gotta try some after, but for now…"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Hm? \nWhat's up?"
+    },
+    {
+      "text": "Looking at the duck bill on the plate made me think. \nEven though it might not look edible at a glance—",
+      "choice_data_list": [
+        "Why did you want to eat duck bill?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…Haha! Well, you see… \nI remember being asked that a while ago."
+    },
+    {
+      "text": "So I replied back saying \"Thinking of eating eggs raw is even weirder\".",
+      "choice_data_list": [
+        "Right, is it weird?",
+        "Right, is it weird?"
+      ],
+      "name": "Stay Gold"
+    },
+    {
+      "text": "Japan is a country surrounded by the sea after all. Since we have so many opportunities to eat fresh fish, we don't bat an eye to eating raw foods.",
+      "name": "Stay Gold"
+    },
+    {
+      "name": "Stay Gold",
+      "text": "There's also… right. \nThere's even a cultural reason—"
+    },
+    {
+      "text": "When we left the restaurant, the sun had completely set. Passing the time restoring both our body and spirits, we were returning back at our own pace."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'm glad—",
+      "choice_data_list": [
+        "Hm?"
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "I'm glad — that I ran into you at the school gate today."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Your curiosity took me far today."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "…It truly was… a great day.",
+      "choice_data_list": [
+        "Same here."
+      ]
+    },
+    {
+      "text": "Thanks to Stay Gold, I discovered some new things. \nExperienced many new things."
+    },
+    {
+      "text": "Although we didn't go across the ocean, \nit felt as though we went on an journey.",
+      "choice_data_list": [
+        "I'd like to do this again sometime.",
+        "I'd like to do this again sometime."
+      ]
+    },
+    {
+      "name": "Stay Gold",
+      "text": "Yeah, me too."
+    },
+    {
+      "name": "Stay Gold",
+      "text": "No matter where we go, \nas long as you're there it's sure to be fun."
+    }
+  ]
+}

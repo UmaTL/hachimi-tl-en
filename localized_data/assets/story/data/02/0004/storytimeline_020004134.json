@@ -2,19 +2,19 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "It's finally time for the monumental end-of-year race, the Arima Kinen!"
     },
     {
-      "name": "Caster",
-      "text": "Fans are excited to see the sisters Biwa Hayahide and Narita Brian \nface each other after their previous matchup fell through!"
+      "name": "Commentator",
+      "text": "Fans are excited for today's sisterly showdown. Ever since their last \nmatchup fell through, we've been waiting to see Biwa Hayahide \nversus Narita Brian!"
     },
     {
-      "name": "Caster",
+      "name": "Commentator",
       "text": "The stands are packed! This is the race that no one wants to miss!"
     },
     {
-      "text": "<I>Cheers!</I>"
+      "text": "Wooooo!"
     },
     {
       "name": "Biwa Hayahide",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I've completed my winning equation. Don't think I'll concede this \nvictory just because you're my sister."
+      "text": "I've completed my winning equation. Don't think I'll concede this race \njust because you're my sister."
     },
     {
       "name": "Narita Brian",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<I>Chuckle…</I> True enough. We've been heading to this moment since we \nwere kids."
+      "text": "Heheh, true enough. We've been destined for this since we were kids."
     },
     {
       "name": "Biwa Hayahide",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Narita Brian",
-      "text": "I'd like nothing more!"
+      "text": "Bring it on!"
     }
   ]
 }
