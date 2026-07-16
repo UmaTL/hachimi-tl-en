@@ -1,0 +1,156 @@
+{
+    "title": "The Gourmet Fair Project Begins!",
+    "text_block_list": [
+        {
+            "name": "Cesario",
+            "text": "The survey response sheets, the information magazines… I believe these are all the materials."
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes. With this amount… We'll have to make a few trips. Leave carrying these boxes to me――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow, you all have a ton of stuff to carry! Please, let me help you."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A gourmet fair… Are you preparing for it?"
+        },
+        {
+            "name": "Cesario",
+            "text": "Yeah. It's a collaboration with the racecourse, a campaign to sell Horsegirls' highly recommended gourmet foods. We're the executive committee representing the academy."
+        },
+        {
+            "name": "Durandal",
+            "text": "We were just about to check the survey results and compile the information. First up… We need to pick out the most popular gourmet spots."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I see… So the fans will get to taste our favorite foods too!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We'll get to share our feelings of happiness through food… Hehe, what a heartwarming project."
+        },
+        {
+            "name": "Cesario",
+            "text": "We've gathered so many survey responses that are a joy just to read. We have a responsibility to compile them properly."
+        },
+        {
+            "name": "Still in Love",
+            "text": "And then… We have to gather information on each store… And figure out the criteria for narrowing down the candidate stores…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Whoa…! Still, you were here too…!"
+        },
+        {
+            "name": "Still in Love",
+            "text": "Hehe… I've been here the whole time. I'm… On the executive committee, too…"
+        },
+        {
+            "name": "Cesario",
+            "text": "In any case, we should start by tallying up the results and deciding on the slots for the collaboration stores."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Still, there's quite a variety. Rice dishes, noodles, grilled foods, sweets… I wonder how we should narrow it down."
+        },
+        {
+            "name": "Cesario",
+            "text": "In these cases, we ought to establish some guidelines first… Now then, what should those guidelines be?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Ah, in that case, what about \"taste\"? Our very own taste buds!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If we go to the most voted stores one by one and actually eat there, I think it'd be easier to get an idea for the fair."
+        },
+        {
+            "name": "Cesario",
+            "text": "――! …You're right. It wouldn't do for us to recommend food to the fans that we haven't even tasted ourselves."
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes. As executive committee members, we must \napproach all these foods with sincerity… Shall we start making our rounds?"
+        },
+        {
+            "text": "One afternoon, I stopped by a ramen shop for a late lunch. It's popular at the academy and is even the talk among the trainers, but――"
+        },
+        {
+            "name": "Cesario",
+            "text": "Hmm… So this is the number one most popular dish, the Super-Sized Extra-Carrot Ramen. It's quite a hefty portion."
+        },
+        {
+            "name": "Durandal",
+            "text": "Yes. Rather than a light snack to eat while watching a race, this is the type of gourmet food you sit down and take your time with outside of race hours."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It sure is crowded, as expected of a popular store. There are so many people and Horsegirls here――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Ah, Trainer from the academy! Could it be that this place is popular among the trainers, too?",
+            "choice_data_list": [
+                "Eh!? Y-Yeah, it is…!?"
+            ]
+        },
+        {
+            "text": "I was surprised to be called out to so suddenly, but… It's true that word of mouth at the academy has spread to the trainers as well. When I told them as much――"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I see! With this kind of reception, it seems like it'd be popular with the customers at the racecourse too. Maybe this shop is already a sure thing?",
+            "choice_data_list": [
+                "…Are you investigating something?"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "Yes. We're currently reviewing potential collaboration candidates for the gourmet fair project.",
+            "choice_data_list": [
+                "<size=30>You're all on the executive committee? That's impressive</size>",
+                "<size=30>You're all on the executive committee? That's impressive</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, no, no! I'm not on the executive committee. These three are the members."
+        },
+        {
+            "name": "Durandal",
+            "text": "Buena was only supposed to help us carry materials… But thanks to her kindness, she ended up accompanying us all the way here."
+        },
+        {
+            "name": "Still in Love",
+            "text": "She's already investigated multiple stores with us… And she's provided so many useful opinions…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oh, stop it! I just got so moved by the idea of the gourmet fair. I wanted to help out somehow～ And before I knew it, here I am."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Besides, thinking about how we can make things enjoyable for all the fans～ It made it fun for me too, I guess.",
+            "choice_data_list": [
+                "<size=38>…Why not just join the executive committee?</size>"
+            ]
+        },
+        {
+            "name": "Cesario",
+            "text": "True… In fact, your mindset is completely that of an executive committee member already. If it's alright with you, Buena, we'd love to have you."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Really? I'd love to…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ehehe. Then, as a member of the executive committee… I'm looking forward to working with you all!"
+        }
+    ]
+}
