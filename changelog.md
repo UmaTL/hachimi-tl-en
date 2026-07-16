@@ -1,17 +1,22 @@
 ## Notice
 
-This might not be updated until automated changelog functionality added later.
-For now, please check our Discord for the latest and most accurate update information.
+Updates can be slow and incomplete.
+Always check the UmaTL Discord for the latest and most accurate information.
 
-## 2025/06
+## 2026/07
+- Import 60+ home interactions.
+- Bond story: Chrono Genesis.
+- Ramen scenario.
+
+## 2026/06
 * Main story improvements & fixes.
-* Event Stories: "Crimson Roar, White Flame Bloom".
+* Event stories: "Crimson Roar, White Flame Bloom".
 * Imported duo home interactions.
 * Edit & add new racewear.
 * Add outfit descriptions.
 * Fix & improve a lot of text formatting in Hachimi.
 
-## 2025/05
+## 2026/05
 
 * Bond stories: Admire Groove, Stay Gold, Lucky Lilac
 * Card events: Neo Universe R.
@@ -20,7 +25,7 @@ For now, please check our Discord for the latest and most accurate update inform
 * Edited old special seasonal event stories.
 * Fixed some errors with save data slot names.
 
-## 2025/04
+## 2026/04
 
 * Bond stories: Royce & Royce
 * Career events: Stay Gold part 2.
