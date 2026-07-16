@@ -1,0 +1,224 @@
+{
+    "title": "Tying Together a Blue Spring",
+    "text_block_list": [
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "…My dream."
+        },
+        {
+            "name": "Commentator",
+            "text": "Symboli Rudolf! Symboli Rudolf comes up from the inside! \nRudolf is coming! The undefeated Triple Crown Horsegirl is here, right now—!"
+        },
+        {
+            "name": "Commentator",
+            "text": "Symboli Rudolf takes the Triple Crown! She's achieved the Triple Crown!! An immortal record! For this Horsegirl who has decided to win, there is an \"absolute\"!!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ever since I saw that Horsegirl. Ever since then, I—!!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Mmf… Ngh… Mmm—? \nYaaawn… What time is it…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "3 AM!?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "…Mnyam. Is something the matter…? \nDear Tsuru～"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "N-Nothing! I'm sorry! \nI just suddenly woke up…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "(Ugh～ Why at this time of all times? \nDoes lacking stamina mean I can't even sleep～!?)"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "(Urgh… I need to sleep! Go to sleep!! \nSleeping is part of training, after all! Plus today—!)"
+        },
+        {
+            "text": "A few days have passed since the selection race. As if to fill the gap in knowledge I couldn't gain that day, I've spent days gathering information on the Horsegirls. However—",
+            "choice_data_list": [
+                "<size=38>(…\"Tsurumaru Tsuyoshi\")</size>"
+            ]
+        },
+        {
+            "text": "The face of the Horsegirl who missed her chance that day, just like me, won't leave my mind. Guilt and regret. …Such disrespectful emotions swirl within me."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "You're becoming quite the rumor around here～! They're saying you're a really motivated rookie! Doing all that research on the Horsegirls and showing up to study sessions!"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "So I'll give you a special piece of info. The girls from the generation that ran in the selection race the other day… Apparently, they're at the training track right now!"
+        },
+        {
+            "text": "I hurriedly run over to the stands at the training track. They're not on the turf… They're not on the dirt either. \nThat leaves—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Oh, from the other day… \nAre you here to observe, Trainer?",
+            "choice_data_list": [
+                "<size=32>…! Y-Yeah! I heard your generation was running…</size>",
+                "<size=32>…! Y-Yeah! I heard your generation was running…</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Then right this way, over here! \nSpe and the others are at the hill slope!"
+        },
+        {
+            "text": "Led by the hand by Tsurumaru Tsuyoshi, we move to a spot with a good view of the slope. Two of the girls I had my eye on earlier were currently running side-by-side."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Wow～～! Looks like they're going to set another great time～～! What do you think!? From a trainer's perspective, how do those two look!?",
+            "choice_data_list": [
+                "<size=38>Y-Yeah. They're amazing, but… Um…</size>",
+                "<size=38>Y-Yeah. They're amazing, but… Um…</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "…? Trainer?",
+            "choice_data_list": [
+                "<size=30>Actually… I was wondering if you were going to run too</size>",
+                "<size=30>Actually… I was wondering if you were going to run too</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "M-Me…!? Wha!? …Whoa～～!?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Should I run!? I'll go change right now! \nIf it's mental training, I can easily do 3000m—Hk!? Gweh!!",
+            "choice_data_list": [
+                "<size=38>A-Are you okay!?</size>"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heeey, Tsuru! Weren't you supposed to be resting your body until today! Ah… Should I bring you some water?",
+            "choice_data_list": [
+                "<size=38>Huh. Tokai Teio!?</size>"
+            ]
+        },
+        {
+            "text": "The \"Emperor,\" Tokai Teio. Among the classic Triple Crown route, she's won the 『Satsuki Sho』 and the 『Japanese Derby』, making her a \"Two-Crown Horsegirl\"!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Heeey, you! Tsuru is a fellow President fanatic, just like me! Please don't push her too hard～",
+            "choice_data_list": [
+                "<size=38>『Fellow President fanatic』…?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Haah… Haah… Ehehe, truth is, we both look up to President Symboli Rudolf…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Have you ever seen it, Trainer? The moment President Rudolf became the undefeated Triple Crown Horsegirl!",
+            "choice_data_list": [
+                "<size=38>Yeah, I remember that incredible feat too</size>",
+                "<size=38>Yeah, I remember that incredible feat too</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Right!? I mean, she was just so \"strong\"… Truly a masterpiece. Even though I'd watched so many other Horsegirl races before then—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "—I couldn't help but dream. I wanted to be like her. I wanted to follow in her footsteps… To be the kind of \"Triple Crown Horsegirl\" that carries on her legacy—"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "…Tsuru asked the President too! \nShe said she wanted to run with her!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Yeah, yeah, even though I hadn't even come into my own yet. \n…But the President even invited me to run side-by-side. We took turns—!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah!! That's right, the video from back then!! Um, Trainer. \nI can show you my running through that video!!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I was in perfect health at the time! So I actually ran pretty well. Here's the video… Would you like to watch it?",
+            "choice_data_list": [
+                "<size=38>—! Can I see it?</size>",
+                "<size=38>—! Can I see it?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "If you don't mind, absolutely! It's from a while ago, so my running is rougher than it is now, though."
+        },
+        {
+            "text": "—I was captivated by the footage."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ehehe, what do you think? She held back a lot for me, but… Still, even a little! It looks pretty good, right!",
+            "choice_data_list": [
+                "<size=38>Y-Yeah…!</size>",
+                "<size=38>Y-Yeah…!</size>"
+            ]
+        },
+        {
+            "text": "What captivated me wasn't just her high level of talent. \nIt was her attitude when facing Symboli Rudolf."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "\"Hah… Ahahaha—! \nNot yet… I'm not done yeeet!!\""
+        },
+        {
+            "text": "—I've heard rumors. That Symboli Rudolf was so overwhelmingly strong, her running partners would feel the difference so acutely it brought them to despair. But, she…"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "『Here I go, President!! \nI can still—keep going!! —Oooooooooohhhhh!!』",
+            "choice_data_list": [
+                "<size=38>What a \"strong\" girl…!!</size>",
+                "<size=38>What a \"strong\" girl…!!</size>"
+            ]
+        },
+        {
+            "text": "Watching her run, brimming with instinct and potential, my true feelings slip out. Pure admiration… Just my honest thoughts.",
+            "choice_data_list": [
+                "<size=38>I really want to see more of your races…!</size>",
+                "<size=38>I really want to see more of your races…!</size>"
+            ]
+        },
+        {
+            "name": "Tsuyoshi & Teio",
+            "text": "—…! \n……Hmm?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "If you're that interested in each other, why don't you and Tsuru sign a provisional contract?"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Huh!? Teio!? \nNo, no, the Trainer is busy, so…",
+            "choice_data_list": [
+                "<size=38>I-I'd love to! Please!</size>",
+                "<size=38>I-I'd love to! Please!</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Eeehk!? A-Are you sure…?"
+        }
+    ]
+}
