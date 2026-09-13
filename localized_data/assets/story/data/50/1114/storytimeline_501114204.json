@@ -1,0 +1,311 @@
+{
+    "title": "Before the Shuka Sho",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Red Desire",
+            "text": "Hah…! Hah…!\nHaaah… haaah… haaah…!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Hah…\n…What do you think…, Cafe…?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "…I'm surprised."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "All I taught you was how to focus and confront\nyourself. And yet you… drove yourself all the\nway to very limit."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Right now… there's another world behind you."
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Ah, Cafe. You have my deepest gratitude."
+        },
+        {
+            "name": "Red Desire",
+            "text": "So this… is who I truly am."
+        },
+        {
+            "name": "Red Desire",
+            "text": "My heart has already drawn close to <i>that\nplace</i>. Now all that remains… is for this body\nto overcome its trial."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the Shuka Sho. Kyoto Racecourse\nwas in an absolutely unbelievable frenzy."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Buena Vista! Definitely Buena Vista!! Did you\nsee her runs in the Oka Sho and Oaks!? It\ndoesn't even feel like she can lose!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Yeah, but Red Desire looks seriously ready\ntoo…! The awakening of the saint, I can't wait\nto see it!"
+        },
+        {
+            "name": "Fans",
+            "text": "Buenaaaaa!! Show us that breathtaking view!!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…This is insane. Every single one of 'em's\nburning up."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "According to <i>The 1st</i>, Buena still has\noverwhelming support… Looks like her streak\nat the top continues as well."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Desire is certainly formidable… and yet,\neven so, most people still believe in Buena.\n…Fascinating."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh… I get it now. So the head of the\nExpedition Committee herself, the great\nDream Journey who is always charging at the\nfrontlines…",
+            "color_text_info_list": [
+                "Dream Journey"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…came all the way to Kyoto because of Buena\nVista, huh? You're paying real close attention\nto her."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Of course. After all, she's standing at the\ncenter of the storm, the center of an era in\nthe making."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "And you feel it too. That's why you're here,\nisn't it?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…The Kikuka Sho's next, so I figured I'd watch\nwhile I'm here…"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Nah. I ain't gonna hide behind excuses. Yeah.\nI came to see her."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Outta everyone in our generation, she's the\nbest prey there is. And if she can answer all\nthis madness…"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…then she's the real deal."
+        },
+        {
+            "name": "Monologue",
+            "text": "(<i>Roooooaar……!!!!</i>)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!!",
+            "choice_data_list": [
+                "(Yeah… this really is <i>hot</i>…!)",
+                "(Yeah… this really is <i>hot</i>…!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The overwhelming excitement pierced against\nmy skin… and Buena Vista was surely feeling\nan even larger wave… something far greater."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah…"
+        },
+        {
+            "name": "Monologue",
+            "text": "—Win!!\n—Give us a blazing race!!\n—A battle to the very limit!!!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…I have to win. A blazing race. A battle at\nthe limit…!)",
+            "choice_data_list": [
+                "…Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!",
+            "choice_data_list": [
+                "Want some soft serve?",
+                "Want some soft serve?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……Huh?",
+            "choice_data_list": [
+                "Something like what we had in Hokkaido?",
+                "Something like what we had in Hokkaido?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hokkaido…"
+        },
+        {
+            "name": "Monologue",
+            "text": "(<i>Saaahhhh……</i>)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……",
+            "choice_data_list": [
+                "Since it's Kyoto, how about matcha flavor?",
+                "Since it's Kyoto, how about matcha flavor?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…No, I'm okay!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But instead, after the race… wanna get some\ntogether?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A little victory reward! What do you think?",
+            "choice_data_list": [
+                "…Looks like you're okay now!",
+                "…Looks like you're okay now!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Of course! From here on, I think I can accept\nit all head-on."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah. So, you see…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Could you fill my heart… with your expectations\ninstead?",
+            "choice_data_list": [
+                "…Huh?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That way, I won't lose myself… I'll be able to\nrun the way I should."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If I can give it everything I've got… then I'm\nstrong. Right?",
+            "choice_data_list": [
+                "Yeah! …Show me the greatest view!",
+                "Yeah! …Show me the greatest view!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah…!!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Wooaaaaaaaah…!!!)"
+        },
+        {
+            "name": "Fans",
+            "text": "\"Buenaaa!!\"\n\"With those legs, you can absolutely win!!\""
+        },
+        {
+            "name": "Fans",
+            "text": "\"Go for it!!\"\n\"Show us a race that'll go down in history!!\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah. I'm okay now!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Everyone, thank you so much for always\nsupporting me!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We've finally made it to the Shuka Sho, the\nlast race of the Triple Tiara route. And today…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'll bring you a breathtaking view… greater\nthan any race before it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Ooooooohh—!!!!)"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Can you hear my voice?"
+        },
+        {
+            "name": "Spectator C",
+            "text": "…W-What the—? There's… light shining\nbehind her…?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "<i>That place</i> lies just ahead. I have come close\nenough to reach it… simply by stretching out\nmy hand."
+        },
+        {
+            "name": "Red Desire",
+            "text": "And now… I have one request for all of you."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Look upon me. Revere me… and with your\nhearts, lift me higher still."
+        },
+        {
+            "name": "Red Desire",
+            "text": "From this moment on… place all your prayers\nin my hands."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Desire. You've worked so, so hard… haven't\nyou."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I can feel it so clearly. That determination to\nmake it happen… stronger and stronger."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey, Desire. Can you feel my feelings too?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Everyone believes in me… There are people\nwaiting for that breathtaking view."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "My world is right here. And I'll answer\neveryone's hopes myself!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Hehe. Ahaha…! You truly are… overflowing\nwith light."
+        },
+        {
+            "name": "Red Desire",
+            "text": "That is exactly why you are the trial bestowed\nupon me. Now then, let us begin!!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "I am the one who shall…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Reach it!"
+        },
+        {
+            "name": "Buena & Desire",
+            "text": "—The breathtaking view we seek!\n—The world I was meant to reach!"
+        }
+    ]
+}

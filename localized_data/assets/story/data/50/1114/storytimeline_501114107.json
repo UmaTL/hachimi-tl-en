@@ -1,0 +1,324 @@
+{
+    "title": "Valentine's Day",
+    "text_block_list": [
+        {
+            "name": "Buena Vista",
+            "text": "Hmm, hmm, hmm…♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Mm, it's coming along nicely! This year's Valentine's chocolate for Trainer should turn out delicious too♪)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe. I'm so happy I've been able to keep doing this every year…"
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"Big Brother, this… Buu-chan made it. I'll give it to you, okay?\""
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"Big Sister, this… Buu-chan made it. I'll give it to you, okay?\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Back then, Mom did most of the work. All I really did was melt the chocolate and pour it into the mold.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Once I could make things on my own, I started going bigger every year…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Ta-da! This year I made a chocolate macaron tower!\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"So, um… There are five more at home… Do you think you can finish them?\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(I may have gotten a little too carried away. After that, we agreed I should tone things down a bit…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(The next year, we made simple molded chocolates together instead… Hehe, that was fun too.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…This year though, I think it'll end up being a little extravagant again. But… I can't really help it, can I?)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Lately… Trainer's only become more and more someone I can rely on.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I can't help wanting to put my whole heart into it… I hope those feelings come across."
+        },
+        {
+            "text": "On Valentine's morning, I check the drawer in my desk. Inside sits the gift box I'd prepared in return for Buena Vista's chocolate.",
+            "choice_data_list": [
+                "(She never forgets to make one every year.)"
+            ]
+        },
+        {
+            "text": "She might not have made one this year. But even if she hadn't, I could still give her this as a thank-you for everything she does. Just as I'm thinking that…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer, excuse me!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Happy Valentine's Day!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "This year, Flash taught me how to make Black Forest cake.",
+            "color_text_info_list": [
+                "Flash"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It uses cherries soaked in sake, so it has a sweet and slightly tangy flavor. I think it turned out perfectly♪",
+            "choice_data_list": [
+                "I can't wait to try it. Thanks, as always.",
+                "I can't wait to try it. Thanks, as always."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe. You're welcome!",
+            "choice_data_list": [
+                "Well then, I've got something for you too.",
+                "Well then, I've got something for you too."
+            ]
+        },
+        {
+            "text": "After giving her my gift, we chat for a little while before…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, I'd better get going. See you after school!",
+            "choice_data_list": [
+                "Yeah, good luck with your class!",
+                "Yeah, good luck with your class!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "………"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Huh? Was that… really enough?)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Everything went like it always does… I'm sure he was happy, but…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Did my feelings not come across?"
+        },
+        {
+            "text": "By the end of training that afternoon, Buena has stayed remarkably focused. But once we take a break…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hmm…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Mmm.",
+            "choice_data_list": [
+                "…Buena? Is something bothering you?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eep!?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…N-No! Not at all… that's totally not true, you know?",
+            "choice_data_list": [
+                "(Ah… she definitely dodged it.)",
+                "(Ah… she definitely dodged it.)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! S-Stretch! I have to stretch!",
+            "choice_data_list": [
+                "(She's unusually easy to read today…)"
+            ]
+        },
+        {
+            "text": "Besides, it's rare for someone as honest as Buena to keep something to herself. From what I can tell, it doesn't seem serious, though…"
+        },
+        {
+            "text": "Come to think of it, she's been busier than ever lately with media appearances. Maybe the packed schedule is finally catching up with her.",
+            "choice_data_list": [
+                "…Maybe I should ask her out for a change of pace.",
+                "…Maybe I should ask her out for a change of pace."
+            ]
+        },
+        {
+            "name": "Vivlos",
+            "text": "Ooh, does that make it a date～?",
+            "choice_data_list": [
+                "Wha—!?"
+            ]
+        },
+        {
+            "name": "Transcend",
+            "text": "Yo～. Figured something was up. So I brought Miss Vivlos, who's aways up on the latest trends.",
+            "choice_data_list": [
+                "(What exactly did you figure out…!?)",
+                "(What exactly did you figure out…!?)"
+            ],
+            "color_text_info_list": [
+                "Vivlos"
+            ]
+        },
+        {
+            "name": "Vivlos",
+            "text": "Hey, could this be… a Valentine's return date!? <i>Kyaaa</i>～!"
+        },
+        {
+            "name": "Vivlos",
+            "text": "Well, I know the perfect place♪\nYou see…"
+        },
+        {
+            "text": "And so, swept up by Vivlos's overwhelming enthusiasm… I end up taking Buena Vista there the following evening."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "This is… Dubai!?",
+            "choice_data_list": [
+                "…Well, a shopping district modeled after Dubai.",
+                "…Well, a shopping district modeled after Dubai."
+            ]
+        },
+        {
+            "text": "Vivlos told me about a large shopping district that had recently opened. One section of it was designed to resemble the city."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow! It really feels like we've traveled there…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hey. Someday, I'd love to see the real thing."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The sparkling night skyline… just the two of us…",
+            "choice_data_list": [
+                "Yeah. I'd like that too…",
+                "Yeah. I'd like that too…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…So, why did you bring me here today?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "At first I thought it was your Valentine's return gift… but you already gave me that.",
+            "choice_data_list": [
+                "You've been working so hard lately, I just wanted you to take a break."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you. You really do notice everything about me."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're right… Maybe I really am a little tired? I've been overthinking the smallest things…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I guess that's all it was.",
+            "choice_data_list": [
+                "All what?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No, it's okay! After all…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You've always understood how I feel, don't you… Trainer?",
+            "choice_data_list": [
+                "…Seriously, what are you talking about?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, never mind♪\nCome on, let's enjoy Dubai!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…But, is that really all…?",
+            "choice_data_list": [
+                "Huh…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…You know? Not everything stays the way it was."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm taller than I used to be… and my heart… it feels so much more than it did back then."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And my feelings for you… they've grown so, so much too.",
+            "choice_data_list": [
+                "Buena…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I poured all of those feelings into my Valentine's gift."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Every year… I've tried to send them to you… honestly… to you alone.",
+            "choice_data_list": [
+                "…Thank you. I understand now…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Do you really?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Just kidding, hehe… I'll believe you. I mean, I can tell by the look in your eyes."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you, for taking my feelings seriously. You always have, but… even more so now, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Little by little, things change. I change. You change… And so do we."
+        },
+        {
+            "text": "The Buena Vista standing before me smiles softly… Looking at her now, she seems just a little more grown up than she did yesterday."
+        }
+    ]
+}

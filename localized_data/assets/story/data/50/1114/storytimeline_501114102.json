@@ -1,0 +1,301 @@
+{
+    "title": "New Year's Shrine Visit",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Buena Vista has entered her Senior year.\nHoping that this year would be another\nsuccessful one, the two of us planned to visit\na shrine together for the New Year."
+        },
+        {
+            "text": "Or at least, that was the plan."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Huh? You're both back already? Weren't you\ngoing to visit the shrine?",
+            "choice_data_list": [
+                "Well, on the way there…"
+            ]
+        },
+        {
+            "name": "Passerby A",
+            "text": "Ah! Isn't that Buena Vista!? Wow, it's really\nher!"
+        },
+        {
+            "name": "Passerby B",
+            "text": "Huh!? Buena!? Waaah, she's so cute!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hello! Happy New Ye—"
+        },
+        {
+            "name": "Everyone",
+            "text": "\"That's Buena Vista!\" \"Where!?\"\n\"I watched your race!\"\n\"Can I get a picture!?\"\n\"Oh my gosh!\" \"Buenaaa!!!\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eep…!?"
+        },
+        {
+            "text": "Before we knew it, she'd been completely\nsurrounded by fans, and we ended up heading\nback to avoid causing a commotion."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Goodness, that must've been quite the ordeal.\nBuena's incredibly popular right now, after\nall…"
+        },
+        {
+            "text": "She wasn't exaggerating. Buena Vista's\npopularity had already grown beyond the\nworld of racing. At this point, she could be\ndescribed as… <i>the Heroine of the Era</i>."
+        },
+        {
+            "name": "Talk Show Host",
+            "text": "It's time for the midday news! And our first\ntopic today is… this!"
+        },
+        {
+            "name": "Talk Show Host",
+            "text": "Taking the internet by storm! Who is this \n\"always giving her best\" horsegirl everyone's\ntalking about?"
+        },
+        {
+            "name": "Interviewer",
+            "text": "We've come to the renowned horsegirl\ntraining school, Tracen Academy! And the\nperson we'd like to introduce today is… ah,\nthere she is!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "Buena Vistaaa!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yes! Um…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're watching <i>Midday Talks</i>! Nice to meet\nyou everyone, I'm Buena Vista! Thank you for\nhaving me today!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "Here she is, Buena Vista! Her popularity\nexploded after her performance in one of\nJapan's biggest races, the Arima Kinen!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "For a time, she completely dominated\nUmatter's trending topics! She truly is… <i>the\nHeroine of the Era</i>!",
+            "color_text_info_list": [
+                "Umatter"
+            ]
+        },
+        {
+            "name": "Interviewer",
+            "text": "Today, we'll be taking a special look at the\ndaily life of this popular horsegirl♪"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "That show was fun, wasn't it!? Seeing\n<username> on there too was a nice surprise.",
+            "choice_data_list": [
+                "I refused at first, but Buena insisted…"
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "That show was fun, wasn't it!? Seeing\n<username> on there too was a nice surprise.",
+            "choice_data_list": [
+                "I refused at first, but Buena insisted…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If they're going to take a closer look at my\ndaily life, then having my trainer there is\nessential, isn't it?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Besides… I feel more confident when you're\nwith me. Though I never imagined I'd end up\nchatting on a variety show of all things…"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "They're practically treating you like a celebrity\nnow. I have it set to record anything with your\nname on it, but lately I can't keep up with all\nof it."
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "…Hey, are you sure you're okay with that?\nYour main focus is racing. You don't have to\nforce yourself to appear in the media…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm fine! It's actually been fun getting to try\nnew things."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And besides, it means people want to see me.\nI'd like to answer those expectations as much\nas I can!",
+            "choice_data_list": [
+                "(It's amazing that that's her true feeling…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "More importantly, I've got my trainer with me\ntoo. Hehe, reassuring, isn't it～?"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Well, that's true, but… <username> has\nresponsibilities as a trainer too…",
+            "choice_data_list": [
+                "It's my job to support what Buena wants to do…"
+            ]
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Well, that's true, but… <username> has\nresponsibilities as a trainer too…",
+            "choice_data_list": [
+                "It's my job to support what Buena wants to do…"
+            ]
+        },
+        {
+            "text": "There are, in fact, trainers who also act as\nmanagers for their horsegirls. Whether I can\nhandle that much remains to be seen, but…",
+            "choice_data_list": [
+                "For Buena's sake, I'll do whatever I can."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Buena's Mother",
+            "text": "Hehe… All right, all right. I guess I was\nworrying for nothing. Now then, weren't you\nheaded to the shrine? I don't think there will\nbe anyone if you go the the one nearby."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "She's right, there's nobody here…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Come to think of it… This is where we used\nto play hide-and-seek because nobody would\never come here.",
+            "choice_data_list": [
+                "…Didn't we end up not doing much hiding at all?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? Really? Though now that you mention\nit…",
+            "choice_data_list": [
+                "You'd get scared and come out right away.",
+                "You'd get scared and come out right away."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! L-Let's stop talking about that, okay!?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Come on, let's just pray! Over here, over here!"
+        },
+        {
+            "text": "Standing shoulder to shoulder with Buena\nVista, I quietly press my hands together.\nThe thing I pray for is…",
+            "choice_data_list": [
+                "May Buena get plenty of sleep.",
+                "May Buena become even stronger.",
+                "May Buena experience many new things."
+            ]
+        },
+        {
+            "text": "She's only going to get busier from here on\nout. When that happens, the most important\nthing will be… sleep. I pray that she'll be able\nto rest properly whenever she needs it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Ah, Trainer… he looks so serious…)"
+        },
+        {
+            "text": "Even tougher battles await Buena Vista in the\nfuture. I pray that she'll continue to shine as\nbrightly as ever when those days come."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Ah, Trainer… he looks so serious…)"
+        },
+        {
+            "text": "From media appearances onward, countless\nnew experiences await her. I pray they'll\ncontinue to become valuable lessons for her\nfuture."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Ah, Trainer… he looks so serious…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(He's probably thinking about me right now.\nIn that case, I too should…)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(May you stay healthy this year too. And may\nwe find our breathtaking view.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(I still don't know what kind of view it'll be…\nBut I hope we can reach it together—!)"
+        },
+        {
+            "text": "After finishing our shrine visit and heading\nback toward the academy… we take a route\nwith fewer people just to be safe. Then…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! Nakayamaaa!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Huh? Oi, what're you doing here?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Don't tell me you got lost again. Even with\nyour trainer right beside you?",
+            "choice_data_list": [
+                "Again…?"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Your little lady here gets lost way too easily.\nMaybe hold her hand or something."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It's okay! The world's full of kind people like\nyou, Nakayama!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Besides, I didn't get lost today! Um… there\nwere just a few complications."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Complications, huh… ah."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "<i>Midday Talks</i>, was it? Being popular sure\nsounds rough."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oh! You watched it? That makes me really\nhappy!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If the opportunity ever comes up, I'd love for\nyou to be on the show too! The staff were all\nwonderful people!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…Unlike you, I finished twelfth in the Kikuka\nSho. Nobody's inviting me onto TV."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Though if I were to <i>eat</i> someone like you…\nthat might be a different story.",
+            "choice_data_list": [
+                "…!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Keep running the big races in your Senior\nyear… for my sake too. Anyway, Happy New\nYear."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Do you think she's going to eat me?\nLike, <i>chomp</i>.",
+            "choice_data_list": [
+                "Then just eat her first."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ahaha, maybe I should! <i>Chomp</i>! Let's give it\nour all this year too!"
+        }
+    ]
+}

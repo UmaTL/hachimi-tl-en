@@ -1,0 +1,212 @@
+{
+    "title": "After Hanshin J.F.: A View That Answers",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Spectator A",
+            "text": "Whoa…! That Buena Vista girl, she's every bit\nas good as they said…!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Yeah, at this rate, next year's Tiara route…\nHuh? Is she looking this way?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you all so much!\nI heard every bit of your support!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Next year, at the Oka Sho… I hope to see you\nall again."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And when I do… I'll be waiting for the same\ncheers as today!"
+        },
+        {
+            "name": "Spectators A & B",
+            "text": "Hey, just now, she was looking at me…!"
+        },
+        {
+            "name": "Spectators A & B",
+            "text": "…That was definitely meant for me!"
+        },
+        {
+            "name": "Spectators A & B",
+            "text": "…Buena!!\nGood luck on the Tiara route!!"
+        },
+        {
+            "text": "Overcoming both the earlier trouble and the\npressure of a G1 stage, Buena Vista delivered\na stunning performance. One that completely\ncaptured the crowd's hearts."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Buena Vista, great race out there!\nThose closing strides were incredible…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you very much!"
+        },
+        {
+            "text": "Even in the post-race interview, she was met\nwith praise. But—"
+        },
+        {
+            "name": "Reporter C",
+            "text": "By the way, we've heard there was some\ntrouble before arriving at the track…?"
+        },
+        {
+            "name": "Reporter C",
+            "text": "Had you not made it in time, it would've been\na loss for the racing world. Trainer, how do you\nrespond to that?",
+            "choice_data_list": [
+                "Of course, it's all my responsibility."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!\nTrainer—",
+            "choice_data_list": [
+                "This time, I was saved by her strength."
+            ]
+        },
+        {
+            "text": "I admit I should've prepared for more\npossibilities. Owning that mistake, I also spoke\nabout how remarkable Buena Vista was to race\nthrough it all under these conditions.",
+            "choice_data_list": [
+                "She's truly an incredible horsegirl."
+            ]
+        },
+        {
+            "name": "Reporter C",
+            "text": "…Being carried by your runner, and sounding\nproud of it, no less."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Um, excuse me.\nYou're the reporter who interviewed me\nbefore, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You've always been looking out for my future…\nThank you so much for that."
+        },
+        {
+            "name": "Reporter C",
+            "text": "Huh? Ah, y-yes…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's why, there's something I'd really like\nyou to understand. That my trainer is an\namazing person, too."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The reason I've been able to grow stronger,\nis because my trainer has always been by my\nside."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So much… really, so much.\nEvery single day, from early morning to late\nat night… always there, thinking about me."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That hasn't changed since long ago.\nFrom my trainer, I learned what it means to\nkeep trying.",
+            "choice_data_list": [
+                "Buena…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The one who understands me better than\nanyone, the one who supports me…\nBecause my trainer is there, I can believe in\nmyself and run forward."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…We're connected by a deep trust,\nthe trainer I'm proud of!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Right?",
+            "choice_data_list": [
+                "…No, she's the true example of hard work"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah!\nYou're doing it again…"
+        },
+        {
+            "name": "Reporter C",
+            "text": "…Haha. I see. My apologies.\nSo the two of you are bound by <i>trust</i>, then."
+        },
+        {
+            "name": "Reporter A",
+            "text": "There's just something about these two…\nThey make a great team."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Yeah, seriously. No weaknesses to worry\nabout with Buena Vista. In that case…"
+        },
+        {
+            "name": "Reporter B",
+            "text": "A Triple Tiara might actually be within reach,\nshe could become the third in history…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…About what I said earlier,\nduring the interview…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I really meant every word, okay?",
+            "choice_data_list": [
+                "…Yeah, I know.",
+                "…Yeah, I know."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah, you're blushing.\n…Hehe."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey. Next up, it's finally time…\nThe Classic races begin."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The first race of the Tiara route,\nthe Oka Sho…!"
+        },
+        {
+            "text": "The Oka Sho. Held over 1600 meters at\nHanshin Racecourse, just like today.\nFor Buena Vista, after this race—",
+            "choice_data_list": [
+                "You can go into it with confidence.",
+                "You can go into it with confidence."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Next year… Let's keep growing.\nTogether. Okay?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "text": "With our sights set on next year's Oka Sho,\nwe renewed our resolve and began preparing\nonce more."
+        },
+        {
+            "name": "Fans",
+            "text": "She was incredible, wasn't she, Buena Vista…\n—Buena's heading into the Tiara route next, right…?\n—So that makes her the favorite, yeah…?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Hehe."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Buena, so it is you, after all.\nThe one who will be my…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "You have my thanks. For accepting the role\nof trial. One that will lead me to that destined\nstage."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Now then, let us begin.\nThe story in which I prove myself worthy of\nsainthood."
+        }
+    ]
+}

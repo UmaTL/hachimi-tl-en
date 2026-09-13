@@ -1,0 +1,411 @@
+{
+    "title": "Raffle Time!",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, while Buena Vista and I are out shopping for training equipment…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hm? …What's that over there?"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Step right up! Our New Year's Grand Raffle is underway! The grand prize is a hot spring vacation!"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "First prize is a premium carrot hamburger steak! Second prize is a mountain of carrots! Third prize is one whole carrot!"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Come on, come on! Everyone's welcome!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow, a hot spring trip…",
+            "choice_data_list": [
+                "Ooh, that sounds nice!",
+                "Ooh, that sounds nice!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Our families used to go on trips together, remember?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If we won… do you think we could all go again?",
+            "choice_data_list": [
+                "Want to give it a try?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We'd received a raffle ticket from our shopping earlier. As I start to hand it to Buena…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "In that case… Would you spin it with me, Trainer?",
+            "choice_data_list": [
+                "Together?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah. If we're doing it together…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I feel like we can win anything."
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista gently places her hand over mine… Together, we excitedly spin the raffle wheel!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The result is…"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Oh my! Congratulations!! We've got a winner!! The grand prize, a hot spring vacation!!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer… We won!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A hot spring trip…!!",
+            "choice_data_list": [
+                "Buena…?"
+            ]
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "H-Hey… are those tears!? Did you want it that badly? But why…?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "<i>Sniff</i>… Because… I thought the people I care about would be so happy…"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "My goodness… Those tears… All because you wanted to make the people you care about happy…! <i>Sob</i>…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Y-You're crying… for my sake?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're… so kind…",
+            "choice_data_list": [
+                "(This is turning into a very strange feedback loop…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm sorry about earlier…",
+            "choice_data_list": [
+                "I'm glad you've calmed down. Shall we go?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Doesn't that bother you, Trainer?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "My emotions get carried away so easily. Don't you think I'm childish?",
+            "choice_data_list": [
+                "That's just who you are.",
+                "That's just who you are."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I know. But sometimes… I wonder if I'm just… a little too emotional.",
+            "choice_data_list": [
+                "It just means you have a big heart. There's nothing strange about that.",
+                "It just means you have a big heart. There's nothing strange about that."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…But, that's not what I…",
+            "choice_data_list": [
+                "…Buena?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No… it's nothing."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "More importantly, about the trip… Our schedule's probably too busy right now."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I want to stay focused for a while longer… Would you hold onto the ticket for me, Trainer?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "When things finally settle down… let's all go together. Just like we used to!",
+            "choice_data_list": [
+                "Of course.",
+                "Of course."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, I'm looking forward to it! Until then… let's keep doing our best."
+        },
+        {
+            "name": "Monologue",
+            "text": "As I carefully tuck away the hot spring voucher, I make a mental note to invite Buena and her family once racing settles down."
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Congratulations! First prize! You've won our Premium Carrot Hamburger Steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "First prize! We got first prize! I knew having you with me would make all the difference, Trainer♪",
+            "choice_data_list": [
+                "Come on, that was your good luck.",
+                "Come on, that was your good luck."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Nope! It was definitely because of you!"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Hahaha! You two really get along. You're just like siblings."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!",
+            "choice_data_list": [
+                "We get that a lot."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Um, that means… I'm the little sister… right?"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Of course! I mean, if I had an adorable little sister like you, I'd have something to look forward to every day."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Right. The little sister…"
+        },
+        {
+            "name": "Monologue",
+            "text": "The following afternoon, Buena tells me she's prepared lunch, so I head over to meet her."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ta-da! I've turned the premium hamburger steak into a <i>Grown-Up's Lunch</i>!",
+            "choice_data_list": [
+                "Grown-Up…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You know how there's a Kid's Lunch? I wanted to make an adult version!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I picked more refined side dishes and seasoned everything a little more elegantly.",
+            "choice_data_list": [
+                "Oh, really…? Thanks!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm sure it'll suit your tastes too, Trainer! …I'll have the same as you, okay?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "<i>Munch</i>… Mm! It's delicious♪ It really has a nice grown-up feel to it!"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Second prize!! A mountain of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow, that's so many! Everyone in the shopping district is incredibly generous!"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Haha, we just want everyone to have a good time! Hope you enjoy them, Buena!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I will! I'll share them with all my friends♪",
+            "choice_data_list": [
+                "(Buena's friends, huh…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She has no shortage of friends. As I picture all the different faces that might show up… the next day arrives."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Everyone, thank you so much for coming to my Carrot Party♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I made lots of food, so please make yourselves at home and enjoy!"
+        },
+        {
+            "name": "Gentildonna",
+            "text": "What an honor to receive your invitation. To think I'd have the privilege of sharing a meal with such distinguished guests… don't you think?"
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Indeed. Buena, your ability to bring people together is truly remarkable."
+        },
+        {
+            "name": "Transcend",
+            "text": "Wooow… This is so hype."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Now then! Let's all gather around the table… and enjoy ourselves together♪"
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Third prize! One carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Sorry about that, Buena… Wish I could've given you more."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Not at all! That's just how raffles go. Besides, look how shiny and fresh it is♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer, want to split it with me?",
+            "choice_data_list": [
+                "Thanks."
+            ]
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Hold on! If that's the case, let me work a little magic first!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, it looks even tastier now!",
+            "choice_data_list": [
+                "This kind of reminds me of the summer festival when we were kids."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It does! Hey, do you remember? That time the chocolate bananas sold out right before we got there…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And then the vendor improvised and made us chocolate-covered pineapple instead. We shared that too, didn't we?",
+            "choice_data_list": [
+                "Yeah, that takes me back…",
+                "Yeah, that takes me back…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Sharing that single carrot between us… we spend the rest of the afternoon reminiscing about old memories."
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Sorry! No luck this time! Here's your participation prize, a pack of tissues!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Whaaat!? Aww…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Even though you helped me, Trainer…",
+            "choice_data_list": [
+                "Guess I wasn't much help after all.",
+                "Guess I wasn't much help after all."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No! That's not true! You always help me!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So if anyone came up short… it was me…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Sniff. Maybe… I just don't have the kind of luck someone like you deserves.",
+            "choice_data_list": [
+                "(…What kind of luck is that supposed to be?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Drawing the losing ticket leaves Buena visibly crestfallen."
+        }
+    ]
+}
