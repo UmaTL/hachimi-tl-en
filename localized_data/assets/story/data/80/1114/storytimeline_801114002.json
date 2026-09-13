@@ -1,0 +1,133 @@
+{
+    "title": "A Pure Heart",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's gone. I can't find it anywhere. \nMy precious fountain pen is nowhere to be found…!!",
+            "choice_data_list": [
+                "Where could I have dropped it…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Um, is everything okay?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Are you looking for something?",
+            "choice_data_list": [
+                "<size=40>Ah… I actually dropped my fountain pen</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When I passed my trainer certification exam――I splurged and bought it as \na reward for myself, a symbol of my dream. It's a real treasure to me."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Something that important…!? \nThis is an emergency. I'll help you look for it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I decided to retrace my steps one more time from the last place I used it, but…",
+            "choice_data_list": [
+                "No luck…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Right… In that case, we know for sure that you used the fountain pen here and put it in your pocket."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You went to the cafeteria next, right? Let's head there and check the hallway on the way!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I searched every inch of the hallway. \nI even checked all around the cafeteria. But I still couldn't find it…",
+            "choice_data_list": [
+                "<size=34>If we can't find it after looking this hard, I guess…</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Please don't give up! It's something very, very precious to you, isn't it?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm sure that fountain pen holds your dreams, your hard work, your memories… \nIt must be filled with so many things."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "To just give up on it… Please don't say such sad things with that pained look on your face."
+        },
+        {
+            "name": "Monologue",
+            "text": "――She's right. The pride I felt when I bought it. The way it lifted my spirits every time I used it, acting as proof of my dream. …There's no way I can just give up on it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――Right? \nLet's keep looking until we find it."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah…! Isn't that it, Trainer!?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "There's a fountain pen lying over there!",
+            "choice_data_list": [
+                "There it is…! My pen…!!",
+                "There it is…! My pen…!!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "――! Thank goodness… \nOh, thank goodneeeess…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista is just as happy as I am… No, perhaps even more so. She spent so much time helping me look for it so earnestly――",
+            "choice_data_list": [
+                "<size=38>Thank you so much, you're a lifesaver!</size>",
+                "<size=38>Thank you so much, you're a lifesaver!</size>",
+                "<size=38>I'm sorry for taking up so much of your time…</size>",
+                "<size=38>I'm sorry for taking up so much of your time…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista is just as happy as I am… No, perhaps even more so. She spent so much time helping me look for it so earnestly――",
+            "choice_data_list": [
+                "<size=38>Thank you so much, you're a lifesaver!</size>",
+                "<size=38>Thank you so much, you're a lifesaver!</size>",
+                "<size=38>I'm sorry for taking up so much of your time…</size>",
+                "<size=38>I'm sorry for taking up so much of your time…</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A lifesaver!? You're exaggerating."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…But I'm really so glaaad. Keep working hard together with this fountain pen. I'll be rooting for you!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista flashed a radiant smile, looking as happy as if she'd found it herself. Her deep kindness truly saved me."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Please don't apologize. I just didn't want you to lose something so important to you, that's all."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hey, I'm just really glad you found it. That alone makes me incredibly happy, too."
+        },
+        {
+            "name": "Monologue",
+            "text": "She was genuinely empathizing with me \nfrom the bottom of her heart――and the eyes that conveyed those feelings were endlessly pure and clear."
+        }
+    ]
+}
