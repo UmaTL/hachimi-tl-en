@@ -1,0 +1,323 @@
+{
+    "title": "A Blossoming Pink Geranium",
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer, I've finished bringing in — the hand towels we hung out to dry.",
+            "choice_data_list": [
+                "<size=38>Thank you, those go in the kitchen cabinet…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The day before the summer training camp. We had headed to the facility ahead of the other Horsegirls to help with the preparations."
+        },
+        {
+            "name": "Facility Staff",
+            "text": "Trainer, you're a lifesaver! \nWe're so grateful you came to help us again this year.",
+            "choice_data_list": [
+                "<size=38>Not at all, it's just something I do on my own</size>"
+            ]
+        },
+        {
+            "name": "Facility Staff",
+            "text": "That's exactly what we're grateful for! And to think your trainee would go out of her way to help us, too… We really appreciate all your hard work today.",
+            "choice_data_list": [
+                "When I told her about it, she volunteered to accompany me"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — yes. It's not something I usually get to do — so I was hoping I could be of some help to everyone else participating, even if only a little."
+        },
+        {
+            "name": "Facility Staff",
+            "text": "Oh…! I'd expect nothing less from your trainee, Trainer. \nWe're looking forward to working with you both today!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Okay, that's the last cover done… \nTrainer, this pillow is — the very last one.",
+            "choice_data_list": [
+                "Good work, you've been a huge help"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I gazed at the pillows piled high in the closet, realizing once again just how many Horsegirls were participating in the training camp."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Many of my classmates will be joining the training camp, too. Starting tomorrow — it's going to be quite lively around here, isn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "But… right now, we were all alone. Only her voice echoed softly… and outside the window, the trees swayed gently.",
+            "choice_data_list": [
+                "It's nice like this, all empty and quiet",
+                "It's nice like this, all empty and quiet"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Yes. The feel of the tatami, and the soft sunlight — it's all very calming."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "In the past — did you always volunteer all by yourself, Trainer? With this much work — it must have taken quite a long time.",
+            "choice_data_list": [
+                "I used to spend all day working on it with the facility staff"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Oh, my…"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Helping out like this — you're doing it voluntarily, aren't you? Um… what makes you go to such lengths?"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's true that this help falls outside my official duties. \nBut still… I want to do whatever I can, even if only a little.",
+            "choice_data_list": [
+                "Because I want everyone to have the best summer camp possible"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The training regimen will be grueling during the camp. \nThat's exactly why I want the Horsegirls to be as comfortable as possible.",
+            "choice_data_list": [
+                "<size=40>Of course, that goes for you too, Bouquet!</size>",
+                "<size=40>Of course, that goes for you too, Bouquet!</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "………Yes. \nThank you so much — Trainer."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "………Hehe.",
+            "choice_data_list": [
+                "—Bouquet?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I'm sorry, I just… remembered something. Our trip to the botanical garden together — and the time we spent waiting."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "That gentle, comforting… time we shared."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Well then — now that the pillows are ready, \nwhat should we help out with next—"
+        },
+        {
+            "name": "Facility Staff",
+            "text": "Trainer, Bouquet, thank you both for your hard work. \nThanks to the two of you, all the preparations are complete!",
+            "choice_data_list": [
+                "! —We finished early this year"
+            ]
+        },
+        {
+            "name": "Facility Staff",
+            "text": "Yes, we're truly grateful to Bouquet for helping out, too. Thank you so much."
+        },
+        {
+            "name": "Facility Staff",
+            "text": "Please let us treat you to dinner as a thank you. \nI'll call you when it's ready.",
+            "choice_data_list": [
+                "<size=38>If you'd like, shall we help out with that, too?</size>"
+            ]
+        },
+        {
+            "name": "Facility Staff",
+            "text": "No, no, you two are going to be busy starting tomorrow. \nPlease just relax and take it easy for the rest of today. \nSee you in a bit!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah………",
+            "choice_data_list": [
+                "<size=36>…Looks like we're back to waiting again, huh?</size>",
+                "<size=36>…Looks like we're back to waiting again, huh?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Hehe. \nYes, we are."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "In that case… would you like to go for a short walk outside? The sun is starting to set, so it should be getting cooler…",
+            "choice_data_list": [
+                "Sounds good, let's do that",
+                "Sounds good, let's do that"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, as we waited for dinner to be ready, \nI decided to take a stroll along the nearby beach with her."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It's such a beautiful sunset, isn't it? \nIt's reflecting off the waves — shimmering so beautifully.",
+            "choice_data_list": [
+                "Yeah. It's somehow so peaceful",
+                "Yeah. It's somehow so peaceful"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes. ——…………"
+        },
+        {
+            "name": "Monologue",
+            "text": "The two of us were enveloped by the gentle sea breeze. Illuminated by the setting sun, the golden ocean ebbed and flowed in a peaceful, steady rhythm."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Somehow, lately — I feel like wherever we go, \nwe always end up waiting together, Trainer.",
+            "choice_data_list": [
+                "<size=38>Thanks for spending time with me today, too</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes — I love the times we spend waiting like this. \nIt's so peaceful — and warm.",
+            "choice_data_list": [
+                "Yeah, I find them really pleasant, too",
+                "Yeah, I find them really pleasant, too"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…………Yes."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It might be — the exact same feeling I get when nurturing flowers. I don't know when they will bloom, but—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "While waiting, tending to them, caring for them… \nImagining the moment they finally bloom is so enjoyable. And—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…I feel like it's a joy I can share with you, Trainer.",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "If… if the two of us were to keep waiting for the same flower — then when it finally blooms, I'll be able to share that joy with you."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I'm sure — not just for the flowers, but even for our future, far ahead."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Just thinking about it — fills me with such a warm feeling inside.",
+            "choice_data_list": [
+                "Bouquet…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "At that moment, a sudden, strong gust of sea breeze blew past… Just a little ways ahead, I saw the sand swirling. And then—"
+        },
+        {
+            "name": "Monologue",
+            "text": "Out in the sand, something caught the setting sun, shining with a sudden glint.",
+            "choice_data_list": [
+                "Hm… is that—?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When we got closer, we saw a small, pink object peeking out from the sand, glinting in the setting sun."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "This is — a seashell, isn't it? \nIt looks just like a cherry blossom petal — it's so lovely."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "If the breeze hadn't blown — would it have stayed buried in the sand forever, I wonder?",
+            "choice_data_list": [
+                "<size=40>Yeah… we might never have found it either</size>",
+                "<size=40>Yeah… we might never have found it either</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "In that case… it must have just bloomed, hasn't it?"
+        },
+        {
+            "name": "Monologue",
+            "text": "A single petal in the sand. The crimson sky and the golden sea. And — Curren Bouquetd'or's gentle smile.",
+            "choice_data_list": [
+                "It's so… beautiful",
+                "It's so… beautiful"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…………Yes."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Hehe, somehow… I want to see even more of it. \nThat blooming future… waiting far ahead."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Right now, I don't know what shape it will take. \nAnd it may take a very long time to reach, but—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Any flower I look at with you… I just know it will be truly beautiful.",
+            "choice_data_list": [
+                "…Yeah, I'm sure of it",
+                "…Yeah, I'm sure of it"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And if such a future exists — then showing her the moment that flower blooms is my duty, and mine alone."
+        },
+        {
+            "name": "Monologue",
+            "text": "I picked up the shining seashell from the sand — and held it straight out to her.",
+            "choice_data_list": [
+                "I promise you, Bouquet"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer…?",
+            "choice_data_list": [
+                "<size=36>With you — I promise to make our future bloom</size>",
+                "<size=36>With you — I promise to make our future bloom</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…………!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…………Yes. Let's wait for that moment together."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Until the day it blooms — just the two of us."
+        }
+    ]
+}

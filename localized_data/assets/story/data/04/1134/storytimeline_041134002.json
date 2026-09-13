@@ -1,0 +1,240 @@
+{
+    "title": "Like a Faintly Scented Camellia",
+    "text_block_list": [
+        {
+            "name": "Senior Trainer",
+            "text": "Are you free for a while? Could I ask you to look after one of the Horsegirls on my team until the『Fukushima Kinen』?"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "I have to focus on training the Horsegirls racing in Tokyo that same day, so it'll be difficult for me to accompany her on the trip."
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "The『Fukushima Kinen』is a 2000m graded stakes. \nShe's been on a losing streak at that distance, so I want to fix that before it turns into a mental block for her.",
+            "choice_data_list": [
+                "Sure, leave it to me"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Thanks! Sorry to dump this on you when you've got scouting preparations of your own.",
+            "choice_data_list": [
+                "<size=38>It's only natural to put the Horsegirls first!</size>"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Haha, that's exactly why I know I can trust you with this. I'm counting on you!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(A substitute trainer… \nI didn't know trainers covered for each other like that.)"
+        },
+        {
+            "name": "Chrono Genesis",
+            "text": "Have you decided which race you'll be entering in the upcoming Semiannual Race Meet…? I'm… still torn between the 1600 and 1800…"
+        },
+        {
+            "name": "Gran Alegria",
+            "text": "I'm doing the mile, obviously! It's our big chance twice a year to run against the seniors who've already debuted! I really wanna race against Taiki!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Semiannual Race Meet… What should I do? Running in it while still wondering if I should quit racing altogether is just—)"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Haa, haa… My times in the final stretch were terrible… \nI need to up my stamina training if I'm gonna run 2000m.",
+            "choice_data_list": [
+                "Your stamina seems fine, but let's increase it a bit just in case"
+            ]
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Yes, please! My Trainer said I was fine too, but… I just can't stop worrying about it."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(She looks — relieved. Even though she seemed so anxious just a moment ago. Is it thanks to — how the Trainer reassured her?)"
+        },
+        {
+            "name": "Loves Only You",
+            "text": "Bouquet! Is something wrong?\nYou're going to get hurt if you don't focus."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah… I'm sorry. \nYou're right… I think I'll — take a short break."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Haah. I ended up bothering everyone. \nI really need to focus—"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Six interval runs, done! Um… I know it's a bit late to ask, but do you think I'll be ready in time for the real race?",
+            "choice_data_list": [
+                "You'll be fine. But what exactly are you worried about?"
+            ]
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Because… stamina isn't something you can build overnight, after all. Even if I work on it now…",
+            "choice_data_list": [
+                "In that case, how about we do a partner run to review your pacing?"
+            ]
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "—! Yes…! If there's still something we can do to prepare, then please! Let's do it all!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Wow, she's like a completely different person — Having someone by your side to listen to your worries… it really helps you stay positive. Hehehe.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——— \n…I should — get back to training too."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "———Haah.",
+            "choice_data_list": [
+                "Do you have a minute? I have a favor to ask you",
+                "Do you have a minute? I have a favor to ask you"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Oh!? Me—?",
+            "choice_data_list": [
+                "<size=36>Yeah. Could I ask you to be a running partner?</size>",
+                "<size=36>Yeah. Could I ask you to be a running partner?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I would be more than happy to be your running partner. So — how would you like me to run?",
+            "choice_data_list": [
+                "<size=40>Could you just run how you normally do?</size>",
+                "<size=40>Could you just run how you normally do?</size>"
+            ]
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "You said this was to help me review my pacing, right?\nAre you used to running longer distances, Bouquet?",
+            "choice_data_list": [
+                "Yeah. I think it'll be a good reference for your pacing"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—She waits at the back, I see. \nBecause of that — it's so easy for me to run.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—The fourth corner is coming up. Time for the final push!"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "—! I see, so it's here! Haaaaaaaah!!"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Yes, I managed to push all the way to the end! \nBut my time didn't change that much, did it?",
+            "choice_data_list": [
+                "Yeah, pacing was your main issue here"
+            ]
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "I see. I feel so much better now that I know why I wasn't improving! Bouquet, do you think we could run together again sometime!?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes, I'd love to. \nI would also — be delighted to run with you again."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(The scenery passing by. \nThe wind brushing against my cheeks — it felt so wonderful.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — Trainer. Thank you for your hard work today.",
+            "choice_data_list": [
+                "<size=36>Good work. Thanks for partnering with us today</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Oh, no, thank you for inviting me. For the first time in a while — I truly felt the joy of running.",
+            "choice_data_list": [
+                "Haha, I guess running really is what Horsegirls do best",
+                "Haha, I guess running really is what Horsegirls do best"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, that's true. —Being able to use my running to help someone else — Being able to create \"harmony\"… it made me so happy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I — started racing because I was captivated by the beauty of \"harmony.\""
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But I'm just not very good at competing. Even in races, I can't bring myself to push forward — and by holding back, I feel like I'm disrupting that harmony."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I know it's wrong, but I can't change… I just end up ruining it for everyone. Their harmony — Their brilliance."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—I truly believe I should quit racing. But… still—",
+            "choice_data_list": [
+                "You can take all the time you need to find your answer"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…But running with these kinds of feelings weighing me down — Isn't it disrespectful to everyone else…?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "When everyone else is burning with such a fierce desire to win… My running — can hardly be called sincere…",
+            "choice_data_list": [
+                "But you're hesitating because you still want to run, aren't you?",
+                "But you're hesitating because you still want to run, aren't you?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—! …Yes. \nEven though I know it isn't sincere. I……",
+            "choice_data_list": [
+                "<size=40>It's perfectly okay to follow your own heart</size>",
+                "<size=40>It's perfectly okay to follow your own heart</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Really…?",
+            "choice_data_list": [
+                "It's your racing career, after all. You should think it over carefully",
+                "It's your racing career, after all. You should think it over carefully"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer……"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes… I will think about it. \nUntil this hesitation — completely fades away."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Trainer, you're always there for me… \nWhy are your words — so warm…?)"
+        }
+    ]
+}

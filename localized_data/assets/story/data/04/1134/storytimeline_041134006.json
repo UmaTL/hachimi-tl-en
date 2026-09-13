@@ -1,0 +1,331 @@
+{
+    "title": "A Softly Blooming Petunia",
+    "text_block_list": [
+        {
+            "text": "Curren Bouquetd'or had been caring for the flowers all on her own. Even if watching over her was all I could do, as her Trainer—",
+            "choice_data_list": [
+                "I can't just go on knowing absolutely nothing about flowers",
+                "I can't just go on knowing absolutely nothing about flowers"
+            ]
+        },
+        {
+            "text": "With that in mind, today I decided to visit a botanical garden in the next town famous for its flower collection. When I arrived at the nearest bus stop, standing there was—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Trainer? \nWhat brings you all the way out here…?",
+            "choice_data_list": [
+                "Bouquet… Are you on your way to the botanical garden, too?",
+                "Bouquet… Are you on your way to the botanical garden, too?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "My — you are on your way there too, Trainer? \nWhat an — incredible coincidence."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But unfortunately — it seems the bus schedule has been temporarily changed, so we'll have to wait quite a while, I'm afraid.",
+            "choice_data_list": [
+                "Eh, is that so…"
+            ]
+        },
+        {
+            "text": "Things weren't exactly going according to plan… but this, too, must have been fate. Besides, I was sure to learn a lot by looking at the flowers with her.",
+            "choice_data_list": [
+                "If you don't mind… is it okay if we wait for the bus together?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes — of course. Since we have this rare opportunity, \nlet's just relax and have a nice chat."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I heard they have beautiful flower fields there, so it's been on my mind for a while… But since it's quite far from the academy, this is actually my first time going.",
+            "choice_data_list": [
+                "I've actually started taking an interest in flowers recently, too",
+                "I've actually started taking an interest in flowers recently, too"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "My — so that was it. \n…Ehehe, I see."
+        },
+        {
+            "text": "(Peep, peep…)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah… There's a kingfisher over there. \nWhat a beautiful shade of lapis lazuli — isn't it adorable?",
+            "choice_data_list": [
+                "Yeah… I feel like I could watch it all day",
+                "Yeah… I feel like I could watch it all day"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—! \n…Um, in that case—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I'm sure you'd love nemophilas, too! Just like the kingfisher, they're these tiny, beautiful blue flowers—!",
+            "choice_data_list": [
+                "Eh…?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Oh………… \n…I-I'm sorry. Since you mentioned that you'd taken an interest in flowers—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I just wanted to share everything I knew about them, and I got a bit carried away… I was coming on a little too strong, wasn't I?",
+            "choice_data_list": [
+                "<size=38>Not at all, it's actually a huge help! Thank you!</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "R-Really? Oh, I'm so glad… Um — Once we get there, \nI'd love to look for those nemophilas with you."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—At this time of year, the roses should be at their peak. \nSatsuki azaleas, and lavender too — oh?",
+            "choice_data_list": [
+                "Huh? The bus is already here!?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It came sooner than I expected… \nI'm sorry, I feel like I've been doing all the talking.",
+            "choice_data_list": [
+                "You've just made me even more excited to see the flowers!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes — I'm so excited, too. \n—Well then, shall we get on the bus?"
+        },
+        {
+            "text": "And so, swaying along on the bus, we finally reached the botanical garden's reception desk but…",
+            "choice_data_list": [
+                "Eh, we can't go in yet?"
+            ]
+        },
+        {
+            "name": "Receptionist",
+            "text": "I'm terribly sorry, but the lighting inspection is taking longer than scheduled… It will likely be another hour or so before you can enter the garden…"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Trainer… what should we do? \nI don't mind waiting myself, but—",
+            "choice_data_list": [
+                "<size=40>If you don't mind, Bouquet, shall we wait?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — then I'll go get a pamphlet for us. \nLet's sit and read it on that bench over there."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Many botanical gardens like this one replant their flowers with every passing season. It says,『Experience the changing seasons through the flowers』—",
+            "choice_data_list": [
+                "I see… In that case, we can enjoy coming here no matter how many times we visit",
+                "I see… In that case, we can enjoy coming here no matter how many times we visit"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Hehe, that's true. The flowers in full bloom change depending on the season, after all."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "In autumn — there are the autumn leaves, of course, along with dahlias and cosmos — it's the season when these vibrant flowers bloom."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "And even in the harsh winter — beautiful flowers still bloom quietly. Just looking at camellias and cyclamens — always warms my heart."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It takes a long time for the seasons to run their course, \nbut — there are so many joys to look forward to along the way.",
+            "choice_data_list": [
+                "Yeah… <i>Phew</i>",
+                "Yeah… <i>Phew</i>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Ah."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I'm sorry… Trainer, are you feeling hot? \nWe've been talking a lot, so maybe something to drink—",
+            "choice_data_list": [
+                "Ah, in that case—"
+            ]
+        },
+        {
+            "text": "I took a bottle of water I'd bought at the reception desk out of my bag. Figuring she must be thirsty, too, I offered it to her, but—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Here, I got this at the reception desk earlier — eh?",
+            "choice_data_list": [
+                "Wait… You bought one too, Bouquet?",
+                "Wait… You bought one too, Bouquet?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah… I was just worried you might be feeling hot, Trainer…",
+            "choice_data_list": [
+                "And I was just worried you might be getting thirsty, Bouquet…",
+                "And I was just worried you might be getting thirsty, Bouquet…"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah………… Ah — so that was it…"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "………………Hehe."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Well then… shall we do a little swap?",
+            "choice_data_list": [
+                "…Hehe, sure",
+                "…Hehe, sure"
+            ]
+        },
+        {
+            "name": "Receptionist",
+            "text": "Sorry to keep you waiting! \nThe inspection is complete, so you are free to enter now.",
+            "choice_data_list": [
+                "Oh, has it been that long already?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "That went by surprisingly fast, didn't it— \nWell then, shall we head in? To our destination for today."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Amazing…! \nEvery single one of them — so incredibly vibrant…!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Are those yellow flowers gerberas…? \nI can see red poppies further back, too—!",
+            "choice_data_list": [
+                "This is… amazing…!",
+                "This is… amazing…!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — that's right, the nemophila flowers! \nTrainer, let's go look for them…!",
+            "choice_data_list": [
+                "Yeah, let's go!",
+                "Yeah, let's go!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Wow — we found them, Trainer! \nLook, there are so many tiny little flowers — they're so adorable.",
+            "choice_data_list": [
+                "You're right, they are adorable!",
+                "You're right, they are adorable!"
+            ]
+        },
+        {
+            "text": "As we continued our stroll through the garden, comforted by the beautiful flowers… I felt like I could finally understand how much she loved them, even if just a little."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It's already getting dark, isn't it? Even though the sun was beating down on us just a little while ago—",
+            "choice_data_list": [
+                "Well, a lot happened today, after all",
+                "Well, a lot happened today, after all"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — hehe, you're right. \nWe did wait quite a long time before we could see the flowers."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But — I didn't mind the wait in the slightest."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Honestly…… not at all.",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "While talking with you, Trainer — the scenery here became even more vivid in my mind. And—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Even my imagination… completely surpassed what I'd imagined.",
+            "choice_data_list": [
+                "<size=40>…Let's come here together again sometime!</size>",
+                "<size=40>…Let's come here together again sometime!</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Hehe, yes. \nI'm very much — looking forward to it."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "The bus back — should be here in about twenty minutes. \nWe should be able to get on much sooner than we did on the way here."
+        },
+        {
+            "text": "That being said, we still had to wait for the bus… \nand it would take quite some time to get back."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Um, Trainer."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "If you'd like — could we talk some more?",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "On the way back — please tell me some of your stories, Trainer. \nLike the flowers you grew to like today. And—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……Even things that aren't about flowers.",
+            "choice_data_list": [
+                "Bouquet… yeah, of course!",
+                "Bouquet… yeah, of course!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Hehe. Thank you so much."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I'm sure this time, too… we'll arrive before we know it."
+        },
+        {
+            "text": "And so, we waited for the bus, chatting away. By the time we finally arrived near the academy, the sun was already beginning to set, but—"
+        },
+        {
+            "text": "The sunset we looked up at together — perhaps it was just my imagination, but it seemed so much more beautiful than usual."
+        }
+    ]
+}

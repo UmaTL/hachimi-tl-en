@@ -1,0 +1,252 @@
+{
+    "title": "Beside the Alchemilla Mollis",
+    "text_block_list": [
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—The Trainer roster is… ah, here it is. \n…Eh? A rookie Trainer? —Ah, but…)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(They worked as a sub-trainer before. \nAh… so that's why they understand our subtleties so well.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(…A sub-trainer's job is to support the team, after all. They must have had plenty of opportunities to interact with Horsegirls and receive their reports.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Past achievements are — blank? \nHorsegirls trained — none.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—I suppose that's just how it is for a sub-trainer…"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "Aaaah～ my legs gave out right at the end… \nUm, what exactly was I doing wrong?",
+            "choice_data_list": [
+                "Your push-off direction. Your center of gravity was a little unstable"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Oh, so that was it. I couldn't tell at all just by watching. The analysis and the solution just flow out so smoothly—)"
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "You mean… like this!? Whoa, the power in my stride feels completely different! Ehehe, I think I can break my personal best with this!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(At first, she looked like she was going to be crushed by the shadow of defeat… but now, she's smiling, brimming with confidence.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—They really are an excellent Trainer. \nBut… it doesn't seem to be reflected in their evaluation—"
+        },
+        {
+            "name": "Monologue",
+            "text": "The day of the『Fukushima Kinen』—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—…Ah, she won! Oh, thank goodness—! \nAh, the Trainer was on screen for a second. Hehehe, they look so happy."
+        },
+        {
+            "name": "Bob-Haired Chestnut Horsegirl",
+            "text": "『I hadn't been getting results at 2000m, so I was a bit worried about how this race would go, but thanks to Trainer <username>, I was able to win!』"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "『Yes, I was watching the broadcast. I believe she won because she truly earned it! She might have started doubting herself after that losing streak, but—』"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "『Trainer <username> guided her through it! \nI couldn't have entrusted her to anyone else but him. \nI am truly grateful!』"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "『Trainer <username> guided her through it! \nI couldn't have entrusted her to anyone else but her. \nI am truly grateful!』"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "To be trusted this much by a Senior Trainer— they really are an incredible Trainer after all."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—I wonder if the newspaper has arrived yet.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Here it is. \nThe article about yesterday's『Fukushima Kinen』is—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——No way……"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(There's not a single mention of the Trainer… Even though both she and the Senior Trainer mentioned them in their comments—)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "What about the fans who watched the race—?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Just like the newspaper… no one is really talking about them. I suppose it can't be helped, but all their hard work just gets credited to the Senior Trainer…)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Even though they're such a wonderful Trainer…"
+        },
+        {
+            "name": "Instructor",
+            "text": "—Alright everyone, that's three sets done. We'll be taking times after the break! There are Trainers here scouting prospects, so let's do our best!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(The Trainer is here for scouting… —Ah.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hello, Trainer. —Are you here to observe?",
+            "choice_data_list": [
+                "Yeah. I'm here for scouting. …………",
+                "Yeah. I'm here for scouting. …………"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—U-Um… —I-Is there something on my face?",
+            "choice_data_list": [
+                "<size=36>No… I'm just glad to see you're doing well</size>",
+                "<size=36>No… I'm just glad to see you're doing well</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes, I'm fine. I've decided to take my time figuring things out with racing. —Thank you for your concern."
+        },
+        {
+            "name": "A Horsegirl from a Team",
+            "text": "Sub-train— wait, no, Trainer! Oh, are you in the middle of something? …Actually, you look busy, so never mind.",
+            "choice_data_list": [
+                "Wait. I've got time to listen, at least"
+            ]
+        },
+        {
+            "name": "A Horsegirl from a Team",
+            "text": "Really!? Then could you give me some time after training! \nSorry to interrupt, see you later!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Was that someone from a team you used to be with? \nHehe, you seem to be very well liked."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(I think I understand. You're such a kind Trainer — You make people feel like they can come to you with anything. That's it, isn't it?)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(There are so many Horsegirls who look up to you. It wouldn't be surprising — if you received many more bouquets.)"
+        },
+        {
+            "name": "Sub-Trainer",
+            "text": "Aaaah, crap! I completely forgot about the race registration due today!! And of all times, when the Trainer is away on a business trip! But the training—",
+            "choice_data_list": [
+                "<size=40>Want me to look after the training for you?</size>",
+                "<size=40>Want me to look after the training for you?</size>"
+            ]
+        },
+        {
+            "name": "Sub-Trainer",
+            "text": "A-Are you sure…? T-Then… I'll take you up on that… Here is today's menu! I'm so sorry, and thank you!",
+            "choice_data_list": [
+                "There's no need to panic, just make sure you get that registration done",
+                "There's no need to panic, just make sure you get that registration done"
+            ]
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "<username>, aren't you taking on too much work? \nYou have an important job to do yourself, finding a Horsegirl of your own to train."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—If I remember correctly, that's the Chief Trainer of the team they were on during their sub-trainer days…)",
+            "choice_data_list": [
+                "But the Horsegirls are the ones who suffer the consequences in the end"
+            ]
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "I understand that, but you have to think about your own career too.",
+            "choice_data_list": [
+                "Putting the Horsegirls first — that's a principle I believe in",
+                "Putting the Horsegirls first — that's a principle I believe in"
+            ]
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "…Putting the Horsegirls first—",
+            "choice_data_list": [
+                "Yes. That was the very first thing you taught me"
+            ]
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "Ah… Yes, that's right. Back when you first joined the team, I scolded you quite harshly over it. I told you to prioritize the Horsegirls above all else."
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "I see… So that's why you're always doing everything for the Horsegirls…",
+            "choice_data_list": [
+                "<size=40>I want to be a Trainer worthy of my mentor</size>"
+            ]
+        },
+        {
+            "name": "A Team Trainer",
+            "text": "…When you put it like that, \nI can't really say anything more, can I."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(Ah… Such a warm person. \nThinking only of what's best for the Horsegirls—)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(That's why — you noticed even the slightest change in me. Softly, quietly — just like a flower — you tended to my heart.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(—Respecting my desire to run as if it were a precious treasure. …There isn't a Trainer as kind as you anywhere.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(And yet, why… must your brilliance remain buried? Why isn't anyone praising how wonderful you are?)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(You are someone — who truly deserves a golden bouquet.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(…A bouquet. A victory — things only a Horsegirl can deliver. \n—<i>Only a Horsegirl can</i>.)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "(………In that case…… ——I will!)"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "——Trainer!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "U-Um——!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Would you please — be my Trainer……!"
+        }
+    ]
+}
