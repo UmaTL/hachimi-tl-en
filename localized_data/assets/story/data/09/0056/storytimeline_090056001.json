@@ -1,0 +1,185 @@
+{
+    "title": "Investigate the Archive Room!",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Fenomeno",
+            "text": "(——A careful lookout is the basis of any good investigation… \nAnd this spot gives me a clear view of the school archive's \nentrance.)"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(I received special orders from the Disciplinary Committee the \nother day. My mission: To investigate the school archive.)"
+        },
+        {
+            "name": "Disciplinary Committee Umamusume",
+            "text": "We've had students sneaking into the archive room recently<i>. </i>\nMultiple students. This is despite the fact the door is locked \nto protect the precious documents inside…"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Why, that's criminal trespassing! We cannot afford to have those \ndocuments damaged. It is our duty as the Disciplinary Committee \nto prevent a disaster before it happens!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(Who are the trespassers? How are they entering the archives? \nWhat are their motives? If I am to maintain public order in the \nacademy, I need to find the answer to these questions!)"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(The instant I spot someone engaging in suspicious activity, \nI will begin questioning! Now, come at me, intruders!)"
+        },
+        {
+            "text": "Event logo."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "(That's odd… Not a single student is passing by, much less \nan intruder!)"
+        },
+        {
+            "name": "Umamusume Passing By",
+            "text": "Yikes, Fenomeno alert. Aw man, look how she's glaring… \nIf she sees me, she's gonna be on my case about dress code… \n…Yeah, no thanks. I'm taking the other stairs."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "……Wait… Is no one passing through here… \nBecause of <i>me!?</i>"
+        },
+        {
+            "name": "Samson Big",
+            "text": "Oh, Fenomeno-chan! \nHeyyyy, what's up?"
+        },
+        {
+            "name": "Samson Big",
+            "text": "So <i>that's</i> why you're on watch. The archive room… \nThat's the one they keep locked up, right? \nRight next door to the school library——"
+        },
+        {
+            "name": "Samson Big",
+            "text": "Hang on… The library? Say, I don't know if this has anything \nto do with your thing… But I saw Buu-chan acting funny in there."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "You mean Narita Brian-san?"
+        },
+        {
+            "name": "Samson Big",
+            "text": "Yep. Buu-chan was all the way in the back, and she <i>never</i> goes \nback there. I asked what she was up to, but she was all \n\"I don't need to tell you.\""
+        },
+        {
+            "name": "Samson Big",
+            "text": "But that just made me curious! \nSo I kept bugging her about it, and eventually she tapped out."
+        },
+        {
+            "name": "Samson Big",
+            "text": "She was like \"You really don't know when to quit,\" \nand finally told me what she was up to!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "You managed to get an answer out of<i> Brian-san!? </i>\nSo, what was she doing there?"
+        },
+        {
+            "name": "Samson Big",
+            "text": "\"I tried taking a nap there. \nCouldn't fall asleep with <b>the rest</b> making all that noise.\""
+        },
+        {
+            "name": "Fenomeno",
+            "text": "\"The rest\"…? That is an intriguing choice of words. \nI'd like to ask Brian-san a few questions… But we should take \nstock of the back of the library first!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Excuse me, ma'am, you are on librarian duty, correct? \nWould you mind if I asked you a few questions? The Disciplinary \nCommittee has a tip from an anonymous source that——"
+        },
+        {
+            "name": "School Librarian Umamusume",
+            "text": "Eek! I'm s-s-s-s-s-sorry, I'm not slacking off, honest! \nI'm just, uh, double-checking the manga section! I'm going to \ngo put this book back where it belongs, so, um, goodbye!"
+        },
+        {
+            "name": "Timid-looking Umamusume",
+            "text": "I- I'm sorry! I tried to get away with returning an overdue book \nwithout telling anyone! \nI swear I'll never do it again… Please, forgive meeeee!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "N-no, I'm not trying to blame you… W-wait, please!! \nArgh… I can't even get a word in!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What's going on, Fenomeno-san? \nIs something wrong? \nWas there someone you wanted to talk to?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, miss librarian. What's the back of the library like? \nSomeone said there's a super nice napping spot back there!"
+        },
+        {
+            "name": "School Librarian Umamusume",
+            "text": "Hahaha, a napping spot? Who'd you hear that from? \nI <i>wish</i> there was something like that. Unfortunately, it's just \nmore books back there."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really? …Aww. \nBut wouldn't it be so fun if there was a secret room back there? \nLike a secret hideout!"
+        },
+        {
+            "name": "School Librarian Umamusume",
+            "text": "It sure would be. Actually, now that you mention it… \nThere is a secret passage back there, kind of. Nobody uses \nit anymore, but there's a door leading to the archive room."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wowie, there's a secret door!? \nI wonder what it's like… I'm gonna go look for it! \nThanks, miss librarian!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "U-Urara-san…! You managed to extract new information just \nby chatting with her… \nYou're a natural investigator!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "You deserve a medal!! \nThat door is a solid lead on their method for sneaking into the \narchives!"
+        },
+        {
+            "name": "Samson Big",
+            "text": "So Buu-chan wanted to take a nap in the archive room, \nbut \"the rest\" were too noisy, so she left?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Which means Brian-san is not one of our culprits. \nThen we should focus our efforts on the passage between \nthe library and archive room!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "——D-did I hear you right!?"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Hm? Biko-san? What is it?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I was tailing Windy-senpai just now, since she looked like she \nwas planning another one of her schemes. \nBut then I lost track of her…"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That happened in the back of the library! \nShe might've used that secret passage too!"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "Are you sure!? I'm going to borrow the archive key! \nWe may be able to catch her in the act!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'm going too! \nI wanna find out what Windy-senpai's up to!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Muahaha… If I just put this cloth above the entrance… \nWhatever sucker comes in here's gonna get it right on \ntheir head!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "This place is perfect for playing pranks! \nI'll never get busted so long as I use that secret door～♪"
+        },
+        {
+            "name": "Fenomeno",
+            "text": "I see… So you entered through a hidden passage instead of \nsimply asking to borrow the key? \nYou've just admitted to criminal trespass."
+        },
+        {
+            "name": "Fenomeno",
+            "text": "<size=36><b>CAUGHT YOU RED-HANDED! YOU'RE UNDER ARREST!</b></size>"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "!!?!? \nH-how… <i>HOW'D YOU CATCH ME!?!!???</i>"
+        }
+    ]
+}
