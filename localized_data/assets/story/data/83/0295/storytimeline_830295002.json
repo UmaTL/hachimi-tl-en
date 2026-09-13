@@ -1,0 +1,191 @@
+{
+    "title": "Bouquet's Fist",
+    "text_block_list": [
+        {
+            "text": "One day, while walking near the arcade in the mall—"
+        },
+        {
+            "name": "Protesting Boy",
+            "text": "Hey, let me play too! There are only two of these arcade cabinets, you know!"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Heh, scrubs like you should back off! Weaklings don't have the right to play!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Excuse me. Do you have a moment…?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I think it would be much more peaceful—\nand fun if everyone got along and took turns using it…"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Haaah～? Shut up! If you want me to move, try and beat me!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Umm—so, if I can play this game, you will listen to what I have to say, correct?",
+            "choice_data_list": [
+                "<size=38>…Can you play? It looks like a fighting game</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……I'm not very confident, but… I must at least make an effort to bridge the gap."
+        },
+        {
+            "text": "And so, Curren Bouquetd'or challenged \nhim with unfamiliar hands, but—"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Heh, you can't even land a single attack, let alone put up a fight! Learn how to throw a punch before you come back!",
+            "choice_data_list": [
+                "…Are you okay?"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…I'm sorry. Even though it's just a game— \nI can't help but hesitate to use violence."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But… I have to attack… The opponent's character to win. …Hmm—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "……I will try to find a way somehow."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…I see. A secret trick like this—I should write this down…"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Just as the rumors said, it seems this store has a lot of cabinets for that game. I'll train here and—"
+        },
+        {
+            "text": "And so—the time for the rematch had arrived. The promise was that if Curren Bouquetd'or won, the children would get along and take turns."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Well then—I look forward to our match."
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Ora ora! Big Bang Thousand-Armed Hand! Lightning Vortex Thunder Kick!!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ngh, hup… Hup…!"
+        },
+        {
+            "name": "Spectating Children",
+            "text": "Wh-What!? She's dodging every single attack by bowing at the exact right time!?"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Ugh, bobbing up and down like a bamboo fountain! But you can't win just by dodging!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…Almost there, 20 consecutive dodges…! \n—Now!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "↑, ↓, ↓, ←, A, B, B, →… \nSecret command, activate!!"
+        },
+        {
+            "name": "Bouquet's Character",
+            "text": "Your fists are tainted with wicked thoughts… From now on… \nYou must use those fists for love!"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Wha!? M-My character… \nBecame a monk!?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "This character is a monk, you see… \nSo by dodging 20 times in a row, he can \npersuade the opponent and win—it's a hidden move."
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Th-That's not fair! You're banned from using that character next time!"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes… That is not a problem."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…On this stage, I can use that move. \nWhile dodging with perfect bows—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "B, →, →, A, A, A, ←… Borrowing a smartphone from the spectators in the background—『Dial 911』activated!!"
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "Wh… What!? My character got hauled \naway in a police car!?"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…How was that? I believe this makes it… Two wins in a row."
+        },
+        {
+            "name": "Bratty Kid",
+            "text": "A-Amazing～! Miss, \nhow do you know so many secret moves!?"
+        },
+        {
+            "name": "Excited Children",
+            "text": "『Teach me, teach me!』\n『M-Me too!』"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes. Of course, I don't mind. \n…But."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—From now on, you must all take turns \nand use the cabinet nicely. Promise?",
+            "choice_data_list": [
+                "<size=34>You've become the kids' boss…</size>",
+                "<size=34>You did great, considering you're not used to this</size>",
+                "<size=34>You did great, considering you're not used to this</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—From now on, you must all take turns and use the cabinet nicely. Promise?",
+            "choice_data_list": [
+                "<size=34>You've become the kids' boss…</size>",
+                "<size=34>You did great, considering you're not used to this</size>",
+                "<size=34>You did great, considering you're not used to this</size>"
+            ]
+        },
+        {
+            "name": "Excited Children",
+            "text": "『Yeeees!』『Got it!』\n『Hurry up and teach us!』\n『Hey! I'm first!』"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe, it's alright… I will teach each of you properly, one by one—"
+        },
+        {
+            "text": "Despite it being a genre she had no connection to, through her efforts, \nCurren Bouquetd'or had masterfully \"bundled\" the children together."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It took some time, but… It has a lot of depth, so it wasn't difficult."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Persuading your opponent and winning without hurting them… I never knew such a method existed in fighting games.",
+            "choice_data_list": [
+                "<size=40>…I think it's just this game that's special</size>"
+            ]
+        },
+        {
+            "text": "In any case, Curren Bouquetd'or had smoothly mediated the conflict and restored harmony."
+        }
+    ]
+}
