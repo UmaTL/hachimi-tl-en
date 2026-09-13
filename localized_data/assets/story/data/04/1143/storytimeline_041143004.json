@@ -1,0 +1,239 @@
+{
+    "title": "Connecting Hearts",
+    "text_block_list": [
+        {
+            "text": "A few days later. When I stopped by the track, I saw Victoire Pisa talking to a friend with a solemn look on her face."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "—Yeah. It was a condition I promised my parents when I entered the academy. If I didn't show any promise, I'd go back home and attend a normal high school."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I… see."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Jeez, don't look so gloomy, Pisa～ I knew this was coming myself. I've worked hard for three years and haven't placed in a single mock race, you know?"
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "So. The next mock race will be my last. If I still can't do it, I'm going home! And then, I'll entrust my dream of becoming a racing star to you, Pisa!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "……I understand. I know that since this is a competitive world, these things are bound to happen."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "But still—it's sad.",
+            "choice_data_list": [
+                "<size=38>…Yeah, it is</size>",
+                "<size=38>…Yeah, it is</size>"
+            ]
+        },
+        {
+            "text": "A time always comes when one must think about their future and decide whether to move forward or step back. For an athlete, it's all the more unavoidable."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…If she made this decision from the bottom of her heart, I can't stop her. But… she said the 『next one will be my last』"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Her heart is still… connected to her dream of racing. In that case… I want to do whatever I can to help, even if it's just one thing."
+        },
+        {
+            "text": "—The next day.",
+            "choice_data_list": [
+                "<size=38>Is that…</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Huup…!"
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "I-It really looks exactly like my running form… To think you could even pull this off, you're so skilled, Pisa."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Let's work together to improve this form before the mock race. I'm sure you can still shave off some time."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "B-But, you have a mock race against Rose and the others too, right? They aren't opponents you can take on half-heartedly. You shouldn't be looking after me—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "It's fine. I just need to stay behind and do my own training afterward."
+        },
+        {
+            "text": "If she's planning to help her friend by demonstrating while also doing her own full training routine… that's clearly overworking herself."
+        },
+        {
+            "text": "Her rivals aren't soft enough that she can beat them while distracted with helping a friend. As long as she's aiming for her debut too, she can't afford to neglect her own training.",
+            "choice_data_list": [
+                "<size=38>However, her wish is—</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Staying close. Connecting hearts. Erasing loneliness from this world. If I do that, I believe one day we can create a circle of hope that connects the entire world."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I want to… keep the connection between your heart and racing alive."
+        },
+        {
+            "text": "—That's right. She wants to connect them. The people reflected in her eyes, and the things they each hold dear.",
+            "choice_data_list": [
+                "<size=38>So… please let me help</size>",
+                "<size=38>So… please let me help</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Trainer…?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "This is your proposed form improvement plan, Trainer… \nIt certainly might suit her. Let's head outside and try it right away.",
+            "choice_data_list": [
+                "<size=34>Just make sure you leave some energy for yourself</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes, thank you for your concern."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Haa…!"
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe, your time has changed so much in just five days.",
+            "choice_data_list": [
+                "It's fine to celebrate, but make sure you take a proper break",
+                "It's fine to celebrate, but make sure you take a proper break"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Thank you. \nI'll go get us some tea then."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "…Honestly, she looks like she's having so much fun even though it's someone else's training. Just watching her… makes the future feel bright. Haha, maybe it's just my imagination."
+        },
+        {
+            "text": "—And then, the day of the mock race arrived."
+        },
+        {
+            "text": "Victoire Pisa's friend gave it her all and beat her personal best—ending her final challenge in 6th place."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Ah—just as I thought… it's frustrating… it's so frustrating… Pisa… show me… show me hope, Pisaaa…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "……………\n……… I—"
+        },
+        {
+            "name": "Rose Kingdom",
+            "text": "…Entrusted with your friend's feelings, I see. However—I won't do anything so tactless as to hold back because of that…!"
+        },
+        {
+            "name": "Rulership",
+            "text": "Whether you have special circumstances or not, it has no bearing on this match. Don't take it personally, Pisa…!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "—I won't let my guard down for a second. I will defeat you with everything I have. Because I know your potential."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(…It's too late to change the fact that she will leave the academy… Even so—)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Even so, at the very least… \nI want to leave hope in her heart…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yaaaaaaah…!"
+        },
+        {
+            "name": "The Three Girls",
+            "text": "……!"
+        },
+        {
+            "text": "—Several days later. \nThe day came for Victoire Pisa's friend to leave the academy."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "…It's kind of strange, you know. Even though I lost and I'm leaving here, your running is burned into my mind. As if saying I don't want to forget it."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "I promise. Even after I go back home, I'll always love racing. Because you… reconnected me to my feelings for racing, Pisa!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Yes. Please take care. \nAnd… see you again someday."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…………………… \nIn the end, we didn't achieve the best result."
+        },
+        {
+            "text": "Her friend left, and because of her lack of conditioning, she stalled out in the final stretch of her own mock race. Unsurprisingly, she didn't receive any scouting offers either."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Her telling me that she'll always love racing… \nis my one saving grace.",
+            "choice_data_list": [
+                "<size=38>Perhaps the path you're taking—</size>",
+                "<size=38>Perhaps the path you're taking—</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…?",
+            "choice_data_list": [
+                "<size=38>Might not leave anything for you yourself</size>",
+                "<size=38>Might not leave anything for you yourself</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…That might be true.",
+            "choice_data_list": [
+                "But the hope you've connected will remain in someone's heart",
+                "But the hope you've connected will remain in someone's heart"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "——……",
+            "choice_data_list": [
+                "I want to support that. Your journey of connecting feelings and bonds"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Hehe. Then—let's connect them together. Connecting hearts across the world, until all loneliness is gone."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Believing that even after the rain of sorrow falls… we'll be able to see a sky of hope—"
+        }
+    ]
+}

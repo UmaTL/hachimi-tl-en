@@ -1,0 +1,248 @@
+{
+    "title": "Wiping Away the Loneliness",
+    "text_block_list": [
+        {
+            "name": "Victoire Pisa",
+            "text": "……! \nA fire in such a narrow alleyway…"
+        },
+        {
+            "name": "Monologue",
+            "text": "An old, multi-tenant building in the alleyway. Smoke was billowing from a room on the fourth floor. Several people who looked like residents were looking up in concern."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Excuse me, did you evacuate from there? Please try to stay calm. And… has everyone currently living there evacuated?"
+        },
+        {
+            "name": "Frantic Woman",
+            "text": "Um, the woman living in the second-floor apartment is still inside… I banged on her door and called out to her, but she won't listen to me…!"
+        },
+        {
+            "name": "Worried Man",
+            "text": "The old lady in that apartment has trust issues. She completely closed off her heart after being scammed a while back…"
+        },
+        {
+            "name": "Worried Man",
+            "text": "When I was a kid, she was a kind person who always played with me… Damn it… What do we do…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…It's an old building. There's no telling when the fire will spread. We have to somehow get her to evacuate before she's in danger.",
+            "choice_data_list": [
+                "<size=30>Don't tell me… you're going to try and persuade her…!?</size>",
+                "<size=30>Don't tell me… you're going to try and persuade her…!?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "No matter who they are—There is no reason anyone should be left in danger!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(The hallway is dark… Probably because the fire started from the old electrical equipment… I have to hurry so we can calmly evacuate)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "If the fire spreads, it will become dangerous here too. \nPlease… I'm begging you to evacuate with me."
+        },
+        {
+            "name": "Despairing Woman",
+            "text": "Leave me alone! Everyone thinks I'm a nuisance anyway! \nYou'd all be relieved no matter what happens to me!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…There is no one here like that. \nEveryone is worried about you."
+        },
+        {
+            "name": "Despairing Woman",
+            "text": "Like I'd believe that. When I was in trouble, nobody helped me. I'm all alone in this world now!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Just earlier downstairs, I met someone who said you used to play with him when he was a child."
+        },
+        {
+            "name": "Despairing Woman",
+            "text": "Eh……?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "If he thought you were a nuisance, why would he be so worried? If he didn't care about you, why would he remember the past?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—There are people who would be sad. Even if you think you are all alone, those connections are still alive."
+        },
+        {
+            "name": "Despairing Woman",
+            "text": "—…"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Even if there are misunderstandings and disagreements, we can reconnect if we face each other. So—please. Come with me."
+        },
+        {
+            "name": "Monologue",
+            "text": "After a brief exchange, she was able to persuade the female resident and bring her outside. The fire department arrived, and the fire was extinguished while it was still a minor blaze.",
+            "choice_data_list": [
+                "<size=38>You really did something reckless…</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I apologize for causing you to worry. \nBut—I'm just glad everyone is safe."
+        },
+        {
+            "name": "Worried Man",
+            "text": "Granny! …I'm sorry. If I had just listened to you more when you were feeling down, I wouldn't have let you become so isolated."
+        },
+        {
+            "name": "Worried Man",
+            "text": "From now on… let's talk more, just like we used to. I'm not the only one who remembers how much you took care of us back then."
+        },
+        {
+            "name": "Rescued Woman",
+            "text": "—Ah… I'm sorry for making you worry. \nYou too… and you as well, little Horsegirl."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe… I'm so glad… that you believed in the connections you had left."
+        },
+        {
+            "name": "Rescued Woman",
+            "text": "——……Are you crying…?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—Yes. \nBecause I know that you're going to be okay now."
+        },
+        {
+            "name": "Rescued Woman",
+            "text": "…Haha. You're a strange child. \nBut… thank you. You're a kind girl."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "You want to know my motives…?",
+            "choice_data_list": [
+                "<size=38>…Yeah</size>",
+                "<size=38>…Yeah</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, there were no casualties. That being said, normally, one wouldn't go to such lengths just to bring a complete stranger outside."
+        },
+        {
+            "name": "Monologue",
+            "text": "Let alone a student who has no professional obligation or responsibility to do so. Despite that, she hadn't hesitated at all.",
+            "choice_data_list": [
+                "<size=38>What on earth made you go that far?</size>",
+                "<size=38>What on earth made you go that far?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Let's see."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Because I want to connect things—perhaps?"
+        },
+        {
+            "name": "Young Horsegirl",
+            "text": "Pisa, run with me this time!"
+        },
+        {
+            "name": "Young Pisa",
+            "text": "Yeah! Let's all do our best so we can go to Tracen Academy together!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "My parents, the adults who supported me, the friends I ran with. Racing gave my younger self so many connections."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—However, unreasonable events… \ncan easily sever those connections."
+        },
+        {
+            "name": "Young Horsegirl",
+            "text": "Pisa…! I'm scared, I'm so scared…!"
+        },
+        {
+            "name": "Young Pisa",
+            "text": "The building is…! \nWhere is everyone…!?"
+        },
+        {
+            "name": "Pisa's Father",
+            "text": "It's dangerous here, we have to get away! \nCome on! Hurry!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "There was a fire at the local junior training facility. Fortunately, there were no casualties, but—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—Many children became afraid of running and distanced themselves from racing altogether."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—Even so."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I am here right now."
+        },
+        {
+            "name": "Pisa's Father",
+            "text": "…It's gotten pretty lonely around here since that fire. Things might never go back to how they used to be…"
+        },
+        {
+            "name": "Young Pisa",
+            "text": "…Dad. If I don't stop running… \ndo you think everyone will come back…?"
+        },
+        {
+            "name": "Young Pisa",
+            "text": "…I want to see everyone again. I want to smile and run together. So… I'll keep running."
+        },
+        {
+            "name": "Young Pisa",
+            "text": "All the sadness, all the loneliness… If we all hold hands, I'm sure we can turn it into happiness!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—I… want to weave hope."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Staying close. Connecting hearts. Erasing loneliness from this world. If I do that, I believe one day we can create a circle of hope that connects the entire world."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "These hands are—to take the hand of someone who is lonely. These legs are—to show hope by continuing to run."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I don't know how much I can accomplish alone. Even so. Even the things I couldn't do back then… maybe someday."
+        },
+        {
+            "name": "Monologue",
+            "text": "Absolute selflessness. Her wish to \"connect hearts with others and weave hope\" was the very guiding principle of her life."
+        },
+        {
+            "name": "Monologue",
+            "text": "That connects not only to her daily life but also to what she wants to achieve through racing."
+        },
+        {
+            "name": "Monologue",
+            "text": "It makes sense why I couldn't see a clear-cut goal for her. It was simply too grand to be seen with a narrow perspective.",
+            "choice_data_list": [
+                "<size=38>You really are… like an angel</size>",
+                "<size=38>You really are… like an angel</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Touched by her endlessly pure and precious feelings, I felt a warmth spread deep within my chest."
+        }
+    ]
+}

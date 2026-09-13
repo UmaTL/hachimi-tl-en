@@ -1,0 +1,271 @@
+{
+    "title": "Tying a Vow",
+    "text_block_list": [
+        {
+            "text": "Summer training camp. Victoire Pisa was dedicating herself to her daily training, giving it her absolute all."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Phew…",
+            "choice_data_list": [
+                "<size=38>Good work. Let's head back and call it a day</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes, thank you again for today."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Umm… if it's alright with you, would you like to take a walk together? I want to feel the beautiful ocean up close. As a memory of the training camp.",
+            "choice_data_list": [
+                "<size=38>Sounds good, let's go</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…—Here's one too."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Sea glass… It's lovely. The sharp shards have come to hold such a gentle light… It's just like a gemstone polished by the sea.",
+            "choice_data_list": [
+                "<size=38>You're right… It's so beautiful…!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes…♪ Ah, there's some over there too…"
+        },
+        {
+            "text": "Whenever she found a lost treasure \nfrom the sea lying all alone—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Going out to sea all alone, traveling for a long time… \nand eventually washing up somewhere again. It's a very beautiful… and happy circle."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…It's okay, you're not lonely anymore."
+        },
+        {
+            "text": "With a smile like an angel, she gently gathered them up one by one."
+        },
+        {
+            "text": "As we continued our walk, we found ourselves in a crowded area before we knew it. Suddenly… I looked down at my feet, and there was—",
+            "choice_data_list": [
+                "<size=38>(A crab. In a place like this…?)</size>"
+            ]
+        },
+        {
+            "text": "The crab was waddling along, weaving its way through the people. However, the tiny crab was hard for people to spot—",
+            "choice_data_list": [
+                "<size=38>Ah! Please watch your step…!</size>"
+            ]
+        },
+        {
+            "name": "Beach Hut Customer",
+            "text": "Whoa… A crab!? \n…That was close, I almost stepped on it…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Trainer? Is something the matter?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—Oh my… Who is this little one…?",
+            "choice_data_list": [
+                "It's trying to cross here, but it looks like it might get stepped on"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I see… It's so small and all by itself, it must be feeling anxious… I wonder if it's heading home…?",
+            "choice_data_list": [
+                "Would it be okay to watch over it until it reaches its destination?"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes…! Yes, of course…! Please let me watch over it with you. Praying for this little one's safety—"
+        },
+        {
+            "text": "The crab made its way through the crowd and safely reached an open space."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "It's making good progress. At this rate—… \nOh my? Oh dear…!"
+        },
+        {
+            "text": "Where she was looking… \na pile of driftwood and trash blocked the crab's path.",
+            "choice_data_list": [
+                "<size=38>It can't move forward like this, can it…?</size>",
+                "<size=38>It can't move forward like this, can it…?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes, at this rate—… \nI'll… go connect a path for it!",
+            "choice_data_list": [
+                "<size=38>I'll help too!</size>",
+                "<size=38>I'll help too!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "It's okay… Please wait right there. \nYou'll be able to move forward again soon."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Little crab, this way. …That's right, one step at a time, one step at a time…",
+            "choice_data_list": [
+                "<size=30>Whoa… It looks like it's being guided by your voice, Pisa</size>",
+                "<size=30>Whoa… It looks like it's being guided by your voice, Pisa</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe… My words are nothing more than a tiny push."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Forward, forward. No matter how small the steps, as long as you move forward with hope… you will be able to return to where it's warm.",
+            "choice_data_list": [
+                "<size=38>(I see…)</size>"
+            ]
+        },
+        {
+            "text": "As long as there's hope, you'll definitely reach a warm place—I believed and watched over that small figure moving forward so desperately, my prayers overlapping with its journey.",
+            "choice_data_list": [
+                "<size=38>You can do it…!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(Trainer… has such an earnest gaze… Looking at each tiny step so carefully, so affectionately…)",
+            "choice_data_list": [
+                "<size=38>Look, Pisa! It's made so much progress!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe… Yes, it really has…!"
+        },
+        {
+            "text": "When it arrived at a rocky area, there were several other crabs around."
+        },
+        {
+            "text": "The crab was welcomed back by its friends, and eventually… \nit slipped into the crevices between the rocks."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "It arrived… safely. This is where it wanted to return to… \nits precious home.",
+            "choice_data_list": [
+                "Could they be its family? It looked like they were waiting for it",
+                "Could they be its family? It looked like they were waiting for it"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I think so. Hehe… Perhaps they couldn't stand the worry, thinking, 『It's late, I wonder if it's almost here』… and came to meet it."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "It's not all alone anymore. It managed to return to the circle where it feels safest… I'm truly glad.",
+            "choice_data_list": [
+                "<size=38>I hope it doesn't run into any more danger…</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I hope they can… continue to live a life full of happiness."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(And I hope their circle—)",
+            "choice_data_list": [
+                "<size=38>I hope their circle never breaks</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(Ah… So that's how it's been… \nThis whole time, always…)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(Your happiness is… My joy. \nYour happiness and mine will always be together—…)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "The sunset today… is so beautiful. \nIt looks so much brighter than usual."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I can see the same colored light reflected in your eyes. \nYes, I'm sure of it—…"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Yes, just like that. Pass it through the looped part—… \nand pull it tight. That's how you weave it."
+        },
+        {
+            "text": "Back at the lodge, Victoire Pisa and I were making charms out of the sea glass we'd picked up and some hemp twine."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Keep going like that… weaving it so it envelops the sea glass. …—Just like this.",
+            "choice_data_list": [
+                "<size=38>Hmm, I can't do it as beautifully as you, Pisa…</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "You're doing great. I can feel your desire to weave it firmly."
+        },
+        {
+            "text": "After being carefully taught by Victoire Pisa, finally—",
+            "choice_data_list": [
+                "<size=38>I-I did it…!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "You did it…! The weaves are all perfectly aligned, it's so beautiful… I'd expect no less."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe… We have matching ones now, don't we?"
+        },
+        {
+            "text": "Since I took my time… and put my feelings into making it, \nI've completely grown attached to it."
+        },
+        {
+            "text": "But since we made them… \nI want to give it to her as a memento of today.",
+            "choice_data_list": [
+                "<size=38>Pisa, here…!</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Umm, if you'd like—"
+        },
+        {
+            "text": "『Let's exchange them』—Our warm words overlapped."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…! …Hehehe. Perhaps our hearts… \nwere already one before we even put it into words—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Let's keep them connected. From now on… \nconstantly, unchangingly. With our own two hands."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "And… may this bond never come undone."
+        }
+    ]
+}
