@@ -1,0 +1,298 @@
+{
+  "title": "Eclipse of Sun and Moon",
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daring Heart",
+      "text": "After all, together we're running the \nTwinkle Series, so we're buddies, right?"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I want to know more about you, \nand you need to learn more about me."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And to do that, I want to spend more time with you. \nI need to experience lots of things. ——Don't you think so?"
+    },
+    {
+      "text": "And so, the day of the party arrived. \nI had my outfit in hand and was making my way to the venue……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Nervous?",
+      "choice_data_list": [
+        "Y-yeah…… a little",
+        "Y-yeah…… a little"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "No surprise there. ……But, don't worry. \nAfter all is said and done, today is a 『Theme Party』!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Once we're on site and changed in to our 『Spy』 outfits, I'm sure \nthe excitement will make you forget all about that! ……We're fine!"
+    },
+    {
+      "text": "Even though she said all that……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "——Wow. \nLooks like a cute little rat snuck its way in."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Checkmate——Just kidding! Sorry for the wait, Trainer! \nOh! Aren't you the perfect 『Office Worker-style Spy』♪",
+      "choice_data_list": [
+        "T-thanks. And your look is……",
+        "T-thanks. And your look is……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufuu, 『Hotelier』! \nQuite the unexpected choice, don't you think?"
+    },
+    {
+      "name": "Heart's Friend",
+      "text": "Ah, it's Heart! That person next to you, are they \nthe rumored trainer? Nice to meet you～! And, Cheers☆",
+      "choice_data_list": [
+        "C-cheers……"
+      ]
+    },
+    {
+      "text": "……The number of attendees was more than I expected. \nI was a little worried I was in over my head……"
+    },
+    {
+      "name": "Loudspeaker",
+      "text": "(Sirens)"
+    },
+    {
+      "name": "Organizer Horsegirl",
+      "text": "Hello everyone! Since everyone's here, \nthe 『Best Agent-Look Contest』 will begin!",
+      "choice_data_list": [
+        "Best Agent……?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "『Best Agent-Look Contest』. Like a 『Disguise Contest』"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Using props alongside your costume, \ndisguise in a manner to complete your 『Mission』!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I plan on entering, how about you?"
+    },
+    {
+      "name": "Heart's Friends",
+      "text": "Of course I'm entering too～! Trainer-san, \nhow about you? Entering? You gonna enter too!?",
+      "choice_data_list": [
+        "Eh!? Um……"
+      ]
+    },
+    {
+      "text": "……To be honest, I'm not very good with being in \nfront of a crowd. But since I'm Daring Heart's trainer……",
+      "choice_data_list": [
+        "I-I think I'll join too……!"
+      ]
+    },
+    {
+      "name": "Organizer Horsegirl",
+      "text": "Next! Agent Daring Heart's 『Mission』 \n……『A Sheltered Lady from a Wealthy Family』!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Good day, everyone. \nTo commemorate our meeting, allow me to play a song."
+    },
+    {
+      "text": "(Gii-Gii-Gii)"
+    },
+    {
+      "name": "Organizer Horsegirl",
+      "text": "But you can hardly play! ……moving on, next! \nThe next Agent is that young lady's trainer-san!"
+    },
+    {
+      "name": "Organizer Horsegirl",
+      "text": "This Agent's mission is——『The Rising Star——A Top Idol』! \nThen, if you please!"
+    },
+    {
+      "text": "As my nervousness peaked, I heard a calm voice in the back of my mind. \n……『If you're going to stumble, then stumble forward』",
+      "choice_data_list": [
+        "——Everyone! I finally get to meet you!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Wow…",
+      "choice_data_list": [
+        "You're not leaving tonight…… Let's run together!",
+        "You're not leaving tonight…… Let's run together!"
+      ]
+    },
+    {
+      "name": "Participants",
+      "text": "Kyaa-! So cool～♡",
+      "choice_data_list": [
+        "Please listen to……『QueenBee』!"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……Oh, my gosh. You are an eager beaver. \nYou're quite the hard worker."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fancy that! You were able to do something like that. \nEveryone was really fired up.",
+      "choice_data_list": [
+        "Ahaha…… I'm glad they enjoyed it"
+      ]
+    },
+    {
+      "text": "That said, it had all been extremely mentally \nand physically draining. I just wanted to relax but……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "If it's like usual, then up next is Dance Time. \nI'm going to join in, but you can get some rest……",
+      "choice_data_list": [
+        "Wait, I'll go too",
+        "Wait, I'll go too"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "What? \nBut aren't you already exhausted?",
+      "choice_data_list": [
+        "……I just thought I should get used to it"
+      ]
+    },
+    {
+      "text": "As her trainer, I would have to be able \nto handle this kind of event regularly……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "——No. \nI'm thankful, but no thanks to that, Trainer."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I told you when I invited you, didn't I? \nMy goal today was just 『Mutual Understanding』"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "What's important is for you to understand. \nIt's not to make you push yourself to try and have fun together.",
+      "choice_data_list": [
+        "Yeah……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "……If you head back inside, I'm sure you'll be \nable to spend a more relaxed time. And you'll \nstill be able to see how things go from in there."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "It's fine if you take a little break. \n——Thanks for doing your best for this long!"
+    },
+    {
+      "name": "Heart's Friend",
+      "text": "Ah, Heart, you already changed. \nWhere are you going? Toilet?"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Non. Just a little tired so I'm gonna take short break. \nSee ya in a bit."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "——Alright, then……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Ah, there they are. \n……Oh——Hmmm?"
+    },
+    {
+      "text": "I listened to the hustle and bustle of \nthe gathering as I went over my notebook……"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "『Based on their appearance, A seems to have a sports background. \nQuite skilled too. Doesn't quite fit as an Ordinary Person』",
+      "choice_data_list": [
+        "Uwah!?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "『B puts a lot of attention in to their outfit. A perfectionist—— \nOr perhaps just well-versed? Might be a good conversation starter』"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Is this perhaps, an analysis of the participants?",
+      "choice_data_list": [
+        "S-sorry……! Just a habit……!"
+      ]
+    },
+    {
+      "text": "At first I was just observing…… but at some point it seems \nlike I switched in to Analysis mode without realizing."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'm shook…",
+      "choice_data_list": [
+        "Eh?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "This is unbelievable! \nIt's amazing, Trainer! It's all correct!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "A is that girl in the one-piece dress, right? \nShe has a black belt in judo!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "And B is that girl right? She's a huge fan of Spy movies. \nShe even cosplays in her everyday life."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "You got all this just from observing?",
+      "choice_data_list": [
+        "Yeah, for the most part……",
+        "Yeah, for the most part……"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "I'm excited! \nIt's almost like you're a real Agent!"
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Hey. Any others? If you don't mind, I'd like to see \nyou analyze a few more! Let's see how close you get!",
+      "choice_data_list": [
+        "Forget about me, what about the party?",
+        "Forget about me, what about the party?"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Geez, you're thickheaded about the weirdest things, you know? \nWith those analytical eyes, I want you to look at me more."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Today, I was able to learn a lot about you. How observant \nyou are, and the way you tend to push yourself hard."
+    },
+    {
+      "name": "Daring Heart",
+      "text": "That's why, you should look at me too? \nYou know what I mean."
+    },
+    {
+      "text": "With just a wink, the unease in my heart just melted away. \nBefore I realized it, the corners of my mouth had naturally lifted.",
+      "choice_data_list": [
+        "……Heart, thank you"
+      ]
+    },
+    {
+      "name": "Daring Heart",
+      "text": "Fufuu, were you able to find your answer? \nThen, let's compare them! Ace Agent-san♪"
+    }
+  ]
+}
