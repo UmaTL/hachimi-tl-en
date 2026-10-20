@@ -1059,6 +1059,11 @@
       "size": 487031
     },
     {
+      "path": "assets/atlas/singlemodescenarioramen/singlemodescenarioramen.json",
+      "hash": "5858a0a8cefb912050e0d9c161e218798ad8594e21a694df3b532dc04189cb99",
+      "size": 76
+    },
+    {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
       "hash": "152f44cbfba4a5bd9c8cdcd78aec18b5d58f258f841b8cc31ace0ae177fad368",
       "size": 129828
@@ -7732,6 +7737,41 @@
       "path": "assets/story/data/04/1110/storytimeline_041110007.json",
       "hash": "4b23f32ba80ff2d851b1e6b147d5878f2bd25dfa6742093d9a61f5884a60b0ee",
       "size": 9303
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112001.json",
+      "hash": "f82ca9684b7ec72e7864d1aa928a4169ab79874c03f6a7899d37f50c2440b970",
+      "size": 7651
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112002.json",
+      "hash": "3e7ae5aae070843facb853861ac7a970aeb4d62d4ef293d4d0ee2216c5d70b7f",
+      "size": 8981
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112003.json",
+      "hash": "c2eac17c36d3329af41502d80fcb7796f70464d1a949576497f30bf0dc715ec9",
+      "size": 9539
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112004.json",
+      "hash": "c3b862a2bc349bed2e35062088d0e28b2fd4f316b7b615da2085d7498fbcdac0",
+      "size": 9254
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112005.json",
+      "hash": "49e1b6fd7edaa31fa05ce886e7f9bda02ccd1fd006c533d4050ffe9546230dec",
+      "size": 6065
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112006.json",
+      "hash": "918b6810e9c1bd846f87911f5d744fcf531279b9bd1380faf8ff5af8def66e6b",
+      "size": 9863
+    },
+    {
+      "path": "assets/story/data/04/1112/storytimeline_041112007.json",
+      "hash": "c6f1fdf3bdb44811ed7c7b26357ec608c43c8de24a85fa81aec13b1488412661",
+      "size": 9764
     },
     {
       "path": "assets/story/data/04/1115/storytimeline_041115001.json",
@@ -19425,8 +19465,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "1d884d8aaed1b161435aa706efa8aca2189471aa6440ed1623689a17172c9e5a",
-      "size": 432795
+      "hash": "aaec041861872dda2d03971f93fdbedff44f0e440b943a4d6acbc98575d81ef1",
+      "size": 433212
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -19440,8 +19480,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dd94d2a32a978e0644401ef9c9bbc2f5bd6feec34e7608c5754240e9b97f0ff0",
-      "size": 3412851
+      "hash": "f941bd138972609b24e2dc04f178c24ddd2dffc42d1413d1e9a6b1070edaff0c",
+      "size": 3413097
     }
   ]
 }
