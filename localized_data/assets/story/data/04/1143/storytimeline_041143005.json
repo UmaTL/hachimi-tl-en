@@ -1,0 +1,170 @@
+{
+    "title": "Touched by Warmth",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I was walking toward the trainer's office, I spotted Victoire Pisa with a student who looked like a friend of hers."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Oh my… So that's what happened. \nA falling out with your roommate…"
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Ugh, yeah～… I want to make up with her, but even when I try to talk to her, she just won't listen to me at all…!"
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Jeez, I feel like I'm completely out of options! Pisaa, will you join me for some stress-eating!?"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes, of course. …Oh, why don't we go to the cafe in front of the station? They have a famous heaping fruit parfait… Actually, I've been curious about it for a while."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Please, take your time… and tell me all about it there. \nLet's look for a solution together."
+        },
+        {
+            "name": "Pisa's Friend",
+            "text": "Pisa～…! You're so kind. \nIt just makes me want to rely on you…!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Hehe… Yes, go right ahead. \nI'll be waiting for you anytime.",
+            "choice_data_list": [
+                "<size=38>(She's incredible, as always…)</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Victoire Pisa will likely stay by her friend's side until she feels better. —A sight I've grown entirely used to seeing."
+        },
+        {
+            "name": "Monologue",
+            "text": "I became her trainer… because I wanted to be a source of strength for her."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later in the trainer's office, I was at my computer, powering through my backlog of work, when—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Trainer, I have something to discuss regarding tomorrow's training—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…I apologize. It seems you're busy. \nShould I come back later?",
+            "choice_data_list": [
+                "<size=38>No! I'll be done soon, so can you wait a bit?</size>",
+                "<size=38>No! I'll be done soon, so can you wait a bit?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Understood. It's not urgent, so please take your time."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…Oh… This plug is coming loose… \nThat's dangerous…"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…There, all good."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "—Oh my, this one too!"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Let's make sure you're connected firmly. \nSo you don't come loose again."
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Kya…!?",
+            "choice_data_list": [
+                "<size=38>Pisa!?</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The monitor blacked out. The wiring had short-circuited! \nI rushed over to her.",
+            "choice_data_list": [
+                "<size=38>Are you okay!? Are you hurt!?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "I'm okay. \nI'm so sorry, this is my fault—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Ah… Your computer? Is the data safe…!?",
+            "choice_data_list": [
+                "<size=38>Never mind that, to the infirmary!</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I checked every inch of her hands. \nChecking for cuts, checking for burns—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Trainer, I really am fine…! \nMore importantly, your work data—",
+            "choice_data_list": [
+                "<size=36>I can always redo the work. More importantly—</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After checking her hands over and over… \nIt seemed she really was unhurt.",
+            "choice_data_list": [
+                "<size=38>Not a single scratch… Thank goodness…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I was careless. I knew she had a habit of wanting to connect things. Yet I left the cords out without tidying them up…"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…I'm sorry. To have caused such a thing… \nand made you worry so much…",
+            "choice_data_list": [
+                "<size=32>It's fine. As long as you're safe, that's all that matters</size>",
+                "<size=32>It's fine. As long as you're safe, that's all that matters</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Trainer——……"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(Such genuine, heartfelt relief on your face… \nAh, Trainer really… cares about me…)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…So warm. Your feelings, your gaze, they always envelop me, \nno matter when…"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "Yes, you always… take my hand and guide me, as if inviting me into the center of the circle…—"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(…Hey, Trainer. I want to know more about you…)"
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "(I want to make you even happier… more and more—)",
+            "choice_data_list": [
+                "<size=38>…Pisa? Does it hurt somewhere after all?</size>"
+            ]
+        },
+        {
+            "name": "Victoire Pisa",
+            "text": "…No. It's nothing at all—"
+        }
+    ]
+}
