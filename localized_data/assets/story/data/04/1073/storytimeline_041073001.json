@@ -1,0 +1,254 @@
+{
+    "title": "A Drawn Red Line",
+    "text_block_list": [
+        {
+            "name": "Academy Staff",
+            "text": "All Horsegirls running in the first race, please line up here! We have an absence, so skip number 5 and—…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Today is the 『Selection Race』! It's a very important opportunity for trainers to assess the abilities of Horsegirls and scout them!",
+            "choice_data_list": [
+                "<size=36>(Plus, there are a lot of notable girls this time!)</size>"
+            ]
+        },
+        {
+            "name": "Trainers",
+            "text": "Looking good, El Condor Pasa! Your left and right muscle balance is perfect. The second-generation Horsegirl King Halo is running too, huh. That mother's daughter is finally…",
+            "choice_data_list": [
+                "<size=34>(I know, right! I want to talk to those two as well…)</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Special Week just transferred in, but her closing speed is already well-known. Grass Wonder also has a high reputation with an air of greatness even before her debut."
+        },
+        {
+            "name": "Monologue",
+            "text": "And Seiun Sky, who's just here to watch, is another one to keep an eye on. Anyway, I can't afford to miss anyone's run. Naturally, my shoulders tense up—!"
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "H… Hey, you!",
+            "choice_data_list": [
+                "<size=38>Yes?</size>"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Y-Your nose…! B-Blood!!",
+            "choice_data_list": [
+                "<size=38>Huh? …Whoa!?</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When I touch the bottom of my nose, a glistening, ink-like liquid sticks to my fingers. There's no pain, but the smell of iron and the sensation of something dripping won't stop."
+        },
+        {
+            "name": "Veteran Trainer",
+            "text": "W-Wait… The infirmary! Go! I'll give you a towel! \nPress this against it!"
+        },
+        {
+            "name": "School Nurse",
+            "text": "Yep, the bleeding has stopped. But please rest for 30 minutes. …Ah, ugh… An emergency call. …Hmm…"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Excuse me! I'm free right now! \nShould I keep them company?"
+        },
+        {
+            "name": "School Nurse",
+            "text": "That'd be a huge help, do you mind? Let me know if anything happens. …And Trainer, you are still on \"bed rest,\" okay?",
+            "choice_data_list": [
+                "<size=38>…Y-Yeth</size>"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "If you need anything, just tell me! \nDon't hesitate at all!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Still, what a disaster. \nGetting a nosebleed right before the selection race.",
+            "choice_data_list": [
+                "<size=38>Ahaha… It really is…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been a while since I was treated. Even as we speak, the selection races must be proceeding. I wonder which group is running right now."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wanted to stay there if possible. But watching while having a nosebleed would only make everyone around me worried.",
+            "choice_data_list": [
+                "<size=38>(So it can't be helped…)</size>",
+                "<size=38>(So it can't be helped…)</size>"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Umm, I'll put your things together over here! \nYour bags go～ …there we are."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "—Whoa."
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Look at all these notes… These are the materials for the selection race, right!? There are so many red marks… \nYou even noted down El's final sprint time!"
+        },
+        {
+            "name": "Horsegirl",
+            "text": "Wow～!",
+            "choice_data_list": [
+                "<size=32>T-They're not really meant to be stared at like that…</size>"
+            ]
+        },
+        {
+            "name": "Horsegirl",
+            "text": "! You're right! This is proof of your hard work. It's like a trade secret or something, right!? I'll forget it in an instant!",
+            "choice_data_list": [
+                "<size=34>No, no, I'm just saying it's nothing that impressive</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "This is!? Eeeh～!? \nEeeeeh～!!??"
+        },
+        {
+            "name": "Monologue",
+            "text": "Smiling wryly at her wide eyes, I take the documents back. \nAs a rookie, I fall short of my seniors in so many ways, but…"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "But still, checking up on not just King and the others, but Spe too is exactly what I'd expect from a pro!"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "Spe just transferred in, after all! \nAnd this note in the corner about Sei is～ …spot on!"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "\"Any race Seiun Sky observes is a must-watch\"—exactly! \nSei is really sharp! She's also really good at guessing what'll be on tests!",
+            "choice_data_list": [
+                "<size=38>Ahaha, you sure know a lot about them</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "You bet! Hehe, do you want to hear more? \nGrass is really good at grabbing El's tail and～"
+        },
+        {
+            "name": "Monologue",
+            "text": "She speaks proudly of the Horsegirls who will likely become the representatives of this generation. Then, the topic shifts to the selection race I couldn't watch—"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "I bet Spe is going to run freely and smoothly. \nThen El will push ahead with her powerful leading pace…",
+            "choice_data_list": [
+                "<size=34>And Grass Wonder will chase them from behind!</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "I know, right! King will attack the exact same way! They'll make their move on the straight! All of them! It'll be an all-out battle of final sprints!!",
+            "choice_data_list": [
+                "<size=38>Whoa～! I really wanted to see that race～～!!</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "…Ah. Waaaaah～～! I'm so sorry! I said too much and made you feel disappointed all over again—!",
+            "choice_data_list": [
+                "<size=38>(…Hm?)</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "I-It's okay! Even if it's not the selection race, I'm sure you'll have other chances to watch them! They all love running, after all!"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "They might even have an unofficial race tomorrow! \nThat happens all the time! So—!",
+            "choice_data_list": [
+                "<size=38>…! It's okay, I'm not feeling down anymore</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "…Really? \nYour sadness about missing it hasn't flared up again…",
+            "choice_data_list": [
+                "<size=38>It hasn't! Not at all!</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "My conversation with her filled me with excitement rather than sorrow. When I explain that, the girl in front of me blushes with a blooming smile."
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "Phew… Then I'm glad! \nEhehe… Thank goodness～",
+            "choice_data_list": [
+                "<size=38>Ah… By the way, may I ask your name?</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "…? My name?",
+            "choice_data_list": [
+                "<size=36>Yeah, I thought this might be some kind of fate</size>"
+            ]
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "—! In that case!!"
+        },
+        {
+            "name": "Girl Named Tsuyoshi",
+            "text": "It's written in the materials you have! \nIn the first race, look—Tsurumaru Tsuyoshi!",
+            "choice_data_list": [
+                "<size=38>…Huh?</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I look down at the materials in my hand. \nAcross that name in the first race—"
+        },
+        {
+            "name": "Monologue",
+            "text": "—there is a single red line drawn, indicating her withdrawal."
+        },
+        {
+            "name": "Academy Staff",
+            "text": "All Horsegirls running in the first race, please line up here! We have an absence, so skip number 5 and—…",
+            "choice_data_list": [
+                "<size=38>Wait, are you number 5? The absentee…?</size>"
+            ]
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ahaha… I really wanted to run, but… \nmy leg started hurting. The doctor put a stop to it.",
+            "choice_data_list": [
+                "<size=38>Ah… Um…</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "The 『Selection Race』 is an important opportunity for trainers looking to scout. And for Horsegirls who want to be scouted, it means even more—"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "But! This isn't the end! \nEven if my road to debut gets longer, I won't give up!"
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "No matter how many opportunities I miss. \nNo matter how amazing the girls around me are."
+        },
+        {
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "I'll become a rising star who catches the eye of someone like you!"
+        }
+    ]
+}
