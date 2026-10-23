@@ -1,0 +1,255 @@
+{
+    "title": "After the Shuka Sho: Let's Dream Again",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Red Desire",
+            "text": "Haaaaaaaaahh!!!!!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Desire…! That feeling of \"I want to win\"…\n\"I have to win\"… It's piercing straight into my\nheart! It hurts… but—!)"
+        },
+        {
+            "name": "Fans",
+            "text": "\"Bueeena Vistaaaaaa!!\"\n\"Buenaaaaaa!!\"",
+            "choice_data_list": [
+                "Buena! Win this!!",
+                "Buena! Win this!!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!! Haaaaaaaaaaahhhh!!"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Waaaaaahhhh…!!)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ahh… It's over."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I couldn't see… that breathtaking view after\nall…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Ughhh…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! That voice…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Even now… it still isn't enough…!"
+        },
+        {
+            "name": "Red Desire",
+            "text": "Even with Cafe's guidance bestowed upon\nme… I still fall short? Then…"
+        },
+        {
+            "name": "Red Desire",
+            "text": "How much more training must I endure…\nbefore I can finally reach it?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…Ordinarily, one would despair here. But I am\ndifferent… aren't I?"
+        },
+        {
+            "name": "Red Desire",
+            "text": "…I give thanks. For granting me yet another\ntrial. For through it… I may become an even\ngreater saint."
+        },
+        {
+            "name": "Red Desire",
+            "text": "Now then, the next race awaits. My beloved\nis waiting for me there…♪"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah. You're right."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(I need to keep looking forward too. I'm sure\nI disappointed everyone, but still…)"
+        },
+        {
+            "name": "Spectators",
+            "text": "\"Buena Vistaaaaa!!\"\n\"You did a great job too!!\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Huh?"
+        },
+        {
+            "name": "Fans",
+            "text": "\"This year's Tiara races were so much fun\nbecause of you!\"\n\"Thank you for such a moving experience!\"\n\"Buena, you're the best!!\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista looks around her. No matter whose\nfan they are, they still cheer and applaud her\nfor fighting to the very end…"
+        },
+        {
+            "name": "Monologue",
+            "text": "It was such a warm… and a beautiful sight."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(…It's not over yet, is it? I want to feel\neveryone's happiness even more…! …Next\ntime, through victory.)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Thank you so much, everyone!\nThank you… so much!!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Haahh… Buena Vista was incredible. Even I\ngot a little emotional watching that…"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Right!? I totally get it…!! Even the way Buena\nruns feels so earnest… and on top of that, she's\ngot that angel-like charm!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "She just makes you want to cheer for her!\nShe's gonna be huge next year too… Let's\nkeep supporting her like crazy!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "…She is the real deal."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "Indeed. It seems… we've gained another\ndelightful companion on this road."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Don't go messing around with her, got it?\nShe's <i>my</i> prey."
+        },
+        {
+            "name": "Dream Journey",
+            "text": "I have no intention of doing that. I'm well\naware… she won't be an easy opponent."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I couldn't claim that final title."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm sorry……",
+            "choice_data_list": [
+                "…But it was still a beautiful sight.",
+                "…But it was still a beautiful sight."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! You felt that way too, Trainer?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It was such a beautiful view… that it almost\nmade me think… if I'd won, it would've become\na true breathtaking view. And that's what hurts\nso much…."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So… I'm not going to stop here."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I couldn't reach the breathtaking view of the\nTriple Tiara. But… if it's us, we can still go\nfarther."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We can find an even greater breathtaking\nview…!",
+            "choice_data_list": [
+                "Our promise… isn't over yet.",
+                "Our promise… isn't over yet."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah! A breathtaking view that burns itself into\neveryone's eyes… that reaches all the way to\nthe depths of their hearts, let's aim for that\nagain!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista's eyes sparkle brightly. Her dream\nis far from over. If anything, her heart has\nalready begun walking toward the next horizon.",
+            "choice_data_list": [
+                "Yeah. Let's go see an even greater view!",
+                "Yeah. Let's go see an even greater view!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But… what do we need to do to see an even\ngreater breathtaking view?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "A breathtaking view that's truly ours. Something\neven greater than what we saw today…",
+            "choice_data_list": [
+                "Something unlike Spe's Japan Cup too…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…! Trainer, I think you're right!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hey, let's go watch the Japan Cup. That race\nis where our dream began… Don't you think\nthere might be a clue waiting there?",
+            "choice_data_list": [
+                "Then… you're not planning to run in it?",
+                "Then… you're not planning to run in it?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Yeah. I want to experience it the same way\nI did back then… from the perspective of\n<i>everyone</i> watching together. Without that\nfeeling, it wouldn't really be our dream."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "If we're going to go beyond what we reached\ntoday, then I want to witness it properly with\nmy own eyes!",
+            "choice_data_list": [
+                "Got it. Then what should our next race be…?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Okay! How about the Arima Kinen?"
+        },
+        {
+            "name": "Monologue",
+            "text": "The Arima Kinen is the year-end Grand Prix\nrace. A stage where horsegirls worthy of\nrepresenting their era gather to answer the\nexpectations of their fans.",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So many people supported me, right? Their\nvoices gave me strength. I have to repay them\nfor that!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The Classic Triple Crown runners… the\nsenior-class too… I'm sure it'll be a tough\nfield. But…",
+            "choice_data_list": [
+                "You can win.",
+                "You can win."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Hehe. I believe that too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, the next goal is set: the Arima Kinen!"
+        }
+    ]
+}
