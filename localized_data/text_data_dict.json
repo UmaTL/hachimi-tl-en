@@ -1134,7 +1134,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -21643,6 +21644,9 @@
         "371": "<color=#ff911c>Every year after late december</color>, new knowledge is turned\ninto plans for the new year, and <color=#ff911c>gathered Expertise will\nbe reset</color>! Any <color=#ff911c>remaining expertise</color> lost this way is <color=#ff911c>converted\ninto energy</color>. Remaining <color=#ff911c>special seasonings will not reset</color>,\nso plan wisely!",
         "372": "A <color=#ff911c>Ramen Jamboree</color>, or <color=#ff911c>RMJ</color> for short, are events where\nhorsegirls can put all their gained ramen skill and knowledge\non display for attendees! A bigger <color=#ff911c>Turnout</color> increases not only\nthe fun, but your trainee's growth as well!",
         "373": "You'll <color=#ff911c>gain 2 special seasonings</color> at the start of summer\ncamp, and <color=#ff911c>1 more every turn</color>! The summer is a perfect\ntime to enjoy ramen and Taste Tests' effects on training!",
+        "375": "Skill Sets help you <color=#ff911c>manage your skill targets in a Career</color>.\nEach skill can be assigned to one of the priority groups\n(High Priority, Preferred, Normal), and order within each\ngroup can be configured.",
+        "376": "Skill Sets can be created from <color=#ff911c>Veteran Horsegirls</color>,\n<color=#ff911c>Trainer Guides</color>, or <color=#ff911c>other trainer's Skill Sets</color>. Share IDs \nallow you to share your own sets for others to use.",
+        "377": "Selecting a Skill Set on the skill learning screen will\n<color=#ff911c>distribute Skill Pt</color> to the selected skills accordingly.\nYou can review the results before committing.",
         "382": "Using the <color=#ff9900>Event Boost</color>, twice the TP will be used at the \nstart of training to double the <color=#ff9900>Research Gauge's fill rate</color>.",
         "385": "The Career Roadmap <color=#ff9900>helps you train</color> powerful horsegirls.\nIt allows planning out all manner of detail for not only your \ntrainee herself, but <color=#ff9900>all other horsegirls</color> in her legacy.",
         "386": "Activate a roadmap, and the feature will automatically \n<color=#ff9900>take various actions during a Career to guide you to its \nintended outcome</color>. For example, skills and support cards\ncan be selected and managed for you.",
@@ -34882,6 +34886,7 @@
         "10146": "Efforia",
         "10147": "Rulership",
         "10148": "Samson Big",
+        "10149": "Azuma",
         "20001": "Fuji Kiseki",
         "20002": "Daiwa Scarlet",
         "20003": "Hishi Amazon",
@@ -35298,7 +35303,9 @@
         "30318": "Rice Shower",
         "30319": "Narita Brian",
         "30320": "Admire Groove",
-        "30321": "Duramente"
+        "30321": "Duramente",
+        "30322": "Mayano Top Gun",
+        "30323": "Azuma"
     },
     "78": {
         "10001": "Special Week",
@@ -35374,7 +35381,7 @@
         "10071": "Sirius Symboli",
         "10072": "Narita Brian",
         "10073": "Curren Chan",
-        "10074": "<i>Anshinzawa Sasami</i>",
+        "10074": "Anshinzawa Sasami",
         "10075": "Admire Vega",
         "10076": "Mejiro Bright",
         "10077": "Narita Top Road",
@@ -35447,6 +35454,7 @@
         "10146": "Efforia",
         "10147": "Rulership",
         "10148": "Samson Big",
+        "10149": "Azuma",
         "20001": "Fuji Kiseki",
         "20002": "Daiwa Scarlet",
         "20003": "Hishi Amazon",
@@ -35610,7 +35618,7 @@
         "30064": "Tamamo Cross",
         "30065": "Zenno Rob Roy",
         "30066": "Mihono Bourbon",
-        "30067": "<i>The Throne's Assemblage</i>",
+        "30067": "The Throne's Assemblage",
         "30068": "Curren Chan",
         "30069": "Narita Brian",
         "30070": "Yukino Bijin",
@@ -35623,7 +35631,7 @@
         "30077": "Admire Vega",
         "30078": "Matikanefukukitaru",
         "30079": "Meisho Doto",
-        "30080": "<i>Anshinzawa Sasami</i>",
+        "30080": "Anshinzawa Sasami",
         "30081": "Team Sirius",
         "30082": "Nishino Flower",
         "30083": "Sakura Bakushin O",
@@ -35680,7 +35688,7 @@
         "30134": "Mejiro Ramonu",
         "30135": "Katsuragi Ace",
         "30136": "Symboli Kris S",
-        "30137": "<i>Progenitors & Guides</i>",
+        "30137": "Progenitors & Guides",
         "30138": "Nice Nature",
         "30139": "Mejiro McQueen",
         "30140": "Tokai Teio",
@@ -35722,7 +35730,7 @@
         "30177": "Vivlos",
         "30178": "Duramente",
         "30179": "Satono Diamond",
-        "30180": "<i>Timeless Icons</i>",
+        "30180": "Timeless Icons",
         "30181": "Twin Turbo",
         "30182": "Hokko Tarumae",
         "30183": "Winning Ticket",
@@ -35863,7 +35871,9 @@
         "30318": "Rice Shower",
         "30319": "Narita Brian",
         "30320": "Admire Groove",
-        "30321": "Duramente"
+        "30321": "Duramente",
+        "30322": "Mayano Top Gun",
+        "30323": "Azuma"
     },
     "88": {
         "10001": "My name is Special Week! My dream is to be the best horsegirl in Japan! I'm gonna pull my own weight to make my moms proud!",
@@ -43246,7 +43256,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "171": {
         "12": "Login Bonus",
@@ -45897,7 +45908,8 @@
         "9048": "Haiseiko",
         "9049": "Tucker Bryne",
         "9050": "Hoshina Kiyoko",
-        "9051": "Yunohana Bloom"
+        "9051": "Yunohana Bloom",
+        "9052": "Azuma"
     },
     "186": {
         "1": "Raise the lvl of your support cards \nto get a support bonus!",
@@ -55636,6 +55648,7 @@
         "501131300": "Summer Camp (Year 2) Ends",
         "501131508": "Race Fatigue",
         "501131509": "After Repeated Races",
+        "501131515": "Gran Alegria",
         "501131521": "Night Owl",
         "501131522": "Skin Troubles",
         "501131600": "Ready for a Challenge",
@@ -57055,7 +57068,12 @@
         "20640326": "Our target is Gold Ship!",
         "20640327": "Our target is Satono Diamond!",
         "20640328": "Our target is Tap Dance City!",
-        "20640329": "Our target is Orfevre!"
+        "20640329": "Our target is Orfevre!",
+        "21004701": "Orfevre",
+        "21004702": "Mejiro Ramonu",
+        "21004703": "Gentildonna",
+        "21004704": "Sirius Symboli",
+        "21004705": "Smart Falcon"
     },
     "278": {
         "29": "Hikari (NPC)"
@@ -61720,6 +61738,7 @@
         "3202": "One extra character from your deck's support cards appears\non the <atlas=Common sprite=utx_ico_obtain_00/> Speed, <atlas=Common sprite=utx_ico_obtain_03/> Guts, and <atlas=Common sprite=utx_ico_obtain_04/> Wit training facilities."
     },
     "429": {
+        "7": "Inari One",
         "23": "Triumphant Pulse",
         "59": "Running away with it",
         "60": "Straight Shot",
@@ -61730,7 +61749,8 @@
         "385": "Yasuda Kinen",
         "386": "Mainichi Okan",
         "387": "Mile CS",
-        "405": "Ready for a Challenge"
+        "405": "Ready for a Challenge",
+        "426": "Haiseiko"
     },
     "430": {
         "1": "Friendship Bonus",
