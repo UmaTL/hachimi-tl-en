@@ -21644,10 +21644,12 @@
         "371": "<color=#ff911c>Every year after late december</color>, new knowledge is turned\ninto plans for the new year, and <color=#ff911c>gathered Expertise will\nbe reset</color>! Any <color=#ff911c>remaining expertise</color> lost this way is <color=#ff911c>converted\ninto energy</color>. Remaining <color=#ff911c>special seasonings will not reset</color>,\nso plan wisely!",
         "372": "A <color=#ff911c>Ramen Jamboree</color>, or <color=#ff911c>RMJ</color> for short, are events where\nhorsegirls can put all their gained ramen skill and knowledge\non display for attendees! A bigger <color=#ff911c>Turnout</color> increases not only\nthe fun, but your trainee's growth as well!",
         "373": "You'll <color=#ff911c>gain 2 special seasonings</color> at the start of summer\ncamp, and <color=#ff911c>1 more every turn</color>! The summer is a perfect\ntime to enjoy ramen and Taste Tests' effects on training!",
+        "374": "<color=#ff911c>Trainer Abilities</color> providing various useful effects can be \nactivated <color=#ff911c>for a time</color> during a Career through the use of \n<color=#ff911c>Ability Pt</color> from special items. Pick the right ones for your \ngoals and make good use of their boosts!",
         "375": "Skill Sets help you <color=#ff911c>manage your skill targets in a Career</color>.\nEach skill can be assigned to one of the priority groups\n(High Priority, Preferred, Normal), and order within each\ngroup can be configured.",
         "376": "Skill Sets can be created from <color=#ff911c>Veteran Horsegirls</color>,\n<color=#ff911c>Trainer Guides</color>, or <color=#ff911c>other trainer's Skill Sets</color>. Share IDs \nallow you to share your own sets for others to use.",
         "377": "Selecting a Skill Set on the skill learning screen will\n<color=#ff911c>distribute Skill Pt</color> to the selected skills accordingly.\nYou can review the results before committing.",
         "382": "Using the <color=#ff9900>Event Boost</color>, twice the TP will be used at the \nstart of training to double the <color=#ff9900>Research Gauge's fill rate</color>.",
+        "383": "Ability Pt can be gained from the Training Pass and\na variety of events. More points can be gained from\npurchasing the Premium Pass.",
         "385": "The Career Roadmap <color=#ff9900>helps you train</color> powerful horsegirls.\nIt allows planning out all manner of detail for not only your \ntrainee herself, but <color=#ff9900>all other horsegirls</color> in her legacy.",
         "386": "Activate a roadmap, and the feature will automatically \n<color=#ff9900>take various actions during a Career to guide you to its \nintended outcome</color>. For example, skills and support cards\ncan be selected and managed for you.",
         "387": "You can also <color=#ff9900>compare</color> Veterans and Legacy-only Horsegirls \nto <color=#ff9900>see how they stack up to the roadmap's objective</color>.",
@@ -61872,6 +61874,26 @@
         "2": "It looks like these surface types don't suit her. \nI suggest you change your schedule.",
         "3": "It looks like these distances don't suit her. \nI suggest you change your schedule."
     },
+    "470": {
+        "1": "Motivation Guard",
+        "2": "Condition Guard",
+        "3": "Race Retries",
+        "4": "Extra Trait Lottery",
+        "5": "Trait Enhancement",
+        "6": "Improved Affinity",
+        "7": "Unique Trait Inspiration",
+        "8": "Improved Education"
+    },
+    "471": {
+        "1": "Prevent 1 motivation drop.\nGain 2 positive conditions.",
+        "2": "Protect against 1 negative condition.\nGain 1 positive condition.",
+        "3": "Allow retrying races up to 10 times.",
+        "4": "Gain up to 3 random available unacquired \ngeneric traits during Legacy Inspiration.",
+        "5": "Increase up to 5 random ★1–★2 traits \nto ★3 during Legacy Inspiration.",
+        "6": "Increase your trainee's affinity with \neach horsegirl in her legacy by 10.",
+        "7": "Your trainee randomly obtains 1 of her legacy's unique traits \nin the senior year's Legacy Inspiration.",
+        "8": "Decrease the Skill Pt cost of skills by 4%.\nGain a positive condition."
+    },
     "475": {
         "1": "$(ho 0)$(vo 0)Slow-simmered local ingredients give this ramen's broth a deep miso flavor and great nutritional value!",
         "2": "$(ho 0)$(vo 0)It may look simple, but its clear broth brings out this ramen's strong umami flavors!",
@@ -61883,6 +61905,16 @@
         "8": "$(ho 0)$(vo 0)A sweet and addicting soy-based broth with plenty of pork fat and a generous topping of scallions.",
         "9": "$(ho 0)$(vo 0)A variety of ingredients simmered in a soy-based broth. The faint sweetness of its broth will leave you wanting more!",
         "10": "$(ho 0)$(vo 0)Extra thin noodles in a creamy pork-based broth. Perfect for a noodle refill and leaving with a round belly!"
+    },
+    "480": {
+        "1": "Prevent 1 motivation drop.\nGain 2 positive conditions.",
+        "2": "Protect against 1 negative condition.\nGain 1 positive condition.",
+        "3": "Allow retrying races up to 10 times.",
+        "4": "Gain up to 3 random available \nunacquired generic traits during \nLegacy Inspiration.",
+        "5": "Increase up to 5 random ★1–★2 traits \nto ★3 during Legacy Inspiration.",
+        "6": "Increase your trainee's affinity with \neach horsegirl in her legacy by 10.",
+        "7": "Your trainee randomly obtains 1 of her \nlegacy's unique traits in the senior year's \nLegacy Inspiration.",
+        "8": "Decrease the Skill Pt cost of skills \nby 4%. Gain a positive condition."
     },
     "484": {
         "1": "A most special bowl of shōyu ramen, brimming with love!",
