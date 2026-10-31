@@ -1,0 +1,200 @@
+{
+    "title": "Heart to Heart…?",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "—I've been entrusted with an important job."
+        },
+        {
+            "name": "Monologue",
+            "text": "A collaboration event between a certain famous sports brand and Tracen Academy. There, the academy's Horsegirls are supposed to introduce their new products, but—"
+        },
+        {
+            "name": "Espoir City",
+            "text": "Hmm～ So this is that latest giant tire for pulling, huh."
+        },
+        {
+            "name": "Transcend",
+            "text": "Word is it has 108 new features. Really makes my inner gadget geek tingle～"
+        },
+        {
+            "name": "Monologue",
+            "text": "My role is to instruct the Horsegirls participating in the event. I wonder how we should go about promoting the new products…",
+            "choice_data_list": [
+                "(I wonder if I can do this right…)",
+                "(I wonder if I can do this right…)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "It'll be okay. I'm sure you can do it, Trainer."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wanting to entertain everyone, wanting them to understand how good the product is… Your earnest feelings will definitely get across."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So, just like during that diet… \nLet's do our best together.",
+            "choice_data_list": [
+                "…Let's do our best!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, we all gathered in front of the giant new tire sitting in a corner of the track.",
+            "choice_data_list": [
+                "…What should we promote first?",
+                "…What should we promote first?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Whatever the case, let's have everyone share their ideas first. I'll take notes!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "We absolutely have to show off its main attraction, the transformation feature."
+        },
+        {
+            "name": "Transcend",
+            "text": "Hmm, hmm. According to the manual, the lightest is 『Water Flea Mode』 and the heaviest is 『Mammoth Mode』"
+        },
+        {
+            "name": "Espoir City",
+            "text": "It's a training tool, so we gotta at least show us using it first, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah! Then I'll try pulling it once for now!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Led by the proactive Buena Vista, everyone worked together and preparations progressed smoothly—"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Our promotional points are really coming together. Hehe, I'm looking forward to the actual day.",
+            "choice_data_list": [
+                "Sorry for not being much help",
+                "Sorry for not being much help"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "No, no! That's not true at all."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Watching you… Your feelings get conveyed to me. The feeling of wanting to do your best."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm getting a share of your energy that way. If anything, I should be the one thanking you."
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista always sympathizes with my feelings so deeply… And finally, the day of the event arrived."
+        },
+        {
+            "name": "Audience",
+            "text": "(Chatter, chatter… Murmur, murmur…)"
+        },
+        {
+            "name": "Transcend",
+            "text": "Oh boy, it's a bigger crowd than I expected. Talk about a heavy responsibility…"
+        },
+        {
+            "name": "Espoir City",
+            "text": "Heh! L-Like hell I'd get scared over somethin' like this! Let's get this over with quick!",
+            "choice_data_list": [
+                "A-A-A-Alright… Let's do this!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…I can feel everyone's nervousness. I feel it too. But… Buena Vista is right beside me—"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I-I'm… Okay! If we do it just like the rehearsal, I'm sure…!",
+            "choice_data_list": [
+                "(…Hm?)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "E-Everyone who gathered to see the new training tire…! T-Then… L-Let's begin!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Come to think of it, Buena Vista has always empathized with my feelings. Treating every little thing as if it were her own—",
+            "choice_data_list": [
+                "<size=32>Don't tell me… My nervousness rubbed off on her…!?</size>",
+                "<size=32>Don't tell me… My nervousness rubbed off on her…!?</size>"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "F-First, we launch the dedicated control app… Um… Err…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "H… Here!"
+        },
+        {
+            "name": "New High-Tech Tire",
+            "text": "(Whirrr! Claaang!)"
+        },
+        {
+            "name": "Transcend",
+            "text": "Whoa!? Buena, that's the switch for Underwater Navigation Mode!",
+            "choice_data_list": [
+                "T-Then let's try this switch…"
+            ]
+        },
+        {
+            "name": "New High-Tech Tire",
+            "text": "…DESTROY…!"
+        },
+        {
+            "name": "Espoir City",
+            "text": "That's the switch for Berserker Mode!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Umm… Emergency Stop!"
+        },
+        {
+            "name": "Monologue",
+            "text": "…Despite some rather dangerous moments, we somehow managed to proceed with the program—"
+        },
+        {
+            "name": "Returning Audience",
+            "text": "『Hmm… That wasn't half bad, right?』 \n『I guess I'll… Buy it…』 \n『I thought the school building was going to be destroyed…』"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "—Good work out there, everyone.",
+            "choice_data_list": [
+                "I-I'm sorry… For messing it up…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I'm sorry. If only I hadn't gotten so nervous—",
+            "choice_data_list": [
+                "N-No, it's my fault…",
+                "N-No, it's my fault…"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "It's alright! It was well-received overall, and the client was satisfied…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I suppose I should be glad we just \nmanaged to pull it off… Still, if there's a next time, I'll have to try harder."
+        }
+    ]
+}
