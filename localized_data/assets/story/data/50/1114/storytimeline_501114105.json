@@ -1,0 +1,239 @@
+{
+    "title": "Summer Camp (Year 3) Begins!",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Another summer training camp begins, all in the name of improving our abilities. However, there are a few things that won't be quite the same as usual…"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Everyone～! I have an announcement!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Normally, we allow interviews during summer training camp when necessary… but this year, we'd like to prohibit them almost entirely!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "We've also increased the number of security guards compared to previous years! But don't worry, it's not because anything happened, okay～!"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "…Well, it's obviously all for Buena. She's gotten so popular lately… It'd be a problem if anything happened to her."
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "We want to be able to focus on this important training camp, too～ So it's lucky for us, right?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…For my sake, huh.",
+            "choice_data_list": [
+                "You don't have to feel bad about it.",
+                "You don't have to feel bad about it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Trainer…",
+            "choice_data_list": [
+                "Let's focus with all we've got and make some huge gains!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe. Yeah… I think I'll do just that!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "And then… I'll be able to answer everyone's expectations even better."
+        },
+        {
+            "name": "Monologue",
+            "text": "So, thanks to the academy's consideration, we'd been given an environment where we could focus more than ever… or at least, that's how it was supposed to be."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Whew, just like every year… this summer heat is absolutely brutal…",
+            "choice_data_list": [
+                "(They're here anyway!?)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh? A reporter… I thought this year was supposed to…?",
+            "choice_data_list": [
+                "I'll go check, so wait here a moment."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I couldn't tell whether they'd gotten permission or this was just a communication mix-up… As I was about to ask the reporter what was going on…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "It's an honor to be invited! Orfevre!",
+            "choice_data_list": [
+                "(It's Orfevre…!)"
+            ],
+            "color_text_info_list": [
+                "Orfevre"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Appearing with an air of majesty is Orfevre… This year, she's won both the Satsuki Sho and the Derby, just one race away from completing the Triple Crown."
+        },
+        {
+            "name": "Monologue",
+            "text": "Naturally, she's been attracting just as much attention as Buena Vista."
+        },
+        {
+            "name": "Reporter A",
+            "text": "People are already saying the Triple Crown is practically guaranteed. How confident are you feeling?"
+        },
+        {
+            "name": "Orfevre",
+            "text": "…Repent. And repent swiftly."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Huh?"
+        },
+        {
+            "name": "Orfevre",
+            "text": "The Triple Crown shall be mine. That is a certainty. Foolish questions will not be tolerated."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Y-Yes…! My apologies…!",
+            "choice_data_list": [
+                "(Is she some kind of magistrate…?)"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "…I have changed my mind. I shall depart…"
+        },
+        {
+            "name": "Orfevre",
+            "text": "Hm?",
+            "choice_data_list": [
+                "(She looked over here…!?)"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "…Buena Vista."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hello, Orfe!",
+            "color_text_info_list": [
+                "Orfe"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I'm a little late, but… congratulations on winning your second crown!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "In the Japan Derby, you tore through that awful, rain-soaked track with such incredible speed… It was amazing!"
+        },
+        {
+            "name": "Orfevre",
+            "text": "……Yes."
+        },
+        {
+            "name": "Orfevre",
+            "text": "My finishing kick is superior to yours.",
+            "choice_data_list": [
+                "(She's saying that to her face…!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After Nakayama Festa, and now Orfevre… It seems Buena Vista has a habit of attracting girls with some pretty unique personalities."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're right… I'd love to test that someday! A finishing showdown between me and Orfe♪",
+            "choice_data_list": [
+                "(It really is something that Buena never backs down…)"
+            ]
+        },
+        {
+            "name": "Orfevre",
+            "text": "…Hm. Then swiftly arrange a proper venue."
+        },
+        {
+            "name": "Orfevre",
+            "text": "Your era is already coming to an end."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Orfevre",
+            "text": "…The dawn of the golden age is nigh."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The next era, huh.",
+            "choice_data_list": [
+                "…Don't let it get to you, Buena.",
+                "…Don't let it get to you, Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hm?",
+            "choice_data_list": [
+                "There's no doubt you're the strongest active racer out there.",
+                "There's no doubt you're the strongest active racer out there."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The strongest active racer…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Hehe, that makes me blush. I hope I really am."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…All right! Let's give it our all at summer training camp again this year!",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "(Hehe… the strongest active racer, huh)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…You've really believed in me this whole time, haven't you?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That's why, all this time, I've also…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "……………"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But… things can't stay the same forever."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I have to reach it. Before the era changes…"
+        }
+    ]
+}

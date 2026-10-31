@@ -1,0 +1,214 @@
+{
+    "title": "Before the Hanshin J.F.",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Preparations for the Hanshin Juvenile Fillies\nwent smoothly."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day before the race.\nBy around noon, we had arrived at a hotel\nnot far from Hanshin Racecourse."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow, there's a hotel way up here in the\nmountains…!",
+            "choice_data_list": [
+                "The view's amazing from the rooms.",
+                "The view's amazing from the rooms."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Really? Hehe, I wonder if you can see the\nracecourse from there.",
+            "choice_data_list": [
+                "(That's a relief… she seems happy.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "With such a big race ahead, I just wanted to\nlift her spirits, even a little, but that wasn't\nthe case…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The view from the window changes\ncompletely between night and morning…\nIt was so beautiful, and I was really moved!",
+            "choice_data_list": [
+                "Feeling ready for the race now?",
+                "Feeling ready for the race now?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Of course! My first G1 race, I'm going to give\nit everything I've got!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oh, the elevator's here. Shall we?"
+        },
+        {
+            "name": "Monologue",
+            "text": "(Whiiirrrr……\n——Clunk!!)"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eep!?\n…Did it just stop…?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ah—!\nEven the lights…!",
+            "choice_data_list": [
+                "Let's contact the hotel staff."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "When I asked, it seemed they still didn't know\nwhat caused the elevator to stop. We had no\nchoice but to wait."
+        },
+        {
+            "name": "Monologue",
+            "text": "In the end, we were trapped inside for over\nan hour before being freed. But, as luck would\nhave it…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eh!?\nThe car can't come…?",
+            "choice_data_list": [
+                "Looks like they're all out…"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "What should we do…?\nWill we make it in time…?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Should I run?\nIf I sprint down the mountain at full speed…!",
+            "choice_data_list": [
+                "That's dangerous, I won't let you do it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I know, but… if there's no other way,\nI can do it. So—",
+            "choice_data_list": [
+                "Buena, it's okay. Leave it to me!",
+                "Buena, it's okay. Leave it to me!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Monologue",
+            "text": "There are two things I need to solve: getting\nBuena Vista there on time, and helping her\ncalm down."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "<i>…Phew …Phew…</i>",
+            "choice_data_list": [
+                "(She's anxious…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Her lips purse slightly, her breathing turns\nshallow. It's a small gesture, but—"
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"…The race is starting… soon…\""
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"<i>…Phew… phew…</i>\""
+        },
+        {
+            "name": "Monologue",
+            "text": "It's something I've seen since she was little,\na habit she shows without thinking whenever\nshe feels uneasy."
+        },
+        {
+            "name": "Monologue",
+            "text": "Being trapped in that dark elevator must've\nshaken her more than she lets on. At this rate,\nshe won't be able to perform at her best…",
+            "choice_data_list": [
+                "(How do I solve both at once…?)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Then it hit me.\nIt's a gamble, but if it works…",
+            "choice_data_list": [
+                "Buena, let's take the cable car!"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Haaah…!\nWe made it in time!",
+            "choice_data_list": [
+                "We got lucky…!",
+                "We got lucky…!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There was a cable car near the hotel, and we\nmanaged to catch it just as it was about to\ndepart. On top of that…"
+        },
+        {
+            "name": "Monologue",
+            "text": "A taxi the hotel called for us was waiting at\nthe station below, and we made it just before\nthe meeting time."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "But wow, I'm impressed you thought of that!\nA cable car, of all things.",
+            "choice_data_list": [
+                "I looked it up, thinking you might like it.",
+                "I looked it up, thinking you might like it."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Huh?",
+            "choice_data_list": [
+                "The view was beautiful, wasn't it?",
+                "The view was beautiful, wasn't it?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"…We made it on, but…\nDo you think we'll make it in time…?\"",
+            "choice_data_list": [
+                "\"…Hey, Buena. Look up.\"",
+                "\"…Hey, Buena. Look up.\""
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "\"Huh? ………Whoa…! There's still snow…\nIt's so dreamy… so beautiful…\""
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…I see.\nBecause you were prepared…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Because you did so much for me, I'm able to\nstand here and race.",
+            "choice_data_list": [
+                "It was just luck."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Then that's luck you brought to me!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…From here on, it's my turn to bring home\nthe win."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Don't worry. Leave it to me. I'll make it count,\nfor everything you've done."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Just like always, keep believing in me.\nIf you do… I know I can become stronger,\nno matter how far I go."
+        }
+    ]
+}

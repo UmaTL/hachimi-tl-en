@@ -1,0 +1,59 @@
+{
+  "windows": {
+    "bundle_name": "424BGVKWPUTFAN6L4NBQN6HPX5EK56ZO"
+  },
+  "data": {
+    "block_data": {
+      "42": {
+        "dataset": {
+          "0": {
+            "info": {
+              "0": {
+                "text": "This leads to <username>'s growth!"
+              },
+              "1": {
+                "text": "\n(…or so it felt)"
+              }
+            }
+          },
+          "1": {
+            "info": {
+              "0": {
+                "text": "<username>'s intelligence has increased!",
+                "anim_text": "INT UP!"
+              },
+              "1": {
+                "text": "\n(…probably)"
+              }
+            }
+          }
+        }
+      },
+      "45": {
+        "dataset": {
+          "0": {
+            "info": {
+              "0": {
+                "text": "This leads to <username>'s growth!"
+              },
+              "1": {
+                "text": "\n(…or so it felt)"
+              }
+            }
+          },
+          "1": {
+            "info": {
+              "0": {
+                "text": "<username>'s strength has increased!",
+                "anim_text": "STR UP!"
+              },
+              "1": {
+                "text": "\n(…probably)" 
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

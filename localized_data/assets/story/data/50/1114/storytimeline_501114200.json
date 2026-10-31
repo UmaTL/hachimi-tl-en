@@ -1,0 +1,241 @@
+{
+    "title": "Before Debut",
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "At last, the day of her Make Debut has arrived.\nFor most horsegirls, a first race like this\nwould be nerve-wracking, but Buena Vista\nwas…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Wow…!\nLook at the ceiling!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "The stained glass at Kyoto Racecourse,\nno matter how many times I see it…\nit's still so beautiful."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "To be able to start the beginning of this\njourney in a place like this… that makes\nme really happy."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Right, Trainer?!",
+            "choice_data_list": [
+                "Yeah…",
+                "Yeah…"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Filled with hope, she smiles with quiet\nconfidence. I try to steady myself the same\nway…",
+            "choice_data_list": [
+                "(…No good. I'm nervous!)"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Huh?\nAll of a sudden…",
+            "choice_data_list": [
+                "Something wrong?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "My hands, are kind of shaking…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Ahaha…\nMaybe the nerves are finally catching up\nto me.",
+            "choice_data_list": [
+                "…No, I don't think it's you.",
+                "…No, I don't think it's you."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Buena Vista is deeply sensitive. She easily\nresonates with the atmosphere and the\nemotions of those around her. Which means…\nshe probably picked it up from me.",
+            "choice_data_list": [
+                "Sorry, I'm the one who's nervous.",
+                "Sorry, I'm the one who's nervous."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Eh…\nReally?",
+            "choice_data_list": [
+                "You remember your rivals for today, right?",
+                "You remember your rivals for today, right?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Of course!\nAll the girls who were featured in that same\nmagazine, right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "That \"Horsegirls to Watch This Year\"\nfeature Special Week brought us before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Alongside Buena Vista, there were several\nothers highlighted before their debut…"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unicarize, At the Crest,\nSansha Sangyo, and Shindou Runrun.\nThose four.",
+            "choice_data_list": [
+                "Right. They're your rivals today.",
+                "Right. They're your rivals today."
+            ],
+            "color_text_info_list": [
+                "Unicarize",
+                "At the Crest",
+                "Sansha Sangyo",
+                "Shindou Runrun"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "They're all strong, aren't they.\n…Oh, is that why you're nervous?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Because you're worried about whether\nI can win…?",
+            "choice_data_list": [
+                "No. That's not what I'm worried about."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Several top horsegirls, including Buena Vista,\nwere all set to debut in the same race.\nAnd as a result…"
+        },
+        {
+            "name": "Race Fan A",
+            "text": "Whoa, this race is stacked!\nEvery single one of them feels like a main\ncharacter…!"
+        },
+        {
+            "name": "Race Fan B",
+            "text": "Whoever wins this is basically jumping\nstraight to the top of their generation…\nAhh, I can't wait to get to the track!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Kyoto Racecourse is packed with\npassionate fans, and the media's all over it.\nThinking about making a debut in this kind\nof atmosphere…",
+            "choice_data_list": [
+                "I can't help but tense up."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "I see…"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You can really feel it,\nAll those expectations."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Alright!\nLet's have a staring contest!",
+            "choice_data_list": [
+                "…Eh?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Come on, don't you remember?\nBack when I ran in that kids' race…"
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"Uuugh… I'm so nervous.\nDo you think I'll run okay…?\""
+        },
+        {
+            "name": "Big Brother",
+            "text": "\"…Buena, let's do a staring contest!\nCome on… Buuu～! Uuuu,  uuu—!\""
+        },
+        {
+            "name": "Big Sister",
+            "text": "\"…Buena, let's do a staring contest!\nCome on… Buuu～! Uuuu,  uuu—!\""
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"…Ahaha!\nBig brother, your face is very funny～!\"",
+            "choice_data_list": [
+                "…Did that really happen?"
+            ]
+        },
+        {
+            "name": "Young Buena",
+            "text": "\"…Ahaha!\nBig brother, your face is very funny～!\"",
+            "choice_data_list": [
+                "…Did that really happen?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "That really helped me calm down, you know?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "So…\nHere we go!",
+            "choice_data_list": [
+                "Eh!? W-Wait—"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Let's have a staring contest!\nReady… go!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Puu～!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…How was that?",
+            "choice_data_list": [
+                "……Ahaha."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…!\nHehe."
+        },
+        {
+            "name": "Buena Vista",
+            "text": "See, that was a pretty funny face, right?\nI can do it too, you know."
+        },
+        {
+            "name": "Monologue",
+            "text": "In truth, it wasn't much of a funny face at\nall. But the way she looked so proud of it\nmade me laugh. And just like that, the\ntension melted away.",
+            "choice_data_list": [
+                "Thanks, Buena."
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "You're welcome!\nIt's your Make Debut too, after all. Let's\nenjoy it, okay?"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "…Yeah, that's right.\nIt's a special day, so I want to start it\nfeeling a little more excited.",
+            "choice_data_list": [
+                "…How about jumping into the racetrack?"
+            ]
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Oh!\nThat actually sounds like a lot of fun!"
+        },
+        {
+            "name": "Buena Vista",
+            "text": "Well, let's try it!\nReady… go!"
+        }
+    ]
+}
