@@ -1,0 +1,199 @@
+{
+    "title": "Gazing Quietly at the Lavender",
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Early one morning, while making my way to the Trainer's office, \nI came across Curren Bouquetd'or holding a small pouch and murmuring softly to herself."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Mmh—the moisture is completely gone. \nNow all that's left is——",
+            "choice_data_list": [
+                "<size=38>Good morning, Bouquet. What are you up to?</size>",
+                "<size=38>Good morning, Bouquet. What are you up to?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Ah — good morning. \nWith these dried flowers — I was thinking of making some potpourri."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "It's like a natural room fragrance made from flowers — and it smells simply wonderful. All that's left is to add a few drops of oil, put them in a jar, and it's finished.",
+            "choice_data_list": [
+                "<size=35>The scent of flowers, huh. It's so calming, I love it</size>",
+                "<size=35>The scent of flowers, huh. It's so calming, I love it</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Oh… In that case, have you visited the academy's flowerbeds recently? There are so many flowers in full bloom right now — and they have such a lovely scent.",
+            "choice_data_list": [
+                "Is that so? Now you've got me curious"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "…If you'd like — would you care to come with me right now? \nI was actually — just heading over to tend to the flowers myself."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "This planter over here is jasmine. They're in full bloom right now — and are best known for their sweet fragrance.",
+            "choice_data_list": [
+                "You're right, it smells so good…"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe — it's a very calming scent, isn't it? It's actually quite popular for aromatherapy and perfumes, too."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Tulips are so vibrant and eye-catching — which is why they're often used in floral arrangements.",
+            "choice_data_list": [
+                "They're all so beautiful… I could look at them forever",
+                "They're all so beautiful… I could look at them forever"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hehe — thank you. Looking at these little flowers always warms my heart, too."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I truly believe flowers — have the power to heal our hearts. Whether in their blooming forms — or bundled into bouquets and potpourri."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "If through these little creations — I can bring even a little brightness to everyone's hearts — I would be so happy.",
+            "choice_data_list": [
+                "<size=36>(Everyone's hearts, huh… That sounds exactly like Bouquet)</size>",
+                "<size=36>(Everyone's hearts, huh… That sounds exactly like Bouquet)</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…These flowers must be filled with her gentle, caring nature. Looking around the garden once more—",
+            "choice_data_list": [
+                "Oh… Are these new sprouts?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Inside a sunlit planter — several tiny sprouts were peeking their little faces out of the soil."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Those are — dahlias. The bulbs I planted a while back — finally sprouted just the other day.",
+            "choice_data_list": [
+                "I see. I hope they bloom beautifully",
+                "I see. I hope they bloom beautifully"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Thank you, so much. They're a birthday present for my mother — so I'm really looking forward to seeing them bloom."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "They won't bloom until autumn, so it'll still take some time — but I'm sure they'll make a beautiful bouquet.",
+            "choice_data_list": [
+                "Autumn, huh… Of course, but that's still quite a ways off",
+                "Autumn, huh… Of course, but that's still quite a ways off"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Yes — but watching over them as they grow day by day is so rewarding. Giving them water, pulling out the weeds…"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "And besides — waiting is simply preparation for the joy to come.",
+            "choice_data_list": [
+                "——!"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Sprouts emerge, buds form, and eventually, flowers bloom. Nurturing flowers — is a continuous cycle of waiting."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But — because we spent all that time caring for them and waiting, the joy we feel when they finally bloom is so much greater."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "And on top of that — imagining the smile of the person who kindly receives them… that's the true joy of the time spent waiting."
+        },
+        {
+            "name": "Monologue",
+            "text": "She must be used to the waiting involved in nurturing flowers. Even so, wouldn't it be difficult to keep caring for them for so long?",
+            "choice_data_list": [
+                "<size=34>If you'd like… could I help you care for the flowers?</size>"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Eh…?",
+            "choice_data_list": [
+                "I'm just a beginner, but I thought maybe there was something I could do to help"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "—Thank you so much. \nYour kindness — makes me very happy."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "But — that's quite alright. I love caring for the flowers, so just the thought alone is more than enough — ah."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Um, if you'd like — would you please come visit here again? \nI think these little flowers, too… would be so happy if someone else came to look at them.",
+            "choice_data_list": [
+                "I see… Alright, then! I'll come by again"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "…Insisting on helping would probably just get in her way. After spending a little more time looking at the flowers with her, I made my way back to work."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later… Suddenly feeling the urge to see the flowers, I made my way back to the flowerbeds once more. And there—"
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "The soil is — mmh, it's not dry yet. It doesn't look like they need watering—",
+            "choice_data_list": [
+                "(Ah… It's Bouquet)"
+            ]
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "Hello there… little dahlias. I'm so glad to see — you're sprouting so nicely."
+        },
+        {
+            "name": "Curren Bouquetd'or",
+            "text": "I hope you bloom into beautiful flowers. \nLet's work hard together to make that happen, okay?",
+            "choice_data_list": [
+                "(…Just as I thought…)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She is earnestly waiting for the flowers, watching over them with a gentle affection stronger than anyone else's."
+        },
+        {
+            "name": "Monologue",
+            "text": "And that is exactly why — I felt a beginner like me shouldn't needlessly intrude while she cares for the flowers.",
+            "choice_data_list": [
+                "(I'll just quietly watch over her)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Even if I can't help her directly, there must still be something I can do. With that in mind, I watched from afar as she lovingly gazed at the flowers."
+        }
+    ]
+}
