@@ -40328,6 +40328,9 @@
         "3103001": "Ramen Scenario",
         "3103002": "Ramen Scenario",
         "3103003": "Ramen Scenario",
+        "3103101": "Festival Scenario",
+        "3103102": "Festival Scenario",
+        "3103103": "Festival Scenario",
         "4000101": "Carnival Bonus",
         "4000102": "Carnival Bonus",
         "4000103": "Carnival Bonus",
@@ -44763,6 +44766,9 @@
         "3103001": "Increases Power & Guts",
         "3103002": "Increases Power & Guts",
         "3103003": "Increases Power & Guts",
+        "3103101": "Increases Stamina & Wit",
+        "3103102": "Increases Stamina & Wit",
+        "3103103": "Increases Stamina & Wit",
         "4000101": "Gain skill: Carnival Bonus Lv{0}. \nDisappears after training.",
         "4000102": "Gain skill: Carnival Bonus Lv{0}. \nDisappears after training.",
         "4000103": "Gain skill: Carnival Bonus Lv{0}. \nDisappears after training.",
@@ -61073,7 +61079,10 @@
         "130003": "Byerley Turk's Training",
         "140001": "Darley Arabian's Training",
         "140002": "Godolphin Barb's Training",
-        "140003": "Byerley Turk's Training"
+        "140003": "Byerley Turk's Training",
+        "150001": "Darley Arabian's Training",
+        "150002": "Godolphin Barb's Training",
+        "150003": "Byerley Turk's Training"
     },
     "391": {
         "10001": "Fairly balanced.",
@@ -61093,7 +61102,10 @@
         "130003": "Stat focus.",
         "140001": "Fairly balanced.",
         "140002": "Skill focus.",
-        "140003": "Stat focus."
+        "140003": "Stat focus.",
+        "150001": "Fairly balanced.",
+        "150002": "Skill focus.",
+        "150003": "Stat focus."
     },
     "392": {
         "10001": "Pause to select manually when \nmultiple commands match.",
