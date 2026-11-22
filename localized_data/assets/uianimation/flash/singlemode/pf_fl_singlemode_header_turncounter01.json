@@ -1,48 +1,72 @@
 {
   "windows": {
-    "bundle_name": "BSTCOVHZWGJCRBPVZMFSUPQUWSYVLWNE"
+    "bundle_name": "WGXUUW34WG22MVLEJG7LVGXZPUVCTFPE"
+  },
+  "android": {
+    "bundle_name": "ERVMGL3KCRWSIIBABMVQLS5H6OVW5GL7"
   },
   "data": {
     "motion_parameter_list": {
       "4": {
         "text_param_list": {
           "0": {
-            "text": "Target"
+            "text": "Pending"
           }
         }
       },
-      "7": {
+      "5": {
         "text_param_list": {
           "0": {
-            "text": "left"
+            "text": "Today"
           }
         }
       },
       "8": {
         "text_param_list": {
           "0": {
-            "text": "Turns"
+            "text": "left"
           }
         }
       },
-      "14": {
+      "9": {
         "text_param_list": {
           "0": {
-            "text": "End"
+            "text": "Turns"
           }
         }
       },
       "15": {
         "text_param_list": {
           "0": {
+            "text": "End"
+          }
+        }
+      },
+      "16": {
+        "text_param_list": {
+          "0": {
             "text": "after\nturn end"
           }
         }
       },
-      "19": {
+      "17": {
+        "text_param_list": {
+          "0": {
+            "text": "Evaluation\nMeeting"
+          }
+        }
+      },
+      "20": {
         "text_param_list": {
           "0": {
             "text": "turn(s)"
+          }
+        }
+      },
+      "21": {
+        "text_param_list": {
+          "0": {
+            "text": "Meeting in"
           }
         }
       }
