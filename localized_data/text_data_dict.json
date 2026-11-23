@@ -2524,6 +2524,8 @@
         "30471": "Increased rates for selected SSR supports!",
         "30474": "Exclusively ★3s from the 8 featured!",
         "30477": "Increased rates for selected SSR supports!",
+        "30480": "Exclusively ★3s from the 8 featured!",
+        "30485": "Increased rates for selected SSR supports!",
         "50001": "Once only! Exclusive paid jewels gacha.",
         "50002": "Once only! Exclusive paid jewels gacha.",
         "50003": "Once only! Exclusive paid jewels gacha.",
@@ -2718,8 +2720,6 @@
         "50244": "Exclusively SSRs from the 10 featured!",
         "50246": "Exclusively ★3s from the 9 featured!",
         "50247": "Exclusively SSRs from the 6 featured!",
-        "30480": "Exclusively ★3s from the 8 featured!",
-        "30485": "Increased rates for selected SSR supports!",
         "50249": "Exclusively ★3s from the 10 featured!",
         "50250": "Exclusively SSRs from the 8 featured!",
         "50251": "Exclusively SSRs from the 8 featured!"
@@ -3671,8 +3671,8 @@
         "904901": "Tucker Bryne's Outfit",
         "905001": "Hoshina Kiyoko's Outfit",
         "905101": "Yunohana Bloom's Outfit",
-        "911007": "Gold Ship's Special Outfit",
-        "905201": "Azuma's Outfit"
+        "905201": "Azuma's Outfit",
+        "911007": "Gold Ship's Special Outfit"
     },
     "16": {
         "1001": "Umapyoi Densetsu",
@@ -10822,6 +10822,8 @@
         "670030": "Extra Stage",
         "670031": "Main Stage",
         "670032": "Extra Stage",
+        "670033": "Main Stage",
+        "670034": "Extra Stage",
         "680001": "Arima Kinen Level 1",
         "680002": "Arima Kinen Level 1",
         "680003": "Arima Kinen Level 1",
@@ -12198,8 +12200,6 @@
         "1204402": "Teio Sho (HARD)",
         "1204501": "Sprinters S (HARD)",
         "1204502": "Sprinters S (HARD)",
-        "670033": "Main Stage",
-        "670034": "Extra Stage",
         "1204801": "Japan C (HARD)",
         "1204802": "Japan C (HARD)"
     },
@@ -13795,6 +13795,7 @@
         "12046": "Sprinters S",
         "12047": "Swan Stakes",
         "12048": "Queen Elizabeth Cup",
+        "12049": "Japan Cup",
         "13001": "League of Heroes Main Stage",
         "13002": "League of Heroes Extra Stage",
         "13003": "League of Heroes Main Stage",
@@ -13827,6 +13828,8 @@
         "13030": "League of Heroes Extra Stage",
         "13031": "League of Heroes Main Stage",
         "13032": "League of Heroes Extra Stage",
+        "13033": "League of Heroes Main Stage",
+        "13034": "League of Heroes Extra Stage",
         "14001": "Grow Up Race",
         "14002": "Grow Up Race",
         "14003": "Grow Up Race",
@@ -14818,10 +14821,7 @@
         "27385": "Trainer's Cup",
         "27386": "Trainer's Cup",
         "27387": "Trainer's Cup",
-        "27388": "Trainer's Cup",
-        "12049": "Japan Cup",
-        "13033": "League of Heroes Main Stage",
-        "13034": "League of Heroes Extra Stage"
+        "27388": "Trainer's Cup"
     },
     "33": {
         "1001": "February Stakes",
