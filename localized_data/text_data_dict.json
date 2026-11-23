@@ -2717,7 +2717,12 @@
         "50243": "Exclusively SSRs from the 10 featured!",
         "50244": "Exclusively SSRs from the 10 featured!",
         "50246": "Exclusively ★3s from the 9 featured!",
-        "50247": "Exclusively SSRs from the 6 featured!"
+        "50247": "Exclusively SSRs from the 6 featured!",
+        "30480": "Exclusively ★3s from the 8 featured!",
+        "30485": "Increased rates for selected SSR supports!",
+        "50249": "Exclusively ★3s from the 10 featured!",
+        "50250": "Exclusively SSRs from the 8 featured!",
+        "50251": "Exclusively SSRs from the 8 featured!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -3141,7 +3146,8 @@
         "904801": "Haiseiko's Outfit",
         "904901": "Tucker Bryne's Outfit",
         "905001": "Hoshina Kiyoko's Outfit",
-        "905101": "Yunohana Bloom's Outfit"
+        "905101": "Yunohana Bloom's Outfit",
+        "905201": "Azuma's Outfit"
     },
     "15": {
         "1": "Gym clothes with front & rear race bib.",
@@ -3665,7 +3671,8 @@
         "904901": "Tucker Bryne's Outfit",
         "905001": "Hoshina Kiyoko's Outfit",
         "905101": "Yunohana Bloom's Outfit",
-        "911007": "Gold Ship's Special Outfit"
+        "911007": "Gold Ship's Special Outfit",
+        "905201": "Azuma's Outfit"
     },
     "16": {
         "1001": "Umapyoi Densetsu",
@@ -9008,7 +9015,9 @@
         "1204601": "Swan Stakes (HARD)",
         "1204602": "Swan Stakes (HARD)",
         "1204701": "Queen Elizabeth Cup (HARD)",
-        "1204702": "Queen Elizabeth Cup (HARD)"
+        "1204702": "Queen Elizabeth Cup (HARD)",
+        "1204801": "Japan Cup (HARD)",
+        "1204802": "Japan Cup (HARD)"
     },
     "29": {
         "100101": "February S",
@@ -12188,7 +12197,11 @@
         "1204401": "Teio Sho (HARD)",
         "1204402": "Teio Sho (HARD)",
         "1204501": "Sprinters S (HARD)",
-        "1204502": "Sprinters S (HARD)"
+        "1204502": "Sprinters S (HARD)",
+        "670033": "Main Stage",
+        "670034": "Extra Stage",
+        "1204801": "Japan C (HARD)",
+        "1204802": "Japan C (HARD)"
     },
     "31": {
         "10001": "Sapporo RC",
@@ -14805,7 +14818,10 @@
         "27385": "Trainer's Cup",
         "27386": "Trainer's Cup",
         "27387": "Trainer's Cup",
-        "27388": "Trainer's Cup"
+        "27388": "Trainer's Cup",
+        "12049": "Japan Cup",
+        "13033": "League of Heroes Main Stage",
+        "13034": "League of Heroes Extra Stage"
     },
     "33": {
         "1001": "February Stakes",
@@ -34360,7 +34376,7 @@
         "20094": "[Our Idea Notebook] Satono Diamond",
         "20095": "[Fervent Yearning] Red Desire",
         "20096": "[Sushi-Go-Round!] Taiki Shuttle",
-        "20100": "[Momentary Light] Calstone Light O",
+        "20100": "[Lightflash] Calstone Light O",
         "30001": "[Japan's Number 1 Stage] Special Week",
         "30002": "[Beyond the Brilliant Scenery] Silence Suzuka",
         "30003": "[Let Your Dreams Be Known!] Tokai Teio",
@@ -34377,7 +34393,7 @@
         "30014": "[Run(my)way] Gold City",
         "30015": "[Fast! Delicious! Fast!] Sakura Bakushin O",
         "30016": "[A Grain of Peace] Super Creek",
-        "30017": "[This Is My 'Umadol' Way ☆] Smart Falcon",
+        "30017": "[This Is My 'Umadol' Way☆] Smart Falcon",
         "30018": "[Even as a Tiny Bud] Nishino Flower",
         "30019": "[Urara～n Holiday] Haru Urara",
         "30020": "[Special Move! W Carrot Punch!] Biko Pegasus",
@@ -34615,7 +34631,7 @@
         "30257": "[Are Your Instincts Awakening!?] Tucker Bryne",
         "30258": "[Eyes Aflame and a Heart Craving Victory] Mejiro Ryan",
         "30259": "[Undisputed ☆ Prodigy Legend] Fusaichi Pandora",
-        "30260": "[Grayish Party ☆] Mejiro McQueen",
+        "30260": "[Grayish Party☆] Mejiro McQueen",
         "30261": "[Principal Water Dancer] Win Variation",
         "30262": "[Tranquillo] Duramente",
         "30263": "[Wonderful Smile Time♪] Vivlos",
@@ -34636,7 +34652,8 @@
         "30292": "[Two Sing of Victory] Marche Lorraine",
         "30305": "[A Bowlful of Nostalgia] Hayakawa Tazuna",
         "30311": "[As if Guided] Efforia",
-        "30313": "[Endless Game] Rulership"
+        "30313": "[Endless Game] Rulership",
+        "30322": "[Time of Departure] Mayano Top Gun"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -34877,7 +34894,7 @@
         "20090": "[Impawcable Hero]",
         "20091": "[Brewing Silence]",
         "20094": "[Our Idea Notebook]",
-        "20100": "[Momentary Light]",
+        "20100": "[Lightflash]",
         "30001": "[Japan's Number 1 Stage]",
         "30002": "[Beyond the Brilliant Scenery]",
         "30003": "[Let Your Dreams Be Known!]",
@@ -34894,7 +34911,7 @@
         "30014": "[Run(my)way]",
         "30015": "[Fast! Delicious! Fast!]",
         "30016": "[A Grain of Peace]",
-        "30017": "[This Is My 'Umadol' Way ☆]",
+        "30017": "[This Is My 'Umadol' Way☆]",
         "30018": "[Even as a Tiny Bud]",
         "30019": "[Urara～n Holiday]",
         "30020": "[Special Move! W Carrot Punch!]",
@@ -35126,7 +35143,7 @@
         "30257": "[Are Your Instincts Awakening!?]",
         "30258": "[Eyes Aflame and a Heart Craving Victory]",
         "30259": "[Undisputed ☆ Prodigy Legend]",
-        "30260": "[Grayish Party ☆]",
+        "30260": "[Grayish Party☆]",
         "30261": "[Principal Water Dancer]",
         "30263": "[Wonderful Smile Time♪]",
         "30264": "[Whimsical Luminous Sky Wanderer]",
@@ -41876,7 +41893,7 @@
         "30258": "Eyes Aflame and a Heart Craving Victory",
         "30259": "Undisputed ☆ Prodigy Legend",
         "30260": "Grayish Party☆",
-        "30261": "The Waves' Principal Dancer",
+        "30261": "Principal Water Dancer",
         "30263": "Wonderful Smile Time♪",
         "30264": "Whimsical Luminous Sky Wanderer",
         "30265": "Tranquil Realm of Frozen Crystals",
@@ -41884,7 +41901,7 @@
         "30267": "Catstone Light O",
         "30268": "This Eve I Dedicate To You, My Lord",
         "30269": "Today Was Fun",
-        "30271": "With Magic, From Stage",
+        "30271": "With Magic, From the Stage",
         "30274": "Resolute Flora",
         "30292": "Two Sing of Victory",
         "30305": "A Bowlful of Nostalgia"
